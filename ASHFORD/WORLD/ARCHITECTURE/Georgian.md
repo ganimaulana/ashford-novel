@@ -148,9 +148,9 @@ Georgian harus terasa:
 
 ---
 
-## Kondisi Modern (2006)
+## Kondisi Modern (1816)
 
-**Georgian buildings pada 2006:**
+**Georgian buildings pada 1816:**
 - Often well-maintained (karena nilai historis)
 - Mungkin listed buildings
 - Original features sering preserved

@@ -55,19 +55,15 @@ Districts TIDAK memiliki boundaries resmi - ini adalah understanding lokal.
 
 ### STATION QUARTER
 
-**Location:** Valley floor, near railway  
+**Location:** Valley floor  
 **Elevation:** Low (20-30m)  
 **Character:** Transport hub dengan Victorian development
 
 **Key Features:**
-- Ashford Railway Station
 - Station approach roads
 - Hotels near station
-- Taxi ranks, bus stops
 - Some Victorian terraces
 - Commercial buildings
-- Car parks
-- Railway infrastructure
 
 **Atmosphere:**
 - Transit area - people passing through
@@ -75,7 +71,6 @@ Districts TIDAK memiliki boundaries resmi - ini adalah understanding lokal.
 - Mix of travelers dan locals
 - Some areas feel transient
 - Station concourse atmosphere
-- Kabut dari railway cutting
 
 **Age:** Mid-Victorian (1840s onwards)
 
@@ -187,7 +182,7 @@ Districts TIDAK memiliki boundaries resmi - ini adalah understanding lokal.
 - Corner shops
 - Workers\' cottages style
 - Some light industry historically
-- Railway proximity
+- [Detail: BELUM DITETAPKAN]
 
 **Atmosphere:**
 - Working-class character
@@ -275,7 +270,6 @@ Districts TIDAK memiliki boundaries resmi - ini adalah understanding lokal.
 **Key Features:**
 - Old warehouses
 - Former mills
-- Railway sidings (disused)
 - Brick buildings
 - Cobbled yards
 - Canal remnants
@@ -441,7 +435,6 @@ Districts TIDAK memiliki boundaries resmi - ini adalah understanding lokal.
 
 - Roads follow valley then climb slopes
 - River creates north-south division
-- Railway creates east-west barrier in places
 - Height differences create distinct zones
 - Footpaths connect across districts
 

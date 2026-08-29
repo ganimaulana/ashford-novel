@@ -1,8 +1,8 @@
-# Daily Life - Kehidupan Sehari-hari di Ashford (2006)
+# Daily Life - Kehidupan Sehari-hari di Ashford (1816)
 
 ## Status Dokumen
 
-**Tujuan:** Dokumentasi kehidupan sehari-hari penduduk Ashford tahun 2006  
+**Tujuan:** Dokumentasi kehidupan sehari-hari penduduk Ashford tahun 1816  
 **Status:** Template awal - menunggu informasi dari chapter  
 **Terakhir diupdate:** [BELUM DITETAPKAN]
 
@@ -16,14 +16,14 @@ Ashford adalah kota yang **hidup**. Kehidupan sehari-hari harus terasa **natural
 - Kota tidak boleh terasa mati atau terlalu sepi
 - Ada orang lain selain tokoh utama
 - Kehidupan tetap berjalan meski ada mystery
-- Rutinitas dan aktivitas harus konsisten dengan kota kecil Inggris tahun 2006
+- Rutinitas dan aktivitas harus konsisten dengan kota kecil Inggris tahun 1816
 
 ---
 
 ## Ritme Harian
 
 ### Pagi (06:00 - 09:00)
-**Aktivitas:** Orang berangkat kerja, anak-anak ke sekolah, mahasiswa ke kampus, kafe/toko mulai buka, bus dan kereta ramai  
+**Aktivitas:** Orang berangkat kerja, anak-anak ke sekolah, mahasiswa ke kampus, kafe/toko mulai buka, kereta kuda dan jalan kaki ramai  
 **Detail:** [BELUM DITETAPKAN dari chapter]
 
 ### Siang (09:00 - 17:00)
@@ -136,7 +136,7 @@ Ashford adalah kota yang **hidup**. Kehidupan sehari-hari harus terasa **natural
 
 ## Cuaca dan Pengaruhnya
 
-**Cuaca khas Inggris 2006:** Sering mendung, sering gerimis, angin
+**Cuaca khas Inggris 1816:** Sering mendung, sering gerimis, angin
 
 **Pengaruh:** Orang membawa payung/jaket, aktivitas outdoor terbatas, kafe lebih ramai saat hujan
 

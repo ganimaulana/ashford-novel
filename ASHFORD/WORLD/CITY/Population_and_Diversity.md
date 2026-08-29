@@ -15,7 +15,7 @@
 - JANGAN membuat keberagaman terasa seperti checklist demografis
 - JANGAN membuat exposition panjang tentang demografi
 - Keberagaman harus muncul **secara natural** melalui kehidupan sehari-hari
-- Keberagaman adalah **bagian normal** dari kota Inggris tahun 2006
+- Keberagaman adalah **bagian normal** dari kota Inggris tahun 1816
 
 ---
 
@@ -63,7 +63,7 @@
 
 ### Prinsip
 
-Inggris tahun 2006 adalah negara yang cukup beragam, terutama di kota dengan universitas.
+Inggris tahun 1816 adalah negara dengan keragaman sosial yang nyata, terutama di kota dengan akademi.
 
 **PENTING:**
 - JANGAN membuat semua karakter white British

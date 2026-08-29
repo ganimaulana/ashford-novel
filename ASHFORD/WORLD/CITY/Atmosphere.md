@@ -106,7 +106,7 @@ Ashford harus terasa:
 
 ## Cuaca dan Musim
 
-### Cuaca Inggris (2006)
+### Cuaca Inggris
 
 **Umum:**
 - Sering mendung

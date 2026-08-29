@@ -84,11 +84,10 @@
 - **Cerobong asap tinggi** (chimneys untuk steam engines)
 - **Functional design** - tidak dekoratif
 - Large open spaces untuk mesin dan produksi
-- Loading bays dan railway sidings
+- Loading bays
 
 **Yang ada di Ashford:**
 - Pabrik dan gudang di Old Industrial District [kemungkinan]
-- Railway buildings dan gudang [kemungkinan]
 - [Detail spesifik: BELUM DITETAPKAN]
 
 ---
@@ -184,7 +183,7 @@
 
 ---
 
-## Kondisi Modern (2006)
+## Kondisi Modern (1816)
 
 ### Bangunan Terawat
 
@@ -223,7 +222,7 @@
 
 ### Renovasi dan Perubahan
 
-**Modifikasi umum pada bangunan Victorian (hingga 2006):**
+**Modifikasi umum pada bangunan Victorian (hingga 1816):**
 
 **Jendela:**
 - Original sash windows diganti dengan **PVC double glazing**

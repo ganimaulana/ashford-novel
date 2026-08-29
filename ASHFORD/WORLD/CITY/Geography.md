@@ -191,14 +191,15 @@ Ashford memiliki struktur kota yang berkembang dari berbagai periode:
 ### Transportasi Publik
 
 **Yang ada:**
-- Kereta (ada stasiun) [CANON]
-- Bus [ASUMSI KERJA - standar untuk kota Inggris]
+- Jalan kaki [CANON]
+- Stagecoach / diligence [CANON]
+- Kereta kuda (carriage) [CANON]
 - [Detail: BELUM DITETAPKAN]
 
 ### Transportasi Pribadi
 
-**Tahun 2006:**
-- Mobil, sepeda, jalan kaki
+**Tahun 1816:**
+- Jalan kaki, kuda, kereta kuda
 - [Detail: BELUM DITETAPKAN]
 
 ---

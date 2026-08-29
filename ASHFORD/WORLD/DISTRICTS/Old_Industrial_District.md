@@ -21,14 +21,12 @@
 **Periode perkembangan:** [BELUM DITETAPKAN]
 
 **Kemungkinan:**
-- Berkembang pada periode Victorian/Edwardian
-- Industri berkembang bersamaan dengan railway
-- Menurun pada akhir abad ke-20
+- Berkembang pada periode awal industri
 - [Detail: BELUM DITETAPKAN]
 
 ---
 
-## Kondisi Saat Ini (2006)
+## Kondisi Saat Ini (1816)
 
 **Status:** [BELUM DITETAPKAN]
 
@@ -78,11 +76,10 @@
 - **Large windows** - untuk natural light di workshop
 - **Tall chimneys** - untuk steam engines (beberapa mungkin sudah dibongkar)
 - **Loading bays** - untuk goods
-- **Railway sidings** - tracks menuju factories (mungkin abandoned)
 - **Minimal decoration** - purely functional design
 - **Large open spaces interior** - untuk machinery
 
-### Kondisi (2006)
+### Kondisi (1816)
 
 **Mayoritas terbengkalai atau underused:**
 - **Brickwork weathered** - menghitam dari polusi industri
@@ -172,7 +169,6 @@
 - **Night watchmen** - lonely vigils, possible deaths
 - **Basements** - flooded, dark, forgotten
 - **Chimneys** - atmospheric, some demolished
-- **Railway sidings** - old tracks, abandoned
 - **Loading bays** - dark recesses
 - **Broken windows** - wind sounds, movement
 - **Graffiti-covered walls** - layers of history

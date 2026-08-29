@@ -91,7 +91,7 @@
 - **Front gardens** - setback dari jalan
 - **More spacious** - larger plots
 
-### Kondisi (2006)
+### Kondisi (1816)
 - **Bervariasi widely** - dari immaculate hingga neglected
 - **Renovations common** - PVC windows, extensions, loft conversions
 - **Some original features** - pada houses yang well-maintained

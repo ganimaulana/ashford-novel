@@ -104,7 +104,7 @@ RIVER VALLEY (15-25m) - Thickest fog, dampest, coldest
 
 Kabut TIDAK uniform - berbeda berdasarkan topografi:
 
-- **THICKEST:** Riverside, Old Industrial Quarter, railway cutting
+- **THICKEST:** Riverside, Old Industrial Quarter
 - **HEAVY:** Old Town center, Market Square, Station area
 - **MODERATE:** Bellweather Lane, transitional zones
 - **VARIABLE:** Victorian residential areas, South Ashford
@@ -157,7 +157,7 @@ Each zone has distinct character:
 - Frost occasional
 - Snow rare
 
-**Novel setting:** 2006, autumn/winter - emphasizes darker, foggier atmosphere.
+**Novel setting:** 1816, autumn/winter - emphasizes darker, foggier atmosphere.
 
 ---
 

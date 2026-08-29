@@ -136,9 +136,9 @@
 
 ---
 
-## Kondisi Modern (2006)
+## Kondisi Modern (1816)
 
-**Edwardian houses pada 2006:**
+**Edwardian houses pada 1816:**
 
 ### Well-Maintained
 - Popular dengan families (good size, gardens)

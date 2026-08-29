@@ -59,7 +59,7 @@
 - **Terraces menghadap jalan** - no setback, langsung ke pavement
 - **Rear access lanes** - untuk service/parking (pada beberapa)
 
-**Kondisi (2006):**
+**Kondisi (1816):**
 - **Bervariasi** - dari well-maintained hingga neglected
 - **Beberapa renovated** - PVC windows, modern doors
 - **Beberapa subdivided** - rumah besar jadi flats

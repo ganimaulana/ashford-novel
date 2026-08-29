@@ -56,16 +56,13 @@ Sejarah kota perlahan terungkap melalui:
 
 **Kemungkinan:**
 - Perkembangan pesat
-- Railway datang
 - Industri berkembang
 - **Bellweather House/Estate** ada pada periode ini
-- **Edwin Ashcroft** kemungkinan hidup pada periode ini
 - **Thomas Wren** kemungkinan hidup pada periode ini
-- Banyak bangunan Victorian yang masih ada di 2006
+- Banyak bangunan Georgian yang masih ada di 1816
 
 **Yang diketahui dari brief:**
 - Bellweather House pernah ada secara historis
-- Edwin Ashcroft berkaitan dengan Bellweather House
 - Thomas Wren berkaitan dengan Bellweather Estate
 
 **Detail:** [PERTANYAAN TERBUKA - bagian dari mystery]
@@ -80,7 +77,7 @@ Sejarah kota perlahan terungkap melalui:
 
 ---
 
-### Post-War - Modern (1945-2006)
+### Post-War - Modern
 
 **Status:** [BELUM DITETAPKAN]
 
@@ -98,9 +95,6 @@ Sejarah kota perlahan terungkap melalui:
 ### Yang Berkaitan dengan Mystery
 
 **Bellweather House/Estate:**
-- [PERTANYAAN TERBUKA]
-
-**Edwin Ashcroft:**
 - [PERTANYAAN TERBUKA]
 
 **Thomas Wren:**

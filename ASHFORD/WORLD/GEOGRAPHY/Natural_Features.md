@@ -454,7 +454,7 @@
 **Daylight:** Long days  
 **Character:** Green, active, clearer
 
-**Novel setting (2006 autumn/winter) emphasizes darker, foggier characteristics.**
+**Novel setting (1816 autumn/winter) emphasizes darker, foggier characteristics.**
 
 ---
 

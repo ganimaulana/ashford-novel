@@ -40,14 +40,13 @@ Ashford memiliki **lapisan sejarah arsitektur** dari berbagai periode:
 - Victorian (salah satu periode dominan)
 - Edwardian
 - Victorian industrial
-- Old railway architecture
 - Old civic buildings
 - Old religious buildings
 - Abad ke-20
 - Modern (minority, bukan dominan)
 
 **Contoh lapisan:**
-Medieval remnants → Georgian building → Victorian terrace → Edwardian extension → 20th century renovation → modern elements (2006)
+Medieval remnants → Georgian building → Victorian terrace → Edwardian extension → 20th century renovation → modern elements (1816)
 
 **PENTING:**
 - **JANGAN** membuat seluruh kota bergaya Victorian
@@ -248,7 +247,7 @@ Untuk memahami perbedaan visual antar periode:
 - Post-war development
 - 1960s-1970s buildings
 - 1980s-1990s buildings
-- Modern buildings (1990s-2006)
+- Modern buildings (1990s-2000s)
 
 **Karakteristik:** Bervariasi tergantung dekade
 

@@ -38,7 +38,6 @@ This document places all previously created locations (buildings, districts, lan
 ### Additional Locations Referenced
 
 - High Street (mentioned in documents)
-- Railway Station (mentioned)
 - Parish churches (mentioned)
 - Ashford Grammar School (mentioned)
 - Parks (mentioned)
@@ -163,55 +162,6 @@ This document places all previously created locations (buildings, districts, lan
 
 - Market Square: Intersects or very close
 - Bellweather Lane: Side street off High Street
-- Station: High Street leads toward station
-
----
-
-### Ashford Railway Station
-
-**Status:** Referenced but not yet detailed file
-
-**Geographic Placement:**
-
-- **District:** Station Quarter
-- **Elevation Zone:** Low (20-30m approximate)
-- **Position:** Valley floor, railway follows river valley
-- **Character:** Transport hub, Victorian railway architecture
-
-**Geographic Context:**
-
-- **Position:** Eastern side of town center, valley floor
-- **Surroundings:** Station approach roads, hotels, commercial buildings
-- **Access:** High Street connection, roads, bus stops
-- **Topography:** Low-lying, railway cutting may be lower still
-
-**Atmospheric Characteristics:**
-
-- **Fog behavior:** Thick - railway cutting acts as fog trap, very dense at night
-- **Light:** Station lights, platform lighting, but areas of darkness
-- **Sound:** Train announcements, arrivals/departures, echoing under roof
-- **Wind:** Drafts through platforms, tunnel effects
-- **Temperature:** Cold, especially on platforms, cutting channels cold air
-
-**Key Features:**
-
-- Victorian station building
-- Multiple platforms
-- Railway cutting
-- Station concourse
-- Ticket office
-- Waiting rooms
-- Station approach
-- Car parks
-- Taxi rank
-
-**Paranormal Potential:**
-
-- Transit space (liminal)
-- Passengers who never left
-- Platforms at night
-- Railway cutting (fog, sound effects)
-- Time-related phenomena (schedules, waiting)
 
 ---
 
@@ -275,7 +225,7 @@ This document places all previously created locations (buildings, districts, lan
 **Geographic Context:**
 
 - **Position:** Low-lying near river, old mill sites and warehouses
-- **Surroundings:** Water channels, railway sidings, cobbled yards
+- **Surroundings:** Water channels, cobbled yards
 - **Access:** Roads but some areas cut off, footpaths uncertain
 - **Topography:** Flat, prone to dampness, old drainage
 
@@ -291,7 +241,6 @@ This document places all previously created locations (buildings, districts, lan
 
 - Abandoned warehouses
 - Ruined mills
-- Disused railway sidings
 - Cobbled yards
 - Broken machinery
 - Deep water nearby
@@ -453,7 +402,6 @@ Multiple churches likely, main parish church:
 **Locations:**
 - Riverside Walk/Areas
 - Old Industrial Quarter
-- Parts of Station Quarter (railway cutting)
 - Water meadows
 
 **Characteristics:** Coldest, dampest, thickest fog, most isolated feeling at night

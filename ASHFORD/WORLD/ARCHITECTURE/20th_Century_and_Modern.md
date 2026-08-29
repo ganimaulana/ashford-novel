@@ -11,7 +11,7 @@
 ## Periode
 
 **20th Century:** 1910-2000  
-**Modern (untuk novel):** Hingga 2006
+**Modern (untuk novel):** Hingga 1816
 
 ---
 
@@ -49,7 +49,7 @@
 
 ---
 
-### Modern (1990s-2006)
+### Modern (1990s-2000s)
 
 **Karakteristik:**
 - Varies widely

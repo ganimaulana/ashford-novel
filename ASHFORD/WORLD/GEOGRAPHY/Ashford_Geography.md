@@ -69,10 +69,9 @@ NORTH DOWNS RIDGE (150-180m)
         Residential areas
         Churches
             ↓
-     OLD TOWN CENTER (25-35m)
+OLD TOWN CENTER (25-35m)
         Market Square
         High Street
-        Railway Station
             ↓
     RIVER VALLEY (15-25m)
         Great Stour
@@ -100,7 +99,6 @@ NORTH DOWNS RIDGE (150-180m)
 - Great Stour dan tributaries
 - Historic center di relatively flat ground
 - Old bridges, mills, warehouses
-- Railway line follows valley
 - Prone to kabut (cold air drainage)
 - Dampest areas
 - Some flooding risk historically
@@ -368,7 +366,6 @@ Kabut terjadi dalam kondisi:
 **What you see:**
 - Town laid out below
 - River course visible
-- Railway line
 - Rooftops, streets
 - North Downs beyond
 - Surrounding countryside
@@ -408,11 +405,10 @@ Kabut terjadi dalam kondisi:
 
 ### Transport Connections
 
-- **Railway:** Main line through valley
 - **Roads:** Radial pattern from center
 - **Historic routes:** Follow valley and ridges
 - **Coastal road:** Via Greyhaven
-- **London connection:** Railway (2006 - High Speed 1 under construction)
+- **London connection:** Coach road (stagecoach route)
 
 ---
 

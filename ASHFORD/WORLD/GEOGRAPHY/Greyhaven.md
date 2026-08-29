@@ -14,21 +14,19 @@
 
 Greyhaven berada ~30-40km east/southeast dari Ashford, di English Channel coast.
 
-**Relationship:** Connected to Ashford by road dan railway, but distinct identity.
+**Relationship:** Connected to Ashford by road, but distinct identity.
 
 ---
 
 ## Geographic Location
 
 **Position:** Kent coast, English Channel  
-**Distance dari Ashford:** 30-40 km (30-45 min drive)  
+**Distance dari Ashford:** 30-40 km  
 **Direction dari Ashford:** East/Southeast  
 **Setting:** Coastal, harbour town
 
 **Access dari Ashford:**
-- Road: A-road (~40 min drive)
-- Railway: Branch line or connection (~45 min)
-- Bus: Regular service (1 hour)
+- Road: Coach road / turnpike
 
 ---
 
@@ -59,7 +57,7 @@ Greyhaven berada ~30-40km east/southeast dari Ashford, di English Channel coast.
 **Medieval origins, Victorian development**
 
 - Old harbour medieval/early modern
-- Victorian expansion dengan railway
+- Victorian expansion
 - Some Georgian buildings
 - Post-war additions limited
 - Historic core preserved
@@ -313,15 +311,12 @@ Greyhaven berada ~30-40km east/southeast dari Ashford, di English Channel coast.
 
 - Trading connections
 - Fish supplied to Ashford markets
-- Railway link Victorian era
 - Some families have connections both places
 - Ashford residents visit for seaside
 
-### Current (2006)
+### Current (1816)
 
-- Road connection (~40 min)
-- Bus service
-- Railway connection
+- Road connection
 - Day trip destination dari Ashford
 - Some Greyhaven residents work in Ashford
 - School connections

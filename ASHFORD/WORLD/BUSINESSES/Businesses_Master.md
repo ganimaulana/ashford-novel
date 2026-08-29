@@ -13,7 +13,7 @@
 Ashford memiliki berbagai bisnis yang membuat kota terasa **hidup** dan **realistis**.
 
 **PENTING:**
-- Bisnis harus mencerminkan kota kecil Inggris tahun 2006
+- Bisnis harus mencerminkan kota kecil Inggris tahun 1816
 - Campuran antara bisnis lokal dan chain (jika ada)
 - Bisnis yang melayani penduduk lokal dan mahasiswa
 
@@ -106,13 +106,12 @@ Ashford memiliki berbagai bisnis yang membuat kota terasa **hidup** dan **realis
 
 ---
 
-## Jam Operasional Umum (2006)
+## Jam Operasional Umum (1816)
 
-**Standar UK 2006:**
-- Toko: 9:00-17:30 (Senin-Sabtu), mungkin tutup/jam pendek Minggu
-- Supermarket: Jam lebih panjang
-- Pub: 11:00-23:00 (bervariasi)
-- Kafe: Pagi-sore/sore hari
+**Standar UK 1816:**
+- Toko: buka siang hari, tutup saat gelap
+- Pub: siang hingga malam (bervariasi)
+- Kafe: pagi hingga sore
 
 **Detail spesifik per bisnis:** [BELUM DITETAPKAN]
 
@@ -130,7 +129,7 @@ Ashford memiliki berbagai bisnis yang membuat kota terasa **hidup** dan **realis
 
 ### Saat Menambah Bisnis Baru:
 
-1. **Realisme** - Apakah bisnis ini masuk akal untuk kota kecil 2006?
+1. **Realisme** - Apakah bisnis ini masuk akal untuk kota kecil 1816?
 2. **Fungsi** - Untuk plot atau hanya background?
 3. **Konsistensi** - Jam buka harus konsisten
 4. **Detail** - Pemilik? Staff? Pelanggan?

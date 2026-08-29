@@ -3,7 +3,7 @@
 ## Status Dokumen
 
 **Tujuan:** Dokumentasi detail tentang perpustakaan Ashford  
-**Status:** Ekstraksi dari Chapter 2 (14 November 2006) — eksterior  
+**Status:** Ekstraksi dari Chapter 2 — eksterior  
 **Terakhir diupdate:** 2026-08-27
 
 ---
@@ -36,7 +36,6 @@
 - Arsip lokal
 - Koran lama
 - Dokumen historis
-- Internet/komputer (tahun 2006)
 - [Lainnya: BELUM DITETAPKAN]
 
 **Ruang:**
@@ -124,12 +123,10 @@
 3. **Frustration** - Apakah ada informasi yang hilang/tidak lengkap?
 4. **Helen's role** - Apakah Helen membantu atau menghalangi?
 
-### Konsistensi 2006:
+### Konsistensi:
 
-- Internet ada tapi terbatas
-- Komputer catalog (bukan semua digital)
-- Banyak dokumen masih fisik
-- Microfiche untuk koran lama
+- Dokumen masih fisik
+- Arsip berupa catatan tertulis
 
 ---
 

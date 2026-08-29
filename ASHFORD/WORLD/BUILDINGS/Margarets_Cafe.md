@@ -3,7 +3,7 @@
 ## Status Dokumen
 
 **Tujuan:** Dokumentasi detail tentang kafe Margaret's  
-**Status:** Ekstraksi dari Chapter 2 (14 November 2006)  
+**Status:** Ekstraksi dari Chapter 2  
 **Terakhir diupdate:** 2026-08-27
 
 ---

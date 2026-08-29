@@ -24,8 +24,7 @@ Sejarah industri Ashford kemungkinan penting untuk:
 **Periode:** [BELUM DITETAPKAN]
 
 **Kemungkinan:**
-- Berkembang pada Victorian era
-- Bersamaan dengan kedatangan railway
+- Berkembang pada era awal industri
 - [Detail: BELUM DITETAPKAN]
 
 ---
@@ -71,9 +70,8 @@ Sejarah industri Ashford kemungkinan penting untuk:
 - Tata kota dipengaruhi industri
 - Populasi bertambah (pekerja)
 - Bangunan industri dibangun
-- Railway penting untuk industri
 
-**Kondisi sekarang (2006):**
+**Kondisi sekarang (1816):**
 - Sebagian industri masih ada
 - Sebagian sudah tutup
 - Old Industrial District mixed condition

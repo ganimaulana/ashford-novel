@@ -2,7 +2,7 @@
 
 ## Status Dokumen
 
-**Tujuan:** Kronologi sejarah Ashford dari masa lalu hingga 2006  
+**Tujuan:** Kronologi sejarah Ashford dari masa lalu hingga 1816  
 **Status:** Menunggu informasi dari chapter  
 **Terakhir diupdate:** [BELUM DITETAPKAN]
 
@@ -12,7 +12,7 @@
 
 Timeline ini mencatat **sejarah kota Ashford**, bukan timeline novel.
 
-Untuk timeline novel (2006), lihat: `Novel_Timeline_2006.md`
+Untuk timeline novel (1816), lihat dokumentasi timeline novel terpisah.
 
 ---
 
@@ -58,10 +58,8 @@ Untuk timeline novel (2006), lihat: `Novel_Timeline_2006.md`
 **Kemungkinan:**
 - Periode perkembangan signifikan
 - Bangunan Victorian dibangun (salah satu periode dominan di Ashford)
-- Railway datang ke Ashford
 - Industri berkembang
 - **Bellweather House/Estate** ada pada periode ini atau sebelumnya
-- **Edwin Ashcroft** mungkin hidup pada periode ini
 - **Thomas Wren** mungkin hidup pada periode ini
 - [Detail: BELUM DITETAPKAN]
 
@@ -119,14 +117,13 @@ Untuk timeline novel (2006), lihat: `Novel_Timeline_2006.md`
 
 ---
 
-### 2000-2006
+### 1816
 
 [BELUM DITETAPKAN]
 
-**Kondisi Ashford pada 2006:**
-- Kota kecil dengan universitas
+**Kondisi Ashford pada 1816:**
+- Kota kecil
 - Campuran arsitektur berbagai periode
-- Sebagian kawasan industri terbengkalai
 - [Detail: BELUM DITETAPKAN]
 
 ---
@@ -142,14 +139,6 @@ Untuk timeline novel (2006), lihat: `Novel_Timeline_2006.md`
 - Kapan dihuni: [BELUM DITETAPKAN]
 - Kapan menjadi kosong: [BELUM DITETAPKAN]
 - Event signifikan: [PERTANYAAN TERBUKA]
-
----
-
-### Edwin Ashcroft
-
-**Periode hidup:** [BELUM DITETAPKAN]  
-**Event penting:** [PERTANYAAN TERBUKA]  
-**Hubungan dengan Bellweather House:** [PERTANYAAN TERBUKA]
 
 ---
 
@@ -170,11 +159,6 @@ Untuk timeline novel (2006), lihat: `Novel_Timeline_2006.md`
 ---
 
 ## Perkembangan Fisik Kota
-
-### Railway
-
-**Kapan datang ke Ashford:** [BELUM DITETAPKAN]  
-**Dampak:** [BELUM DITETAPKAN]
 
 ### Industri
 

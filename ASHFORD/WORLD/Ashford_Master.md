@@ -13,7 +13,7 @@
 **Nama:** Ashford  
 **Lokasi:** [BELUM DITETAPKAN - kota kecil di Inggris]  
 **Tipe:** Kota kecil menengah (bukan metropolitan, bukan desa)  
-**Tahun Setting Novel:** 2006  
+**Tahun Setting Novel:** 1816  
 **Populasi:** [BELUM DITETAPKAN]
 
 ---
@@ -143,11 +143,9 @@ Ashford memiliki **beberapa** tempat terbengkalai atau terbengkalai sebagian.
 
 ---
 
-## Tahun 2006
+## Tahun Setting
 
-Novel berlangsung pada **2006**, semua detail harus konsisten.
-
-**Lihat:** `SOCIAL/2006_Life.md`
+Novel berlangsung pada **1816**, semua detail harus konsisten.
 
 ---
 

@@ -157,10 +157,9 @@ Setiap dokumen dalam World Bible memiliki status level:
 - `Ashford_History.md` - Complete historical overview
 - `Medieval.md` - Founding, early development
 - `Georgian_Era.md` - 18th century growth
-- `Victorian_Era.md` - Railway, industrialization, expansion
+- `Victorian_Era.md` - Industrialization, expansion
 - `Edwardian_Era.md` - Early 20th century
 - `Industrialization.md` - Mills, factories, workers
-- `Railway_History.md` - Station, connection to London
 - `20th_Century.md` - Modern developments
 
 **Hidden History:**
