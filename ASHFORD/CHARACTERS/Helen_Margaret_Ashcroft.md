@@ -37,7 +37,7 @@ Nama lengkap: **Helen Margaret Ashcroft**
 **Pengungkapan:**
 - Nama lengkap hanya boleh diungkapkan setelah ada instruksi eksplisit
 - Ini adalah bagian dari mystery/reveal besar
-- Hubungan Helen dengan Leon dan Edwin Ashcroft harus tetap tersembunyi sampai waktunya
+- Hubungan Helen dengan Leon dan Aurelius Ashcroft harus tetap tersembunyi sampai waktunya
 
 **Untuk World Bible internal:**
 - Nama lengkap boleh disimpan di file ini

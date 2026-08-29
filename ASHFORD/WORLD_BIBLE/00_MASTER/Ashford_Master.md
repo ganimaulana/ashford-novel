@@ -44,7 +44,7 @@ Setiap dokumen dalam World Bible memiliki status level:
 
 - `Ashford_Master.md` - This file (master index)
 - `Canon_Rules.md` - What counts as canon dan revision process
-- `Timeline_Master.md` - Complete timeline dari medieval ke 2006
+- `Timeline_Master.md` - Complete timeline dari medieval ke 1816
 - `Continuity_Master.md` - Track consistency across documents
 - `Open_Questions.md` - Unresolved decisions
 - `Glossary.md` - Terms, names, definitions
@@ -79,7 +79,6 @@ Setiap dokumen dalam World Bible memiliki status level:
 - `Edwardian.md` - Early 20th century
 - `Medieval_Tudor.md` - Oldest structures
 - `Industrial.md` - Mills, warehouses, factories
-- `Railway.md` - Station dan railway architecture
 - `Modern_Layers.md` - 20th century additions
 
 **Status:** 📘 WORKING CANON (6 files existing)
@@ -95,7 +94,6 @@ Setiap dokumen dalam World Bible memiliki status level:
 - `Commercial/` - Shops, cafes, businesses
 - `Residential/` - Houses, flats
 - `Religious/` - Churches, chapels
-- `Railway/` - Station buildings
 - `Industrial/` - Mills, warehouses
 - `University/` - Campus buildings
 - `Abandoned/` - Derelict structures
@@ -136,7 +134,7 @@ Setiap dokumen dalam World Bible memiliki status level:
 
 **Files:**
 - `City_Activity.md` - Daily rhythms, traffic, crowds
-- `Event_Calendar_2006.md` - Annual events, festivals, markets
+- `Event_Calendar_1816.md` - Annual events, festivals, markets
 - `Markets.md` - Market days, stalls, traders
 - `Festivals.md` - Local celebrations
 - `University_Life.md` - Academic calendar, students
@@ -247,28 +245,19 @@ Payoff: Chapter TBD
 
 ---
 
-### 10_2006 - Temporal Context
-**Technology, culture, daily life in 2006**
+### 1816_Temporal_Context
+**Technology, culture, daily life in 1816**
 
 **Files:**
-- `Technology.md` - **CRITICAL** Phones, internet, computers
-- `Communication.md` - Email, SMS, landlines, letters
-- `Transportation.md` - Cars, buses, trains, bicycles
-- `Media.md` - TV, newspapers, radio, DVD
-- `Money.md` - ATMs, cards, cash, prices
-- `Fashion.md` - Clothing styles 2006
+- `Money.md` - Currency, prices, economic conditions
+- `Fashion.md` - Clothing styles 1816
 - `Everyday_Life.md` - Daily routines, norms
 
 **Why Critical:**
-- 2006 ≠ 2026
-- No smartphones (basic mobiles only)
-- Internet exists but different (dial-up/early broadband)
-- No social media as we know it
-- Google Maps not ubiquitous
-- Warnet, internet cafes
-- Physical newspapers
-- DVD rental shops
-- Different transportation patterns
+- Period accuracy for Regency-era England
+- Social hierarchies and customs
+- Economic conditions
+- Daily life rhythms
 
 **Status:** 📙 DRAFT (needs creation - PRIORITY)
 
@@ -315,15 +304,13 @@ Payoff: Chapter TBD
 **NOT story canon - reference only**
 
 **Files:**
-- `British_Culture_2006.md` - Social norms, behavior
+- `British_Culture_1816.md` - Social norms, behavior
 - `British_Speech.md` - Dialogue patterns, slang, vocabulary
 - `British_Social_Norms.md` - Politeness, distance, interactions
 - `Architecture_Reference.md` - Real architectural details
 - `Weather_Reference.md` - UK meteorology facts
-- `Railway_Reference.md` - How British railways work
 - `University_Reference.md` - UK university system
-- `Police_Reference.md` - UK police procedures 2006
-- `Medical_Reference.md` - NHS, medical details
+- `Medical_Reference.md` - Period medical practices
 - `Local_Newspaper_Style.md` - How local papers write
 
 **Status:** 📚 REFERENCE (not canon, research materials)
@@ -337,16 +324,16 @@ Payoff: Chapter TBD
 ### Immediate Priority (Critical for consistency)
 
 1. **Canon_Rules.md** (00_MASTER) - Define what counts as canon
-2. **Technology.md** (10_2006) - 2006 tech landscape
-3. **Streets.md** (01_GEOGRAPHY) - Street-by-street guide
-4. **Clues.md** (09_MYSTERY) - Clue tracking system
-5. **City_Activity.md** (05_SOCIAL) - Make Ashford feel alive
-6. **British_Speech.md** (13_REFERENCE) - Dialogue guide
+2. **Streets.md** (01_GEOGRAPHY) - Street-by-street guide
+3. **Clues.md** (09_MYSTERY) - Clue tracking system
+4. **City_Activity.md** (05_SOCIAL) - Make Ashford feel alive
+5. **British_Speech.md** (13_REFERENCE) - Dialogue guide
+6. **Timeline_Master.md** (00_MASTER)
 
 ### Secondary Priority (Important framework)
 
 7. **Timeline_Master.md** (00_MASTER)
-8. **Event_Calendar_2006.md** (05_SOCIAL)
+8. **Event_Calendar_1816.md** (05_SOCIAL)
 9. **Hidden_History.md** (06_HISTORY) - Author-only
 10. **Buildings_Master.md** (03_BUILDINGS) - Complete database
 
@@ -357,7 +344,7 @@ Payoff: Chapter TBD
 ### To Write a Scene:
 1. Check location in `01_GEOGRAPHY/Location_Placement.md`
 2. Check building details in `03_BUILDINGS/`
-3. Check time period details in `10_2006/`
+3. Check time period details in `1816/`
 4. Check atmospheric conditions in `11_ATMOSPHERE/Fog.md`
 5. Check social context in `05_SOCIAL/City_Activity.md`
 
@@ -420,7 +407,7 @@ Payoff: Chapter TBD
 - Added status level system (CANON/WORKING/DRAFT/HIDDEN)
 - Created 14 main directories
 - Integrated ARC system dan Geography framework
-- Added 10_2006 untuk temporal accuracy
+- Added 1816 temporal context
 - Added 13_REFERENCE untuk writing resources
 - Implemented priority file system
 
@@ -440,7 +427,7 @@ Payoff: Chapter TBD
 - ✅ Underground network (08_UNDERGROUND)
 
 **Needs Creation:**
-- ⏳ 2006 temporal context (10_2006) - CRITICAL
+- ⏳ 1816 temporal context - CRITICAL
 - ⏳ Mystery tracking (09_MYSTERY)
 - ⏳ Novel management (12_NOVEL)
 - ⏳ Reference materials (13_REFERENCE)

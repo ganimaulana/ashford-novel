@@ -121,7 +121,7 @@ Leon adalah perspektif utama novel. Semua yang pembaca tahu berasal dari apa yan
 
 ## Hubungan dengan Mystery
 
-### Edwin Ashcroft
+### Aurelius Ashcroft
 
 **Hubungan:** [PERTANYAAN TERBUKA - bagian dari mystery]  
 **Yang diketahui:** Ada hubungan nama keluarga  

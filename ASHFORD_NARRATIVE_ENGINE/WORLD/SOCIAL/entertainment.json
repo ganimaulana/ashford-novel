@@ -1,0 +1,60 @@
+{
+  "entertainment": [
+    {
+      "activity": "Theatre",
+      "class_access": "Middle/Upper",
+      "cost": "Moderate",
+      "venue": "Theatre or Assembly Rooms",
+      "dress": "Formal",
+      "plot_functions": "Mirroring, actor's secret, private conversation"
+    },
+    {
+      "activity": "Ball",
+      "class_access": "Upper/Middle",
+      "cost": "High",
+      "venue": "Assembly Rooms, Private Homes",
+      "dress": "Very formal",
+      "plot_functions": "Courtship, scandal, secret meeting"
+    },
+    {
+      "activity": "Tavern Music",
+      "class_access": "Working/Middle",
+      "cost": "Low",
+      "venue": "Taverns",
+      "dress": "Casual",
+      "plot_functions": "Community bonding, confession"
+    },
+    {
+      "activity": "Card Games",
+      "class_access": "All",
+      "cost": "Low to High",
+      "venue": "Private Homes, Taverns",
+      "dress": "Casual to Formal",
+      "plot_functions": "Debt of honor, forged card, gambling den raid"
+    },
+    {
+      "activity": "Horse Racing",
+      "class_access": "All",
+      "cost": "Moderate",
+      "venue": "Racecourse",
+      "dress": "Varies",
+      "plot_functions": "Fixed race, bribe, stolen horse"
+    },
+    {
+      "activity": "Circus",
+      "class_access": "All",
+      "cost": "Low to Moderate",
+      "venue": "Temporary structures",
+      "dress": "Varies",
+      "plot_functions": "Performer with a secret, animal escape"
+    },
+    {
+      "activity": "Circulating Library",
+      "class_access": "Middle/Upper",
+      "cost": "Moderate",
+      "venue": "Library Rooms",
+      "dress": "Smart casual",
+      "plot_functions": "Hidden note in a book, library with a secret"
+    }
+  ]
+}

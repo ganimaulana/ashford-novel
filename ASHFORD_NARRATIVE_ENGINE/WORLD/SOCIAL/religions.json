@@ -1,0 +1,54 @@
+{
+  "religions": [
+    {
+      "name": "The Old Faith (Iman Lama)",
+      "status": "PROPOSED",
+      "worldview": "Emphasizes tradition, continuity, and community covenant.",
+      "central_beliefs": [
+        "God is sovereign and just.",
+        "Salvation through faith and good works.",
+        "Community is a covenant body."
+      ],
+      "clergy": "Vicar, curate, churchwardens",
+      "architecture": "Stone churches with spires, raised pulpit, communion table",
+      "symbols": "Cross, Bible, chalice",
+      "holy_days": [
+        "Christmas",
+        "Easter",
+        "Ascension Day",
+        "Whitsuntide",
+        "All Saints' Day",
+        "Rogation Days"
+      ],
+      "class_distribution": "Gentry, farmers, middle class"
+    },
+    {
+      "name": "The New Light (Cahaya Baru)",
+      "status": "PROPOSED",
+      "worldview": "Emphasizes personal conversion, Scripture authority, egalitarianism.",
+      "central_beliefs": [
+        "Salvation by grace through faith.",
+        "Bible is sole authority.",
+        "Every believer a priest.",
+        "Conversion is personal."
+      ],
+      "clergy": "Minister (elected), elders, deacons",
+      "architecture": "Plain meeting houses, no stained glass, simple pulpit",
+      "symbols": "Bible, dove",
+      "holy_days": "Christmas (simplified), Easter (simplified)",
+      "class_distribution": "Merchants, artisans, some laborers"
+    },
+    {
+      "name": "Folk Religion",
+      "status": "PROPOSED",
+      "worldview": "Mix of Christian morality, local superstitions, folk customs.",
+      "beliefs": [
+        "Spirits and ghosts",
+        "Evil eye",
+        "Cunning folk",
+        "Seasonal rituals"
+      ],
+      "class_distribution": "Working class, some farmers"
+    }
+  ]
+}

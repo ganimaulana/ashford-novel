@@ -34,7 +34,7 @@ Ashford memiliki berbagai bisnis yang membuat kota terasa **hidup** dan **realis
 
 **Toko Arthur Edmund Bell**
 - Pemilik: Arthur Edmund Bell [CANON]
-- Jenis: [BELUM DITETAPKAN]
+- Jenis: Toko buku (fokus buku lama, buku kuno, edisi langka, materi kertas bersejarah)
 - Lokasi: [BELUM DITETAPKAN]
 - **Lihat:** `BUILDINGS/Arthurs_Shop.md`
 

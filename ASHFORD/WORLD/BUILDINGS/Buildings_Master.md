@@ -46,9 +46,9 @@
 
 ### Toko Arthur
 
-**Nama:** Bell's Books & Antiquities  
+**Nama:** Bell's Books  
 **Lokasi:** Di lorong menanjak di belakang Market Square, dekat Bellweather Lane  
-**Fungsi:** Toko buku & barang antik  
+**Fungsi:** Toko buku (fokus buku lama/langka dan memorabilia)  
 **Pemilik:** Arthur Edmund Bell  
 **Status:** Terisi dari Chapter 2
 

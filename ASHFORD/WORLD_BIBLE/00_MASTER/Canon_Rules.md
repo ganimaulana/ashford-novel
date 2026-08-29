@@ -22,7 +22,7 @@
 **Examples:**
 - Leon Ashcroft = protagonist name (established)
 - Ashford = town name (established)
-- Setting = 2006 (established)
+- Setting = 1816 (established)
 - First-person POV (established)
 
 **Revision Process:**
@@ -97,7 +97,7 @@
 
 **Examples:**
 - True identity of Helen
-- Edwin Ashcroft\'s real history
+- Aurelius Ashcroft's real history
 - True nature of specific anomalies
 - Hidden history of Ashford
 - Mystery solution
@@ -130,8 +130,7 @@
 - Technical details
 
 **Examples:**
-- British speech patterns 2006
-- UK railway system
+- British speech patterns 1816
 - Architecture terminology
 - Weather patterns
 - Police procedures
@@ -276,8 +275,8 @@ If readers know Helen exists dan works at library:
 Reference materials inform writing but aren\'t story canon.
 
 **Example:**
-- Reference: "UK phones in 2006 had SMS"
-- Canon: "Leon sent a text message"
+- Reference: "1816 postal methods"
+- Canon: "Leon sent a letter"
 
 Reference supports canon but isn\'t itself canon.
 
@@ -433,6 +432,29 @@ Higher level wins, lower level must be updated.
 
 **Decision Date:** TBD
 ```
+
+### Resolved Questions
+
+Pertanyaan canon yang telah diputuskan. Disimpan di sini sebagai referensi agar tidak dibuka kembali tanpa alasan.
+
+```markdown
+## QUESTION-001: Arthur's Shop Type — RESOLVED
+
+**Status:** RESOLVED (2026-08-27)
+**Prioritas:** Medium
+**Keputusan:** B — Bookshop (bukan antique shop, bukan curio/oddities shop)
+
+**Catatan keputusan:**
+- Toko Arthur adalah toko buku. Fokus: buku lama, buku kuno, edisi langka, materi kertas bersejarah, memorabilia Ashford.
+- Nama toko: Bell's Books (bukan Bell's Books & Antiquities).
+- Arthur Edmund Bell = Mr. Bell. Satu karakter tunggal; "Mr. Bell" adalah sapaan formal dari Leon dan warga.
+- "Kotak kayu" yang diperiksa Arthur di toko dapat berisi dokumen/catatan lama — bukan diasumsikan sebagai barang antik.
+- Arthur TIDAK otomatis mengetahui informasi spesifik tentang Aurelius Ashcroft, dokumen 13-B, atau kolektor jam. Pengetahuan tersebut hanya boleh dikaitkan dengan Arthur setelah diperkenalkan secara natural melalui narasi chapter yang relevan (verifikasi per chapter sebelum patch).
+- Layer permukaan Arthur: pemilik toko buku tua biasa. Layer dalam: terhubung dengan orang-orang tertentu yang memiliki pengetahuan/spiritual — tetapi layer dalam tidak diungkap sekarang dan tidak menjadikan Arthur sumber tunggal informasi supernatural.
+- Sumber informasi lain (gereja, polisi, rumah sakit, perpustakaan/arsip) dikembangkan secara terpisah; Arthur hanyalah satu simpul, bukan satu-satunya pintu masuk.
+```
+
+</invoke>
 
 ---
 

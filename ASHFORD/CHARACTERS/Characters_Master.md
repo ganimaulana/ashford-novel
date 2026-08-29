@@ -17,9 +17,8 @@
 | CHAR-003 | Daniel James Carter | Daniel / Dan | CANON |
 | CHAR-004 | Arthur Edmund Bell | Arthur / Mr. Bell | CANON |
 | CHAR-005 | Helen Margaret Ashcroft | Helen | INTERNAL CANON — RAHASIA |
-| CHAR-006 | Edwin Ashcroft | Edwin / Mr. Ashcroft | CANON |
+| CHAR-006 | Aurelius Ashcroft | Aurelius / Mr. Ashcroft | CANON |
 | CHAR-007 | Thomas Wren | Thomas / Mr. Wren | CANON |
-| CHAR-008 | Police Officer (Station) | [BELUM DITETAPKAN] | CANON — SUPERnatural (RAHASIA) |
 
 ### ⚠️ PERINGATAN KHUSUS: HELEN
 
@@ -27,7 +26,7 @@
 
 - **JANGAN** mengungkapkan nama lengkap Helen dalam naskah novel
 - **JANGAN** menyebut "Helen Ashcroft" atau "Helen Margaret Ashcroft" 
-- **JANGAN** mengungkapkan hubungan keluarga Helen dengan Leon atau Edwin
+- **JANGAN** mengungkapkan hubungan keluarga Helen dengan Leon atau Aurelius
 - **GUNAKAN HANYA:** "Helen" dalam semua narasi, dialog, dan dokumen yang dibaca pembaca
 - Nama lengkap hanya untuk tracking internal World Bible
 - Pengungkapan hanya setelah instruksi eksplisit
@@ -82,8 +81,10 @@
 **Nama yang digunakan:** Arthur  
 **Panggilan formal:** Mr. Bell  
 **Status:** Ekstraksi dari Chapter 2  
-**Peran:** Pemilik Bell's Books & Antiquities (toko buku & barang antik); sumber informasi sejarah lokal  
+**Peran:** Pemilik toko buku & barang antik; sumber informasi sejarah lokal  
 **Hubungan dengan Leon:** Penjual-pembeli; memberikan buku sejarah yang memuat simbol misterius  
+**File detail:** `Arthur_Edmund_Bell.md`
+
 **File detail:** `Arthur_Edmund_Bell.md`
 
 ---
@@ -105,10 +106,10 @@
 
 ## Karakter Historis / Mystery
 
-### Edwin Ashcroft (CHAR-006)
+### Aurelius Ashcroft (CHAR-006)
 
-**Nama lengkap:** Edwin Ashcroft [CANON]  
-**Nama yang digunakan:** Edwin / Mr. Ashcroft  
+**Nama lengkap:** Aurelius Ashcroft [CANON]  
+**Nama yang digunakan:** Aurelius / Mr. Ashcroft  
 **Status:** Karakter historis [PERTANYAAN TERBUKA]  
 **Peran:** [PERTANYAAN TERBUKA - bagian dari mystery]  
 **Hubungan dengan Leon:** [PERTANYAAN TERBUKA]  

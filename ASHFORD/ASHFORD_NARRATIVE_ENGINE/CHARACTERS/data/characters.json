@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-08-29",
+  "total_characters": 22,
+  "characters": [
+    {"id":"CHAR-001","name":"Leon Ashcroft","aliases":["Leon"],"status":"ACTIVE","tier":"CORE","role":"Protagonist, POV","occupation":"UNKNOWN","first_intro":"Ch 001","connections":["CHAR-002","CHAR-003","CHAR-004","CHAR-005","CHAR-006","CHAR-007","CHAR-010"]},
+    {"id":"CHAR-002","name":"Margaret Eleanor Whitmore","aliases":["Margaret"],"status":"ACTIVE","tier":"SUPPORTING","role":"Tearoom owner, info source","occupation":"Tearoom owner","first_intro":"Ch 002","connections":["CHAR-001","CHAR-003","CHAR-004","CHAR-010","CHAR-011","CHAR-006"]},
+    {"id":"CHAR-003","name":"Daniel James Carter","aliases":["Dan"],"status":"ACTIVE","tier":"SUPPORTING","role":"Student, Leon's friend","occupation":"History student","first_intro":"Ch 002","connections":["CHAR-001","CHAR-002","CHAR-004"]},
+    {"id":"CHAR-004","name":"Arthur Edmund Bell","aliases":["Mr. Bell"],"status":"ACTIVE","tier":"SUPPORTING","role":"Bookshop owner, historian","occupation":"Bookshop owner","first_intro":"Ch 002","connections":["CHAR-001","CHAR-002","CHAR-003","CHAR-006"]},
+    {"id":"CHAR-005","name":"Helen Margaret Ashcroft","aliases":["Helen"],"status":"ACTIVE","tier":"CORE","role":"House inhabitant, gatekeeper","occupation":"Household manager","first_intro":"Ch 001","connections":["CHAR-001","CHAR-008","CHAR-006"],"hidden_name":"Helen Margaret Ashcroft"},
+    {"id":"CHAR-006","name":"Thomas Wren","aliases":["Thomas","Mr. Wren"],"status":"DECEASED","tier":"SUPPORTING","role":"Keeper of memories","occupation":"Retired","first_intro":"Ch 009,010,011","connections":["CHAR-001","CHAR-008","CHAR-009","CHAR-003"]},
+    {"id":"CHAR-007","name":"Thomas Wren's Wife","aliases":[],"status":"ACTIVE","tier":"TEMPORARY","role":"Widow, minor","occupation":"UNKNOWN","first_intro":"Ch 011","connections":["CHAR-006","CHAR-001"]},
+    {"id":"CHAR-008","name":"Aurelius Ashcroft","aliases":[],"status":"DECEASED","tier":"HISTORICAL","role":"Builder of network","occupation":"Property owner","first_intro":"Ch 001","connections":["CHAR-006","CHAR-009","CHAR-001"]},
+    {"id":"CHAR-009","name":"Eleanor Vane","aliases":[],"status":"DECEASED","tier":"HISTORICAL","role":"Aurelius's wife","occupation":"Gentlewoman","first_intro":"Ch 009","connections":["CHAR-008","CHAR-006"]},
+    {"id":"CHAR-010","name":"Simon","aliases":[],"status":"NOT_VISIBLE","tier":"RESERVE","role":"Property-related","occupation":"Document/property affairs","first_intro":"PLANNED","connections":["CHAR-003"]},
+    {"id":"CHAR-011","name":"Michael","aliases":[],"status":"NOT_VISIBLE","tier":"RESERVE","role":"Town resident","occupation":"UNKNOWN","first_intro":"PLANNED","connections":["CHAR-003","CHAR-001"]},
+    {"id":"CHAR-012","name":"Librarian","aliases":[],"status":"NOT_VISIBLE","tier":"RESERVE","role":"Library resource","occupation":"Librarian","first_intro":"PLANNED","connections":[]},
+    {"id":"CHAR-013","name":"Vicar","aliases":[],"status":"NOT_VISIBLE","tier":"RESERVE","role":"St. Bartholomew's","occupation":"Vicar","first_intro":"DEFERRED","connections":[]},
+    {"id":"CHAR-014","name":"Military Teacher","aliases":[],"status":"NOT_VISIBLE","tier":"DEEP_RESERVE","role":"Academy staff","occupation":"Teacher","first_intro":"DEFERRED","connections":[]},
+    {"id":"CHAR-015","name":"Constable","aliases":[],"status":"NOT_VISIBLE","tier":"DEEP_RESERVE","role":"Local enforcement","occupation":"Parish constable","first_intro":"DEFERRED","connections":[]},
+    {"id":"CHAR-016","name":"Baker (Morris)","aliases":["Morris"],"status":"NOT_VISIBLE","tier":"DEEP_RESERVE","role":"Local baker","occupation":"Baker","first_intro":"Mentioned only","connections":[]},
+    {"id":"CHAR-017","name":"Physician","aliases":[],"status":"NOT_VISIBLE","tier":"DEEP_RESERVE","role":"Local doctor","occupation":"Physician","first_intro":"DEFERRED","connections":[]},
+    {"id":"CHAR-018","name":"Diligence Driver","aliases":[],"status":"BACKGROUND","tier":"TEMPORARY","role":"Diligence driver","occupation":"Driver","first_intro":"Ch 001","connections":[]},
+    {"id":"CHAR-019","name":"Postman","aliases":[],"status":"BACKGROUND","tier":"TEMPORARY","role":"Postman","occupation":"Postman","first_intro":"Ch 006","connections":[]},
+    {"id":"CHAR-020","name":"Margaret's Customers","aliases":[],"status":"BACKGROUND","tier":"TEMPORARY","role":"Regulars","occupation":"Various","first_intro":"Multiple","connections":[]},
+    {"id":"CHAR-021","name":"Library Patrons","aliases":[],"status":"BACKGROUND","tier":"TEMPORARY","role":"Background readers","occupation":"Various","first_intro":"Ch 008,009","connections":[]}
+  ]
+}

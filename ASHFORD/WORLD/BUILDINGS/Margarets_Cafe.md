@@ -12,7 +12,7 @@
 
 **Nama:** Margaret's  
 **Lokasi:** Di pusat kota, dekat High Street (tidak disebutkan alamat persis; dapat dijangkau dari Bellweather Lane dengan berjalan kaki) [CANON - Chapter 2]  
-**Tipe:** Kafe [ASUMSI KERJA]  
+**Tipe:** Tearoom & Coffee Shop [CANON - Chapter 2, line 22: "di atas pintu tertulis 'TEAROOM & COFFEE SHOP'"]  
 **Pemilik/Pengelola:** Margaret Eleanor Whitmore [CANON]
 
 ---

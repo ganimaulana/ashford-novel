@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-08-29",
+  "chapter_timeline": {
+    "Ch 001": ["CHAR-001 introduced","CHAR-002 observed watching CHAR-001","CHAR-008 named in letter"],
+    "Ch 002": ["CHAR-004 introduced","CHAR-003 established","CHAR-005 introduced"],
+    "Ch 003": ["CHAR-004 visits CHAR-001's house","Friendship deepens"],
+    "Ch 004": ["CHAR-011 brief appearance"],
+    "Ch 005": ["CHAR-010 mentioned"],
+    "Ch 006": ["CHAR-006 anonymous envelope to CHAR-001"],
+    "Ch 007": ["CHAR-008 named explicitly","CHAR-004 thesis research becomes relevant"],
+    "Ch 008": ["CHAR-012 present at library (undetailed)"],
+    "Ch 009": ["CHAR-008 life timeline established","CHAR-006 (Thomas Wren) as marriage witness"],
+    "Ch 010": ["CHAR-006 meets CHAR-001","List of names discovered"],
+    "Ch 011": ["CHAR-006 DECEASED","CHAR-007 appears","CHAR-001 inherits notebook+key"],
+    "Ch 012": ["CHAR-001 reads notebook (1791-1806)"],
+    "Ch 013": ["CHAR-003 reveals father's connection to CHAR-006","CHAR-001 gets B.H. key"],
+    "Ch 014": ["CHAR-005 shows 1790s map","CHAR-001 resolves to enter basement"]
+  }
+}

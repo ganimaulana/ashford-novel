@@ -27,9 +27,9 @@
 ## Pekerjaan dan Peran
 
 **Pekerjaan:** Pemilik toko [CANON - Chapter 2]  
-**Tipe toko:** Toko buku dan barang antik [CANON - Chapter 2]  
-**Nama toko:** Bell's Books & Antiquities [CANON - Chapter 2]  
-**Tempat kerja:** Bell's Books & Antiquities [CANON - Chapter 2]
+**Tipe toko:** Toko buku (fokus: buku lama, buku kuno, edisi langka, materi kertas) [CANON - Chapter 2; direvisi dari "buku dan barang antik"]  
+**Nama toko:** Bell's Books [CANON - Chapter 2; direvisi dari "Bell's Books & Antiquities"]  
+**Tempat kerja:** Bell's Books [CANON - Chapter 2; direvisi]
 
 ---
 
@@ -45,7 +45,7 @@
 
 **Arthur's Expertise:**
 - Local history of Ashford
-- Antiques dan curios
+- Buku langka dan edisi lama
 - Provenance research (ownership history)
 - Document analysis
 - Archives dan old records
@@ -106,7 +106,7 @@
 - Neutral territory
 
 **Public function:**
-- Normal antique/book shop (tergantung type)
+- Normal bookshop (fokus buku lama dan langka)
 - Regular customers
 - Normal business operations
 - Cover untuk underground activities
@@ -170,7 +170,7 @@ Arthur has limitations like everyone else dalam network.
 
 ---
 
-**NOTE:** This is framework for Arthur's role dalam underground network. Specific details (how long he's been involved, specific cases he knows, relationships dengan other network members) akan ditetapkan when incorporated into chapters. Pekerjaan spesifik Arthur (antique dealer, bookshop owner, etc.) BELUM CANON dan harus ditetapkan berdasarkan story needs.
+**NOTE:** This is framework for Arthur's role dalam underground network. Specific details (how long he's been involved, specific cases he knows, relationships dengan other network members) akan ditetapkan when incorporated into chapters. Pekerjaan spesifik Arthur: **bookshop owner** (CANON — ditetapkan sebagai pemilik toko buku, fokus buku lama/langka dan materi kertas bersejarah).
 
 ---
 

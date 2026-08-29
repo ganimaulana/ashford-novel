@@ -1,0 +1,49 @@
+{
+  "festivals": [
+    {
+      "name": "Christmas (Yule-tide)",
+      "season": "Winter",
+      "date": "25 December",
+      "social_purpose": "Family gathering, charity",
+      "participants": "All classes",
+      "rituals": "Church services, feasting, carol singing, decorations",
+      "plot_functions": "Family secrets, charity fraud, mysterious visitor"
+    },
+    {
+      "name": "Ashford Spring Fair",
+      "season": "Spring",
+      "date": "Late March",
+      "social_purpose": "Trade, entertainment, employment",
+      "participants": "All classes, outsiders",
+      "rituals": "Market stalls, games, puppet shows, music, gambling",
+      "plot_functions": "Disappearance, theft, fraud, political pamphleteering"
+    },
+    {
+      "name": "Easter",
+      "season": "Spring",
+      "date": "March/April",
+      "social_purpose": "Religious observance",
+      "participants": "Churchgoers",
+      "rituals": "Holy Week services, communion, egg decorating",
+      "plot_functions": "Reconciliation, confession, secret revealed"
+    },
+    {
+      "name": "Harvest Home",
+      "season": "Autumn",
+      "date": "Late September/Early October",
+      "social_purpose": "Thanksgiving for harvest",
+      "participants": "Farmers, laborers, clergy",
+      "rituals": "Church service, feast, dancing, games",
+      "plot_functions": "Dispute over tithes, hidden stash discovered"
+    },
+    {
+      "name": "Bonfire Night (Guy Fawkes Day)",
+      "season": "Autumn/Winter",
+      "date": "5 November",
+      "social_purpose": "Civic celebration, anti-Catholic sentiment",
+      "participants": "All classes",
+      "rituals": "Bonfires, fireworks, burning effigies",
+      "plot_functions": "Plot discovered, political protest, arson"
+    }
+  ]
+}

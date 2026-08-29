@@ -1,0 +1,19 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-08-29",
+  "introduction_states": {
+    "CHAR-001": {"name":"Leon Ashcroft","status":"INTRODUCED","chapter":"Ch 001","screen_time":"Protagonist"},
+    "CHAR-002": {"name":"Helen","status":"INTRODUCED","chapter":"Ch 001","screen_time":"Brief appearances"},
+    "CHAR-003": {"name":"Margaret","status":"INTRODUCED","chapter":"Ch 002","screen_time":"Regular"},
+    "CHAR-004": {"name":"Daniel Carter","status":"INTRODUCED","chapter":"Ch 002","screen_time":"Regular"},
+    "CHAR-005": {"name":"Arthur Bell","status":"INTRODUCED","chapter":"Ch 002","screen_time":"Regular"},
+    "CHAR-006": {"name":"Thomas Wren","status":"INTRODUCED","chapter":"Ch 010","screen_time":"Ch 010-011, posthumous"},
+    "CHAR-007": {"name":"Thomas Wren's Wife","status":"BACKGROUND","chapter":"Ch 011","screen_time":"Single scene"},
+    "CHAR-008": {"name":"Aurelius Ashcroft","status":"HIDDEN","chapter":"Ch 001","screen_time":"Names/documents only"},
+    "CHAR-009": {"name":"Eleanor Vane","status":"HIDDEN","chapter":"Ch 009","screen_time":"Parish records only"},
+    "CHAR-010": {"name":"Simon","status":"PLANNED","chapter":null,"screen_time":null},
+    "CHAR-011": {"name":"Michael","status":"PLANNED","chapter":"Ch 004 (brief)","screen_time":"Brief"},
+    "CHAR-012": {"name":"Librarian","status":"PLANNED","chapter":null,"screen_time":null},
+    "CHAR-013": {"name":"Vicar","status":"DEFERRED","chapter":null,"screen_time":null}
+  }
+}

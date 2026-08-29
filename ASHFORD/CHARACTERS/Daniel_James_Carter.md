@@ -28,7 +28,7 @@
 
 **Pekerjaan:** Mahasiswa di universitas Ashford, bidang sejarah (mahasiswa sejarah) [CANON - Chapter 2]  
 **Umur:** Seusia Leon, atau sedikit lebih muda [CANON - Chapter 2]  
-**Peran dalam cerita:** Kenalan baru Leon; pemandu untuk mengenal pusat kota, rute bus, Market Square, dan toko Bell's; sumber informasi tentang sejarah lokal dan kehidupan kampus
+**Peran dalam cerita:** Kenalan baru Leon; pemandu untuk mengenal pusat kota, Market Square, dan toko Bell's; sumber informasi tentang sejarah lokal dan kehidupan kampus
 
 ---
 
@@ -49,7 +49,7 @@
 ### Leon
 
 **Hubungan:** Kenalan baru; bertemu pertama kali di Margaret's  
-**Interaksi:** Duduk di meja sebelah dan mulai berbincang; Leon menyebutkan namanya; Daniel jadi pemandu pertama Leon — mengenalkan Margaret's, jalan ke pusat kota, rute bus, Market Square, dan toko Bell's; menawarkan buku tua untuk Leon di masa depan ("kalau suatu hari aku menemukan buku tua yang menarik, aku tahu harus memberikannya kepada siapa")  
+**Interaksi:** Duduk di meja sebelah dan mulai berbincang; Leon menyebutkan namanya; Daniel jadi pemandu pertama Leon — mengenalkan Margaret's, jalan ke pusat kota, Market Square, dan toko Bell's; menawarkan buku tua untuk Leon di masa depan ("kalau suatu hari aku menemukan buku tua yang menarik, aku tahu harus memberikannya kepada siapa")  
 **Signifikansi:** Pintu masuk Leon ke komunitas dan sejarah lokal; sumber informasi sosial & kampus
 
 ---
