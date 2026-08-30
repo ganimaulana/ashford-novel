@@ -3,7 +3,7 @@
 **Status:** CORE SYSTEM | **Created:** 2026-08-29 | **Updated:** 2026-08-29 for 1816 canon
 **LOTM Transfer:** Rule 17 (continuity management)
 **Evidence Confidence:** 8/10 (good continuity files exist)
-**Era:** 1816 Regency England
+**Era:** 1816 Regency England = STORY START (dynamic timeline per `../LIVING_CANON_TIMELINE_SOP.md`; appropriateness judged by CURRENT story year, tracked in `METADATA/WORLD_STATE.md`)
 
 ---
 
@@ -27,7 +27,7 @@ Maintain consistency across canon, era, character behavior, objects, locations, 
 ## C. CONTINUITY RULES
 
 1. **All canon files are source of truth.** If there's a conflict, the latest version wins (tracked in canon_log.md).
-2. **CANON ERA = 1816 (Regency England).** No post-1816 technology, institutions, or social practices. Specifically: no railways (first: 1825), no electricity, no telegraph (1837), no telephones, no automobiles, no professional police force (Metropolitan Police: 1829), no gas lighting, no digital media, no modern communication.
+2. **CANON START ERA = 1816 (Regency England)** — a start point, not a permanent lock. Every scene must be appropriate to the **current story year** (tracked in `METADATA/WORLD_STATE.md`). For the starting period (1816) the prohibitions are: no railways (first: 1825), no electricity, no telegraph (1837), no telephones, no automobiles, no professional police force (Metropolitan Police: 1829), no gas lighting, no digital media, no modern communication. If the story advances past 1816, re-derive period appropriateness per the Living Canon SOP (`../LIVING_CANON_TIMELINE_SOP.md` §1–3): developments enter only when relevant, plausible, causally connected, geographically appropriate, and story-useful.
 3. **Character decisions must be consistent with established behavior.** Changes must be gradual and justified.
 4. **Physical objects don't disappear.** If Leon picks up an object, he has it until he uses it, loses it, or stores it.
 5. **Locations don't change shape.** Unless explicitly described as being renovated or destroyed.

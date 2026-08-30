@@ -44,7 +44,7 @@ Setiap dokumen dalam World Bible memiliki status level:
 
 - `Ashford_Master.md` - This file (master index)
 - `Canon_Rules.md` - What counts as canon dan revision process
-- `Timeline_Master.md` - Complete timeline dari medieval ke 1816
+- `Timeline_Master.md` - Complete timeline dari medieval hingga 1816 (start point; cerita bergerak dinamis — lihat `../../LIVING_CANON_TIMELINE_SOP.md`)
 - `Continuity_Master.md` - Track consistency across documents
 - `Open_Questions.md` - Unresolved decisions
 - `Glossary.md` - Terms, names, definitions

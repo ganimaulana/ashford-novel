@@ -22,7 +22,7 @@
 **Examples:**
 - Leon Ashcroft = protagonist name (established)
 - Ashford = town name (established)
-- Setting = 1816 (established)
+- Story start = 1816 (established; timeline is DYNAMIC per `../../LIVING_CANON_TIMELINE_SOP.md`)
 - First-person POV (established)
 
 **Revision Process:**

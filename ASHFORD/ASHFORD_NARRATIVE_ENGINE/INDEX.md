@@ -2,7 +2,7 @@
 
 **Created:** 2026-08-29 | **Updated:** 2026-08-29 for Story Architecture Update
 **Purpose:** Master reference for the 15-system narrative framework + 1816 era framework + Story Architecture.
-**CANON ERA:** 1816-inspired fictional setting — Ashford is a fictional world (Author-approved canon lock)
+**CANON START ERA:** 1816-inspired fictional setting — Ashford is a fictional world (Author-approved). The former permanent 1816 era-lock is SUPERSEDED by the final governing document `../LIVING_CANON_TIMELINE_SOP.md` (dynamic timeline; 1816 = start only).
 **Status:** COMPLETE (Systems 01-15 + 1816 era framework + Story Architecture all authored)
 
 ---
@@ -123,10 +123,10 @@ These systems formalize existing methods and are now locked to the 1816 era.
 
 ## CANON LOCK NOTICE
 
-**AUTHOR-APPROVED CANON ERA: 1816-inspired fictional setting (Ashford is a fictional world)**
+**CANON START ERA: 1816-inspired fictional setting (Ashford is a fictional world)**
 
 - 2006-era documents are LEGACY and marked as such (see LEGACY_2006_MIGRATION.md)
 - Published chapters 001-008 remain as canon with migration notes (content preserved)
-- World Foundation v2 (1816) is the authoritative source
-- All future development MUST be consistent with 1816
+- World Foundation v2 (1816) is the authoritative source **for the starting period**
+- The story timeline is DYNAMIC: 1816 is the start, not a cap — all future development must be consistent with the **current story year** as governed by `../LIVING_CANON_TIMELINE_SOP.md` and tracked in `METADATA/WORLD_STATE.md`
 - Do not restore or preserve 2006-specific assumptions
