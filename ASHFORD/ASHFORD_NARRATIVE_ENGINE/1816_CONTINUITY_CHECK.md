@@ -1,8 +1,8 @@
-# 1816 Continuity Checklist
+﻿# 1816 Continuity Checklist
 
 **Date:** 2026-08-29
 **Purpose:** Mandatory checklist for every future Ashford chapter
-**Rule:** START ERA = 1816 (Regency England); the governing temporal standard is the **CURRENT STORY YEAR** (see `../LIVING_CANON_TIMELINE_SOP.md`, tracked in `METADATA/WORLD_STATE.md`). Any draft containing technology, institutions, social practices, objects, vocabulary, or events incompatible with the current story year must be flagged during continuity QA.
+**Rule:** START ERA = 1816 (Regency England); the governing temporal standard is the **CURRENT STORY YEAR** (see `../LIVING_CANON_TIMELINE_SOP.md`, tracked in `15_METADATA/WORLD_STATE.md`). Any draft containing technology, institutions, social practices, objects, vocabulary, or events incompatible with the current story year must be flagged during continuity QA.
 
 ---
 

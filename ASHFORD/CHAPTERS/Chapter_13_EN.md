@@ -1,7 +1,5 @@
 # Chapter 13 — The Churchwardens’ Reckoning
 
-## Ashford, 29 November 1816
-
 Friday came in with a frost that held the lane by the throat until noon. I had written my name on the watch-roll six days before, and the town had taken it without remark, because a man who signs such a paper is either useful or harmless, and the town prefers to wait before deciding which.
 
 I went first to Margaret’s for bread, because the churchwardens keep their books in the vestry room behind the church, and the vestry room is opened only when someone has asked the clerk, and the clerk opens it only when he has seen you buy your bread like any other householder. It is a small town’s way of making sure that inquiry wears the face of custom.
@@ -18,7 +16,7 @@ Margaret had the brown loaf ready and wrapped. She did not ask why I was out ear
 
 “Nothing in this town belongs to no one,” said Margaret. “It all belongs to somebody’s keeping. Go carefully with the keeping, Mr. Ashcroft. The men who kept things are older than you think, and they remember who asked.”
 
-I paid for the bread and went out. The frost was lifting now; the lane was wet underfoot; the church stood grey against a sky that could not decide between cloud and pale winter sun.
+I paid for the bread and went out. I counted the coins in my palm as I walked; they were fewer than I had hoped, and the week was not yet over. The frost was lifting now; the lane was wet underfoot; the church stood grey against a sky that could not decide between cloud and pale winter sun.
 
 ---
 
@@ -72,7 +70,7 @@ And beneath it, because the night before still sat in my hands:
 
 *The bell-money is in the book. The bell is not. The second key is ‘laid by.’ These are three absences that share a shape. What is absent in this town is absent on purpose, and the purpose is kept by the same families that keep the presence. To follow the bell is to follow the keeping. To follow the keeping is to become known to the keepers.*
 
-I shut the book. The fire was low. Outside, the lane was settling into its afternoon grey, and at the end of it the house stood with its rosemary on the sill and its plank gone and its glass open to any eye that chose to look, which was the whole point, and which nobody chose to look at, which was the other whole point.
+I shut the book. The fire was low. Outside, the lane was settling into its afternoon grey, and at the end of it the house stood with its rosemary on the sill and its plank gone and its glass open to any eye that chose to look, which was the whole point, and which nobody chose to look at, which was the other whole point. A chill that had nothing to do with the fire settled in my shoulders as I turned the page. I had been cold since the morning, and I could not recall when it had started.
 
 Tonight I would watch again for the lamp. Tonight I would listen again for the bell. But I had done today what a householder does, and the town had let me do it, and that was enough for one Friday. The rest would come when the keeping allowed it, or when the keeping broke.
 

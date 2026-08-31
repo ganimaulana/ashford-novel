@@ -1,7 +1,5 @@
 # Chapter 19 — The Round Past the Church
 
-## Ashford, 6–7 December 1816
-
 The lamp came back on Friday night at nine.
 
 I had watched the window through the dark of the day before, and through the dark of the evening, with the three readings standing in my book like the three names of a thing I could not call, and at the corner hour the light was kindled, steady, at its old height, and I was never more glad of a light in this town than I was of that one, because a house that lights its lamp is a house that is keeping itself, and I had begun, without knowing it, to set my own clock by the keeping.

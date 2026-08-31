@@ -1,7 +1,5 @@
 # Chapter 21 — The Academy Copy
 
-## Ashford, 9 December 1816
-
 The Monday came in with the snow lying, and the town gone quiet under it the way a town goes quiet when the ground has changed, because snow is the one thing the town cannot keep, and it comes and does its work, and makes every road a new road, and the town stands in it and looks at what it has done to the distances.
 
 I spent the morning at my own desk, because a man that has a meeting at four in the afternoon has the hours before it, and the hours before it are the hours when the thing met with is made ready in the mind, and I made it ready as well as I could, which was to write out in the book the three papers I was carrying: the note of the vestry reckoning; the note of Arthur's subscription list, with Crane's name and the word returned; and the line from Daniel's own copy of the trust-roll, where the name had been taken out with a knife. I wrote them out one under the other, and looked at them the way a man looks at three things he is carrying to a fourth man, and asks himself which of the three he may lay down, and I could not lay any of them down, because the fourth man was the man that had carried one of them already, and the carrying of it was between us, and a thing between two men is carried by both or by neither.

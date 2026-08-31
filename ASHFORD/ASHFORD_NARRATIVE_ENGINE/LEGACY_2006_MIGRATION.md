@@ -1,4 +1,4 @@
-# Legacy 2006 Migration
+﻿# Legacy 2006 Migration
 
 **Date:** 2026-08-29
 **Purpose:** Track all 2006-era legacy documents and their migration status
@@ -21,9 +21,9 @@
 | File | 2006 Dependency | Status | Priority | Notes |
 |------|-----------------|--------|----------|-------|
 | `README.md` | Era stated as 2006 throughout | ARCHIVE | HIGH | Mark legacy; point to World Foundation v2 |
-| `TIMELINE/Novel_Timeline_2006.md` | 2006-era timeline | ARCHIVE | HIGH | Superseded by 1816 timeline |
+| `10_TIMELINE/Novel_Timeline_2006.md` | 2006-era timeline | ARCHIVE | HIGH | Superseded by 1816 timeline |
 | `WORLD_BIBLE/10_2006/Technology.md` | 710-line 2006 technology | ARCHIVE | MEDIUM | Keep as historical reference |
-| `WORLD/SOCIAL/2006_Life.md` | 224-line 2006 life | ARCHIVE | MEDIUM | Keep as historical reference |
+| `05_SOCIAL/2006_Life.md` | 224-line 2006 life | ARCHIVE | MEDIUM | Keep as historical reference |
 | `Ashford_Master.md` | Section 10_2006 | REVISE | HIGH | Mark section 10_2006 as LEGACY |
 | `Canon_Rules.md` | "British speech patterns 2006" | REVISE | MEDIUM | Update to 1816 |
 | `00_PROJECT_AUDIT.md` | Documents era conflict | REVISE | HIGH | Update to reflect resolved canon |

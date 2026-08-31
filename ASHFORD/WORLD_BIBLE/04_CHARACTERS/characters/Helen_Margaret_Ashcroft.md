@@ -54,23 +54,26 @@
 - **Deduction:** Can see patterns in people's behavior
 
 ## Knowledge Boundary
-### Knows
-- The full history of the Ashcroft family in Ashford
-- The connection between the house and Aurelius Ashcroft
-- Why the house has no number
-- The meaning of the symbol
-- Leon's connection to the family (she knows he is an Ashcroft)
-- The contents of the Pembroke & Clarke letter (likely)
-- The nature of Bellweather House
-
-### Suspects
-- What Leon is looking for and why
+### Knows (All Layers — Partial; Compartmentalized)
+- **Layer 1:** She is Helen, the woman who manages the household at No. 13 Bellweather Lane
+- **Layer 2:** The full history of the Ashcroft family; the connection between the house and Aurelius Ashcroft; why the house has no number; the meaning of the symbol; the existence of the locked door; the bell's significance; the lamp in Bellweather House
+- **Partial Layer 3:** The Hidden Circle exists; she has watched Leon being observed; she knows Circle members have an interest in Leon
+- **Partial Layer 4:** The basement exists and what it contains (partially); Aurelius's fate (partially)
 
 ### Does Not Know
-- (No established limitations; she is likely aware of most hidden information)
+- The full extent of the Circle's current activities and factions
+- Whether Leon is truly Aurelius's heir or a pawn
+- What Leon will ultimately choose to do with the legacy
+- The full contents of the Pembroke & Clarke letter
 
-### Hidden From Character
-- Leon does not know her full name or her exact relationship to the family
+### Hidden From Leon
+- Her full name and exact relationship to the Ashcroft family
+- The full scope of her knowledge about the Circle
+- What she knows about Leon's parents/origins (if anything)
+- Her own role in the Circle's plans
+
+## Compartmentalization Status
+**COMPLEX COMPARTMENTALIZED — ALL LAYERS, PARTIAL.** Helen operates across all four layers but reveals only what serves her purposes. She knows more than Leon but less than the Inner Circle. She is the gatekeeper to the physical mystery (the house, the basement) but will not reveal her full hand. Her loyalty is to the house and its history, not necessarily to Leon.
 
 ## Character Voice
 - **Speech rhythm:** Measured, sometimes slow; often pauses

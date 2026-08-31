@@ -1,4 +1,4 @@
-# System 07 — Worldbuilding
+﻿# System 07 — Worldbuilding
 
 **Status:** CORE SYSTEM | **Created:** 2026-08-29 | **Updated:** 2026-08-29 for 1816 canon
 **LOTM Transfer:** Rules 3, 4 (information exchange, physical revelation)
@@ -96,4 +96,4 @@ Track across these worldbuilding dimensions:
 
 ## K. CONFIDENCE / EVIDENCE STATUS
 
-**CORE status. HIGH evidence.** Extensive worldbuilding files exist across WORLD/, WORLD_BIBLE/, DISTRICTS/, BUILDINGS/. The published chapters already embed worldbuilding in investigation scenes. This system formalizes the existing method.
+**CORE status. HIGH evidence.** Extensive worldbuilding files exist across WORLD_BIBLE/, DISTRICTS/, BUILDINGS/. The published chapters already embed worldbuilding in investigation scenes. This system formalizes the existing method.

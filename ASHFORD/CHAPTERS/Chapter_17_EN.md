@@ -1,7 +1,5 @@
 # Chapter 17 — The Boy at the Post Office
 
-## Ashford, 3 December 1816
-
 There is one thing a watchman learns sooner than the rounds and the lantern: that a list of names is a thing people come to you about. I had been on the roll nine days, and the town had not made a remark of it, and now the town began to make use of it.
 
 The postmaster's nephew came to my door a little after breakfast, with the hat in his hand, in the way of boys who have been taught to hold their hat when they hold their errand. He had carried letters to my hand twice and had taken off his hat to men he had carried letters to, and I had noticed him the way one notices weather; but this morning he stood at the door as a boy stands that has chosen the door, and that is a different thing.
@@ -58,7 +56,7 @@ I gave back the letter to the sideboard where the unfranked things lie, and I we
 
 I went home and wrote in my book:
 
-*3 Dec. The letter came again last evening, broken, for the house at the end, in the known hand; carried by a boy to the office, given at the corner by Marlowe's wall; two stood while the one gave; one of a coat like a gentleman's, with a voice that was not. The office has carried thus since before the office's postmaster. The bench has written this month about the hand-carried rates. There is, therefore, a letter that goes to the house every so many days, that the town has carried without remark since before I came to it; and there is a bench, this month, that has begun to see the thing the town has not seen since before the office. I am the watch, and I have seen it today. The seeing is now on my side of the question, and I do not know yet which of us it is that has been seen.*
+*3 Dec. The letter came again last evening, broken, for the house at the end, in the known hand; carried by a boy to the office, given at the corner by Marlowe's wall; two stood while the one gave; one of a coat like a gentleman's, with a voice that was not. The office has carried thus since before the office's postmaster. The bench has written this month about the hand-carried rates. There is, therefore, a letter that goes to the house every so many days, that the town has carried without remark since before I came to it; and there is a bench, this month, that has begun to see the thing the town has not seen since before the office. I am the watch, and I have seen it today. The seeing is now on my side of the question, and I do not know yet which of us it is that has been seen. The price of flour is on the pump again, and my own purse is lighter than it was when I came to this town; the season takes its toll in more ways than one.*
 
 ---
 

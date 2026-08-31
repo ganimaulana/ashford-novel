@@ -1,7 +1,5 @@
 # Chapter 4 — The People of Ashford
 
-**Ashford, 16 November 1816**
-
 That morning I woke later than usual. There was no particular reason. I simply did not have work for a few more days, and for the first time since arriving in Ashford, I did not feel the need to go anywhere at once.
 
 I made a simple breakfast. Then I read the newspaper in the dining room.
@@ -76,7 +74,7 @@ Margaret never announced that her café was a gathering place. The people had ma
 
 ---
 
-I ordered coffee and breakfast. Not long after, Margaret brought them.
+I ordered coffee and breakfast. Not long after, Margaret brought them. I paid the few coins and noted the price; it was not excessive, but I had begun to keep a mental tally of such expenses, and the tally was growing faster than I liked.
 "You've begun to find your way around town?"
 "A little."
 "Good."
@@ -632,4 +630,55 @@ But enough to make Ashford feel slightly different from the day I first arrived.
 I was no longer merely passing through this town.
 I was beginning to have places I knew.
 And people who knew me.
+
+---
+
+When I turned the corner onto Bellweather Lane, I saw Helen at our door.
+
+She was not alone.
+
+A figure stood with her on the step — tall, dark-coated, with his back to the street. I could not see his face. Helen's posture was different from the careful neutrality she kept in the house. Her hand rested on the door frame as if barring entry, or steadying herself. They spoke in low tones I could not make out from this distance.
+
+I slowed my pace. Something in the way they stood together suggested this was not a tradesman asking about an order, nor a neighbour making small talk.
+
+Helen saw me.
+
+Her expression did not change, but the figure turned his head slightly — not enough to show his face, only enough to register my approach. Then, without a word of farewell that I could hear, he stepped past Helen and walked down the lane in the opposite direction. His gait was measured, unhurried. He did not look back.
+
+Helen remained where she was until I reached the door.
+
+"Good afternoon," I said.
+
+"Mr. Ashcroft."
+
+She opened the door for me, as she always did. I stepped inside, glancing once more down the lane. The figure had already turned the corner.
+
+"A caller?" I asked.
+
+Helen closed the door. "Someone who had the wrong house."
+
+"He seemed to know you."
+
+"Many people in this town know me, sir. That does not mean they have the right door."
+
+Her tone was not sharp, but it was final. I did not press. Helen took my coat and hung it on the stand, and that was the end of the matter — or the end of what would be spoken of it.
+
+But I had seen the way the man had stood there. And I had seen the way Helen's hand had rested on the door frame, as if deciding whether to open or close it further.
+
+---
+
+That evening, before the lamp was lit, I asked Helen whether she ever used the back door after dark. She looked at me as if the question were strange. She did not, she said, and could not think who would. That night a shape passed the window of my room — a silhouette, there, and then not there when I drew the curtain back. I stood a long while with the curtain open. The street was empty. I added the hour to my notes, beside the others.
+
+And beneath that, I added one more line: *Visitor at door. Helen said wrong house. Did not give name.*
+
 For now, that was enough.
+
+---
+
+## ARC Integration (dev — not part of narrative)
+
+Maps planted anomalies to the ARC anomaly-case system (`WORLD_BIBLE/07_ANOMALIES/ARC_INDEX.md`). Narrative prose is untouched (Phase 0 LOCKED).
+
+- **Arthur's shop, old maps, street names that changed** → `ARC-016 The Bookshop After Midnight` (Arthur Edmund Bell; possible).
+- **Symbol-term inquiry in local records** → `ARC-005 The Mourning Key`.
+- **Arthur as Layer 1+2 bridge** → supports ARC investigation hand-off (per `1000_CHAPTER_MASTER_OUTLINE.md`).

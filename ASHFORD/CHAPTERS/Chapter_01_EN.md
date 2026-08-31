@@ -1,7 +1,5 @@
 # Chapter 1 — A Town with a Story to Tell
 
-## Ashford, 12 November 1816
-
 The stagecoach from London entered Ashford just as the sky began to lose its twilight colour. A thin rain fell without let-up, freckling the window glass with droplets that broke the lantern light along the road into trembling yellow shadows.
 
 I lowered the book I had been reading. I had already forgotten its author's name, and for the umpteenth time it reminded me that I ought to begin writing down the important things before they slipped out of memory altogether.
@@ -889,7 +887,7 @@ Or had someone who should never have left come home?
 - The mysterious man at the inn — quote "don't put too much trust in a first impression of this town"; seems to know Leon.
 - The painting of the boy = a candidate connection to the portrait Helen holds.
 - The bell silent "for a long time"; "something that not everyone knows is waiting."
-- Helen's portrait (as yet unknown to Leon): a child of ~16 before the house; inscription "Return 12 November 1816 — was supposed to arrive tomorrow."
+- Helen's portrait (as yet unknown to Leon): a child of ~16 before the house; inscription "Return 13 November 1816 — was supposed to arrive tomorrow."
 - The mysterious man in the woollen coat with the silver walking stick = a candidate member of a secret organisation.
 
 **Era decisions:**
@@ -898,5 +896,18 @@ Or had someone who should never have left come home?
 - Communication: letters through solicitors, physical notice boards.
 - Institutions: the Academy (not a university), St. Bartholomew's Church, independent family shops.
 - The Bellweather house: has no clear number.
+
+---
+
+## ARC Integration (dev — not part of narrative)
+
+Maps planted anomalies to the ARC anomaly-case system (`WORLD_BIBLE/07_ANOMALIES/ARC_INDEX.md`). Narrative prose is untouched (Phase 0 LOCKED); these are planning cross-references for later payoff only.
+
+- **The bell that tolls once in the night; Helen: "hadn't rung in a long time"** → `ARC-001 The Ashen Bell` (Object/Phenomenon; "Leon's early investigations").
+- **The symbol — circle + three lines + one dot — on the front-door nameplate and the room key** → `ARC-005 The Mourning Key` (Object; memory, restoration). The key is the symbol's first physical carrier.
+- **The painting of the boy on the stairs; Helen withholds the name** → `ARC-002 The Empty Portrait` (Object; identity, memory).
+- **The dream of the boy in a dark coat: "Don't be late again"** → `ARC-018 The Waking Dream` (Phenomenon; collective consciousness).
+- **St. Bartholomew's — "don't come after dark"** → `ARC-013 The Sleeping Church` (Location/Phenomenon; time, theology).
+- **The man in the rain at the inn** → `ARC-006 The Man in the Rain` (Entity/Event; death, prediction). Handled in the separate Ch1 police-meeting suggestions — NOT edited here.
 
 **Document status:** DRAFT — Chapter 1 completed revised for the 1816 era.

@@ -1,4 +1,4 @@
-# ASHFORD - Novel Bible / World Bible
+﻿# ASHFORD - Novel Bible / World Bible
 
 ## Tujuan Project
 
@@ -19,20 +19,28 @@ World Bible ini berfungsi sebagai:
 ASHFORD/
 ├── README.md (file ini)
 ├── CHAPTERS/ (chapter novel - JANGAN DIUBAH tanpa instruksi eksplisit)
-├── WORLD/ (world building Ashford)
-│   ├── Ashford_Master.md
-│   ├── CITY/ (karakteristik kota secara umum)
-│   ├── DISTRICTS/ (kawasan-kawasan di Ashford)
-│   ├── STREETS/ (jalan-jalan penting)
-│   ├── BUILDINGS/ (bangunan-bangunan penting)
-│   ├── BUSINESSES/ (bisnis dan tempat usaha)
-│   ├── ARCHITECTURE/ (periode arsitektur)
-│   ├── HISTORY/ (sejarah kota)
-│   └── SOCIAL/ (kehidupan sosial dan budaya)
+├── WORLD_BIBLE/ (world building Ashford - numbered structure)
+│   ├── 00_INDEX/
+│   ├── 00_MASTER/
+│   ├── 01_GEOGRAPHY/ (geografi dan tata kota)
+│   ├── 02_ARCHITECTURE/ (periode arsitektur)
+│   ├── 03_BUILDINGS/ (bangunan-bangunan penting)
+│   ├── 04_CHARACTERS/ (profil karakter)
+│   ├── 05_SOCIAL/ (kehidupan sosial dan budaya)
+│   ├── 06_HISTORY/ (sejarah kota)
+│   ├── 07_ANOMALIES/ (anomali dan fenomena)
+│   ├── 08_UNDERGROUND/ (organisasi bawah tanah)
+│   ├── 09_MYSTERY/ (mystery elements, clues, reveals)
+│   ├── 10_TIMELINE/ (kronologi peristiwa)
+│   ├── 11_ATMOSPHERE/
+│   ├── 12_NOVEL/
+│   ├── 13_REFERENCE/ (aturan canon, kontinuitas, konflik)
+│   ├── 14_CANON/ (canon rules dan continuity)
+│   └── 15_METADATA/ (project state, chapter status)
 ├── CHARACTERS/ (karakter-karakter dalam novel)
-├── MYSTERY/ (mystery elements, clues, reveals)
-├── TIMELINE/ (kronologi peristiwa)
-└── REFERENCE/ (aturan canon, kontinuitas, konflik)
+├── 09_MYSTERY/ (mystery elements, clues, reveals)
+├── 10_TIMELINE/ (kronologi peristiwa)
+└── 13_REFERENCE/ (aturan canon, kontinuitas, konflik)
 ```
 
 ---
@@ -48,16 +56,21 @@ Tempat menyimpan chapter novel yang sudah ditulis.
 - JANGAN merevisi chapter tanpa instruksi eksplisit
 - Chapter adalah sumber canon utama
 
-### WORLD/
-Dokumentasi lengkap tentang kota Ashford:
-- Geografi dan tata kota
-- Kawasan dan distrik
-- Jalan-jalan
-- Bangunan penting
-- Bisnis dan tempat usaha
-- Arsitektur berbagai periode
-- Sejarah kota
-- Kehidupan sosial sehari-hari
+### WORLD_BIBLE/
+World building Ashford dengan struktur numbered directories:
+- 01_GEOGRAPHY: Geografi dan tata kota
+- 02_ARCHITECTURE: Arsitektur berbagai periode
+- 03_BUILDINGS: Bangunan-bangunan penting
+- 04_CHARACTERS: Profil lengkap setiap karakter
+- 05_SOCIAL: Kehidupan sosial dan budaya
+- 06_HISTORY: Sejarah kota
+- 07_ANOMALIES: Anomali dan fenomena
+- 08_UNDERGROUND: Organisasi bawah tanah
+- 09_MYSTERY: Mystery elements, clues, reveals
+- 10_TIMELINE: Kronologi peristiwa
+- 13_REFERENCE: Aturan canon, kontinuitas, konflik
+- 14_CANON: Canon rules dan continuity
+- 15_METADATA: Project state, chapter status
 
 ### CHARACTERS/
 Profil lengkap setiap karakter:
@@ -67,20 +80,20 @@ Profil lengkap setiap karakter:
 - Pengetahuan terhadap mystery
 - Arc perkembangan karakter
 
-### MYSTERY/
+### 09_MYSTERY/
 Dokumentasi mystery elements:
 - Clues yang sudah muncul
 - Pertanyaan yang masih terbuka
 - Reveals yang sudah dikonfirmasi
 - Pengetahuan setiap karakter tentang mystery
 
-### TIMELINE/
+### 10_TIMELINE/
 Kronologi peristiwa:
 - Timeline sejarah Ashford
 - Timeline novel (2006)
 - Urutan kejadian per chapter
 
-### REFERENCE/
+### 13_REFERENCE/
 Dokumentasi meta:
 - Aturan canon
 - Kontinuitas antar-chapter
@@ -121,7 +134,7 @@ Setiap informasi dalam World Bible harus diberi label:
 
 Jika ditemukan informasi yang bertentangan:
 1. JANGAN langsung memilih salah satu
-2. Catat konflik di `REFERENCE/Chapter_Continuity.md`
+2. Catat konflik di `WORLD_BIBLE/14_CANON/Chapter_Continuity.md`
 3. Prioritaskan informasi dari chapter terbaru
 4. Tunggu keputusan manual untuk resolusi
 
@@ -250,9 +263,9 @@ Leon Ashcroft, Margaret Eleanor Whitmore, Daniel James Carter, Arthur Edmund Bel
 ## Status Pengembangan
 
 **Chapter yang sudah ada:** [BELUM DITETAPKAN]  
-**Canon terkonfirmasi:** Lihat `REFERENCE/Canon_Rules.md`  
-**Konflik kontinuitas:** Lihat `REFERENCE/Chapter_Continuity.md`  
-**Mystery terbuka:** Lihat `MYSTERY/Open_Questions.md`
+**Canon terkonfirmasi:** Lihat `WORLD_BIBLE/14_CANON/Canon_Rules.md`
+**Konflik kontinuitas:** Lihat `WORLD_BIBLE/14_CANON/Chapter_Continuity.md`
+**Mystery terbuka:** Lihat `09_MYSTERY/Open_Questions.md`
 
 ---
 

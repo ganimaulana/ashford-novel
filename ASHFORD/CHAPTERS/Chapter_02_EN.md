@@ -1,7 +1,5 @@
 # Chapter 2 — A Town I Did Not Know
 
-**Ashford, 14 November 1816**
-
 I woke before the morning bell sounded.
 
 The room was still dark when I drew the curtain back a little, and grey morning light fell across the floor through the gap in the window. Outside, the back garden looked damp with dew. Someone in the neighbouring house had opened a window and hung out linen; in the distance, a late bird cut through the cold air.
@@ -754,7 +752,11 @@ No. Not yet.
 
 I had no reason yet to connect everything. One symbol in an old book meant nothing, and I had long been a man who held back from conclusions reached too quickly.
 
-I closed the notebook, put out the lamp, and lay down. The day ended without any incident I could relate again — except for one small thing I had not yet given a name to. Tomorrow I would not yet begin work, and I still had a few days to learn the town: to find a shop that sold writing desks, to find a cheaper place to eat, perhaps to meet Daniel again. Ordinary things.
+I closed the notebook, put out the lamp, and lay down.
+
+That night, just before I slept, I heard a soft sound from the back of the house — the latch of the back door, as if someone had tried it from outside. I went down with the lamp. The door was closed, the bolt still drawn as I had left it. The yard held nothing but the streetlamp's light on wet grass. I told myself it was the old frame shifting in the wind, and wrote the hour in my notebook beside the symbol. One small thing, not yet named.
+
+The day ended without any incident I could relate again — except for those two small things I had not yet given a name to. Tomorrow I would not yet begin work, and I still had a few days to learn the town: to find a shop that sold writing desks, to find a cheaper place to eat, perhaps to meet Daniel again. Ordinary things.
 
 Before I fell asleep, my mind returned to the symbol. I tried to remember where I had seen it — on the front door of this house, on the head of the room key, beneath the bell. I did not yet know what it meant. Tomorrow. Not everything had to have an answer today.
 
@@ -785,5 +787,16 @@ And without my noticing, the history book I had left on the table was still open
 - Terms: the Academy (not university); tutor (not professor); stagecoach (not bus, diligence); pocket watch (not wristwatch); coffee house (not café).
 - Ashford Library is a subscription library, not a modern public lending library.
 - Locations kept consistent: Bellweather Lane, Morris & Sons Bakers, High Street, Market Square, Ashford Library, the Old Industrial Quarter (former textile works), Bell's Books & Antiquities.
+
+---
+
+## ARC Integration (dev — not part of narrative)
+
+Maps planted anomalies to the ARC anomaly-case system (`WORLD_BIBLE/07_ANOMALIES/ARC_INDEX.md`). Narrative prose is untouched (Phase 0 LOCKED).
+
+- **The symbol printed in the older local-records book** → reinforces `ARC-005 The Mourning Key` (now seen in print, lifting it from the house into recorded history).
+- **Helen's portrait — "He would return on 13 November 1816"; "come earlier than expected"** → `ARC-002 The Empty Portrait` (identity, memory).
+- **Margaret as the town's listening post / unofficial information hub** → Layer-1 anchor (per `1000_CHAPTER_MASTER_OUTLINE.md`: Daniel & Margaret remain Layer 1 only). Supports future investigations without breaking compartmentalization.
+- **Recurring "house without a number" motif** → seeds `ARC-010 The Forgotten Name` and `ARC-004 The House Beneath Bellweather`.
 
 **Document status:** DRAFT — Chapter 2 translated into English for the 1816 era.

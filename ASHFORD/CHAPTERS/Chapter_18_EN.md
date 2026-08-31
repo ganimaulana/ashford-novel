@@ -1,7 +1,5 @@
 # Chapter 18 — The Double Absence
 
-## Ashford, 4–5 December 1816
-
 The lamp burned at nine on Tuesday night, steady, at its old height, and was carried away along the rooms in the old way, and no sound came along the lane; and I set it down as the rule held, and went to bed with the rule holding, which is a thing a man does not know he is grateful for until the rule stops holding.
 
 It stopped on Wednesday.
@@ -83,4 +81,6 @@ He went down the lane with his lantern at his side, and I stood at the door, and
 I went in and wrote in my book:
 
 *5 Dec. The clerk's key of the tower is with the man from the bench; the bench has seen, or will see, that the bell is not in the tower; the town's agreement is now the bench's paper. The round goes past the church on Saturday. Hodge's second ring: never given up, in no man's knowledge. There are two keys told of, and one ring laid by, and the door stands open to two men, and to a third that has not been seen. I am on the watch, and the watch goes past the church, and I do not know yet whether the round is mine or whether I am the round's.*
+
+I set down the pen and looked back over the week's notes. The cold had come four times, each after I had handled the bell or the compass. The forgetfulness—the moments when I could not recall what I had meant to do—had come on the same days. I had not made the connection until now. It was not the season. It was the objects themselves.
 </content>

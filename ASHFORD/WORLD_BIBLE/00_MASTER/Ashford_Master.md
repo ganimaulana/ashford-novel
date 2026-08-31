@@ -355,8 +355,8 @@ Payoff: Chapter TBD
 5. Update `07_ANOMALIES/ARC_Master.md`
 
 ### To Track Mystery:
-1. Log clues in `09_MYSTERY/Clues.md`
-2. Update `09_MYSTERY/Reveal_Structure.md`
+1. Log clues in `09_09_MYSTERY/Clues.md`
+2. Update `09_09_MYSTERY/Reveal_Structure.md`
 3. Check `12_NOVEL/Mystery_Pacing.md`
 4. Verify consistency in `00_MASTER/Continuity_Master.md`
 

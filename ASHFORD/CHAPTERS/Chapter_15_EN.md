@@ -1,7 +1,5 @@
 # Chapter 15 — A Light Kept for the Outside
 
-## Ashford, 1 December 1816
-
 December came in on Sunday with the frost grown serious, and the church road hard underfoot, and the whole town walking on it the same way as every Sunday, with its face turned to the steeple that had no voice.
 
 I walked the middle of it and did not look at the end house, because looking on Sunday had become a kind of speech in this town, and I had said enough the day before. But the rosemary was in its pot when I came by it, black-leafed at the tips with the cold and green at the heart still, and I took in that one glance and gave it out again, and the town went on to prayers with its coat collars up and saw nothing, and did it with such long practice that the doing of it had become a grace.

@@ -1,9 +1,9 @@
-# ASHFORD — GLOBAL WORLD SUMMARY
+﻿# ASHFORD — GLOBAL WORLD SUMMARY
 
 **Status:** READ-ONLY SYNTHESIS
 **Date:** 2026-08-29
 **Scope:** Complete active ASHFORD project
-**Purpose:** High-level comprehensive synthesis of the entire active world for Arc/Timeline/Chapter planning
+**Purpose:** High-level comprehensive synthesis of the entire active world for Arc/10_TIMELINE/Chapter planning
 
 ---
 
@@ -40,7 +40,7 @@ Ashford is a "living old city" where 70–80% of buildings are old, layered thro
 
 [CANON CONFLICT — ARTHUR'S SHOP]: `Canon_Rules.md` RESOLVED-001 establishes Arthur's shop as "Bell's Books" (a bookshop, not antiquarian). `Ashford_Districts.md` lists "Arthur's Antiquarian Shop." `WORLD\Buildings.md` (1816) splits Arthur into two shops. Inconsistent terminology.
 
-[CANON CONFLICT — MARGARET'S SURNAME]: `Character_Registry.md` marks Margaret as PROPOSED with provisional surname "Whitmore." `CHARACTERS/Margaret_Eleanor_Whitmore.md` and chapter extractions confirm "Margaret Eleanor Whitmore" as CANON.
+[CANON CONFLICT — MARGARET'S SURNAME]: `Character_Registry.md` marks Margaret as PROPOSED with provisional surname "Whitmore." `WORLD_BIBLE/04_CHARACTERS/characters/Margaret_Whitmore.md` and chapter extractions confirm "Margaret Eleanor Whitmore" as CANON.
 
 ---
 
@@ -216,7 +216,7 @@ Aristocracy/Gentry → Professional → Merchants/Shopkeepers → Artisans → L
 
 **Established:** Church of England (Anglican); St. Bartholomew's as parish church; Vicar as community leader; parish registers; church centrality.
 
-**Folklore/Superstition (Potential):** Local ghost stories; number 13; bell ringing as omen; symbol as marker; date significance.
+**Folk07_ANOMALIES/Superstition (Potential):** Local ghost stories; number 13; bell ringing as omen; symbol as marker; date significance.
 
 ---
 
@@ -477,7 +477,7 @@ Aurelius's full biography and fate; Circle's founding; M.R./J.T./M.B. identities
 ### Level 5 — Leon revelations (Ch 33–40)
 Complete connection to Aurelius; why Leon chosen; Leon's "power"; inheritance responsibilities; person who left Leon; Leon's role in Circle crisis; what to do with key; join/reform/destroy decision.
 
-### Level 6 — World/faction/supernatural (Ch 33–40)
+### Level 6 — WORLD_BIBLE/faction/supernatural (Ch 33–40)
 Circle's true purpose; anomalous elements nature; international scope; relationship to wider world; ARC true function; symbol origin; supernatural heritage.
 
 ### Level 7 — Endgame truths (Final)
@@ -543,7 +543,7 @@ Local → Historical → Personal → Supernatural → Regional → National (in
 
 **Not Yet Introduced (must stay hidden):** Hidden Circle members; supernatural system; dream/date explanation; Helen's identity; envelope sender; locked door contents; medallion/box [CONFLICT]; orphan background [CONFLICT].
 
-**Exploration Material (ARCS/):** Arc 001 "Girl in Red Dress" (chapters 9–15 explore/draft), Arc 002 "Watchers in Fog," Arc 003 "Silence in Oak Street." NOT canon.
+**Exploration Material (ARCS/):** Arc 001 "Girl in Red Dress" (chapters 9–15 exp07_ANOMALIES/draft), Arc 002 "Watchers in Fog," Arc 003 "Silence in Oak Street." NOT canon.
 
 ---
 

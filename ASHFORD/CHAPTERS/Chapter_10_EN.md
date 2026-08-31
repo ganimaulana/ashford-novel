@@ -1,7 +1,5 @@
 # Chapter 10 — A Name on a Sheet
 
-## Ashford, 22 November 1816
-
 The letter to Pembroke & Clarke took me the better part of a morning, partly because I wrote it twice and partly because I wanted it to do two things without appearing to ask for either.
 
 The first thing was the common thing: a gentleman acknowledging the receipt of papers touching an inheritance, wishing rather to be satisfied on points than to trouble them, and asking — plainly — whether the house had ever in its knowledge received any letter marked *Bellweather House*, or dated about Monday last, or at any time addressed to a name rather than to a man. If such a thing had gone through their offices it had been done without their knowledge, which I hoped, in the writing of it, that they would believe I believed.
@@ -44,7 +42,7 @@ He took the leaf up to the window, held it a certain way — and I saw what he s
 
 I had a name scraped from a page; and the page itself, I now learned, was a new insertion. The man who took the trouble — cutting a leaf from a bound town record and fitting another in its place — had done it recently enough to want, as it were, to be living on the side of it when it was found out; which was, I thought, a strange kind of courage, and stranger still that it had been practised so quiet a long while — for it had been found out now, and the officer seemed more provoked than shocked.
 
-He made no comment of any. He wrote for me a certificate of the fact, with the date and the two hands of him and of the book, and the charge of it I paid; and it occurred to me, walking away, that it was the first paper written about Bellweather House — and indeed about me — that had passed out of the town in living memory.
+He made no comment of any. He wrote for me a certificate of the fact, with the date and the two hands of him and of the book, and the charge of it I paid; it was not a sum to ruin a man, but it was not a sum a man could afford to part with often, and I noted the weight of it in my purse as I walked away. And it occurred to me, walking away, that it was the first paper written about Bellweather House — and indeed about me — that had passed out of the town in living memory.
 
 ---
 
@@ -99,3 +97,5 @@ He wished me good night, going down the one road, and went up to bed in the vest
 and I sat down to put it in the book, and could not, for the life of my pen; for the whole thing was not true till I had wrote it:
 
 I do not, I wrote, know what the town will do, in case the truth is found out — but the town is in the act, that same, of not thinking nothing; — and the first thing in Ashford that has stopped thinking nothing, as I understand, is the bell.
+
+I shut the book and sat a moment with my hand still on it. The cold from the bell had not quite left my fingers, though I had not touched it for hours. I did not think much of it — the weather, the late hour, the strain of the week's watching. But I noted it, as I note all things that do not fit, and let it stand.

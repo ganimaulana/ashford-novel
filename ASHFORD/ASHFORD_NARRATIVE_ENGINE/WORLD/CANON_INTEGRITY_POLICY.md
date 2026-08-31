@@ -1,4 +1,4 @@
-# CANON INTEGRITY POLICY — World-Building & Character Reference Guidelines
+﻿# CANON INTEGRITY POLICY — World-Building & Character Reference Guidelines
 
 **Status:** 📘 POLICY DOCUMENT | **Version:** 1.0 | **Created:** 2026-08-29  
 **Purpose:** Prevent canon contamination in world-building documents  
@@ -231,16 +231,16 @@ Trigger a canon conflict audit when:
 **Recommended searches:**
 ```bash
 # Find character names in world docs
-grep -r "Daniel|Margaret|Arthur|Helen" WORLD/*.md
+grep -r "Daniel|Margaret|Arthur|Helen" WORLD_BIBLE/04_CHARACTERS/*.md
 
 # Find missing status tags
-grep -r "\*\*[A-Z][a-z]* [A-Z][a-z]*:\*\*" WORLD/*.md | grep -v "\[CANON|PROPOSED|HISTORICAL_REFERENCE\]"
+grep -r "\*\*[A-Z][a-z]* [A-Z][a-z]*:\*\*" WORLD_BIBLE/03_BUILDINGS/*.md | grep -v "\[CANON|PROPOSED|HISTORICAL_REFERENCE\]"
 
 # Find PLACEHOLDER tags
-grep -r "PLACEHOLDER" WORLD/*.md
+grep -r "PLACEHOLDER" WORLD_BIBLE/03_BUILDINGS/*.md
 
 # Find PROPOSED content
-grep -r "\[PROPOSED\]" WORLD/*.md
+grep -r "\[PROPOSED\]" WORLD_BIBLE/04_CHARACTERS/*.md
 ```
 
 ---
@@ -268,7 +268,7 @@ When world-building documents need to reference character information:
 
 **Owner:** Margaret Eleanor Whitmore (CHAR-003) [CANON - Chapter 2]
 **Function:** Community gathering place, gossip network
-**Character Details:** See CHARACTERS/Margaret_Eleanor_Whitmore.md
+**Character Details:** See ../../WORLD_BIBLE/04_CHARACTERS/characters/Margaret_Whitmore.md
 
 **Architectural Context:** Small tearoom with 6-7 tables represents
 typical merchant-class establishment in 1816 market town. [HISTORICAL_REFERENCE]

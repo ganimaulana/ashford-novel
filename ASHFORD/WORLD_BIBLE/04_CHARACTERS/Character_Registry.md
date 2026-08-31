@@ -18,12 +18,27 @@
 | **Thomas Wren** | `characters/Thomas_Wren.md` | CANON | Hidden World | Chapter 9 | Very high — knew the secrets; deceased |
 | **Aurelius Ashcroft** | `characters/Aurelius_Ashcroft.md` | CANON / HIDDEN | Hidden World | Chapter 5 (mentioned) | Very high — central mystery |
 | **Edwin Ashcroft** | `characters/Edwin_Ashcroft.md` | PROPOSED — NOT CANON | (Obsolete) | Old 2006-era | Not applicable |
-| **Constable** | `characters/Constable.md` | UNNAMED SUPPORTING ROLE | Ordinary | Chapter 2 (mentioned) | Low |
+| **James Calloway** | `characters/Calloway.md` | CANON | Interesting | Chapter 2 (mentioned) | Moderate — knows town history, not ARC mechanics |
 | **Vicar** | `characters/Vicar.md` | UNNAMED SUPPORTING ROLE | Ordinary | Chapter 2 (mentioned) | Moderate — parish records |
 | **Physician** | `characters/Physician.md` | UNNAMED SUPPORTING ROLE | Ordinary | Chapter 2 (mentioned) | Low |
 | **Baker** | `characters/Baker.md` | UNNAMED SUPPORTING ROLE | Ordinary | Chapter 2 (mentioned) | Low |
 | **Librarian** | `characters/Librarian.md` | UNNAMED SUPPORTING ROLE | Ordinary | Chapter 2 (mentioned) | Moderate — library resources |
 | **Military Teacher** | `characters/Military_Teacher.md` | PROPOSED — NOT CANON | (Potential) | Not yet introduced | Not applicable |
+| **Dr. Elias Mercer** | `characters/Elias_Mercer.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | Very high — Order of Severence founder |
+| **Dr. Miriam Vale** | `characters/Miriam_Vale.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | Very high — biological research |
+| **Silas Crowe** | `characters/Silas_Crowe.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | High — field operations |
+| **Clara Bell** | `characters/Clara_Bell.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | Moderate — donor knowledge |
+| **Adrian Locke** | `characters/Adrian_Locke.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | Moderate — transplant subject |
+| **Eleanor Shaw** | `characters/Eleanor_Shaw.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | High — records/intelligence |
+| **Nathaniel Graves** | `characters/Nathaniel_Graves.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | High — ideological leadership |
+| **Beatrice Holloway** | `characters/Beatrice_Holloway.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | Moderate — surgical knowledge |
+| **Jonathan Reed** | `characters/Jonathan_Reed.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | High — composite transplant |
+| **Rose Whitmore** | `characters/Rose_Whitmore.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | Very high — dissident knowledge |
+| **Samuel Graves** | `characters/Samuel_Graves.md` | PROPOSED — [CANDIDATE] | Ordinary | Not yet introduced | Low — military experience only |
+| **Dr. Samuel Blackwood** | `characters/Samuel_Blackwood.md` | PROPOSED — [CANDIDATE] | Interesting | Not yet introduced | Moderate — natural philosophy |
+| **Thomas Finch** | `characters/Thomas_Finch.md` | PROPOSED — [CANDIDATE] | Ordinary | Not yet introduced | Low — records and patterns |
+| **Henry Marlow** | `characters/Henry_Marlow.md` | PROPOSED — [CANDIDATE] | Ordinary | Not yet introduced | Low — navigation and observation |
+| **Clara Hart** | `characters/Clara_Hart.md` | PROPOSED — [CANDIDATE] | Ordinary | Not yet introduced | Low — apothecary/informant |
 
 ---
 

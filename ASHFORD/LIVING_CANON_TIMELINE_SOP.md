@@ -1,10 +1,10 @@
-# ASHFORD — LIVING CANON & DYNAMIC TIMELINE SOP
+﻿# ASHFORD — LIVING CANON & DYNAMIC TIMELINE SOP
 
 **Status:** FINAL GOVERNING DOCUMENT — AUTHOR-APPROVED
 **Effective:** 2026-08-29
 **Supersedes:** Every statement treating 1816 as a PERMANENT temporal lock (Canon_Rules "Setting = 1816" as cap, NARRATIVE_ENGINE "CANON ERA = 1816 / all future development MUST be consistent with 1816", INDEX "canon lock" clauses).
 **Does NOT supersede:** Chapter 001–008 on-page continuity (highest priority), the 1816 STARTING POINT, ARCHIVE non-canon rules, the 2006/railway/Edwin deprecations, RESOLVED-001, character-knowledge discipline, or the period-appropriateness constraint (now evaluated against the CURRENT STORY YEAR, not frozen at 1816).
-**Current story date is tracked in:** `METADATA/WORLD_STATE.md` (mandatory living record).
+**Current story date is tracked in:** `15_METADATA/WORLD_STATE.md` (mandatory living record).
 
 ------------------------------------------------------------
 
@@ -107,13 +107,13 @@ Priority:
 
 **B. WORLD_BIBLE/** — Canon Rules, World Foundation, Geography, History, Society, Characters, Mysteries, Timeline, relevant canon files.
 
-**C. WORLD/** — locations, buildings, businesses, districts, history, society, geography, other relevant active world files.
+**C. WORLD_BIBLE/** — locations, buildings, businesses, districts, history, society, geography, other relevant active world files.
 
 **D. ASHFORD_NARRATIVE_ENGINE/** — Read applicable generation and continuity rules. Pay particular attention to active 1816 START-ERA material and any later-period material.
 
 **E. CHARACTERS/** — Read profiles for every participating character. Read relevant potential characters when planning introductions.
 
-**F. ARCS/ · G. TIMELINE/ · H. LORE/ · I. MYSTERY/**
+**F. ARCS/ · G. 10_TIMELINE/ · H. 07_ANOMALIES/ · I. 09_MYSTERY/**
 
 Read the relevant active files recursively rather than relying on filenames alone.
 
@@ -140,7 +140,7 @@ The existence of an archived file does not make its contents canon.
 
 Canon is continuously evolving.
 
-After every generated chapter or approved major event, update the appropriate living records (`METADATA/WORLD_STATE.md` ledger plus affected canon files).
+After every generated chapter or approved major event, update the appropriate living records (`15_METADATA/WORLD_STATE.md` ledger plus affected canon files).
 
 Track:
 
@@ -375,7 +375,7 @@ After a chapter is generated, create/update the continuity records:
 
 CURRENT DATE · CURRENT LOCATION · EVENTS · CHARACTER KNOWLEDGE CHANGES · CHARACTER STATE CHANGES · RELATIONSHIP CHANGES · LOCATION STATE CHANGES · NEW CLUES · NEW MYSTERIES · RESOLVED THREADS · FACTION ACTIVITY · ECONOMIC EFFECTS · POLITICAL EFFECTS · SOCIAL EFFECTS · HISTORICAL CONTEXT · NEW CANON FACTS · UNRESOLVED CONTRADICTIONS · LONG-TERM STORY SEEDS
 
-Primary ledger: `METADATA/WORLD_STATE.md` (chapters ledger) + affected domain files.
+Primary ledger: `15_METADATA/WORLD_STATE.md` (chapters ledger) + affected domain files.
 
 ## 22. CANON PRIORITY
 
@@ -384,7 +384,7 @@ When information conflicts:
 2. Explicit approved canon rules
 3. Active character canon
 4. Active world canon
-5. Active mystery/timeline/arc planning
+5. Active 09_MYSTERY/10_TIMELINE/arc planning
 6. Narrative engine guidance
 7. Historical research
 8. Inference

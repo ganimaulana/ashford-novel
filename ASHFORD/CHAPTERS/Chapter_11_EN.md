@@ -1,7 +1,5 @@
 # Chapter 11 — A Round of the Watch
 
-## Ashford, 23 November 1816
-
 The watch-list, being made up in haste and signed in a coffee-house, was posted on the church door by Monday and read out by the constable on Saturday morning — this latter circumstance being, I understood, because nothing about the watching of Ashford in 1816 would be hurried, and the constable had a right to be skeptical of a paper invented before it had been argued about twice.
 
 He was a square man of sixty, who kept one bobby, on loan from the parish by rotation for the market, and wore his staff like a tool he was embarrassed by. When he read the names, he read them as a clerk reads the rolls: aloud, evenly, and with a particular flatness on the names of men he was not obliged to arrest, which he had reason to remember. He read: "Bell weather lane — Ash-croft."
@@ -25,6 +23,42 @@ He told me so at the shop door, before Margaret's was open, with the dryness he 
 "I think them now, sir. I signed anyway."
 
 "Of course you did," Arthur said, and he took out the shop key and did not look up again, and the door stood open behind him on that smell of paper with the rain cold off it, and I went to school and the shop did not take a word of it, and I have written none of the exchange into this book before this morning for the reason that I did not know how it belonged.
+
+---
+
+Walking home, I saw Hobbs on the High Street.
+
+He stood at the corner where the lane turns toward the mill-yard, looking up at the houses the way a man counts windows when he has lost track of which one is his. He did not see me at first. His good hand was raised slightly, as if measuring something invisible against the roofline.
+
+When I came close enough to speak, he turned.
+
+"Mr. Ashcroft."
+
+"Hobbs."
+
+He lowered his hand. For a moment he looked as though he might say something, then thought better of it. I waited. A man who has learned to speak carefully will not speak at all if given the choice.
+
+"You signed the watch," I said.
+
+"I did, sir."
+
+"Do you know the lane well?"
+
+He looked past me toward Bellweather Lane, then back. "I know it as well as any man that has walked it eleven years without finding what he was looking for."
+
+"And what were you looking for?"
+
+Hobbs did not answer directly. Instead, he nodded toward the end of the lane, where the roofs stood low against the grey sky. "There are houses a man walks past every day and never sees, sir. And there are houses a man sees once and cannot stop seeing."
+
+He said it plainly, without looking at me, and I understood that this was not philosophy but experience.
+
+"The end house," I said.
+
+"The end house." He adjusted the staff under his arm. "Good day to you, sir."
+
+He walked on before I could say more. I watched him go, his stride uneven but determined, a man who had learned to carry himself with one arm and did so without complaint.
+
+I stood there a moment longer, looking up at the same roofline he had been measuring. Whatever Hobbs had been counting, I could not see it. But I had the sense that he had been counting for a long time, and that he was not finished yet.
 
 It belongs here. Daniel's scraped page is in my drawer; the trust-roll has been broken and mended in the town's own keeping at a date within the clerk's own memory; and I have this morning to learn that the man who keeps thirty years of the lane's own papers behind a counter declined to sign a list whose principal business is the lane.
 
@@ -72,12 +106,24 @@ So the book said, and the town's new paper had existed eight-and-forty hours bef
 
 There is nothing to see here.
 
-It was Hobbs that said it, on the way home. He had kept with me by accident, on his walk to the poor-house of the High Street, or the way of the market at the west wall; he had not asked to walk there; it is the way of a man who has no wife and no regiment, who keeps on the town's own side of the town's own ways, — when I had offered him the name of a street to go along, and he said, "There is a light kept there this eleven years, sir, and it has wanted no one's looking to, till there comes one."
+It was Hobbs that said it, on the way home. He had kept with me by accident, on his walk to the poor-house on High Street. He had not asked to walk with me; it is the way of a man who has no wife and no regiment, who keeps to the town's own paths. When I offered him the name of a street to go along, he said, "There is a light kept there these eleven years, sir, and it has wanted no one's looking to, till there comes one."
 
-It was the first plain thing that he had spoken to me of, and I stopped to make it in the book that the man that has not spoken of anything in eleven years will not speak of it to an accident, and that an accident had asked what it was, — and when we got to the poor-house door, he turned and said: —
+It was the first plain thing he had spoken to me of. I stopped to note it in my book: that a man who has not spoken of anything in eleven years will not speak of it to a stranger by accident.
 
-"It's the bell you heard, sir, and not the bell. There's no bell there. But there is a rope, sir, — that has been a bell in a man's house. There is no bell, as you will find, in a house where a rope is wanted. There is, when there is a hand that is a-going up in the dark. Good night, sir."
+When we got to the poor-house door, he turned.
 
-There being nothing to be answered, I wished him good night, and he went in; and I stood in the lane, at the gate of my own end of the whole length of house, with the book shut; — I stood there long, — and the whole town's own agreement to itself was the one thing in it that was the whole town's, — and it took a man of the fife, of eleven years, to put it right to the whole watch, — and the watch had it, — and there it was: —
+"It's the bell you heard, sir, and not the bell."
 
-There was nothing to see, — and the town, and not one more of the whole of it that I could tell you of, would be the same thing when I knew it.
+I waited.
+
+"There's no bell there. But there is a rope, sir." His hand moved slightly, as if pulling something down. "A rope that has been a bell in a man's house. There is no bell, as you will find, in a house where a rope is wanted. There is, when there is a hand that is going up in the dark."
+
+He said it plainly, without ceremony.
+
+"Good night, sir."
+
+There being nothing to be answered, I wished him good night, and he went in.
+
+I stood in the lane at the gate of my own house, with the book shut. I stood there long. The whole town's agreement with itself was the one thing in it that was the whole town's. It took a man of the fife, eleven years silent, to say it plain to the watch.
+
+There was nothing to see. And the town would be the same thing when I knew it.

@@ -1,4 +1,4 @@
-# Ashford Narrative Engine — Index
+﻿# Ashford Narrative Engine — Index
 
 **Created:** 2026-08-29 | **Updated:** 2026-08-29 for Story Architecture Update
 **Purpose:** Master reference for the 15-system narrative framework + 1816 era framework + Story Architecture.
@@ -18,7 +18,7 @@
 | `AURELIUS_MYSTERY_ARCHITECTURE.md` | **Accidental convergence system** — Relic tracking, mystery revelation, convergence mechanics. **v2.1:** Expanded to 9 relic outcome types, removed reward framing, principle-based pacing | CORE |
 | `CASE_PROGRESSION_FRAMEWORK.md` | **Investigation design system** — 7 case types, complexity escalation, organic character introduction. **v2.1:** Added historical pressure → case mechanism, character network integration | CORE |
 | `CORE_ORGANIZATION_FRAMEWORK.md` | **13 member development system** — Member functions, relationship dynamics, knowledge distribution | CORE |
-| `STORY_STATE_SYSTEM.md` | **Living canon tracker** — Tracks current state across canon/mystery/character/arc/chapter layers with chapter/cause/evidence verification. **NEW v1.0** | CORE |
+| `STORY_STATE_SYSTEM.md` | **Living canon tracker** — Tracks current state across canon/09_MYSTERY/character/arc/chapter layers with chapter/cause/evidence verification. **NEW v1.0** | CORE |
 
 **Key Principles:**
 - **Historical Pressure Foundation:** Cases emerge from 1816-era economic/social/political pressures (not random plot generators)
@@ -66,7 +66,7 @@
 |----------|---------|
 | `1816_CANON_AUDIT.md` | Full 2006-era contamination scan |
 | `1816_WORLD_FRAMEWORK.md` | 1816-era world definition (canon-supported + unresolved) |
-| `1816_INFORMATION_FLOW.md` | Information movement model for mystery/engine control |
+| `1816_INFORMATION_FLOW.md` | Information movement model for 09_MYSTERY/engine control |
 | `1816_CONTINUITY_CHECK.md` | Mandatory chapter-by-chapter 1816 checklist |
 | `LEGACY_2006_MIGRATION.md` | Legacy 2006 document migration tracking |
 | `1816_IMPLEMENTATION_REPORT.md` | Final validation report |
@@ -114,7 +114,7 @@ For AI agents: Reference the relevant system based on the writing task. Each sys
 ## CONFIDENCE RATINGS
 
 All systems are rated CORE status with HIGH evidence confidence, based on:
-- Extensive existing canon files (WORLD_BIBLE/, TIMELINE/, DISTRICTS/, BUILDINGS/)
+- Extensive existing canon files (WORLD_BIBLE/, 10_TIMELINE/, DISTRICTS/, BUILDINGS/)
 - Published chapters (001-008) demonstrating implementation of these patterns
 - Explicit rules already present in README.md, Canon_Rules.md, and other documents
 - World Foundation v2 (1816) as authoritative era definition
@@ -128,5 +128,5 @@ These systems formalize existing methods and are now locked to the 1816 era.
 - 2006-era documents are LEGACY and marked as such (see LEGACY_2006_MIGRATION.md)
 - Published chapters 001-008 remain as canon with migration notes (content preserved)
 - World Foundation v2 (1816) is the authoritative source **for the starting period**
-- The story timeline is DYNAMIC: 1816 is the start, not a cap — all future development must be consistent with the **current story year** as governed by `../LIVING_CANON_TIMELINE_SOP.md` and tracked in `METADATA/WORLD_STATE.md`
+- The story timeline is DYNAMIC: 1816 is the start, not a cap — all future development must be consistent with the **current story year** as governed by `../LIVING_CANON_TIMELINE_SOP.md` and tracked in `15_METADATA/WORLD_STATE.md`
 - Do not restore or preserve 2006-specific assumptions

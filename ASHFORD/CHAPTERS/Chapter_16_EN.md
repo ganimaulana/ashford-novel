@@ -1,7 +1,5 @@
 # Chapter 16 — The Register of the House
 
-## Ashford, 1–2 December 1816
-
 The nine o'clock hour came, and the lamp did not come.
 
 I had the book open on my knee and the candle low, and I watched the upper window the way the town watches nothing, and the window stayed black from nine to ten, and from ten to the quarter; and I was on the point of setting it down as the second absence, and beginning to make a rule of absences, when the sound came.

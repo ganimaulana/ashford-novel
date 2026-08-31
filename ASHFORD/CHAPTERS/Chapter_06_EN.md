@@ -1,7 +1,5 @@
 # Chapter 6 — A Wrong Name
 
-## Ashford, 18 November 1816
-
 I did not go straight home after finding that envelope.
 
 I walked to the end of the road, then stopped in front of a small shop that sold newspapers and everyday goods.
@@ -595,3 +593,13 @@ Margaret smiled faintly.
 Margaret looked at me.
 
 "That will determine whether you have gone too far, or not yet far enough."
+
+---
+
+## Continuity Notes — ARC Integration (dev — not part of narrative)
+
+Maps planted anomalies to the ARC anomaly-case system (`WORLD_BIBLE/07_ANOMALIES/ARC_INDEX.md`). Narrative prose is untouched (Phase 0 LOCKED).
+
+- **Envelope sent to "Bellweather Lane" house with no number; sender unknown** → `ARC-004 The House Beneath Bellweather`.
+- **Margaret confirms Aurelius Ashcroft lived on Bellweather Lane (the empty house)** → `ARC-010 The Forgotten Name`.
+- **"Someone believes I live in the house that has no number"** → `ARC-004` + `ARC-010`.

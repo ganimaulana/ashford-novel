@@ -308,6 +308,21 @@ STATUS: [Discovered / Hidden / Destroyed / In Use]
 
 ## E. CONVERGENCE TRACKING SYSTEM
 
+### Leon Layer Architecture
+
+See `LEON_LAYER_ARCHITECTURE.md` for the complete 4-layer system.
+
+**Summary for Mystery Tracking:**
+
+| Layer | Leon's Status | Who Knows | What They Know |
+|-------|---------------|-----------|----------------|
+| **1** | Ordinary citizen | Everyone | Surface identity only |
+| **2** | Paranormal investigator | Arthur (partial) | Bellweather investigation, symbol, record tampering |
+| **3** | Leon Ashcroft in Circle | Circle members | Membership, Ashcroft heir status, investigation |
+| **4** | Aurelius Ashcroft | Inner Circle only | Full legacy, basement, symbol origin |
+
+**Critical Rule:** Convergence seeds must be evaluated against Leon's current layer. A clue that would be obvious to Layer 3 may be completely invisible to Daniel and Margaret (Layer 1).
+
 ### Convergence Seed Ledger
 
 Track each planted seed that will later converge:

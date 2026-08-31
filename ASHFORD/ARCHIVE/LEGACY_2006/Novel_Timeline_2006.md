@@ -170,7 +170,7 @@ Untuk sejarah Ashford, lihat: `Ashford_Timeline.md`
 
 ## Konflik Temporal
 
-[Jika ditemukan inkonsistensi waktu/urutan, catat di sini dan di `REFERENCE/Chapter_Continuity.md`]
+[Jika ditemukan inkonsistensi waktu/urutan, catat di sini dan di `WORLD_BIBLE/14_CANON/Chapter_Continuity.md`]
 
 ---
 

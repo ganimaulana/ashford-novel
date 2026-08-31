@@ -54,24 +54,30 @@
 - **Deduction:** Can piece together clues from gossip
 
 ## Knowledge Boundary
-### Knows
+### Knows (Layer 1 ONLY — Permanent Surface Contact)
 - Local gossip and family histories
 - Names of prominent families (including Ashcroft)
 - Recent events and movements in town
-- The significance of the Ashcroft name (some)
-- She knew of Aurelius (from family stories)
+- The significance of the Ashcroft name (surface level)
+- Leon is a tenant on Bellweather Lane
+- Leon asks questions about the town
+- Leon is polite and keeps to himself
 
-### Suspects
-- That Leon is connected to the Ashcroft family
-- That something important is happening
-
-### Does Not Know
+### Does Not Know (Permanently Hidden)
+- The Hidden Circle exists
+- Leon has received anonymous letters
+- Leon has seen the lamp in Bellweather House
+- Leon is investigating the address system, the symbol, the bell
+- Leon is anything other than a quiet researcher
 - The full details of the Pembroke & Clarke letter
-- The Hidden Circle's secrets
-- The contents of the key and basement
+- The existence of the locked door in Leon's house
+- Any paranormal or supernatural elements
 
-### Hidden From Character
-- The full extent of Helen's identity; the true nature of the Circle
+### Hidden From Character (Permanent)
+- The full extent of Helen's identity; the true nature of the Circle; the envelope sender; the locked door contents; Leon's secret investigations; the symbol's meaning; Bellweather House's true status
+
+## Compartmentalization Status
+**PERMANENT SURFACE CONTACT.** Margaret will never be initiated into the Hidden Circle. She will never learn about Leon's hidden activities. Her gossip network is valuable but must never touch the secret layers. If she discovers Layer 2 evidence, she becomes a liability.
 
 ## Character Voice
 - **Speech rhythm:** Quick, conversational

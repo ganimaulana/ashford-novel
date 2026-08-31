@@ -1,7 +1,5 @@
 # Chapter 8 — Bellweather House
 
-## Ashford, 20 November 1816
-
 That morning I did not go straight to the café.
 
 I sat in the dining room with the letter from Pembroke & Clarke and the envelope from the other day on the table before me.
@@ -738,20 +736,53 @@ Not yet enough to form a story.
 
 I put out the lamp.
 
-Outside, a carriage passed along Bellweather Lane.
+Outside, a carriage passed along Bellweather Lane. Its light swept across the window of the room for a few seconds, then vanished. The house fell dark again. Ashford was quiet again.
 
-Its light swept across the window of the room for a few seconds, then vanished.
+But the envelope on the table — an address with no name and no town, only "Bellweather House" — joined the rest of my list: the latch in the dark, the prints that vanished by morning, the silhouette at the window, the bolt drawn back by no hand I knew. And the dream, which now came to me on more than one night — the boy in the dark coat, saying the same words each time: *Don't be late again.* Each alone I could explain. Together they were no longer curiosity. Something had been coming to this house in the night, and now someone was writing to it as if it were mine.
 
-The house fell dark again.
+I remembered what Daniel had told me a few days before, when I asked him where a man ought to report a thing that threatened him but that he could not explain even to a friend. *The constable. Calloway. His office is near the Market Square.*
 
-Ashford was quiet again.
+The next morning I did not go to the café first. I went to the constabulary.
 
-But now I knew one thing:
+The man behind the desk looked up — and I knew him at once. The grey at his temples. The dark woollen coat, now without the rain. The small pin at his collar, which in the lamplight of the inn I had not been able to make out. It was a constable's pin.
 
-Bellweather House was not merely an empty house.
+"Mr. Ashcroft," he said. Not surprised. "We met at the inn, the night you arrived. I wondered if our paths would cross again."
 
-And Aurelius Ashcroft was not merely a name in a will.
+I set down my notes — the latch, the prints, the silhouette, the bolt, the dream, the envelope. Facts. "I am not here about the will," I said. "I am here because something has been at my back door in the night, and I would like to know what it is."
 
-They were connected.
+Constable Calloway read the list without remark. Then he looked at me in a way I had not earned.
 
-And one day, I would know how.
+"I will not tell you what I think from a page," he said. "Not yet. I need to see the place."
+
+He came with me to Bellweather Lane. At the front door he paused, then walked slowly through the house — the hallway, the reading room, the stairs, the closed door beneath them that would not open. He stopped longest beneath the portrait of the boy in the upstairs passage. He spoke no word of ghosts. He only grew very still, as a man does who has heard a sound no one else in the room can hear.
+
+"It is here," he said at last, quietly. "Not in the walls. In the remembering. This house keeps what was done in it, and for a few nights each year it lets the keeping show."
+
+Back at his office he drew out a drawer of old reports. "Because I could not name it myself," he said, "I looked for those who came before me." The records were thin and old, but they agreed: the disturbance returned on the same dates, year after year — from the thirteenth to the twenty-first of November. After the twenty-first it ceased, and Ashford went back to itself. No one had been harmed who simply waited it out and did not go looking for it.
+
+I thought of Helen's face when she looked at the portrait. Of the dream that had come on the thirteenth and would not leave. "And the public does not know."
+
+"The public is better not knowing," Calloway said. "Some things are kept only by being left unspoken."
+
+I frowned. "Then if it is a secret, why are you telling it to me?"
+
+For the first time his manner softened — not kindly, but as a man who had asked himself the same question. "Because the secret found you first, Mr. Ashcroft. The moment you opened that door on Bellweather Lane, you were already inside it. I am not giving you a secret. I am only confirming what has been standing behind you for some nights now."
+
+He returned my notes. "It ends on the twenty-first. Lock the doors you lock. Do not go to the empty house at the end of the lane. And when it is over, it will be over."
+
+I did not thank him. I was not sure yet what I had been given.
+
+But as I walked back toward Bellweather Lane, I understood one thing: the list in my notebook was no longer only a list of small, explainable things. Something had begun to answer it — and, by the constable's account, it would answer itself, in a few nights more.
+
+---
+
+## Continuity Notes — ARC Integration (dev — not part of narrative)
+
+Maps planted anomalies to the ARC anomaly-case system (`WORLD_BIBLE/07_ANOMALIES/ARC_INDEX.md`). Prose integrated in Ch7–Ch8 per author direction 2026-08-31.
+
+- **Library record: "Property removed from the active list" (no demolition/sale — just removed)** → `ARC-004 The House Beneath Bellweather` (erasure from official memory).
+- **Envelope addressed only "Bellweather House," no recipient, no town** → `ARC-004` + `ARC-010 The Forgotten Name`.
+- **Recurring dream of the boy ("Don't be late again") on the 13th** → `ARC-018 The Waking Dream` (collective consciousness); recurs within the 13–21 Nov cycle.
+- **Helen's portrait / the boy** → `ARC-002 The Empty Portrait` (identity, memory) — the phenomenon's anchor.
+- **The constable (James Calloway) from the inn: deduces at office, senses at the house, finds the 13–21 Nov cycle in records** → `ARC-006 The Man in the Rain` (Entity/Event; death, prediction). Calloway's latent supernatural sensitivity added to `GOVERNMENT_CHARACTERS.md` (canon extension).
+- **Cycle resolves after 21 November; normality returns** → closes the arc without deus ex machina.

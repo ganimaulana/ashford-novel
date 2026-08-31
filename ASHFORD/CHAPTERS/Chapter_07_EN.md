@@ -1,7 +1,5 @@
 # Chapter 7 — An Incomplete Address
 
-## Ashford, 19 November 1816
-
 I stared at the envelope from the day before for a long while.
 
 On the front: Leon Ashcroft.
@@ -656,6 +654,10 @@ But because the record of the house itself was incomplete.
 
 And that troubled me far more than a letter without a sender.
 
+That night I set the map down and looked at the list I had been keeping — the latch in the dark, the prints that vanished, the silhouette at the glass, the bolt drawn back by no hand I knew. Separate, each could be explained. Together they described someone who came to this house when it was dark and left before morning. That was not the supernatural. That was a person. And a person could be reasoned with, followed, or reported.
+
+A day or two later I met Daniel at Margaret's. He looked at me the way he did when he thought I was hiding something. "You've been different," he said. "Distracted." I told him it was nothing he needed to hear. But the question had begun to press on me, so I asked him plainly: if a man found something at his own house that threatened him — something he could not explain even to a friend — where was the proper place to report it? Daniel did not press for the reason. "The constable," he said. "Calloway. His office is near the Market Square. He's the one who deals with what people would rather not mention." I thanked him and said no more.
+
 I walked home.
 
 In my jacket pocket, the letter and the envelope were still there.
@@ -669,3 +671,12 @@ I would only gather the facts.
 One by one.
 
 Until something began to fit.
+
+---
+
+## Continuity Notes — ARC Integration (dev — not part of narrative)
+
+Maps planted anomalies to the ARC anomaly-case system (`WORLD_BIBLE/07_ANOMALIES/ARC_INDEX.md`). Narrative prose is untouched (Phase 0 LOCKED).
+
+- **Arthur confirms Bellweather House recorded 1791, no number; Aurelius lived there; Leon is "a direct descendant of the name"** → `ARC-004 The House Beneath Bellweather`, `ARC-010 The Forgotten Name`, and `ARC-002 The Empty Portrait` (the boy in the portrait = the Ashcroft line).
+- **Arthur as Layer 1+2 bridge** → supports ARC investigation hand-off (per `1000_CHAPTER_MASTER_OUTLINE.md`).

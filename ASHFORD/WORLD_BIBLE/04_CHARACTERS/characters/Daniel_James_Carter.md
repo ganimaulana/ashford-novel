@@ -54,24 +54,30 @@
 - **Deduction:** Tends to see patterns; may jump to conclusions
 
 ## Knowledge Boundary
-### Knows
+### Knows (Layer 1 ONLY — Permanent Surface Contact)
 - Local history of Ashford
 - The names of prominent families (including Ashcroft)
 - Where to find records (library, parish, solicitors)
 - The Academy's archives
+- Leon is a newcomer researching local history
+- Leon is interested in old buildings and documents
+- Leon is an Ashcroft by name, with some inheritance
 
-### Suspects
-- That Leon is investigating something important
-- That the Ashcroft name has significance
-
-### Does Not Know
-- The full extent of the Hidden Circle
-- The contents of the Pembroke & Clarke letter
+### Does Not Know (Permanently Hidden)
+- The Hidden Circle exists
+- The full contents of the Pembroke & Clarke letter
 - The meaning of the symbol
-- The details of Bellweather House (he may know it existed, but not the secrets)
+- The details of Bellweather House (beyond public knowledge)
+- Leon has received anonymous notes or is being watched
+- Leon is investigating paranormal/supernatural elements
+- Leon has been initiated into any secret organization
+- Leon's connection to Aurelius is anything more than genealogical
 
-### Hidden From Character
-- Leon's full purpose; Helen's true identity; the dark history of Bellweather
+### Hidden From Character (Permanent)
+- Leon's full purpose; Helen's true identity; the dark history of Bellweather; the Circle's existence; the anonymous envelope sender; the locked door; the paranormal activity; Leon's secret investigations
+
+## Compartmentalization Status
+**PERMANENT SURFACE CONTACT.** Daniel will never be initiated into the Hidden Circle. He will never learn about Leon's hidden activities. His ignorance is his protection. If he discovers Layer 2 evidence, he becomes a liability.
 
 ## Character Voice
 - **Speech rhythm:** Quick, enthusiastic

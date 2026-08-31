@@ -1,12 +1,10 @@
 # Chapter 14 — The Empty Place in the Round
 
-## Ashford, 29 November – 30 November 1816
-
 The lamp came back at nine.
 
 I had sat with the book open and the candle burned past its ring, watching the black upper window the way a man watches a dial whose hand is late; and at the corner hour, to the minute, the light was kindled, steady, at the old height, in the window with the plank gone. It stood there a quarter of an hour, and then it moved, and went along the room as it had moved before, and was carried from the sight of the lane; and by ten the window was black again, and no bell had come, and I wrote it down in the same line with the night before, because the two nights made one fact: the sound and the light kept different hours, and when one was away the other was not away with it. Two duties. Or two hands. Or one house, ordering itself, with the town outside agreeing to hear and see neither.
 
-The frost came back before the candle was out, and I watched it come, in the glass.
+The frost came back before the candle was out, and I watched it come, in the glass. It was the sort of frost that settled into the bones and stayed, the kind that made the poor-house fires burn lower and the bread go harder.
 
 ---
 
@@ -44,7 +42,99 @@ The poor-house door stood as it had stood when I saw him at it, but it was shut,
 
 I looked. The chair was turned to the window, drawn close, the way a man sets it who means to watch; and on the sill inside was his mug, with what had been drink dried at the bottom of it. So he had sat there, looking out toward the lane's end, with his drink going cold on the sill, and then he had gone out, and the chair had kept the watching since.
 
-I did not ask any more. The keeper had no alarm, and alarm is the one thing a poor-house keeps carefully; where there is none, there is nothing spent to make it. I went away with it noted and nothing done, and that is a thing I am learning this town does: it notes, and passes. I had done the same at the vestry, at the shop window, at the roll. The custom was catching.
+I did not ask any more. The keeper had no alarm, and alarm is the one thing a poor-house keeps carefully; where there is none, there is nothing spent to make it.
+
+But as I turned to go, the keeper said one more thing.
+
+"He left this, sir. Thursday morning, before he went. Said to give it to the watchman when the watchman came asking." He reached into his pocket and brought out a small brass button, worn smooth at the edges, the sort the militia kept before the reforms. The crown on it was half-gone. "He knew you would come asking, Mr. Ashcroft."
+
+I took the button. It lay in my palm with the weight of more than brass. A man who has nothing to keep keeps what he was, and Hobbs had kept this, and now he had given it away. That told me more than any words: he had not gone by accident. He had gone by choice, and the choice wanted me to know it.
+
+I went away with the button in my pocket and the knowledge that Hobbs had left deliberately, like a man who knew where he was going.
+
+---
+
+I had walked perhaps twenty yards back toward the lane when I heard the step behind me. It was not hurried, but it was purposeful, and I knew it before I turned: the constable.
+
+He was the same square man of sixty I had seen at the roll-reading, and he carried his staff the way he carried it then, like a tool he was neither proud of nor ashamed of, but used because the using was required. His face had the particular plainness of a man who has spent thirty years watching other men lie to him.
+
+"Mr. Ashcroft," he said.
+
+"Constable."
+
+"You have been asking after Hobbs," he said. It was not a question.
+
+"I have. The keeper says he went out Thursday morning and has not returned."
+
+"The keeper told me the same on Friday," said the constable. "And the verger told me you had been asking, and a man who asks three times in two days is a man who wants an answer." He looked at me steadily. "You carry a book. I have seen you write in it. After the round last night, you stood at the corner and wrote. This morning, you went to the poor-house, and now you have been given a thing, and the thing is in your pocket, and you are thinking about what it means."
+
+I said nothing, because a man being measured says nothing until the measuring is done.
+
+"What did the keeper give you," said the constable.
+
+I took out the button and held it in my palm. He looked at it, and something changed in his face, though the change was small.
+
+"Hobbs's," he said. "From when he was fife. He kept that button twenty years and would not part with it for bread. If he has parted with it now, it is because he meant to." He looked at me. "What do you make of it, Mr. Ashcroft."
+
+I chose my words carefully. "I make that Hobbs went out by his own will, not by distress or confusion. He gave the button to be given to the watchman. That means he knew someone would come asking, and he wanted that someone to know his going was deliberate."
+
+"That is a sound reading," said the constable. "But there is more to read. Hobbs sat at that window eleven years. He watched something. Thursday night there was a bell at the corner—I heard it. Friday morning Hobbs was gone. What do you make of that?"
+
+I hesitated, then said what I had been thinking. "That the two things are connected. That Hobbs went because of what he heard, or what he saw, or because something he had been waiting for finally came."
+
+The constable was silent a moment. Then he said, "You have a good eye for such things. Better than most." He paused. "Walk with me. There is a thing I would speak of, and the speaking wants more than a doorstep."
+
+We walked together down the lane toward my house, and the constable said nothing until we were out of sight of the poor-house. Then he spoke.
+
+"You noted the gate last night. The mill-yard gate at the corner. I saw you look at it on your round."
+
+"I noted it," I said.
+
+"What did you note."
+
+"That it was unlatched. And that the hinges were bright. Oiled recently, and oiled by someone who knew what they were doing."
+
+The constable stopped walking. He turned to look at me fully. "I have been constable of this town twenty-three years, Mr. Ashcroft, and in all that time I have seen perhaps three men who could note a thing like that in the dark, by lamplight, without putting a hand to it. You are one of them."
+
+"It is only observation," I said.
+
+"No," said the constable. "It is deduction. You saw bright metal and reasoned backward to recent oil. You saw an unlatched gate and reasoned that someone had been using it. That is not observation. That is thinking." He resumed walking. "And thinking is what I need. Because there is something happening in this town that I do not understand, and the not-understanding of it is beginning to trouble me."
+
+We reached my door. I did not open it. We stood in the cold, and the constable spoke.
+
+"I will tell you a thing that is not generally known," he said. "The office of constable carries certain duties beyond the keeping of order. One of those duties is to mark and report things that do not fit the usual pattern of crime or accident." He chose his words carefully. "When a thing happens that cannot be explained by theft, or violence, or drink, or madness—when a thing happens that belongs to no category the law recognizes—it is my duty to note it and report it to a particular office in London. The office has no name that is spoken in public. It keeps the things that do not fit."
+
+I felt something settle over me, cold and strange.
+
+"You think Hobbs is one of those things," I said.
+
+"I think," said the constable slowly, "that a man who sits at a window for eleven years and then leaves on the night a bell rings—a bell that has not rung in this town for more than a decade—is a thing that does not fit. And I think you have been watching the same thing Hobbs watched, though you may not know it yet."
+
+He let that stand between us.
+
+"I am not asking you to break the law," he said. "I am not asking you to put yourself in danger. I am asking you to do what you are already doing: note what you see. Write it in your book. And when you have noted enough that it begins to make a pattern, come to me, and we will speak of whether it is a pattern London needs to know."
+
+"Why me," I said.
+
+"Because you see what others do not see," said the constable. "Because you deduce what others do not deduce. And because you are on the watch-roll, which means you have a reason to be watching, and no one can say otherwise." He paused. "And because I am one man, Mr. Ashcroft, and I cannot watch everything. But two men watching is a different matter."
+
+I thought of Hobbs at his window, and the bell in the night, and the oiled gate, and the house at the end of the lane with its lamp that came and went by no pattern I could see. I thought of the button in my pocket, and the keeper's words: *he knew you would come asking*.
+
+"What do you want me to note," I said.
+
+"The gate," said the constable. "The end house. Anything that does not fit the town's usual way. You will know it when you see it, because you have already been seeing it, and the seeing has troubled you, or you would not carry that book everywhere you go."
+
+He held out his hand. I took it. The handshake was brief and firm, and it sealed something between us, though I did not yet know what.
+
+"One more thing," said the constable. "The office I speak of—the one in London—they do not come for small things. They come for things that endanger the realm, or that touch upon matters of..." He paused, searching for the word. "Matters of an unusual nature. Things that cannot be explained by ordinary means. I have written to them twice in twenty-three years. Both times they sent a man. Both times the man saw what I saw, noted it, and left, and I heard nothing more. So understand: if I write to them about this, it is because I believe there is something here that is larger than a missing old soldier and an oiled gate."
+
+"And if there is not?" I said.
+
+"Then we will have noted it, and passed it, and the town will keep its own counsel, as it always has." He touched his hat. "Good day, Mr. Ashcroft. Mind your watching tonight."
+
+He walked away down the lane with his staff at his side, and I stood at my door with the button in one pocket and the constable's trust in the other, and I understood that I had just become part of something I did not fully understand, and that the understanding of it would come only through the noting, and the noting was what I did best.
+
+I went inside and took out my book and wrote it all down.
 
 ---
 

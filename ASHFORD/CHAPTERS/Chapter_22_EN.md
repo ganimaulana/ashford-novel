@@ -1,7 +1,5 @@
 # Chapter 22 — The Ironmonger’s Son
 
-## Ashford, 10–11 December 1816
-
 The lamp burned at nine on Tuesday, and was carried away along the rooms in the old way, and the sound did not come; and I set it down as the sixth reading, and did not write anything beneath it, because a man that has had a rule broken once for him keeps the rule after that with his hand on it, and I had learned to keep it so.
 
 I slept little, for the book was under my head in the way of books that are not done with, and I was up with the grey of the Wednesday, and I stood at the window with the frost at the pane, and looked at the end of the lane, and understood what I would do with the day, because the day had come to be the sort of day a man does a thing in, and not the sort he puts a thing off in.

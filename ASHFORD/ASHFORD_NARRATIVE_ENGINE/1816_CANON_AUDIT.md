@@ -1,4 +1,4 @@
-# 1816 Canon Audit — Full Contamination Scan
+﻿# 1816 Canon Audit — Full Contamination Scan
 
 **Date:** 2026-08-29
 **Authorial Decision:** Ashford definitive era = **1816** (Regency England)
@@ -21,12 +21,12 @@
 | E-01 | `README.md:5` | "tahun **2006**" |
 | E-02 | `README.md:80` | "Timeline novel (2006)" |
 | E-03 | `README.md:210-223` | Full "Tahun 2006" rules section |
-| E-04 | `TIMELINE/Novel_Timeline_2006.md` | Entire document |
+| E-04 | `10_TIMELINE/Novel_Timeline_2006.md` | Entire document |
 | E-05 | `00_PROJECT_AUDIT.md:19` | "Set in **November 2006**" |
 | E-06 | `00_PROJECT_AUDIT.md:37-57` | Full "2006 vs 1816 Conflict" section |
 | E-07 | `00_PROJECT_AUDIT.md:62` | "Published chapters: **2006, England**" |
 | E-08 | `Ashford_Master.md:250-273` | "10_2006 - Temporal Context" section |
-| E-09 | `WORLD/SOCIAL/2006_Life.md` | Entire 224-line document |
+| E-09 | `05_SOCIAL/2006_Life.md` | Entire 224-line document |
 | E-10 | `WORLD_BIBLE/10_2006/Technology.md` | Entire 710-line document |
 
 ### 1.2 Technology in Chapters/Archives

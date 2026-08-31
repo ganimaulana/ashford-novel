@@ -54,23 +54,29 @@
 - **Deduction:** Careful; cautious about conclusions
 
 ## Knowledge Boundary
-### Knows
-- The history of Bellweather House
-- The Ashcroft family's connection to the town
-- The meaning of the symbol (likely)
-- The existence of the Hidden Circle (possibly)
-- Many local records and documents
+### Knows (Layer 1 + Partial Layer 2 — Bridge Character)
+- **Layer 1:** Leon is a customer and researcher; he runs a bookshop
+- **Partial Layer 2:** Leon is investigating Bellweather House; Leon has found the symbol in multiple places; Leon has evidence of deliberate record tampering; Leon possesses an old key and a notebook
+- Arthur knows the symbol's historical significance
+- Arthur knows Bellweather House's layered history
+- Arthur knows the town's address system has anomalies
+- Arthur knows the Hidden Circle exists (but not its full structure)
+- Arthur may suspect Leon is being watched
 
-### Suspects
-- That Leon is connected to the Ashcroft family
-- That Leon may be in danger
+### Does Not Know (Stops at Layer 2)
+- The Hidden Circle's structure, membership, or current activities
+- That Leon has been contacted by Circle members
+- That Leon has been initiated into the Circle
+- Leon's full blood connection to Aurelius
+- The supernatural elements (or believes them to be legend only)
+- The contents of Bellweather basement
+- The Circle's factions and internal politics
 
-### Does Not Know
-- The full extent of the Circle's current activities
-- The contents of the Pembroke & Clarke letter
+### Hidden From Character (Beyond Layer 2)
+- Leon's full purpose; Helen's true identity; the Circle's current activities; Leon's initiation status; Layer 3 and Layer 4 details
 
-### Hidden From Character
-- Leon's full purpose; Helen's true identity
+## Compartmentalization Status
+**BRIDGE CHARACTER — LAYER 1 + PARTIAL LAYER 2.** Arthur knows Leon is investigating something real and significant. He provides historical documents, maps, and warnings. He will NOT introduce Leon to the Circle. He will NOT reveal what he knows about the Circle's structure. He believes Leon is an independent researcher who stumbled onto something real. His caution is his defining trait — he will not reveal what he has promised to keep.
 
 ## Character Voice
 - **Speech rhythm:** Slow, deliberate; pauses often

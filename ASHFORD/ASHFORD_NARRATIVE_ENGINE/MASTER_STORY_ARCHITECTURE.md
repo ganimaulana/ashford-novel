@@ -234,7 +234,7 @@ This Master Story Architecture integrates with all existing Ashford Narrative En
 - **05 Character Progression** — Leon trajectory implements progression dimensions
 - **13 Long-Range Arc** — Three tracks create arc structure
 - **CN Character Network** — Organization members tracked with chapter/cause/evidence
-- **Story State System** — Living state tracker for canon/mystery/arc/chapter
+- **Story State System** — Living state tracker for canon/09_MYSTERY/arc/chapter
 
 ---
 

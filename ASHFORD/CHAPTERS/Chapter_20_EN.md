@@ -1,7 +1,5 @@
 # Chapter 20 — The Key Given Back
 
-## Ashford, 8 December 1816
-
 Sunday came in with a fall of snow, the first of the year, not enough to lie, but enough to show the town to itself, the way a thing is shown when the light is changed and nothing else is changed.
 
 I went to the service by the middle of the lane, because that is the way, and the snow was on the rosemary in the pot when I came by the end house, and it was on the sill, and the window stood open with the snow coming in at it, and I took that in and gave it out again, and understood what I took in: that the window had not been shut for the snow, and that a house that leaves its window open to the snow is a house that would be seen leaving it open, and that the town went by in its Sunday coats and did not see, and did the not seeing with such grace that the grace was the thing, and not the window.

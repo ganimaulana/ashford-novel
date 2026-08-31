@@ -1,4 +1,4 @@
-# Ashford Project Audit
+﻿# Ashford Project Audit
 
 **Status:** WORKING DOCUMENT
 **Date:** 2026-08-29
@@ -24,9 +24,9 @@ The authoritative canon for Ashford exists at multiple levels:
 - Claims to "replace all 2006-era assumptions"
 
 **LAYER 3 — Reference Canon**
-- `WORLD/Pembroke_Clarke_Letter.md` — the mystery catalyst (CANON)
-- `WORLD/Secret_Organization.md` — The Hidden Circle (WORKING CANON)
-- `REFERENCE/Supernatural_System.md` — supernatural rules
+- `12_NOVEL/Pembroke_Clarke_Letter.md` — the mystery catalyst (CANON)
+- `08_UNDERGROUND/Secret_Organization.md` — The Hidden Circle (WORKING CANON)
+- `13_REFERENCE/Supernatural_System.md` — supernatural rules
 
 **LAYER 4 — Character Canon**
 - `WORLD_BIBLE/04_CHARACTERS/Character_Registry.md` — index
@@ -89,7 +89,7 @@ The central mystery is:
 
 ### 1.6 Current Supernatural/Anomalous Framework
 
-From `REFERENCE/Supernatural_System.md` and `LORE/ANOMALOUS_ELEMENTS_FRAMEWORK.md`:
+From `13_REFERENCE/Supernatural_System.md` and `07_ANOMALIES/ANOMALOUS_ELEMENTS_FRAMEWORK.md`:
 
 - NOT an RPG leveling system
 - Abilities are personal, specific, with limitations and consequences

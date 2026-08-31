@@ -54,37 +54,60 @@
 - **Deduction:** Careful — avoids jumping to conclusions, but occasionally makes connections
 
 ## Knowledge Boundary
-### Knows
-- He is the recipient of a letter from Pembroke & Clarke (solicitors, Lincoln's Inn, London)
-- The letter mentions Aurelius Ashcroft
-- He is living in a house on Bellweather Lane with no number
+### Layer 1 (Public — Known to All)
+- He is Leon Ashcroft, newly arrived in Ashford
+- He is staying on Bellweather Lane
 - He has met Helen, Daniel, Margaret, and Arthur
-- He has visited the library, parish records, and Arthur's shop
-- He has seen the recurring symbol (circle, three lines, one dot)
-- He knows that Bellweather House existed and was connected to Aurelius Ashcroft
-- He has found a key (from Thomas Wren in later chapters)
-- He knows that Thomas Wren was a witness to Aurelius's marriage
+- He is researching local history
+- He received a letter from Pembroke & Clarke about an inheritance
+
+### Layer 2 (Investigator — Known to Arthur, Partial)
+- Bellweather House existed and was connected to Aurelius Ashcroft
+- The recurring symbol (circle, three lines, one dot) appears in multiple locations
+- Someone is deliberately altering or erasing historical records
+- The 1798 building has layered history
+- Bellweather House has been "removed from active list"
+- The address system may have been changed
+- He has found a locked door and an old key
+- He has received anonymous envelopes
+
+### Layer 3 (Circle Member — Known to Circle Only)
+- The Hidden Circle exists and is active in Ashford
+- He has been initiated as "Leon Ashcroft"
+- Circle members are observing and testing him
+- He has access to Circle archives and correspondents
+- He is being positioned as an heir to Aurelius's legacy
+
+### Layer 4 (Aurelius Legacy — Known to Inner Circle Only)
+- NOT YET REACHED
+- Will involve: Bellweather basement, Aurelius's journals, the symbol's true meaning, Leon's full heritage, the Circle's origins
 
 ### Suspects
 - That there is a connection between the Ashcroft name and the town's history
 - That Helen knows more than she reveals
 - That someone is watching him or leaving clues (the anonymous envelope)
 - That Bellweather House may still exist in some form (basement)
+- That the town's history has been deliberately altered
 
 ### Does Not Know
 - The full history of Aurelius Ashcroft
-- The nature of the Hidden Circle or its current status
+- The nature of the Hidden Circle or its current status (Layer 2+)
 - The identity of M.R., J.T., or M.B.
 - What the key opens
 - Why the house has no number
 - Helen's full identity and her connection to the Ashcroft family
-- The significance of the symbol
+- The significance of the symbol (beyond historical curiosity)
 - Who is leaving the anonymous notes
+- His own blood connection to Aurelius (beyond the name)
+- The Circle's factions and internal politics
 
 ### Hidden From Character
-- Helen's full name and her relationship to the Ashcroft family (reader knows she is Helen Margaret Ashcroft? — not yet revealed to Leon)
-- The fact that Aurelius Ashcroft's network may still be active
-- The contents of the Pembroke & Clarke letter beyond what has been revealed (more details may be hidden in the documents)
+- Helen's full name and her relationship to the Ashcroft family
+- The fact that he is being positioned as Aurelius's successor
+- The full scope of the Circle's history with Aurelius
+- What the basement contains
+- The supernatural elements of the mystery
+- Daniel and Margaret's permanent status as surface contacts
 
 ## Character Voice
 - **Speech rhythm:** Measured; often pauses before answering
@@ -141,13 +164,42 @@ If he discovers that someone he trusted has been deliberately deceiving him, he 
 ### Hidden Canon
 - Leon's full motivation for coming to Ashford may include personal or family reasons not yet disclosed.
 
+## Layer Architecture
+Leon operates on **four compartmentalized layers**. See `LEON_LAYER_ARCHITECTURE.md` for full specification.
+
+| Layer | Identity | Who Knows |
+|-------|----------|-----------|
+| **1** | Ordinary citizen / researcher | Everyone (Daniel, Margaret, Arthur, public) |
+| **2** | Paranormal investigator | Arthur (partial) |
+| **3** | Leon Ashcroft in the secret organization | Hidden Circle members |
+| **4** | Aurelius Ashcroft (full legacy) | Inner Circle only |
+
+**Current layer (End of Ch 8):** Layer 1 → transitioning to Layer 2.
+
+**Permanent surface contacts (Layer 1 only):**
+- Daniel James Carter — will never be initiated
+- Margaret Whitmore — will never be initiated
+
+**Bridge character (Layer 1 + partial Layer 2):**
+- Arthur Edmund Bell — knows Leon is investigating something real, but not the Circle
+
+**Compartmentalization rules:**
+- No Layer 2/3/4 materials in Layer 1 locations
+- No Layer 2/3/4 contacts meet Layer 1 contacts
+- No Layer 2/3/4 information shared with Daniel or Margaret
+- Leon maintains strict schedules and covers for hidden activities
+
+---
+
 ## Character Arc
-- **Starting state:** Arrives as an outsider, curious but cautious.
-- **Psychological trajectory:** Gradually becomes more engaged in the mystery, moving from passive observer to active investigator.
-- **Important turning points:** Receiving the Pembroke & Clarke letter; meeting Thomas Wren; finding the key; discovering Bellweather House's history.
-- **What they may learn:** The truth about Aurelius Ashcroft and his own heritage.
-- **What they may lose:** His innocence/naivety about the town; possibly his trust in certain people.
-- **What they may become:** A more determined and perhaps more cynical investigator.
+- **Starting state:** Arrives as an outsider, curious but cautious. (Layer 1)
+- **Layer 1→2:** Begins investigating Bellweather House, symbol, address system. Arthur notices. (Ch 2–8)
+- **Layer 2→3:** Contacted by Circle members, tested, accepted as "Leon Ashcroft." Daniel and Margaret remain unaware. (Ch 9–16)
+- **Layer 3→4:** Accesses Bellweather basement, reads Aurelius's journals, accepts the legacy. Becomes "Aurelius Ashcroft." (Endgame)
+- **Important turning points:** Receiving the Pembroke & Clarke letter; meeting Thomas Wren; finding the key; discovering Bellweather House's history; Circle initiation; basement discovery.
+- **What they may learn:** The truth about Aurelius Ashcroft, their own heritage, the Circle's purpose.
+- **What they may lose:** Their ordinary life; the trust of Daniel and Margaret; their innocence.
+- **What they may become:** A more determined and perhaps more cynical investigator, then a leader, then a legacy.
 
 ## Story Function
 - **Protagonist** — The central character whose journey drives the narrative.

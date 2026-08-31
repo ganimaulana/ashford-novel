@@ -1,7 +1,5 @@
 # Chapter 5 — The House That Was Not There
 
-## Ashford, 17 November 1816
-
 That morning I did not go straight to the café.
 
 I was still thinking about the conversation with Arthur the day before.
@@ -755,6 +753,8 @@ The light was still not there.
 I sighed.
 
 Perhaps it was only a reflection.
+
+That night the silhouette did not merely pass the window. It slowed, as if looking in, before the dark took it. I opened the curtain at once. The street was empty; the lamp was steady. I wrote the time, and added a line I had not written before: *not wind. Not a branch.*
 
 I went into my room.
 

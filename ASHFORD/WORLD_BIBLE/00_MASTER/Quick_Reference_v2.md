@@ -1,4 +1,4 @@
-# World Bible v2 — Quick Reference Index
+﻿# World Bible v2 — Quick Reference Index
 
 **Status:** 📘 WORKING CANON
 **Version:** 2.0
@@ -13,15 +13,15 @@
 2. **`01_GEOGRAPHY/Ashford_Districts.md`** — Conceptual map of all 7 districts
 
 ### CHARACTERS
-3. **`CHARACTERS/Character_Registry.md`** — All characters by layer (Ordinary / Interesting / Hidden World)
+3. **`../04_CHARACTERS/Character_Registry.md`** — All characters by layer (Ordinary / Interesting / Hidden World)
 
 ### LORE
-4. **`WORLD/Aurelius_Ashcroft.md`** — Aurelius background, reveal schedule, family history
-5. **`WORLD/Secret_Organization.md`** — The Hidden Circle: nature, membership, structure, power principles
-6. **`WORLD/Buildings.md`** — Key buildings with atmosphere, location, story function
+4. **`WORLD_BIBLE/04_CHARACTERS/characters/Aurelius_Ashcroft.md`** — Aurelius background, reveal schedule, family history
+5. **`08_UNDERGROUND/Secret_Organization.md`** — The Hidden Circle: nature, membership, structure, power principles
+6. **`03_BUILDINGS/Buildings.md`** — Key buildings with atmosphere, location, story function
 
 ### CANON DOCUMENT
-7. **`WORLD/Pembroke_Clarke_Letter.md`** — The Mystery Catalyst: what it contains, how to write it
+7. **`12_NOVEL/Pembroke_Clarke_Letter.md`** — The Mystery Catalyst: what it contains, how to write it
 
 ---
 

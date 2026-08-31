@@ -1,7 +1,5 @@
 # Chapter 9 — The House That Was Not Empty
 
-## Ashford, 21 November 1816
-
 In the morning I did one sensible thing and one dangerous thing, and I cannot afterwards say with certainty which was which.
 
 The sensible thing was breakfast.
@@ -215,3 +213,25 @@ Whatever the lane has said, it said once.
 And what I am now sure of, is that I did not come to ask of the house at the end of the lane what it was.
 
 I came — that I see now, plainly at last — to be asked.
+
+---
+
+The next day I did the sensible thing a man does when a house has asked him a question: I began to answer it by learning the house.
+
+Since the first night I had avoided the rooms I did not use. Now I used them. In the reading room, behind a false panel in the wainscot beside the cold hearth, a drawer slid open where no drawer should have been — not by my hand, but by a pressure I happened to put on the wrong board. Inside lay a stack of notebooks in a hand I did not know, and two small objects wrapped in linen.
+
+The first was a bell, no larger than a walnut, hung on a thin chain. The second was a compass whose needle, when I opened the case, did not seek the north but turned slowly toward the end of the lane.
+
+I set them on the writing desk and wrote what I could: *bell — no sound yet; compass — points not north but toward the lane's end.* I did not understand them. I only noted that the hand in the notebooks wrote, again and again, of "items" that behaved unlike items, and of a house that kept more than rooms.
+
+That night the bell stayed silent. But I had begun, at least, to keep a record of the things I could not yet explain.
+
+---
+
+## Continuity Notes — ARC Integration (dev — not part of narrative)
+
+Maps planted anomalies to the ARC anomaly-case system (`WORLD_BIBLE/07_ANOMALIES/ARC_INDEX.md`). Prose integrated per author direction 2026-08-31.
+
+- **Concealed drawer + old notebooks + two light ARC items (bell, compass)** → seeds the ARC-item discovery (see `09_MYSTERY/ARC_Item_System_Leon.md`). Bell → `ARC-001 The Ashen Bell` family; compass → the "broken compass" ARC example.
+- **Leon's deduction + notebook logging** → establishes his method before any activation (Stages 2–3).
+- **Items inert inside the sealed house, prime only outside; usable daily once outside, but sound only when an anomaly is nearby** → consistent with the phenomenon-outside-only rule from `The_Bellweather_Cycle.md`. The current sounding is coincidental with the 13–21 Nov cycle.

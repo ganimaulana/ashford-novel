@@ -1,7 +1,5 @@
 # Chapter 12 — The Rope and the Rumor
 
-## Ashford, 24 – 28 November 1816
-
 Sunday came in quiet. A town has one voice on the Sabbath, and it is the church's. And the church of Ashford had not used its voice since before I was born, because the bell had been sold.
 
 That made Sunday the one day when a thing could be seen without being watched, because the whole town was standing with its face turned the same way.
@@ -72,8 +70,46 @@ And the bell was sold. And the bell was the whole street's agreement, and I was 
 
 Neither bell nor lamp came down the lane. The dark was the town's dark, and I shut the door, and took the pen to put down, under the date: the bell, twice, at the corner, and the lamp, wanting.
 
+---
+
+## Friday, 29 November, evening
+
+I went out at nine to watch for the lamp.
+
+The air had turned cold enough to see my breath. The lane was empty, as it always was at this hour. I stood in the shadow of my own doorway and fixed my eyes on the small window at the end of the lane, where the rosemary stood black against the glass.
+
+At the quarter hour, the lamp came.
+
+Not in the upper window as before, but in the small one above the door. The light was steady, trimmed low, and it stayed there without moving. I watched it for ten minutes, perhaps fifteen. Nothing changed. The flame did not waver. No shadow passed across it.
+
+Then I made a mistake.
+
+I stepped out from the shadow into the open lane.
+
+The moment I did, the light moved.
+
+It did not go out. It shifted — not the way a lamp is carried from one room to another, but the way a lamp is lifted and held still in a new position. And in that position it remained, aimed toward the lane. Aimed toward me.
+
+I stood perfectly still.
+
+The distance between my door and the end house was perhaps sixty yards. Too far to see a face behind glass in the dark. But I could see the light, and I knew with absolute certainty that whoever held it could see me just as clearly.
+
+We stood that way for what felt like a full minute.
+
+Then the light withdrew. Not extinguished — withdrawn. Pulled back into the room as deliberately as it had been brought forward. The window went black.
+
+I waited. My heart was beating hard against my ribs. The cold bit at my hands. I did not move.
+
+The light did not return.
+
+After a time I went back inside. My hands were shaking as I wrote the entry in my book: *Lamp in small window. Moved when I stepped into the lane. Someone saw me. They know I am watching.* The cold I had felt in the lane did not leave me when I shut the door; it stayed in my fingers as I wrote, and I could not say whether it was the frost or something else.
+
+---
+
 It is the bell and the lamp are not one matter, for there was no hand by the window to strike when it was dark, unless the hand was below and going up. There is a rope to a stair that wants a bell that had rung, in a house where a rope is wanted; so Hobbs said, who was fife.
 
-There is, therefore, at the end of the lane, at least what we feared; and I am now in the town's own list, and the firm has said its last on it out of London, and Arthur has said his first. And there is nothing for it now but what a man does when he is a householder, and the paper is his, and the roll is written: he goes to the books of the churchwardens, and after that he goes in search of what the paper can find, of the bell-money which is not in a bell, and of the bell that is not in the money, at the gate corner, of the dark house, whose hand is put out of the town's name out of all the town's paper: and there is to be no more of the lamp before it is not put out by nobody's asking.
+But now there is more than bell and lamp. There is a watcher and a watched, and the direction between them goes both ways.
+
+There is, therefore, at the end of the lane, at least what we feared; and I am now in the town's own list, and the firm has said its last on it out of London, and Arthur has said his first. And there is nothing for it now but what a man does when he is a householder, and the paper is his, and the roll is written: he goes to the books of the churchwardens, and after that he goes in search of what the paper can find, of the bell-money which is not in a bell, and of the bell that is not in the money, at the gate corner, of the dark house, whose hand is put out of the town's name out of all the town's paper.
 
 To do this, is first to be a man of the town; and I find that it is so done.

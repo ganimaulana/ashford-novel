@@ -79,7 +79,7 @@
 **Pengetahuan tentang masa lalu Leon:** Mungkin merasakan "echo" yang menunjukkan bahwa Leon memiliki hubungan dengan Ashford, tetapi tidak mengetahui detailnya.  
 **Pengetahuan tentang sistem supernatural:** Mungkin mengetahui keberadaan fenomena supernatural, tetapi tidak semua detail.
 
-**Lihat:** `REFERENCE/Supernatural_System.md`, `MYSTERY/Character_Knowledge.md`
+**Lihat:** `WORLD_BIBLE/13_REFERENCE/Supernatural_System.md`, `WORLD_BIBLE/09_MYSTERY/Character_Knowledge.md`
 
 ---
 

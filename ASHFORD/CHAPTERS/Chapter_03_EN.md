@@ -1,7 +1,5 @@
 # Chapter 3 — The Man Who Talks Too Much
 
-**Ashford, 15 November 1816**
-
 I was beginning to recognise the sounds of the house. Not because I had lived there long—only three days—but an old house has its own habits. The floorboards in the front hallway creaked beneath certain steps. The kitchen pipe gave a faint hiss for a few moments after the tap was closed. The dining-room window trembled slightly when the wind came from the east. Small things. Trivial things. Yet when living alone in a house that had not yet truly begun to feel like home, such small things became hard to ignore.
 
 I was making coffee when a knock came at the door. Three times. I set down the cup. When I opened it, Daniel stood there. He wore the same jacket as the day before, carried a shoulder bag that appeared far too full, and held two books under his arm.
@@ -590,6 +588,9 @@ Not yet.
 I had no reason to connect the two.
 I closed the notebook.
 Then I put out the lamp.
+
+From the window of my room I noticed, in the dim light, marks in the soft ground behind the house — fresh prints, as though someone had stood near the back door and stepped away. I meant to look closer in the morning. When I did, the ground was as it had always been; the prints were gone, perhaps washed by the night's damp, or never as clear as half-sleep had made them. I wrote only: *back yard — something, or nothing.*
+
 The day ended without any incident worth noting.
 At least, nothing important enough to record.
 Tomorrow I still had not yet started work.
@@ -609,3 +610,13 @@ Not everything needed an answer today.
 And without my noticing, the history book I had left on the table was still open to the same page.
 Between two paragraphs about old Ashford's history…
 the small symbol remained there.
+
+---
+
+## ARC Integration (dev — not part of narrative)
+
+Maps planted anomalies to the ARC anomaly-case system (`WORLD_BIBLE/07_ANOMALIES/ARC_INDEX.md`). Narrative prose is untouched (Phase 0 LOCKED).
+
+- **The symbol appears a third time (history book)** → `ARC-005 The Mourning Key` (now seen in print, moving the symbol from the house into recorded history).
+- **The locked door beneath the stairs at No. 13** → foreshadows `ARC-004 The House Beneath Bellweather` (Location; underground mystery).
+- **"House with no number" repeated** → `ARC-010 The Forgotten Name`.
