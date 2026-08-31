@@ -1,49 +1,27 @@
-# Chapter 44 — The Interlude
+# Chapter 44 — The Test and the Coin
 
-I had not been to Margaret's in nearly a week. The days had filled themselves with papers and questions, and the habit of morning bread had become a luxury I no longer allowed myself.
+On the tenth of March, Crowe came to my door, and he did not ask to come in. He stood on the step, and he looked at me with a face that was not a face of anger, but a face of judgment. "You have been accepted," he said. "You have been tested, and you have been accepted. The Order has a place for you, if you want it." He spoke the last words with the flatness of a man who did not care whether I accepted or not. I had heard that kind of voice before, in the markets and at the pump, when a man is offering you a thing he does not need you to take. It was the voice of one who had done his part and would do no more.
 
-I went to Arthur's shop on the Thursday, because a man who has found a strange object needs a man who knows strange objects. Arthur was behind the counter, as always, and he looked at me the way he looks at all things—with the patience of a man who has seen everything and is no longer surprised.
+I looked at him, and I was not afraid. I was not sure, but I was not afraid. "I will come," I said. "I will see what you have to offer." He nodded, and he turned and went down the lane. I followed him through the town, past the church and the market and the houses that had been standing for a hundred years, to a door I had not seen before. It was a door in a wall, a door that had been painted the same colour as the wall, and it was not a door that wanted to be found. He opened it and led me through a narrow passage to a room at the back of a building. The room was plain, with a table and a chair and a lamp that burned low. He closed the door, and I heard the lock turn. I was not afraid, but I was aware that I had walked into a place that was not designed for easy exits.
 
-"I have found something," I said, "and I would like you to look at it."
+"Sit," he said. It was not a request. I sat. He took a place opposite me, and I saw that there was a small box on the table between us. He opened it and took out a coin, and he set it on the table. "This is a test," he said. "It is not a test of your mind, or of your strength. It is a test of your nature. You have kept the agreement, and you have been accepted by the Order. But acceptance is not enough. You must show us that you can serve the Order, not just as a keeper, but as a member."
 
-I placed the gear on the counter, and Arthur picked it up and held it to the light. He turned it over, and he did not speak for a long time.
-
-"This is not from any clock I have seen," he said. "The metal is not brass, and it is not iron. It is something else. I do not know what it is."
-
-He handed it back to me, and his hand was steady.
-
-"Where did you find this?"
-
-I told him, and he listened without interrupting. When I had finished, he said, "There are things in this town that do not fit the usual pattern. I have seen some of them, and I have heard of others. The gear is one of those things. It is not a clock part. It is a key."
-
-"A key to what?"
-
-He looked at me, and for a moment he was not the shopkeeper—he was a man who knew something he was not telling.
-
-"I do not know," he said. "But I think you will find out."
-
-I took the gear and went home.
+I looked at the coin. It was a plain coin, with no mark on it that I could see. "What do you want me to do?" "You will take this coin," he said. "And you will carry it with you until I ask for it back. You will not spend it, and you will not lose it. You will carry it, and you will wait for my instruction." I took the coin and put it in my pocket. I did not know what it meant, but I knew that it was a test. I went home and wrote in my book: *10 Mar. I have been tested by the Order. I have been given a coin to carry, and I have been told to wait. I do not know what the coin is for, or what the test will be. But I have passed the first test, and I am still the keeper of the agreement.*
 
 ---
 
-That evening, I sat in my room and looked at the gear. I held it in my hand, and I felt the faint vibration that I had felt before. I took out my book and wrote:
+The coin was in my pocket for seven days. I did not spend it, and I did not lose it. I carried it with me wherever I went, and I did not ask what it was for. I did not know what the test was, but I knew that it was a test, and I knew that I had to pass it. On the night of the seventeenth of March, I was called to the old mill. The door was open, and the room beneath the town was lit with the same light that came from the walls. Eleanor Shaw was waiting for me, and she was not alone. There were others in the room—men and women I had seen at the meeting, and some I had not.
 
-*24 Jan. Arthur says the gear is not from any clock. He says it is a key. I do not know what it opens, but I know that it is important. I will keep it, and I will wait, and I will see what it opens.*
+"Mr. Ashcroft," she said. "You have carried the coin, and you have not asked what it is for. You have passed the test. You are now a member of the Order of Severence." She took the coin from me and held it up to the light. "This is the coin of the Order," she said. "It is a symbol of trust. You have carried it, and you have not used it. You have shown that you can be trusted."
 
-I put the gear in the drawer with the bell and the compass, and I shut the drawer and went to bed. I lay in the dark and thought about the clock, and the gear, and the thirteen strikes. I had used the key, and I had opened something. I did not know what it was, but I knew that it would not stay closed.
+She handed the coin back to me, and I put it in my pocket. "You will need a name," she said. "A name that is not your own. A name that the Order will know you by. What would you like to be called?" I thought for a moment. I thought of the boundary, and the house, and the agreement. I thought of the watching I had done, and the watching I would do. "Watchman," I said. She nodded, and the others nodded, and I saw that it was accepted. "Watchman," she repeated. "You have chosen well." She drew a card from her sleeve and placed it on the table. It was a card with a symbol on it—a circle, a line, and a dot. "You are the Watchman," she said. "And you are one of us now. Welcome to the Order of Severence."
 
-The next morning, I went to Calloway's office and told him what I had done.
+I took the card, and I went home with it, and I wrote in my book: *17 Mar. I am the Watchman, and I am a member of the Order of Severence. I have taken the coin, and I have taken the name, and I have taken the symbol. I do not know what the Order will ask of me, but I know that I am part of it now.*
 
-He listened without interrupting, and when I had finished, he did not speak for a long time.
+---
 
-"You used it," he said at last.
+On the nineteenth of March, I received my first assignment from the Order. It came in a letter, written in Eleanor's hand, and it said only: *There is a man in the town who has been breaking the agreement. He has been moving the stones, and he has been opening the doors. Find him, and stop him.*
 
-"I used it."
+I read the letter twice, and I did not know what to do. I had been watching the Order, and they had been watching me, and now they were asking me to act. I went to Calloway's office and showed him the letter. He read it, and he did not speak for a long time. "This is a test," he said. "They want to see if you will act against the agreement, or if you will act against them." He paused, and I saw that he was weighing his words. "The man who has been moving the stones," he said. "I know who he is. He is a man named Graves, and he is one of the Order. He has been sent to test you."
 
-He looked at me, and his face was the face of a man who has been carrying a weight that he cannot put down.
-
-"Then you have crossed a line," he said. "There is no going back. You have used an object that does not belong to the world as it is known. You have opened a door. And you cannot close it again."
-
-He paused, and then he said, "But you are not the first. And you will not be the last. The question is not whether you have crossed the line. The question is what you will do now that you have crossed it."
-
-I left his office and walked home through the cold. I had crossed a line, and I knew that I could not go back. But I also knew that I had been crossing lines since the day I arrived in Ashford. I had just not known it until now.
+I nodded, and I understood. The test was not about the man. It was about me. I went home and wrote in my book: *19 Mar. I have been given my first assignment. I am to find a man who has been breaking the agreement, and I am to stop him. I do not know if he is a real threat, or if he is a test. But I know that I must do what I think is right.* I took the gear and the bell, and I went out to find the man.

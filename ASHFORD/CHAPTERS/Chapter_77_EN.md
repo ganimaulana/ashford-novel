@@ -1,25 +1,19 @@
 # Chapter 77 — The Choice
 
-On the twelfth of April, I went to Calloway's office. He was sitting at his desk, as always, and I sat down across from him.
+The weeks after the old constable's death were quiet, the way the weeks after a passing often are. I went about my duties as the keeper, and I kept the agreement, and I watched the boundaries. But I knew that the quiet would not last.
 
-"I have been asked to open the door," I said. "I have been told that the thing inside the space is a power, and that it has been waiting for the time to be right."
+On the fifteenth of May, I was called to the old mill by Crowe. He was waiting for me at the door, and he looked at me with the same steady gaze he always had. "You are the keeper now," he said. "And the time has come to decide."
 
-"And what do you believe?"
+"I have already decided," I said. "I will keep the agreement."
 
-"I believe that the agreement was made for a reason," I said. "I believe that Aurelius Ashcroft knew what he was doing. He was not afraid. He was watching. He was waiting for the time to be right."
+He shook his head. "The agreement is not a document," he said. "It is a choice. And a choice is only as strong as the will of the one who makes it. You have chosen to keep the agreement, but you have not chosen to understand it. You do not know what you are keeping, and you do not know why."
 
-Calloway looked at me, and I saw that he was not sure.
+I did not answer, because I knew he was right. I did not know what was inside the space beneath the mill. I did not know why Aurelius Ashcroft had sealed it. I did not know what the power was, or what it could do.
 
-"Then you must decide if the time is now," he said.
+"Come with me," Crowe said. "I will show you what you are keeping."
 
-I nodded, and I went out into the lane. I walked to the house at the end of the lane, and I knocked on the door. The old constable opened it, and he looked at me the way a man looks at a thing he has been waiting for.
+I followed him down into the space beneath the mill, and he led me to the door that I had sealed. He did not open it. He stood in front of it, and he said, "This is the door. And behind it is the truth. You can keep it sealed, or you can open it. The choice is yours."
 
-"I have decided," I said. "I will not open the door. I will not break the agreement. I will keep it, because it is the right thing to do."
+I stood at the door, and I felt the weight of the agreement on my shoulders. I was the keeper, and I was the one who would decide.
 
-The old constable nodded, and he did not say anything.
-
-I went home and wrote in my book:
-
-*12 Apr. I have decided. I will keep the agreement. I will not open the door. I will not use the power. I will wait, and I will watch.*
-
-I shut the book, and the lamp came at nine, and was carried away along the rooms, and no sound came. I let it stand.
+I went home and wrote in my book: *15 May. Crowe has shown me the door. He has told me that I must decide whether to open it or keep it sealed. I do not know what I will decide.*

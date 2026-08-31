@@ -1,35 +1,31 @@
-# Chapter 43 — The Thirteenth Strike
+# Chapter 43 — The Invitation and the Meeting
 
-The gear sat in my pocket for three days, and I did not touch it except to feel its warmth through the cloth. I did not know what it was, but I knew that it was not ordinary. It was warm, and it vibrated, and it had appeared in a room where it had not been before.
+On the third of March, I received a letter. It was not the kind of letter that had been coming—the hand I knew, the fine pen, the upright letters. It was a plain hand, a firm hand, and it said only: *Mr. Ashcroft, you are invited to a meeting of the Order of Severence at the old mill, on the night of the fifth of March, at the hour of the lamps. Come alone, and bring the bell. We will not harm you. We ask only that you listen. — E. S.*
 
-I went back to the house on Mill Lane on the evening of the twenty-sixth, because I had a new question: what if the gear was not the cause, but the key? What if it was meant to be used, not just found?
+I read the letter three times, and I did not know what to do. I had been watching the Order, and they had been watching me, and now they had invited me to their meeting. I went to Calloway's office and showed him the letter. He read it, and he did not speak for a long time. "You must go," he said. "They will not harm you. They want to show you something—they want to convince you that they are right. If you refuse, they will find another way, and you will not be part of it." "You want me to go?" "I want you to know what they believe," he said. "The agreement has been kept, and the bell is in your hand. But you cannot keep the agreement if you do not know what it is for."
 
-I arrived an hour before midnight, and I brought the gear with me. I sat in the chair and waited. The clock stood in the corner, dark and still, and the room was cold and silent.
-
-At the stroke of twelve, the clock began to strike. One, two, three—up to twelve. Then it stopped. I waited for the thirteenth, but it did not come.
-
-I held the gear in my hand, and I waited.
-
-At the stroke of one, the clock began to strike again. One, two, three—up to twelve. Then it stopped.
-
-I sat in the dark, with the gear in my hand, and I thought about the pattern. The clock had not struck thirteen on the first night, when I had not had the gear. It had not struck thirteen on the second night, when I had the gear but did not use it. I needed to use it.
-
-I stood up and walked to the clock. I opened the case and looked at the mechanism. The gap where the gear should have been was still there. I fitted the gear into the gap, and it clicked into place.
-
-I stepped back and waited.
-
-At the stroke of twelve, the clock began to strike. One, two, three—up to twelve. Then it continued. Thirteen.
-
-The sound was low and full, and it moved through the room like a wave. I felt it in my chest, and I felt it in the floor. The clock had struck thirteen, and I had made it happen.
-
-I stood in the dark, with the gear in the clock, and I understood that I had not just found a key. I had used it. And in using it, I had opened something.
-
-I took the gear out of the clock and put it back in my pocket. I left the house and went home.
+I took the letter and went home. I spent the next two days preparing for the meeting. I read the old notebooks again, and I looked at the map, and I held the bell in my hand. I did not know what I would say, or what I would hear, but I knew that I had to go. I wrote in my book: *3 Mar. I am going to the meeting of the Order of Severence on the fifth of March. They have asked me to bring the bell, and I will bring it. I do not know what they will tell me, but I know that I must listen.*
 
 ---
 
-*26 Jan. I have struck thirteen. I fitted the gear into the clock, and it struck thirteen. I do not know what I have opened, or what I have set in motion. But I know that the gear is not just an object. It is a key. And I have turned it.*
+I went to the old mill on the evening of the fifth of March, and I brought the bell with me. The door to the space beneath was open, and the light from the walls was bright, and the room was filled with people I had not seen before—men and women, in plain clothes, with the faces of people who had been waiting for a long time. Eleanor Shaw was at the table, and Silas Crowe was at her side. They looked at me when I entered, and they did not seem surprised.
 
-I shut the book and sat with the weight of the gear in my pocket. I had done something that could not be undone. I had used an object that did not belong to the world as the world is known. And I had felt, for a moment, that I had crossed a line.
+"Welcome, Mr. Ashcroft," said Crowe. "We have been expecting you." I did not answer. I did not know what to say, and I did not want to say the wrong thing. Crowe gestured to a chair, and I sat down. The others sat around the table, and I saw that they were not enemies. They were people who believed that they were doing the right thing.
 
-I did not know what was on the other side. But I knew that I would find out.
+"You have kept the agreement," said Crowe. "You have kept the bell silent, and you have kept the boundary in place. But you do not know what the agreement is for, or why it was made." "I am listening." "The agreement was made by Aurelius Ashcroft, as you know," said Crowe. "But what you do not know is that Aurelius Ashcroft was not a keeper. He was a prisoner. He was a man who had found a power that he did not understand, and he made the agreement to keep himself from using it." He looked at me, and I saw that he was not lying.
+
+"The space beneath Ashford is not a space," he said. "It is a prison. And the prisoner is the part of Aurelius Ashcroft that he did not want to be. He sealed it here, and he made the agreement to keep it sealed." I looked at the bell in my hand, and I understood what it was. It was not a bell. It was a lock. And the gear was the key. "You are asking me to open the lock," I said. "We are asking you to understand what you are keeping," said Eleanor. "We are not asking you to open the lock. We are asking you to decide."
+
+I sat in the room beneath the mill, and I did not know what to decide. I went home, and I wrote in my book: *5 Mar. I have met with the Order of Severence. They have told me that the space beneath Ashford is a prison, and that the prisoner is the part of Aurelius Ashcroft that he sealed away. They are not asking me to open the lock. They are asking me to decide.*
+
+---
+
+I sat with the bell for three days after the meeting, and I did not touch it. I did not know what to do with what I had learned. I had been the keeper of the agreement, and I had kept it, but I had kept it without knowing what I was keeping. On the eighth of March, Eleanor Shaw came to my door. She stood on the step, and she looked at me the way a woman looks at a man who has been carrying a weight for too long. "You have not decided," she said. "I have not decided." "The agreement is not a choice," she said. "It is a responsibility. You have taken it on, and you have carried it, and you have kept it. But you are not the first keeper, and you will not be the last. The agreement will be renewed, or it will be broken, and that decision will be made by someone else."
+
+"Then why do I need to decide?" She looked at me, and I saw that she was not angry. She was patient. "The decision is not about the agreement," she said. "The decision is about whether you will be the one who makes the decision, or whether you will let someone else make it for you."
+
+I understood what she was saying. I could keep the agreement, and I could pass it on to someone else, and I could let the decision be made by someone who did not understand what the agreement was for. Or I could take the agreement into my own hands, and I could decide what was right. I looked at her, and I saw that she was waiting for my answer. "I will not break the agreement," I said. "But I will not keep it blindly. I will understand what it is for, and I will decide what to do."
+
+She nodded, and she did not say anything. I went to the old mill that night, and I sat in the room beneath the town. I held the gear in my hand, and I held the bell in my hand, and I looked at the map on the wall. I did not know what the thing in the space was, or whether it was a prisoner or a power. But I knew that I would find out.
+
+I wrote in my book: *8 Mar. I am the keeper of the agreement, but I am not a keeper. I am a watchman. I will not break the seal, but I will not keep it blindly. I will watch, and I will learn, and I will decide when the time comes.* I put the gear in the drawer, and I set the bell on the shelf, and I went out into the lane.

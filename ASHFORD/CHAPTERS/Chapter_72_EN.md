@@ -1,21 +1,15 @@
 # Chapter 72 — The Watcher
 
-The days after the report were quiet, the way the days after a test often are. I had been accepted by the Order, and I had been accepted by the agreement, and I had begun to see the town as a place where two worlds existed side by side.
+I found the rogue on the third of April, at the boundary stone near the old mill. He was a young man, perhaps twenty-five, with a face that was not old and not young, and he was moving the stone with his hands. "Who are you?" I said. He looked up, and he did not seem surprised. "I am the one who is breaking the agreement," he said. "And you are the one who is supposed to stop me."
 
-I went to Margaret's for bread on the twenty-eighth of March, and she looked at me the way a woman looks at a man who has been carrying a weight that is not his own.
+He stood up, and I saw that he was not afraid. "The agreement is a lie," he said. "It was made by a man who was afraid of what he had found. Aurelius Ashcroft made the agreement to keep himself prisoner. He sealed the thing inside the space beneath the mill, and he made the agreement to keep it sealed. But the thing is not a prison. It is a power, and it has been waiting for someone to use it."
 
-"You have been gone," she said. "You have been gone, and you have come back, and you have not told me where you have been."
+I did not know what to say, and I did not know what to do. "You are the keeper," he said. "And you have kept the agreement. But you have not asked what the agreement is for. You have not asked what is inside the space beneath the mill." I did not answer. "The thing inside the space is a power," he said. "A power that was left by Aurelius Ashcroft. And it is waiting for someone to use it."
 
-"I have been working," I said. "I have been helping the constable."
+He stepped away from the stone, and I saw that it was not a stone of the old boundary. It was a new stone, placed by him, and it was meant to be moved. I looked at the stone, and I looked at the man, and I did not know what to do. I went home and wrote in my book: *3 Apr. I have found the rogue, and I have not stopped him. He told me that the agreement is a lie, and that the thing inside the space beneath the mill is a power. I do not know if he is right. But I know that I must find out.*
 
-She looked at me, and I saw that she did not believe all of it, but she did not press.
+On the fifth of April, I went to the old constable. I had not spoken to him since I had renewed the agreement, but I knew that he had been keeping the agreement for a long time, and I knew that he might know the truth. He was in the back room of the house at the end of the lane, as I had found him before, and he looked at me the way a man looks at a thing he has been expecting. "You have found the rogue," he said. It was not a question. I nodded. "He has told you that the agreement is a lie," said the old constable. "He has told you that the thing inside the space beneath the mill is a power." I nodded. "He is not wrong," said the old constable. "The agreement is not a lie, but it is not the whole truth. The thing inside the space is a power, and it was left by Aurelius Ashcroft. But he did not leave it because he was afraid. He left it because he knew that it was not time to use it."
 
-"The bread is in the oven," she said. "It will be ready in an hour. Come back then, and I will have it for you."
+I sat down, and I waited. "Aurelius Ashcroft was not a keeper," said the old constable. "He was a watcher. He watched the boundaries, and he watched the agreements, and he watched the power that he had found. He made the agreement to keep the power sealed until the time was right. He knew that the power would be needed, but he did not know when." I felt the weight of his words settle over me. "The time is not right," I said. "No," said the old constable. "But it is coming."
 
-I nodded, and I went out into the lane. I walked through the streets of Ashford with the weight of the coin in my pocket, and I felt the town as a place that was not a town—it was a collection of agreements, a network of boundaries, a web of choices.
-
-I went home and wrote in my book:
-
-*28 Mar. I have been accepted by the Order, and I have been accepted by the agreement. I am the Watchman, and I am the keeper. I do not know what the future will bring, but I know that I am part of it.*
-
-I shut the book, and the lamp came at nine, and was carried away along the rooms, and no sound came. I let it stand.
+I left the house at dawn, and I wrote in my book: *5 Apr. The old constable has told me that Aurelius Ashcroft was not a keeper, but a watcher. He made the agreement to keep the power sealed until the time was right. I do not know when the time will be right. But I know that I am the one who will decide.* I put the gear and the bell back in the drawer, and I waited.

@@ -1,21 +1,17 @@
-# Chapter 58 — The Stillness
+# Chapter 58 — The Meeting
 
-I kept the bell in my room, and I did not ring it. I did not touch it. I only looked at it, and I felt its presence the way a man feels the presence of a thing that has been kept for a long time.
+I went to the old mill on the evening of the fifth of August, and I brought the bell with me. The door to the space beneath was open, and the light from the walls was bright, and the room was filled with people I had not seen before—men and women, in plain clothes, with the faces of people who had been waiting for a long time. Eleanor Shaw was at the table, and Silas Crowe was at her side. They looked at me when I entered, and they did not seem surprised.
 
-The days passed, and the stones stopped moving. The house on the edge of town did not appear again. The space beneath the mill was sealed, and the door did not open. The boundary had been renewed.
+"Welcome, Mr. Ashcroft," said Crowe. "We have been expecting you." I did not answer. I did not know what to say, and I did not want to say the wrong thing. Crowe gestured to a chair, and I sat down. The others sat around the table, and I saw that they were not enemies. They were people who believed that they were doing the right thing.
 
-I went to the old constable to tell him what I had done, and he listened without speaking.
+"You have kept the agreement," said Crowe. "You have kept the bell silent, and you have kept the boundary in place. But you do not know what the agreement is for, or why it was made." "I am listening." "The agreement was made by Aurelius Ashcroft, as you know," said Crowe. "But what you do not know is that Aurelius Ashcroft was not a keeper. He was a prisoner. He was a man who had found a power that he did not understand, and he made the agreement to keep himself from using it." He looked at me, and I saw that he was not lying.
 
-"You have kept the agreement," he said. "But the agreement is not forever. It is renewable, and it will come to an end again. When it does, you will be the one who must renew it."
+"The space beneath Ashford is not a space," he said. "It is a prison. And the prisoner is the part of Aurelius Ashcroft that he did not want to be. He sealed it here, and he made the agreement to keep it sealed." I looked at the bell in my hand, and I understood what it was. It was not a bell. It was a lock. And the gear was the key. "You are asking me to open the lock," I said. "We are asking you to understand what you are keeping," said Eleanor. "We are not asking you to open the lock. We are asking you to decide."
 
-He looked at me, and I saw that he was tired. He had been keeping the agreement for a long time, and he was ready to rest.
+I sat in the room beneath the mill, and I did not know what to decide. I went home, and I wrote in my book: *5 Aug. I have met with the Order of Severence. They have told me that the space beneath Ashford is a prison, and that the prisoner is the part of Aurelius Ashcroft that he sealed away. They are not asking me to open the lock. They are asking me to decide.*
 
-"I will keep the agreement," I said. "I will keep the bell."
+I sat with the bell for three days after the meeting, and I did not touch it. I did not know what to do with what I had learned. I had been the keeper of the agreement, and I had kept it, but I had kept it without knowing what I was keeping. On the eighth of August, Eleanor Shaw came to my door. She stood on the step, and she looked at me the way a woman looks at a man who has been carrying a weight for too long. "You have not decided," she said. "I have not decided." "The agreement is not a choice," she said. "It is a responsibility. You have taken it on, and you have carried it, and you have kept it. But you are not the first keeper, and you will not be the last. The agreement will be renewed, or it will be broken, and that decision will be made by someone else."
 
-He nodded, and he closed his eyes, and I went out into the lane.
+"Then why do I need to decide?" She looked at me, and I saw that she was not angry. She was patient. "The decision is not about the agreement," she said. "The decision is about whether you will be the one who makes the decision, or whether you will let someone else make it for you." I understood what she was saying. I could keep the agreement, and I could pass it on to someone else, and I could let the decision be made by someone who did not understand what the agreement was for. Or I could take the agreement into my own hands, and I could decide what was right. I looked at her, and I saw that she was waiting for my answer. "I will not break the agreement," I said. "But I will not keep it blindly. I will understand what it is for, and I will decide what to do."
 
-I stood at the gate of the house at the end of the lane, and I looked at the rosemary, and I looked at the window, and I looked at the house that was not empty. I understood that the house was not a house—it was a place, a place where the agreement was kept, a place where the boundary was held.
-
-I went home and wrote in my book:
-
-*20 Feb. I have renewed the agreement. The stones are still, and the house is quiet, and the bell is silent. I do not know what the agreement is for, but I know that it is important. I will keep it, and I will wait, and I will see what comes.*
+She nodded, and she did not say anything. I went to the old mill that night, and I sat in the room beneath the town. I held the gear in my hand, and I held the bell in my hand, and I looked at the map on the wall. I did not know what the thing in the space was, or whether it was a prisoner or a power. But I knew that I would find out. I wrote in my book: *8 Aug. I am the keeper of the agreement, but I am not a keeper. I am a watchman. I will not break the seal, but I will not keep it blindly. I will watch, and I will learn, and I will decide when the time comes.* I put the gear in the drawer, and I set the bell on the shelf, and I went out into the lane.

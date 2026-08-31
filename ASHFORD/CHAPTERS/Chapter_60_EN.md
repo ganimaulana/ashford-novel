@@ -1,29 +1,15 @@
-# Chapter 60 — The First Thread
+# Chapter 60 — The First Assignment
 
-I had kept the bell for three days, and I had not rung it. I had not touched it, except to move it from the drawer to the shelf, where I could see it. It was a small thing, smaller than the one that had hung in the tower, and yet I felt its weight in the room the way a man feels the weight of a clock that has been stopped.
+On the nineteenth of August, I received my first assignment from the Order. It came in a letter, written in Eleanor's hand, and it said only: *There is a man in the town who has been breaking the agreement. He has been moving the stones, and he has been opening the doors. Find him, and stop him.*
 
-I went to Calloway on the morning of the twenty-fifth of February to ask him what he knew about the Order. I had not told him that I had spoken to the old constable, but I had told him that I had found the bell, and I had told him that the agreement had been renewed. He had listened without interrupting, and when I had finished, he had said only, "The agreement has been kept."
+I read the letter twice, and I did not know what to do. I had been watching the Order, and they had been watching me, and now they were asking me to act. I went to Calloway's office and showed him the letter. He read it, and he did not speak for a long time. "This is a test," he said. "They want to see if you will act against the agreement, or if you will act against them." He paused, and I saw that he was weighing his words. "The man who has been moving the stones," he said. "I know who he is. He is a man named Graves, and he is one of the Order. He has been sent to test you."
 
-"The agreement has been kept," I said. "But there is an order that would break it."
+I nodded, and I understood. The test was not about the man. It was about me. I went home and wrote in my book: *19 Aug. I have been given my first assignment. I am to find a man who has been breaking the agreement, and I am to stop him. I do not know if he is a real threat, or if he is a test. But I know that I must do what I think is right.* I took the gear and the bell, and I went out to find the man.
 
-He looked at me, and his face was the face of a man who has been waiting for a question to be asked.
+I found Graves on the evening of the twenty-first of August, at the boundary stone that had moved the most. He was a large man, with a face that was not kind, and he was moving the stone with his hands. "You are the man who has been breaking the agreement," I said. He looked up, and he did not seem surprised. "I am the man who has been moving the stones," he said. "But I am not breaking the agreement. I am testing it. The agreement was made to be tested, and you are the one who has been chosen to test it."
 
-"The Order of Severence," he said. "I have heard of them. They are not a single group. They are a network, a collection of people who believe that the boundaries of the world should not be kept, but opened. They believe that the space beneath Ashford is not a cage, but a door."
+I did not know what to say, and I did not know what to do. I had been sent to stop him, but he was telling me that I was the one who was being tested. "You are the keeper," he said. "And you are the one who must decide what the agreement is for." He stepped away from the stone, and I saw that it was not a stone of the old boundary. It was a new stone, placed by the Order, and it was meant to move. I looked at the stone, and I looked at the man, and I did not know what to do. I went home and wrote in my book: *21 Aug. I have found the man who has been moving the stones, and I have not stopped him. He told me that he was testing the agreement, and that I was the one who was being tested. I do not know if he is right. But I know that I must decide.*
 
-He paused, and I saw that he was weighing his words.
+I went to Calloway's office on the morning of the twenty-third of August, and I told him what I had done. I told him that I had found Graves, and I had not stopped him, and that I had decided that the test was not about the man. It was about me. "The agreement is not about the boundary," I said. "It is about the will. The boundary is a symbol, and the agreement is a choice. I have been keeping the boundary, but I have not been making the choice. I have been letting the boundary make the choice for me." Calloway looked at me, and I saw that he understood. "You have decided," he said. I nodded. "I have decided that I will not keep the agreement blindly. I will not keep it because it is the agreement. I will keep it because it is the right thing to do. And if I ever decide that it is the wrong thing, I will break it." Calloway nodded, and he did not say anything.
 
-"There is a woman in the town," he said. "Her name is Eleanor Shaw. She is a widow, and she is one of them. She has been seen at the mill, and she has been seen at the house at the end of the lane, and she has been seen with the man who calls himself Silas Crowe. He is the one who leads them here."
-
-"Why are you telling me this?"
-
-"Because you are the keeper of the agreement," he said. "And the keepers before you have always known about the Order. They have always watched them. And they have always waited for the time when they would have to act."
-
-I left Calloway's office and walked through the streets of Ashford with the name Eleanor Shaw in my head. I had not met her, but I knew that I would.
-
----
-
-That evening, I wrote in my book:
-
-*25 Feb. The Order of Severence exists. They are in Ashford, and they are led by a man named Silas Crowe and a woman named Eleanor Shaw. They believe that the space beneath the town is a door. I do not know what they want to open it for. But I know that I must find out.*
-
-I shut the book, and the lamp came at nine, and was carried away along the rooms, and no sound came. I let it stand.
+I went home and wrote in my book: *23 Aug. I have decided that I will not keep the agreement blindly. I will keep it because it is right, and I will break it if it is wrong. I am the keeper of the boundary, but I am also the one who decides.* I sat with the bell, and I did not ring it.

@@ -1,17 +1,13 @@
 # Chapter 78 — The Keeper
 
-The days after my decision were quiet, the way the days after a choice often are. I had kept the agreement, and I had not broken the seal, and I had not used the power. I had done what I thought was right, and I had not let myself be persuaded.
+I stood at the door for a long time, and I did not open it. I did not know what was behind it, but I knew that I was not ready to find out. I went back to the house at the end of the lane, and I sat in the back room, where the old constable had sat. I looked at the rosemary on the sill, and the open window, and the cold light of the afternoon.
 
-I went to Margaret's for bread on the fifteenth of April, and the shop was empty. Margaret stood behind the counter with the same cloth in her hand, and she looked at me the way a woman looks at a man who has been carrying a thing that he has finally put down.
+I was the keeper, and I had kept the agreement. But I had not understood it. I had not understood what I was keeping, or why.
 
-"You have decided," she said. It was not a question.
+I took out my book and wrote: *15 May. I am the keeper of the agreement, but I do not know what the agreement is. I have kept it, but I have not understood it. I must find out what I am keeping. I must find out what is behind the door.*
 
-I nodded.
+I shut the book, and I went to the old mill. I stood at the door, and I placed my hand on it. I did not open it. I only stood there, and I waited. I waited for the truth to come to me, because I was not ready to go to it.
 
-"The agreement is not a matter of right or wrong," she said. "It is a matter of choosing. You have chosen, and you have chosen well. The agreement will be kept, and the town will be safe."
-
-I took the bread and went home, and I wrote in my book:
-
-*15 Apr. I have kept the agreement. I have not opened the door, and I have not used the power. I have done what I thought was right. The agreement will be kept, and the town will be safe.*
+I went home, and I wrote in my book: *15 May. I have stood at the door, and I have not opened it. I am not ready. But I know that I will be ready when the time comes.*
 
 I shut the book, and the lamp came at nine, and was carried away along the rooms, and no sound came. I let it stand.

@@ -1,21 +1,15 @@
 # Chapter 70 — The Decision
 
-I went to Calloway's office on the morning of the twenty-third of March, and I told him what I had done. I told him that I had found Graves, and I had not stopped him, and that I had decided that the test was not about the man. It was about me.
+On the twenty-fifth of March, I wrote a report for the Order. I told them what I had done, and I told them what I had decided. I told them that I would not keep the agreement blindly, and that I would break it if I decided it was wrong. I gave the report to Eleanor Shaw, and she read it without speaking. When she finished, she looked at me, and I saw that she was not angry. She was satisfied.
 
-"The agreement is not about the boundary," I said. "It is about the will. The boundary is a symbol, and the agreement is a choice. I have been keeping the boundary, but I have not been making the choice. I have been letting the boundary make the choice for me."
+"You have passed the test," she said. "You have shown that you will not be a servant of the agreement, and you have shown that you will not be a servant of the Order. You will be a servant of your own understanding."
 
-Calloway looked at me, and I saw that he understood.
+She handed the report back to me, and I took it. "You are now a full member of the Order," she said. "You will be called the Watchman, and you will be trusted. But you will also be watched." She met my gaze, and her own was level and unreadable. "Every member is watched," she said. "That is how the Order remains strong."
 
-"You have decided," he said.
+I understood what she was telling me: that I would never be outside suspicion, and that the Order would never fully trust me. They would accept me, but they would watch me, and they would wait for me to make a mistake. "That is fair," I said. "I will watch as well."
 
-I nodded.
+She nodded, and I went home.
 
-"I have decided that I will not keep the agreement blindly. I will not keep it because it is the agreement. I will keep it because it is the right thing to do. And if I ever decide that it is the wrong thing, I will break it."
+I sat at my desk and looked at the things I had collected: the gear, the bell, the coin, the card. I had the symbols of the agreement and the symbols of the Order, and I did not know which symbols would be stronger. I wrote in my book: *25 Mar. I have been accepted into the Order of Severence. I will be called the Watchman, and I will be trusted. But I will also be watched. I do not know what the Order will ask of me, but I know that I must be careful.*
 
-Calloway nodded, and he did not say anything.
-
-I went home and wrote in my book:
-
-*23 Mar. I have decided that I will not keep the agreement blindly. I will keep it because it is right, and I will break it if it is wrong. I am the keeper of the boundary, but I am also the one who decides.*
-
-I sat with the bell, and I did not ring it.
+I put the coin and the card in the drawer, and I set the bell on the shelf, and I went out into the lane. The lane was quiet, and the house at the end of it stood with its rosemary on the sill and its glass open to the cold. I had made a choice, and I did not know if it was the right one. But I knew that I had to make it.

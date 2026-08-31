@@ -1,29 +1,15 @@
 # Chapter 74 — The Rogue
 
-I found the rogue on the third of April, at the boundary stone near the old mill. He was a young man, perhaps twenty-five, with a face that was not old and not young, and he was moving the stone with his hands.
+The days after my decision were quiet, the way the days after a choice often are. I had kept the agreement, and I had not broken the seal, and I had not used the power. I had done what I thought was right, and I had not let myself be persuaded. I went to Margaret's for bread on the fifteenth of April, and the shop was empty. Margaret stood behind the counter with the same cloth in her hand, and she looked at me the way a woman looks at a man who has been carrying a thing that he has finally put down.
 
-"Who are you?" I said.
+"You have decided," she said. It was not a question. I nodded. "The agreement is not a matter of right or wrong," she said. "It is a matter of choosing. You have chosen, and you have chosen well. The agreement will be kept, and the town will be safe."
 
-He looked up, and he did not seem surprised.
+I took the bread and went home, and I wrote in my book: *15 Apr. I have kept the agreement. I have not opened the door, and I have not used the power. I have done what I thought was right. The agreement will be kept, and the town will be safe.*
 
-"I am the one who is breaking the agreement," he said. "And you are the one who is supposed to stop me."
+On the seventeenth of April, I was called to the old mill for a meeting of the Order. Crowe was there, and Eleanor was there, and the others were there. They looked at me the way a group of people look at a man who has made a choice that they did not expect. "You have kept the agreement," said Crowe. I nodded. "You have not broken the seal, and you have not used the power. You have chosen to keep the agreement, and you have chosen to wait." "I have chosen to wait," I said. Crowe nodded, and I saw that he was not angry. He was not satisfied, but he was not angry. "The agreement will be kept," he said. "And you will be the one who keeps it." I nodded, and I went out into the lane.
 
-He stood up, and I saw that he was not afraid.
+I went home and wrote in my book: *17 Apr. I have kept the agreement, and the Order has accepted my decision. I am the keeper of the agreement, and I will keep it until the time is right.* I shut the book, and I waited.
 
-"The agreement is a lie," he said. "It was made by a man who was afraid of what he had found. Aurelius Ashcroft made the agreement to keep himself prisoner. He sealed the thing inside the space beneath the mill, and he made the agreement to keep it sealed. But the thing is not a prison. It is a power, and it has been waiting for someone to use it."
+The months passed, and I kept the agreement. I did not open the door, and I did not use the power. I watched the boundaries, and I watched the stones, and I watched the Order. I was the keeper, and I was the watcher, and I was the one who would decide when the time was right. I went to Margaret's for bread, and I went to Calloway's office for news, and I went to the house at the end of the lane to speak to the old constable. I lived in the town, and I kept the agreement, and I waited.
 
-I did not know what to say, and I did not know what to do.
-
-"You are the keeper," he said. "And you have kept the agreement. But you have not asked what the agreement is for. You have not asked what is inside the space beneath the mill."
-
-I did not answer.
-
-"The thing inside the space is a power," he said. "A power that was left by Aurelius Ashcroft. And it is waiting for someone to use it."
-
-He stepped away from the stone, and I saw that it was not a stone of the old boundary. It was a new stone, placed by him, and it was meant to be moved.
-
-I looked at the stone, and I looked at the man, and I did not know what to do.
-
-I went home and wrote in my book:
-
-*3 Apr. I have found the rogue, and I have not stopped him. He told me that the agreement is a lie, and that the thing inside the space beneath the mill is a power. I do not know if he is right. But I know that I must find out.*
+On the first of May, I wrote in my book: *1 May. I have kept the agreement for six weeks. The boundaries are still, and the stones are still, and the space beneath the mill is sealed. I do not know when the time will be right. But I know that I am the one who will decide.* I shut the book, and the lamp came at nine, and was carried away along the rooms, and no sound came. I let it stand. I was the keeper of the agreement, and I would keep it until the time was right.

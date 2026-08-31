@@ -1,39 +1,69 @@
-# Chapter 49 — The Moving Field
+# Chapter 49 — The Stones Return
 
-On the morning of the second of February, Calloway sent a boy to my door with a note. It was a short note, written in the same plain hand as the first: *A farmer on the north road has reported that his field has moved. Come and see.*
+The weeks after my conversation with the old constable passed slowly, the way time passes when you are waiting for something you cannot name. I went about my ordinary business—bread from Margaret's, reports to Calloway, the occasional walk through the town—but my mind was elsewhere. I was thinking about the stones, and the boundary, and the thing that had woken up.
 
-I went to the farm that afternoon, because a field that moves is a field that wants to be understood. The farmer was a man named Goding—not the warden, but a cousin, who had the same weathered face and the same patience of a man who has been watching the land for fifty years. He met me at the gate and led me to the edge of his field.
+I went to the mill-yard on the morning of the twentieth of May, because I had not been there in a week, and I wanted to see if the stones had moved again. The gate was shut, as always, and I did not open it. I walked to the corner where the wall turned, and I looked at the stones that were newer than the rest. They were still there, still grey, but I saw something I had not seen before: a thin crack running down the face of one of them, as if the stone had been strained from within.
 
-"It was here yesterday," he said, pointing. "The boundary stone was here. Today it is there." He pointed again, to a spot a few yards away. "I have measured it. It has moved four feet."
+I knelt and touched the crack. It was fresh, and it was deep, and I felt a faint vibration through my fingers—the same vibration I had felt when I held the gear. I did not know what it meant, but I knew that it was not good.
 
-I looked at the stone. It was a plain stone, worn by weather, with a mark carved into its face—a line and a circle, the same symbol I had seen on the door of my house, on the key, in the old book. I did not mention it. I only noted it.
+I went to Finch's room and told him what I had seen. He listened without interrupting, and when I had finished, he did not speak for a long time. "The stones are anchors," he said at last. "They are holding the boundary in place. If they are cracking, the boundary is weakening."
 
-I walked to the stone and knelt beside it. The ground around it was undisturbed—no marks of a cart, no signs of a hole, no evidence that the stone had been lifted. It was as if the stone had simply decided to move.
+"Then what happens when the boundary breaks?"
 
-I stood and looked at the field. The boundary between Goding's land and the next was a line that had been drawn in the earth for generations, and now that line had shifted.
+Finch looked at me, and his face was the face of a man who has been carrying a weight for a long time. "I do not know," he said. "No one knows. The boundary was made to keep something sealed, and if it breaks, that something will be free."
 
-I went back to the farmhouse and wrote in my book:
-
-*2 Feb. The stone has moved four feet. There are no signs of disturbance. The symbol on the stone matches the one on my door. I do not know what it means, but I know that it is part of the pattern.*
+I left his room and walked through the streets of Ashford with the weight of his words in my pocket. The town was going about its business—people buying bread, children playing, carts passing along the High Street—and none of them knew that the ground beneath their feet was shifting.
 
 ---
 
-That evening, I went to the Academy to find Marlow, because a man who has been a midshipman knows how to read the lines of a map, and I needed someone who could read the lines of the earth. He was in the library, as Daniel often was, but he was not reading—he was drawing. He was drawing a map of the town, with careful lines and small marks, and he looked up when I came in.
+I went to Calloway's office that afternoon, and I told him what I had seen and what Finch had said. He listened without interrupting, and when I had finished, he did not speak for a long time. "You have done what you can," he said at last. "You have kept the agreement, and you have watched the boundary. But the boundary is not yours alone. It is the town's. And the town has been keeping it for thirty years."
 
-"I heard about the stone," he said. "The farmer who moved. I would like to see it."
+"Then why is it breaking now?"
 
-I took him to the field the next morning, and we measured the distance from the stone to the fixed points—the gate, the oak tree, the corner of the barn. We marked the line on his map, and we saw that the line was not straight. It curved slightly, the way a line curves when it follows a boundary that has been moved before.
+Calloway looked at me, and his face was the face of a man who has been waiting for a question he does not want to answer. "Because something has changed," he said. "The agreement was made to keep the space sealed, but the space is not empty. Something is in it, and that something is waking up."
 
-"This is not the first time," Marlow said. "The ground knows where the line should be. The stone is trying to return to its place."
+"What is in it?"
 
-We walked the length of the boundary, and we found three more stones, each with the same symbol, each slightly displaced. The pattern was clear: the stones were shifting, moving back toward an older line—the line on Calloway's old map.
+He was silent for a long time, and then he said, "I do not know. No one knows. The old constable knows, but he will not tell. He is waiting for someone to take his place."
 
-I looked at Marlow, and I saw that he was not afraid. He was fascinated.
+I left his office and walked home through the cold. The lane was quiet, and the house at the end of it stood with its rosemary on the sill and its glass open to the cold. I understood that the agreement was not a document, and it was not a seal. It was a choice. And I had made that choice when I renewed it. I had chosen to keep the space sealed. But now the space was trying to open, and I did not know if I could stop it.
 
-"These stones are not markers," he said. "They are anchors. Something is pulling them."
+---
 
-I thought of the gear in my drawer, and of the bell that had not rung, and of the compass that had not pointed. I thought of the line on the map, and the house at the end of the lane, and the room that listened.
+On the evening of the twenty-second of May, I went to the house at the end of the lane. I did not knock. I stood at the gate, and I waited. The door opened, and the old constable stood in the doorway. He did not seem surprised to see me.
 
-"I think," I said, "that the anchors are holding something down. And something is trying to pull them up."
+"You have come about the stones," he said.
 
-We went back to the farm, and I wrote it down.
+"I have come about the stones."
+
+He nodded, and he stepped aside, and I entered. We sat in the back room, by the fire, and I told him what I had seen: the crack in the stone, the vibration, the fear that the boundary was breaking. He listened without interrupting, and when I had finished, he did not speak for a long time.
+
+"The stones are not just anchors," he said at last. "They are markers. They mark the places where the boundary is strongest. And they are cracking because the boundary is being tested."
+
+"Tested by what?"
+
+He looked at me, and his face was the face of a man who has been waiting for a question he does not want to answer. "By the thing that is inside the space," he said. "It is testing the boundary, trying to find a way out. And it is getting closer."
+
+I left the house at dawn, and I walked through the streets of Ashford with the weight of his words in my pocket. The town was waking up, but it was not the town I had known. It was a town that was holding its breath.
+
+---
+
+The days passed, and the stones continued to crack. I went to the mill-yard every morning, and every morning I saw a new crack, a new vibration, a new sign that the boundary was weakening. I did not know what to do, and I did not know who to ask. I went to Margaret's for bread, and she looked at me the way a woman looks at a man who is carrying something he cannot put down.
+
+"You've been gone," she said. "Not gone from the town. Gone from yourself. There's a difference."
+
+I did not answer. I took the bread and paid, and I went out into the lane. I walked to the house at the end of the lane, and I stood at the gate, and I waited. The door opened, and the old constable stood in the doorway. He did not seem surprised to see me.
+
+"You have come to ask what you must do," he said.
+
+"I have come to ask what I must do."
+
+He nodded, and he stepped aside, and I entered. We sat in the back room, by the fire, and he said, "You must go to the space beneath the mill, and you must open the door."
+
+"Open the door?" I said. "But I renewed the agreement. I chose to keep it sealed."
+
+"You chose to keep it sealed," he said. "But the seal is breaking, and if it breaks on its own, the thing inside will be free. If you open the door, you will be ready for it. You will have a choice."
+
+I sat with his words for a long time, and then I said, "I will go tonight."
+
+He nodded, and I went out into the dark.

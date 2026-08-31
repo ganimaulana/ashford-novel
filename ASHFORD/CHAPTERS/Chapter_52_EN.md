@@ -1,35 +1,15 @@
-# Chapter 52 — The Breach
+# Chapter 52 — The Space Beneath
 
-On the tenth of February, I went to Bellweather Lane at midnight, because I wanted to see the boundary where it crossed the lane. I stood at the corner where the old line met the new, and I looked at the house at the end of the lane. It was dark, and the rosemary stood in its pot on the sill, and the window was open to the cold.
+I spent the next three days looking for the space beneath. Finch helped me search the records, and Marlow helped me map the old lines, and Blackwood helped me understand the signs. We found the entrance in the end, not in a house or a church, but in the yard of the old mill, where the ground had been disturbed by a fallen tree. We cleared the earth, and we found a door—an iron door, covered in rust, with a lock that had not been opened in a hundred years. I took the gear from my pocket and fitted it into the lock, and it turned.
 
-I did not know what I was looking for, but I knew that I was looking for something.
+The door opened onto a stair that led down into the dark. I went down first, with a lantern in my hand, and the others followed. The stair was long, and the air grew cold, and the walls were lined with stone that had been cut by a hand that was older than the town. At the bottom of the stair, we found a room—a room that was not a room, but a space. It was filled with things: old furniture, old books, old boxes, and in the middle of the room, a table. On the table was a map. It was a map of the town, but it was not a map of the town I knew. It was a map of the town before the boundary was moved.
 
-I walked along the old line, and I felt a change in the air—a shift in the temperature, a change in the sound. The lane was quiet, but the quiet was not the quiet of the night. It was the quiet of a place that was waiting.
+I looked at the map, and I saw the line that had been lost—the line that the stones were trying to return to. And I saw the house at the end of the lane, marked with a symbol I had not seen before. "This is the map of the town as it was," I said. "And this is the house as it was. The house is not just a house. It is a key." We climbed back up and sealed the door, and I wrote in my book: *13 Jun. We have found the space beneath the town. It contains the old map, and the old map shows the old line. The house at the end of the lane is a key to the old line. I do not know what the key opens, but I know that it is important.*
 
-I stopped at the gate of the house at the end of the lane, and I looked at the stones. They were not the stones of the boundary—they were the stones of the wall, and they were older than the wall. They were the stones that had been there before the lane was built.
+I put the gear back in the drawer, and I waited. But the waiting was different now. I had seen the space, and I had seen the map, and I had begun to understand that the boundary was not just a line. It was a system. And the system was failing.
 
-I knelt and touched the stones, and I felt a vibration—the same vibration I had felt when I held the gear. I did not know what it meant, but I knew that it was the same.
+On the fifteenth of June, I went to the house at the end of the lane, and I knocked on the door. The old constable opened it, and he did not seem surprised to see me. "You have found the space," he said. "I have found the space," I said. He nodded, and he stepped aside, and I entered. We sat in the back room, by the fire, and I told him what I had seen. He listened without interrupting, and when I had finished, he did not speak for a long time.
 
-I went home and wrote in my book:
+"The space is not empty," he said at last. "It contains a thing—a thing that was placed there by Aurelius Ashcroft. He sealed it there, and he made the agreement to keep it sealed. But the agreement is not forever. It is renewable, and it has been renewed, and it will be renewed again, as long as there are keepers. But the thing does not want to be sealed. It wants to be free." "What is it?" I asked. He looked at me, and his face was the face of a man who has been waiting for a question he does not want to answer. "I do not know," he said. "No one knows. The first keeper knew, but he is dead. And the secret died with him."
 
-*10 Feb. The boundary of Bellweather Lane has been breached. The stones are moving, and the house is returning. I do not know what is on the other side, but I know that it is close.*
-
----
-
-The next day, Calloway came to my door.
-
-"There is something I have not told you," he said. "I have known about the boundary for many years, but I did not know what it was keeping. Now I know that it is keeping a space—a space beneath the town, a space that is not on any map."
-
-"A space?"
-
-"A space that was sealed when the boundary was moved. A space that is now being opened again, because the stones are returning to their old places."
-
-He looked at me, and his face was the face of a man who has carried a weight for a long time.
-
-"I have been trying to keep it closed," he said. "But I cannot do it alone. I need your help."
-
-I looked at him, and I understood that he was not just the constable. He was the keeper of the boundary. And he had been keeping it since before I arrived.
-
-"I will help," I said.
-
-He nodded, and he left the note and went down the lane.
+I left the house at dawn, and I walked through the streets of Ashford with the weight of his words in my pocket. I understood that I was not just the keeper of the agreement. I was the keeper of the secret. And I did not know what it was.

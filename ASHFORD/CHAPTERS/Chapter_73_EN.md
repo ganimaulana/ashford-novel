@@ -1,21 +1,9 @@
 # Chapter 73 — The Shadow
 
-I had been a member of the Order for three weeks, and I had not been given another assignment. I had been watching, and I had been waiting, and I had been learning. The Order was not a single thing—it was a network of people, each with their own role, each with their own secrets.
+On the tenth of April, I was called to the old mill by Crowe. He did not speak to me when I arrived; he gestured for me to follow him down into the space beneath the town. The room was the same as I had seen it before, but there was something different: the light from the walls was brighter, and the air was warmer. "You have found the rogue," he said. "And you have found the truth. The agreement is not a lie, but it is not the whole truth. The thing inside the space is a power, and it has been waiting for the time to be right." He looked at me, and his face was the face of a man who has been waiting for a long time. "The time is now," he said. "And you are the one who must decide."
 
-Eleanor Shaw was the one who gave the orders, and Silas Crowe was the one who enforced them. But there were others, and I had not met them all.
+I looked at the gear in my hand, and the bell on the shelf, and I did not know what to do. I went home and wrote in my book: *10 Apr. The time is now. Crowe has told me that the thing inside the space is a power, and that the time has come to use it. I do not know if he is right. But I know that I am the one who must decide.* I sat with the gear and the bell, and I did not move.
 
-On the first of April, I was called to the old mill for a meeting. Crowe was there, and he did not look at me the way he had before. His face was the face of a man who has been given orders, and is about to give them to someone else.
+On the twelfth of April, I went to Calloway's office. He was sitting at his desk, as always, and I sat down across from him. "I have been asked to open the door," I said. "I have been told that the thing inside the space is a power, and that it has been waiting for the time to be right." "And what do you believe?" "I believe that the agreement was made for a reason," I said. "I believe that Aurelius Ashcroft knew what he was doing. He was not afraid. He was watching. He was waiting for the time to be right." Calloway looked at me, and I saw that he was not sure. "Then you must decide if the time is now," he said.
 
-"Watchman," he said. "You have been trusted, and you have been tested, and you have been accepted. Now you will be given a task that is not a test. It is a task that you will perform for the Order."
-
-I waited.
-
-"There is a man in the town," he said. "He has been moving the stones, and he has been opening the doors. He is not one of us. He is a rogue, and he must be stopped. You will find him, and you will stop him."
-
-I nodded, and I went out into the lane.
-
-I went to Calloway's office and told him what I had been asked to do. He listened without interrupting, and when I had finished, he said, "You must do what you think is right."
-
-I went home and wrote in my book:
-
-*1 Apr. I have been given a real task. I am to find a man who has been moving the stones and opening the doors, and I am to stop him. I do not know who he is, or why he is doing it. But I know that I must find out.*
+I nodded, and I went out into the lane. I walked to the house at the end of the lane, and I knocked on the door. The old constable opened it, and he looked at me the way a man looks at a thing he has been waiting for. "I have decided," I said. "I will not open the door. I will not break the agreement. I will keep it, because it is the right thing to do." The old constable nodded, and he did not say anything. I went home and wrote in my book: *12 Apr. I have decided. I will keep the agreement. I will not open the door. I will not use the power. I will wait, and I will watch.* I shut the book, and the lamp came at nine, and was carried away along the rooms, and no sound came. I let it stand.

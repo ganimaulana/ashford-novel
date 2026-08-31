@@ -1,21 +1,17 @@
-# Chapter 53 — The Space Beneath
+# Chapter 53 — The Agreement and the Bell
 
-I spent the next three days looking for the space beneath. Finch helped me search the records, and Marlow helped me map the old lines, and Blackwood helped me understand the signs. We found the entrance in the end, not in a house or a church, but in the yard of the old mill, where the ground had been disturbed by a fallen tree.
+The day after we found the space beneath the mill, I returned to the house at the end of the lane, because a key is not a key unless it is used. I did not know how to use it, but I knew that I had to try. I took the gear from the drawer and held it in my hand, and I walked to the house at the end of the lane. The rosemary was still there, and the window was still open, and the house was still dark.
 
-We cleared the earth, and we found a door—an iron door, covered in rust, with a lock that had not been opened in a hundred years. I took the gear from my pocket and fitted it into the lock, and it turned.
+I stood at the gate and looked at the door. The door was not locked—it was not even closed. It stood ajar, the way a door stands when someone has just gone inside and left it open. I walked to the door and pushed it open, and I stepped into the house. It was not empty. The rooms were furnished, the windows were covered, the fire was burning low. Someone lived here, and someone had been living here for a long time.
 
-The door opened onto a stair that led down into the dark.
+I walked through the rooms, and I saw the traces of life: a cup on the table, a book on the chair, a bed that had been slept in. I saw the things that had been kept, and I saw the things that had been hidden. And then I saw the man. He was sitting in the back room, in the corner, by the fire. He was old, with white hair and a face that had been worn by the years, and he was reading a book. He looked up when I entered, and he did not seem surprised.
 
-I went down first, with a lantern in my hand, and the others followed. The stair was long, and the air grew cold, and the walls were lined with stone that had been cut by a hand that was older than the town.
+"You have found the door," he said. It was not a question. "I have found the door," I said. He closed the book and set it aside, and he looked at me the way a man looks at a thing he has been expecting. "I am the keeper of the house," he said. "And you are the one who has come to take my place." He stood up, and I saw that he was not a stranger. He was the man I had seen in the rain, the man at the inn, the man who had said that I should not trust my first impression. He was the constable's predecessor, the man who had kept the boundary before Calloway. "I have been waiting for you," he said. "For a long time."
 
-At the bottom of the stair, we found a room—a room that was not a room, but a space. It was filled with things: old furniture, old books, old boxes, and in the middle of the room, a table. On the table was a map. It was a map of the town, but it was not a map of the town I knew. It was a map of the town before the boundary was moved.
+I did not know what to say, but I knew that I had to stay. I sat down across from him, and he spoke of the boundary, and the stones, and the space beneath, and of the house that was not a house. He told me that the house was a seal, and that the seal had been broken. He told me that the boundary was a cage, and that the cage was about to open. I left the house at dawn, and I wrote in my book: *14 Jun. The house at the end of the lane is not empty. It is kept by the man who was the constable before Calloway. He has been waiting for me. He told me that the boundary is a cage, and that the cage is about to open. I do not know what is inside the cage, but I know that I must find out.*
 
-I looked at the map, and I saw the line that had been lost—the line that the stones were trying to return to. And I saw the house at the end of the lane, marked with a symbol I had not seen before.
+I went to Calloway the next morning and told him what I had seen. He listened without interrupting, and when I had finished, he did not speak for a long time. "The old constable," he said at last. "I had not seen him in twenty years. I thought he was dead." "He is not dead. He is keeping the house." Calloway looked at me, and his face was the face of a man who has been holding a weight that he can no longer carry. "The house is the seal," he said. "And the seal is the boundary. And the boundary is an agreement—an agreement between the town and what is beneath it. The agreement was made in 1785, when the boundary was moved. The old constable was the one who made it."
 
-"This is the map of the town as it was," I said. "And this is the house as it was. The house is not just a house. It is a key."
+He paused, and then he said, "The agreement was made to keep the space beneath closed. But the agreement is not forever. It is renewable, every fifty years. And the fifty years are up." I thought of the stones moving, of the house appearing, of the door in the mill yard. I thought of the gear in my drawer, and the bell that had not rung, and the compass that had not pointed. "The space beneath," I said. "What is in it?" Calloway looked at me, and his face was the face of a man who is about to tell a thing he has never told before. "I do not know," he said. "No one knows. The agreement was made to keep it closed, not to open it. The old constable knows, but he will not tell. He is waiting for someone to take his place."
 
-We climbed back up and sealed the door, and I wrote in my book:
-
-*13 Feb. We have found the space beneath the town. It contains the old map, and the old map shows the old line. The house at the end of the lane is a key to the old line. I do not know what the key opens, but I know that it is important.*
-
-I put the gear back in the drawer, and I waited.
+"Take his place?" "The keeper of the house. The keeper of the seal. The one who renews the agreement." He looked at me, and I understood what he was asking. "I will see the old constable again," I said. "And I will ask him what I must do."

@@ -1,41 +1,15 @@
-# Chapter 56 — The Renewal
+# Chapter 56 — The First Thread
 
-I returned to the house at the end of the lane on the evening of the sixteenth of February, and I knocked on the door. The old constable opened it, and he did not seem surprised to see me.
+I had kept the bell for three weeks, and I had not rung it. I had not touched it, except to move it from the drawer to the shelf, where I could see it. It was a small thing, smaller than the one that had hung in the tower, and yet I felt its weight in the room the way a man feels the weight of a clock that has been stopped. I went to Calloway on the morning of the twenty-fifth of July to ask him what he knew about the Order. I had not told him that I had spoken to the old constable, but I had told him that I had found the bell, and I had told him that the agreement had been renewed. He had listened without interrupting, and when I had finished, he had said only, "The agreement has been kept."
 
-"You have come to renew the agreement," he said.
+"The agreement has been kept," I said. "But there is an order that would break it." He looked at me, and his face was the face of a man who has been waiting for a question to be asked. "The Order of Severence," he said. "I have heard of them. They are not a single group. They are a network, a collection of people who believe that the boundaries of the world should not be kept, but opened. They believe that the space beneath Ashford is not a cage, but a door."
 
-"I have come to learn what the agreement is," I said.
+He paused, and I saw that he was weighing his words. "There is a woman in the town," he said. "Her name is Eleanor Shaw. She is a widow, and she is one of them. She has been seen at the mill, and she has been seen at the house at the end of the lane, and she has been seen with the man who calls himself Silas Crowe. He is the one who leads them here." "Why are you telling me this?" "Because you are the keeper of the agreement," he said. "And the keepers before you have always known about the Order. They have always watched them. And they have always waited for the time when they would have to act."
 
-He led me to the back room, and we sat by the fire, and he told me the history of the boundary. He told me that the space beneath Ashford is not empty—it is a space that was set aside, a space that was sealed, a space that was kept separate from the world. He told me that the agreement was made to keep the space sealed, and that the agreement had been renewed every fifty years by the keeper of the house.
+I left Calloway's office and walked through the streets of Ashford with the name Eleanor Shaw in my head. I had not met her, but I knew that I would. That evening, I wrote in my book: *25 Jul. The Order of Severence exists. They are in Ashford, and they are led by a man named Silas Crowe and a woman named Eleanor Shaw. They believe that the space beneath the town is a door. I do not know what they want to open it for. But I know that I must find out.*
 
-"Who made the agreement?" I asked.
+I found Eleanor Shaw on the twenty-seventh of July, in the market square, where she was buying apples from a stall. She was a woman of perhaps thirty-five, with dark hair and a face that was not beautiful but was memorable, the way a face is memorable when it has been shaped by careful observation. I approached her, and she looked at me the way a woman looks at a man she has been expecting. "You are the man who has been helping the constable," she said. It was not a question. "I am." She nodded, and she did not seem surprised. "I have heard about you. You have been asking questions about the boundary, and about the house at the end of the lane, and about the bell that was sold."
 
-"The one who lived in the house before me," he said. "The one who lived in the house before him. The agreement was made by the first keeper, and it has been kept by every keeper since."
+I did not answer, and she did not wait for an answer. "I know who you are," she said. "And I know what you have found. The bell. The gear. The space beneath the mill. You have found the things that were hidden, and you have kept the agreement." She looked at me, and I saw that she was not afraid. She was curious. "You are the keeper of the boundary," she said. "But you do not know what the boundary is for. You do not know what is on the other side." "Tell me." She smiled, and it was not a kind smile. "The boundary is not a wall," she said. "It is a seal. And the seal was made to keep something in, not to keep something out. The space beneath Ashford is not empty. It contains a thing—a thing that was placed there by the one who made the agreement." I stood in the market square with the apples and the people and the noise of the town, and I felt the weight of her words settle over me. "The one who made the agreement," I said. "Aurelius Ashcroft." She did not answer, but I saw in her face that I was right.
 
-"And who was the first keeper?"
-
-He looked at me, and I saw that he knew the answer, but he would not give it.
-
-"The first keeper was Aurelius Ashcroft," he said.
-
-I felt the weight of the name settle over me.
-
-"Aurelius Ashcroft was the first keeper. He made the agreement, and he sealed the space, and he built the house at the end of the lane. And then he left, and the keepers have kept the agreement since."
-
-He looked at me, and I understood what he was saying.
-
-"You are Aurelius Ashcroft's heir," he said. "You are the one who must renew the agreement."
-
-I sat with the knowledge for a long time, and then I said, "What must I do?"
-
-"You must go to the space beneath the mill, and you must place the gear in the lock on the door, and you must turn it. That is the renewal."
-
-"Is that all?"
-
-"That is all. The agreement is not made with words. It is made with an act. The gear is the key to the agreement, and the turning of the gear is the renewal."
-
-I took the gear from my pocket, and I looked at it.
-
-"I will go tonight," I said.
-
-The old constable nodded, and I went out into the dark.
+I went home and wrote in my book: *27 Jul. Eleanor Shaw has confirmed that the space beneath the town contains a thing—a thing that was placed there by Aurelius Ashcroft. The Order believes that the seal should be opened. I do not know what is inside, but I know that I must find out.*

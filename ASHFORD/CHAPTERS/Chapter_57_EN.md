@@ -1,23 +1,15 @@
-# Chapter 57 — The Turning
+# Chapter 57 — Silas Crowe
 
-I went to the mill at midnight, and I took the gear with me. Marlow and Finch and Blackwood came with me, and we stood at the door that we had found beneath the fallen tree. I fitted the gear into the lock, and I turned it.
+I met Silas Crowe on the first of August, at the old mill, where he had come to inspect the door that we had found. He was a tall man in his forties, with a face that was not young and not old, and he moved the way a man moves when he is used to being watched. "You are the keeper," he said, when I found him at the door. He did not seem surprised to see me. "I am the keeper." He nodded, and he did not look away. "I have been waiting for you to come," he said. "I have been waiting for the keeper to find the door, and to learn the truth."
 
-The lock did not click. It did not open. It turned, and I felt a vibration in the ground, the same vibration I had felt when I held the gear. I turned it again, and the door swung open.
+He opened the door and led me down into the space beneath the mill. The room was the same as I had found it, but there was something different—the light was brighter, the air was warmer, and the walls seemed closer. "This is the place where the thing was sealed," he said. "Aurelius Ashcroft sealed it here, and he made the agreement to keep it sealed. But the agreement is not permanent. It is renewable, and it has been renewed, and it will be renewed again, as long as there are keepers. But the thing does not want to be sealed. It wants to be free."
 
-But the space beneath was not the same space we had found before. It was larger, and it was lit—not by lanterns, but by a light that came from the walls themselves. The room was filled with the same things—the old furniture, the old books, the old boxes—but there was something else. There was a table in the middle of the room, and on the table was a single object: a bell.
+"Who are you?" I said. "I am the one who will open the seal," he said. "I am the one who will free the thing that is inside." I looked at him, and I saw that he was not afraid. He was certain. "The agreement was made for a reason," I said. "It was made to keep the thing sealed." "The agreement was made by a man who did not understand what he had found," said Crowe. "Aurelius Ashcroft was not a keeper. He was a prisoner, and he made the agreement to keep himself prisoner."
 
-It was not the bell I had found in the drawer. It was a different bell, larger, with the same symbol on its side. I walked to the table and picked it up, and I felt the weight of it, and I knew that it was the bell that had been sold, the bell that had been missing, the bell that had rung on the night of Hobbs's disappearance.
+I did not know what to say, and I did not know what to believe. I went home and wrote in my book: *1 Aug. Silas Crowe believes that Aurelius Ashcroft was a prisoner, and that the agreement was made to keep him prisoner. I do not know if he is right. But I know that I must find out.*
 
-I held the bell, and I understood what the agreement was for. It was not to keep the space closed. It was to keep the bell silent.
+On the third of August, I received a letter. It was not the kind of letter that had been coming—the hand I knew, the fine pen, the upright letters. It was a plain hand, a firm hand, and it said only: *Mr. Ashcroft, you are invited to a meeting of the Order of Severence at the old mill, on the night of the fifth of August, at the hour of the lamps. Come alone, and bring the bell. We will not harm you. We ask only that you listen. — E. S.*
 
-"Where did it come from?" I asked.
+I read the letter three times, and I did not know what to do. I had been watching the Order, and they had been watching me, and now they had invited me to their meeting. I went to Calloway's office and showed him the letter. He read it, and he did not speak for a long time. "You must go," he said. "They will not harm you. They want to show you something—they want to convince you that they are right. If you refuse, they will find another way, and you will not be part of it." "You want me to go?" "I want you to know what they believe," he said. "The agreement has been kept, and the bell is in your hand. But you cannot keep the agreement if you do not know what it is for."
 
-No one answered.
-
-I looked at the old map on the wall, and I saw that the line of the boundary did not end at the house—it continued, through the house, through the lane, through the town, to the place where the bell had been found. The bell was the center of the boundary, the heart of the agreement.
-
-I wrote in my book:
-
-*16 Feb. I have turned the gear, and I have found the bell. The bell is the center of the boundary. The agreement was made to keep the bell silent. I do not know why, but I know that it is important. I will keep the bell, and I will keep the agreement.*
-
-I took the bell and went home.
+I took the letter and went home. I spent the next two days preparing for the meeting. I read the old notebooks again, and I looked at the map, and I held the bell in my hand. I did not know what I would say, or what I would hear, but I knew that I had to go. I wrote in my book: *3 Aug. I am going to the meeting of the Order of Severence on the fifth of August. They have asked me to bring the bell, and I will bring it. I do not know what they will tell me, but I know that I must listen.*

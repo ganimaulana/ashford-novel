@@ -1,25 +1,19 @@
-# Chapter 45 — The Pattern
+# Chapter 45 — The Rogue and the Decision
 
-I had been in Ashford sixty days, and I had begun to see the shape of the town in a way I had not seen it before. It was not a town of streets and houses. It was a town of patterns—patterns that repeated, patterns that echoed, patterns that led from one thing to another.
+I found Graves on the evening of the twenty-first of March, at the boundary stone that had moved the most. He was a large man, with a face that was not kind, and he was moving the stone with his hands. "You are the man who has been breaking the agreement," I said. He looked up, and he did not seem surprised. "I am the man who has been moving the stones," he said. "But I am not breaking the agreement. I am testing it. The agreement was made to be tested, and you are the one who has been chosen to test it."
 
-I sat at my desk and looked at my notes. I had written down everything I had seen and heard: the room at the Greyhound, the letters on High Street, the clock on Mill Lane. I had written down the conditions that triggered each anomaly, and I had written down the questions I had not yet answered.
+I did not know what to say, and I did not know what to do. I had been sent to stop him, but he was telling me that I was the one who was being tested. "You are the keeper," he said. "And you are the one who must decide what the agreement is for." He stepped away from the stone, and I saw that it was not a stone of the old boundary. It was a new stone, placed by the Order, and it was meant to move. I looked at the stone, and I looked at the man, and I did not know what to do. I went home and wrote in my book: *21 Mar. I have found the man who has been moving the stones, and I have not stopped him. He told me that he was testing the agreement, and that I was the one who was being tested. I do not know if he is right. But I know that I must decide.*
 
-The room at the Greyhound: triggered by speech. The letters on High Street: triggered by expectation. The clock on Mill Lane: triggered by the gear, and by presence.
+---
 
-I looked at the three cases side by side, and I saw something I had not seen before. They were not separate. They were part of the same pattern—a pattern of conditions and triggers, of anomalies that appeared when certain conditions were met.
+I went to Calloway's office on the morning of the twenty-third of March, and I told him what I had done. I told him that I had found Graves, and I had not stopped him, and that I had decided that the test was not about the man. It was about me. "The agreement is not about the boundary," I said. "It is about the will. The boundary is a symbol, and the agreement is a choice. I have been keeping the boundary, but I have not been making the choice. I have been letting the boundary make the choice for me." Calloway looked at me, and I saw that he understood. "You have decided," he said. I nodded. "I have decided that I will not keep the agreement blindly. I will not keep it because it is the agreement. I will keep it because it is the right thing to do. And if I ever decide that it is the wrong thing, I will break it." Calloway nodded, and he did not say anything.
 
-The room changed when it was listened to.
-The letters arrived when they were expected.
-The clock struck when something was present.
+I went home and wrote in my book: *23 Mar. I have decided that I will not keep the agreement blindly. I will keep it because it is right, and I will break it if it is wrong. I am the keeper of the boundary, but I am also the one who decides.* I sat with the bell, and I did not ring it.
 
-Three conditions, three anomalies, and a common thread: the anomalies were not the things themselves—they were the responses to the conditions.
+---
 
-I took out my book and wrote:
+On the twenty-fifth of March, I wrote a report for the Order. I told them what I had done, and I told them what I had decided. I told them that I would not keep the agreement blindly, and that I would break it if I decided it was wrong. I gave the report to Eleanor Shaw, and she read it without speaking. When she finished, she looked at me, and I saw that she was not angry. She was satisfied. "You have passed the test," she said. "You have shown that you will not be a servant of the agreement, and you have shown that you will not be a servant of the Order. You will be a servant of your own understanding."
 
-*25 Jan. I am beginning to understand. The anomalies in Ashford are not random. They are responses to conditions. The room changes when it is listened to. The letters arrive when they are expected. The clock strikes when something is present. These are not separate phenomena. They are part of a larger pattern—a pattern of conditions and responses. I do not know why the pattern exists, or who made it, or what it is for. But I know that it is there, and I know that I am beginning to see it.*
+She handed the report back to me, and I took it. "You are now a full member of the Order," she said. "You will be called the Watchman, and you will be trusted. But you will also be watched." She met my gaze, and her own was level and unreadable. "Every member is watched," she said. "That is how the Order remains strong." I understood what she was telling me: that I would never be outside suspicion, and that the Order would never fully trust me. They would accept me, but they would watch me, and they would wait for me to make a mistake. "That is fair," I said. "I will watch as well." She nodded, and I went home.
 
-I shut the book and looked out at the lane. The house at the end of it stood with its rosemary on the sill and its glass open to the cold, and the lamp was not yet lit, because the hour was not yet come. I had not solved the three cases, but I had learned something more important: I had learned to see the shape of the questions. And that, I knew, was the beginning of understanding.
-
-I held the gear in my hand and felt its warmth. I had used it, and I had crossed a line. But I had also learned that the anomalies were not random. They followed rules. And if they followed rules, they could be understood.
-
-That was the thing that mattered.
+I sat at my desk and looked at the things I had collected: the gear, the bell, the coin, the card. I had the symbols of the agreement and the symbols of the Order, and I did not know which symbols would be stronger. I wrote in my book: *25 Mar. I have been accepted into the Order of Severence. I will be called the Watchman, and I will be trusted. But I will also be watched. I do not know what the Order will ask of me, but I know that I must be careful.* I put the coin and the card in the drawer, and I set the bell on the shelf, and I went out into the lane.

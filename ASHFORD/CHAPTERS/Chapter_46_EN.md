@@ -1,43 +1,29 @@
-# Chapter 46 — The Gear
+# Chapter 46 — The Watcher's Vigil
 
-I had kept the gear in the drawer for three days, and I had taken it out each evening to look at it. It was warm to the touch, and it vibrated faintly, and it did not look like anything I had ever seen. I had shown it to Arthur, and he had not known what it was. I had shown it to Calloway, and he had said it was a key.
+The days after the report were quiet, the way the days after a test often are. I had been accepted by the Order, and I had been accepted by the agreement, and I had begun to see the town as a place where two worlds existed side by side. I went to Margaret's for bread on the twenty-eighth of March, and she looked at me the way a woman looks at a man who has been carrying a weight that is not his own. "You have been gone," she said. "You have been gone, and you have come back, and you have not told me where you have been." "I have been working," I said. "I have been helping the constable."
 
-But I had not yet shown it to anyone who might know more.
+She looked at me, and I saw that she did not believe all of it, but she did not press. "The bread is in the oven," she said. "It will be ready in an hour. Come back then, and I will have it for you." I nodded, and I went out into the lane. I walked through the streets of Ashford with the weight of the coin in my pocket, and I felt the town as a place that was not a town—it was a collection of agreements, a network of boundaries, a web of choices.
 
-On the evening of the twenty-sixth, I went to Margaret's for bread, and I found a man sitting at the counter whom I had not seen before: Dr. Samuel Blackwood. He was tall and thin, with grey hair and spectacles that sat low on his nose, and he was reading a book with the concentration of a man who reads the same page twice to make sure he has not missed anything.
-
-I sat down at the table next to him, and I did not speak. He did not look up. He finished his page, and then he closed the book and looked at me.
-
-"You are the man who has been helping the constable," he said. It was not a question.
-
-"I am."
-
-He nodded, and then he said, "I have heard that you found something on Mill Lane. A gear."
-
-I did not answer. I did not know how he knew about the gear, or why he was asking, but I knew that a stranger who knows about a gear is a stranger who knows something.
-
-"I am a natural philosopher," said Dr. Blackwood. "I study the properties of objects. I have been told that you have an object that does not behave as it should. If you would like to show it to me, I would be interested to see it."
-
-I looked at him, and I saw that he was not lying. He was a man who studied things, and he had heard about the gear, and he wanted to study it.
-
-I took the gear from my pocket and placed it on the table. He picked it up and held it to the light, and he did not speak for a long time.
-
-"This is not from any clock," he said. "The metal is not brass, and it is not iron. It is something else—something I have not seen before. It vibrates when held, and it is warm to the touch. It has properties that cannot be explained by the usual laws."
-
-He looked at me, and I saw that he was not afraid. He was curious.
-
-"I would like to study this further," he said. "May I take it with me?"
-
-"No," I said. "You may look at it here, but you may not take it."
-
-He nodded, and he did not argue. He examined the gear for another hour, and then he handed it back to me.
-
-"It is a key," he said. "Not a key that opens a door, but a key that opens a space—a space that is not quite here. I do not know what it opens, but I know that it is important."
-
-I thanked him, and I went home with the gear in my pocket.
+I went home and wrote in my book: *28 Mar. I have been accepted by the Order, and I have been accepted by the agreement. I am the Watchman, and I am the keeper. I do not know what the future will bring, but I know that I am part of it.* I shut the book, and the lamp came at nine, and was carried away along the rooms, and no sound came. I let it stand.
 
 ---
 
-*26 Jan. I have met Dr. Samuel Blackwood, a natural philosopher, who says the gear is a key to a space that is not quite here. I do not know what that means, but I know that it is important. The gear is not a clock part. It is something else. I will keep it, and I will study it, and I will learn what it opens.*
+I had been a member of the Order for three weeks, and I had not been given another assignment. I had been watching, and I had been waiting, and I had been learning. The Order was not a single thing—it was a network of people, each with their own role, each with their own secrets. Eleanor Shaw was the one who gave the orders, and Silas Crowe was the one who enforced them. But there were others, and I had not met them all.
 
-I put the gear back in the drawer with the bell and the compass, and I shut the drawer. I had three objects now, and I did not know what any of them were. But I knew that they were connected. And I knew that I would find out how.
+On the first of April, I was called to the old mill for a meeting. Crowe was there, and he did not look at me the way he had before. His face was the face of a man who has been given orders, and is about to give them to someone else. "Watchman," he said. "You have been trusted, and you have been tested, and you have been accepted. Now you will be given a task that is not a test. It is a task that you will perform for the Order." I waited. "There is a man in the town," he said. "He has been moving the stones, and he has been opening the doors. He is not one of us. He is a rogue, and he must be stopped. You will find him, and you will stop him."
+
+I nodded, and I went out into the lane. I went to Calloway's office and told him what I had been asked to do. He listened without interrupting, and when I had finished, he said, "You must do what you think is right." I went home and wrote in my book: *1 Apr. I have been given a real task. I am to find a man who has been moving the stones and opening the doors, and I am to stop him. I do not know who he is, or why he is doing it. But I know that I must find out.*
+
+---
+
+I found the rogue on the third of April, at the boundary stone near the old mill. He was a young man, perhaps twenty-five, with a face that was not old and not young, and he was moving the stone with his hands. "Who are you?" I said. He looked up, and he did not seem surprised. "I am the one who is breaking the agreement," he said. "And you are the one who is supposed to stop me." He stood up, and I saw that he was not afraid. "The agreement is a lie," he said. "It was made by a man who was afraid of what he had found. Aurelius Ashcroft made the agreement to keep himself prisoner. He sealed the thing inside the space beneath the mill, and he made the agreement to keep it sealed. But the thing is not a prison. It is a power, and it has been waiting for someone to use it."
+
+I did not know what to say, and I did not know what to do. "You are the keeper," he said. "And you have kept the agreement. But you have not asked what the agreement is for. You have not asked what is inside the space beneath the mill." I did not answer. "The thing inside the space is a power," he said. "A power that was left by Aurelius Ashcroft. And it is waiting for someone to use it." He stepped away from the stone, and I saw that it was not a stone of the old boundary. It was a new stone, placed by him, and it was meant to be moved. I looked at the stone, and I looked at the man, and I did not know what to do. I went home and wrote in my book: *3 Apr. I have found the rogue, and I have not stopped him. He told me that the agreement is a lie, and that the thing inside the space beneath the mill is a power. I do not know if he is right. But I know that I must find out.*
+
+---
+
+On the fifth of April, I went to the old constable. I had not spoken to him since I had renewed the agreement, but I knew that he had been keeping the agreement for a long time, and I knew that he might know the truth. He was in the back room of the house at the end of the lane, as I had found him before, and he looked at me the way a man looks at a thing he has been expecting. "You have found the rogue," he said. It was not a question. I nodded. "He has told you that the agreement is a lie," said the old constable. "He has told you that the thing inside the space beneath the mill is a power." I nodded. "He is not wrong," said the old constable. "The agreement is not a lie, but it is not the whole truth. The thing inside the space is a power, and it was left by Aurelius Ashcroft. But he did not leave it because he was afraid. He left it because he knew that it was not time to use it."
+
+I sat down, and I waited. "Aurelius Ashcroft was not a keeper," said the old constable. "He was a watcher. He watched the boundaries, and he watched the agreements, and he watched the power that he had found. He made the agreement to keep the power sealed until the time was right. He knew that the power would be needed, but he did not know when." I felt the weight of his words settle over me. "The time is not right," I said. "No," said the old constable. "But it is coming."
+
+I left the house at dawn, and I wrote in my book: *5 Apr. The old constable has told me that Aurelius Ashcroft was not a keeper, but a watcher. He made the agreement to keep the power sealed until the time was right. I do not know when the time will be right. But I know that I am the one who will decide.* I put the gear and the bell back in the drawer, and I waited.

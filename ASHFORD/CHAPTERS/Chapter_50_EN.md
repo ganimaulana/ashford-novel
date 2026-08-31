@@ -1,37 +1,25 @@
 # Chapter 50 — The Moon and the Line
 
-Marlow came to my house on the evening of the fourth of February, with the map he had been drawing and a notebook full of measurements. He spread the map on my desk and pointed to the line he had traced.
+The days after my decision to open the door passed slowly, the way time passes when you are waiting for something you cannot name. I went to the mill-yard every morning, and every morning I saw the cracks in the stones spreading, the vibration growing stronger. I did not open the door. I was not ready. I needed to understand what I was opening before I opened it.
 
-"The stones are not moving at random," he said. "They are moving in a pattern. Over the past month, each stone has shifted a small amount, and the shifts follow the phases of the moon. When the moon is full, the stones move toward the old line. When the moon is new, they move back."
+I spent my evenings at the desk with the gear and the bell before me, turning them over in my hands, trying to read them the way I had learned to read the town. The gear was warm, and it vibrated faintly, and the bell was silent, but I felt its weight the way a man feels the weight of a clock that has been stopped. They were connected, I knew. They were both keys, and they both opened the same door.
 
-I looked at the map, and I saw the pattern clearly. The stones were not wandering—they were breathing, moving in and out with the lunar cycle. The line they traced was not a line at all. It was a boundary that lived.
+On the twenty-sixth of May, Marlow came to my house in the evening, with the map he had been drawing and a notebook full of measurements. He spread the map on my desk and pointed to the line he had traced. "The stones are not moving at random," he said. "They are moving in a pattern. Over the past month, each stone has shifted a small amount, and the shifts follow the phases of the moon. When the moon is full, the stones move toward the old line. When the moon is new, they move back."
 
-I sat down and thought for a long time. "The stones are not just markers," I said. "They are guards. They are keeping the old line in place, but they are being pulled by something that wants the line to be somewhere else."
+I looked at the map, and I saw the pattern clearly. The stones were not wandering—they were breathing, moving in and out with the lunar cycle. The line they traced was not a line at all. It was a boundary that lived. I sat down and thought for a long time. "The stones are not just markers," I said. "They are guards. They are keeping the old line in place, but they are being pulled by something that wants the line to be somewhere else."
 
-Marlow looked at me. "What wants the line to move?"
+Marlow looked at me. "What wants the line to move?" I did not have an answer, but I had a question: what had happened in 1785, when the boundary was changed? And why had it been changed?
 
-I did not have an answer, but I had a question: what had happened in 1785, when the boundary was changed? And why had it been changed?
+I went to Finch the next morning, because an archivist knows the paper trail of a town. Finch was in his room behind the town hall, and he looked up when I entered. "You're back," he said. "I'm back," I said. "I need to know about the boundary. Why it was moved. Who moved it. And who opposed it."
 
----
+Finch did not ask why. He simply turned to his shelves and began to search. He found the record in a box marked *Parish Boundaries — 18th Century*. "This is the order," he said, "that moved the boundary in 1785. It was signed by the magistrate, the vicar, and the churchwardens. It says that the old stones were to be moved to a new line, because the old line was causing disputes." "Was there any opposition?" Finch turned the pages slowly. "There is a note in the margin," he said. "It says that the move was opposed by the owner of the land on the other side. The owner's name is crossed out."
 
-I went to Finch the next morning, because an archivist knows the paper trail of a town, and I needed to know what had been written about the boundary in 1785. Finch was a thin man in his late thirties, with spectacles and ink-stained fingers, and he kept his records in a room behind the town hall that smelled of dust and quiet.
+I looked at the crossed-out name, and I could not read it. But I saw the shape of it, and I saw that the hand that had crossed it out was the same hand that had written the order. "Who was the owner?" Finch looked at me, and then he looked at the page. "I do not know," he said. "The name has been deliberately obscured. But I can tell you where the land was—it was the land that now contains Bellweather Lane."
 
-I told him what I was looking for, and he did not ask why. He simply turned to his shelves and began to search. He found the record in a box marked *Parish Boundaries — 18th Century*.
+I went home with the record in my hand, and I understood that the boundary had been moved to cut something off—to isolate something, to keep it separate. And that something was the house at the end of the lane. I wrote in my book: *27 May. The boundary was moved in 1785 to separate Bellweather Lane from the rest of the parish. The old line was guarded by stones, and the stones have been moving back to their original places. They are being pulled by something that wants the old line to return. I do not know what, but I know that the house at the end of the lane is at the center of it.*
 
-"This is the order," he said, "that moved the boundary in 1785. It was signed by the magistrate, the vicar, and the churchwardens. It says that the old stones were to be moved to a new line, because the old line was causing disputes."
+That night, I went to the house at the end of the lane, and I knocked on the door. The old constable opened it, and he did not seem surprised to see me. "You have found the record," he said. "I have found the record," I said. He nodded, and he stepped aside, and I entered. We sat in the back room, by the fire, and I told him what I had learned. He listened without interrupting, and when I had finished, he did not speak for a long time.
 
-"Was there any opposition?"
+"The boundary was moved," he said at last, "because the town was afraid. Not of the house. Of what was inside it. The house is a seal, as I told you. But the seal was not made by Aurelius Ashcroft alone. It was made by the town. The town agreed to forget the house, and the house agreed to stay forgotten. That was the agreement. And it has been kept for thirty years." "Then why is it breaking now?" He looked at me, and his face was the face of a man who has been waiting for a question he does not want to answer. "Because something has changed," he said. "Something has woken up. And I do not know what it is."
 
-Finch turned the pages slowly. "There is a note in the margin," he said. "It says that the move was opposed by the owner of the land on the other side. The owner's name is crossed out."
-
-I looked at the crossed-out name, and I could not read it. But I saw the shape of it, and I saw that the hand that had crossed it out was the same hand that had written the order.
-
-"Who was the owner?"
-
-Finch looked at me, and then he looked at the page. "I do not know," he said. "The name has been deliberately obscured. But I can tell you where the land was—it was the land that now contains Bellweather Lane."
-
-I went home with the record in my hand, and I understood that the boundary had been moved to cut something off—to isolate something, to keep it separate. And that something was the house at the end of the lane.
-
-I wrote in my book:
-
-*5 Feb. The boundary was moved in 1785 to separate Bellweather Lane from the rest of the parish. The old line was guarded by stones, and the stones have been moving back to their original places. They are being pulled by something that wants the old line to return. I do not know what, but I know that the house at the end of the lane is at the center of it.*
+I left the house at dawn, and I walked through the streets of Ashford with the weight of his words in my pocket. The town was waking up around me, but it was not the town I had known. It was a town that had been keeping a secret for thirty years, and the secret was starting to show.

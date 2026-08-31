@@ -1,33 +1,13 @@
-# Chapter 55 — The Agreement
+# Chapter 55 — The Stillness
 
-I went to Calloway the next morning and told him what I had seen. He listened without interrupting, and when I had finished, he did not speak for a long time.
+I kept the bell in my room, and I did not ring it. I did not touch it. I only looked at it, and I felt its presence the way a man feels the presence of a thing that has been kept for a long time. The days passed, and the stones stopped moving. The house on the edge of town did not appear again. The space beneath the mill was sealed, and the door did not open. The boundary had been renewed.
 
-"The old constable," he said at last. "I had not seen him in twenty years. I thought he was dead."
+I went to the old constable to tell him what I had done, and he listened without speaking. "You have kept the agreement," he said. "But the agreement is not forever. It is renewable, and it will come to an end again. When it does, you will be the one who must renew it." He looked at me, and I saw that he was tired. He had been keeping the agreement for a long time, and he was ready to rest. "I will keep the agreement," I said. "I will keep the bell."
 
-"He is not dead. He is keeping the house."
+He nodded, and he closed his eyes, and I went out into the lane. I stood at the gate of the house at the end of the lane, and I looked at the rosemary, and I looked at the window, and I looked at the house that was not empty. I understood that the house was not a house—it was a place, a place where the agreement was kept, a place where the boundary was held. I went home and wrote in my book: *20 Jun. I have renewed the agreement. The stones are still, and the house is quiet, and the bell is silent. I do not know what the agreement is for, but I know that it is important. I will keep it, and I will wait, and I will see what comes.*
 
-Calloway looked at me, and his face was the face of a man who has been holding a weight that he can no longer carry.
+The weeks passed, and I kept the agreement. I did not open the door, and I did not use the power. I watched the boundaries, and I watched the stones, and I watched the Order. I was the keeper, and I was the watcher, and I was the one who would decide when the time was right. I went to Margaret's for bread, and I went to Calloway's office for news, and I went to the house at the end of the lane to speak to the old constable. I lived in the town, and I kept the agreement, and I waited.
 
-"The house is the seal," he said. "And the seal is the boundary. And the boundary is an agreement—an agreement between the town and what is beneath it. The agreement was made in 1785, when the boundary was moved. The old constable was the one who made it."
+But I knew that the waiting would not last. The agreement was not permanent. It was renewable, and it would have to be renewed again. And when it was, I would be the one who would have to decide what to do. I did not know what I would decide, but I knew that I would be ready.
 
-He paused, and then he said, "The agreement was made to keep the space beneath closed. But the agreement is not forever. It is renewable, every fifty years. And the fifty years are up."
-
-I thought of the stones moving, of the house appearing, of the door in the mill yard. I thought of the gear in my drawer, and the bell that had not rung, and the compass that had not pointed.
-
-"The space beneath," I said. "What is in it?"
-
-Calloway looked at me, and his face was the face of a man who is about to tell a thing he has never told before.
-
-"I do not know," he said. "No one knows. The agreement was made to keep it closed, not to open it. The old constable knows, but he will not tell. He is waiting for someone to take his place."
-
-"Take his place?"
-
-"The keeper of the house. The keeper of the seal. The one who renews the agreement."
-
-He looked at me, and I understood what he was asking.
-
-"I will see the old constable again," I said. "And I will ask him what I must do."
-
-I went home, and I wrote in my book:
-
-*15 Feb. The boundary is an agreement. The agreement was made in 1785, and it is about to expire. The old constable is the keeper of the agreement. I am the one who has been chosen to renew it. I do not know what the agreement is, or who made it, or what is on the other side. But I know that I must find out.*
+On the first of July, I wrote in my book: *1 Jul. I have kept the agreement for six weeks. The boundaries are still, and the stones are still, and the space beneath the mill is sealed. I do not know when the time will be right. But I know that I am the one who will decide.* I shut the book, and the lamp came at nine, and was carried away along the rooms, and no sound came. I let it stand. I was the keeper of the agreement, and I would keep it until the time was right.
