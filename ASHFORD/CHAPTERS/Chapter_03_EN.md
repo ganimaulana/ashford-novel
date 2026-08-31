@@ -124,22 +124,10 @@ He opened his novel.
 "I'll stop."
 I nodded. Simple. Daniel had a great deal of curiosity. Sometimes too much.
 I looked around again. Near the counter was a small rack of newspapers and magazines. Mostly local papers.
-I picked one up. The main headline covered a town council meeting about plans to repair the roads in the northern part of Ashford.
-On another page were community event schedules, local sports fixtures, rental advertisements, job vacancies, and an announcement for the winter market.
-Small things.
-But they all gave a picture of the town.
-Ashford had its own problems.
-Roads that needed repair.
-Shops looking for staff.
-People looking for houses.
-Events to prepare for.
-Matches to be played.
-Life went on through such things.
-I folded the newspaper. Perhaps that was what made a small town feel different. Information did not always come from major news.
-Sometimes it was enough to read what was posted on the notice boards or in the local papers.
+I picked up a local paper. The main headline: roads to be repaired in the north end. The rest was rentals, jobs, the winter market—the ordinary business of a town that had to keep running. I folded it. In a small place, news was not always grand; it was the accumulation of small things. That felt honest.
 
 
-After breakfast, we walked without a particular destination. Daniel said he wanted to find another book at Mr. Bell's bookshop. I followed. Not because I needed a book. I just wanted to get to know the area.
+After breakfast, Daniel said he wanted to find another book at Mr. Bell's. I followed—not for a book, but because I had a question: what did Bell's old maps say about Bellweather Lane before the house lost its number?
 "Have you finished the book you bought yesterday?" he asked.
 "Not yet."
 "Which part?"

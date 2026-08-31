@@ -178,5 +178,5 @@ I wrote it in the town's hand, not mine. And I understood, writing it, that I ha
 
 It was past twelve when I came in at my own door. And across the lane, at the window of the house a few doors along, the sideboard lamp was burning still, trimmed very low, the way a lamp is kept not for the room but for the outside — a light set to be seen by whoever is coming home late, or by whoever is watching, or by whoever is kept awake by the same hour that kept me.
 
-I did not look at it longer than I could help. I went up to bed with the frost at the pane, and the chair at the poor-house window in my head, and the bright hinges of the gate; and I had this much of the town's lesson learned by now, that I noted them all, and I made no complaint, and I slept the sleep of a man who has done his round.
+I did not look at it longer than I could help. I went up to bed with the frost at the pane, the empty chair at the poor-house window, and the oiled gate. I had learned this much: I noted them all, and I made no complaint. I slept the sleep of a man who had done his round.
 </content>

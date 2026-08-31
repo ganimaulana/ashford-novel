@@ -10,7 +10,7 @@ The round went as rounds go. The lane was the lane, and the shutters were the sh
 
 And at the corner hour of eleven, as I came round the third time, the gate stood open, and the padlock hung on the hasp, and the hasp drawn.
 
-I stood at it the length of a breath, and I did not go in, because a man that keeps a round keeps the round, and the round goes past and does not go in, and that is what makes the round the round and not the thing the round is set against; and I took the lantern and held it at the opening, and saw the yard lying black and wet, and nothing moving in it, and no light in it nor at the end of it, and I stood so the length of another breath, and shut the gate, and put the padlock to the hasp, and went on with the round, and wrote it at the end of the round in the book I carry:
+I stood there a moment, but I did not go in—a round is for watching, not entering. I held the lantern at the opening and saw only the black, wet yard, empty and still. I shut the gate, replaced the padlock, and continued my round, writing in my book:
 
 *Gate open at eleven, padlock unhung; shut it again; no person seen; no light in the yard. Third round.*
 

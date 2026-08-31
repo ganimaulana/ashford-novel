@@ -14,13 +14,13 @@ I needed breakfast, and I knew exactly where to find it.
 
 ---
 
-I went out around eight o'clock, carrying my purse, a notebook, and a jacket. The house still felt like a place I had only just begun to know — no proper writing desk yet, no stored provisions. All of that could be bought later. For today I only wanted to understand my surroundings; not all of Ashford, but what I could reach on foot.
+I went out around eight o'clock, carrying my purse, a notebook, and a jacket. The house still felt like a place I had only just begun to know — no proper writing desk yet, no stored provisions. All of that could be bought later. For today I had two errands: find a writing desk for my room, and buy a map of the parish boundaries to make sense of the inheritance papers. The rest of the town I could learn by foot, but those two things needed doing before I could settle.
 
 The morning made Bellweather Lane look like a different street from the night before. Old houses stood side by side with newer ones; some still kept their low iron fences and wooden doors with glass set into the upper panels, while others had replaced their windows with a newer style. A man was mending his cart in his yard. A woman opened the curtain of a ground-floor window. In one of the yards stood a wooden pram.
 
 Nothing special. And that was exactly what made the place feel like a neighbourhood where people actually lived, not merely a location I occupied.
 
-At the end of the street stood an iron post-box whose paint had gone dull, and an old horse-drawn cart parked neatly beside the pavement. A white delivery cart had stopped in front of one of the houses. I began to notice something simple but fundamental: Ashford had not been built all at once. The town had grown little by little — new houses appearing among old ones, new windows replacing old, shops changing hands. Yet the buildings remained in the same places, refusing to truly change.
+At the end of the street stood a wooden notice board whose paint had gone dull, its surface layered with old handbills and a faded announcement about the annual market, and an old horse-drawn cart parked neatly beside the pavement. A white delivery cart had stopped in front of one of the houses. I began to notice something simple but fundamental: Ashford had not been built all at once. The town had grown little by little — new houses appearing among old ones, new windows replacing old, shops changing hands. Yet the buildings remained in the same places, refusing to truly change.
 
 I tried to recall the route from the house to the town centre. I took one wrong turn; no matter — that was part of the way one memorised a place. I retraced the street I had just walked, found the junction I had missed before, and the second time I did not get it wrong. A reasonably good spatial memory is always useful in a new place, and I admit I took some small satisfaction in it.
 

@@ -14,17 +14,17 @@
 | **Helen Margaret Ashcroft** | `characters/Helen_Margaret_Ashcroft.md` | CANON / HIDDEN | Interesting | Chapter 1 | High — knows much more than she reveals |
 | **Daniel James Carter** | `characters/Daniel_James_Carter.md` | CANON | Ordinary | Chapter 2 | Low — does not know the deep secrets |
 | **Arthur Edmund Bell** | `characters/Arthur_Edmund_Bell.md` | CANON | Interesting | Chapter 2 (mentioned) | High — knows historical details |
-| **Margaret Whitmore** | `characters/Margaret_Whitmore.md` | PROPOSED — NOT CANON | Ordinary | Chapter 2 | Moderate — gossipy but not deep |
+| **Margaret Whitmore** | `characters/Margaret_Whitmore.md` | CANON | Ordinary | Chapter 2 | Moderate — gossipy but not deep |
 | **Thomas Wren** | `characters/Thomas_Wren.md` | CANON | Hidden World | Chapter 9 | Very high — knew the secrets; deceased |
 | **Aurelius Ashcroft** | `characters/Aurelius_Ashcroft.md` | CANON / HIDDEN | Hidden World | Chapter 5 (mentioned) | Very high — central mystery |
-| **Edwin Ashcroft** | `characters/Edwin_Ashcroft.md` | PROPOSED — NOT CANON | (Obsolete) | Old 2006-era | Not applicable |
+| **Edwin Ashcroft** | `characters/Edwin_Ashcroft.md` | DRAFT — NOT CANON | (Obsolete) | Old 2006-era | Not applicable |
 | **James Calloway** | `characters/Calloway.md` | CANON | Interesting | Chapter 2 (mentioned) | Moderate — knows town history, not ARC mechanics |
 | **Vicar** | `characters/Vicar.md` | UNNAMED SUPPORTING ROLE | Ordinary | Chapter 2 (mentioned) | Moderate — parish records |
 | **Physician** | `characters/Physician.md` | UNNAMED SUPPORTING ROLE | Ordinary | Chapter 2 (mentioned) | Low |
 | **Baker** | `characters/Baker.md` | UNNAMED SUPPORTING ROLE | Ordinary | Chapter 2 (mentioned) | Low |
 | **Librarian** | `characters/Librarian.md` | UNNAMED SUPPORTING ROLE | Ordinary | Chapter 2 (mentioned) | Moderate — library resources |
-| **Military Teacher** | `characters/Military_Teacher.md` | PROPOSED — NOT CANON | (Potential) | Not yet introduced | Not applicable |
-| **Dr. Elias Mercer** | `characters/Elias_Mercer.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | Very high — Order of Severence founder |
+| **Military Teacher** | `characters/Military_Teacher.md` | DRAFT — NOT CANON | (Potential) | Not yet introduced | Not applicable |
+| **Dr. Elias Mercer** | `characters/Elias_Mercer.md` | DRAFT — NOT CANON | Hidden World | Not yet introduced | Very high — Order of Severence founder |
 | **Dr. Miriam Vale** | `characters/Miriam_Vale.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | Very high — biological research |
 | **Silas Crowe** | `characters/Silas_Crowe.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | High — field operations |
 | **Clara Bell** | `characters/Clara_Bell.md` | PROPOSED — [CANDIDATE] | Hidden World | Not yet introduced | Moderate — donor knowledge |

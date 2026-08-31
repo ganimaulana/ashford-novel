@@ -400,7 +400,7 @@ Margaret gave a faint smile.
 
 Outside the window, High Street went on moving.
 
-A diligence stopped at the diligence stand.
+A stagecoach stopped at the coach stand.
 
 People crossed the road.
 
@@ -593,6 +593,8 @@ Margaret smiled faintly.
 Margaret looked at me.
 
 "That will determine whether you have gone too far, or not yet far enough."
+
+I left, turning the envelope over in my mind. Could this be a test—someone seeing if I would follow the name? I had no proof, but I filed the thought away.
 
 ---
 

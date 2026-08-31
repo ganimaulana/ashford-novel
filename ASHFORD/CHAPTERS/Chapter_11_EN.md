@@ -117,6 +117,7 @@ When we got to the poor-house door, he turned.
 I waited.
 
 "There's no bell there. But there is a rope, sir." His hand moved slightly, as if pulling something down. "A rope that has been a bell in a man's house. There is no bell, as you will find, in a house where a rope is wanted. There is, when there is a hand that is going up in the dark."
+I wrote that down, and as I did, a thought surfaced: the rope was the key—not the bell itself. If the bell had been sold, the rope remained. The rope was what the house kept.
 
 He said it plainly, without ceremony.
 
