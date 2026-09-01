@@ -1,173 +1,1293 @@
-# Chapter 36 — The Constable's Offer
+Chapter 36 — The Constable's Offer and the First Cases
 
-The frost had held for several days.
+January had settled over Ashford without ceremony.
 
-Ashford had become quieter beneath it. Footsteps sounded farther away than they ought to, carts moved more slowly along High Street, and the windows of the houses remained shut long after morning had arrived.
+The frost came at night and remained in the shaded corners of the streets long after the sun had risen. Cart wheels sounded harder against the road. The windows took longer to clear in the morning. Even the smoke from chimneys seemed reluctant to rise.
 
-I had been in the town long enough to learn that silence did not always mean peace.
+Ashford had returned to its ordinary habits.
 
-On Tuesday morning, a note arrived at my door.
+Or perhaps I had simply become better at noticing them.
 
-Mr. Ashcroft,
+The lamp still burned at nine.
 
-I would speak with you at your convenience.
+It moved through the house in the same order each evening, carried from room to room without a servant's voice, without footsteps that I could reliably associate with it, and without any explanation for why it did what it did.
+
+I had stopped trying to explain it.
+
+That was different from accepting it.
+
+I continued to record it.
+
+Time.
+
+Room.
+
+Duration.
+
+Anything that changed.
+
+Nothing else.
+
+I had begun to understand that there was a danger in giving strange things a meaning too early.
+
+Once a man decided what something was, he became very good at seeing evidence for it.
+
+I preferred to know what I had actually seen.
+
+The distinction had become important.
+
+I did not yet know how important.
+
+I went to Margaret's for bread on Monday morning.
+
+The shop was quieter than usual.
+
+A man near the window was reading an old newspaper. Someone had left a pair of gloves beside the stove to dry. Margaret placed a loaf on the counter and looked at me for a moment before speaking.
+
+"You've been out early."
+
+"Not especially."
+
+"Earlier than most."
+
+"I suppose."
+
+She wrapped the bread.
+
+"You look tired."
+
+"I've been sleeping."
+
+"That wasn't what I said."
+
+I almost smiled.
+
+"Then perhaps I have been thinking."
+
+"That is usually worse."
+
+I paid her.
+
+Outside, the street was pale with frost.
+
+Nothing appeared unusual.
+
+That, too, had become something I noticed.
+
+The note from Constable Calloway arrived that afternoon.
+
+It was brief.
+
+Mr. Ashcroft—
+
+I would speak with you at your convenience regarding several matters which may benefit from careful observation.
 
 Calloway.
 
-I went that afternoon.
+I went to the constable's office before dusk.
 
-Calloway received me in his small office, with a fire that had burned low and a stack of reports beside his elbow. The room was neat but worn, the furniture older than the man who sat behind it.
+Calloway was behind his desk. A small fire burned in the grate, though it had given up any pretence of warming the room.
 
-"You have been noticing things," he said.
+He looked at me when I entered.
 
-"I have been writing them down."
+"You have been keeping notes."
 
-"That is what concerns me."
+"Yes."
 
-He pushed three papers across the desk. Each was a brief report in a different hand.
-
-"The first is from the Greyhound. A room that does not remain as it is left."
-
-"The second?"
-
-"A woman on High Street receiving letters that speak of events before they happen."
-
-"And the third?"
-
-"An old clock on Mill Lane. It has been heard striking thirteen."
-
-I looked at the papers. The reports were brief, the handwriting hurried. None of them offered an explanation.
-
-"Why me?"
-
-"Because you noticed the button."
+"On the lamp."
 
 I said nothing.
 
-"And the gate," he added.
+"And the gate."
 
-Still I said nothing.
+Still nothing.
 
-Calloway leaned back. The fire cracked.
+"And several other things."
 
-"I don't need another constable. I need someone who will look at a thing before deciding what it means. The constables act. The magistrates judge. I need someone who observes."
+"You've been reading my reports?"
 
-"And if I find nothing?"
+"I've been reading what you chose to give me."
 
-"Then you report nothing."
+He closed the folder in front of him.
 
-There was a pause. He named a sum—one pound a week.
+"I have three matters."
+
+He pushed three sheets of paper across the desk.
+
+"The first is at the Greyhound. The innkeeper claims a locked room does not remain as he leaves it."
+
+I read the note.
+
+"And the second?"
+
+"A woman on High Street has been receiving letters."
+
+"What sort of letters?"
+
+"According to her, letters containing information about events before those events occur."
+
+"And the third?"
+
+"An old clock on Mill Lane has been heard striking thirteen."
+
+I looked up.
+
+"Thirteen?"
+
+"That is what the neighbours say."
+
+"You don't believe them."
+
+"I didn't say that."
+
+"You don't sound convinced."
+
+"Conviction isn't part of the job."
+
+He leaned back.
+
+"I want facts."
+
+I looked again at the three reports.
+
+"You want me to investigate them."
+
+"I want you to determine what happened."
+
+"Why me?"
+
+"Because my constables are useful men. They know how to find thieves, drunkards, and men who have broken windows."
+
+"And I'm useful when a room changes?"
+
+"You're useful when nobody agrees on what happened."
+
+That was not quite an answer.
+
+It was probably the closest I was going to get.
+
+Calloway opened a drawer and removed a small notebook.
+
+"Keep your own record."
+
+"I already do."
+
+"Then keep a better one."
+
+He handed it to me.
+
+"Observe first. If you test something, know what you're testing."
+
+I waited.
+
+"And if you find something you cannot explain?"
+
+"Write it down."
+
+"Exactly."
+
+He tapped the notebook.
+
+"Write what happened. Not what you think happened."
+
+I looked at the pages.
+
+"How much?"
+
+"One pound a week."
+
+It was not a fortune.
+
+It was enough.
 
 I accepted.
 
----
+The Greyhound's room was at the top of the inn.
 
-The Greyhound stood at the corner of High Street and the lane to the old mill. Its sign was faded to the colour of smoke, its door worn smooth by a hundred years of hands. The innkeeper, a man named Finch—not the archivist, but a cousin—had the tired patience of one who has been asked the same question a hundred times.
+Finch, the innkeeper, led me upstairs.
 
-He showed me the room at the top of the stairs. A bed, a chair, a basin, a cold hearth. The window looked out over the yard and the roofs of the town. The cold in the room was the kind that seeped through the walls and made even the fire feel distant.
+He was a broad man with tired eyes and the expression of someone who had repeated the same story so often that he had begun to dislike the story more than the people who asked about it.
 
-"Every morning something has changed," Finch said. "The bed is rumpled, though I did not sleep in it. The basin is less full, though I did not use it. The chair has moved, though I did not sit in it. And the ashes are warm, though I did not light a fire."
+"The room changes," he said.
 
-I examined the lock first. The mechanism was old but sound, the key heavy and worn. The window was bolted from the inside. The floorboards were tight, the ceiling plaster intact. There was no second door, no hidden panel.
+"That's what Calloway's note said."
 
-I checked the bed. The linen was coarse but clean. The basin was chipped but dry. The chair was plain, its legs even on the floor. The grate was cold now, but I could see the grey of old ashes.
+"It does."
 
-"Has anyone been in this room since the changes began?"
+"How?"
 
-"No one. The key never leaves my hand."
+He stopped outside the door.
 
-I asked him to leave the key with me. He hesitated, then handed it over.
+"If I knew that, I wouldn't have called the constable."
 
-I spent the rest of the day in the room, noting its shape and size, the position of every object, the depth of the dust on the sill, the angle of the chair. I drew a plan in my notebook and marked each thing. I wanted to be able to say, come morning, what had changed.
+Fair enough.
 
-The light faded. I lit a candle and sat in the chair. The inn below was quiet—the talk of men, the clink of glasses, the creak of the floor. I waited.
+He unlocked the room.
 
-Nothing happened.
+Nothing immediately appeared unusual.
 
-The bed remained as it was. The basin stayed full. The chair did not move. The ashes stayed cold. I stayed awake until the first grey light came through the window.
+There was a narrow bed against one wall, a wooden chair, a small table, a washbasin, and a cold hearth. The window was bolted from inside.
 
-I unlocked the door and went down to Finch.
+I checked the lock.
 
-"Nothing," I said. "The room did not change."
+Then the hinges.
 
-Finch stared at me, then past me at the room. He lowered his voice.
+Then the window.
 
-"I have heard that the room only changes when someone has said his name."
+Then the floorboards.
 
-"Whose name?"
+No obvious entrance.
 
-"The name of the man who died in that room. Fifteen years ago. A traveller. No one knew who he was. He died in the night. The room was locked for years. When it was opened again, the changes began."
+No damaged wood.
 
-"Did you say his name last night?"
+No loose stone.
 
-"I did not. I do not know it. No one does."
+No sign that anyone had forced the door.
 
-I stood at the top of the stairs and thought. I had expected the room to behave differently. I had expected to find a mechanical explanation—a draft, a faulty lock, a servant with a key. Instead, I had found that the room only changed when it was listened to in a certain way.
+"Show me how you leave it."
 
-I wrote: *The room did not change. The innkeeper believes the trigger is a name. I do not know the name. I do not know what the room is responding to.*
+Finch arranged the room.
 
----
+The chair went beneath the table.
 
-The second case took me to High Street.
+The basin was filled to a line marked faintly in charcoal.
 
-Mrs. Hart lived in a house that had seen better days—the paint was peeling, the gate was loose, and the windows were dark even in the daylight. She opened the door when I knocked and looked at me with caution, and hope, and the suspicion that I would not be able to help.
+The bedcover was folded three times.
 
-"I have been receiving letters," she said. "They come in the post, with the same stamp, the same hand, the same paper. They speak of things that have not yet happened. And they have been right, every time."
+The ashes in the grate were levelled.
 
-"May I see one?"
+"Like this?"
 
-She went to a drawer and brought out a thin envelope, yellowed at the edges. I opened it and read:
+"Yes."
 
-*The flour will be up a penny before the week is out. The man who lives across the lane will take ill on Tuesday. The rain will come on Wednesday, and it will not stop until Friday.*
+"Then you lock it?"
 
-The date on the envelope was a week old.
+"Every night."
 
-"All of those things came true," she said.
+"Who has the key?"
 
-I examined the envelope. The paper was ordinary, the ink unremarkable. The postmark was regular. The handwriting was careful but not distinctive.
+"Me."
 
-"Who sent these?"
+"Anyone else?"
 
-"I do not know. They are addressed to me, in my name, but they have no sender. The postmaster says they come through the regular post, but he cannot tell me who sent them."
+"The maid."
 
-I looked at the letter again. Then I noticed something I had not seen before: the date on the envelope was tomorrow's date. The letter had been postmarked for the day after it was written, but it had arrived the day before.
+"Anyone staying in this room?"
 
-I sat with the contradiction. It was possible that the postmark had been misapplied. It was possible that the sender had paid someone to date it forward. It was possible that Mrs. Hart had misremembered the arrival date.
+"Not lately."
 
-But the predictions had been correct, and the date was wrong, and I could not explain either.
+"Why not?"
 
-I wrote: *The letter arrived before the date on the envelope. The predictions were accurate. I cannot determine whether this is knowledge of the future or manipulation of belief. The evidence is insufficient.*
+Finch hesitated.
 
----
+"I'll tell you after you've seen it."
 
-The third case took me to Mill Lane.
+I looked at him.
 
-The house had been empty since 1803. The clock stood in the front room, tall and dark, its face yellowed and its pendulum still. According to the neighbours, it sometimes struck thirteen at midnight.
+He seemed unwilling to say more.
 
-I examined the mechanism. The works were old but well-made. One gear was missing—I could see the gap where it should have been. I expected that to explain everything. A clock missing a gear should not strike at all, let alone thirteen times.
+I let it go.
 
-Yet someone had heard it.
+For the moment.
 
-I returned that night. I sat in the chair and waited. At midnight, the clock struck twelve. Nothing more.
+I took out my notebook.
 
-I returned the following night. Again, twelve.
+Chair: beneath table.
 
-I was about to leave when I heard a small metallic sound behind me. I turned. There was a gear lying on the floor beside the clock.
+Basin: charcoal line.
 
-It had not been there when I entered.
+Bedcover: three folds.
 
-I picked it up. It was warm—not hot, but warm enough to make me hesitate. I turned it between my fingers. It was not shaped like the missing gear. I could not identify the metal. It was not brass, and it was not iron.
+Ashes: level.
 
-I put it in my pocket. I had no explanation for how it had appeared.
+Window: bolted.
 
-For the first time since Calloway had offered me the work, I did not know what to write. I had examined the room, the letters, the clock. I had measured and noted and waited. I had found contradictions but no answers.
+Door: locked.
 
-So I wrote the simplest thing.
+I asked Finch for the key.
 
-*The object appeared.*
+He hesitated before handing it over.
 
-*Nothing more.*
+"I'll remain inside."
 
-I shut the book. The lamp burned low. Outside, the town was quiet. I had not solved the three cases. I had not found the connection between them. I had only learned that the questions were not as simple as they appeared.
+"You intend to sleep?"
 
-That, I knew, was the beginning of understanding.
+"I'll try not to."
+
+He gave me a doubtful look.
+
+Then he left.
+
+I spent the next hour checking the room again.
+
+Nothing.
+
+The silence became almost oppressive.
+
+I began to understand why people invented explanations for rooms like this.
+
+A mystery that remained quiet for long enough became irritating.
+
+A man wanted it to do something.
+
+Anything.
+
+I resisted that impulse.
+
+I sat in the chair and waited.
+
+Midnight passed.
+
+Then one.
+
+Then two.
+
+At some point after that, I fell asleep.
+
+When I woke, the room was grey with morning.
+
+For a few seconds I simply sat there.
+
+Then I looked around.
+
+The chair remained beneath the table.
+
+The basin was still at the charcoal line.
+
+The bedcover had three folds.
+
+The ashes were undisturbed.
+
+The lock was still secure.
+
+Nothing had happened.
+
+Or, more precisely, I had observed nothing happening.
+
+I wrote that distinction down.
+
+When I went downstairs, Finch was waiting.
+
+"Well?"
+
+"Nothing."
+
+He stared at me.
+
+"Nothing?"
+
+"Nothing that I observed."
+
+He frowned.
+
+"So it doesn't happen."
+
+"I didn't say that."
+
+"Then what are you saying?"
+
+"That it didn't happen while I was there."
+
+He considered this.
+
+"Perhaps it only happens when no one's looking."
+
+"Perhaps."
+
+I went back upstairs before leaving.
+
+The room looked exactly as it had when I entered.
+
+That bothered me more than it should have.
+
+If Finch had been lying, I had wasted a night.
+
+If he had been mistaken, I had wasted a night.
+
+If he had told the truth, then I had learned something useful.
+
+I simply didn't know what it was yet.
+
+I wrote:
+
+First observation: reported disturbance not reproduced under observation.
+
+Then I closed the notebook.
+
+Three days later Finch sent word.
+
+It had happened again.
+
+The chair had moved.
+
+The basin was lower.
+
+The bedcover had been disturbed.
+
+The fire had been warm.
+
+He had locked the room before going to sleep and opened it at first light.
+
+No one had been seen entering.
+
+I returned that afternoon.
+
+This time I did not repeat the entire overnight watch.
+
+Instead, I examined the room while the evidence was still fresh.
+
+The chair had moved perhaps a hand's breadth.
+
+The basin was lower by less than an inch.
+
+The bedcover had been pulled loose on one side.
+
+The ashes contained no clear footprint.
+
+I asked Finch several questions.
+
+Had anyone entered?
+
+No.
+
+Had the maid been upstairs?
+
+Yes, briefly.
+
+Had anyone spoken about the room?
+
+He thought.
+
+"The maid asked whether I wanted it kept shut."
+
+"When?"
+
+"Before I locked it."
+
+"What did you say?"
+
+"Yes."
+
+I wrote that down.
+
+"Has anyone else mentioned the room?"
+
+"Not that I remember."
+
+"And you?"
+
+"What about me?"
+
+"Did you speak about it before locking the door?"
+
+Finch looked uncomfortable.
+
+"Perhaps."
+
+"To whom?"
+
+"My wife."
+
+"What did you say?"
+
+"That the room had been troublesome."
+
+I wrote it down.
+
+He watched me.
+
+"Does that matter?"
+
+"I don't know."
+
+He frowned.
+
+That answer seemed to satisfy him less than a more dramatic one would have.
+
+"Why was the room closed in the first place?"
+
+Finch looked toward the door.
+
+"A traveller died here once."
+
+"When?"
+
+"Long before I owned the place."
+
+"Who?"
+
+He shook his head.
+
+"No one knew his name."
+
+"Did that happen before the room began changing?"
+
+"I couldn't tell you."
+
+"Then don't."
+
+He looked at me strangely.
+
+I closed the notebook.
+
+The useful fact was not the dead traveller.
+
+It was simpler.
+
+The disturbance was not constant.
+
+Something differed between the nights when nothing happened and the mornings when Finch found the room altered.
+
+I didn't know what that difference was.
+
+But I had something to look for.
+
+That was enough.
+
+The second case seemed easier.
+
+It became less easy after I met Mrs. Hart.
+
+She lived on High Street in a narrow house with a loose gate and windows that had not been cleaned recently.
+
+She was waiting when I arrived.
+
+"You are from Calloway."
+
+"Yes."
+
+"He said someone would come."
+
+"What did he tell you?"
+
+"That you would look at the letters."
+
+She led me into a small parlour and opened a drawer.
+
+Inside were envelopes.
+
+Several dozen.
+
+Some were new.
+
+Others had been folded and handled enough times to soften their edges.
+
+"The letters arrive before things happen," she said.
+
+"All of them?"
+
+"No."
+
+That answer interested me.
+
+"Which ones?"
+
+She separated three.
+
+"The others are mostly vague."
+
+I read the first.
+
+It mentioned the price of flour rising.
+
+That had happened.
+
+The second mentioned a neighbour falling ill.
+
+That had also happened.
+
+The third described rain arriving within the week.
+
+It had.
+
+"Who sends them?"
+
+"I don't know."
+
+"Do they have a return address?"
+
+"No."
+
+"Postmark?"
+
+"Sometimes."
+
+She handed me the envelopes.
+
+The handwriting was similar.
+
+The paper was not.
+
+That was interesting.
+
+Not important.
+
+Just interesting.
+
+I examined the first postmark.
+
+Then the second.
+
+Then the third.
+
+The dates differed.
+
+Some were ordinary.
+
+Others were difficult to read.
+
+One appeared to have been marked after the letter had already arrived.
+
+I checked it twice.
+
+The ink was too faint to be certain.
+
+I wrote:
+
+Postmark unclear. Do not infer.
+
+Mrs. Hart watched me.
+
+"You don't believe me."
+
+"I believe that you received the letters."
+
+"And that they told you what would happen?"
+
+"I believe that some of what they contained corresponded with events that happened afterward."
+
+She waited.
+
+I continued.
+
+"I don't yet know when the letters were written."
+
+She looked puzzled.
+
+"Does that matter?"
+
+"It might."
+
+"How?"
+
+"If a letter was written before an event, that's one thing."
+
+"And if it wasn't?"
+
+"Then it's another."
+
+She sat down.
+
+"You think someone could have written them afterward?"
+
+"I don't know."
+
+That answer made her quieter.
+
+After a moment she opened another drawer.
+
+"There was one reply."
+
+"To whom?"
+
+"I don't know."
+
+"You answered the letters?"
+
+"Once."
+
+"What did you write?"
+
+"I asked who they were."
+
+"And?"
+
+"It disappeared."
+
+I looked at her.
+
+"Disappeared?"
+
+"It was on the table that evening."
+
+"And the next morning?"
+
+"Nothing."
+
+"Did you burn it?"
+
+"No."
+
+"Did anyone else enter the room?"
+
+"No."
+
+"Are you certain?"
+
+"Yes."
+
+I examined the table.
+
+There was nothing there.
+
+"Do you still have the envelope?"
+
+She nodded.
+
+I asked to see it.
+
+There was no sender.
+
+No return address.
+
+Only her name and the street.
+
+I wrote that down.
+
+Mrs. Hart watched the pen move.
+
+"You think I'm mistaken."
+
+"No."
+
+"You don't sound convinced."
+
+"I'm not convinced of anything yet."
+
+For the first time, she smiled.
+
+"That sounds like Calloway."
+
+"I'll take that as a compliment."
+
+"It wasn't."
+
+I spent several days comparing the two cases.
+
+I didn't compare the explanations.
+
+I compared the records.
+
+At the Greyhound, a change was reported after the room had remained undisturbed.
+
+I had watched the room and seen no change.
+
+At Mrs. Hart's, several letters contained statements that corresponded with later events.
+
+But I could not establish the order of every relevant date.
+
+In both cases, the story people told me was cleaner than the evidence itself.
+
+That interested me.
+
+Not because it proved anything.
+
+Because it warned me.
+
+I brought my notes to Calloway.
+
+He read them without interruption.
+
+"You think they're related?"
+
+"I think they belong in the same notebook."
+
+He looked at me.
+
+"That's not the same thing."
+
+"No."
+
+He nodded.
+
+"Good."
+
+He tapped the Greyhound report.
+
+"What do you know?"
+
+"That the room changes sometimes."
+
+"Do you know why?"
+
+"No."
+
+"Do you know when?"
+
+"No."
+
+"Do you know what triggers it?"
+
+"Not yet."
+
+He moved to the letters.
+
+"And these?"
+
+"Some statements are correct."
+
+"Some?"
+
+"Mrs. Hart admits the others are vague."
+
+"Do you know when they were written?"
+
+"Not reliably."
+
+"Then?"
+
+"I don't know whether they predict anything."
+
+Calloway closed the notebook.
+
+"Good."
+
+I waited.
+
+He smiled faintly.
+
+"You're learning."
+
+The third case was on Mill Lane.
+
+The house had been empty for years.
+
+The clock inside had acquired a reputation.
+
+According to the neighbours, it sometimes struck thirteen at midnight.
+
+I asked three people separately.
+
+The answer remained the same.
+
+Thirteen.
+
+None of them had heard it recently.
+
+All had heard the story from someone else.
+
+That distinction stayed with me as I entered the house.
+
+The room smelled of dust, old wood, and cold metal.
+
+The clock stood against the far wall.
+
+It was large enough that I could hear the mechanism clearly when I opened the case.
+
+The brasswork was tarnished.
+
+The pendulum was stiff.
+
+Several components showed obvious age.
+
+I examined the mechanism carefully.
+
+One position was empty.
+
+A gear was absent.
+
+I noted the location.
+
+I did not assume that it explained the story.
+
+A clock missing a gear could simply be a broken clock.
+
+That was ordinary.
+
+A broken clock that was supposed to strike thirteen was another matter.
+
+But I did not know whether it had ever done so.
+
+So I made a drawing.
+
+I recorded the visible mechanism.
+
+I checked the pendulum.
+
+I checked the hands.
+
+I checked the striking mechanism.
+
+Then I closed the case.
+
+I returned that night.
+
+I arrived before midnight.
+
+I did not touch the clock.
+
+I did not wind it.
+
+I sat several feet away and waited.
+
+At midnight, the clock struck.
+
+One.
+
+Two.
+
+Three.
+
+The sound was clear.
+
+Four.
+
+Five.
+
+Six.
+
+I counted carefully.
+
+Seven.
+
+Eight.
+
+Nine.
+
+Ten.
+
+Eleven.
+
+Twelve.
+
+Silence.
+
+I waited.
+
+Nothing.
+
+I checked my watch.
+
+The minute passed.
+
+Then another.
+
+No thirteenth stroke.
+
+I stayed until morning.
+
+Nothing else happened.
+
+The next night, I returned.
+
+Again, twelve.
+
+No thirteenth.
+
+On the third night, I changed nothing.
+
+Same position.
+
+Same distance.
+
+Same clock.
+
+Twelve.
+
+Silence.
+
+That was when I began to suspect that I was making the same mistake people always made.
+
+I was treating the report as the event.
+
+They had told me:
+
+The clock strikes thirteen.
+
+What I actually knew was:
+
+People say the clock strikes thirteen.
+
+Those were different statements.
+
+I wrote both.
+
+Then I waited.
+
+I was preparing to leave when something caught the edge of the candlelight.
+
+A small metallic object lay beneath the clock.
+
+I stopped.
+
+I was certain I had looked at that section of floor earlier.
+
+But certainty was not proof.
+
+I approached it without touching it.
+
+The object was dark.
+
+Circular.
+
+Small enough to rest comfortably between two fingers.
+
+It looked like a gear.
+
+I crouched.
+
+I examined the floor around it.
+
+No disturbed dust.
+
+No obvious track.
+
+No sign of where it had come from.
+
+I looked at the clock.
+
+Then back at the object.
+
+I picked it up.
+
+It was warm.
+
+Not hot.
+
+Not enough to burn.
+
+Simply warmer than the room.
+
+I held it for several seconds.
+
+The warmth remained.
+
+I placed it on the floor.
+
+Then I waited.
+
+After a minute, I touched it again.
+
+The warmth was gone.
+
+I picked it up.
+
+It returned.
+
+I put it down.
+
+Gone.
+
+I repeated the test.
+
+The same result.
+
+I looked at the clock.
+
+I did not insert the object into the mechanism.
+
+I did not wind the clock.
+
+I did not alter anything else.
+
+I had been told to observe before testing.
+
+I had tested enough.
+
+For now.
+
+I wrapped the object in a piece of cloth and placed it inside my notebook.
+
+Then I left the house.
+
+Calloway examined it the following morning.
+
+He did not touch it immediately.
+
+"Where did you find it?"
+
+"Under the clock."
+
+"Was it there when you entered?"
+
+"I didn't see it."
+
+"That's not what I asked."
+
+I considered the wording.
+
+"No. I cannot say that it wasn't there. I can only say that I did not see it."
+
+Calloway looked at me.
+
+Then he nodded.
+
+"Better."
+
+He pointed to the clock in my notes.
+
+"The clock has an empty position."
+
+"Yes."
+
+"And this?"
+
+"I don't know."
+
+"You compared them?"
+
+"Visually."
+
+"Does it fit?"
+
+"No."
+
+"Certain?"
+
+"The teeth don't match."
+
+"Then don't put it in."
+
+"I wasn't planning to."
+
+"Good."
+
+He turned the object over without touching it.
+
+"Do you know what it is?"
+
+"No."
+
+He looked at me.
+
+"Neither do I."
+
+That surprised me.
+
+He pushed the cloth back toward me.
+
+"Keep it separate from your other things."
+
+"Why?"
+
+"Because you don't know what it is."
+
+I waited.
+
+He added:
+
+"And because not knowing is a reason to be careful, not a reason to experiment."
+
+I put the object away.
+
+That evening I opened my notebook.
+
+I drew a line down the middle of the page.
+
+On the left:
+
+Reported.
+
+On the right:
+
+Observed.
+
+The Greyhound.
+
+Reported: the room changes.
+
+Observed: the room did not change while I watched it.
+
+Later, a change was reported again.
+
+Observed: the change had occurred, but I had not witnessed it.
+
+I left that one unresolved.
+
+The letters.
+
+Reported: they predict events.
+
+Observed: several statements corresponded with events that happened afterward.
+
+Unresolved: the dates.
+
+The clock.
+
+Reported: thirteen strokes.
+
+Observed: twelve.
+
+Unresolved: why people remembered otherwise.
+
+Then the gear.
+
+Reported: nothing.
+
+Observed: an object I had not previously noticed was found beneath the clock.
+
+It was not the missing piece.
+
+Its temperature changed according to whether I held it.
+
+I stopped writing.
+
+I looked at the page.
+
+There was a temptation to draw a line between the three cases.
+
+I did not.
+
+Three strange reports did not make a pattern.
+
+Three unexplained observations did not make a theory.
+
+But there was a smaller connection.
+
+One I could defend.
+
+In each case, the first explanation had failed.
+
+The Greyhound's room had not changed while watched.
+
+The letters could not yet be placed securely in time.
+
+The clock had not struck thirteen.
+
+And the gear had no obvious place in the mechanism.
+
+I added one final line.
+
+The reports are simpler than the facts.
+
+I stared at it.
+
+Then I crossed out simpler.
+
+I replaced it with:
+
+The reports are not the same as the facts.
+
+That was better.
+
+I closed the notebook.
+
+The lamp burned at nine.
+
+I watched it move through the rooms in its familiar order.
+
+For a moment I wondered whether I should add it to the cases.
+
+I decided against it.
+
+The lamp was not part of Calloway's investigation.
+
+Not yet.
+
+I extinguished my candle.
+
+The house became dark.
+
+Three cases.
+
+One object.
+
+No conclusion.
+
+For now, that was enough.
+
+And for the first time since Calloway had offered me the work, I understood what the work actually required.
+
+Not answers.
+
+Accurate questions.
