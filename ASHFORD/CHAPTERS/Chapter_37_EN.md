@@ -1,143 +1,751 @@
 CHAPTER 37 — THE LINE BENEATH THE TOWN
 
-I did not show the gear to Calloway immediately.
+The gear remained on my desk.
 
-Instead, I tested it.
+I had stopped testing it every few hours.
 
-I left it on my desk overnight.
+That, more than anything, told me how little I had learned.
 
-In the morning it was cold.
-
-I placed it beside the clockwork I had copied from Mill Lane.
+For two nights I had treated the thing as though patience alone might force an answer from it. I had left it beside the lamp, wrapped it in cloth, placed it against the cold stone of the windowsill, and held it in my palm until my fingers began to ache.
 
 Nothing happened.
 
-I wrapped it in cloth.
+At least, nothing that I could prove.
+
+The metal was sometimes cold.
+
+Sometimes it was not.
+
+It warmed in my hand, but so did almost everything else if I held it long enough.
+
+Once, shortly after midnight, I thought I felt a faint movement through its teeth.
+
+I tested it again.
 
 Nothing.
 
-I placed it near the lamp.
+I wrote the observation down anyway.
+
+Then I drew a line beneath it.
+
+Unconfirmed.
+
+I had begun to understand that there was a difference between seeing something and knowing that I had seen it.
+
+The distinction was becoming useful.
+
+It was also becoming inconvenient.
+
+I opened my notebook and turned back through the pages.
+
+Three cases.
+
+The Greyhound room.
+
+Mrs. Hart's letters.
+
+The clock on Mill Lane.
+
+At first, I had treated them as three separate matters because that was what they appeared to be.
+
+Different houses.
+
+Different people.
+
+Different disturbances.
+
+The only common feature was that all three had been strange enough to remain in my thoughts after ordinary explanations had failed.
+
+But now I had begun to wonder whether I had made the wrong assumption.
+
+Not about the incidents.
+
+About the places.
+
+I took the map from beneath the notebook.
+
+It was a modest town map, printed several years earlier and already beginning to curl at the corners. Ashford occupied little enough of the page that I could see almost all of it without moving my hand.
+
+The river divided the lower part of town.
+
+High Street ran through the older centre.
+
+The Greyhound stood near the western side.
+
+Mrs. Hart's house was farther north.
+
+Mill Lane descended toward the older industrial ground.
+
+I marked each location with a small pencil dot.
+
+Then I stepped back.
 
 Nothing.
 
-I held it in my hand.
+Three dots.
 
-After several minutes, it became warm again.
+No more meaningful than three stains on a sheet of paper.
 
-That was all.
+I frowned.
 
-It was not enough to call it supernatural.
-
-It was merely strange.
-
-I preferred strange.
-
-Strange could still be measured.
-
-The three cases bothered me for another reason.
-
-Their locations.
-
-I marked them on a map.
+I moved the map closer to the lamp.
 
 The Greyhound.
 
-Mrs. Hart's house.
+Hart's house.
 
-The abandoned house on Mill Lane.
+Mill Lane.
 
-The points formed an imperfect curve.
+I drew a line between the first and second.
 
-I thought nothing of it at first.
+Another between the second and third.
 
-Then I placed an older map beneath the current one.
+The shape was irregular.
 
-The curve changed.
+Almost meaningless.
 
-It became a line.
+I erased it.
 
-An old parish boundary.
+Then I tried again.
 
-I took the map to Calloway.
+This time I used the actual streets.
 
-He stared at it.
+The result was worse.
 
-"Where did you get this?"
+I sat down.
 
-"Records."
+Perhaps I was looking for a pattern because I wanted one.
 
-He looked again.
+That was a dangerous habit.
 
-"This boundary hasn't been used for decades."
+A man who expects to find a pattern can make one from almost anything.
+
+I closed the notebook.
+
+For several minutes I did nothing.
+
+Then I opened it again.
+
+There was one thing I had not done.
+
+I had only looked at the town as it was now.
+
+I had not asked what it had looked like before.
+
+The records room at the parish office smelled of dust, damp paper, and old leather.
+
+I had been there once before, though not for anything connected to the cases.
+
+The clerk recognised me.
+
+He looked at the notebook under my arm.
+
+"Another enquiry?"
+
+"Something of the sort."
+
+He raised an eyebrow.
+
+"Police matter?"
+
+"Not yet."
+
+That seemed to satisfy him.
+
+He returned to his desk.
+
+I asked about old maps.
+
+He asked how old.
+
+"As old as you have."
+
+He laughed.
+
+"That is not particularly helpful."
+
+"Older than the present roads."
+
+"That narrows it down."
+
+He led me to a cabinet near the back wall.
+
+The drawers were marked by parish and year.
+
+I spent nearly an hour looking through them.
+
+Most were useless.
+
+Property surveys.
+
+Tax records.
+
+Land transfers.
+
+Copies of boundaries that had been redrawn so many times that the original lines had become difficult to recognise.
+
+Then I found an older survey.
+
+The paper was yellow at the edges.
+
+Several names had faded almost completely.
+
+The town was smaller.
+
+The river was drawn differently.
+
+Several roads did not exist.
+
+Others seemed to stop where they should have continued.
+
+I spread the survey beside my modern map.
+
+The difference was immediately apparent.
+
+Ashford had not simply grown.
+
+It had been rearranged.
+
+Land had changed hands.
+
+Paths had become roads.
+
+Fields had been divided.
+
+Old properties had disappeared beneath newer ones.
+
+I traced the older roads with my finger.
+
+Then I stopped.
+
+There was a line running across the town.
+
+It did not follow the roads.
+
+It did not follow the river.
+
+It passed through fields that no longer existed and along property edges that had since been altered.
+
+I looked at my three marks.
+
+The Greyhound.
+
+Hart's house.
+
+Mill Lane.
+
+They did not sit directly upon the line.
+
+But they were close.
+
+Closer than they should have been.
+
+I found another survey.
+
+Then another.
+
+The line remained.
+
+Not always in exactly the same position.
+
+But the general shape persisted.
+
+I copied it onto a clean sheet.
+
+For the first time, the three locations seemed less random.
+
+Not connected.
+
+Not yet.
+
+But positioned.
+
+There was a difference.
+
+I was still considering it when the clerk approached.
+
+"You've been at that for a while."
+
+"So I have."
+
+"Find something?"
+
+"I don't know."
+
+He looked over my shoulder.
+
+"That?"
+
+"Do you know what it is?"
+
+He leaned closer.
+
+"Looks like a parish boundary."
+
+I looked at him.
+
+"Looks like?"
+
+He shrugged.
+
+"Old ones were always being moved."
 
 "Why?"
 
-"Because it was changed."
+"Land."
 
-"Why?"
+He said it as though there could be no other answer.
 
-"Disputes over land."
+"Disputes?"
 
-His answer came too quickly.
+"Usually."
 
-I noticed.
+He pointed to one of the faded notes.
 
-He noticed me noticing.
+"That section was altered sometime before my grandfather was born."
 
-"Mr. Ashcroft," he said, "some old boundaries are better left old."
-
-"That isn't an answer."
+"Do you know why?"
 
 "No."
 
-He folded the map.
+He paused.
 
-"But it is advice."
+"Probably somebody wanted a few more acres."
 
-I went looking for the stones.
+Probably.
 
-There were four.
+Another useful word.
 
-Each was older than the surrounding walls.
+I copied the reference number.
 
-Each carried the same faint mark.
+Then I asked where the corresponding land records were kept.
 
-A circle crossed by a short line.
+The clerk pointed toward another cabinet.
 
-I had seen the symbol before.
+"You're determined."
 
-On the door of my house.
+"I've been accused of worse."
 
-On an old piece of iron.
+He smiled.
 
-And now here.
+"Give it back when you're finished."
 
-I touched the nearest stone.
+I returned to the records.
+
+By late afternoon I had a list of names, dates, and parcels of land.
+
+None of them explained anything.
+
+That was not disappointing.
+
+It was useful.
+
+The line appeared to have existed for a long time.
+
+It had been altered.
+
+Parts of it had been absorbed into later property divisions.
+
+Other sections had simply disappeared from modern maps.
+
+But traces remained.
+
+A stone wall here.
+
+An old ditch there.
+
+A boundary marker behind a neglected garden.
+
+I copied everything I could.
+
+Then I went to see Calloway.
+
+He was in the station when I arrived.
+
+He looked at the papers in my hand before looking at me.
+
+"You're becoming a regular visitor."
+
+"I found something."
+
+"That is usually why people come here."
+
+I placed the old survey on the desk.
+
+Calloway did not touch it.
+
+He studied it from where he stood.
+
+For several seconds, he said nothing.
+
+Then his expression changed.
+
+Only slightly.
+
+Enough for me to notice.
+
+"Where did you find that?"
+
+"The parish records."
+
+He looked at the map again.
+
+"Why were you looking?"
+
+I considered lying.
+
+I decided against it.
+
+"The three cases."
+
+His eyes moved to me.
+
+"What about them?"
+
+"The locations are close to an old boundary."
+
+He said nothing.
+
+I waited.
+
+Finally he pulled the survey toward himself.
+
+His finger followed the faded line.
+
+"This hasn't been used for decades."
+
+"So I was told."
+
+"It was changed."
+
+"Why?"
+
+"Land disputes."
+
+"You know which ones?"
+
+"Not all."
+
+"Do you know this particular boundary?"
+
+He looked at me.
+
+"I know enough."
+
+"Enough to tell me what it was?"
+
+"No."
+
+The answer came quickly.
+
+Too quickly.
+
+I leaned against the desk.
+
+"Then tell me what it wasn't."
+
+For the first time, he almost smiled.
+
+"You ask inconvenient questions."
+
+"I've noticed."
+
+He folded the survey carefully.
+
+"Some old boundaries are better left old."
+
+"That's advice."
+
+"Yes."
+
+"It isn't an answer."
+
+"No."
+
+He returned the paper.
+
+"That doesn't make it bad advice."
+
+I took the map.
+
+"Did something happen along it?"
+
+Calloway's expression hardened.
+
+"Everything happened along it."
+
+Then he walked away.
+
+I stood there for a moment.
+
+It was not an answer.
+
+But it was not nothing.
+
+I returned to the line the following morning.
+
+The weather had changed.
+
+The frost had remained overnight, covering the grass in a thin white layer. The river was low, and the air had that brittle cold that made every sound seem farther away.
+
+I followed the old boundary from the western side of town.
+
+At first there was nothing remarkable.
+
+A wall.
+
+A hedge.
+
+A narrow strip of unused ground.
+
+Then the modern road interrupted it.
+
+The old line disappeared beneath the road and continued somewhere beyond.
+
+I checked the survey again.
+
+According to the old map, the boundary should have crossed near a cluster of properties.
+
+I walked behind them.
+
+There was a ditch.
+
+It was almost completely filled with leaves.
+
+Beyond it stood an old stone wall.
+
+The stones were darker than the newer masonry around them.
+
+I brushed the frost from one.
+
+No mark.
+
+I continued.
+
+The line led toward higher ground before bending back toward the valley.
+
+It was not a straight boundary.
+
+It followed the land.
+
+That made sense.
+
+Old surveyors rarely cared about making a line look elegant.
+
+They cared about where one man's field ended and another man's began.
+
+I found the first stone shortly before noon.
+
+It stood beside a broken section of wall.
+
+At first I thought it was part of the wall itself.
+
+Then I noticed its shape.
+
+It was taller than the surrounding stones.
+
+Set upright.
+
+Deliberately.
+
+I crouched beside it.
+
+There was a mark near the lower half.
+
+A circle.
+
+A short line crossed it.
+
+I stared at it.
+
+I had seen the shape before.
+
+Not clearly.
+
+Not in a place where I could confidently say it meant anything.
+
+But I remembered it.
+
+The old iron object from Mill Lane.
+
+The mark I had noticed elsewhere.
+
+And now this.
+
+I did not touch the stone.
+
+Instead, I took out my notebook.
+
+I drew the symbol as accurately as I could.
+
+Then I measured the stone.
+
+Height.
+
+Width.
+
+Position relative to the wall.
+
+Distance from the nearest road.
+
+Everything I could think of.
+
+I walked on.
+
+The old line continued.
+
+Three hundred yards farther, I found another stone.
+
+Then another.
+
+The fourth was partially buried beneath the roots of an old tree.
+
+I uncovered enough of it to confirm the shape.
+
+The same circle.
+
+The same short crossing line.
+
+Four stones.
+
+All following the old boundary.
+
+That was more difficult to dismiss.
+
+I sat beneath the tree and studied my notes.
+
+There were several possible explanations.
+
+Boundary markers.
+
+Survey stones.
+
+Property markers.
+
+Something older that had later been incorporated into the boundary.
+
+I wrote each possibility down.
+
+Then crossed out none of them.
+
+I had learned enough by now not to reward myself for being certain too early.
+
+The fourth stone stood only a few feet away.
+
+I looked at it again.
+
+There was something uncomfortable about the mark.
+
+Not because it was frightening.
+
+Because it was familiar.
+
+Familiarity suggested memory.
+
+Memory suggested context.
+
+I had neither.
+
+I reached out.
+
+My fingers touched the stone.
 
 Nothing happened.
 
 I waited.
 
-Still nothing.
+The cold pressed through my gloves.
 
-Then, beneath my fingertips, I felt the smallest vibration.
+Nothing.
 
-I withdrew my hand.
+I was about to withdraw my hand when I felt something.
 
-The stone remained still.
+A vibration.
 
-I looked around.
+So faint that I almost dismissed it.
 
-Nobody was there.
+I held still.
 
-For several minutes I stood in the frost.
+It came again.
 
-Then I wrote:
+Once.
+
+A small tremor beneath my fingertips.
+
+I removed my hand.
+
+The stone remained motionless.
+
+I looked at the tree.
+
+The branches were still.
+
+I looked toward the road.
+
+No carts.
+
+No footsteps.
+
+Nothing.
+
+I touched the stone again.
+
+Nothing.
+
+I tried the other stones.
+
+Nothing.
+
+I returned to the fourth.
+
+Again, nothing.
+
+Perhaps the first sensation had been my own pulse.
+
+Perhaps the cold had made my fingers unsteady.
+
+Perhaps a cart had passed somewhere beyond the trees.
+
+I could not tell.
+
+So I wrote the only conclusion I could defend.
 
 The stones may not be markers.
 
-I did not write what they might be.
+I stared at the sentence.
 
-I did not know.
+Then added another.
 
-That distinction mattered.
+No conclusion yet.
+
+I closed the notebook.
+
+The old boundary stretched away through the frost, disappearing beneath roads, walls, houses, and years of alterations.
+
+For generations, people had built over it.
+
+Changed it.
+
+Renamed it.
+
+Forgotten it.
+
+Yet something had remained.
+
+I did not know what the line had once separated.
+
+I did not know why the stones still stood.
+
+And I certainly did not know why one of them had seemed to move beneath my hand.
+
+That was the problem.
+
+For the first time, the three cases no longer looked entirely separate.
+
+But neither did they look connected enough to explain.
+
+There was a line beneath the town.
+
+I had found it.
+
+I had not yet found out where it led.
