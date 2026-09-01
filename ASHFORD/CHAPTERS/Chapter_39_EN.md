@@ -1,55 +1,113 @@
-# Chapter 39 — The Watcher's Decision
+CHAPTER 39 — THE HOUSE AT THE END OF THE LANE
 
-The days after my report to the Order were quiet, the way the days after a test often are. I had been accepted by the Order, and I had been accepted by the agreement, and I had begun to see the town as a place where two worlds existed side by side. I went to Margaret's for bread on the twenty-eighth of March, and she looked at me the way a woman looks at a man who has been carrying a weight that is not his own. "You have been gone," she said. "You have been gone, and you have come back, and you have not told me where you have been." "I have been working," I said. "I have been helping the constable."
+The house appeared where no house should have been.
 
-She looked at me, and I saw that she did not believe all of it, but she did not press. "The bread is in the oven," she said. "It will be ready in an hour. Come back then, and I will have it for you." I nodded, and I went out into the lane. I walked through the streets of Ashford with the weight of the coin in my pocket, and I felt the town as a place that was not a town—it was a collection of agreements, a network of boundaries, a web of choices.
+Three people saw it.
 
-I went home and wrote in my book: *28 Mar. I have been accepted by the Order, and I have been accepted by the agreement. I am the Watchman, and I am the keeper. I do not know what the future will bring, but I know that I am part of it.*
+None could agree on its colour.
 
----
+All agreed that it had stood there.
 
-I had been a member of the Order for three weeks, and I had not been given another assignment. I had been watching, and I had been waiting, and I had been learning. The Order was not a single thing—it was a network of people, each with their own role, each with their own secrets. Eleanor Shaw was the one who gave the orders, and Silas Crowe was the one who enforced them. But there were others, and I had not met them all.
+By the time I arrived, it was gone.
 
-On the first of April, I was called to the old mill for a meeting. Crowe was there, and he did not look at me the way he had before. His face was the face of a man who has been given orders, and is about to give them to someone else. "Watchman," he said. "You have been trusted, and you have been tested, and you have been accepted. Now you will be given a task that is not a test. It is a task that you will perform for the Order." I waited. "There is a man in the town," he said. "He has been moving the stones, and he has been opening the doors. He is not one of us. He is a rogue, and he must be stopped. You will find him, and you will stop him."
+Only flattened grass remained.
 
-I nodded, and I went out into the lane. I went to Calloway's office and told him what I had been asked to do. He listened without interrupting, and when I had finished, he said, "You must do what you think is right." I went home and wrote in my book: *1 Apr. I have been given a real task. I am to find a man who has been moving the stones and opening the doors, and I am to stop him. I do not know who he is, or why he is doing it. But I know that I must find out.*
+Finch found an old record of a house on the same ground.
 
----
+The record ended abruptly.
 
-I found the rogue on the third of April, at the boundary stone near the old mill. He was a young man, perhaps twenty-five, with a face that was not old and not young, and he was moving the stone with his hands. "Who are you?" I said. He looked up, and he did not seem surprised. "I am the one who is breaking the agreement," he said. "And you are the one who is supposed to stop me." He stood up, and I saw that he was not afraid. "The agreement is a lie," he said. "It was made by a man who was afraid of what he had found. Aurelius Ashcroft made the agreement to keep himself prisoner. He sealed the thing inside the space beneath the mill, and he made the agreement to keep it sealed. But the thing is not a prison. It is a power, and it has been waiting for someone to use it."
+No sale.
 
-I did not know what to say, and I did not know what to do. "You are the keeper," he said. "And you have kept the agreement. But you have not asked what the agreement is for. You have not asked what is inside the space beneath the mill." I did not answer. "The thing inside the space is a power," he said. "A power that was left by Aurelius Ashcroft. And it is waiting for someone to use it." He stepped away from the stone, and I saw that it was not a stone of the old boundary. It was a new stone, placed by him, and it was meant to be moved. I looked at the stone, and I looked at the man, and I did not know what to do. I went home and wrote in my book: *3 Apr. I have found the rogue, and I have not stopped him. He told me that the agreement is a lie, and that the thing inside the space beneath the mill is a power. I do not know if he is right. But I know that I must find out.*
+No demolition order.
 
----
+No inheritance.
 
-On the fifth of April, I went to the old constable. I had not spoken to him since I had renewed the agreement, but I knew that he had been keeping the agreement for a long time, and I knew that he might know the truth. He was in the back room of the house at the end of the lane, as I had found him before, and he looked at me the way a man looks at a thing he has been expecting. "You have found the rogue," he said. It was not a question. I nodded. "He has told you that the agreement is a lie," said the old constable. "He has told you that the thing inside the space beneath the mill is a power." I nodded. "He is not wrong," said the old constable. "The agreement is not a lie, but it is not the whole truth. The thing inside the space is a power, and it was left by Aurelius Ashcroft. But he did not leave it because he was afraid. He left it because he knew that it was not time to use it."
+Nothing.
 
-I sat down, and I waited. "Aurelius Ashcroft was not a keeper," said the old constable. "He was a watcher. He watched the boundaries, and he watched the agreements, and he watched the power that he had found. He made the agreement to keep the power sealed until the time was right. He knew that the power would be needed, but he did not know when." I felt the weight of his words settle over me. "The time is not right," I said. "No," said the old constable. "But it is coming."
+Just absence.
 
-I left the house at dawn, and I wrote in my book: *5 Apr. The old constable has told me that Aurelius Ashcroft was not a keeper, but a watcher. He made the agreement to keep the power sealed until the time was right. I do not know when the time will be right. But I know that I am the one who will decide.* I put the gear and the bell back in the drawer, and I waited.
+That bothered me more than the house itself.
 
----
+The trail led to Bellweather Lane.
 
-On the tenth of April, I was called to the old mill by Crowe. He did not speak to me when I arrived; he gestured for me to follow him down into the space beneath the town. The room was the same as I had seen it before, but there was something different: the light from the walls was brighter, and the air was warmer. "You have found the rogue," he said. "And you have found the truth. The agreement is not a lie, but it is not the whole truth. The thing inside the space is a power, and it has been waiting for the time to be right." He looked at me, and his face was the face of a man who has been waiting for a long time. "The time is now," he said. "And you are the one who must decide."
+At the end stood another house.
 
-I looked at the gear in my hand, and the bell on the shelf, and I did not know what to do. I went home and wrote in my book: *10 Apr. The time is now. Crowe has told me that the thing inside the space is a power, and that the time has come to use it. I do not know if he is right. But I know that I am the one who must decide.* I sat with the gear and the bell, and I did not move.
+The one I had noticed months before.
 
-On the twelfth of April, I went to Calloway's office. He was sitting at his desk, as always, and I sat down across from him. "I have been asked to open the door," I said. "I have been told that the thing inside the space is a power, and that it has been waiting for the time to be right." "And what do you believe?" "I believe that the agreement was made for a reason," I said. "I believe that Aurelius Ashcroft knew what he was doing. He was not afraid. He was watching. He was waiting for the time to be right." Calloway looked at me, and I saw that he was not sure. "Then you must decide if the time is now," he said.
+Rosemary on the sill.
 
-I nodded, and I went out into the lane. I walked to the house at the end of the lane, and I knocked on the door. The old constable opened it, and he looked at me the way a man looks at a thing he has been waiting for. "I have decided," I said. "I will not open the door. I will not break the agreement. I will keep it, because it is the right thing to do." The old constable nodded, and he did not say anything. I went home and wrote in my book: *12 Apr. I have decided. I will keep the agreement. I will not open the door. I will not use the power. I will wait, and I will watch.*
+Window open.
 
----
+Always quiet.
 
-The days after my decision were quiet, the way the days after a choice often are. I had kept the agreement, and I had not broken the seal, and I had not used the power. I had done what I thought was right, and I had not let myself be persuaded. I went to Margaret's for bread on the fifteenth of April, and the shop was empty. Margaret stood behind the counter with the same cloth in her hand, and she looked at me the way a woman looks at a man who has been carrying a thing that he has finally put down. "You have decided," she said. It was not a question. I nodded. "The agreement is not a matter of right or wrong," she said. "It is a matter of choosing. You have chosen, and you have chosen well. The agreement will be kept, and the town will be safe."
+I had never entered.
 
-I took the bread and went home, and I wrote in my book: *15 Apr. I have kept the agreement. I have not opened the door, and I have not used the power. I have done what I thought was right. The agreement will be kept, and the town will be safe.*
+Until that evening.
 
-On the seventeenth of April, I was called to the old mill for a meeting of the Order. Crowe was there, and Eleanor was there, and the others were there. They looked at me the way a group of people look at a man who has made a choice that they did not expect. "You have kept the agreement," said Crowe. I nodded. "You have not broken the seal, and you have not used the power. You have chosen to keep the agreement, and you have chosen to wait." "I have chosen to wait," I said. Crowe nodded, and I saw that he was not angry. He was not satisfied, but he was not angry. "The agreement will be kept," he said. "And you will be the one who keeps it." I nodded, and I went out into the lane.
+The door was unlocked.
 
-I went home and wrote in my book: *17 Apr. I have kept the agreement, and the Order has accepted my decision. I am the keeper of the agreement, and I will keep it until the time is right.*
+Inside, the rooms were furnished.
 
----
+Someone lived there.
 
-The months passed, and I kept the agreement. I did not open the door, and I did not use the power. I watched the boundaries, and I watched the stones, and I watched the Order. I was the keeper, and I was the watcher, and I was the one who would decide when the time was right. I went to Margaret's for bread, and I went to Calloway's office for news, and I went to the house at the end of the lane to speak to the old constable. I lived in the town, and I kept the agreement, and I waited.
+In the back room sat an old man.
 
-On the first of May, I wrote in my book: *1 May. I have kept the agreement for six weeks. The boundaries are still, and the stones are still, and the space beneath the mill is sealed. I do not know when the time will be right. But I know that I am the one who will decide.* I shut the book, and the lamp came at nine, and was carried away along the rooms, and no sound came. I let it stand. I was the keeper of the agreement, and I would keep it until the time was right.
+He looked at me.
+
+"You have been looking for the stones."
+
+"Who are you?"
+
+"Someone who has been waiting."
+
+He did not give his name.
+
+Instead, he pointed toward the chair.
+
+"Sit."
+
+I did.
+
+For nearly an hour, he said almost nothing.
+
+Then:
+
+"You have found the line."
+
+"I think so."
+
+"You have found the door."
+
+"Yes."
+
+"And you have found the object."
+
+I looked at him.
+
+"How do you know?"
+
+He smiled faintly.
+
+"Because the town has begun remembering."
+
+I did not understand.
+
+He did not explain.
+
+Before I left, he said:
+
+"The line was moved once."
+
+"Why?"
+
+"Because someone wanted something forgotten."
+
+"Forgotten?"
+
+"Not destroyed."
+
+He looked toward the window.
+
+"Forgotten."
+
+That was all.
