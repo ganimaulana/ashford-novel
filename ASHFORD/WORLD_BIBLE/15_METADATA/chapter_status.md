@@ -41,6 +41,18 @@ Last Updated: 2026-08-29 (repaired under LIVING_CANON_TIMELINE_SOP; previous ent
 | 033 | The First Week | 1–4 Jan 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_33_EN.md` | Generated 2026-08-31; new year — the man asks for the parish's old books at the vestry and is refused; fifth round clean |
 | 034 | The Wardens' Word | 5–6 Jan 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_34_EN.md` | Generated 2026-08-31; Twelfth Day — wardens named (Goding, Hare); Goding met at the market cross, Thursday appointment given; draper's door-bell |
 | 035 | Goding's Farm | 9 Jan 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_35_EN.md` | Generated 2026-08-31; Goding's word given for the Saturday account; his 1809 day-of memory; two newer stones at the mill-yard corner wall |
+| 036 | The Constable's Offer and the First Cases | Jan 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_36_EN.md` | Promoted 2026-09-01 per Phase 3H D5; gear introduction, Calloway setup (structural revisions applied) |
+| 037 | The Line Beneath the Town | Jan 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_37_EN.md` | Promoted 2026-09-01 per Phase 3H D5; symbol correction, boundary line (structural revisions applied) |
+| 038 | The Space Beneath | Jan–Feb 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_38_EN.md` | Promoted 2026-09-01 per Phase 3H D5; mill status, Marlow renaming (structural revisions applied) |
+| 039 | The House at the End of the Lane | Feb 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_39_EN.md` | Promoted 2026-09-01 per Phase 3H D5; Bellweather House conflation, Finch reassignment (structural revisions applied) |
+| 040 | The Agreement | Feb 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_40_EN.md` | Promoted 2026-09-01 per Phase 3H D5; Aurelius reaction, Leon family references (structural revisions applied) |
+| 041 | The Order of Severence | Mar 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_41_EN.md` | Promoted 2026-09-01 per Phase 3H D5; Order identity alignment (structural revisions applied) |
+| 042 | The Watchman | Mar–Apr 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_42_EN.md` | Promoted 2026-09-01 per Phase 3H D5; Watchman/Keeper terminology canonized (structural revisions applied) |
+| 043 | The First Test | Apr 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_43_EN.md` | Promoted 2026-09-01 per Phase 3H D5; minor continuity adjustments (structural revisions applied) |
+| 044 | The Watcher's Burden | Apr–May 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_44_EN.md` | Promoted 2026-09-01 per Phase 3H D5; bell strike removal, dialogue repetition (structural revisions applied) |
+| 045 | The Cracks | May 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_45_EN.md` | Promoted 2026-09-01 per Phase 3H D5; time bridge, house phenomenon merge (structural revisions applied) |
+| 046 | The Renewal | May 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_46_EN.md` | Promoted 2026-09-01 per Phase 3H D5; gear handover fix (structural revisions applied) |
+| 047 | The Keeper's Vigil | May–Jun 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_47_EN.md` | Promoted 2026-09-01 per Phase 3H D5; bell strike removal (structural revisions applied); Leon becomes Keeper of the Agreement |
 
 ## Legacy Notes
 
@@ -52,4 +64,5 @@ Last Updated: 2026-08-29 (repaired under LIVING_CANON_TIMELINE_SOP; previous ent
 
 - **OFFICIAL / LOCKED**: published English chapters 001–008; edits require explicit approval.
 - **OFFICIAL (living canon)**: chapters generated under the SOP; they are canon from generation forward (SOP §18) and feed the continuity loop.
+- **UNDER REVISION**: chapters currently being structurally revised; not yet final canon. Once revision is approved, status will be upgraded to OFFICIAL (living canon) or OFFICIAL / LOCKED.
 - **ARCHIVE**: preserved out-of-canon material; reference only.

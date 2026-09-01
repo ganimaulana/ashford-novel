@@ -472,7 +472,7 @@ I took the map.
 
 Calloway's expression hardened.
 
-"Everything happened along it."
+"Everything happened along it, they say."
 
 Then he walked away.
 
@@ -552,9 +552,9 @@ I crouched beside it.
 
 There was a mark near the lower half.
 
-A circle.
+a circle crossed by a short line.
 
-A short line crossed it.
+It was not the same mark I had seen before.
 
 I stared at it.
 

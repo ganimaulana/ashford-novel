@@ -34,7 +34,7 @@ Surgeon whose child died from a rare disease. She originally researched tissue r
 Silas Crowe focuses on acquiring biological material. Beatrice focuses on patient survivability. This creates tension between acquisition and ethics.
 
 ## Relationships
-- **Miriam Vale:** Scientific/surgical collaboration with different ethical priorities
+- **Miriam Vale:** (SUPERSEDED 2026-09-01 — see ARCHIVE/SUPERSEDED_PROFILES/) Scientific/surgical collaboration with different ethical priorities
 - **Silas Crowe:** Acquisition versus survivability conflict
 
 ## Secrets

@@ -1,55 +1,44 @@
 # Eleanor Shaw
 
-**Status:** 📙 DRAFT / [CANDIDATE]
-**Version:** 1.0
-**Last Updated:** 2026-08-31
-**Canon Status:** PROPOSED — NOT YET CANON
+**Status:** 📗 CANON
+**Version:** 2.0
+**Last Updated:** 2026-09-01
+**Canon Status:** CANON — first appearance Chapter 41 (per Phase 3H Decision 7, Order of Severence promoted to CANON as boundary/severance faction)
 
 ---
 
 ## Basic Identity
 - **Full Name:** Eleanor Shaw
 - **Title:** The Archivist
-- **Age:** 34
+- **Age:** To be developed
 - **Role:** Records / Intelligence, Order of Severence
-- **Power:** Memory Imprint
 - **Organization:** Order of Severence
 
-## Power: Memory Imprint
-Can obtain fragments of residual memory from objects strongly associated with a person.
-
-Examples:
-- Ring → fragment of a voice
-- Knife → visual impression
-- Clothing → emotional residue
-
-Not direct mind reading.
+## Power
+Per Phase 3H D7: No Power/Power-User content is canon. Eleanor Shaw operates as a human member of the Order unless later canon explicitly establishes supernatural abilities.
 
 ## Background
-Former administrative worker involved in records concerning Power Users. She discovered that people could effectively disappear from official records.
-
-She began stealing information and providing it to Order of Severence.
+To be developed canonically in later chapters.
 
 ## Conflict
-She understands the importance of human identity while working for an organization that increasingly treats humans as biological resources.
+To be developed canonically in later chapters.
 
 ## Relationships
-- **Rose Whitmore:** Intelligence/history connection
+To be developed canonically in later chapters.
 
 ## Secrets
 ### Public Knowledge
-- Former administrative worker
+- Order member
 
 ### Private Secret
-- Records/Intelligence officer for Order of Severence
-- Stole information about disappeared Power Users
+- To be developed canonically in later chapters.
 
 ### Hidden Canon
-- Full extent of records she has accessed and hidden
-- Her growing discomfort with the organization's treatment of humans as resources
+- To be developed canonically in later chapters.
 
 ---
 
-**Status:** 📙 DRAFT / [CANDIDATE]
-**Version:** 1.0
-**Last Updated:** 2026-08-31
+**Status:** 📗 CANON
+**Version:** 2.0
+**Last Updated:** 2026-09-01
+**Superseded version:** v1.0 (Memory Imprint / Power-User framing) archived at `ARCHIVE/SUPERSEDED_PROFILES/` — see related archived character profiles.

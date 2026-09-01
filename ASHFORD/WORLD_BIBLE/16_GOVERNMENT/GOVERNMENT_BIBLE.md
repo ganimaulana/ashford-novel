@@ -328,7 +328,7 @@ Some clergy support:
 | James Holloway | 51 | Local constable | Non-political |
 
 **Name Conflicts:**
-- **Jonathan Mercer** — conflicts with existing character Elias Mercer (Order of Severence). Requires renaming.
+- **Jonathan Mercer** — conflicts with existing character Elias Mercer (Order of Severence — SUPERSEDED 2026-09-01). Requires renaming.
 - **Nathaniel Crowe** — conflicts with existing character Silas Crowe (Hidden World). Requires renaming.
 - **James Holloway** — conflicts with existing character Beatrice Holloway (Hidden World). Requires renaming.
 
@@ -409,7 +409,7 @@ Rose through education and legal profession.
 Enjoys political games.
 Can speak about justice for an hour while secretly counting votes.
 
-**NOTE:** Conflicts with existing character **Elias Mercer** (Order of Severence founder). Requires new surname.
+**NOTE:** Conflicts with existing character **Elias Mercer** (Order of Severence — SUPERSEDED 2026-09-01). Requires new surname.
 
 ---
 

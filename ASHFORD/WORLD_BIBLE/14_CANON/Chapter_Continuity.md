@@ -20,6 +20,39 @@ Dokumen ini mencatat **konflik**, **inkonsistensi**, dan **pertanyaan kontinuita
 
 ---
 
+## Deferral Log (Bukan Konflik — Thread yang Ditunda Eksplisit)
+
+Thread yang secara eksplisit dibiarkan terbuka/didefer per keputusan author. Tidak boleh dianggap sebagai konflik (karena bukan ketidaksesuaian antar-chapter) dan tidak boleh dihapus/diam-diam di-drop.
+
+### Deferral D-001: Goding Thread (Ch 35 → Ch 36+)
+
+**Kategori:** Deferral / Open thread (bukan konflik)
+
+**Status:** OPEN / DEFERRED per Phase 3H Decision 8 (2026-09-01)
+
+**Konteks:**
+- Ch 35 (9 Jan 1817, OFFICIAL canon) menutup dengan thread Goding terbuka: 1809 Saturday vestry account, hari-hari Goding, dan penemuan "two newer stones at the mill-yard corner wall" (per `15_METADATA/chapter_status.md` Ch 35 entry).
+- Ch 36 (Jan 1817, sekarang OFFICIAL per Phase 3H D5) memulai arc baru: tawaran Calloway untuk Leon bekerja pada tiga kasus (Greyhound, Mrs. Hart, Mill Lane clock), yang mengarah ke gear, Order of Severence, dan arc Keeper.
+- Ch 36–47 tidak merujuk ke thread Goding.
+
+**Keputusan author (Phase 3H D8, 2026-09-01):**
+- Thread Goding TIDAK dihapus, TIDAK di-retcon, TIDAK diselesaikan secara implisit.
+- Thread tetap canonically OPEN/DEFERRED.
+- Status ini dicatat secara eksplisit di sini agar thread tidak silently dropped.
+
+**Sumber:**
+- Phase 3H §9 Decision 8 (2026-09-01)
+- `15_METADATA/chapter_status.md` Ch 35 entry
+
+**Catatan kontinuitas:**
+- Penundaan eksplisit, bukan konflik.
+- Tidak boleh diselesaikan tanpa keputusan author di masa depan.
+- Dapat dilanjutkan dalam Ch 48+ atau tetap terbuka hingga narasi memerlukannya.
+
+**Tanggal pencatatan:** 2026-09-01
+
+---
+
 ## Template Entry Konflik
 
 ```markdown

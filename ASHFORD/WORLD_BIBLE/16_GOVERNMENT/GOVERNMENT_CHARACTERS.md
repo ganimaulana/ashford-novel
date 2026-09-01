@@ -22,7 +22,7 @@ No political character is purely good or evil.
 
 | Proposed Name | Conflict | Resolution |
 |---------------|----------|------------|
-| Jonathan Mercer | Elias Mercer (Order of Severence founder) | Renamed to **Jonathan Pryce** |
+| Jonathan Mercer | Elias Mercer (Order of Severence — SUPERSEDED 2026-09-01) | Renamed to **Jonathan Pryce** |
 | Nathaniel Crowe | Silas Crowe (Hidden World character) | Renamed to **Nathaniel Vaughn** |
 | James Holloway | Beatrice Holloway (Hidden World character) | Renamed to **James Calloway** |
 
@@ -126,7 +126,7 @@ He understands poverty intellectually but has never experienced it.
 **Profession:** Attorney / solicitor
 **Alignment:** Reform Coalition
 **Status:** DRAFT
-**Note:** Renamed from Jonathan Mercer due to conflict with Elias Mercer (Order of Severence)
+**Note:** Renamed from Jonathan Mercer due to conflict with Elias Mercer (Order of Severence — SUPERSEDED 2026-09-01)
 
 **Background:**
 Son of merchant family.

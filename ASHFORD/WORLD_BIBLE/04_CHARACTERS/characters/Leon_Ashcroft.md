@@ -163,8 +163,8 @@ If he discovers that someone he trusted has been deliberately deceiving him, he 
 
 ### Hidden Canon
 - Leon's full motivation for coming to Ashford may include personal or family reasons not yet disclosed.
-
 ## Layer Architecture
+
 Leon operates on **four compartmentalized layers**. See `LEON_LAYER_ARCHITECTURE.md` for full specification.
 
 | Layer | Identity | Who Knows |
@@ -175,6 +175,16 @@ Leon operates on **four compartmentalized layers**. See `LEON_LAYER_ARCHITECTURE
 | **4** | Aurelius Ashcroft (full legacy) | Inner Circle only |
 
 **Current layer (End of Ch 8):** Layer 1 → transitioning to Layer 2.
+
+**Civic Watchman role (added 2026-09-01 per Phase 3H D4):**
+Distinct from the layer architecture. Established Ch 10–35 as a parish-watch enrollment. The Ch 42 line "Then you shall keep watch" applies a transitional civic-framed phrase; it does not replace any layer and does not confer a hidden-organization identity. The Watchman role remains a public, civic identity.
+
+**Keeper guardianship (added 2026-09-01 per Phase 3H D4):**
+At the end of Ch 47, with the death of Thomas Vale, Leon becomes the formal Keeper under the Agreement. This is a guardianship title external to the layer architecture, but it interacts with Layer 3/4 because the Keeper role is one element of what the Order of Severence watches. The Keeper role is therefore layered:
+
+- Publicly: Leon is a former civic Watchman.
+- Privately (Layer 3): Leon is a member of the secret organization.
+- As Keeper: Leon holds guardianship over the sealed door beneath the mill, under the Agreement signed by his ancestor.
 
 **Permanent surface contacts (Layer 1 only):**
 - Daniel James Carter — will never be initiated

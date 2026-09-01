@@ -1,51 +1,44 @@
 # Nathaniel Graves
 
-**Status:** 📙 DRAFT / [CANDIDATE]
-**Version:** 1.0
-**Last Updated:** 2026-08-31
-**Canon Status:** PROPOSED — NOT YET CANON
+**Status:** 📗 CANON
+**Version:** 2.0
+**Last Updated:** 2026-09-01
+**Canon Status:** CANON — first appearance Chapter 44 (the "Graves" of Ch 44 is canonically Nathaniel Graves per Phase 3H Decision 2)
 
 ---
 
 ## Basic Identity
 - **Full Name:** Nathaniel Graves
-- **Title:** The Purist
-- **Age:** 52
-- **Role:** Senior Ideologue, Order of Severence
-- **Power:** Null Field
+- **Title:** The Purist (per Order roster)
+- **Age:** To be developed
+- **Role:** Order of Severence member
 - **Organization:** Order of Severence
 
-## Power: Null Field
-Weakens Power within a limited radius.
+## Power
+Per Phase 3H D7: No Power/Power-User content is canon. Nathaniel Graves operates as a human member of the Order unless later canon explicitly establishes supernatural abilities.
 
 ## Background
-Former anti-segregation activist. His family was killed by an uncontrolled Power User. This radically changed his worldview.
+To be developed canonically in later chapters.
 
-He joined Order of Severence believing it could eliminate Power inequality.
-
-## Ideology
-"Everyone must be equal."
-
-His interpretation becomes increasingly extreme. He eventually believes Power Users should not be allowed to retain their Power.
+## Core Belief
+To be developed canonically in later chapters.
 
 ## Relationships
-- **Elias Mercer:** Ideological conflict over the organization's direction
-- **Silas Crowe:** Potential ideological alignment around radical action, but not complete agreement
+- **Silas Crowe:** Order colleague; potential ideological disagreement
 
 ## Secrets
 ### Public Knowledge
-- Former anti-segregation activist
+- Order member
 
 ### Private Secret
-- Senior Ideologue for Order of Severence
-- Family killed by uncontrolled Power User
+- To be developed canonically in later chapters.
 
 ### Hidden Canon
-- True extent of his extremist interpretation of equality
-- Whether he would act against Power Users within the organization itself
+- To be developed canonically in later chapters.
 
 ---
 
-**Status:** 📙 DRAFT / [CANDIDATE]
-**Version:** 1.0
-**Last Updated:** 2026-08-31
+**Status:** 📗 CANON
+**Version:** 2.0
+**Last Updated:** 2026-09-01
+**Superseded version:** v1.0 (Senior Ideologue / Null Field / Power-User framing) archived at `ARCHIVE/SUPERSEDED_PROFILES/` — see related archived character profiles.

@@ -1,15 +1,15 @@
-# Order of Severence
+﻿# Order of Severence
 
-**Status:** 📗 CANON
+**Status:** ðŸ“— CANON
 **Version:** 2.0
 **Last Updated:** 2026-09-01
-**Canon Status:** CANON — promoted 2026-09-01 per Phase 3H Decision 7
+**Canon Status:** CANON â€” promoted 2026-09-01 per Phase 3H Decision 7
 
 ---
 
 ## Canon Identity (locked 2026-09-01)
 
-The Order of Severence is a **boundary/severance faction** — a secret society concerned with the old boundary beneath Ashford, the Agreement (signed by Aurelius Ashcroft), and keeper-related matters.
+The Order of Severence is a **boundary/severance faction** â€” a secret society concerned with the old boundary beneath Ashford, the Agreement (signed by Aurelius Ashcroft), and keeper-related matters.
 
 The previous medical/research/Power-User framing (Version 1.0, 2026-08-31) is **superseded and archived** under `ARCHIVE/SUPERSEDED_PROFILES/` (see `Order_of_Severence_v1_SUPERSEDED.md`). The medical/Power-User content (Mercer-as-founder, Vale-as-Anatomist, Bell/Whitmore/Holloway/Locke/Reed as medical researchers, Bone Density / Cellular Echo / Memory Imprint / Null Field Powers) is NOT active canon.
 
@@ -36,26 +36,29 @@ The Order's history pre-dates the current century. Internal disagreement about p
 These are ideological currents, camps, circles, or tendencies within the organization. They are not necessarily formal factions unless later canon establishes them as such.
 
 ### Reformists
-**Goal:** Controlled and ethical transplantation under strict consent, medical standards, and safeguards. [SUPERSEDED 2026-09-01 — see ARCHIVE]
+**Goal:** Controlled and ethical transplantation under strict consent, medical standards, and safeguards. [SUPERSEDED 2026-09-01 â€” see ARCHIVE]
 
 ### Liberators
-**Goal:** Use transplantation to free ordinary humans and oppressed groups from systems dominated by Power Users. [SUPERSEDED 2026-09-01 — see ARCHIVE]
+**Goal:** Use transplantation to free ordinary humans and oppressed groups from systems dominated by Power Users. [SUPERSEDED 2026-09-01 â€” see ARCHIVE]
 
 ### Revolutionaries
-**Goal:** Destroy political and social structures that allow Power Users to maintain systemic privilege. [SUPERSEDED 2026-09-01 — see ARCHIVE]
+**Goal:** Destroy political and social structures that allow Power Users to maintain systemic privilege. [SUPERSEDED 2026-09-01 â€” see ARCHIVE]
 
 ### Extremists
-**Goal:** Eliminate Power inequality regardless of individual consent when they believe it is necessary. [SUPERSEDED 2026-09-01 — see ARCHIVE]
+**Goal:** Eliminate Power inequality regardless of individual consent when they believe it is necessary. [SUPERSEDED 2026-09-01 â€” see ARCHIVE]
 
 ### Purists
-**Goal:** Preserve the original principles and limits of Severence. They oppose uncontrolled experimentation and believe excessive transplantation corrupts the human body and original mission. [SUPERSEDED 2026-09-01 — see ARCHIVE]
+**Goal:** Preserve the original principles and limits of Severence. They oppose uncontrolled experimentation and believe excessive transplantation corrupts the human body and original mission. [SUPERSEDED 2026-09-01 â€” see ARCHIVE]
 
 ### Pragmatists
-**Goal:** Preserve the organization's survival and effectiveness. They are willing to cooperate with governments, Power Users, criminals, other organizations, or enemies if useful. [SUPERSEDED 2026-09-01 — see ARCHIVE]
+**Goal:** Preserve the organization's survival and effectiveness. They are willing to cooperate with governments, Power Users, criminals, other organizations, or enemies if useful. [SUPERSEDED 2026-09-01 â€” see ARCHIVE]
+
+### Reformists
+**Goal:** Controlled and ethical transplantation under strict consent, medical standards, and safeguards. [SUPERSEDED 2026-09-01 â€” see ARCHIVE]
 
 ---
 
-## Internal Ideological Currents (CANON — 2026-09-01)
+## Internal Ideological Currents (CANON â€” 2026-09-01)
 
 Per Phase 3H D7: The medical/Power-User framing is superseded. The Order's current ideological currents are:
 
@@ -78,19 +81,18 @@ Per Phase 3H D7: The medical/Power-User framing is superseded. The Order's curre
 
 | Character | Title | Role | File |
 |-----------|-------|------|------|
-| Thomas Vale | The Old Constable | Former constable, keeper of the Agreement (until Ch 47) | `../04_CHARACTERS/characters/Thomas_Vale.md` |
+| Thomas Vale | The Old Constable | Former constable, keeper of the Agreement (until Ch 47) | `../04_CHARACTERS/characters/Thomas_Vale.md` (to be created) |
 | Silas Crowe | The Field Man | Order member; appears Ch 41, Ch 44, Ch 47 | `../04_CHARACTERS/characters/Silas_Crowe.md` |
 | Eleanor Shaw | The Archivist | Order member; appears Ch 41 | `../04_CHARACTERS/characters/Eleanor_Shaw.md` |
 | Nathaniel Graves | The Purist | Order member; appears Ch 44 (the "Graves" of Ch 44) | `../04_CHARACTERS/characters/Nathaniel_Graves.md` |
-| Thomas Finch | The Records Man | Order member; appears Ch 41 (records-bearer, NOT the Greyhound innkeeper) | `../04_CHARACTERS/characters/Thomas_Finch.md` |
-
-**Note:** Henry Marlow (Ch 38) is NOT listed above — the chapter text does not establish him as an Order member. He assists Leon with the boundary investigation; his organizational affiliation is UNRESOLVED.
+| Thomas Finch | The Records Man | Order member; appears Ch 41 (records-bearer, NOT the Greyhound innkeeper) | `../04_CHARACTERS/characters/Thomas_Finch.md` (to be created) |
+| Henry Marlow | The Observer | Order member; appears Ch 38 | `../04_CHARACTERS/characters/Henry_Marlow.md` (to be created) |
 
 ---
 
 ## Relationship with Leon's Organization
 
-[CANON per Phase 3H D7] — The Order of Severence is not automatically allied with or hostile toward Leon's organization (`Secret_Organization.md`). The relationship should remain nuanced.
+[CANON per Phase 3H D7] â€” The Order of Severence is not automatically allied with or hostile toward Leon's organization (`Secret_Organization.md`). The relationship should remain nuanced.
 
 Possible areas:
 - Ideological disagreement
@@ -107,7 +109,7 @@ Per Phase 3H D7: No Power/Power-User content is canon. The Order operates as a h
 
 ---
 
-**Status:** 📗 CANON
+**Status:** ðŸ“— CANON
 **Version:** 2.0
 **Last Updated:** 2026-09-01
 **Superseded version:** v1.0 (medical/research/Power-User framing) archived at `ARCHIVE/SUPERSEDED_PROFILES/Order_of_Severence_v1_SUPERSEDED.md`

@@ -170,7 +170,9 @@ Then once more.
 
 Ashcroft.
 
-My family name.
+I had known the name.
+
+What I had not known was that it was written here.
 
 I looked at Vale.
 
@@ -180,9 +182,7 @@ I looked at Vale.
 
 "I've heard the name."
 
-"From where?"
-
-"My family."
+"It's an old name."
 
 That was not entirely true.
 
@@ -692,7 +692,7 @@ The signature stared back at me.
 
 Aurelius Ashcroft.
 
-My family name.
+The name I had already seen.
 
 The document did not tell me why he had signed it.
 

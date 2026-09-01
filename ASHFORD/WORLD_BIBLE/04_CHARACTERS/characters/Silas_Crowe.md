@@ -1,54 +1,44 @@
 # Silas Crowe
 
-**Status:** 📙 DRAFT / [CANDIDATE]
-**Version:** 1.0
-**Last Updated:** 2026-08-31
-**Canon Status:** PROPOSED — NOT YET CANON
+**Status:** 📗 CANON
+**Version:** 2.0
+**Last Updated:** 2026-09-01
+**Canon Status:** CANON — first appearance Chapter 41 (per Phase 3H Decision 7, Order of Severence promoted to CANON as boundary/severance faction)
 
 ---
 
 ## Basic Identity
 - **Full Name:** Silas Crowe
-- **Title:** The Harvester
-- **Age:** 36
-- **Role:** Field Commander, Order of Severence
-- **Power:** Bone Density
+- **Title:** The Field Man
+- **Age:** To be developed
+- **Role:** Order of Severence member; field-level contact
 - **Organization:** Order of Severence
 
-## Power: Bone Density
-Can dramatically increase bone density.
-
-Effects:
-- Powerful strikes
-- Extremely durable bones
-- Resistance to major impacts
-- Increased body weight while active
+## Power
+Per Phase 3H D7: No Power/Power-User content is canon. Silas Crowe operates as a human member of the Order unless later canon explicitly establishes supernatural abilities.
 
 ## Background
-Former industrial laborer. His sibling was a Power User who disappeared after being arrested following a confrontation with an abusive employer.
-
-Silas later discovered that the sibling's body was used as biological material. He joined Order of Severence to expose the system and later became one of its most radical members.
+To be developed canonically in later chapters.
 
 ## Core Belief
-"They took from us first."
+To be developed canonically in later chapters.
 
 ## Relationships
-- **Beatrice Holloway:** Acquisition versus survivability conflict
-- **Nathaniel Graves:** Potential ideological alignment around radical action, but not complete agreement
+- **Nathaniel Graves:** Order colleague; potential ideological disagreement (Preservationist vs. Severant per Order of Severence internal currents)
 
 ## Secrets
 ### Public Knowledge
-- Former industrial laborer
+- Order member
 
 ### Private Secret
-- Field Commander for Order of Severence
-- Sibling's body was used as biological material
+- To be developed canonically in later chapters.
 
 ### Hidden Canon
-- Extent of his radicalization and willingness to acquire biological material by any means
+- To be developed canonically in later chapters.
 
 ---
 
-**Status:** 📙 DRAFT / [CANDIDATE]
-**Version:** 1.0
-**Last Updated:** 2026-08-31
+**Status:** 📗 CANON
+**Version:** 2.0
+**Last Updated:** 2026-09-01
+**Superseded version:** v1.0 (Field Commander / Bone Density / Power-User framing) archived at `ARCHIVE/SUPERSEDED_PROFILES/` — see related archived character profiles.

@@ -100,6 +100,19 @@
 **Status:** [PERTANYAAN TERBUKA]  
 **Interpretasi:** Belum diketahui
 
+### Symbols
+
+**Status:** 📗 CANON (2026-09-01, per Phase 3H D6)
+
+- **Symbol A:** circle + three lines + one dot. [CANON — medallion, per `CANON_LEON_PRE_ASHFORD.md` §6]
+- **Symbol B:** circle + short line. [CANON — boundary stones, mill door, gear, coin; per Ch 36–47]
+
+**These are canonically DISTINCT symbols.** They are not the same symbol.
+
+Their relationship — whether they share an origin, whether one derives from the other, whether they are related by history, family, organization, or any other connection — **remains an OPEN QUESTION** (Phase 3H D6). The previously-locked direction "historically related" is NOT canonized and is moved to Open_Questions.md as one hypothesis among several.
+
+**Source:** Author direction, canonized 2026-09-01.
+
 ---
 
 ## Mystery yang Masih Terbuka

@@ -30,7 +30,7 @@ He discovered Residual Power in tissue from deceased Power Users and became the 
 He sincerely wants to eliminate Power inequality but becomes increasingly convinced that he can control the consequences of his discovery.
 
 ## Relationships
-- **Miriam Vale:** Foundational scientific partnership with increasing ethical disagreement
+- **Miriam Vale:** (SUPERSEDED 2026-09-01 — see ARCHIVE/SUPERSEDED_PROFILES/) Foundational scientific partnership with increasing ethical disagreement
 - **Clara Bell:** Deep trust; Clara is one of his earliest voluntary donors
 - **Jonathan Reed:** Paternal relationship complicated by Jonathan's status as an experimental subject
 - **Nathaniel Graves:** Ideological conflict over the organization's direction

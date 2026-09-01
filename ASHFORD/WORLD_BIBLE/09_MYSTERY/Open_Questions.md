@@ -21,6 +21,27 @@
 
 ## Pertanyaan Utama
 
+### Symbol Relationship (Symbol A vs. Symbol B)
+
+**Pertanyaan:**
+1. Apakah Symbol A (circle + three lines + one dot — medallion) dan Symbol B (circle + short line — boundary/door/gear/coin) memiliki hubungan historis?
+2. Apakah keduanya berasal dari sumber yang sama?
+3. Apakah satu diturunkan dari yang lain?
+4. Apakah ada organisasi, keluarga, atau peristiwa yang menghubungkan keduanya?
+5. Apakah kemiripan mereka kebetulan atau disengaja?
+
+**Status:** [BELUM TERJAWAB] — Per Phase 3H D6 (2026-09-01): the symbols are canonically distinct, but their relationship (including the "historically related" hypothesis previously locked) is NOT canonized and remains an open question.
+
+**Hipotesis yang sedang dipertimbangkan (bukan canon):**
+- Mungkin keduanya secara historis terkait.
+- Mungkin kemiripan adalah kebetulan.
+- Mungkin satu organisasi menggunakan satu simbol dan kelompok lain menggunakan yang lain.
+- Mungkin hubungannya ada di masa lalu dan sekarang sudah terputus.
+
+**CATATAN:** Ini HIPOTESIS, bukan canon.
+
+---
+
 ### Bellweather House
 
 **Pertanyaan:**
@@ -113,6 +134,22 @@
 4. Mengapa seseorang tampaknya mengarahkan Leon ke mystery ini?
 
 **Status:** [BELUM TERJAWAB]
+
+### Watchman / Keeper / Boundary / Agreement / Bellweather House
+
+**Watchman (civic):** civic/local watch concept (established Ch 10–35). Leon's enrollment in the parish watch gave him the civic Watchman role. Per Phase 3H D4 (2026-09-01): "Watchman" is a transitional/civic role and does not replace Leon's existing layer architecture.
+
+**Hidden-organization layer (Layer 3):** Leon's membership in the secret organization is governed by the four-layer architecture in `Leon_Ashcroft.md`. The civic Watchman role and the Layer 3 role are separate identities; the chapter prose ("Then you shall keep watch") is read as a civic-framed phrase that does not collapse the two.
+
+**Keeper (guardianship):** Leon's formal guardianship title under the Agreement, established at the end of Ch 47 with the death of Thomas Vale. Per Phase 3H D4 (2026-09-01): "Keeper" is distinct from both the civic Watchman and from any hidden-organization layer. The Keeper role is layered — public (former civic Watchman), private Layer 3 (member of the secret organization), and Keeper (guardian of the sealed door beneath the mill, under the Agreement).
+
+**Boundary:** old property line with stones/door; origin and purpose unresolved.
+
+**Agreement:** document signed by Aurelius Ashcroft; full text and meaning unresolved.
+
+**Bellweather House / Disappearing House:** related but not identical. Relationship intentionally ambiguous.
+
+**Status:** LOCKED DIRECTION — Watchman/Keeper/Layer relationship canonized 2026-09-01. Details to be finalized in Phase 3 revision.
 
 ---
 

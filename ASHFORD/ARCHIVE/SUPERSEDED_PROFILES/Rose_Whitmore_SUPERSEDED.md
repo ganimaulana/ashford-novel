@@ -37,7 +37,7 @@ Do NOT make Rose a member of Leon's organization unless existing canon establish
 
 ## Relationships
 - **Eleanor Shaw:** Intelligence/history connection
-- **Miriam Vale:** Potential sympathy and ethical tension
+- **Miriam Vale:** (SUPERSEDED 2026-09-01 — see ARCHIVE/SUPERSEDED_PROFILES/) Potential sympathy and ethical tension
 
 ## Secrets
 ### Public Knowledge
