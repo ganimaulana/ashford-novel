@@ -935,6 +935,71 @@ Whenever a chapter establishes a new historical fact:
 
 ---
 
+# XXIX-A. ESTABLISHED CANON EVENTS — Chapters 1–47 (CANON EXTRACTION)
+
+The following events are CONFIRMED by locked/living canon chapters. Source notation provided per item. Evidence status: CONFIRMED unless stated otherwise.
+
+## Key dated events (historical, from chapters)
+
+- **[CONFIRMED] 1788 — Trust-roll:** A trust "purchased the whole frontage on the east side of the lane, from Bellweather House to Marlowe's garden wall." The same trust also purchased the mill. SOURCES: Ch 9.
+- **[CONFIRMED] 1791 — Bellweather House recorded:** Bellweather House appears in records; no number listed. SOURCE: Ch 7, 8.
+- **[CONFIRMED] c.1796 — Town history printed:** The town's history book was printed ~20 years before Ch 28 (c. 1796). SOURCE: Ch 28.
+- **[CONFIRMED] 1798 — Post office building dated 1798.** Originally a small administration office, later enlarged to a post office, now a stationer's shop. SOURCE: Ch 2.
+- **[CONFIRMED] November 1798 — "Key found" notice:** A notice posted at the town notice board (18 years before the present) asking for a key to be returned to "the house" on Bellweather Lane, no number, no name. SOURCE: Ch 1.
+- **[CONFIRMED] 1803 — Tower keys transferred:** The clerk's family took the keys from Hodge ("the third year"); from 1803 the tower opened only with two keys (clerk's + verger's). SOURCE: Ch 13.
+- **[CONFIRMED] 22 Feb 1804 — Aurelius Ashcroft died in London.** Will proved spring 1804. SOURCE: Ch 12.
+- **[CONFIRMED] 1804 — Schedule of effects proved spring 1804** from probate of the will. SOURCE: Ch 12, 21.
+- **[CONFIRMED] 1805 — Hobbs entered the poor-house ("year five").** Eleven years before November 1816. SOURCE: Ch 16.
+- **[CONFIRMED] 1806 — Academy copy made:** T. Wren gave the Academy a copy of the 1804 schedule, with a letter directing it be shown to any that should ask. The tenure blank is filled with the name **E. Hodge** in the copyist's hand. SOURCE: Ch 21.
+- **[CONFIRMED] 1808 — Subscription for the bell:** The town subscribed for the bell in year eight; Josiah Crane (the elder) gave to the bell, and the gift was returned to him in the same year, by the clerk's hand ("returned" note). SOURCE: Ch 20.
+- **[CONFIRMED] Michaelmas 1809 — Bell sold:** Josiah Crane of High Street, ironmonger, bought the bell for £4 10s, entered by T. Wren, clerk; money carried to the general account; bell removed from the tower inventory. SOURCE: Ch 13, 18, 20, 35.
+- **[CONFIRMED] 4 June 1810 — Paper re: bell:** "One taken away as agreed, from the store, and carried to the house by the church. Paid in the paper. No bell owing." Signed with a cross. The bell left Crane's yard in year ten. SOURCE: Ch 23.
+- **[CONFIRMED] 1812 — Josiah Crane (the elder) died.** The stock was counted by the bench's own counter; no bell in the counting. SOURCE: Ch 22.
+- **[CONFIRMED] 1816 — Present year.** Novel begins 12 Nov 1816.
+
+## Novel-era chronology (Ch 1–35, locked/living canon)
+
+- **[CONFIRMED] 12 Nov 1816:** Leon arrives by stagecoach (~19:42), reaches No. 13 (~19:58). Notes dated 12 Nov. Dream at 23:45. SOURCE: Ch 1.
+- **[CONFIRMED] 13–21 Nov 1816:** Annual disturbance cycle at Bellweather House (established by Calloway's predecessor's records). Dream begins on the 13th. SOURCE: Ch 8.
+- **[CONFIRMED] 19 Nov 1816 (Tuesday):** Arrival date implied (11 days in town by 30 Nov; 24 Nov was the first Sunday). SOURCE: Ch 9, 11.
+- **[CONFIRMED] 24 Nov 1816 (Sunday):** Leon first sees the light in the upper window of the end house. SOURCE: Ch 9.
+- **[CONFIRMED] 25 Nov 1816 (Monday):** Watch roll posted on the church door. SOURCE: Ch 11.
+- **[CONFIRMED] 26 Nov 1816 (Tuesday):** Leon visits Arthur; Pembroke & Clarke letter dated 24 Nov. SOURCE: Ch 12.
+- **[CONFIRMED] 28 Nov 1816 (Thursday, "the Thursday of the bell"):** Bell at the corner; footsteps overhead; Hobbs departs after a boy's message; his things were gathered before the call. SOURCE: Ch 12, 14, 16.
+- **[CONFIRMED] 29 Nov 1816 (Friday):** Churchwardens' reckoning examined; lamp appears in a small window. SOURCE: Ch 13.
+- **[CONFIRMED] 30 Nov 1816 (Saturday):** Watch meeting; Hobbs still missing; brass button given to Leon; Leon's first round (mill-yard gate found unlatched with oiled hinges). SOURCE: Ch 14.
+- **[CONFIRMED] 1 Dec 1816 (Sunday):** Church service; poor-house visit; Helen at her window; lamp at nine. 18 days in town. SOURCE: Ch 15.
+- **[CONFIRMED] 2 Dec 1816 (Monday):** Poor-house register examined; lamp at nine; Helen knocks. SOURCE: Ch 16.
+- **[CONFIRMED] 3 Dec 1816 (Tuesday):** Postmaster's nephew; bench man in Margaret's. SOURCE: Ch 17.
+- **[CONFIRMED] 3–4 Dec 1816:** Lamp at nine (3 Dec); first full-silence night (4 Dec) — no lamp, no sound; alternation held three nights, broke on the fourth. SOURCE: Ch 18.
+- **[CONFIRMED] 5 Dec 1816 (Thursday):** Leon goes to Arthur's; bench man holds the clerk's tower key. SOURCE: Ch 18.
+- **[CONFIRMED] 6–7 Dec 1816:** Second watch round; tower-door frost evidence (two comings, one going); frost since Tuesday. SOURCE: Ch 19.
+- **[CONFIRMED] 8 Dec 1816 (Sunday):** First snow; tower key given back; Arthur shows the 1808 subscription list (Crane "returned"). SOURCE: Ch 20.
+- **[CONFIRMED] 9 Dec 1816 (Monday):** Academy visit; Daniel shows the schedule with E. Hodge. SOURCE: Ch 21.
+- **[CONFIRMED] 10–11 Dec 1816:** Crane's shop; son interviewed; no bell in books/stock/store. SOURCE: Ch 22.
+- **[CONFIRMED] 12–13 Dec 1816:** Yard searched — no bell; chalk mark "4/10"; 1810 paper shown. SOURCE: Ch 23.
+- **[CONFIRMED] 14 Dec 1816 (Saturday):** Third round — mill-yard gate found open at 11; bell tolls at 1 on the lamp's night. SOURCE: Ch 24.
+- **[CONFIRMED] 15 Dec 1816 (Sunday):** Verger tells the four tellings of the gate. SOURCE: Ch 24.
+- **[CONFIRMED] 16 Dec 1816 (Monday):** Vestry rate meeting; Hobbs named; bench man sits where the wardens sit; rate at the bench's figure. SOURCE: Ch 25.
+- **[CONFIRMED] 18 Dec 1816:** Postmaster speaks of the "sort of man that wants houses." SOURCE: Ch 26.
+- **[CONFIRMED] 19 Dec 1816 (Thursday):** Helen's visit; Leon tests the bell (cold settles into bones). SOURCE: Ch 27.
+- **[CONFIRMED] 20 Dec 1816 (Friday):** Arthur tells of the man at his shop (previous day). SOURCE: Ch 28.
+- **[CONFIRMED] 21 Dec 1816 (Saturday):** Fourth round — gate shut all passes, footprints both sides; paper at Leon's door. SOURCE: Ch 29.
+- **[CONFIRMED] 22 Dec 1816 (Sunday):** Fifth note opened — "you are not called." The stranger takes the inn room for the month over Christmas. SOURCE: Ch 30.
+- **[CONFIRMED] 23–25 Dec 1816:** Christmas week; rate in the bread; 17th–21st readings. SOURCE: Ch 31.
+- **[CONFIRMED] 26–31 Dec 1816:** Year's end; Leon's 49-day ledger (31 Dec = 49 days in town); 22nd–26th readings. SOURCE: Ch 32.
+- **[CONFIRMED] 1–4 Jan 1817:** New year; the man asks for the parish's old books at the vestry and is refused; fifth round clean. SOURCE: Ch 33.
+- **[CONFIRMED] 5–6 Jan 1817:** Twelfth Day; wardens named (Goding, Hare); Goding met at the market cross; Thursday appointment given. SOURCE: Ch 34.
+- **[CONFIRMED] 9 Jan 1817 (Thursday):** Goding's farm; his 1809 day-of memory; two newer stones at the mill-yard corner wall. SOURCE: Ch 35.
+
+## Notes on timeline rules (Ch 1–47)
+
+- Specific dates are recorded only where narratively/historically/chronologically necessary; the Ashford date-sparing rule is respected.
+- No dates in Ch 36–47 beyond "January 1817" (Ch 36), "May 1817" (first stone cracks, Ch 45), and Vale's death "before dawn" (Ch 46–47, May–Jun 1817).
+- All items above are CONFIRMED by their cited chapters; where a date is implied rather than stated (e.g., arrival = 19 Nov), it is marked by the reasoning in the source.
+
+---
+
 # XXX. FINAL CANON PRINCIPLE
 
 Ashford is not a city that was built all at once.

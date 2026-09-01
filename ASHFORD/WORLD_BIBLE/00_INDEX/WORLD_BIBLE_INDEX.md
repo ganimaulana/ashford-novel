@@ -13,6 +13,17 @@ Central repository for Ashford canon, world-building, mystery, timeline, metadat
   - `HISTORICAL_CORRESPONDENCE.md` — Mapping between Ashford canon and historical analogues
   - `POLITICAL_FACTIONS.md` — Detailed faction descriptions
   - `GOVERNMENT_CHARACTERS.md` — Political character profiles
+- **17_ORGANIZATIONS/** — Dedicated layer for organizations, factions, societies, clubs, and institutions.
+  - `00_INDEX.md` — Index and cross-reference
+  - `01_RELIGIOUS.md`, `02_GOVERNMENT.md`, `03_ACADEMIC.md`, `04_OCCULT.md`, `05_CRIMINAL.md`, `06_SOCIAL.md`, `07_ARISTOCRATIC.md`, `08_MILITARY.md`, `09_UNDERGROUND.md`, `10_HISTORICAL.md`, `11_FACTIONS.md`
+  - Existing files (e.g., `08_UNDERGROUND/Order_of_Severence.md`) remain in their original locations; this layer cross-references them.
+- **18_RELIGION_THEOLOGY/** — Dedicated layer for religious doctrine, theology, rituals, symbols, heresies, and occult theology.
+  - `00_INDEX.md` — Index
+  - `01_DOCTRINE.md` through `11_OCCULT_THEOLOGY.md`
+- **19_SUPERNATURAL/** — Dedicated layer for how the supernatural works: rules, principles, entities, artifacts, soul, death, dreams, corruption, and the explicitly unknown.
+  - `00_INDEX.md` — Index (distinguishes this layer from `07_ANOMALIES` and `09_MYSTERY`)
+  - `01_PRINCIPLES.md` through `11_UNKNOWN.md`
+  - Master six-system framework: `WORLD_BUILDING/Ashford_Power_System.md` (CANON v1.2)
 - **09_MYSTERY/** – Mystery architecture, clues, confirmed reveals, character knowledge, and unresolved questions.
 - **10_TIMELINE/** – Chronological events and historical continuity.
 - **01_GEOGRAPHY/** – Physical, social, historical, geographical, architectural, business, district, street, anomaly, and other setting information.
