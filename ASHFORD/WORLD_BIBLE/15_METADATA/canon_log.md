@@ -34,6 +34,27 @@ This separation ensures that:
 
 ---
 
+## 2026-09-02: Individual Character Image Prompts V1
+
+**Event**: Created `CHARACTER_IMAGE_PROMPTS.md` — structured image-generation prompts for five major Ashford characters.
+
+**Actions**:
+- Created `04_CHARACTERS/CHARACTER_IMAGE_PROMPTS.md` (Leon Ashcroft, James Calloway, Silas Crowe, Nathaniel Graves, Thomas Vale)
+- Each character: Identity Lock, Portrait Prompt, Full-Body Prompt, Scene Prompt Foundation, Negative Constraints, Canon Notes
+- All prompts are model-agnostic, 1816-compliant, and based on refined CHARACTER_VISUAL_CANON.md
+- Crowe's Order affiliation NOT visually exposed; Graves visually distinct from Crowe
+- No canon was invented or silently resolved
+- CHARACTER_VISUAL_CANON.md NOT modified
+- CHARACTER_IMAGE_GENERATION_GUIDE.md NOT modified
+- No manuscript files modified
+
+**Master Index Entry**:
+> CHARACTER_IMAGE_PROMPTS.md V1 created for 5 characters. All prompts model-agnostic, 1816-correct, canon-faithful. Crowe's Order affiliation not visually signaled. Not yet approved. No images generated.
+
+**Status**: V1 — DRAFT / PROPOSED. No images generated.
+
+---
+
 ## 2026-09-02: Character Image Generation Guide
 
 **Event**: Created `CHARACTER_IMAGE_GENERATION_GUIDE.md` — permanent visual-generation framework for future Ashford character images.
