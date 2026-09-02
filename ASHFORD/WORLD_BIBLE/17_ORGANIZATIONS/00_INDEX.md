@@ -24,7 +24,9 @@
 | Organization | Location | Status |
 |-------------|----------|--------|
 | Order of Severence | `08_UNDERGROUND/Order_of_Severence.md` | CANON |
-| Leon's Core secret society | `08_UNDERGROUND/Secret_Organization.md` | CANON |
-| Hidden Circle | `08_UNDERGROUND/Secret_Organization.md` | WORKING CANON |
+| Constable (Leon's organization) | `08_UNDERGROUND/ORGANIZATIONAL_AFFILIATION_LEDGER.md` | CANON |
+| Organizational Affiliation Ledger | `08_UNDERGROUND/ORGANIZATIONAL_AFFILIATION_LEDGER.md` | CANON |
+| Hidden Circle | `08_UNDERGROUND/Secret_Organization.md` | SUPERSEDED (2026-09-02) |
+| Leon's Core secret society | `08_UNDERGROUND/Secret_Organization.md` | SUPERSEDED (2026-09-02) |
 | Government / Constabulary | `16_GOVERNMENT/GOVERNMENT_BIBLE.md` | CANON |
 | Criminal underworld | `16_GOVERNMENT/CRIMINAL_UNDERWORLD.md` | CANON |

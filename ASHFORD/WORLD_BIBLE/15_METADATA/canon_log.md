@@ -34,6 +34,26 @@ This separation ensures that:
 
 ---
 
+## 2026-09-02: Organizational Canon Restructure — Constable vs Order of Severence
+
+**Event**: Corrected the organizational structure. Constable = Leon's organization. Order of Severence = separate secret organization. Hidden Circle (Secret_Organization.md) marked as SUPERSEDED.
+
+**Actions**:
+- Created `08_UNDERGROUND/ORGANIZATIONAL_AFFILIATION_LEDGER.md` — character affiliation table, organization definitions, relationship model, narrative rules
+- Updated `08_UNDERGROUND/Order_of_Severence.md` — replaced "Leon's organization (Secret_Organization.md)" references with "Constable organization (ORGANIZATIONAL_AFFILIATION_LEDGER.md)"
+- Updated `08_UNDERGROUND/Secret_Organization.md` — marked as SUPERSEDED (2026-09-02); Hidden Circle is NOT merged with Constable or Order
+- Updated `17_ORGANIZATIONS/09_UNDERGROUND.md` — cross-reference corrected
+- Updated `17_ORGANIZATIONS/00_INDEX.md` — entries corrected
+- No chapter files were modified
+- No existing character canon was changed
+
+**Master Index Entry**:
+> CONSTABLE = Leon's organization (watch/constabulary). ORDER OF SEVERENCE = separate secret org. Crowe = Order (confirmed). Vale = UNRESOLVED (former constable; keeper of Agreement). Hidden Circle = SUPERSEDED working canon. Infiltration ≠ membership. Constable ≠ Order of Severence.
+
+**Status**: CANON. No manuscript migration has been performed.
+
+---
+
 ## 2026-09-02: Canon Terminology Lock
 
 **Event**: New terminology framework canonized for future manuscript migration. See `CANON_TERMINOLOGY.md`.
