@@ -1,0 +1,40 @@
+# Chapter 28 — The Counter and the Question
+
+The Friday came in dry and cold, with the sky gone the colour of pewter, and the town under it going about its week's end, and I went about mine, and carried the telling of the day before in my pocket the way a man carries what he has not yet made up his mind to.
+
+The lamp had burned at nine on the Thursday, and been carried away along the rooms, and no sound came, and I set it down as the fourteenth reading, and let it stand; and in the night the sound did not come, and the alternation stood, and the house kept itself, and the town kept the town, and the man of the inn kept his list, and I did not know which of the three keepings would be the one to break first.
+
+It was Arthur that broke the morning.
+
+I had gone to his shop with the book I had carried out the week before, because a book is the thing a man carries when he wants a counter to stand at, and the standing at the counter is the way of speech in this town, and I had come for the speech of it without knowing I had come; but Arthur was not behind the counter when I came in, and the shop stood with its smell of old paper and its silence, and I stood with the book in my hand, and heard him come down the stair at the back, slower than his way, and he came to the counter, and did not take the book.
+
+"Put it down," he said. "There is a thing I will say to you before the book, because the book can wait, and the thing cannot. Shut the door, if you please, because the saying of it wants the door shut."
+
+I shut the door, and came back to the counter, and he stood behind it with his two hands on it, which is the way he stands when the keeping of himself is wanted, and he spoke.
+
+"The man came to my shop yesterday," he said. "In the afternoon, when the shop was empty, and he came in as a man comes into a shop, and stood at the counter where you stand, and asked of me of books. That was the way of it, and I will tell you the way of it, because the way is the thing. He asked of the books of the town — the histories, the reckonings, the rolls that are printed and sold — and he asked them as a man asks that is making a purchase, and I showed him what is sold, because that is the shop's part, and he bought one, and paid for it, and took it away, and the buying of it was the true buying, and I will say that of him: he came as a customer, and he went as a customer, and there was nothing in the coming that a man can take hold of."
+
+"What book," I said.
+
+"The history," said Arthur. "The town's history, the one that was printed twenty years since, and has stood on the shelf these ten, because no man buys the history of the town he lives in, and the men that buy it are the men that are coming to live in it, or the men that are leaving it. He bought that one, and he did not ask for another, and the not-asking was the thing, because a man that buys the history of a town asks next for what is not in the history, and he did not ask, and he went away with the one book, and I stood at the counter after him, and understood he had not come for the book."
+
+"What did he come for," I said.
+
+"He came," said Arthur, "to see the shop. That is what I have made of it, and I have made it slowly, because I am slow at the making, and I will give you the making. He stood at the counter the length of two books, and his eye went about the shop the way an eye goes that is taking the measure of a room, and it went to the stair at the back, and it went to the press in the corner, and it went to the shelf where the parish papers stand that are sold by the vestry, and it did not rest on any of them, and the not-resting of it was the measure, and I stood behind the counter and let him take the measure, because a man that keeps a shop lets the customer take the measure of it, and that is the trade; but I will tell you this, Mr. Ashcroft, and I have not told it to any: the press in the corner was locked, and the key was in my pocket, and the key stayed in my pocket, and I was glad of it the whole of the time he stood here, and I did not know I was glad of it until he was gone."
+
+We stood at the counter with the saying of it between us, and I understood what it had cost him, because Arthur is one that gives nothing away, and the giving of the gladness was the giving of a thing he keeps, and I took it as he gave it, and did not ask him of the more, because the more was not in him to give, and the asking of it would have been the taking of it without the giving.
+
+"One thing," he said, as I took up the book. "The man asked at the last, at the door, as a man asks that has kept his best question for the door: whether the shop kept any papers of the old families of the town, and I answered him as I answer all that ask me that question, which is the true answer: that the shop keeps what is sold, and that the papers of the old families are not sold, and are not the shop's to keep, and are kept where they are kept, and he took the answer, and went out with it, and the taking of it was quiet. But I will tell you the thing that stands behind the answer, because you have stood at this counter before, and I have given you more than the answer: the papers of the old families are kept, and the keeping of them is the thing this town stands on, and the man has come to the town asking where they are kept, and he has asked it at the post office, and at the doors of the lane, and now at my counter, and the asking of it is going about the town the way the winter goes about it, and I do not know where it will stand next, and I would have you know that I do not know, because the knowing of my not-knowing is the thing I give you, and it is the most I have."
+
+I went out into the cold, and the street was the street, and the town was going about its Friday, and I walked with the three tellings of the week in my pocket — the post office, and Helen's door, and the counter — and I put them together as I walked, and they came out as they had come out before: that the man was asking one question of the town, and was asking it at every place the town keeps its answer, and the question was where the papers are kept, and the answer was the thing the town stood on, and I was come to be, without the asking of it, one of the places the answer was kept, because the certified page was in my desk, and the note was in my book, and the telling of Daniel was in my keeping, and the watch-roll had my name on it, and a man that keeps answers is a man the question comes to.
+
+---
+
+The evening brought the lamp at nine, steady, at its old height, and I watched it with the day's weight on me, and it was carried away along the rooms in the old way, and no sound came; and I set it down as the fifteenth reading, and wrote beneath it the thing I had kept down the whole of the day, because the writing of it was the only keeping of it that was mine:
+
+*The man asks one question of the town: where the papers are kept. He has asked it at the post office, at the doors of the lane, and at the counter, and he has been answered three ways, and the three answers are the town's answer, and the town does not know it is answering. I keep part of the answer in my desk, and I am on the watch-roll, and the watch goes past the house tomorrow night, and I do not know yet whether the round is kept against the man, or whether the round is kept for him.*
+
+And I shut the book, and let the lamp go out at the end of the lane, and did not watch for the sound, because the sound keeps its own hour, and I went to bed with the round to come, and slept the sleep of a man that has shut his door on the question, and left it standing on the step.
+
+I had carried the bell in my pocket these last days, thinking it a safeguard. Tonight I put it back in the drawer. The cost was too great for a thing I did not yet understand. I would not use it again until I knew its rules, and I would not know its rules until I had studied it with care, not carried it like a charm.
+</content>

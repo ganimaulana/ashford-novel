@@ -34,6 +34,22 @@ This separation ensures that:
 
 ---
 
+## 2026-09-02: Long-Term Arc Roadmap Locked
+
+**Event**: Chapters 1–137 formally designated as ARC 1 — BELLWEATHER. Long-term planning framework created for Arcs 2–10.
+
+**Actions**:
+- Created `LONG_TERM_ARC_ROADMAP.md` — permanent planning document for Arcs 2–10 (CH 138+)
+- No manuscript changes were made
+- No retroactive canon was introduced
+
+**Master Index Entry**:
+> Chapters 1–137 constitute ARC 1 — BELLWEATHER. Future narrative development begins with ARC 2 — FIRST CONTACT. Arc boundaries after Arc 1 are intentionally undefined and must be determined organically during development.
+
+**Status**: PLANNING ONLY — not canon. No chapter files were modified.
+
+---
+
 ## 2026-08-27: Chapter 008 Revision
 
 **Event**: Major restructuring of Chapter 8 investigation sequence
