@@ -148,6 +148,6 @@ But I was the keeper. I had the gear. I had the map. I had the sign. And I had r
 
 The door was not opened. But the door was not forgotten.
 
-And I understood, sitting in the dark, that the time for keeping the door closed had passed — and the time for opening it had not yet come. There was only the remembering.
+And I wondered, sitting in the dark, whether the time for keeping the door closed had passed — or whether it had not yet come. The Order wanted it opened; the stranger wanted it opened; but neither of them had spent a month at the stones, watching the marks, learning the silence of the passage. I had done that. I could not yet say what it had taught me, but I knew it had not taught me to open the door.
 
 And I would keep it, as long as I was keeper.

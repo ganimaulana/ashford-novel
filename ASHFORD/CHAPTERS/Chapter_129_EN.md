@@ -1,4 +1,4 @@
-CHAPTER 129 — THE MARK OF THE MAKER
+﻿CHAPTER 129 â€” THE MARK OF THE MAKER
 
 I did not leave the house in the marsh that night.
 
@@ -8,7 +8,7 @@ The first sign was the mark of the maker.
 
 I had read that in the vestry book, years ago. The first sign was the sign of the maker, the sign that was set before the wall, before the boundary, before the Order.
 
-I had carried the medallion all my life. I had found the first sign on the stones, and on the floor of the chamber, and on the bell, and on the clocks, and on the key, and on the box.
+I had carried the object all my life. I had found the first sign on the stones, and on the floor of the chamber, and on the bell, and on the clocks, and on the key, and on the box.
 
 And now I had found it on the wall of a house in the marsh.
 
@@ -22,7 +22,7 @@ And I knew that it was connected.
 
 In the morning, I searched the marsh.
 
-I walked out from the house, through the reeds, across the water, and I looked for other signs of the maker — other marks, other houses, other places where the first sign had been set.
+I walked out from the house, through the reeds, across the water, and I looked for other signs of the maker â€” other marks, other houses, other places where the first sign had been set.
 
 I walked for hours.
 
@@ -136,7 +136,7 @@ I did not know what it meant.
 
 But I knew that it was the beginning.
 
-I sat by my fire, in the evenings, and I wrote in a new book — a book I had begun since leaving Ashford, a book of the journey, a book of what I was finding.
+I sat by my fire, in the evenings, and I wrote in a new book â€” a book I had begun since leaving Ashford, a book of the journey, a book of what I was finding.
 
 I wrote:
 
@@ -151,3 +151,6 @@ I wrote:
 *The hunt is not over.*
 
 *The count has led me to the beginning.*
+
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

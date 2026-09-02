@@ -58,7 +58,7 @@ Goding was silent. "I do not know," he said. "I did not go after him. I did not 
 
 "Because I was not the keeper," Goding said. "The keeper goes. The keeper's man stays."
 
-I stood in the yard, with the dog watching me, and the grey sky overhead, and the memory of the bell that had rung once, in the dark, before dawn, on the Thursday of the bell. The keeper before Vale had opened the door. The bell had rung. The keeper had gone into the passage. He had not come back. And Vale had kept the door closed ever since.
+I stood in the yard, with the dog watching me, and the grey sky overhead, and the memory of the bell that had rung once, in the dark, before dawn, on the Thursday of the bell. The keeper before Vale had opened the door. The bell had rung. The keeper had gone into the passage. He had not come back. And Vale had kept the door closed ever since—or so Goding said. I had no way to confirm his account.
 
 I had the gear. I had the key to the tower. I had the medallions. I was the keeper. I could not yet tell whether I would go into the passage. I could not yet tell whether I would open the door. But I knew that the bell had rung once, and that the keeper had not come back. And I knew that the bell was the keeper's bell.
 
@@ -72,4 +72,4 @@ I closed the red book. I put it in the drawer, with the agreement, and the map, 
 
 The keeper before Vale had opened it. He had not come back. Vale had kept it closed. I was the keeper now. And I did not know what I would do. The bell was the keeper's bell. The first sign was on its rim. The medallions warmed at it. And I held the key to the tower.
 
-I sat in the dark, and I thought about the Thursday of the bell, and about the keeper who had not come back, and about the passage that had taken him. I did not know what I would do. But I knew that the bell was the keeper's bell. And I knew that the keeper's bell had rung once. And I knew that if it rang again, I would answer it.
+I sat in the dark, and I thought about the Thursday of the bell, and about the keeper who had not come back, and about the passage that had taken him. I did not know what I would do. But I knew that the bell was the keeper's bell. And I knew that the keeper's bell had rung once. And I knew that if it rang again, I would answer it—and that the answer would change everything, for the bell's call would signal the crossing of the thirteenth threshold at 00:00.

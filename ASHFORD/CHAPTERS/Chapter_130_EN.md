@@ -1,4 +1,4 @@
-CHAPTER 130 — THE CENTRE
+﻿CHAPTER 130 â€” THE CENTRE
 
 I stayed in the marsh for two weeks.
 
@@ -28,7 +28,7 @@ I ran my hand across the stones.
 
 And I found the mark.
 
-It was on the central stone, beneath a layer of dust and age, nearly invisible — a mark worn smooth by years of being walked on.
+It was on the central stone, beneath a layer of dust and age, nearly invisible â€” a mark worn smooth by years of being walked on.
 
 A circle.
 
@@ -56,11 +56,11 @@ I knelt in the house, in the grey light, and I looked at the first sign on the f
 
 The same mark as the chamber.
 
-The same mark as the medallion.
+The same mark as the object.
 
 The same mark as the stones.
 
-And I understood that I had found the beginning of the count.
+And I understood that I had found the beginning of the count—the first of thirteen thresholds, each guarded by a sign, each waiting for the bell to toll at 00:00.
 
 ---
 
@@ -102,7 +102,7 @@ I built my fire.
 
 I sat by it, in the evening, and I wrote in my book:
 
-*I have found the first sign on the floor of the house in the marsh. The same mark as the chamber beneath Bellweather House. The same mark as the medallion. The same mark as the stones.*
+*I have found the first sign on the floor of the house in the marsh. The same mark as the chamber beneath Bellweather House. The same mark as the object. The same mark as the stones.*
 
 *The house is not the centre of the ring. The first sign on the floor is the centre.*
 
@@ -113,3 +113,4 @@ I sat by it, in the evening, and I wrote in my book:
 *But I know that I have found the beginning of the count.*
 
 *And I will keep it.*
+

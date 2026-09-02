@@ -1,4 +1,4 @@
-CHAPTER 114 — THE SEASON RETURNS
+﻿CHAPTER 114 â€” THE SEASON RETURNS
 
 The season came again to Ashford.
 
@@ -34,7 +34,7 @@ I had not understood it.
 
 Now I understood it differently.
 
-The lamp was not a ghost. It was not a haunting. It was a keeping — a keeping that had stood for longer than the town had a name.
+The lamp was not a ghost. It was not a haunting. It was a keeping â€” a keeping that had stood for longer than the town had a name.
 
 And the keeping was part of the count.
 
@@ -44,7 +44,7 @@ The lamp burned at nine. The bell came when the lamp did not. The house kept its
 
 All of it, part of the count.
 
-I stood at the end of the lane, with the medallion warm against my chest, and I understood that I was watching the count.
+I stood at the end of the lane, with the object warm against my chest, and I understood that I was watching the count.
 
 ---
 
@@ -54,7 +54,7 @@ The house was there.
 
 It stood at the edge of the common, where the grass met the lower pasture, its windows dark, its front door open.
 
-I had entered it once, in the first year. I had found the clock stopped at 11:17. I had heard the three knocks from beneath the floor. I had not entered it again.
+I had entered it once, in the first year. I had found the clock stopped at 00:00. I had heard the three knocks from beneath the floor. I had not entered it again.
 
 I stood at the edge of the common now, in the dark, and I looked at the house.
 
@@ -62,11 +62,11 @@ It had appeared, and disappeared, for years. It had left only the flattened gras
 
 I did not approach it.
 
-I stood at the edge of the common, with the medallion warm against my chest, and I looked at the house.
+I stood at the edge of the common, with the object warm against my chest, and I looked at the house.
 
-The medallion was warm.
+The object was warm.
 
-I had not felt it warm at the common for a long time — not since the first year, when I had carried the medallion to the keeper's sign in the earth, and it had warmed, and I had understood that the first sign responded to the keeper's sign.
+I had not felt it warm at the common for a long time â€” not since the first year, when I had carried the object to the keeper's sign in the earth, and it had warmed, and I had understood that the first sign responded to the keeper's sign.
 
 It warmed now.
 
@@ -74,7 +74,7 @@ It warmed at the edge of the common, where the house appeared.
 
 I stood in the dark, and I looked at the house, and I understood that the house was part of the count.
 
-The house appeared. The house disappeared. The house kept something — the first sign, carved into its wall, hidden where only the medallion could find it.
+The house appeared. The house disappeared. The house kept something â€” the first sign, carved into its wall, hidden where only the object could find it.
 
 The house was part of the count.
 
@@ -86,7 +86,7 @@ I stood at the edge of the common, and I watched the house, and I waited.
 
 I went to the tower on the night of the twentieth.
 
-I had the key. I had always had the key — the keeper's key, to the tower, to the bell.
+I had the key. I had always had the key â€” the keeper's key, to the tower, to the bell.
 
 I climbed the stairs. I stood in the bell chamber.
 
@@ -124,7 +124,7 @@ I walked home, and I sat at my desk, and I opened the red book, and I wrote:
 
 *I watched it differently this year.*
 
-*The lamp is part of the count. The bell is part of the count. The house is part of the count. The medallion is part of the count. The stones are part of the count.*
+*The lamp is part of the count. The bell is part of the count. The house is part of the count. The object is part of the count. The stones are part of the count.*
 
 *I do not know what the count is counting.*
 
@@ -137,3 +137,4 @@ I walked home, and I sat at my desk, and I opened the red book, and I wrote:
 *The season has passed.*
 
 *And the count has turned.*
+

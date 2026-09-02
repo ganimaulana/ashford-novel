@@ -228,7 +228,7 @@ No coat hanging beside the stairs.
 
 Only a single clock on the far wall.
 
-It had stopped at 11:17.
+It had stopped at 00:00.
 
 I approached it.
 
@@ -240,7 +240,7 @@ I did not touch it.
 
 I looked at the hands.
 
-11:17.
+00:00.
 
 I wrote it down.
 
@@ -304,13 +304,13 @@ I stood.
 
 Before leaving, I looked at the stopped clock again.
 
-11:17.
+00:00.
 
 I did not know whether that meant anything.
 
 So I wrote:
 
-Clock stopped at 11:17. Three sounds heard beneath floor. Source unknown.
+Clock stopped at 00:00. Three sounds heard beneath floor. Source unknown.
 
 I left the house.
 

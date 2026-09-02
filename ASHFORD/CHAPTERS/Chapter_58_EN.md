@@ -120,7 +120,7 @@ The wall was not built to keep anything out. The wall was set to mark the place.
 
 I had been a keeper for a month. I had been trying to open a door. I had been trying to keep a door closed. I had been watching the circle, and the gear, and the seal, and the stranger who said the count was running out.
 
-I had not understood that there was no door. There was only the mark. And the mark was not something to be opened or closed. The mark was something to be remembered.
+I began to wonder whether I had been mistaken about the door. Perhaps there was no door. Perhaps there was only the mark. And perhaps the mark was not something to be opened or closed, but something to be remembered — or something to be carried, or something to be passed on. I did not know which, and the clerk did not know either.
 
 I left the vestry. I walked through the streets of Ashford, in the grey afternoon, and I understood that I had been a keeper for a month and I had not known what I was keeping.
 
@@ -168,7 +168,7 @@ I had been trying to open it. I had been trying to close it. I had been watching
 
 I had not stopped to remember.
 
-And I understood, sitting in the dark, that the thing I was keeper of was not the door, and not the gear, and not the boundary. It was the memory. The memory of what had been set in the earth, long ago, beneath the eastern marker, beneath the wall, beneath the town.
+And I understood, sitting in the dark, that the thing I was keeper of was not the door, and not the gear, and not the boundary. It was the memory. The memory of what had been set in the earth, long ago, beneath the eastern marker, beneath the wall, beneath the town. And that memory—like the bell—would not be silent forever.
 
 And the stranger who had come to Ashford, and the Order, and Crowe, and Eleanor Shaw — they were all trying to make me remember the wrong thing.
 

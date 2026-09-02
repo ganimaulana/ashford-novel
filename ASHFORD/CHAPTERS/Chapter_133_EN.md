@@ -1,4 +1,4 @@
-CHAPTER 133 — THE CALLING
+﻿CHAPTER 133 â€” THE CALLING
 
 I stayed in the marsh for another season.
 
@@ -20,13 +20,13 @@ But I waited.
 
 On a night in late summer, I felt it.
 
-I was at the house, at the first sign on the floor, when I felt it — the warmth.
+I was at the house, at the first sign on the floor, when I felt it â€” the warmth.
 
-Not the warmth of the medallions. Not the warmth of the summer night. A different warmth — the warmth I had felt at the boundary in Ashford, at the door, at the chamber.
+Not the warmth of the medallions. Not the warmth of the summer night. A different warmth â€” the warmth I had felt at the boundary in Ashford, at the door, at the chamber.
 
 The warmth of the medallions.
 
-I took out the medallion.
+I took out the object.
 
 It was warm.
 
@@ -36,11 +36,11 @@ It was warm now.
 
 I held it up.
 
-I did not know why it was warm. I was in the house in the marsh, at the first sign on the floor. The medallion had warmed there before.
+I did not know why it was warm. I was in the house in the marsh, at the first sign on the floor. The object had warmed there before.
 
 But it was warmer now.
 
-I looked at the medallion. It was warm — warmer than it had been, warmer than it had ever been in the marsh.
+I looked at the object. It was warm â€” warmer than it had been, warmer than it had ever been in the marsh.
 
 And I understood.
 
@@ -48,13 +48,13 @@ The count was calling.
 
 Not me.
 
-The medallion.
+The object.
 
-The count was calling the medallion.
+The count was calling the object.
 
-I stood in the house, in the dark, with the warm medallion in my hand, and I understood that I had not come to the end of the calling.
+I stood in the house, in the dark, with the warm object in my hand, and I understood that I had not come to the end of the calling.
 
-The count had led me to the house. The count had kept me at the house. And now the count was calling the medallion.
+The count had led me to the house. The count had kept me at the house. And now the count was calling the object.
 
 Calling it somewhere.
 
@@ -68,7 +68,7 @@ I left the marsh in the morning.
 
 I went to the village first. I told the marsh people I was leaving.
 
-"The count is calling," I said. "It is calling the medallion. I must follow."
+"The count is calling," I said. "It is calling the object. I must follow."
 
 The woman looked at me a long moment.
 
@@ -92,7 +92,7 @@ I left the marsh.
 
 I walked north, along the causeway, away from the water, and I did not look back.
 
-The medallion was warm against my chest.
+The object was warm against my chest.
 
 The count was calling.
 
@@ -106,21 +106,21 @@ The marsh fell behind me. The land rose. The fields returned, and the lanes, and
 
 I did not know where I was going. I did not know what the count was calling me to.
 
-But the medallion was warm.
+But the object was warm.
 
 It had never stopped being warm since I left the marsh. It warmed against my chest, steady, constant.
 
-I walked north, and I watched the medallion, and I waited for it to change.
+I walked north, and I watched the object, and I waited for it to change.
 
 On the seventh day, it changed.
 
-I was walking through a small town, at midday, when the medallion grew warmer.
+I was walking through a small town, at midday, when the object grew warmer.
 
 I stopped.
 
-I looked at the medallion.
+I looked at the object.
 
-It was warm — warmer than it had been.
+It was warm â€” warmer than it had been.
 
 I looked at the town.
 
@@ -132,13 +132,13 @@ I looked at the house.
 
 It was large, old, set back from the town, behind a wall of old stone.
 
-And the medallion was warm.
+And the object was warm.
 
 I stood in the street, in the midday light, and I looked at the house on the hill.
 
 The count had called me north. The count had led me through the marsh, and away from the marsh, and to this town.
 
-And the medallion was warm.
+And the object was warm.
 
 I did not know what the house was. I did not know why the count had brought me here.
 
@@ -147,3 +147,6 @@ But I knew that I would go to it.
 The count was calling.
 
 And I would answer.
+
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

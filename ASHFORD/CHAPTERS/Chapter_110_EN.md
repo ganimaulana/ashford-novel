@@ -6,7 +6,7 @@ I read the book of the first keeper again, and again, and again. I copied the pa
 
 The tally was longer than the keeping as I knew it.
 
-I could not yet tell how much longer. I could not yet tell whether the tally was a count of years, or of seasons, or of something else. I could not yet tell whether I had counted the marks correctly, or whether the marks meant something other than what the first keeper had said they meant.
+I could not yet determine how much longer. I could not yet decide whether the tally was a count of years, seasons, or something else entirely. I could not yet tell whether the marks were even meant to be counted individually. I had counted the marks correctly, or whether the marks meant something other than what the first keeper had said they meant.
 
 But I knew that the keeping was older than the keepers I knew.
 
@@ -176,4 +176,6 @@ But I knew that I would find out.
 
 The hunt had led me to the tally.
 
-And the tally was leading me somewhere older.
+And the tally was leading me somewhere older—older than the keepers, older than the boundary, older than the name of Ashford itself. I did not yet know what lay at the end of that trail, but I knew the trail was not new. It had been marked before I was born.
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

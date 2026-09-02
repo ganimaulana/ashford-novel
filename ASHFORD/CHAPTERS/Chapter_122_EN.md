@@ -153,3 +153,5 @@ I sat at my desk. I opened the red book. I wrote:
 *But I am a keeper.*
 
 *And my mark is in the count.*
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

@@ -760,7 +760,7 @@ The day ended without any incident I could relate again — except for those two
 
 Before I fell asleep, my mind returned to the symbol. I tried to remember where I had seen it — on the front door of this house, on the head of the room key, beneath the bell. I did not yet know what it meant. Tomorrow. Not everything had to have an answer today.
 
-And without my noticing, the history book I had left on the table was still open to the same page. Between two paragraphs about old Ashford's history, the small symbol remained there.
+And without my noticing, the history book I had left on the table was still open to the same page. Between two paragraphs about old Ashford's history, the small symbol remained there—the first sign of thirteen, waiting for the one who would learn to read it.
 
 ---
 

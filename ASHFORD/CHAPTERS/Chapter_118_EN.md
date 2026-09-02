@@ -129,3 +129,5 @@ But I would learn.
 The hunt had led me to the number.
 
 And the number was leading me somewhere.
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

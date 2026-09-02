@@ -36,7 +36,7 @@ The old man was silent a moment.
 
 I waited.
 
-"We are a society," he said. "A small society, of men and women who have an interest in the preservation of certain things. Histories. Objects. Knowledge. We have existed for a long time, in Ashford and beyond. We have members in many towns. We do not seek power. We do not seek influence. We seek to preserve what would otherwise be lost."
+"We are a society," he said. "A small society, of men and women who have an interest in the preservation of certain things. Histories. Objects. Knowledge. We have existed for a long time, in Ashford and beyond. We have members in many towns. We do not seek power. We do not seek influence. We seek to preserve what would otherwise be lost—including the secret of the thirteen signs, and the count that ends at 00:00."
 
 He looked at me.
 
@@ -44,7 +44,7 @@ He looked at me.
 
 I stood in the room, by the fire, and I could not yet tell what to say.
 
-"We need men like you," he said. "Men who can see what is hidden. Men who can find what is lost. Men who know when to stop, and when to continue."
+"We need men like you," he said. "Men who can see what is hidden. Men who can find what is lost. Men who know when to stop, and when to continue." He paused, and his eyes held mine. "Men who can be trusted with a truth that has no name."
 
 He was silent a moment.
 
@@ -98,4 +98,4 @@ I walked home, and I sat at my desk, and I opened the red book, and I wrote:
 
 *The door is open.*
 
-*I will decide when I am ready.*
+*I will decide when I am ready. But I have already begun to act as if I have accepted.*

@@ -42,7 +42,7 @@ I sat at the desk, with the gold in the box and the paper in my hand, and I read
 
 *Your answer was correct.*
 
-I had not sent an answer. I had not told anyone what I had concluded. And yet the sender knew — knew that I had concluded the answer could not be determined, and knew that I had concluded rightly.
+I had not sent an answer. I had not told anyone what I had concluded. And yet the sender knew — knew that I had concluded the answer could not be determined, and knew that I had concluded rightly. That knowledge was not a puzzle; it was a statement of power.
 
 That was the first thing.
 
@@ -66,7 +66,7 @@ Or I could continue. I could go to the lending library on Thursday, and I could 
 
 I did not know who the sender was. I did not know what they wanted. I did not know whether the gold was a payment, or a test, or a trap.
 
-But I had been a keeper for two years. I had been a hunter since the clock in the market. I had learned to distrust the things that arrived unasked at my door.
+But I had been a keeper for two years. I had been a hunter since the clock in the market. I had learned to distrust the things that arrived unasked at my door—and I had also learned that they were often part of a larger pattern, one that would only become clear at 00:00.
 
 And I had also learned that the things that arrived unasked at my door were never quite what they seemed.
 
@@ -148,4 +148,4 @@ And this time, I was not sure I was the hunter.
 
 But I was in it.
 
-And I would find out what was at the end of it.
+And I would find out what was at the end of it. Whether that end was a door, a room, or a name I had not yet learned to say was still uncertain.

@@ -1,4 +1,4 @@
-CHAPTER 116 — THE PLACE OF THE COUNTING
+﻿CHAPTER 116 â€” THE PLACE OF THE COUNTING
 
 I searched for the place of the counting through the winter.
 
@@ -6,7 +6,7 @@ I could not yet tell what I was looking for. I knew only that the records of the
 
 I searched the records. I searched the maps. I searched the old books, and the old letters, and the old papers.
 
-I looked for a place older than the town — a place where the first keeper might have made the count, before the boundary was set, before the sign was carved, before the house was built.
+I looked for a place older than the town â€” a place where the first keeper might have made the count, before the boundary was set, before the sign was carved, before the house was built.
 
 I did not find it.
 
@@ -16,7 +16,7 @@ On a night in February, I went to the reading room.
 
 I had not been called. I had not been asked. I went because I wanted to think.
 
-The room was as I had left it — bare, with a single lamp on a table. The key to the reading room was in my pocket, and I set it on the table, and I sat in the chair, and I thought.
+The room was as I had left it â€” bare, with a single lamp on a table. The key to the reading room was in my pocket, and I set it on the table, and I sat in the chair, and I thought.
 
 I thought about the count.
 
@@ -44,7 +44,7 @@ I ran my hand across them.
 
 And I found the mark.
 
-It was on the floorboard beneath the table, hidden, almost invisible — a mark worn smooth by years of being stood on.
+It was on the floorboard beneath the table, hidden, almost invisible â€” a mark worn smooth by years of being stood on.
 
 A circle.
 
@@ -130,7 +130,7 @@ I did not know why it was there. I did not know what Marcus Ferrand had used the
 
 But I knew that the room was connected to the count.
 
-The first sign on the floorboard. The first sign on every stone. The first sign on the floor of the chamber. The first sign on the medallion.
+The first sign on the floorboard. The first sign on every stone. The first sign on the floor of the chamber. The first sign on the object.
 
 The first sign was everywhere.
 
@@ -146,7 +146,7 @@ And I would find the rest.
 
 I went home, and I sat at my desk, and I opened the red book, and I wrote:
 
-*There is a first sign on the floorboard of the reading room. The room was used by Marcus Ferrand — the constable before Vale, the man who disappeared from the records.*
+*There is a first sign on the floorboard of the reading room. The room was used by Marcus Ferrand â€” the constable before Vale, the man who disappeared from the records.*
 
 *I do not know what the room was used for.*
 
@@ -159,3 +159,6 @@ I went home, and I sat at my desk, and I opened the red book, and I wrote:
 *I will find Marcus Ferrand.*
 
 *And I will learn what the count is counting.*
+
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

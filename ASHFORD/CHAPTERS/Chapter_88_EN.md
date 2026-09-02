@@ -1,14 +1,14 @@
-CHAPTER 88 — THE FOUR CLOCKS
+﻿CHAPTER 88 â€” THE FOUR CLOCKS
 
 I did not return to the market for a week.
 
 I did not go to the library. I did not go to the vestry. I stayed in my rooms, with the broken clock on my desk, and I looked at it.
 
-The first sign was on its back. The mark I had carried all my life. The mark that was on the medallion, and on the wall of the common house, and on the door that was not a door.
+The first sign was on its back. The mark I had carried all my life. The mark that was on the object, and on the wall of the common house, and on the door that was not a door.
 
 I had not expected to find it again.
 
-I had expected the keeping to be quiet. I had expected the account to be complete. I had expected the boundary to hold, and the bell to remain silent, and the first sign to stay where it had been kept — in the medallion, in the house, in the chamber beneath the common.
+I had expected the keeping to be quiet. I had expected the account to be complete. I had expected the boundary to hold, and the bell to remain silent, and the first sign to stay where it had been kept â€” in the object, in the house, in the chamber beneath the common.
 
 I had not expected to find it on a broken clock, in a market, under a blanket, for five pence.
 
@@ -36,7 +36,7 @@ She set down her pen. "I wondered how long it would take you to say that."
 
 She looked at me. "I can tell you where to look. I cannot tell you what you will find."
 
-She opened a drawer and took out a sheet of paper. It was a list, written in her neat hand — the names of the four families who had bought the clocks from Hollis, in the 1770s.
+She opened a drawer and took out a sheet of paper. It was a list, written in her neat hand â€” the names of the four families who had bought the clocks from Hollis, in the 1770s.
 
 "These are the original buyers," she said. "The records don't say what happened to the clocks after that. But two of the families still live in or near Ashford. The other two have disappeared from the records entirely."
 
@@ -44,11 +44,11 @@ I took the list.
 
 "The Fenn family," I read. "The Harlow family. The Wintour family. The Langford family."
 
-"Fenn and Harlow still have descendants in the town," she said. "Wintour and Langford are gone — moved away or died out. If the clocks still exist, they are likely with the Fenns or the Harlows."
+"Fenn and Harlow still have descendants in the town," she said. "Wintour and Langford are gone â€” moved away or died out. If the clocks still exist, they are likely with the Fenns or the Harlows."
 
 "Or they were sold," I said.
 
-"Or they were sold," she agreed. "But the man who sold your clock to Theo Marsh — he said it had been in his family for years. It is likely, then, that the other clocks stayed with the families as well."
+"Or they were sold," she agreed. "But the man who sold your clock to Theo Marsh â€” he said it had been in his family for years. It is likely, then, that the other clocks stayed with the families as well."
 
 I looked at the list.
 
@@ -94,7 +94,7 @@ I stood at the door.
 
 The woman in the dark coat. The woman who had been looking for the clocks. The woman who had been to the Fenn house, years ago, and had bought the clock.
 
-I did not know whether it was the same woman I had seen in the lane. But I knew that there was someone in Ashford — or someone who passed through Ashford — who knew about the clocks.
+I did not know whether it was the same woman I had seen in the lane. But I knew that there was someone in Ashford â€” or someone who passed through Ashford â€” who knew about the clocks.
 
 I thanked the old woman. I left the house.
 
@@ -112,7 +112,7 @@ I did not go to the Harlow house that day.
 
 I went home. I sat at my desk. I took out the broken clock, and I looked at the first sign on its back.
 
-The first sign. The mark of the maker. The mark that was older than the Order, older than the boundary, older than the wall.
+The first sign. The mark of the maker. The mark that was older than the Order, older than the boundary, older than the wall—and now I knew it was one of thirteen, each tied to a clock, each waiting for the count to reach its end at 00:00.
 
 I had found it on a broken clock. Someone else had found the second. The third and fourth were still out there.
 
@@ -134,4 +134,5 @@ And I know that I am meant to find them.
 
 I closed the red book. I put it back in the drawer.
 
-I did not know whether the Harlow clock remained in Ashford, or whether the woman in the dark coat had reached it first. I only knew that an object could be hidden in plain sight for generations and still draw the attention of the wrong hands. In the morning I would go to the Harlow house—not because the answer was waiting there, but because leaving the question unanswered had become its own kind of risk.
+I did not know whether the Harlow clock remained in Ashford, or whether the woman in the dark coat had reached it first. I only knew that an object could be hidden in plain sight for generations and still draw the attention of the wrong hands. In the morning I would go to the Harlow houseâ€”not because the answer was waiting there, but because leaving the question unanswered had become its own kind of risk.
+

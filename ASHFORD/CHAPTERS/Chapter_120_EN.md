@@ -133,3 +133,5 @@ But I would find out.
 The hunt had led me to the tally.
 
 And the tally was leading me to the keeper of the count.
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

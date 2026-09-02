@@ -188,4 +188,6 @@ I stood in the dark room, among the objects without history, and I understood th
 
 I had walked into a room that had been waiting for me.
 
-And the book was the reason.
+And the book was the reason—but not the only one. The man himself had been waiting, and that waiting was a message I had not yet decoded.
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

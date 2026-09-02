@@ -1,12 +1,12 @@
-CHAPTER 136 — THE ROAD
+﻿CHAPTER 136 â€” THE ROAD
 
 I did not stay in the town.
 
 I left the house on the hill, and I walked south, through the town, past the market square, past the church.
 
-I could not yet tell why I walked south. The count had called me north. It had led me through the marsh, and to the house on the hill, and to the medallion of the keeper before the first keeper.
+I could not yet tell why I walked south. The count had called me north. It had led me through the marsh, and to the house on the hill, and to the object of the keeper before the first keeper.
 
-I had the third medallion now. I carried it with the other two, three medallions against my chest, the first sign thrice.
+I had the third object now. I carried it with the other two, three medallions against my chest, the first sign thrice.
 
 The count was still calling.
 
@@ -28,7 +28,7 @@ I did not know what I was looking for. I did not know whether the count would sh
 
 I walked.
 
-The medallions were warm against my chest. All three of them. They had been warm since the night in the house on the hill, when the cold medallion had warmed beside the others.
+The medallions were warm against my chest. All three of them. They had been warm since the night in the house on the hill, when the cold object had warmed beside the others.
 
 I walked south, and the medallions were warm, and I followed the warmth.
 
@@ -130,7 +130,7 @@ And in the waiting, I understood.
 
 The count was not calling me to a place. It was calling me to a purpose.
 
-I had found the house in the marsh. I had found the medallion of the keeper before the first keeper. I had kept the keeping.
+I had found the house in the marsh. I had found the object of the keeper before the first keeper. I had kept the keeping.
 
 And the count had called me to the crossroads, and I had chosen the south, and I had walked to the river.
 
@@ -153,3 +153,6 @@ The count had called me.
 I had come.
 
 And I would wait until the count called again.
+
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

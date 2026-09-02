@@ -123,3 +123,5 @@ The count had called me north.
 The count had led me to the house.
 
 And the house had been waiting for me.
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

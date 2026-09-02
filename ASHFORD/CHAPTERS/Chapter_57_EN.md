@@ -66,7 +66,7 @@ It was light in my hand. I did not open it. I put it in my coat, beside the gear
 
 I waited.
 
-"The keeper's sign is not the Order's mark," she said. "The Order took the circle — took it, and made it theirs, and built their understanding of the boundary around it. But the keeper's sign is older, and it is not theirs, and they do not know what it is. Vale kept it from them because he knew that if they understood it, they would use it — and he did not want the door used."
+"The keeper's sign is not the Order's mark," she said. "The Order took the circle — took it, and made it theirs, and built their understanding of the boundary around it. But the keeper's sign is older, and it is not theirs, and they do not know what it is. Vale kept it from them because he believed that if they understood it, they would use it — and he did not want the door used. Whether he was right to believe that, I cannot say."
 
 "The door."
 
@@ -80,7 +80,7 @@ I waited.
 
 She was silent a long moment.
 
-"I do not know," she said. "And I do not think Vale knew, either. I think he knew that it was not what the Order thought it was — that it was not a thing to be opened, and not a thing to be sealed — and that was all he knew, and all he could know, and he kept the map so that the next keeper would not have to start from nothing."
+"I do not know," she said. "And I do not think Vale knew, either. I think he knew that it was not what the Order thought it was — that it was not a thing to be opened, and not a thing to be sealed — and that was all he knew, and all he could know, and he kept the map so that the next keeper would not have to start from nothing. But I cannot tell you whether he was right about any of it."
 
 I stood in the room, in the smell of paper and dust, with the folded map in my coat.
 

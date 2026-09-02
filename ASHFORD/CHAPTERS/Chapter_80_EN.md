@@ -1,6 +1,6 @@
-CHAPTER 80 — THE SNOW
+﻿CHAPTER 80 â€” THE SNOW
 
-The snow came at the end of the year. It came in the night, quietly, and by morning the town was covered — the roofs, the streets, the fields, the common. The snow lay thick and white, and the town was silent under it, the way a town is silent when the world has been made new and no one has walked in it yet.
+The snow came at the end of the year. It came in the night, quietly, and by morning the town was covered â€” the roofs, the streets, the fields, the common. The snow lay thick and white, and the town was silent under it, the way a town is silent when the world has been made new and no one has walked in it yet.
 
 I stood at my window in the grey morning, and I looked at the snow, and I thought about the first keeper, and the keeper before Vale, and Vale, and me. Four keepers. Four men who had kept the same thing.
 
@@ -18,11 +18,11 @@ I went out into the snow. I walked the streets of Ashford, and the town was sile
 
 The bell hung in the grey light, silent, the first sign on its rim. I had not rung it since the night it had rung for me. I stood before it, and I looked at the first sign. The bell was the keeper's bell. It had rung once, for the keeper before Vale. It had rung once, for me. I did not know whether it would ring again. I stood in the bell chamber, in the snow-light, and I put my hand on the bell. It was cold. I left the bell. I closed the tower. I walked through the snow to the end of Bellweather Lane. Bellweather House stood at the end of the lane, under the snow, empty, dark, forgotten. I stood before it. I did not enter. I stood in the snow, before the house, and I understood that the house would be kept. I would keep it. I would keep it empty, as it had always been kept, so that the first sign would have a place.
 
-I walked back through the town, through the snow, to the common. The common was white. The house was not there. I knelt in the snow, at the place where the house appeared, where the keeper's sign lay beneath the frost, and I took out the medallions. Both of them. They were warm. They had been warm since the bell had rung, since I had set the medallion in the first sign in the chamber, since I had understood what I was keeping.
+I walked back through the town, through the snow, to the common. The common was white. The house was not there. I knelt in the snow, at the place where the house appeared, where the keeper's sign lay beneath the frost, and I took out the medallions. Both of them. They were warm. They had been warm since the bell had rung, since I had set the object in the first sign in the chamber, since I had understood what I was keeping.
 
 I held them in my hands, in the falling snow, and I looked at the first sign on each. The circle. The three lines. The dot. The first sign, twice. The maker's sign. I had carried one all my life. I had found the second in the kept house. And I had returned both to the keeping.
 
-I sat in the snow, at the place where the house appeared, and I held the medallions, and I thought about the keeping. I was the keeper. I kept the forgetting. I kept the remembering. I kept the account. I kept the houses. I kept the bell. I kept the medallions. I kept the place beneath. And I would keep it all.
+I sat in the snow, at the place where the house appeared, and I held the medallions, and I thought about the keeping. I was the keeper—not because I had chosen it, but because I had accepted it. I kept the forgetting, the remembering, the account, the houses, the bell, the medallions, the place beneath. But I had begun to suspect that keeping was not the same as holding; it was the willingness to let go when the time came.
 
 I stood. I put the medallions back in my coat. I walked home through the snow. I sat at my desk. I opened the red book. I wrote:
 
@@ -30,4 +30,5 @@ The snow has come. The town is silent under it. I walked the town today. I saw t
 
 I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I left the medallions on the desk. And I sat in the dark, in the snow-light, and I thought about the keeping. I was the keeper. I had written the account. I would pass it on. The keeping would continue.
 
-And I sat in the dark, and I was content. The town was asleep under the snow. The bell was silent. The house was kept. The account was written. And I was the keeper. That was the whole of it.
+And I sat in the dark, and I was content—not because the town had been preserved, but because I had stopped expecting it to remember. The snow would melt. The account would outlast me. The keeping was not a victory; it was a tide that would continue without my permission. I was the keeper, but I was not the end of the keeping. Yet the bell in the tower, silent, seemed to measure something else—a time I would have to face when the count reached its end, and the door opened at 00:00. That hour, I knew now, was the threshold of the thirteenth sign.
+

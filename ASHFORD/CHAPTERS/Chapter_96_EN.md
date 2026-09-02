@@ -1,12 +1,12 @@
-CHAPTER 96 — THE WOMAN AT THE DOOR
+﻿CHAPTER 96 â€” THE WOMAN AT THE DOOR
 
 I did not find the lock.
 
-I carried the key with me for weeks. I tried it in every old lock I found — in the church, in the vestry, in the houses I visited, in the market. It fit none of them.
+I carried the key with me for weeks. I tried it in every old lock I found â€” in the church, in the vestry, in the houses I visited, in the market. It fit none of them.
 
 I began to think that the lock was not in Ashford. That the key had been made for a door that had been destroyed, or moved, or sealed so long ago that no one remembered where it was.
 
-I kept the key in my coat, beside the medallion, and I kept the clocks in the drawer, and I kept the account.
+I kept the key in my coat, beside the object, and I kept the clocks in the drawer, and I kept the account.
 
 And then, one evening, she came to my door.
 
@@ -133,3 +133,4 @@ She stepped inside.
 The hunt was not over.
 
 It had only just begun.
+

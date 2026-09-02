@@ -165,3 +165,5 @@ I opened the red book. I wrote:
 *I have been a keeper.*
 
 *And I have passed the keeping.*
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

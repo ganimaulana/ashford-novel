@@ -142,4 +142,4 @@ I walked home through the dark streets, with the key in my pocket, and I sat at 
 
 *I will keep the keeping, as I have kept it.*
 
-*And I will help them keep what they keep, when the work is the same.*
+*And I will help them keep what they keep, when the work is the same. I have not become one of them; I have only become less alone in the keeping—and I sensed that the thirteen signs were about to reveal themselves, one by one, as the count approached 00:00.*

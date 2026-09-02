@@ -111,3 +111,5 @@ I would leave the account.
 I would keep the keeping.
 
 And I would trust the count.
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

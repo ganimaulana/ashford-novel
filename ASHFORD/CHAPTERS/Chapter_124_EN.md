@@ -30,7 +30,7 @@ He was at his house on the lane past the mill, among the objects without history
 
 Elias was silent a moment.
 
-"The first keeper erased himself," he said. "He left no name, no history, no account of who he was. He left only the tally, and the keeping."
+"The first keeper erased himself," he said. "He left no name, no history, no account of who he was. He left only the tally, and the keeping—and the thirteen signs, which he distributed so that the count would never be lost."
 
 "I know."
 

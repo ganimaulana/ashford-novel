@@ -1,4 +1,4 @@
-CHAPTER 94 — THE KEY
+﻿CHAPTER 94 â€” THE KEY
 
 I began to search for the key.
 
@@ -38,7 +38,7 @@ He did not answer at once.
 
 "Lost?"
 
-"Not lost," he said. "Taken. A man took it, many years ago. He was a collector. He took many things from the vestry — old keys, old coins, old papers. The warden at the time did not stop him."
+"Not lost," he said. "Taken. A man took it, many years ago. He was a collector. He took many things from the vestry â€” old keys, old coins, old papers. The warden at the time did not stop him."
 
 "Do you know who the man was?"
 
@@ -52,7 +52,7 @@ The family that had moved north. The family that had owned the fourth clock.
 
 The clock was missing. The key had been taken by a Wintour.
 
-I had been to Darlington. I had found the Wintour house empty. The clock was gone. But the key — the key had been taken by a Wintour, years ago, and it had not been lost.
+I had been to Darlington. I had found the Wintour house empty. The clock was gone. But the key â€” the key had been taken by a Wintour, years ago, and it had not been lost.
 
 It had been taken.
 
@@ -114,7 +114,7 @@ I took the key home.
 
 I sat at my desk.
 
-The three clocks. The medallion. The key.
+The three clocks. The object. The key.
 
 The first sign was on all of them.
 
@@ -132,7 +132,7 @@ But I knew that I had found it.
 
 And I knew that the woman in the dark coat would be looking for it.
 
-I put the key in the drawer, with the clocks, and the medallion, and the red book.
+I put the key in the drawer, with the clocks, and the object, and the red book.
 
 I sat in the dark.
 
@@ -144,6 +144,8 @@ And I had found something that the woman in the dark coat had been searching for
 
 I did not know what it opened.
 
-But I knew that I would find out.
+But I knew that I would find out. It would open only at 00:00, and I would have to be ready when that hour came.
 
 The hunt continued.
+
+

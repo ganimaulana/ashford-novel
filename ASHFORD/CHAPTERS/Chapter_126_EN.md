@@ -117,3 +117,5 @@ The count would call.
 And when it called, I would answer.
 
 I walked north into the morning. The keeping had changed hands, but not become simple. Behind me, Ashford kept its ordinary face; ahead lay the unanswered part of the count. I could leave the duty, not its consequence.
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

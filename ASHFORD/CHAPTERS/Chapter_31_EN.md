@@ -64,3 +64,4 @@ I came home by the middle of the lane, and the house stood at the end of it, and
 
 I shut the book, and let the fire burn, and the lamp came at nine, and was carried away along the rooms, and no sound came, and I set it down as the twenty-first reading, and let it stand, and kept the Christmas.
 </content>
+The keeper's duty, the count, and the hour of the bell were drawing nearer.

@@ -72,4 +72,4 @@ I went to my desk. I opened the drawer. I took out the agreement. I took out the
 
 ---
 
-I did not end the forgetting that night, nor did I mistake delay for an answer. I returned the agreement and the account to the drawer, side by side. They did not resolve one another; they recorded the cost of either course. For the present, I would keep both—and make no claim that the town's silence belonged to me.
+I did not end the forgetting that night, nor did I mistake delay for an answer. I returned the agreement and the account to the drawer, side by side. They did not resolve one another; they recorded the cost of either course. For the present, I would keep both—and make no claim that the town's silence belonged to me. But I had begun to understand that the door was not a choice—it was a count, and the count was running toward a time I could not yet read. The thirteen signs, I sensed, were not separate mysteries but markers of a single progression, and the bell would toll when the count reached its end at 00:00.

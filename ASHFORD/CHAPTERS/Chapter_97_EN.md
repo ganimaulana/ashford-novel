@@ -1,10 +1,10 @@
-CHAPTER 97 — THE SEQUENCE
+﻿CHAPTER 97 â€” THE SEQUENCE
 
 Ysabel Nott sat in my room, by the lamp, and I set the four clocks on the desk before us.
 
 The first. The second. The third. The fourth.
 
-All four, together, for the first time in — I could not yet tell how long.
+All four, together, for the first time in â€” I could not yet tell how long.
 
 I set them in order. I, II, III, IV. They were identical. The same brass. The same cracked faces. The same first sign on the backs.
 
@@ -26,7 +26,7 @@ She was quiet a moment.
 
 "Used how?"
 
-"I do not know." She looked at the clocks. "But I know that the key is part of it. The key opens the lock. The lock was made by Aurelius Ashcroft. And the clocks — I think they are the answer to the lock."
+"I do not know." She looked at the clocks. "But I know that the key is part of it. The key opens the lock. The lock was made by Aurelius Ashcroft. And the clocks â€” I think they are the answer to the lock."
 
 "The answer?"
 
@@ -40,7 +40,7 @@ A sequence. I, II, III, IV.
 
 I did not know what it meant. But I understood that the clocks were not four separate objects. They were four parts of one thing.
 
-Four clocks. Four numbers. One lock.
+Four clocks. Four numbers. One lock. I sensed that they were only four of thirteen, the rest scattered so that no single keeper could complete the count alone.
 
 I did not know what the clocks had to do with the lock. But I knew that they were connected.
 
@@ -94,7 +94,7 @@ The families of the keepers.
 
 The Fenns. The Harlows. The Wintours. The Langfords.
 
-They were not ordinary families. They were the families of the keepers — the men who had kept the boundary before the Order, before the Agreement, before the wall.
+They were not ordinary families. They were the families of the keepers â€” the men who had kept the boundary before the Order, before the Agreement, before the wall.
 
 And each family had been given a clock.
 
@@ -120,7 +120,7 @@ I was the keeper.
 
 I had the four clocks. I had the key. I had the first sign.
 
-And I had been given all of them — by a market stall, by a library, by an old woman, by a woman in a dark coat.
+And I had been given all of them â€” by a market stall, by a library, by an old woman, by a woman in a dark coat.
 
 I did not know what the lock opened.
 
@@ -133,3 +133,4 @@ It was leading me to the lock. And the lock was made by Aurelius Ashcroft.
 I was the keeper. I was a hunter.
 
 And I was about to find out what the keepers had been keeping.
+

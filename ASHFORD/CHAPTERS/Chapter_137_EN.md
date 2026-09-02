@@ -122,7 +122,7 @@ Not to cross it. Not to find anything.
 
 To stand at the edge of it, and to understand that the calling was not about the destination.
 
-The calling was about the journey.
+The calling was about the journey, but I had begun to wonder whether the distinction between journey and destination was only a story I told myself to make the waiting bearable. The sea had its own rhythm, and the count had its own purpose, and I had not yet learned to hear either clearly.
 
 I had walked from Ashford to the marsh. From the marsh to the house on the hill. From the house on the hill to the crossroads. From the crossroads to the river. From the river to the sea.
 
@@ -146,8 +146,12 @@ And I was the keeper.
 
 I did not know what I would do next.
 
-But I knew that I would keep.
+But I knew that I would keep—though I was no longer certain whether I was keeping the count, or the count was keeping me. I only knew that the sea had its own silence, and that silence was the oldest instruction I had ever received.
 
-The keeping was the thing.
+The keeping was the thing, or so I had been told. I had said it myself, many times, in many rooms. Standing at the edge of the sea, with the medallions warm against my chest and the waves steady and indifferent, I could not tell whether the words were truth or habit.
 
-And I was the keeper.
+I was the keeper.
+
+That much I knew. What I did not know was whether the title had outlived the thing it named.
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

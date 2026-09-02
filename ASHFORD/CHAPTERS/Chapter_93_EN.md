@@ -1,8 +1,8 @@
-CHAPTER 93 — THE DARK COAT
+﻿CHAPTER 93 â€” THE DARK COAT
 
 I began to ask about the woman in the dark coat.
 
-I asked at the market. I asked at the inns. I asked at the shops, and the vestry, and the lending library. I described her as best I could — the dark coat, the still way she stood, the quiet voice that had said the object was lost long ago.
+I asked at the market. I asked at the inns. I asked at the shops, and the vestry, and the lending library. I described her as best I could â€” the dark coat, the still way she stood, the quiet voice that had said the object was lost long ago.
 
 Most people had not seen her. Some had. The descriptions were always the same: a woman, neither old nor young, who stood very still, and who asked about things that had been lost.
 
@@ -38,7 +38,7 @@ The woman in the dark coat appeared when something was found. She appeared at ma
 
 She was looking for something.
 
-I did not know what. But I knew that the clocks were part of it. And I knew that she had one of them.
+I did not know what. But I knew that the clocks were part of it. And I knew that she had one of them. They were part of the thirteen signs, and she had one of them.
 
 I had three clocks. She had the fourth.
 
@@ -88,7 +88,7 @@ But I knew that I had to find it before she did.
 
 I sat at my desk that night.
 
-The three clocks were on the desk. The medallion was beside them. The first sign was on all of them.
+The three clocks were on the desk. The object was beside them. The first sign was on all of them.
 
 I thought about the woman in the dark coat. She had been looking for the clocks for years. She had found the second. She was looking for a key now.
 
@@ -119,3 +119,5 @@ But I knew that I would find out.
 The hunt continued.
 
 And I would follow the thread to its end.
+
+

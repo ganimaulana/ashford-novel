@@ -186,4 +186,6 @@ I walked home through the dark streets, and I sat at my desk, and I opened the r
 
 *The society has tested me for the last time.*
 
-*And I have kept the thing that was given to me to keep.*
+*And I have kept the thing that was given to me to keep. The society may have tested me, but I have tested myself against them—and found that the keeping is mine, not theirs.*
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

@@ -46,3 +46,4 @@ I went home with the plain of it, and the lamp came up at the end of the lane at
 
 I wrote it down under the day, and shut the book, and let the lamp burn.
 </content>
+The keeper's duty, the count, and the hour of the bell were drawing nearer.

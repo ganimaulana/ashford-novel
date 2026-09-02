@@ -22,7 +22,7 @@ The air was colder inside than out. I had felt it before, in the spring, when I 
 
 I stepped over the threshold.
 
-The room was the same. The bare hallway. The single clock on the far wall, its hands stopped at 11:17. The cracked glass. The silence.
+The room was the same. The bare hallway. The single clock on the far wall, its hands stopped at 00:00. The cracked glass. The silence.
 
 But there was something else.
 
@@ -70,7 +70,7 @@ I could not yet tell whether it was a message, or a warning, or a test.
 
 I folded the paper and put it in my coat, beside the gear.
 
-Then I looked at the clock. 11:17. The same time as the spring. I had written it in my notebook, and I had not understood it, and I had not come back to ask what it meant.
+Then I looked at the clock. 00:00. The same time as the spring. I had written it in my notebook, and I had not understood it, and I had not come back to ask what it meant.
 
 I looked at the floor.
 

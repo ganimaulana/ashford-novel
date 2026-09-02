@@ -84,7 +84,7 @@ I stood very still.
 
 "The count is counting the keepers," I said.
 
-"The count is counting the keepers," he said. "One mark for each keeper, since the first keeper set the boundary. The tally is the record of the keepers."
+"The count is counting the keepers," he said. "One mark for each keeper, since the first keeper set the boundary. The tally is the record of the keepers." He looked at me, and in his eyes I saw the weight of every mark he had ever made. "You are the current mark, but you are not the last."
 
 I looked at him.
 
@@ -151,3 +151,5 @@ I sat at my desk. I opened the red book. I wrote:
 *But I am a keeper.*
 
 *And my mark is in the count.*
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

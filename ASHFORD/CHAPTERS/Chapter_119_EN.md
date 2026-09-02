@@ -1,8 +1,8 @@
-CHAPTER 119 — THE REALIZATION
+﻿CHAPTER 119 â€” THE REALIZATION
 
 I did not sleep that night.
 
-I lay in the dark, with the number in my mind — the fixed number, the count that did not change, the count that the boundary was set to mark.
+I lay in the dark, with the number in my mind â€” the fixed number, the count that did not change, the count that the boundary was set to mark.
 
 A count that did not change. A count of something fixed.
 
@@ -32,7 +32,7 @@ I had watched the hairline mark appear. I had written in the red book that the f
 
 What if it was not a crack?
 
-What if it was a mark — a mark added to the stone, the way a tally-mark is added to a count?
+What if it was a mark â€” a mark added to the stone, the way a tally-mark is added to a count?
 
 I stood.
 
@@ -64,7 +64,7 @@ A single mark. Straight, too straight to be natural.
 
 I put my finger to it.
 
-It was smooth. It was not a crack. It was a mark — a mark cut into the stone, or pressed into it, or made by some means I did not understand.
+It was smooth. It was not a crack. It was a mark â€” a mark cut into the stone, or pressed into it, or made by some means I did not understand.
 
 A mark that had not been there in the first year, and had appeared, and had not grown, and had not changed.
 
@@ -72,7 +72,7 @@ I stood.
 
 I walked the line of stones. I looked at every stone.
 
-The stones were old. They were worn. They carried the first sign at their base, and they carried the marks of the years — the cracks, the stains, the wear of weather and time.
+The stones were old. They were worn. They carried the first sign at their base, and they carried the marks of the years â€” the cracks, the stains, the wear of weather and time.
 
 And on the fourth stone, a mark that had appeared.
 
@@ -102,7 +102,7 @@ I looked at the first sign on the floor.
 
 The centre of the count.
 
-I had set the medallion in it once, and I had felt the place beneath.
+I had set the object in it once, and I had felt the place beneath.
 
 I looked at the first sign now.
 
@@ -114,7 +114,7 @@ A small mark.
 
 A single tally-mark, cut into the stone, at the centre of the first sign.
 
-I had not seen it before. I had not looked for it. I had set the medallion in the sign, and I had felt the warmth, and I had not looked at the centre of the sign.
+I had not seen it before. I had not looked for it. I had set the object in the sign, and I had felt the warmth, and I had not looked at the centre of the sign.
 
 I looked at it now.
 
@@ -130,7 +130,7 @@ The chamber was the centre of the count.
 
 The first sign on the floor was the tally.
 
-And the mark at the centre was a count — a count that was being kept, one mark at a time, by someone, or something, that I did not understand.
+And the mark at the centre was a count â€” a count that was being kept, one mark at a time, by someone, or something, that I did not understand.
 
 I did not know how many marks had been made. I did not know how many were left.
 
@@ -142,7 +142,7 @@ I left the chamber. I walked back along the passage, up the ladder, and out of t
 
 I walked home through the streets, and I sat at my desk, and I opened the red book, and I wrote:
 
-*The hairline mark on the fourth stone is not a crack. It is a mark — a tally-mark.*
+*The hairline mark on the fourth stone is not a crack. It is a mark â€” a tally-mark.*
 
 *There is a mark at the centre of the first sign on the floor of the chamber. The same kind of mark.*
 
@@ -155,3 +155,6 @@ I walked home through the streets, and I sat at my desk, and I opened the red bo
 *The keeper is part of the count.*
 
 *And the count is being kept.*
+
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

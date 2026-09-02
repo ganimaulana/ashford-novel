@@ -32,7 +32,7 @@ I stood very still.
 
 I looked at the book. The hand of the man who had come before Aurelius.
 
-"His name is not known," Elias said. "He was the first keeper. He built Bellweather House. He set the boundary. He carved the first sign. And then he erased his own history — not because he was afraid, but because he wanted the keeping to be about the thing, and not about the man."
+"His name is not known," Elias said. "He was the first keeper. He built Bellweather House. He set the boundary. He carved the first sign—and the twelve that followed. And then he erased his own history — not because he was afraid, but because he wanted the keeping to be about the thing, and not about the man."
 
 I stood in the lamplight, among the objects without history, and I understood.
 
@@ -120,4 +120,6 @@ But I knew that I would open it, when the time was right.
 
 The hunt had led me to the book.
 
-And the book was the beginning of something new.
+And the book was the beginning of something new—an origin that would not stay buried, and a keeper who could no longer claim to have started from nothing.
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

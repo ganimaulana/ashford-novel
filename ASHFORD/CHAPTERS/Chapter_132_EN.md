@@ -135,3 +135,5 @@ I did not know what I would do next. I did not know whether the count would call
 But I knew that I had kept the keeping.
 
 And that was enough.
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

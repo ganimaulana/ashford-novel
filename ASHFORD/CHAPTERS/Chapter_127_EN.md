@@ -113,3 +113,5 @@ I walked toward it, through the reeds, across the water, and I understood that t
 The count had called me north.
 
 And the count was not done with me yet.
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

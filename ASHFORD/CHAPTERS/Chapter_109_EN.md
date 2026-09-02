@@ -1,8 +1,8 @@
-CHAPTER 109 — THE TALLY
+﻿CHAPTER 109 â€” THE TALLY
 
 I did not see Adeline Brume for two weeks after the night in the reading room.
 
-I did not expect to. I had kept the book. I had refused to give it to the society. And I had understood that the society had been testing me — that the book had been the final test, and that I had passed by keeping it.
+I did not expect to. I had kept the book. I had refused to give it to the society. And I had understood that the society had been testing me â€” that the book had been the final test, and that I had passed by keeping it.
 
 I could not yet tell what the society would do next. I could not yet tell whether they would ask more of me, or whether they would leave me be, or whether the working relationship had ended before it had truly begun.
 
@@ -10,7 +10,7 @@ I kept the account. I walked the boundary. I carried the medallions and the gear
 
 And I read the book of the first keeper.
 
-I read it slowly, a page at a time, in the evenings, and I did not rush it. The book was not long, but it was the account of a life, and I read it as a life should be read — carefully, without hurry.
+I read it slowly, a page at a time, in the evenings, and I did not rush it. The book was not long, but it was the account of a life, and I read it as a life should be read â€” carefully, without hurry.
 
 The first keeper had set the boundary. He had carved the sign. He had built the house. He had made the agreement. He had kept the tally.
 
@@ -22,7 +22,7 @@ And I began to count the tally.
 
 ---
 
-The tally was the page of marks I had seen on the first page — small marks, like tally-marks, running in rows across the page.
+The tally was the page of marks I had seen on the first page â€” small marks, like tally-marks, running in rows across the page.
 
 I had looked at them once, and I had not understood them. I had turned the page, and I had read the words, and I had not gone back to the marks.
 
@@ -34,7 +34,7 @@ The marks ran in rows. Each row had a certain number of marks. The rows were arr
 
 I counted the marks.
 
-There were more than I had expected. Many more than the years of the keeping as I knew it — more than the fifty years of Vale, more than the twenty years of the keeper before him, more than the years of Aurelius.
+There were more than I had expected. Many more than the years of the keeping as I knew it â€” more than the fifty years of Vale, more than the twenty years of the keeper before him, more than the years of Aurelius.
 
 I counted again.
 
@@ -60,11 +60,11 @@ I opened the book again. I counted the marks again.
 
 The count was the same.
 
-I sat in the dark, with the book before me, and I understood that the tally was not a thing I could read — not yet.
+I sat in the dark, with the book before me, and I understood that the tally was not a thing I could read â€” not yet.
 
 I had read the words. I had understood the account of the first keeper's life.
 
-But the tally — the count of the years — was a language I did not yet speak.
+But the tally â€” the count of the years â€” was a language I did not yet speak.
 
 I put the book in the drawer, beside the red book.
 
@@ -78,11 +78,11 @@ I went to see Ysabel the following day.
 
 She was at her house near the river, and she let me in, and I set the book on her table.
 
-"The book of the first keeper," I said. "I have read it. It is the account of his life — the boundary, the sign, the house, the agreement, the tally."
+"The book of the first keeper," I said. "I have read it. It is the account of his life â€” the boundary, the sign, the house, the agreement, the tally."
 
 "The tally," Ysabel said.
 
-"There is a page of marks at the beginning," I said. "A tally. He writes that it is the count of the years — one mark for each year, kept since the first year."
+"There is a page of marks at the beginning," I said. "A tally. He writes that it is the count of the years â€” one mark for each year, kept since the first year."
 
 "And you have counted them."
 
@@ -102,7 +102,7 @@ I looked at her.
 
 She looked at the book. She did not open it.
 
-"The first keeper wrote that the keeping is the thing, and the man is not," she said. "If that is true, then the tally is not the count of one man's years. It is the count of the keeping's years — the years the keeping has stood, whoever kept it."
+"The first keeper wrote that the keeping is the thing, and the man is not," she said. "If that is true, then the tally is not the count of one man's years. It is the count of the keeping's years â€” the years the keeping has stood, whoever kept it."
 
 I stood in her house, in the cold light, and I understood.
 
@@ -112,7 +112,7 @@ It was the count of the keeping itself — the years the keeping had stood, from
 
 And the count was more than I had believed.
 
-Because the keeping was older than the keepers I knew.
+Because the keeping was older than the keepers I knew—older, perhaps, than the town itself, and certainly older than any record I could trust.
 
 I did not know how old.
 
@@ -124,11 +124,11 @@ I did not open the book again that week.
 
 I walked the boundary. I stood at the eastern marker. I looked at the first sign, carved into the stone, worn smooth by years.
 
-The first sign. The mark of the maker. The mark that was on the medallion, and on the clocks, and on the box, and on the bell, and on the door.
+The first sign. The mark of the maker. The mark that was on the object, and on the clocks, and on the box, and on the bell, and on the door.
 
-I had carried the medallion all my life. I had found the clocks, and the key, and the lock. I had read the letter of Aurelius. I had read the book of the first keeper.
+I had carried the object all my life. I had found the clocks, and the key, and the lock. I had read the letter of Aurelius. I had read the book of the first keeper.
 
-And now I had found the tally — the count of the keeping's years.
+And now I had found the tally â€” the count of the keeping's years.
 
 I did not know what the count was.
 
@@ -138,20 +138,23 @@ And I knew that the keeping was older than the keepers I knew.
 
 I stood at the eastern marker, in the grey light, and I understood that the mystery had not begun with Aurelius, and had not begun with Vale, and had not begun with the first keeper.
 
-It had begun before them — before the boundary, before the sign, before the house, before the agreement.
+It had begun before them â€” before the boundary, before the sign, before the house, before the agreement.
 
 And the tally was the count of those years.
 
 I walked home through the fields, and I sat at my desk, and I opened the red book, and I wrote:
 
-*I have read the book of the first keeper. He kept a tally — one mark for each year, kept since the first year.*
+*I have read the book of the first keeper. He kept a tally â€” one mark for each year, kept since the first year.*
 
 *I have counted the marks. The count is more than the years of the keeping as I know it.*
 
-*The tally is not the count of one man's years. It is the count of the keeping's years — the years the keeping has stood, whoever kept it.*
+*The tally is not the count of one man's years. It is the count of the keeping's years â€” the years the keeping has stood, whoever kept it.*
 
 *The keeping is older than the keepers I know.*
 
 *I do not know how old.*
 
-*But I will find out.*
+*But I will find out—whether the tally is older than the boundary, or the boundary is only a recent name for something that was never meant to be counted.*
+
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

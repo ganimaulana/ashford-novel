@@ -157,3 +157,5 @@ I opened the red book, and I wrote:
 *I have Ferrand's notebook. I have the tally. I have the marks of the Academy. I have the first sign.*
 
 *And I will learn the count.*
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

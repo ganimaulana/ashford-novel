@@ -48,3 +48,4 @@ I came home at the quarter to twelve, and there was no paper at the door, and th
 
 I shut the book, and let the fire burn, and went to bed with the round done and the year four days old, and the four days standing in the book as the days of the new year, and the standing was the keeping, and the keeping was kept, and I slept in it.
 </content>
+The keeper's duty, the count, and the hour of the bell were drawing nearer.

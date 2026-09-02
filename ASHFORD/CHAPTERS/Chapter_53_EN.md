@@ -102,7 +102,7 @@ The house was there.
 
 It had appeared while I was not watching, or it had been there all along, or it had waited for me to come back — I did not know which, and I did not stop to ask.
 
-I crossed the grass. I crossed the pressed floor, and the keeper's sign bent into the earth, and the threshold, and I stood in the bare room with the clock stopped at 11:17 and the chair that had not been there before.
+I crossed the grass. I crossed the pressed floor, and the keeper's sign bent into the earth, and the threshold, and I stood in the bare room with the clock stopped at 00:00 and the chair that had not been there before.
 
 The chair was still there. The paper was gone.
 
@@ -188,7 +188,7 @@ I did not open it.
 
 I do not know what is behind it. But I know now that the gear is the key to the door from the inside, and that the keeper's sign is the key to the door from the outside, and that I have been carrying the gear for weeks and have not understood what it was for.
 
-I have been keeper for a month. I have been keeping the door closed. I did not know that I was standing on the outside of a door that opens from both sides. I did not know that I was the key.
+I have been keeper for a month. I have been keeping the door closed. It is possible that I have been standing on the outside of a door that opens from both sides. It is possible that I am the key. But it is equally possible that I have been misunderstanding the door, and the key, and myself. I do not yet know.
 
 I closed the book. I put it in the drawer, with the agreement, beneath the parish account.
 

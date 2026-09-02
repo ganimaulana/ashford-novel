@@ -1,4 +1,4 @@
-CHAPTER 92 — THE THREE CLOCKS
+﻿CHAPTER 92 â€” THE THREE CLOCKS
 
 I had three clocks.
 
@@ -8,17 +8,17 @@ I could not yet tell where she was. I could not yet tell how to find her.
 
 But I had three clocks. And I had the first sign on all of them.
 
-I took out the medallion. I set it beside the clocks. The same mark. The same circle. The same three lines. The same dot.
+I took out the object. I set it beside the clocks. The same mark. The same circle. The same three lines. The same dot.
 
-The first sign was on the medallion. The first sign was on the clocks. The first sign was on the wall of the common house, and on the door that was not a door, and in the chamber beneath Bellweather House.
+The first sign was on the object. The first sign was on the clocks. The first sign was on the wall of the common house, and on the door that was not a door, and in the chamber beneath Bellweather House.
 
 I had thought the first sign was a single thing. One mark. One meaning. One mystery.
 
 I had been wrong.
 
-The first sign was not a single thing. It was a signature — a signature that appeared on objects that had been kept, or hidden, or marked for a purpose I did not yet understand.
+The first sign was not a single thing. It was a signature â€” a signature that appeared on objects that had been kept, or hidden, or marked for a purpose I did not yet understand. And I was beginning to suspect that it was the first of thirteen such signatures, each one tied to a different object, each one waiting to be found before the count could end at 00:00.
 
-The medallion. The clocks. The wall of the common house. The door.
+The object. The clocks. The wall of the common house. The door.
 
 I did not know what connected them.
 
@@ -28,7 +28,7 @@ But I knew that they were connected.
 
 I examined the three clocks more carefully.
 
-I opened each one. I looked at the mechanisms. They were identical — the same make, the same period, the same maker. Hollis, the clockmaker from the 1770s.
+I opened each one. I looked at the mechanisms. They were identical â€” the same make, the same period, the same maker. Hollis, the clockmaker from the 1770s.
 
 I looked at the numbers inside the cases. I, III, IV. Scratched into the brass, faint but deliberate.
 
@@ -56,19 +56,19 @@ I had not been to the tower since the bell had rung. I had not needed to. The be
 
 I climbed the stairs. I stood in the bell chamber. The bell hung in the dark, silent, the first sign on its rim.
 
-I took out the medallion. I held it up to the mark on the bell.
+I took out the object. I held it up to the mark on the bell.
 
-The medallion was warm.
+The object was warm.
 
-I had not held it to the bell since the winter. I had not needed to. The bell was the keeper's bell. The medallion was the first sign. They were connected. I had known that.
+I had not held it to the bell since the winter. I had not needed to. The bell was the keeper's bell. The object was the first sign. They were connected. I had known that.
 
-I held the medallion against the first sign on the bell, and I thought about the clocks.
+I held the object against the first sign on the bell, and I thought about the clocks.
 
-The first sign was on the bell. The first sign was on the medallion. The first sign was on the clocks.
+The first sign was on the bell. The first sign was on the object. The first sign was on the clocks.
 
 I did not know what the bell had to do with the clocks. I did not know whether it had anything to do with them at all.
 
-But I stood in the bell chamber, with the warm medallion in my hand, and I understood that the first sign was not a single mystery. It was a thread. A thread that ran through the medallion, and the bell, and the clocks, and the houses, and the chamber, and the place beneath.
+But I stood in the bell chamber, with the warm object in my hand, and I understood that the first sign was not a single mystery. It was a thread. A thread that ran through the object, and the bell, and the clocks, and the houses, and the chamber, and the place beneath.
 
 I had found three clocks. I had found the first sign on each of them.
 
@@ -121,3 +121,5 @@ I would find the fourth.
 And I would find the woman in the dark coat.
 
 The hunt continued.
+
+

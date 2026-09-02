@@ -1,4 +1,4 @@
-CHAPTER 128 — THE HOUSE IN THE MARSH
+﻿CHAPTER 128 â€” THE HOUSE IN THE MARSH
 
 The house stood on a patch of higher ground, surrounded by reeds and shallow water.
 
@@ -20,7 +20,7 @@ It was not locked.
 
 I pushed it open.
 
-The air inside was cold. Not the cold of the marsh — the cold of a place that had been closed for a long time, the cold of still air and dark rooms and years that had passed without disturbance.
+The air inside was cold. Not the cold of the marsh â€” the cold of a place that had been closed for a long time, the cold of still air and dark rooms and years that had passed without disturbance.
 
 I stepped inside.
 
@@ -40,13 +40,13 @@ The first sign.
 
 I stood in the empty room, in the cold air, and I looked at the first sign on the wall.
 
-The first sign. The mark of the maker. The same mark that was on the medallion, and on the stones, and on the floor of the chamber.
+The first sign. The mark of the maker. The same mark that was on the object, and on the stones, and on the floor of the chamber.
 
 I had found it in the marsh.
 
 I did not know what it meant. I did not know why the first sign was here, in a house in the middle of nowhere, in a place that was not on any map.
 
-But I knew that it was connected.
+But I knew that it was connected—a threshold among the thirteen, marked by the first sign, waiting for the keeper to recognize it.
 
 ---
 
@@ -58,7 +58,7 @@ There was nothing in the house but the first sign on the wall.
 
 I stood in the back room, in the dark, and I thought about the first sign.
 
-The first sign was on the medallion I had carried all my life. It was on the stones of the boundary. It was on the floor of the chamber. It was on the bell, and the clocks, and the key, and the box.
+The first sign was on the object I had carried all my life. It was on the stones of the boundary. It was on the floor of the chamber. It was on the bell, and the clocks, and the key, and the box.
 
 And now it was on the wall of a house in the marsh.
 
@@ -78,7 +78,7 @@ I left the house.
 
 I stood in the clearing, in the grey light, and I looked at the house, and I understood that I had not left the keeping when I left Ashford.
 
-The keeping was not a place. It was a thing — a thing that was carried, and that called, and that would not be put down.
+The keeping was not a place. It was a thing â€” a thing that was carried, and that called, and that would not be put down.
 
 I had carried the keeping for five years. I had passed it to Daniel. But the keeping had not left me.
 
@@ -93,3 +93,4 @@ But I knew that I would follow.
 The count had called.
 
 And I would answer.
+

@@ -1,4 +1,4 @@
-CHAPTER 95 — THE LOCK
+﻿CHAPTER 95 â€” THE LOCK
 
 I had the key. I could not yet tell what it opened.
 
@@ -10,13 +10,13 @@ But I knew that it opened something. The first sign was on it. It had been made 
 
 I began to try the locks.
 
-Not all of them. Not the door beneath the mill. Not the door beneath the common. I was not ready for those. But I tried the others — the chest in the vestry, the door of the tower, the old locks in the houses I had been given access to.
+Not all of them. Not the door beneath the mill. Not the door beneath the common. I was not ready for those. But I tried the others â€” the chest in the vestry, the door of the tower, the old locks in the houses I had been given access to.
 
 The key did not fit any of them.
 
 I sat at my desk, with the key in my hand, and I did not know what it opened.
 
-I had three clocks. I had the key. I had the medallion. I had the first sign on all of them.
+I had three clocks. I had the key. I had the object. I had the first sign on all of them.
 
 But I did not know what the key was for.
 
@@ -68,13 +68,13 @@ I stood before the house, in the grey light, and I looked at it.
 
 The house of the first sign. The kept house.
 
-I had found the second medallion there. I had found the passage. I had found the chamber.
+I had found the second object there. I had found the passage. I had found the chamber.
 
 I did not know whether the house held a lock that the key would fit.
 
 But I knew that I had to look.
 
-I opened the door. I crossed the bare room. I entered the windowless room, where I had found the second medallion.
+I opened the door. I crossed the bare room. I entered the windowless room, where I had found the second object.
 
 The room was bare. The table was gone. The box was gone.
 
@@ -92,13 +92,13 @@ The passage was as I had left it. The stone walls. The first signs, carved into 
 
 I walked the passage, past the first signs, to the chamber.
 
-The chamber was as I had left it. The first sign on the floor. The empty space where the medallion had been.
+The chamber was as I had left it. The first sign on the floor. The empty space where the object had been.
 
 I knelt.
 
 I looked at the first sign on the floor.
 
-I had set the medallion in it before. The stone had warmed. I had felt the place beneath.
+I had set the object in it before. The stone had warmed. I had felt the place beneath.
 
 I took out the key.
 
@@ -126,7 +126,7 @@ I walked home through the cold streets, with the key in my coat, and I did not k
 
 I sat at my desk.
 
-The key was before me. The clocks were in the drawer. The medallion was on the desk.
+The key was before me. The clocks were in the drawer. The object was on the desk.
 
 I did not know what the key was for.
 
@@ -138,9 +138,9 @@ But I knew that it existed. The key had been made for a reason. The first sign w
 
 I did not know what.
 
-But I knew that I would find it.
+But I knew that I would find it. It was sealed against any hour but 00:00, and the count of thirteen would take another step toward its end.
 
-The lock was out there. I would find it.
+The lock was out there. I would find it. It was sealed against any hour but 00:00, and the count of thirteen would take another step toward its end.
 
 I was a keeper. I was a hunter.
 
@@ -157,3 +157,5 @@ I will find it.
 I closed the book.
 
 The hunt continued.
+
+

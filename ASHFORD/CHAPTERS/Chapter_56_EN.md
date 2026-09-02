@@ -10,7 +10,7 @@ The house appeared at dusk.
 
 It did not fade into view. It was there, as it had been before, standing at the edge of the common where the grass met the pasture, its windows dark, its front door open.
 
-I crossed the common. I did not stop at the threshold. I did not look at the clock, stopped at 11:17.
+I crossed the common. I did not stop at the threshold. I did not look at the clock, stopped at 00:00.
 
 I knelt, lifted the edge of the front mat, pulled the iron ring, and opened the trapdoor.
 

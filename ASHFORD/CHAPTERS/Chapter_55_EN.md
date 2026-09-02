@@ -72,7 +72,7 @@ I stood in the vestry, in the cold light, with the book closed on the table.
 
 The stranger had told me the signs were a count of years, running out.
 
-The book said they were a record — a record kept by no one, added to by no one, present in every page, so that no one could change the wall without the signs showing.
+The book said they were a record — a record kept by no one, added to by no one, present in every page, so that no one could change the wall without the signs showing. Or so I interpreted it. The clerk did not confirm my interpretation; he only said the signs had always been there. I could not tell whether he was telling me what he knew, or what he had been told to say.
 
 I could not yet tell which was true. I could not yet tell whether they were both true — a count of years, and a record of the wall, kept by the same hand for reasons I could not see.
 

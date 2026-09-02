@@ -699,3 +699,4 @@ A Watchman was useful only if he could distinguish between what he knew, what he
 I still did not know which of those three had brought me to the mill.
 
 That was enough reason to keep watching.
+The keeper's duty, the count, and the hour of the bell were drawing nearer.

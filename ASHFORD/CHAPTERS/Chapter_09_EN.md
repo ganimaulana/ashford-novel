@@ -220,7 +220,7 @@ The next day I did the sensible thing a man does when a house has asked him a qu
 
 Since the first night I had avoided the rooms I did not use. Now I used them. In the reading room, behind a false panel in the wainscot beside the cold hearth, a drawer slid open where no drawer should have been — not by my hand, but by a pressure I happened to put on the wrong board. Inside lay a stack of notebooks in a hand I did not know, and two small objects wrapped in linen.
 
-The first was a bell, no larger than a walnut, hung on a thin chain. The second was a compass whose needle, when I opened the case, did not seek the north but turned slowly toward the end of the lane.
+The first was a bell, no larger than a walnut, hung on a thin chain. The second was a compass whose needle, when I opened the case, did not seek the north but turned slowly toward the end of the lane—a clue that what I was searching for was not a direction, but a threshold, one of thirteen, each waiting for the keeper to recognize it.
 
 I set them on the writing desk and wrote what I could: *bell — no sound yet; compass — points not north but toward the lane's end.* I did not understand them. I only noted that the hand in the notebooks wrote, again and again, of "items" that behaved unlike items, and of a house that kept more than rooms.
 

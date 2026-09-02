@@ -115,3 +115,5 @@ I opened the red book. I wrote:
 *The hunt has led me to the wall.*
 
 *And the wall is leading me to the count.*
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.

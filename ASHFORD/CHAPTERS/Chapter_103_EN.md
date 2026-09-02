@@ -164,7 +164,7 @@ I sat at the desk, with the address before me, and I thought about the three tes
 
 I had passed all three. I had been given a choice, after the first test, to continue or to stop. I had continued. I had been given a second test, and a third, and now I was being asked to meet someone.
 
-I did not know who.
+I did not know who—but I knew that the person I was about to meet would be another piece in the puzzle of the thirteen signs, and that the count was moving toward its final hour.
 
 I did not know whether I was walking into a meeting, or a trap, or something else.
 
@@ -174,4 +174,4 @@ The hunt had begun again.
 
 And I was in it.
 
-I would see it through to the end.
+I would see it through to the end, even if the end was only the confirmation that I had been following a name that led to nothing.

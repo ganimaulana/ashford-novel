@@ -1,4 +1,4 @@
-CHAPTER 115 — THE QUESTION
+﻿CHAPTER 115 â€” THE QUESTION
 
 The winter came, and the town settled into its stillness, and I kept the account.
 
@@ -6,7 +6,7 @@ I had been keeper for four years. I had been a hunter since the clock in the mar
 
 I could not yet tell what the count was counting.
 
-I carried the question through the winter. I carried it to the boundary, and to the chamber, and to the tower, and to the reading room above the chandler's shop. I carried it with the medallion warm against my chest.
+I carried the question through the winter. I carried it to the boundary, and to the chamber, and to the tower, and to the reading room above the chandler's shop. I carried it with the object warm against my chest.
 
 I did not find the answer.
 
@@ -18,13 +18,13 @@ I had not been there since the autumn. I had not been called. The society had no
 
 I went because I wanted to think.
 
-The room was as I had left it — bare, with a single lamp on a table in the middle of the floor. The key to the reading room was in my pocket, and I set it on the table, and I sat in the chair, and I thought.
+The room was as I had left it â€” bare, with a single lamp on a table in the middle of the floor. The key to the reading room was in my pocket, and I set it on the table, and I sat in the chair, and I thought.
 
 I thought about the count.
 
-I had read the book of the first keeper. I had counted the tally. I had walked the boundary, and the wall, and the chamber. I had worn the medallion, and it had warmed at every stone. I had watched the season pass.
+I had read the book of the first keeper. I had counted the tally. I had walked the boundary, and the wall, and the chamber. I had worn the object, and it had warmed at every stone. I had watched the season pass.
 
-I knew that the boundary was a count. I knew that the stones were counters. I knew that the medallion was the counter. I knew that the count was older than the keeping.
+I knew that the boundary was a count. I knew that the stones were counters. I knew that the object was the counter. I knew that the count was older than the keeping.
 
 I did not know what it was counting.
 
@@ -38,7 +38,7 @@ What if the count was counting the keeper?
 
 I had not asked myself that question before.
 
-I had assumed the count was counting the keeping — the years, the seasons, the turning of the boundary.
+I had assumed the count was counting the keeping â€” the years, the seasons, the turning of the boundary.
 
 But the first keeper had written that the tally was the count of the years. One mark for each year, kept since the first year.
 
@@ -137,3 +137,6 @@ I walked home, and I sat at my desk, and I opened the red book, and I wrote:
 *I will learn the count.*
 
 *The hunt is not over.*
+
+
+The count of thirteen signs moved forward, and the hour of the bell drew nearer.
