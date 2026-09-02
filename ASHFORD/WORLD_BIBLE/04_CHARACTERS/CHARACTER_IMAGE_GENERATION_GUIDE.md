@@ -21,22 +21,23 @@ If a visual conflict is discovered between an image and the written canon, the i
 
 ---
 
-## II. ASHFORD'S VISUAL LANGUAGE
+## II. ASHFORD'S VISUAL PHILOSOPHY
 
 The visual language must support the novel's tone:
 
 - Dark historical mystery
 - Restrained Gothic atmosphere
 - Grounded 1816 Britain
-- Realism rather than fantasy illustration
 - Subtle unease
 - Natural human imperfections
 - Muted and believable environments
 - Mystery through implication rather than visual spectacle
 
+**Core principle:** Grounded does not mean generic. Ashford characters should be distinctive, memorable, human, historically grounded, and visually coherent. Visual interest comes from silhouette, face structure, hairstyle, clothing construction, posture, expression, recurring props, and material contrast — NOT from fantasy armor, glowing eyes, supernatural symbols, excessive accessories, or magical effects.
+
 **Do NOT** make every image excessively dark, supernatural, grotesque, or occult. The supernatural should generally NOT be visually obvious unless the scene specifically requires it. Ashford should feel like a real English town in 1816 where something inexplicable is gradually intruding into ordinary life.
 
-### Visual Style Keywords
+### Visual Style Keywords (Realism Mode)
 
 - Photorealistic or cinematic realism
 - Natural human proportions
@@ -51,9 +52,109 @@ The visual language must support the novel's tone:
 - Subtle shadows
 - Believable practical lighting (candle, lamp, daylight, overcast)
 
+### Visual Style Keywords (Anime Mode)
+
+- Mature seinen-style historical anime aesthetic
+- Refined anime facial construction
+- Realistic human proportions
+- Detailed eyes without exaggerated oversized anime eyes
+- Restrained facial expressions
+- Natural hair rendering
+- Detailed fabric and clothing construction
+- Cinematic composition
+- Sophisticated lighting
+- Elegant silhouettes
+- Restrained Gothic atmosphere
+- Subtle mystery
+- Mature, realistic material rendering
+- No childish/chibi aesthetics
+- No modern anime fashion
+- No generic fantasy anime appearance
+
+The anime mode should feel like "historical mystery anime with sophisticated seinen character design" — NOT "generic fantasy anime character."
+
 ---
 
-## III. HISTORICAL STANDARD — 1816
+## III. DUAL VISUAL MODE SYSTEM
+
+Ashford now supports TWO officially supported visual modes:
+
+| Mode | Type | Description |
+|------|------|-------------|
+| A | Anime Style | Mature seinen-style historical anime aesthetic |
+| B | Realism Style | Photorealistic or highly realistic historical rendering |
+
+Both modes represent the SAME canon character. The visual style may change, but the character's identity, age, physical traits, clothing period, personality cues, and established canon must remain consistent.
+
+### Shared Identity Lock
+
+The following MUST remain identical between Anime and Realism versions:
+
+- Character identity
+- Approximate age
+- Sex
+- Face structure (adapted to rendering style)
+- Hairstyle
+- Hair colour
+- Eye colour
+- Skin tone
+- Body build
+- Height relationship
+- Distinctive facial features
+- Scars/marks if canonically established
+- Recurring accessories
+- Clothing identity
+- Silhouette
+- Behavioral visual cues
+- Historically appropriate period
+
+Only the RENDERING LANGUAGE may change.
+
+**Example: Leon Ashcroft — same character in both modes:**
+- Anime: stylized historical anime rendering with refined facial construction
+- Realism: realistic historical rendering with photographic texture
+
+Both must still be unmistakably Leon Ashcroft.
+
+### 1816 Hard Constraint — Both Modes
+
+Both Anime and Realism modes MUST obey the 1816 historical constraint. No post-1816 Victorian fashion, modern suits, modern footwear, modern accessories, steampunk, fantasy armor, modern police uniforms, or contemporary hairstyles. Clothing must be adapted to the character's social class, occupation, age, location, economic position, and scene context. Do not sacrifice historical accuracy merely to make the anime version look fashionable.
+
+### Image Output Standard
+
+Every major character should eventually support four standard outputs:
+
+1. Anime Portrait
+2. Anime Full Body
+3. Realism Portrait
+4. Realism Full Body
+
+**Naming convention:**
+
+```
+CHARACTER_NAME_ANIME_PORTRAIT_V01.png
+CHARACTER_NAME_ANIME_FULLBODY_V01.png
+CHARACTER_NAME_REALISM_PORTRAIT_V01.png
+CHARACTER_NAME_REALISM_FULLBODY_V01.png
+```
+
+### Approval System
+
+An image is APPROVED only if:
+- identity matches canon
+- age is correct
+- physical traits match Identity Lock
+- clothing is compatible with 1816
+- character differentiation is maintained
+- no forbidden modern elements appear
+- no supernatural lore is unintentionally revealed
+- visual mode is correctly executed
+
+Anime and Realism versions must be approved independently. Approval of one mode does NOT automatically approve the other.
+
+---
+
+## IV. HISTORICAL STANDARD — 1816
 
 **1816 is a hard constraint.** All clothing, grooming, accessories, architecture, materials, and general appearance must be plausible for Britain in 1816.
 
@@ -101,13 +202,17 @@ The visual language must support the novel's tone:
 
 ---
 
-## IV. MASTER CHARACTER PROMPT ARCHITECTURE
+## V. MASTER CHARACTER PROMPT ARCHITECTURE
 
 Every Ashford character prompt should follow this template structure. The template is designed so that the character identity block remains stable while scene-specific modules change.
 
 ### Template Structure
 
 ```
+0. MODE
+   - ANIME or REALISM
+   - Must alter rendering style, NOT character identity
+
 1. CHARACTER IDENTITY
    - Name
    - Approximate age
@@ -231,7 +336,7 @@ Every Ashford character prompt should follow this template structure. The templa
 
 ---
 
-## V. CHARACTER IDENTITY LOCK SYSTEM
+## VI. CHARACTER IDENTITY LOCK SYSTEM
 
 Every major character must have a compact Identity Lock — a set of traits that MUST remain stable across all future generations.
 
@@ -276,7 +381,7 @@ Different lighting, environment, mood, or expression may change the feel of an i
 
 ---
 
-## VI. TWO STANDARD IMAGE TYPES
+## VII. TWO STANDARD IMAGE TYPES
 
 ### A. CHARACTER PORTRAIT
 
@@ -312,11 +417,11 @@ Scene-specific images (character in a narrative moment, interacting with another
 
 ---
 
-## VII. NEGATIVE CONSTRAINT FRAMEWORK
+## VIII. NEGATIVE CONSTRAINT FRAMEWORK
 
 These are defaults for all Ashford character images. Specific scenes may require exceptions, but exceptions must be documented and justified.
 
-### Default Negative Constraints
+### Shared Negative Constraints (both modes)
 
 ```
 no modern clothing
@@ -333,7 +438,6 @@ no magical effects unless explicitly required
 no occult symbols unless canonically present
 no stereotypical villain styling
 no exaggerated Gothic costume
-no anime/cartoon appearance
 no excessive beauty retouching
 no plastic-looking skin
 no generic model appearance
@@ -347,13 +451,53 @@ no artificial studio lighting
 no modern background elements
 ```
 
+### Anime-Mode Negative Constraints
+
+```
+no childish anime
+no chibi
+no oversized eyes
+no exaggerated proportions
+no glossy plastic skin
+no fantasy armor
+no modern fashion
+no magical glowing effects
+no excessive accessories
+no generic dark fantasy anime
+no modern hairstyles
+no modern clothing
+no post-1816 Victorian styling
+no modern anime costumes
+no moe aesthetics
+no teenage-school-anime styling
+no high-fantasy armor
+```
+
+### Realism-Mode Negative Constraints
+
+```
+no plastic skin
+no fashion photography styling
+no modern clothing
+no modern haircut
+no modern accessories
+no fantasy armor
+no superhero aesthetic
+no excessive occult imagery
+no post-1816 Victorian styling
+no modern police styling
+no modern military uniforms
+no airbrushed skin
+no glamour-model pose
+```
+
 ### Per-Character Constraints
 
 Beyond the defaults, each character's `CHARACTER_VISUAL_CANON.md` profile includes a `MUST NOT` section with character-specific restrictions. Those take precedence over the defaults.
 
 ---
 
-## VIII. VISUAL DIFFERENTIATION RULES
+## IX. VISUAL DIFFERENTIATION RULES
 
 To prevent characters from becoming visually interchangeable:
 
@@ -387,7 +531,7 @@ These traits may exist when supported by canon. Do not artificially diversify a 
 
 ---
 
-## IX. EXPRESSION & BEHAVIOR — GUIDELINES
+## X. EXPRESSION & BEHAVIOR — GUIDELINES
 
 Avoid generic facial descriptions in prompts:
 
@@ -419,7 +563,7 @@ The image should communicate character through restrained physical behavior, not
 
 ---
 
-## X. CLOTHING GENERATION METHODOLOGY
+## XI. CLOTHING GENERATION METHODOLOGY
 
 Clothing must include, where applicable:
 
@@ -456,7 +600,7 @@ Clothing must include, where applicable:
 
 ---
 
-## XI. PROMPT MODULARITY
+## XII. PROMPT MODULARITY
 
 The system is designed so prompts can be adapted across different use cases. The Identity Lock remains stable; scene-specific modules change.
 
@@ -477,7 +621,7 @@ The system is designed so prompts can be adapted across different use cases. The
 
 ---
 
-## XII. CHARACTER-SPECIFIC PROMPT PREPARATION — WORKFLOW
+## XIII. CHARACTER-SPECIFIC PROMPT PREPARATION — WORKFLOW
 
 Individual prompts will be produced from `CHARACTER_VISUAL_CANON.md` using this repeatable process:
 
@@ -511,7 +655,7 @@ This process will be executed when individual images are requested. The current 
 
 ---
 
-## XIII. FUTURE IMAGE ASSET NAMING CONVENTION
+## XIV. FUTURE IMAGE ASSET NAMING CONVENTION
 
 When images are generated, they should be named using this convention:
 
@@ -550,7 +694,7 @@ CHARACTERS/
 
 ---
 
-## XIV. QUALITY CONTROL CHECKLIST
+## XV. QUALITY CONTROL CHECKLIST
 
 Every generated image must pass this checklist before approval.
 
@@ -596,7 +740,7 @@ Every generated image must pass this checklist before approval.
 
 ---
 
-## XV. AUTHOR APPROVAL STATUS
+## XVI. AUTHOR APPROVAL STATUS
 
 Every visual asset uses one of these statuses:
 
@@ -612,7 +756,7 @@ Only APPROVED visual references may be used as primary references for future cha
 
 ---
 
-## XVI. WORKFLOW SUMMARY
+## XVII. WORKFLOW SUMMARY
 
 ```
 CHARACTER_VISUAL_CANON.md
@@ -632,7 +776,7 @@ FUTURE IMAGE GENERATION
 
 ---
 
-## XVII. VALIDATION CHECKLIST
+## XVIII. VALIDATION CHECKLIST
 
 - [✓] `CHARACTER_VISUAL_CANON.md` was NOT modified
 - [✓] No CHAPTERS files were modified

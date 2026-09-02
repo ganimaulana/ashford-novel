@@ -1,6 +1,6 @@
 # CHARACTER IMAGE PROMPTS — ASHFORD
 
-**Status:** V1 — DRAFT / PROPOSED (not APPROVED)
+**Status:** V2 — DRAFT / PROPOSED (not APPROVED)
 **Date:** 2026-09-02
 **Scope:** Five characters (Leon Ashcroft, James Calloway, Silas Crowe, Nathaniel Graves, Thomas Vale)
 
@@ -9,35 +9,57 @@
 > Source hierarchy: manuscript → WORLD_BIBLE → `CHARACTER_VISUAL_CANON.md` → `CHARACTER_IMAGE_GENERATION_GUIDE.md` → these prompts.
 > PROPOSED details remain PROPOSED. UNRESOLVED details remain unresolved. Generated images are references, never canon.
 
+## DUAL VISUAL MODES
+
+Every character supports TWO official visual modes from the same Identity Lock:
+
+| Mode | Style |
+|------|-------|
+| **ANIME** | Mature seinen-style historical anime aesthetic — refined facial construction, realistic proportions, detailed eyes (not oversized), restrained expressions, sophisticated lighting, cinematic composition. |
+| **REALISM** | Photorealistic / highly realistic historical rendering — natural skin texture, realistic fabric, cinematic portrait photography / historical illustration influence. |
+
+Both modes must preserve: identity, age, face structure, hair, eye colour, skin tone, body build, silhouette, clothing, period (1816), behavioral cues. Only the rendering language changes. The 1816 historical constraint is a hard limit in BOTH modes.
+
+Each prompt below is written in a mode-neutral form; when generating, declare the mode by adding the appropriate style block from `CHARACTER_IMAGE_GENERATION_GUIDE.md` (Section III, Dual Visual Mode System).
+
 ---
 
 # 1. LEON ASHCROFT
+
+**Design principle:** "Memorable silhouette, restrained elegance, understated mystery."
+
+Leon must NOT look like: a Victorian gentleman from a later period, an aristocratic fantasy prince, a generic detective, a gothic vampire, an occult cultist, a superhero, a fantasy mage, or a modern anime protagonist in historical cosplay.
 
 ## Identity Lock
 
 | Element | Value | Status |
 |---------|-------|--------|
 | Age | Mid-20s | CONFIRMED |
-| Face shape | Ordinary, straight nose, neat | PROPOSED |
-| Hair | Brown, short, tidy, no beard | PROPOSED |
-| Eye colour | Hazel, alert, never-still | PROPOSED |
+| Face shape | Distinctive but believable; straight nose, composed mouth; memorable without extravagance | PROPOSED |
+| Hair | Dark brown, naturally slightly untidy | PROPOSED |
+| Eye colour | Hazel, intelligent, observant, alert | PROPOSED |
 | Complexion | Fair, lightly weathered | PROPOSED |
-| Build | Middling height and build | CONFIRMED |
-| Distinctive feature | Ink-marked fingertips; notebook in hand | PROPOSED |
-| Clothing silhouette | Dark frock/travelling coat, buff waistcoat, worn boots | PROPOSED |
+| Build | Slender / elegant build, composed posture | PROPOSED |
+| Distinctive feature | Ink-marked fingertips; notebook in hand; intelligent observant gaze | PROPOSED |
+| Clothing silhouette | Refined but practical frock/travelling coat, layered waistcoat and cravat | PROPOSED |
 | Signature accessory | Small notebook and pencil | CONFIRMED (notebook habit) |
+
+## Visual Mode Declaration
+
+- **ANIME MODE:** Mature seinen-style historical anime. Refined anime facial construction, realistic human proportions, detailed hazel eyes (not oversized), dark brown slightly untidy hair rendered naturally, detailed wool frock-coat and waistcoat fabric, cinematic composition, sophisticated lighting, restrained Gothic atmosphere. Must remain unmistakably Leon: the notebook, the ink-marked fingertips, the composed watchfulness.
+- **REALISM MODE:** Photorealistic 1816 historical rendering. Natural skin texture, realistic wool and linen, cinematic portrait photography influence. Same identity, same clothing, same era.
 
 ## Portrait Prompt
 
-> Portrait of a neat, plain English young man in his mid-20s, circa 1816. Chest-up framing. Ordinary face with a straight nose and composed mouth; face would be forgettable in a crowd. Fair, lightly weathered skin. Short tidy brown hair, no beard. Hazel eyes, alert, with the sense that they are scanning the room even while looking at the viewer. He wears a dark wool frock coat over a buff waistcoat and a plain white or cream linen shirt with a neat collar. Natural, muted daylight; simple period interior background, soft focus. Realistic human proportions, natural skin texture, restrained colour. The expression is composed and watchful, not dramatic.
+> Portrait of a striking but restrained English young man in his mid-20s, circa 1816. Chest-up framing. A distinctive, believable face with a straight nose and composed mouth — memorable without being flamboyant. Fair, lightly weathered skin. Dark brown hair, naturally slightly untidy. Hazel eyes, intelligent and observant, with the sense that they are scanning the room even while looking at the viewer. He wears a dark wool frock coat over a buff waistcoat, layered with a white linen shirt and a neatly tied cravat. Natural, muted daylight; simple period interior background, soft focus. Realistic human proportions, natural skin texture, restrained colour. The expression is composed, controlled, and quietly intelligent — not dramatic.
 
 ## Full-Body Prompt
 
-> Full-body reference of a neat, plain English young man in his mid-20s, circa 1816. Three-quarter view, standing. Middling height and build, upright and composed posture, weight evenly set. Short brown hair, no beard. Dark wool frock or travelling coat, buff waistcoat, plain white linen shirt, dark wool trousers, sturdy worn ankle boots. A small notebook and pencil held in one hand. Period-appropriate English town background: brick, stone, slate, muted colours, overcast natural daylight. Realistic proportions, believable fabric texture, no dramatic effects.
+> Full-body reference of a distinctive, elegant English young man in his mid-20s, circa 1816. Three-quarter view, standing. Slender, elegant build, composed upright posture, weight evenly set. Dark brown hair, slightly untidy. Dark wool frock or travelling coat, buff waistcoat, plain white linen shirt, neatly tied cravat, dark wool trousers, sturdy worn ankle boots. A small notebook and pencil held in one hand. Period-appropriate English town background: brick, stone, slate, muted colours, overcast natural daylight. Realistic proportions, believable fabric texture, no dramatic effects.
 
 ## Scene Prompt Foundation
 
-> Leon Ashcroft in a narrative scene: a young man in a dark travelling coat and buff waistcoat, standing in a muted 1816 English town (bellweather lane, brick buildings, oil lamps, wet cobbles), small notebook in hand, hazel eyes scanning the street as though cataloguing details. Restrained Gothic atmosphere, grounded realism, overcast or twilight natural light. He is a watcher, not a spectacle.
+> Leon Ashcroft in a narrative scene: a distinctive young man in a dark travelling coat and buff waistcoat with a neatly tied cravat, standing in a muted 1816 English town (bellweather lane, brick buildings, oil lamps, wet cobbles), small notebook in hand, hazel eyes scanning the street as though cataloguing details. Restrained Gothic atmosphere, grounded realism, overcast or twilight natural light. He is a watcher, not a spectacle — but he is a watcher one notices.
 
 ## Negative Constraints
 
@@ -53,7 +75,7 @@ no magical effects
 no occult symbols
 no stereotypical villain styling
 no exaggerated Gothic costume
-no anime/cartoon appearance
+no anime/cartoon appearance [REALISM MODE ONLY; in ANIME MODE use mature seinen-style anime aesthetic from CHARACTER_IMAGE_GENERATION_GUIDE.md §III]
 no excessive beauty retouching
 no plastic-looking skin
 no generic model appearance
@@ -88,6 +110,11 @@ no wristwatch
 | Distinctive feature | Rubs jaw when thinking; planted stance | PROPOSED |
 | Clothing silhouette | Plain dark coat, waistcoat, boots, round hat | PROPOSED |
 | Signature accessory | None (no uniform, no truncheon emphasised) | PROPOSED |
+
+## Visual Mode Declaration
+
+- **ANIME MODE:** Mature seinen-style historical anime. Broad weathered face, heavy brow, grey thinning hair rendered naturally, solid build with realistic proportions, pale measuring eyes (not oversized), plain dark coat with believable wool texture, cinematic composition, muted overcast lighting. Must remain unmistakably Calloway: the solid planted stance, the jaw-rubbing thoughtfulness, the grounded parish-official ordinariness.
+- **REALISM MODE:** Photorealistic 1816 historical rendering. Natural weathered skin, realistic wool coat, cinematic portrait photography influence. Same identity, same clothing, same era. No uniform — a local man who keeps the peace.
 
 ## Portrait Prompt
 
@@ -140,6 +167,11 @@ no generic model appearance
 | Distinctive feature | Stillness; mouth-directed gaze; silent entry | PROPOSED |
 | Clothing silhouette | Drab grey-brown coat, plain neckcloth, unremarkable | PROPOSED |
 | Signature accessory | None | PROPOSED |
+
+## Visual Mode Declaration
+
+- **ANIME MODE:** Mature seinen-style historical anime. Thin unremarkable face, dark receding hair, dark still eyes (restrained, not oversized), drab grey-brown coat, plain neckcloth, thin build with subtle motion. Muted colour palette, minimal light, still composition. Must remain unmistakably Crowe: the stillness, the mouth-directed gaze, the absence of visual drama. NO Order of Severence visual coding.
+- **REALISM MODE:** Photorealistic 1816 historical rendering. Ordinary complexion, realistic wool and linen, cinematic portrait photography influence. Same identity, same clothing, same era. The unease comes from stillness, not costume.
 
 ## Portrait Prompt
 
@@ -194,6 +226,11 @@ no generic model appearance
 | Clothing silhouette | Dated dark coat, cravat, watch chain, wire spectacles | PROPOSED |
 | Signature accessory | Wire spectacles, pocket watch on chain | PROPOSED |
 
+## Visual Mode Declaration
+
+- **ANIME MODE:** Mature seinen-style historical anime. Long lined face, thin white hair, wire spectacles, spare stooped build, realistic proportions. Dated dark coat, high collar, carefully tied cravat, watch chain. Muted overcast light, subdued palette. Must remain unmistakably Graves: the spectacles-polishing habit, the slight tremor, the deliberate scholarly bearing — visually distinct from Crowe.
+- **REALISM MODE:** Photorealistic 1816 historical rendering. Pale aged skin, realistic wool and cravat fabric, cinematic portrait photography influence. Same identity, same clothing, same era. No occult or power-user coding.
+
 ## Portrait Prompt
 
 > Portrait of an elderly English man in his early 60s, circa 1816. Chest-up framing. Long, deeply lined face with a prominent nose; spare and a little stooped. Thin white hair combed across a balding crown. Pale skin. Wire spectacles on the nose; the hand near the spectacles suggests a habit of removing and polishing them before speaking. He wears a dark coat cut in a fashion ten years out of date, a high collar, and a carefully tied cravat; a pocket watch chain crosses the waistcoat. Natural muted daylight, plain period interior. Restrained, deliberate expression — a man accustomed to being listened to. Realistic proportions, natural age.
@@ -244,6 +281,11 @@ no generic ancient-wizard aesthetic
 | Clothing silhouette | Old mended brown coat, blanket/shawl when seated | PROPOSED |
 | Signature accessory | Folded packet (the Agreement) | CONFIRMED (Agreement kept close) |
 
+## Visual Mode Declaration
+
+- **ANIME MODE:** Mature seinen-style historical anime. Gaunt deeply lined face, white scant hair, pale clear steady eyes (restrained, not oversized), thin shrunken build. Old much-mended brown coat, loose collar, blanket/shawl when seated. Warm muted light, subdued palette. Must remain unmistakably Vale: the clear steady eyes, the folded packet within reach, the deliberate minimal motion. No ancient-wizard coding.
+- **REALISM MODE:** Photorealistic 1816 historical rendering. Realistic aged skin, believable mended wool fabric, cinematic portrait photography influence. Same identity, same clothing, same era. Ambiguity preserved — no occult or Order visual cues.
+
 ## Portrait Prompt
 
 > Portrait of a very old English man, 80 or beyond, circa 1816. Chest-up framing. Thin, shrunken figure; gaunt, deeply lined face. White, scant hair. Pale, papery skin. Eyes pale yet unexpectedly clear and steady when they focus — the only vigorous thing about him. He wears an old, much-mended brown coat and a shirt with a collar too large for his neck. Muted natural light, simple period room. Restrained, guarded expression — withholding, not venerable. Realistic human ageing, no fantasy.
@@ -286,8 +328,10 @@ no exaggerated frail caricature
 - Do NOT add supernatural visual effects unless a specific scene requires it.
 - Realism and natural imperfection over beauty/stylization.
 - Identity Locks must remain stable across portrait, full-body, and scene generations.
+- **Dual-mode:** Each prompt may be rendered in ANIME or REALISM mode. The mode alters rendering style only — never identity, age, clothing period, or canon. See `CHARACTER_IMAGE_GENERATION_GUIDE.md` §III (Dual Visual Mode System) for mode style blocks and per-mode negative constraints.
+- **Four standard outputs per character:** Anime Portrait, Anime Full Body, Realism Portrait, Realism Full Body (generate later, not now).
 
 ---
 
-**Status:** V1 — DRAFT / PROPOSED (not APPROVED)
+**Status:** V2 — DRAFT / PROPOSED (not APPROVED)
 **Last Updated:** 2026-09-02

@@ -34,6 +34,33 @@ This separation ensures that:
 
 ---
 
+## 2026-09-02: Dual Character Visual Modes (ANIME + REALISM)
+
+**Event**: Revised the character image-generation system to support two official visual modes — Anime and Realism — for every character.
+
+**Actions**:
+- Updated `04_CHARACTERS/CHARACTER_IMAGE_GENERATION_GUIDE.md`:
+  - Replaced "ASHFORD'S VISUAL LANGUAGE" with "ASHFORD'S VISUAL PHILOSOPHY" (Grounded ≠ Generic; distinctive, memorable, human, historically grounded)
+  - Added Section III DUAL VISUAL MODE SYSTEM (Mode A Anime, Mode B Realism, Shared Identity Lock, 1816 constraint for both modes, image output standard, approval rules)
+  - Renumbered all subsequent sections
+  - Added MODE field to master prompt template
+  - Split negative constraints into Shared + Anime-mode + Realism-mode
+  - Visual Style Keywords split into Realism and Anime sections
+- Updated `04_CHARACTERS/CHARACTER_IMAGE_PROMPTS.md`:
+  - Leon Ashcroft revised: "ordinary / easily forgettable" replaced with "Memorable, Not Extravagant" — distinctive but believable, dark brown slightly untidy hair, slender/elegant build, refined but practical frock/travelling coat, layered waistcoat and cravat
+  - Added Visual Mode Declaration (ANIME + REALISM) for all five characters
+  - Added Dual Visual Modes header, per-mode negative constraint note, four standard outputs note
+- No manuscript files modified
+- No canon changed (Keeper/Holder, Order, Constable, Signs, Ranks, all intact)
+- No images generated
+
+**Master Index Entry**:
+> Character image system now supports ANIME and REALISM modes from the same Identity Lock. Leon revised to "Memorable, Not Extravagant." 1816 hard constraint applies to both modes. Order of Severence not visually exposed. No canon changed.
+
+**Status**: PROVISIONAL — framework ready; no images generated.
+
+---
+
 ## 2026-09-02: Individual Character Image Prompts V1
 
 **Event**: Created `CHARACTER_IMAGE_PROMPTS.md` — structured image-generation prompts for five major Ashford characters.
