@@ -42,7 +42,7 @@ I stood in the doorway.
 
 "Because I have been looking for them for longer than you have," she said. "And I have been watching you since you found the first one."
 
-I did not know what to say.
+I could not yet tell what to say.
 
 She was silent a moment. Then she reached into her coat and took out a clock.
 

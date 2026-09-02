@@ -2,7 +2,7 @@ CHAPTER 84 — THE HARVEST
 
 The harvest came, and the town gathered in the fields, and I kept the account. The town did not know I was the keeper. It did not know about the bell, or the houses, or the signs, or the place beneath. It knew only that I was a man who lived on the High Street, who kept to himself, who walked the boundary fields, who had been a watchman before the spring.
 
-I walked through the town at harvest, and I looked at the people, and I understood that I was the only one who remembered. I was the only one who knew. I was the keeper. I did not know whether the town would ever remember. I did not know whether it should. I kept the account. I wrote in the red book each evening, after the harvest work was done, and I added the days, and I kept the record.
+I walked through the town at harvest, and I looked at the people, and I understood that I was the only one who remembered. I was the only one who knew. I was the keeper. I could not yet tell whether the town would ever remember. I could not yet tell whether it should. I kept the account. I wrote in the red book each evening, after the harvest work was done, and I added the days, and I kept the record.
 
 ---
 

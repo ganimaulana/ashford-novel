@@ -6,7 +6,7 @@ I had come to the town from London, by the south road, and I had stayed in the t
 
 Now I walked north.
 
-I did not know where the road would take me. I did not know what I was looking for. I only knew that I had to walk, and that the walking was part of something I did not yet understand.
+I could not yet tell where the road would take me. I could not yet tell what I was looking for. I only knew that I had to walk, and that the walking was part of something I did not yet understand.
 
 I carried the medallions — the one I had carried all my life, and the one from the kept house — and the key to the reading room. I did not carry the gear; I had passed it to Daniel, with the book of the keeping and the agreement. I did not carry the red book — I had left it with Daniel, in the drawer.
 

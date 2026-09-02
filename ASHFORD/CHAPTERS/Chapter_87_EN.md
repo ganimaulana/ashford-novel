@@ -14,7 +14,7 @@ And yet.
 
 There was something I had not written. Not because I had forgotten it. But because I had not known how to write it.
 
-I did not know what I was looking for.
+I could not yet tell what I was looking for.
 
 I only knew that I was looking.
 

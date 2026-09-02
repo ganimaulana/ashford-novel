@@ -4,7 +4,7 @@ I stayed in the marsh for another season.
 
 I had kept the house. I had kept the ring of stones. I had kept the first sign on the floor. I had not moved the stone.
 
-I did not know what I was waiting for.
+I could not yet tell what I was waiting for.
 
 The count had called me north. The count had led me to the house. The count had shown me the beginning of the boundary.
 

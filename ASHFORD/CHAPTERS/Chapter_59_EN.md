@@ -68,7 +68,7 @@ I could tell them. I could tell them that the door was not a door. I could show 
 
 Or I could let them decide. I could let them take the gear. I could let them go to the eastern marker, and open the door that was not a door, and find nothing, and tear down the wall looking for what they thought was there.
 
-I did not know which was the right choice. I did not know whether telling them would make them stop, or whether it would make them worse.
+I could not yet tell which was the right choice. I could not yet tell whether telling them would make them stop, or whether it would make them worse.
 
 I looked at Crowe.
 

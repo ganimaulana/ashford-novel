@@ -46,7 +46,7 @@ He looked at me a long moment.
 
 "Then you are doing what no keeper has done," he said. "You are leaving more than the keeping. You are leaving the understanding."
 
-I did not know what to say.
+I could not yet tell what to say.
 
 "The first keeper kept without understanding," Silas said. "Vale kept without understanding. You have understood — the boundary, the sign, the count, the keepers. And you are leaving that understanding for the one who comes after."
 

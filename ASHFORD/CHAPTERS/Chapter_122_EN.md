@@ -28,7 +28,7 @@ There had been many keepers.
 
 I sat in the dark, with the number before me, and I understood that the keeping was older than I had believed, and larger than I had believed, and that I was one keeper among many.
 
-I did not know where I stood in the count.
+I could not yet tell where I stood in the count.
 
 I did not know how many keepers had come before me.
 

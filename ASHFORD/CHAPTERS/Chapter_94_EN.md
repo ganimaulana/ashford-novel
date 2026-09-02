@@ -2,7 +2,7 @@ CHAPTER 94 — THE KEY
 
 I began to search for the key.
 
-I did not know what it looked like, beyond the mark on it. I did not know where it had come from. I did not know whether it was still in Ashford, or whether it had been carried away, like the clocks, by someone who did not know what they had.
+I could not yet tell what it looked like, beyond the mark on it. I could not yet tell where it had come from. I could not yet tell whether it was still in Ashford, or whether it had been carried away, like the clocks, by someone who did not know what they had.
 
 I asked at the same places I had asked about the woman in the dark coat. The market. The shops. The inns. The lending library.
 

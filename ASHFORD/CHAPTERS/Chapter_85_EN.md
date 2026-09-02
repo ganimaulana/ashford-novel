@@ -8,7 +8,7 @@ I had come to Ashford as a stranger. I had become a watchman. I had become a kee
 
 I went to the church on a Sunday in October. The service was over. The town had gone home. I stood in the church, alone, in the grey light. I looked at the tower. The bell was in the tower. The keeper's bell. I had not rung it. I had not needed to. I had needed to keep it.
 
-I stood in the church, and I thought about the bell. It had rung twice — once for the keeper before Vale, once for me. It had not rung since. I did not know whether it would ring again. I did not know whether it was meant to ring again. I stood in the church, and I understood that the bell was not for ringing. It was for keeping. The bell was the keeper's bell. It was kept. It was not rung.
+I stood in the church, and I thought about the bell. It had rung twice — once for the keeper before Vale, once for me. It had not rung since. I could not yet tell whether it would ring again. I could not yet tell whether it was meant to ring again. I stood in the church, and I understood that the bell was not for ringing. It was for keeping. The bell was the keeper's bell. It was kept. It was not rung.
 
 I left the church. I walked through the streets of Ashford, in the autumn light, and I understood that the whole of the keeping was the same. The signs were not for reading. The medallions were not for using. The door was not for opening. The bell was not for ringing. They were for keeping. They were kept. And I was the keeper.
 

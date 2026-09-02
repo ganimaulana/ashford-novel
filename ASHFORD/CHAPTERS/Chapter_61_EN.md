@@ -8,7 +8,7 @@ I did not go to the common. I did not go to the eastern marker. I did not go to 
 
 I stayed in my rooms, and I kept the gear, and the agreement, and the map, and I did not open them.
 
-I did not know what I was waiting for. I had told the Order that the door was not a door, and that the sign was a memory, and that I would keep it alone. I had meant it. But I did not know what keeping it meant.
+I could not yet tell what I was waiting for. I had told the Order that the door was not a door, and that the sign was a memory, and that I would keep it alone. I had meant it. But I could not yet tell what keeping it meant.
 
 ---
 

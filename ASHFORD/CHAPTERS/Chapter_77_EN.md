@@ -38,7 +38,7 @@ I did not answer. I could not tell her. She was the town. She was the agreement.
 
 She looked at me a long moment. "I agreed to nothing," she said. "I have not agreed to anything. I am a baker. I make bread. I have never agreed to forget anything."
 
-I stood in the bakery. She had not agreed. She did not know she had agreed. The agreement was not a document she had signed. It was a forgetting she had inherited. And I could not tell her, because the telling would be the beginning of the remembering — and I did not know whether the town was ready to remember.
+I stood in the bakery. She had not agreed. She did not know she had agreed. The agreement was not a document she had signed. It was a forgetting she had inherited. And I could not tell her, because the telling would be the beginning of the remembering — and I could not yet tell whether the town was ready to remember.
 
 "I have to go," I said. I left the bakery. I walked the streets, and I understood that Margaret was the town — the town that had not agreed, because it did not know it had agreed, because the agreement was older than any of them. The agreement was the forgetting. And the forgetting was the town.
 
@@ -74,6 +74,4 @@ I went home. I sat at my desk. I opened the red book. I wrote:
 
 The agreement is the forgetting. It is kept by the keeper. The account is the remembering. It is written by the keeper. I keep both. I do not know what the keeping is for. But I know that I am the keeper. And I know that the town has forgotten, and that I remember. I do not know what I will do. But I will keep the account. I will remember.
 
-I closed the red book. I put it in the drawer. I left the medallions on the desk. And I sat in the dark, and I thought about the town, and the forgetting, and the agreement, and the account, and the remembering.
-
-I was the keeper of the place beneath. I was the keeper of the forgetting. I was the keeper of the remembering. And I did not know what I would do with them. But I knew that I could not keep them all. Something would have to change. And I was the one who would have to change it.
+I closed the red book but did not return it to the drawer. Margaret's objection had made the danger plain: a town was not an agreement in the abstract, but people who could neither recall nor consent to what had been withheld from them. I left the book open beside the medallions, uncertain whether my silence protected Ashford or merely made me comfortable with deciding for it.

@@ -2,7 +2,7 @@ CHAPTER 108 — THE OPENING
 
 I kept the book of the first keeper for three days without opening it.
 
-I did not know why I waited. I had been given the book, and the book was the account of the origins, and the account was what I had been seeking — the beginning of the keeping, the beginning of the signs, the beginning of the boundary.
+I could not yet tell why I waited. I had been given the book, and the book was the account of the origins, and the account was what I had been seeking — the beginning of the keeping, the beginning of the signs, the beginning of the boundary.
 
 But I did not open it.
 

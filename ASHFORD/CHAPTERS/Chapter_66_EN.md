@@ -56,7 +56,7 @@ I set it down. I picked up my own medallion. It was warm. I had not thought abou
 
 I set my medallion down. I looked at the two medallions, side by side, one warm and one cold. And I understood. They were not the same. They looked the same, but they were not the same. One was warm. One was cold. One had been carried. One had been kept. One had answered the keeper's sign. One had not.
 
-I did not know what the difference meant. But I knew that there was a difference.
+I could not yet tell what the difference meant. But I knew that there was a difference.
 
 I took the second medallion from the table. I held it in my hand. It was cold. I put it in my coat, beside my own.
 

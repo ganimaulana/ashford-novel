@@ -4,7 +4,7 @@ I did not leave the marsh.
 
 I built my shelter beside the house, and I stayed, and I kept the first sign on the floor of the house, and the ring of stones around it, and the count.
 
-I did not know how long I would stay. I did not know whether the count would call me further north, or whether I had come to the end of the calling.
+I could not yet tell how long I would stay. I could not yet tell whether the count would call me further north, or whether I had come to the end of the calling.
 
 But I stayed.
 

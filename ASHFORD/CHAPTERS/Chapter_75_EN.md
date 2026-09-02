@@ -14,7 +14,7 @@ I walked on. The passage ended at a chamber. The same chamber. The first sign on
 
 I knelt. I took out my medallion. I had set it here before. I had felt the warmth. I had taken it away. I set it again. It lay in the first sign, as it had before. The stone warmed. I put my hand to the floor, beside the medallion. The warmth rose through the stone, into my hand.
 
-I knelt there, with the medallion set in the first sign, and my hand on the warm floor, and I did not take the medallion away. I stayed. I did not know how long I stayed. The warmth was constant — not growing, not fading, the warmth of something deep and patient and waiting. I stayed until I understood.
+I knelt there, with the medallion set in the first sign, and my hand on the warm floor, and I did not take the medallion away. I stayed. I could not yet tell how long I stayed. The warmth was constant — not growing, not fading, the warmth of something deep and patient and waiting. I stayed until I understood.
 
 I had thought the door was the mystery. I had thought the signs were the mystery. I had thought the medallions were the mystery. I had been wrong. The mystery was beneath. The door, the signs, the medallions, the houses, the bell — they were not the mystery. They were the keeping. The keeping of the place beneath.
 

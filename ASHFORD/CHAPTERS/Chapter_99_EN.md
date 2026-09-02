@@ -160,16 +160,4 @@ I did not ask where.
 
 I did not need to.
 
-The keeping was whole.
-
-The account was written.
-
-And the hunting was over.
-
-The first sign was on the medallion, and the clocks, and the key, and the lock.
-
-I was the keeper.
-
-And I had kept the account.
-
-The end.
+The four clocks, the key, and the lock belonged together. That much had been proved. Their purpose had not. I returned them to the drawer separately, unwilling to make a single answer from objects that had spent a century apart. The account was no longer an ending; it was the only record of questions that had learned how to take a new shape.

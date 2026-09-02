@@ -14,7 +14,7 @@ I went to it each day. I entered it. I knelt at the first sign on the floor. I d
 
 I kept it.
 
-I did not know what I was keeping. I did not know what the house was for. I did not know why the first sign was on the floor.
+I could not yet tell what I was keeping. I could not yet tell what the house was for. I could not yet tell why the first sign was on the floor.
 
 But I kept it, the way the marsh people had kept it, and the way the keepers before me had kept the boundary.
 

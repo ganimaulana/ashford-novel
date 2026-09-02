@@ -4,7 +4,7 @@ I waited for the house to appear again.
 
 It did not come that night, nor the next. I went to the common each evening, as the light failed and the lamps began to burn along the High Street, and I stood at the edge of the grass where the door-shaped press remained, and I watched the twilight deepen, and the house did not come.
 
-I did not know whether it appeared on a schedule I had not yet learned, or whether it appeared only when something in Ashford had changed, or whether it had appeared as often as it had in the spring because I had been looking for it, and now that I was watching it would not come.
+I could not yet tell whether it appeared on a schedule I had not yet learned, or whether it appeared only when something in Ashford had changed, or whether it had appeared as often as it had in the spring because I had been looking for it, and now that I was watching it would not come.
 
 I had read, once, that a man who watches a door too long will begin to doubt that anyone will ever open it.
 

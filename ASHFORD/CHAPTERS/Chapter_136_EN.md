@@ -4,7 +4,7 @@ I did not stay in the town.
 
 I left the house on the hill, and I walked south, through the town, past the market square, past the church.
 
-I did not know why I walked south. The count had called me north. It had led me through the marsh, and to the house on the hill, and to the medallion of the keeper before the first keeper.
+I could not yet tell why I walked south. The count had called me north. It had led me through the marsh, and to the house on the hill, and to the medallion of the keeper before the first keeper.
 
 I had the third medallion now. I carried it with the other two, three medallions against my chest, the first sign thrice.
 

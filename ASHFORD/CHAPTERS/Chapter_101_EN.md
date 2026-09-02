@@ -8,7 +8,7 @@ I had arrived. I had seen the room. I had read the three accounts. I had underst
 
 That was the whole of my part.
 
-I did not know whether that was what the sender wanted. I did not know whether there was a correct answer at all, or whether the sender was watching me, or whether the test was already over.
+I could not yet tell whether that was what the sender wanted. I could not yet tell whether there was a correct answer at all, or whether the sender was watching me, or whether the test was already over.
 
 I waited.
 

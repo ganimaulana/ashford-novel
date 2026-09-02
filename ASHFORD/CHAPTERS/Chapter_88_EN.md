@@ -18,7 +18,7 @@ The first sign.
 
 Marianne had said the clock was one of four. Four clocks, made by a man named Hollis, unaccounted for since the 1790s. The mark had been cut into the case after the clock was made. Someone had added it, in the 1780s or 1790s, and then the clock had disappeared from the records.
 
-I did not know what that meant. But I knew that three other clocks existed, somewhere, carrying the same mark.
+I could not yet tell what that meant. But I knew that three other clocks existed, somewhere, carrying the same mark.
 
 I knew that I had to find them.
 
@@ -134,16 +134,4 @@ And I know that I am meant to find them.
 
 I closed the red book. I put it back in the drawer.
 
-I did not know what I would find at the Harlow house. I did not know whether the clock would still be there, or whether the woman in the dark coat had already taken it.
-
-But I knew that I would go.
-
-I knew that I would find out.
-
-The keeping was not over. The searching had begun.
-
-And I was no longer just a keeper. I was becoming something else. Something that did not yet have a name.
-
-But I was beginning to understand what it was.
-
-I was becoming a hunter.
+I did not know whether the Harlow clock remained in Ashford, or whether the woman in the dark coat had reached it first. I only knew that an object could be hidden in plain sight for generations and still draw the attention of the wrong hands. In the morning I would go to the Harlow house—not because the answer was waiting there, but because leaving the question unanswered had become its own kind of risk.

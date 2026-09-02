@@ -6,7 +6,7 @@ I told myself it was because the house would not appear. I told myself the passa
 
 I had learned that the keeper before Vale had opened the door, and that the bell had rung, and that the keeper had gone into the passage, and that he had not come back. I had learned that the bell was the keeper's bell, and that the first sign was on its rim, and that the medallions warmed at it. I had learned that there were two houses, and two medallions, and three signs. I had learned that the door was not a door. And I had learned that I was the keeper.
 
-I had been the keeper for two months. I had been keeping the account. I had been keeping the sign. I had been keeping the medallions. I had been keeping the gear. I had not been keeping the door. I did not know whether I would open it. But I knew that if the bell rang, I would go into the passage. And I knew that I had to be ready.
+I had been the keeper for two months. I had been keeping the account. I had been keeping the sign. I had been keeping the medallions. I had been keeping the gear. I had not been keeping the door. I could not yet tell whether I would open it. But I knew that if the bell rang, I would go into the passage. And I knew that I had to be ready.
 
 I prepared in the way I knew how. I wrote. I wrote in the red book, and in my notebook, and I wrote everything I had learned — the signs, the houses, the medallions, the bell, the keeper before Vale, the Thursday of the bell, the passage, the door.
 

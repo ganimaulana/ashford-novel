@@ -6,7 +6,7 @@ I had not heard from Adeline Brume since the auction. I had gone to the lending 
 
 I was wrong.
 
-The third test came in the form of a name — a name I did not know, written on a piece of paper, placed under the stone by the step, in the morning, the way the first letter had been placed on the hall table.
+The third test came in the form of a name — a name I could not yet tell, written on a piece of paper, placed under the stone by the step, in the morning, the way the first letter had been placed on the hall table.
 
 I brought it in. I opened it.
 

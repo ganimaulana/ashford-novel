@@ -2,7 +2,7 @@ CHAPTER 67 — THE COLD MEDALLION
 
 I carried the second medallion for three days before I took it to the common.
 
-I did not know why I waited. I had taken my own medallion to the common, and it had warmed, and the house had answered it, and the door had knocked. I had expected the second medallion to do the same — or to do something different — but I had not taken it. I had waited.
+I could not yet tell why I waited. I had taken my own medallion to the common, and it had warmed, and the house had answered it, and the door had knocked. I had expected the second medallion to do the same — or to do something different — but I had not taken it. I had waited.
 
 I had sat at my desk, with both medallions before me, and I had looked at them, and I had not known what to do with the second.
 

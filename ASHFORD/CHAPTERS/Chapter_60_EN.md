@@ -134,7 +134,7 @@ I stood in the shadow of the brewery wall, in the failing light, and I watched h
 
 I had made my decision. I had told the Order that they did not decide who was keeper. I had told them that the door was not a door, and that the sign was a memory, and that I would keep it. And I had told Crowe that I would keep it alone, if I must.
 
-I did not know whether I had done the right thing. I did not know whether the sign was a memory, or whether I had merely told them what I needed to believe.
+I could not yet tell whether I had done the right thing. I could not yet tell whether the sign was a memory, or whether I had merely told them what I needed to believe.
 
 But I had chosen. And the choosing, I understood, was the whole of being keeper.
 

@@ -50,7 +50,7 @@ I thanked her. I left the bakery. I walked down the High Street, and I thought a
 
 A sign. A mark.
 
-I did not know what sign he wore. I did not know what mark he carried.
+I could not yet tell what sign he wore. I could not yet tell what mark he carried.
 
 But I knew that there were two marks in Ashford — the circle, and the keeper's sign — and I knew that one of them was older than the Order, and I knew that a man had come a long way asking about the gear, and I knew that I had to find him before he found me.
 

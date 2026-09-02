@@ -106,4 +106,4 @@ The house at the end of Bellweather Lane was kept empty, kept closed, kept by be
 
 And I knew, sitting in the dark, that I was the keeper of the first sign, and that the house that kept the first sign was waiting for me, at the end of the lane, where no one walked, where the town had forgotten it was there.
 
-I did not know what was inside. I did not know what it was keeping. But I knew that I would enter it. And I knew that when I did, I would understand the whole of what had been kept.
+I could not yet tell what was inside. I could not yet tell what it was keeping. But I knew that I would enter it. And I knew that when I did, I would understand the whole of what had been kept.

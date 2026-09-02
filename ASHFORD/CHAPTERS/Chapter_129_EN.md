@@ -12,7 +12,7 @@ I had carried the medallion all my life. I had found the first sign on the stone
 
 And now I had found it on the wall of a house in the marsh.
 
-I did not know what it meant.
+I could not yet tell what it meant.
 
 But I knew that the first sign was everywhere.
 

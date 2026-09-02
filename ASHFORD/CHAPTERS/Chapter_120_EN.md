@@ -1,6 +1,6 @@
 CHAPTER 120 — THE KEEPER OF THE TALLY
 
-I did not know who was keeping the tally.
+I could not yet tell who was keeping the tally.
 
 I had found the marks — the hairline mark on the fourth stone, the mark at the centre of the first sign on the floor of the chamber. Marks that had appeared, and that had not grown, and that had not changed.
 

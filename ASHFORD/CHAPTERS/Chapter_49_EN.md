@@ -16,7 +16,7 @@ I had begun to think of the mark as a signature.
 
 Not a warning. Not a symbol of what was locked away. A signature — someone's way of signing a thing they had made, so that anyone who came after would know whose work it was.
 
-I did not know whose.
+I could not yet tell whose.
 
 That was the trouble with signatures. They told you the work was made. They did not tell you the maker's reasons.
 

@@ -22,7 +22,7 @@ He was in his office, at his desk, and he looked up when I came in.
 
 Calloway was silent a long moment.
 
-"The room," he said slowly. "The room above the chandler's shop. I have known it was there for years. I did not know Ferrand used it."
+"The room," he said slowly. "The room above the chandler's shop. I have known it was there for years. I could not yet tell Ferrand used it."
 
 "He was a constable," I said. "He was also a member of a society. And he used that room."
 

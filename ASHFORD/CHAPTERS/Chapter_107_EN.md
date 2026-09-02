@@ -114,7 +114,7 @@ I was the keeper. I was a hunter. I was a man who worked with a society that had
 
 And I had been given the book of the first keeper.
 
-I did not know what was in it.
+I could not yet tell what was in it.
 
 But I knew that I would open it, when the time was right.
 

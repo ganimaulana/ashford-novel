@@ -2,7 +2,7 @@ CHAPTER 116 — THE PLACE OF THE COUNTING
 
 I searched for the place of the counting through the winter.
 
-I did not know what I was looking for. I knew only that the records of the counting were in the place the counting was made, and that the place was not the Academy, and not the vestry, and not the chamber beneath Bellweather House.
+I could not yet tell what I was looking for. I knew only that the records of the counting were in the place the counting was made, and that the place was not the Academy, and not the vestry, and not the chamber beneath Bellweather House.
 
 I searched the records. I searched the maps. I searched the old books, and the old letters, and the old papers.
 

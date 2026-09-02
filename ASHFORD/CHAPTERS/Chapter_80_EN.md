@@ -10,7 +10,7 @@ I stood at the window, and I looked at the snow, and I understood that I was the
 
 I stood at the window, and I thought about the account. I had written it. I had written everything I had learned. I had written about the bell, and the houses, and the signs, and the medallions, and the passage, and the chamber, and the place beneath. I had written the account of the keeping. And I had understood that the account was not for the town. It was for the keeper. It was for the keeper who came after me.
 
-I stood at the window, in the snow-light, and I understood that I would pass the account on. Not to Vale. Not to the keeper before Vale. To the keeper who came after. I did not know who it would be. I did not know when. But I knew that the account would be kept. And I knew that the keeping would continue.
+I stood at the window, in the snow-light, and I understood that I would pass the account on. Not to Vale. Not to the keeper before Vale. To the keeper who came after. I could not yet tell who it would be. I could not yet tell when. But I knew that the account would be kept. And I knew that the keeping would continue.
 
 ---
 
