@@ -1,4 +1,4 @@
-CHAPTER 98 — THE MAKER'S NAME
+﻿CHAPTER 98 — THE MAKER'S NAME
 
 Ysabel and I searched together through the winter.
 
@@ -118,7 +118,7 @@ I took out the key.
 
 I held it in my hand.
 
-I could not yet tell what was in the box. I could not yet tell whether I should open it.
+I could not yet tell what was in the box. I could not say whether I should open it.
 
 But I was the keeper. The box had been kept for me. The letter had said it would be given to the keeper when he came.
 
@@ -167,3 +167,4 @@ I took the empty box, and I left the vault, and I walked back through the street
 I had found what Aurelius had left.
 
 And I had understood what the keepers had been keeping.
+

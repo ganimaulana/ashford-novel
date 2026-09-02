@@ -1,4 +1,4 @@
-CHAPTER 120 — THE KEEPER OF THE TALLY
+﻿CHAPTER 120 — THE KEEPER OF THE TALLY
 
 I could not yet tell who was keeping the tally.
 
@@ -38,7 +38,7 @@ But he had left the tally.
 
 The tally was not a count of years. It was a count of something else — something that the first keeper had kept, and that the keepers after him had kept, and that I was keeping now.
 
-I did not know what it was.
+I could not say what it was.
 
 But I knew that it was being kept.
 
@@ -96,7 +96,7 @@ The count was not complete.
 
 And I was not the last keeper.
 
-The tally was being kept by someone — or something — that I did not know.
+The tally was being kept by someone — or something — that I could not tell for certain.
 
 And the count would continue until it was finished.
 
@@ -126,7 +126,7 @@ I was the keeper. I was a hunter. I was a man who worked with a society that had
 
 And I had found that the tally was being kept.
 
-I did not know who was keeping it.
+I had no way of knowing who was keeping it.
 
 But I would find out.
 
@@ -135,3 +135,4 @@ The hunt had led me to the tally.
 And the tally was leading me to the keeper of the count.
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

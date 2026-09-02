@@ -1,4 +1,4 @@
-CHAPTER 117 — THE CONSTABLE BEFORE VALE
+﻿CHAPTER 117 — THE CONSTABLE BEFORE VALE
 
 I looked for Marcus Ferrand again.
 
@@ -136,7 +136,7 @@ And he had written that the keeper who comes after would keep it too.
 
 I was the keeper who came after.
 
-I sat in the dark, with Ferrand's notebook before me, and I understood that I was not the first keeper to wonder what the count was counting.
+I I sat in the stillness, with Ferrand's notebook before me, and I understood that I was not the first keeper to wonder what the count was counting.
 
 And I would not be the last.
 
@@ -159,3 +159,4 @@ I opened the red book, and I wrote:
 *And I will learn the count.*
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

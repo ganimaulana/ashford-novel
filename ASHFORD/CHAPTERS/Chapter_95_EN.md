@@ -20,9 +20,9 @@ I had three clocks. I had the key. I had the object. I had the first sign on all
 
 But I did not know what the key was for.
 
-I did not know what the clocks were for.
+I could not say what the clocks were for.
 
-I did not know why the first sign was on them.
+I could not tell for certain why the first sign was on them.
 
 I had found the objects. I had not found their meaning.
 
@@ -70,7 +70,7 @@ The house of the first sign. The kept house.
 
 I had found the second object there. I had found the passage. I had found the chamber.
 
-I did not know whether the house held a lock that the key would fit.
+I had no way of knowing whether the house held a lock that the key would fit.
 
 But I knew that I had to look.
 
@@ -104,7 +104,7 @@ I took out the key.
 
 I held it over the first sign on the floor.
 
-I did not know whether the key would fit. I did not know whether the first sign was the lock.
+I could not say whether the key would fit. I could not tell for certain whether the first sign was the lock.
 
 I set the key on the first sign.
 
@@ -120,7 +120,7 @@ The key did not open anything in the chamber.
 
 I left the chamber. I walked back along the passage. I climbed the ladder. I closed the trapdoor. I left the house.
 
-I walked home through the cold streets, with the key in my coat, and I did not know what it opened.
+I walked home through the cold streets, with the key in my coat, and I had no way of knowing what it opened.
 
 ---
 
@@ -128,15 +128,15 @@ I sat at my desk.
 
 The key was before me. The clocks were in the drawer. The object was on the desk.
 
-I did not know what the key was for.
+I could not say what the key was for.
 
 I had found it. I had tried the locks I knew. I had tried the chamber beneath Bellweather House. Nothing had opened.
 
-I did not know where the lock was.
+I could not tell for certain where the lock was.
 
 But I knew that it existed. The key had been made for a reason. The first sign was on it. It opened something.
 
-I did not know what.
+I had no way of knowing what.
 
 But I knew that I would find it. It was sealed against any hour but 00:00, and the count of thirteen would take another step toward its end.
 
@@ -156,6 +156,4 @@ I will find it.
 
 I closed the book.
 
-The hunt continued.
-
-
+A lock that no longer existed, a key that fitted nothing I knew: these were the questions the keeping had left me, and I carried them back through the town toward the hour that had not yet come.

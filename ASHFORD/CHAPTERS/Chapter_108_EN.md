@@ -1,4 +1,4 @@
-CHAPTER 108 — THE OPENING
+﻿CHAPTER 108 — THE OPENING
 
 I kept the book of the first keeper for three days without opening it.
 
@@ -20,7 +20,7 @@ Not the first sign. Not the keeper's sign. Not the circle and the line. A page o
 
 I looked at them for a long time.
 
-I did not know what they meant. I did not know whether they were a count, or a record, or a language, or a pattern.
+I did not know what they meant. I could not say whether they were a count, or a record, or a language, or a pattern.
 
 I turned the page.
 
@@ -30,7 +30,7 @@ I read it.
 
 *I have set the boundary. I have carved the sign. I have built the house. I have made the agreement.*
 
-*I have done these things because I was asked to do them, and because I believed they were necessary, and because I did not know what else to do.*
+*I have done these things because I was asked to do them, and because I believed they were necessary, and because I could not tell for certain what else to do.*
 
 *I do not know what lies beneath the boundary. I do not know what the sign marks. I do not know what the house keeps.*
 
@@ -74,7 +74,7 @@ All of it, kept by a man whose name was not in any record.
 
 And I had been given the account of what he had done.
 
-I sat in the dark, and I understood that I was not reading the beginning of a mystery.
+I I sat in the stillness, and I understood that I was not reading the beginning of a mystery.
 
 I was reading the beginning of a life.
 
@@ -98,9 +98,9 @@ And the account was the keeping.
 
 I put the book in the drawer, beside the red book, and the agreement, and the key to the reading room.
 
-I did not know what I would tell the society.
+I had no way of knowing what I would tell the society.
 
-I did not know whether I would tell them anything.
+I could not say whether I would tell them anything.
 
 But I knew that the book was not mine to give, and not theirs to take.
 
@@ -189,3 +189,5 @@ I walked home through the dark streets, and I sat at my desk, and I opened the r
 *And I have kept the thing that was given to me to keep. The society may have tested me, but I have tested myself against them—and found that the keeping is mine, not theirs.*
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+
+

@@ -136,9 +136,10 @@ The first sign was connected to everything â€” to the house, to the passage
 
 I did not know what it was for. But I knew that the house knew it. And I knew that the door was waiting for it. And I knew that I was the keeper of the first sign â€” the sign of the maker â€” and that I had been carrying it, all my life, without knowing what I carried.
 
-I sat in the dark until the lamp burned down. The object lay on the desk, catching the last of the light.
+I I sat in the stillness until the lamp burned down. The object lay on the desk, catching the last of the light.
 
 The first sign. The circle, the three lines, the dot. I did not know what it meant. But I knew that the house had answered it. And I knew that I would go back. And I knew that the next time the house appeared, I would hold the object against the first sign on the wall, and I would listen to the knocking, and I would not leave until I understood what it was telling me. The knocking was a language I had not yet learned to read—but I suspected it was the count's own voice, marking the time until the bell would call at 00:00.
 
 
 The count of thirteen signs was moving forward, and I was part of it.
+

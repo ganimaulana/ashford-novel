@@ -1,4 +1,4 @@
-CHAPTER 125 — THE NEXT KEEPER
+﻿CHAPTER 125 — THE NEXT KEEPER
 
 The spring came again to Ashford.
 
@@ -8,7 +8,7 @@ I had done what I could.
 
 Now I waited.
 
-I could not yet tell what I was waiting for. I could not yet tell whether the keeper who came after me would come in my time, or after I was gone. I could not yet tell whether I would meet him, or whether he would find the book in the drawer after I had left it.
+I could not yet tell what I was waiting for. I could not say whether the keeper who came after me would come in my time, or after I was gone. I could not determine whether I would meet him, or whether he would find the book in the drawer after I had left it.
 
 But I waited.
 
@@ -167,3 +167,4 @@ I opened the red book. I wrote:
 *And I have passed the keeping.*
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

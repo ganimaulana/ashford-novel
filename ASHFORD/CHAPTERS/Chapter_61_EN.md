@@ -8,7 +8,7 @@ I did not go to the common. I did not go to the eastern marker. I did not go to 
 
 I stayed in my rooms, and I kept the gear, and the agreement, and the map, and I did not open them.
 
-I could not yet tell what I was waiting for. I had told the Order that the door was not a door, and that the sign was a memory, and that I would keep it alone. I had meant it. But I could not yet tell what keeping it meant.
+I could not yet tell what I was waiting for. I had told the Order that the door was not a door, and that the sign was a memory, and that I would keep it alone. I had meant it. But I could not say what keeping it meant.
 
 ---
 
@@ -124,9 +124,9 @@ And between them, in my notebook, the second sign â€” the keeper's sign â�
 
 Three signs. Three marks.
 
-I did not know what they meant. I did not know how they were connected.
+I did not know what they meant. I could not say how they were connected.
 
-But I knew that I had carried the first sign all my life, and that I had been given the third sign by Vale, and that I had learned the second sign from the wall and the passage and the map. Whether they were meant to be together, or whether I was misreading their relationship, I could not yet tell.
+But I knew that I had carried the first sign all my life, and that I had been given the third sign by Vale, and that I had learned the second sign from the wall and the passage and the map. Whether they were meant to be together, or whether I was misreading their relationship, I could not determine.
 
 Three signs. And I was the keeper of all of them.
 
@@ -154,7 +154,8 @@ I sat in the dark, and I looked at the two signs, and I thought about the maker'
 
 The mystery had not begun with the spring. It had begun before I was born. And I had been carrying the first sign all my life, waiting for the day I would learn what it was for.
 
-That day, I began to suspect, had come—or was still coming. I could not yet tell. The first sign was only the beginning; there were twelve more marks waiting to be understood—each one a threshold in the count that would end when the bell called at 00:00.
+That day, I began to suspect, had come—or was still coming. I had no way of knowing. The first sign was only the beginning; there were twelve more marks waiting to be understood—each one a threshold in the count that would end when the bell called at 00:00.
 
 
 The count of thirteen signs was moving forward, and I was part of it.
+

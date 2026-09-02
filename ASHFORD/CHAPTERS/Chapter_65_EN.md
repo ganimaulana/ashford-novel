@@ -106,7 +106,8 @@ The house at the end of Bellweather Lane was kept empty, kept closed, kept by be
 
 And I wondered, sitting in the dark, whether the house that kept the first sign was truly waiting for me, or whether I was only convincing myself that it was. The end of the lane was quiet. No one walked there. But I had walked there, and I had not forgotten it.
 
-I could not yet tell what was inside. I could not yet tell what it was keeping. But I knew that I would enter it. And I knew that when I did, I would understand the whole of what had been kept.
+I could not yet tell what was inside. I could not say what it was keeping. But I knew that I would enter it. And I knew that when I did, I would understand the whole of what had been kept.
 
 
 The count of thirteen signs was moving forward, and I was part of it.
+

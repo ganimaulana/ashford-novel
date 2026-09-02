@@ -1,4 +1,4 @@
-CHAPTER 78 — THE CHOICE
+﻿CHAPTER 78 — THE CHOICE
 
 I did not sleep for three nights. I sat at my desk, with the red book open, and the agreement in the drawer, and the medallions on the desk, and I did not sleep. I was the keeper of the forgetting. I was the keeper of the remembering. And I could not yet tell what to do with them.
 
@@ -10,7 +10,7 @@ I sat at the desk, in the dark, and I thought about the choice. I could keep the
 
 I sat in the dark, and I thought about the choice, and I did not know which was right. The town had agreed to forget. The town had agreed for a reason. The keepers had kept the forgetting for longer than anyone could remember. And I was the keeper. I was the one who kept the forgetting. I was the one who would keep it, or end it.
 
-I did not know what the place beneath was. I did not know why the town had agreed to forget it. I did not know whether the forgetting was a protection, or a crime, or a mercy, or a lie. I sat in the dark, and I did not know.
+I did not know what the place beneath was. I could not say why the town had agreed to forget it. I could not tell for certain whether the forgetting was a protection, or a crime, or a mercy, or a lie. I I sat in the stillness, and I had no way of knowing.
 
 ---
 
@@ -73,3 +73,5 @@ I went to my desk. I opened the drawer. I took out the agreement. I took out the
 ---
 
 I did not end the forgetting that night, nor did I mistake delay for an answer. I returned the agreement and the account to the drawer, side by side. They did not resolve one another; they recorded the cost of either course. For the present, I would keep both—and make no claim that the town's silence belonged to me. But I had begun to understand that the door was not a choice—it was a count, and the count was running toward a time I could not yet read. The thirteen signs, I sensed, were not separate mysteries but markers of a single progression, and the bell would toll when the count reached its end at 00:00.
+
+

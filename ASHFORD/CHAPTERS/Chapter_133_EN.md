@@ -36,7 +36,7 @@ It was warm now.
 
 I held it up.
 
-I did not know why it was warm. I was in the house in the marsh, at the first sign on the floor. The object had warmed there before.
+I could not say why it was warm. I was in the house in the marsh, at the first sign on the floor. The object had warmed there before.
 
 But it was warmer now.
 
@@ -58,7 +58,7 @@ The count had led me to the house. The count had kept me at the house. And now t
 
 Calling it somewhere.
 
-I did not know where.
+I could not tell for certain where.
 
 But I knew that I would follow.
 
@@ -104,7 +104,7 @@ I walked north for a week.
 
 The marsh fell behind me. The land rose. The fields returned, and the lanes, and the small towns.
 
-I did not know where I was going. I did not know what the count was calling me to.
+I had no way of knowing where I was going. I could not say what the count was calling me to.
 
 But the object was warm.
 
@@ -140,7 +140,7 @@ The count had called me north. The count had led me through the marsh, and away 
 
 And the object was warm.
 
-I did not know what the house was. I did not know why the count had brought me here.
+I could not tell for certain what the house was. I had no way of knowing why the count had brought me here.
 
 But I knew that I would go to it.
 
@@ -150,3 +150,4 @@ And I would answer.
 
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

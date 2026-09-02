@@ -112,9 +112,10 @@ I had not known that the bell was part of it. I had not known that the bell was 
 
 I had returned it. I had carried the first sign all my life, and I had returned it to the house that had been waiting for it, and I had not known what I was doing. But I had done it. And the house had answered. And the bell â€” the bell that does not ring â€” was the keeper's bell.
 
-I did not know what it meant. But I knew that the bell was part of the keeping. And I knew that I would find out. I sat in the dark until the lamp burned down. The two medallions lay on the desk, warm in the dark. The first sign, returned. And the bell â€” the keeper's bell â€” waiting.
+I did not know what it meant. But I knew that the bell was part of the keeping. And I knew that I would find out. I I sat in the stillness until the lamp burned down. The two medallions lay on the desk, warm in the dark. The first sign, returned. And the bell â€” the keeper's bell â€” waiting.
 
 I would go to the tower. I would find the bell. And I would learn what the keeper's bell was for.
 
 
 The count of thirteen signs was moving forward, and I was part of it.
+

@@ -1,4 +1,4 @@
-CHAPTER 55 — THE COUNT
+﻿CHAPTER 55 — THE COUNT
 
 I went to the mill the next morning to test the stranger's words.
 
@@ -74,7 +74,7 @@ The stranger had told me the signs were a count of years, running out.
 
 The book said they were a record — a record kept by no one, added to by no one, present in every page, so that no one could change the wall without the signs showing. Or so I interpreted it. The clerk did not confirm my interpretation; he only said the signs had always been there. I could not tell whether he was telling me what he knew, or what he had been told to say.
 
-I could not yet tell which was true. I could not yet tell whether they were both true — a count of years, and a record of the wall, kept by the same hand for reasons I could not see.
+I could not yet tell which was true. I could not say whether they were both true — a count of years, and a record of the wall, kept by the same hand for reasons I could not see.
 
 But I knew that the stranger had come to Ashford and told me the count was running out. And I knew that the book in front of me said the count had never stopped being kept.
 
@@ -116,7 +116,7 @@ I closed the book. I put it in the drawer, with the agreement, beneath the paris
 
 Then I took the gear from my coat and placed it on the desk, and I looked at it, and I thought about the man who had come a long way to tell me the count was running out, and about the signs that were everywhere, and about the door that opened from both sides, and about the house that appeared when the door needed to be opened.
 
-I did not know who the stranger was. I did not know what the signs were for. I did not know whether the count was running out.
+I could not say who the stranger was. I could not tell for certain what the signs were for. I had no way of knowing whether the count was running out.
 
 But I knew that I had to find out.
 
@@ -125,3 +125,4 @@ And I knew that the only way to find out was to go back down into the passage, a
 I would count them myself. I would walk the whole length of the passage.
 
 And I would find out what the keeper's sign was counting, before the stranger — or the Order — or the door itself — decided for me.
+

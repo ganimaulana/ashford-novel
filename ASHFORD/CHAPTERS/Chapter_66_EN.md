@@ -90,9 +90,10 @@ I sat in the dark, and I looked at them, and I thought about the house at the en
 
 I had thought the mystery was about the door. I had thought it was about the signs. I had thought it was about the keeper's sign, and the Order's sign, and the first sign. I had not understood that there were two first signs. Two medallions. Two markers. One carried. One kept.
 
-And I had carried one all my life, without knowing what it was. I did not know what the second was for. I did not know why it had been kept.
+And I had carried one all my life, without knowing what it was. I did not know what the second was for. I could not say why it had been kept.
 
 But I knew that I had found it. And I knew that the keeping â€” the long, silent keeping of the house at the end of Bellweather Lane â€” had been waiting for me.
 
 I had entered the kept house. I had found the second object. And I had understood that the mystery was not about the door. It was about the medallions. And I was the keeper of both. Two of thirteen—and the remaining eleven would reveal themselves as the count turned toward 00:00.
+
 

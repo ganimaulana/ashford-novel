@@ -1,4 +1,4 @@
-CHAPTER 132 — THE KEEPING OF THE MARSH
+﻿CHAPTER 132 — THE KEEPING OF THE MARSH
 
 I stayed with the marsh people through the autumn.
 
@@ -14,7 +14,7 @@ I went to it each day. I entered it. I knelt at the first sign on the floor. I d
 
 I kept it.
 
-I could not yet tell what I was keeping. I could not yet tell what the house was for. I could not yet tell why the first sign was on the floor.
+I could not yet tell what I was keeping. I could not say what the house was for. I could not determine why the first sign was on the floor.
 
 But I kept it, the way the marsh people had kept it, and the way the keepers before me had kept the boundary.
 
@@ -130,10 +130,11 @@ I had kept the house in the marsh. I had kept it through the winter. I had kept 
 
 And the keeping was enough.
 
-I did not know what I would do next. I did not know whether the count would call me further.
+I did not know what I would do next. I could not say whether the count would call me further.
 
 But I knew that I had kept the keeping.
 
 And that was enough.
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

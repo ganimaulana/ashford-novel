@@ -1,4 +1,4 @@
-CHAPTER 124 — THE INSTRUCTION
+﻿CHAPTER 124 — THE INSTRUCTION
 
 I began to prepare the account.
 
@@ -110,7 +110,7 @@ I had written the book of the keeping.
 
 I had prepared for the keeper who would come after me.
 
-I did not know who he was. I did not know when he would come.
+I could not say who he was. I could not tell for certain when he would come.
 
 But I would be ready.
 
@@ -123,3 +123,4 @@ I had kept the account.
 I had prepared the instruction.
 
 And I had trusted the count.
+

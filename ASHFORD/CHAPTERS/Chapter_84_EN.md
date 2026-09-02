@@ -1,15 +1,67 @@
-CHAPTER 84 — THE HARVEST
+﻿CHAPTER 84 — THE HARVEST
 
-The harvest came, and the town gathered in the fields, and I kept the account. The town did not know I was the keeper. It did not know about the bell, or the houses, or the signs, or the place beneath. It knew only that I was a man who lived on the High Street, who kept to himself, who walked the boundary fields, who had been a watchman before the spring.
+The harvest came, and the town gathered in the fields. I walked among them, not as a keeper, but as a man who had once been a watchman, and who was now something else.
 
-I walked through the town at harvest, and I looked at the people, and I understood that I was the only one who remembered. I was the only one who knew. I was the keeper. I could not yet tell whether the town would ever remember. I could not yet tell whether it should. I kept the account. I wrote in the red book each evening, after the harvest work was done, and I added the days, and I kept the record.
+The town did not know I was the keeper. It did not know about the bell, or the houses, or the signs, or the place beneath. It knew only that I was a man who lived on the High Street, who kept to himself, who walked the boundary fields, who had been a watchman before the spring.
 
----
+I walked through the town at harvest, and I looked at the people. They were binding sheaves, repairing carts, calling to one another across the stubble. They were ordinary. They were alive. And they did not know that the ground beneath their feet had been counted, marked, and kept.
 
-In September, the stranger returned. I had not seen him since the spring, since the night he had come to the common, since he had told me that the count was running out. He came to my rooms in the evening. He stood in the doorway, older than I remembered, with the same bag at his feet, and the same mark on his coat, turned toward me.
+I was the only one who remembered. I was the only one who knew. I kept the account. I wrote in the red book each evening, after the harvest work was done, and I added the days, and I kept the record.
 
-"You are still the keeper," he said. "I am." "I did not think you would be." He looked at me. "I thought you would open the door. I thought you would end the keeping. I thought the count would run out, and you would open the door." "The count was not a count," I said. "The signs were not a count of years. They were a record. A record of the keeping." He was silent. "I have read the account," he said. "I have read what you have written." "You have read the red book?" "I have." He looked at me. "I have been watching you since the spring. I have been reading what you write. I know about the bell, and the houses, and the medallions, and the chamber, and the place beneath." I stood in the room. The stranger had read the account. The stranger knew everything. "Then you know what I am keeping," I said. "I know." "And you know that the count was not running out." "I know." He was silent a moment. "I was wrong. I came to Ashford believing the count was running out, believing the door had to be opened, believing the keeping had to end. I was wrong." I looked at him. "Then why have you come?" "To tell you that you are right," he said. "The count was not a count. The signs were a record. The door was not a door. The keeping was not meant to end." He stood in the doorway. "The account is kept," he said. "The keeping is whole. I came to tell you that." "And what will you do?" "I will go," he said. "I came to Ashford believing I was meant to end the keeping. I have learned that I was meant to see it kept." He turned. "The account is yours," he said. "The keeping is yours. I will not trouble you again." He went out.
+But I also walked the boundary. I checked the stones. I stood at the fourth stone, where the hairline mark still lay across its face, unchanged. I stood at the eastern marker, where the first sign was cut into the base. The count was still there. The count had not changed.
 
-I stood in the room. The stranger had come. The stranger had read the account. The stranger had said I was right. I did not know whether to believe him. But I had kept the account. And the account had told him what the keeping was. I sat at my desk. I opened the red book. I wrote: The stranger returned today. He had read the account. He said I was right. He said the keeping was not meant to end. He has gone. I am the keeper. I have kept the account. The keeping is whole.
+In September, the stranger returned.
 
-I closed the red book. I put it in the drawer. I left the medallions on the desk. And I sat in the dark, and I thought about the stranger's admission. He had come to end the keeping, but he had seen that the account itself was the continuation. I was the keeper, but the account was not mine to withhold. It would be read by another, and another after that. The bell was silent, the house was kept, but the account was no longer a record—it was a seed. And the seed would grow when the door opened at 00:00—the hour that would mark the union of all thirteen signs.
+I had not seen him since the spring, since the night he had come to the common, since he had told me that the count was running out. He came to my rooms in the evening. He stood in the doorway, older than I remembered, with the same bag at his feet, and the same mark on his coat, turned toward me.
+
+"You are still the keeper," he said.
+
+"I am."
+
+"I did not think you would be." He looked at me. "I thought you would open the door. I thought you would end the keeping. I thought the count would run out, and you would open the door."
+
+"The count was not a count," I said. "The signs were not a count of years. They were a record. A record of the keeping."
+
+He was silent.
+
+"I have read the account," he said. "I have read what you have written."
+
+"You have read the red book?"
+
+"I have." He looked at me. "I have been watching you since the spring. I have been reading what you write. I know about the bell, and the houses, and the medallions, and the chamber, and the place beneath."
+
+I stood in the room. The stranger had read the account. The stranger knew everything.
+
+"Then you know what I am keeping," I said.
+
+"I know."
+
+"And you know that the count was not running out."
+
+"I know." He was silent a moment. "I was wrong. I came to Ashford believing the count was running out, believing the door had to be opened, believing the keeping had to end. I was wrong."
+
+"Then why have you come?"
+
+"To tell you that you are right," he said. "The count was not a count. The signs were a record. The door was not a door. The keeping was not meant to end."
+
+He stood in the doorway. "The account is kept," he said. "The keeping is whole. I came to tell you that."
+
+"And what will you do?"
+
+"I will go," he said. "I came to Ashford believing I was meant to end the keeping. I have learned that I was meant to see it kept."
+
+He turned. "The account is yours," he said. "The keeping is yours. I will not trouble you again."
+
+He went out.
+
+I stood in the room. The stranger had come. The stranger had read the account. The stranger had said I was right. I did not know whether to believe him. But I had kept the account. And the account had told him what the keeping was.
+
+I sat at my desk. I opened the red book. I wrote:
+
+The stranger returned today. He had read the account. He said I was right. He said the keeping was not meant to end. He has gone. I am the keeper. I have kept the account. The keeping is whole.
+
+But I did not write what I was thinking: that the stranger's admission had not changed the weight of the gear. I had not needed his confirmation. I had needed to know whether the keeping was mine alone, or whether it was shared.
+
+Now I knew. The keeping was mine. The account was mine. The count was still there, waiting, unchanged.
+
+I closed the red book. I put it in the drawer. I sat in the stillness, and I thought about the stranger's admission. He had come to end the keeping, but he had seen that the account itself was the continuation. I was the keeper, but the account was not mine to withhold. It would be read by another, and another after that. The bell was silent, the house was kept, but the account was no longer a record—it was a seed. And the seed would grow when the door opened at 00:00—the hour that would mark the union of all thirteen signs.

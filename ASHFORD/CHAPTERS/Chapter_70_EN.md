@@ -56,7 +56,7 @@ I lowered the object. I looked at the bell. It was the keeper's bell. It had nev
 
 ---
 
-I did not ring it. I stood in the bell chamber, and I looked at the bell, and I did not ring it. I did not know what would happen if it rang. I did not know whether it would wake the town, or wake something beneath it, or whether it would simply ring, and be heard, and mean nothing.
+I did not ring it. I stood in the bell chamber, and I looked at the bell, and I did not ring it. I did not know what would happen if it rang. I could not say whether it would wake the town, or wake something beneath it, or whether it would simply ring, and be heard, and mean nothing.
 
 I stood there for a long time. Then I turned, and I went down the stairs, and I closed the door of the tower, and I locked it with the keeper's key.
 
@@ -72,13 +72,15 @@ I closed the red book. I put it in the drawer, with the agreement, and the map, 
 
 And I sat in the dark, and I thought about the bell, and about the first sign on its rim, and about the medallions that warmed at it, and about the house at the end of the lane, and the house that appears, and the door, and the signs.
 
-The bell was the third sign. The keeper's bell. The bell that does not ring. I did not know what it was for. But I knew that it had been waiting. And I knew that I would find out.
+The bell was the third sign. The keeper's bell. The bell that does not ring. I could not tell for certain what it was for. But I knew that it had been waiting. And I knew that I would find out.
 
-I sat in the dark, with the key on the desk, and I thought about the bell. It had not rung in living memory. It had hung in the tower, silent, waiting. And I had stood in the bell chamber, and I had looked at the first sign on its rim, and I had not rung it.
+I I sat in the stillness, with the key on the desk, and I thought about the bell. It had not rung in living memory. It had hung in the tower, silent, waiting. And I had stood in the bell chamber, and I had looked at the first sign on its rim, and I had not rung it.
 
-I did not know whether I had chosen rightly. I only knew that the bell had been waiting, and that I had been brought to it. What that meant, I could not yet say. I was the keeper of the first sign. I was the keeper of the keeper's sign. I was the keeper of the bell. And I was the keeper of the keeping.
+I had no way of knowing whether I had chosen rightly. I only knew that the bell had been waiting, and that I had been brought to it. What that meant, I could not yet say. I was the keeper of the first sign. I was the keeper of the keeper's sign. I was the keeper of the bell. And I was the keeper of the keeping.
 
-I did not know what the bell was for. But I would find out. And when I did, I would know whether to ring it. The bell was the call signal, and the call would come from the place beneath—and the call would come at 00:00.
+I could not say what the bell was for. But I would find out. And when I did, I would know whether to ring it. The bell was the call signal, and the call would come from the place beneath—and the call would come at 00:00.
 
 
 The count of thirteen signs was moving forward, and I was part of it.
+
+

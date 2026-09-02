@@ -4,7 +4,7 @@ I had three clocks.
 
 I set them on the desk, side by side, in the order of their numbers. I, III, IV. The second was missing. Somewhere in Ashford, or beyond it, the woman in the dark coat had the second clock. She had bought it from the Fenn family years ago, and she had not been seen since.
 
-I could not yet tell where she was. I could not yet tell how to find her.
+I could not yet tell where she was. I could not say how to find her.
 
 But I had three clocks. And I had the first sign on all of them.
 
@@ -40,9 +40,9 @@ I had thought the first sign was the sign of the maker.
 
 But the clocks were made by Hollis, not by the maker of the first sign. The mark had been added after the clocks were built. Someone had taken four clocks, and had added the first sign to them, and had numbered them, and had sent them out into the world.
 
-I did not know who.
+I could not say who.
 
-I did not know why.
+I could not tell for certain why.
 
 But I knew that the four clocks were meant to be found. Not by anyone. By someone.
 
@@ -66,13 +66,13 @@ I held the object against the first sign on the bell, and I thought about the cl
 
 The first sign was on the bell. The first sign was on the object. The first sign was on the clocks.
 
-I did not know what the bell had to do with the clocks. I did not know whether it had anything to do with them at all.
+I had no way of knowing what the bell had to do with the clocks. I could not say whether it had anything to do with them at all.
 
 But I stood in the bell chamber, with the warm object in my hand, and I understood that the first sign was not a single mystery. It was a thread. A thread that ran through the object, and the bell, and the clocks, and the houses, and the chamber, and the place beneath.
 
 I had found three clocks. I had found the first sign on each of them.
 
-I did not know what it meant.
+I could not tell for certain what it meant.
 
 But I knew that I was following the thread.
 
@@ -84,7 +84,7 @@ I did not sleep that night.
 
 I sat at my desk, with the three clocks before me, and I thought about the second clock. The woman in the dark coat had taken it, years ago. She had been looking for the clocks. She had known about them long before I had.
 
-I did not know who she was. I did not know where she was. I did not know whether she was still looking.
+I had no way of knowing who she was. I could not say where she was. I could not tell for certain whether she was still looking.
 
 But I knew that I had to find her.
 
@@ -112,7 +112,7 @@ I was a keeper. I was a hunter.
 
 And the hunt was not over.
 
-I did not know where the thread would lead. But I would follow it.
+I had no way of knowing where the thread would lead. But I would follow it.
 
 I had three clocks.
 
@@ -120,6 +120,4 @@ I would find the fourth.
 
 And I would find the woman in the dark coat.
 
-The hunt continued.
-
-
+The three clocks sat together, and their three first signs were the map of something larger than any single keeper. The hunt was no longer mine alone.

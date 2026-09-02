@@ -104,7 +104,7 @@ I closed the red book.
 
 I put it in the drawer, with the letter inside.
 
-I sat in the dark.
+I I sat in the stillness.
 
 I was the keeper. I was a hunter.
 
@@ -155,4 +155,5 @@ I did not ask where.
 I did not need to.
 
 The four clocks, the key, and the lock belonged together. That much had been proved. Their purpose had not. I returned them to the drawer separately, unwilling to make a single answer from objects that had spent a century apart. The account was no longer an ending; it was the only record of questions that had learned how to take a new shape. The bell would toll at 00:00 when the count of thirteen was complete.
+
 

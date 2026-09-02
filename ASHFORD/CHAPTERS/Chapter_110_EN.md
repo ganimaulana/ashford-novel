@@ -1,4 +1,4 @@
-CHAPTER 110 — THE OLDER KEEPING
+﻿CHAPTER 110 — THE OLDER KEEPING
 
 I spent the autumn trying to understand the tally.
 
@@ -142,7 +142,7 @@ And the marks in the oldest book of the Academy were the same marks, in the same
 
 The count was older than the boundary.
 
-I did not know what that meant. I did not know what the count was counting. I did not know why the first keeper had made the same tally in two books.
+I did not know what that meant. I could not say what the count was counting. I could not tell for certain why the first keeper had made the same tally in two books.
 
 But I knew that the keeping was older than the boundary.
 
@@ -170,7 +170,7 @@ I was the keeper. I was a hunter. I was a man who worked with a society that had
 
 And I had found a count that was older than the boundary.
 
-I did not know what it was counting.
+I had no way of knowing what it was counting.
 
 But I knew that I would find out.
 
@@ -179,3 +179,4 @@ The hunt had led me to the tally.
 And the tally was leading me somewhere older—older than the keepers, older than the boundary, older than the name of Ashford itself. I did not yet know what lay at the end of that trail, but I knew the trail was not new. It had been marked before I was born.
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

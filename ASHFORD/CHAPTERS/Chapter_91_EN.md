@@ -1,4 +1,4 @@
-CHAPTER 91 — THE RETURN
+﻿CHAPTER 91 — THE RETURN
 
 I returned to Ashford on the seventh day.
 
@@ -120,7 +120,7 @@ I stood in the room, with the clock in my hands.
 
 The man in the dark coat had been here. He had offered money. He had been refused.
 
-I did not know whether he would come back.
+I could not say whether he would come back.
 
 "I will not sell it," she said again. "But I will let you borrow it."
 
@@ -128,7 +128,7 @@ I looked at her.
 
 "Bring it back," she said. "When you have found what you are looking for."
 
-I did not know what to say. I thanked her. I left the house with the fourth clock, and I walked home through the streets of Ashford, with the weight of it in my coat.
+I could not tell for certain what to say. I thanked her. I left the house with the fourth clock, and I walked home through the streets of Ashford, with the weight of it in my coat.
 
 I had three clocks.
 
@@ -152,7 +152,7 @@ But I had three.
 
 And I would find the fourth.
 
-I did not know what the clocks were for. I did not know why the first sign was on them. I did not know who had numbered them, or why, or when.
+I had no way of knowing what the clocks were for. I could not say why the first sign was on them. I could not tell for certain who had numbered them, or why, or when.
 
 But I knew that I was not the only one looking.
 
@@ -175,3 +175,4 @@ I was a hunter.
 And I would not stop until I had found the second clock.
 
 And until I had learned what the clocks were for.
+

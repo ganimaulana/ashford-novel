@@ -76,7 +76,7 @@ I counted the marks.
 
 I wrote the number in the red book.
 
-And then I sat in the dark, and I looked at the number, and I understood that I did not know what it meant.
+And then I sat in the dark, and I looked at the number, and I understood that I could not say what it meant.
 
 But I knew that I needed to find out.
 
@@ -120,9 +120,9 @@ I walked home through the streets, with the number in my pocket, and I understoo
 
 I had found the tally. I had counted the marks. I had written the number.
 
-But I did not know what the number meant.
+But I could not tell for certain what the number meant.
 
-And I did not know where the counting had been made.
+And I had no way of knowing where the counting had been made.
 
 I walked home, and I sat at my desk, and I opened the red book, and I wrote:
 
@@ -140,3 +140,4 @@ I walked home, and I sat at my desk, and I opened the red book, and I wrote:
 
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

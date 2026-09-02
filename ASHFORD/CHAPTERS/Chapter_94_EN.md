@@ -2,7 +2,7 @@
 
 I began to search for the key.
 
-I could not yet tell what it looked like, beyond the mark on it. I could not yet tell where it had come from. I could not yet tell whether it was still in Ashford, or whether it had been carried away, like the clocks, by someone who did not know what they had.
+I could not yet tell what it looked like, beyond the mark on it. I could not say where it had come from. I could not determine whether it was still in Ashford, or whether it had been carried away, like the clocks, by someone who did not know what they had.
 
 I asked at the same places I had asked about the woman in the dark coat. The market. The shops. The inns. The lending library.
 
@@ -118,7 +118,7 @@ The three clocks. The object. The key.
 
 The first sign was on all of them.
 
-I did not know what the key was for. I did not know what it opened. I did not know whether it was connected to the clocks, or to the door, or to the chamber, or to the place beneath.
+I could not say what the key was for. I could not tell for certain what it opened. I had no way of knowing whether it was connected to the clocks, or to the door, or to the chamber, or to the place beneath.
 
 I held it in my hand.
 
@@ -126,7 +126,7 @@ It was cold.
 
 I turned it over. The first sign was on the bow. The circle. The three lines. The dot.
 
-I did not know what it opened.
+I could not say what it opened.
 
 But I knew that I had found it.
 
@@ -142,10 +142,8 @@ I was a hunter.
 
 And I had found something that the woman in the dark coat had been searching for.
 
-I did not know what it opened.
+I could not tell for certain what it opened.
 
 But I knew that I would find out. It would open only at 00:00, and I would have to be ready when that hour came.
 
-The hunt continued.
-
-
+I held the key again, cold against my palm, and I knew it was the next piece of a door I was only beginning to understand.

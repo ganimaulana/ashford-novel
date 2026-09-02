@@ -1,4 +1,4 @@
-CHAPTER 87 — THE MARKET
+﻿CHAPTER 87 — THE MARKET
 
 The autumn had settled into a rhythm by then.
 
@@ -36,7 +36,7 @@ The man behind the stall was younger than I had expected. He sat on a stool, his
 
 I knelt.
 
-I did not know why I knelt. I had not seen anything that interested me. I knelt, and I looked at the objects on the blanket, and I did not know what I was looking for.
+I did not know why I knelt. I had not seen anything that interested me. I knelt, and I looked at the objects on the blanket, and I could not say what I was looking for.
 
 I picked up the broken clock.
 
@@ -72,7 +72,7 @@ I had not remembered. I had bought a brass cup the previous month, at this same 
 
 "I notice what people don't buy," he said. "That's my trade. I buy what no one else wants, and I wait until someone wants it." He tilted his head. "You're the one who buys what I've been waiting to sell."
 
-I did not know what to make of him.
+I could not tell for certain what to make of him.
 
 "Theo Marsh," he said. "If you find anything else you can't leave alone, you'll know where I am."
 
@@ -118,7 +118,7 @@ The first sign. On a broken clock, from a market stall, from a man who bought wh
 
 I had not been looking for it. I had not known it was there. But I had found it.
 
-And I did not know whether that was an accident.
+And I had no way of knowing whether that was an accident.
 
 ---
 
@@ -152,7 +152,7 @@ The mark was cut into the clock in the 1780s or 1790s.
 
 The clock had disappeared from the records in the 1790s.
 
-I did not know what it meant. But I knew that it fit.
+I could not say what it meant. But I knew that it fit.
 
 "This is your clock," she said, "one of four. And if the other three are like this one, they carry the same mark on the back."
 
@@ -202,13 +202,13 @@ I stood very still.
 
 "He said," Theo said, "that the man would know what to do with the clock."
 
-I did not know what to say.
+I could not tell for certain what to say.
 
 I bought nothing more from Theo that day. I walked away with the clock in my coat, and the words of the unknown seller in my mind.
 
 The man had known. The man had known that someone would come for the clock. The man had known that the someone would know what to do with it.
 
-I did not know what to do with it.
+I had no way of knowing what to do with it.
 
 But I knew that I had been expected.
 
@@ -226,7 +226,7 @@ She stood in the shadow of the wall, in a coat that had seen weather, and she wa
 
 I stopped.
 
-I did not know her. I had never seen her before. She was not old, but she was not young — her age was hard to place, somewhere in the middle, made uncertain by the shadow and the stillness.
+I could not say her. I had never seen her before. She was not old, but she was not young — her age was hard to place, somewhere in the middle, made uncertain by the shadow and the stillness.
 
 She did not move.
 
@@ -234,7 +234,7 @@ She looked at me for a long moment, and then she looked down, at my coat, at the
 
 I felt the weight of the clock.
 
-I did not know what she was going to say.
+I could not tell for certain what she was going to say.
 
 She said:
 
@@ -254,7 +254,7 @@ The first sign was on its back.
 
 And somewhere in Ashford, there was a woman who had thought that object was lost long ago.
 
-I did not know who she was. I did not know how she had known I was carrying it. I did not know why she had said what she had said.
+I had no way of knowing who she was. I could not say how she had known I was carrying it. I could not tell for certain why she had said what she had said.
 
 But I knew that I had not found the clock by accident.
 
@@ -272,6 +272,7 @@ And someone had been waiting for me to find it.
 
 I walked home through the dark streets, with the clock in my coat, and I did not write in the red book that night.
 
-I did not know what to write.
+I had no way of knowing what to write.
 
 I only knew that the searching had begun.
+

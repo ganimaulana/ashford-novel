@@ -112,7 +112,7 @@ The room with the first sign on the floorboard.
 
 Marcus Ferrand had used the room where the first sign was.
 
-I did not know what that meant.
+I could not say what that meant.
 
 But I knew that it was connected.
 
@@ -126,7 +126,7 @@ The mark of the maker.
 
 On the floor of the room Marcus Ferrand had used.
 
-I did not know why it was there. I did not know what Marcus Ferrand had used the room for. I did not know whether he had made the mark, or found it, or kept it.
+I could not tell for certain why it was there. I had no way of knowing what Marcus Ferrand had used the room for. I could not say whether he had made the mark, or found it, or kept it.
 
 But I knew that the room was connected to the count.
 
@@ -162,3 +162,4 @@ I went home, and I sat at my desk, and I opened the red book, and I wrote:
 
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

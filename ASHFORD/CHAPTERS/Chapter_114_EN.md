@@ -114,7 +114,7 @@ I stood at the end of the lane on the morning of the twenty-second, and I looked
 
 The count had turned.
 
-I did not know what the count was counting. I did not know how many seasons it had counted. I did not know how many were left.
+I did not know what the count was counting. I did not know how many seasons it had counted. I could not say how many were left.
 
 But I knew that I was part of it.
 
@@ -137,4 +137,5 @@ I walked home, and I sat at my desk, and I opened the red book, and I wrote:
 *The season has passed.*
 
 *And the count has turned.*
+
 

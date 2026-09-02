@@ -10,7 +10,7 @@ It was not a large house. It was a single story, low, with a roof of slate that 
 
 I crossed the clearing.
 
-I could not yet tell what I would find inside. I could not yet tell whether the house was connected to the count, or to the keeping, or to something else entirely.
+I could not yet tell what I would find inside. I could not say whether the house was connected to the count, or to the keeping, or to something else entirely.
 
 But I knew that I had to enter.
 
@@ -62,7 +62,7 @@ The first sign was on the object I had carried all my life. It was on the stones
 
 And now it was on the wall of a house in the marsh.
 
-I did not know what it meant.
+I could not say what it meant.
 
 But I knew that I had been led here.
 
@@ -70,7 +70,7 @@ The count had called me north. The count had brought me to the marsh. The count 
 
 And the first sign was on the wall.
 
-I did not know what the house was. I did not know who had built it, or why, or when.
+I could not tell for certain what the house was. I had no way of knowing who had built it, or why, or when.
 
 But I knew that it was part of the count.
 
@@ -86,11 +86,12 @@ It had called me north.
 
 And it had led me to the house in the marsh.
 
-I did not know what I would find.
+I could not say what I would find.
 
 But I knew that I would follow.
 
 The count had called.
 
 And I would answer.
+
 

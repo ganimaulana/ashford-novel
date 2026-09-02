@@ -98,7 +98,7 @@ There was a boundary here, in the marsh, older than the one in Ashford.
 
 And the house stood at its centre.
 
-I did not know what the house was. I did not know what the marsh boundary marked. I did not know why I had been led here.
+I did not know what the house was. I did not know what the marsh boundary marked. I could not say why I had been led here.
 
 But I knew that I had found something.
 
@@ -132,7 +132,7 @@ The house stood at its centre. The first sign was on its wall. The ring of stone
 
 And the count of the stones was the same as the count of the boundary.
 
-I did not know what it meant.
+I could not tell for certain what it meant.
 
 But I knew that it was the beginning.
 
@@ -154,3 +154,4 @@ I wrote:
 
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

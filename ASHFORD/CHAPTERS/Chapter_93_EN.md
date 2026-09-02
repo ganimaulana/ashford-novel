@@ -20,7 +20,7 @@ I stood in the shop.
 
 A man. Asking about the same book, before the woman in the dark coat.
 
-I could not yet tell what the book was. I could not yet tell whether it was connected to the clocks.
+I could not yet tell what the book was. I could not say whether it was connected to the clocks.
 
 But I knew that there were others asking questions. And I knew that they had been asking for a long time.
 
@@ -68,7 +68,7 @@ The first sign. On a key.
 
 The woman in the dark coat was looking for a key. A key with the first sign on it.
 
-I did not know whether the key was connected to the clocks. I did not know whether it was connected to the door, or the chamber, or the place beneath.
+I could not say whether the key was connected to the clocks. I could not tell for certain whether it was connected to the door, or the chamber, or the place beneath.
 
 But I knew that the first sign was on it. And I knew that the woman in the dark coat was looking for it.
 
@@ -80,7 +80,7 @@ I had three clocks. She had the fourth.
 
 Now I knew that she was looking for a key as well.
 
-I did not know what the key opened. I did not know where it was.
+I had no way of knowing what the key opened. I could not say where it was.
 
 But I knew that I had to find it before she did.
 
@@ -92,7 +92,7 @@ The three clocks were on the desk. The object was beside them. The first sign wa
 
 I thought about the woman in the dark coat. She had been looking for the clocks for years. She had found the second. She was looking for a key now.
 
-I did not know who she was. I did not know what she wanted. I did not know whether she was an enemy, or a rival, or something else.
+I could not tell for certain who she was. I had no way of knowing what she wanted. I could not say whether she was an enemy, or a rival, or something else.
 
 But I knew that she was ahead of me.
 
@@ -112,12 +112,13 @@ I was a keeper. I was a hunter.
 
 And the hunt was leading me somewhere I had not expected.
 
-I did not know where the key was. I did not know what it opened. I did not know who the woman in the dark coat was.
+I could not tell for certain where the key was. I had no way of knowing what it opened. I could not say who the woman in the dark coat was.
 
 But I knew that I would find out.
 
 The hunt continued.
 
 And I would follow the thread to its end.
+
 
 

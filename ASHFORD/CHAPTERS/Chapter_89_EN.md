@@ -1,4 +1,4 @@
-CHAPTER 89 — THE HARLOW CLOCK
+﻿CHAPTER 89 — THE HARLOW CLOCK
 
 I went to the Harlow house the following morning.
 
@@ -118,7 +118,7 @@ But I knew that I would go.
 
 I had found two clocks. The fourth was out there, somewhere to the north. The woman in the dark coat knew about the clocks. The woman in the lane had thought the clock was lost.
 
-I did not know who she was. I did not know whether she was the same woman who had bought the Fenn clock.
+I could not say who she was. I could not tell for certain whether she was the same woman who had bought the Fenn clock.
 
 But I knew that I had to find the fourth clock before she did.
 
@@ -136,6 +136,7 @@ But I had found it.
 
 And I would find the next one.
 
-I did not know where the road would lead.
+I had no way of knowing where the road would lead.
 
 But I knew that I would walk it.
+

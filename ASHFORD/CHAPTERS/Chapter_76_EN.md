@@ -1,4 +1,4 @@
-CHAPTER 76 — THE ACCOUNT
+﻿CHAPTER 76 — THE ACCOUNT
 
 The autumn came to Ashford quietly. The leaves turned. The nights lengthened. The frost began to lie on the fields in the early mornings. And I kept the account.
 
@@ -6,9 +6,7 @@ I had written in the red book every day since the night I had understood what I 
 
 I had not told anyone what I had learned. I had not told Crowe. I had not told Eleanor Shaw. I had not told the clerk. I had kept the account, and I had kept the medallions, and I had kept the gear, and I had kept the key to the tower. I had kept everything. And I had begun to understand that keeping was not the same as knowing.
 
-I knew what I was keeping. I could not yet tell why. I could not yet tell what the place beneath was. I could not yet tell why it had been kept. I could not yet tell why I had been given the first sign, and why I had been led to the second, and why the bell had rung for me. I knew only that I was the keeper. And that the keeping was the thing.
-
----
+I knew what I was keeping. I did not know why. I did not know what the place beneath was. I did not know why it had been kept. I did not know why I had been given the first sign, and why I had been led to the second, and why the bell had rung for me. I knew only that I was the keeper. And that the keeping was the thing.
 
 On the first day of October, I went to the vestry. The clerk was there. I had not come to ask about the wall, or the signs, or the medallions. I had come to ask about the account.
 
@@ -30,8 +28,6 @@ I understood, standing in the vestry, that the keeping had never been recorded. 
 
 And I understood that when I was gone, the account would be all that remained.
 
----
-
 I went home. I sat at my desk. I opened the red book. I had been writing in it for weeks. I had written what I had learned. I had not written what I had decided. I had not written what I intended to do.
 
 I sat at the desk, with the red book open, and I thought about the town. The town that did not record the keeping. The town that had forgotten the bell. The town that had forgotten Bellweather House. The town that had forgotten the keeper.
@@ -46,4 +42,4 @@ The agreement is the forgetting. The town agreed to see nothing, and to speak of
 
 I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the medallions away. I left them on the desk.
 
-And I sat in the dark, and I thought about the agreement, and the account, and the town, and the keeping. The town had agreed to forget; I had chosen to remember. That was my duty. The place beneath was remembered in the account. I would keep it. When the town forgot again, the account would remain—not as a challenge, but as a record that had stopped needing a keeper and started being its own reason. The door, however, was not a record—it was a threshold, and I had not yet learned what time it opened. But I was beginning to suspect that the hour 00:00 was not arbitrary, and that the count of thirteen signs would reach its culmination there.
+And I sat in the dark, and I thought about the agreement, and the account, and the town, and the keeping. The town had agreed to forget; I had chosen to remember. That was my duty. The place beneath was remembered in the account. I would keep it. When the town forgot again, the account would remain — not as a challenge, but as a record that had stopped needing a keeper and started being its own reason. The door, however, was not a record — it was a threshold, and I had not yet learned what time it opened. But I was beginning to suspect that the hour 00:00 was not arbitrary, and that the count of thirteen signs would reach its culmination there.

@@ -1,4 +1,4 @@
-CHAPTER 137 — THE CROSSING
+﻿CHAPTER 137 — THE CROSSING
 
 I waited at the river for three days.
 
@@ -90,7 +90,7 @@ I walked through towns and villages, through fields and woods, through country I
 
 The medallions were warm. They had not changed.
 
-I did not know what I was looking for. I did not know whether the count would call me again.
+I could not say what I was looking for. I could not tell for certain whether the count would call me again.
 
 But I walked.
 
@@ -110,7 +110,7 @@ I stood on the shore, and I waited.
 
 The medallions were warm.
 
-I did not know what the count was telling me.
+I had no way of knowing what the count was telling me.
 
 I stood on the shore, and I waited.
 
@@ -144,7 +144,7 @@ I had come.
 
 And I was the keeper.
 
-I did not know what I would do next.
+I could not say what I would do next.
 
 But I knew that I would keep—though I was no longer certain whether I was keeping the count, or the count was keeping me. I only knew that the sea had its own silence, and that silence was the oldest instruction I had ever received.
 
@@ -152,6 +152,7 @@ The keeping was the thing, or so I had been told. I had said it myself, many tim
 
 I was the keeper.
 
-That much I knew. What I did not know was whether the title had outlived the thing it named.
+That much I knew. What I could not tell for certain was whether the title had outlived the thing it named.
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

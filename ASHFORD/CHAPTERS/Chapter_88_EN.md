@@ -102,7 +102,7 @@ I walked back through the streets of Ashford, and I thought about the four clock
 
 I had found one clock. Someone else had found the second.
 
-I did not know who. I did not know where the clock was now.
+I did not know who. I could not say where the clock was now.
 
 But I knew that I had to find the remaining two before someone else did.
 
@@ -116,7 +116,7 @@ The first sign. The mark of the maker. The mark that was older than the Order, o
 
 I had found it on a broken clock. Someone else had found the second. The third and fourth were still out there.
 
-I did not know what the clocks were for. I did not know why the first sign was on them. I did not know who had added the mark, or why, or when.
+I could not tell for certain what the clocks were for. I had no way of knowing why the first sign was on them. I could not say who had added the mark, or why, or when.
 
 But I knew that I had to find them.
 
@@ -134,5 +134,6 @@ And I know that I am meant to find them.
 
 I closed the red book. I put it back in the drawer.
 
-I did not know whether the Harlow clock remained in Ashford, or whether the woman in the dark coat had reached it first. I only knew that an object could be hidden in plain sight for generations and still draw the attention of the wrong hands. In the morning I would go to the Harlow houseâ€”not because the answer was waiting there, but because leaving the question unanswered had become its own kind of risk.
+I could not tell for certain whether the Harlow clock remained in Ashford, or whether the woman in the dark coat had reached it first. I only knew that an object could be hidden in plain sight for generations and still draw the attention of the wrong hands. In the morning I would go to the Harlow houseâ€”not because the answer was waiting there, but because leaving the question unanswered had become its own kind of risk.
+
 

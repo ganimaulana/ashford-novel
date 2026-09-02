@@ -42,7 +42,7 @@ I did not know what it meant. But I understood that the clocks were not four sep
 
 Four clocks. Four numbers. One lock. I sensed that they were only four of thirteen, the rest scattered so that no single keeper could complete the count alone.
 
-I did not know what the clocks had to do with the lock. But I knew that they were connected.
+I could not say what the clocks had to do with the lock. But I knew that they were connected.
 
 ---
 
@@ -68,7 +68,7 @@ Aurelius Ashcroft. The man who signed the Agreement. The man who built the wall.
 
 He had added the mark to the clocks. He had made the lock. He had hidden something, and the clocks were part of it.
 
-I did not know what.
+I could not tell for certain what.
 
 But I knew that I had to find out.
 
@@ -98,7 +98,7 @@ They were not ordinary families. They were the families of the keepers â€” 
 
 And each family had been given a clock.
 
-I did not know what the clocks were for. But I understood that they were not clocks. They were records. Records kept by the families of the keepers, marked with the first sign, numbered in sequence.
+I had no way of knowing what the clocks were for. But I understood that they were not clocks. They were records. Records kept by the families of the keepers, marked with the first sign, numbered in sequence.
 
 Four clocks. Four keeper families. One lock.
 
@@ -122,7 +122,7 @@ I had the four clocks. I had the key. I had the first sign.
 
 And I had been given all of them â€” by a market stall, by a library, by an old woman, by a woman in a dark coat.
 
-I did not know what the lock opened.
+I could not say what the lock opened.
 
 But I knew that I had to find it.
 
@@ -133,4 +133,5 @@ It was leading me to the lock. And the lock was made by Aurelius Ashcroft.
 I was the keeper. I was a hunter.
 
 And I was about to find out what the keepers had been keeping.
+
 

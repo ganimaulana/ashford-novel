@@ -24,7 +24,7 @@ The land rose and fell. The fields gave way to woods, and the woods to fields, a
 
 I walked through each of them, and I did not stop.
 
-I did not know what I was looking for. I did not know whether the count would show me a sign, or a house, or a person.
+I could not say what I was looking for. I could not tell for certain whether the count would show me a sign, or a house, or a person.
 
 I walked.
 
@@ -36,9 +36,9 @@ I walked south, and the medallions were warm, and I followed the warmth.
 
 On the third day, I came to a crossroads.
 
-A signpost stood at the crossing. The arms pointed to towns I had not seen, and towns I had passed, and towns I did not know.
+A signpost stood at the crossing. The arms pointed to towns I had not seen, and towns I had passed, and towns I had no way of knowing.
 
-I stood at the crossroads, and I did not know which way to go.
+I stood at the crossroads, and I could not say which way to go.
 
 I took out the medallions.
 
@@ -50,7 +50,7 @@ I held them up, one in each hand, and I waited.
 
 The medallions did not change. They did not grow warmer in any direction. They were warm, steady, the same warmth in every direction.
 
-I stood at the crossroads, and I did not know which way the count was calling.
+I stood at the crossroads, and I could not tell for certain which way the count was calling.
 
 I put the medallions back in my coat.
 
@@ -58,7 +58,7 @@ I looked at the signpost.
 
 The arms pointed to the north, and the south, and the east, and the west.
 
-I did not know which way to go.
+I had no way of knowing which way to go.
 
 I stood at the crossroads, in the grey light, and I understood that the count was not calling me to a place.
 
@@ -70,7 +70,7 @@ I chose the south road.
 
 I walked south.
 
-I did not know why I chose the south. I did not know what the south held.
+I could not say why I chose the south. I could not tell for certain what the south held.
 
 But I chose.
 
@@ -86,11 +86,11 @@ I walked through them, and I did not stop.
 
 The medallions were warm. They had not changed since the crossroads.
 
-I walked south, and I did not know what I was looking for.
+I walked south, and I had no way of knowing what I was looking for.
 
-I did not know whether the count would show me anything.
+I could not say whether the count would show me anything.
 
-I did not know whether I had chosen rightly.
+I could not tell for certain whether I had chosen rightly.
 
 But I walked.
 
@@ -110,19 +110,19 @@ The road south ended at the river.
 
 Beyond the river, there was another road.
 
-I did not know whether I would cross.
+I had no way of knowing whether I would cross.
 
 I stood on the bridge, with the medallions warm against my chest, and I looked at the river, and the road beyond it.
 
-I did not know what I would do.
+I could not say what I would do.
 
-I did not know whether the count wanted me to cross, or to stay, or to turn back.
+I could not tell for certain whether the count wanted me to cross, or to stay, or to turn back.
 
 I stood on the bridge, in the grey light, and I waited.
 
 The medallions were warm.
 
-I did not know what they were telling me.
+I had no way of knowing what they were telling me.
 
 I stood on the bridge, and I waited.
 
@@ -134,7 +134,7 @@ I had found the house in the marsh. I had found the object of the keeper before 
 
 And the count had called me to the crossroads, and I had chosen the south, and I had walked to the river.
 
-And now I stood at the river, and I did not know whether to cross.
+And now I stood at the river, and I could not say whether to cross.
 
 I stood on the bridge, and I waited.
 
@@ -144,7 +144,7 @@ I had been a keeper. I had been a hunter. I had been a man who worked with a soc
 
 And now I was a man who stood at a river, waiting.
 
-I did not know what I was waiting for.
+I could not tell for certain what I was waiting for.
 
 But I knew that I would wait.
 
@@ -156,3 +156,4 @@ And I would wait until the count called again.
 
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

@@ -22,7 +22,7 @@ I did not know what that meant. I put my own object back in my coat. I sat there
 
 My object had been carried. The second had been kept. My object had been taken to the common, and to the house, and to the door, and it had answered each time. The second had been kept in a box, in a windowless room, at the end of a forgotten lane, and it had not answered anything.
 
-I did not know whether the second object was meant to be carried, or whether it was meant to be kept, or whether I had done the wrong thing by taking it from its box.
+I could not say whether the second object was meant to be carried, or whether it was meant to be kept, or whether I had done the wrong thing by taking it from its box.
 
 I stood. I walked home. I opened the drawer. I took out the red book. I wrote:
 
@@ -36,13 +36,13 @@ I closed the red book. I put it in the drawer. I took out the second object and 
 
 I looked at it. The first sign â€” the circle, the three lines, the dot. The same as mine. The same metal. The same age. But cold.
 
-I did not know what it was. I did not know why it had been kept. I did not know whether I had been meant to find it, or whether I had taken something that should not have been taken.
+I could not tell for certain what it was. I had no way of knowing why it had been kept. I could not say whether I had been meant to find it, or whether I had taken something that should not have been taken.
 
-I sat in the dark, with the cold object in my hand, and I thought about the house at the end of the lane, and the box on the table, and the windowless room, and the years of silence. The second object had been kept for a reason. I did not know the reason. I had taken it. I could not put it back.
+I sat in the dark, with the cold object in my hand, and I thought about the house at the end of the lane, and the box on the table, and the windowless room, and the years of silence. The second object had been kept for a reason. I could not tell for certain the reason. I had taken it. I could not put it back.
 
-I did not know whether I was meant to carry it, or whether I was meant to keep it, or whether I was meant to do something else with it. I put it in the drawer, beside the red book, and the agreement, and the map, and my notebook. I left my own object on the desk.
+I had no way of knowing whether I was meant to carry it, or whether I was meant to keep it, or whether I was meant to do something else with it. I put it in the drawer, beside the red book, and the agreement, and the map, and my notebook. I left my own object on the desk.
 
-I did not know what to do with the second. But I knew that I would not leave it in the drawer forever. It had been kept for too long. I would carry it. I would carry both. And I would find out what the difference meant.
+I could not say what to do with the second. But I knew that I would not leave it in the drawer forever. It had been kept for too long. I would carry it. I would carry both. And I would find out what the difference meant.
 
 ---
 
@@ -76,7 +76,8 @@ I stood in the vestry, with the cold object in my hand. The clerk had not known.
 
 I had found it. I had carried it. I had not known what it was. But I had found it.
 
-And I understood, standing in the vestry, that the keeping was not over. The second object had been kept for a reason. I did not know the reason. But I had found it. And I would carry it. And I would find out what the second object was for—and how it fit into the count of thirteen signs that the bell would summon at 00:00.
+And I understood, standing in the vestry, that the keeping was not over. The second object had been kept for a reason. I could not tell for certain the reason. But I had found it. And I would carry it. And I would find out what the second object was for—and how it fit into the count of thirteen signs that the bell would summon at 00:00.
 
 I put it in my coat, beside my own. Two medallions. One warm, one cold. I carried them both. I was the keeper of both.
+
 

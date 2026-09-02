@@ -1,4 +1,4 @@
-CHAPTER 122 — THE NUMBER OF KEEPERS
+﻿CHAPTER 122 — THE NUMBER OF KEEPERS
 
 I did not tell anyone about the keeper of the tally.
 
@@ -86,7 +86,7 @@ And my mark was in the count.
 
 ---
 
-I did not know how many marks were in the tally.
+I could not say how many marks were in the tally.
 
 I had counted them, and I had written the number, and I had not understood it.
 
@@ -98,13 +98,13 @@ There had been many keepers.
 
 And I was one of them.
 
-I sat in the dark, and I thought about the keepers who had come before me — the first keeper, who had set the boundary and made the tally; Aurelius, who had signed the agreement; the keeper before Vale, who had opened the door and stayed in the passage; Vale, who had kept the door closed for fifty years.
+I I sat in the stillness, and I thought about the keepers who had come before me — the first keeper, who had set the boundary and made the tally; Aurelius, who had signed the agreement; the keeper before Vale, who had opened the door and stayed in the passage; Vale, who had kept the door closed for fifty years.
 
-And I thought about the keepers I did not know — the keepers whose marks were in the tally, whose names were not in any record.
+And I thought about the keepers I could not tell for certain — the keepers whose marks were in the tally, whose names were not in any record.
 
 The count of the keepers.
 
-I did not know where I stood in the count.
+I had no way of knowing where I stood in the count.
 
 But I knew that I stood in it.
 
@@ -124,7 +124,7 @@ He had kept the count since the first keeper. He would keep it until the last.
 
 He was not a keeper himself. He was the one who kept the record of the keepers.
 
-I did not know who he was. I did not know where he came from. I did not know how long he had been keeping the count.
+I could not say who he was. I could not tell for certain where he came from. I had no way of knowing how long he had been keeping the count.
 
 But I knew that he was real.
 
@@ -155,3 +155,5 @@ I sat at my desk. I opened the red book. I wrote:
 *And my mark is in the count.*
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+
+

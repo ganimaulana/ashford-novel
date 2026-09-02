@@ -4,7 +4,7 @@ I did not see Adeline Brume for two weeks after the night in the reading room.
 
 I did not expect to. I had kept the book. I had refused to give it to the society. And I had understood that the society had been testing me â€” that the book had been the final test, and that I had passed by keeping it.
 
-I could not yet tell what the society would do next. I could not yet tell whether they would ask more of me, or whether they would leave me be, or whether the working relationship had ended before it had truly begun.
+I could not yet tell what the society would do next. I could not say whether they would ask more of me, or whether they would leave me be, or whether the working relationship had ended before it had truly begun.
 
 I kept the account. I walked the boundary. I carried the medallions and the gear. I wrote in the red book.
 
@@ -42,7 +42,7 @@ The tally was not a count of the years of the keeping as I knew it.
 
 It was a count of something older.
 
-I looked at the marks, and I understood that I did not know how to read them. I did not know what the first keeper was counting. I did not know whether the marks were years, or months, or something else entirely.
+I looked at the marks, and I understood that I did not know how to read them. I did not know what the first keeper was counting. I could not say whether the marks were years, or months, or something else entirely.
 
 I set the book down.
 
@@ -52,15 +52,15 @@ The first keeper had written that the tally was the count of the years. He had w
 
 And I had counted the marks, and the marks were more than the years of the keeping as I knew it.
 
-I did not know what that meant.
+I could not tell for certain what that meant.
 
-I did not know whether the tally was longer than the keeping I knew, or whether the keeping was older than I had believed, or whether I had counted wrong.
+I had no way of knowing whether the tally was longer than the keeping I knew, or whether the keeping was older than I had believed, or whether I had counted wrong.
 
 I opened the book again. I counted the marks again.
 
 The count was the same.
 
-I sat in the dark, with the book before me, and I understood that the tally was not a thing I could read â€” not yet.
+I I sat in the stillness, with the book before me, and I understood that the tally was not a thing I could read â€” not yet.
 
 I had read the words. I had understood the account of the first keeper's life.
 
@@ -68,7 +68,7 @@ But the tally â€” the count of the years â€” was a language I did not 
 
 I put the book in the drawer, beside the red book.
 
-I did not know what the tally counted.
+I could not say what the tally counted.
 
 But I knew that I would learn.
 
@@ -114,7 +114,7 @@ And the count was more than I had believed.
 
 Because the keeping was older than the keepers I knew—older, perhaps, than the town itself, and certainly older than any record I could trust.
 
-I did not know how old.
+I could not tell for certain how old.
 
 But I knew that I would find out.
 
@@ -130,7 +130,7 @@ I had carried the object all my life. I had found the clocks, and the key, and t
 
 And now I had found the tally â€” the count of the keeping's years.
 
-I did not know what the count was.
+I had no way of knowing what the count was.
 
 But I knew that it was longer than the keeping I knew.
 
@@ -158,3 +158,5 @@ I walked home through the fields, and I sat at my desk, and I opened the red boo
 
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+
+

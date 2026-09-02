@@ -1,4 +1,4 @@
-CHAPTER 101 — THE BOX AND THE SECOND LETTER
+﻿CHAPTER 101 — THE BOX AND THE SECOND LETTER
 
 I did not go back to the room above the chandler's shop.
 
@@ -8,7 +8,7 @@ I had arrived. I had seen the room. I had read the three accounts. I had underst
 
 That was the whole of my part.
 
-I could not yet tell whether that was what the sender wanted. I could not yet tell whether there was a correct answer at all, or whether the sender was watching me, or whether the test was already over.
+I could not yet tell whether that was what the sender wanted. I could not say whether there was a correct answer at all, or whether the sender was watching me, or whether the test was already over.
 
 I waited.
 
@@ -64,7 +64,7 @@ I could stop. The gold was mine. The matter was concluded. Nothing more would be
 
 Or I could continue. I could go to the lending library on Thursday, and I could see what the sender wanted next.
 
-I did not know who the sender was. I did not know what they wanted. I did not know whether the gold was a payment, or a test, or a trap.
+I did not know who the sender was. I did not know what they wanted. I could not say whether the gold was a payment, or a test, or a trap.
 
 But I had been a keeper for two years. I had been a hunter since the clock in the market. I had learned to distrust the things that arrived unasked at my door—and I had also learned that they were often part of a larger pattern, one that would only become clear at 00:00.
 
@@ -82,7 +82,7 @@ The lending library was the room above the chandler's shop — the room where Ma
 
 I went on the Thursday, at the hour past dark, as the address directed.
 
-The library was lit. The lamp was burning on Marianne's table, and the door was open, and I stood at the foot of the stair and looked up at the light, and I did not know whether I was walking into a meeting, or a trap, or something else.
+The library was lit. The lamp was burning on Marianne's table, and the door was open, and I stood at the foot of the stair and looked up at the light, and I could not tell for certain whether I was walking into a meeting, or a trap, or something else.
 
 I climbed the stair.
 
@@ -149,3 +149,4 @@ And this time, I was not sure I was the hunter.
 But I was in it.
 
 And I would find out what was at the end of it. Whether that end was a door, a room, or a name I had not yet learned to say was still uncertain.
+

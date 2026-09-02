@@ -1,4 +1,4 @@
-CHAPTER 53 — THE CHAMBER
+﻿CHAPTER 53 — THE CHAMBER
 
 I went back to the common on the fifth night.
 
@@ -6,7 +6,7 @@ The house was not there.
 
 I stood at the edge of the grass, in the dark, and I looked at the place where it had stood, and there was nothing — only the shape of the floor pressed into the grass, and the keeper's sign bent into the earth at its centre, and the memory of the cold air inside a room that had not existed until I had crossed its threshold.
 
-I could not yet tell whether the house appeared on a schedule. I could not yet tell whether it appeared when I was meant to see it, or whether it appeared and disappeared without regard for my watching.
+I could not yet tell whether the house appeared on a schedule. I could not say whether it appeared when I was meant to see it, or whether it appeared and disappeared without regard for my watching.
 
 I stood at the edge of the common for a long time, and the house did not come, and I walked back to my rooms, and I sat at my desk, and I thought about the trapdoor.
 
@@ -74,7 +74,7 @@ A man asking about the gear. A man who was not from the town. A man who had come
 
 I had not told anyone, outside the brewery, that I carried the gear. I had not told the vestry clerk. I had not told Margaret. I had told the room above the brewery — eight people — and one of them had carried the knowledge out of that room, and one of them had gone to the house on Bellweather Lane, and one of them had gone to the mill, and one of them had erased the mark in the earth.
 
-I did not know which.
+I could not say which.
 
 ---
 
@@ -90,9 +90,9 @@ The house had shown me a door in its floor, leading down into stone.
 
 The mill had shown me a door in its wall, leading down into the earth.
 
-I did not know whether the chamber beneath the common led to the door beneath the mill. But I knew that the smell was the same. And I knew that the keeper's sign was the key. And I knew that the gear was the lock.
+I could not tell for certain whether the chamber beneath the common led to the door beneath the mill. But I knew that the smell was the same. And I knew that the keeper's sign was the key. And I knew that the gear was the lock.
 
-And I knew that somewhere in Ashford, there was a man asking about the gear, a man who was not from the town, a man who had come a long way — and that I did not know what he wanted, and that I did not know whether he was the third hand, or whether there were more than three.
+And I knew that somewhere in Ashford, there was a man asking about the gear, a man who was not from the town, a man who had come a long way — and that I had no way of knowing what he wanted, and that I could not say whether he was the third hand, or whether there were more than three.
 
 ---
 
@@ -100,7 +100,7 @@ I went to the common on the following night.
 
 The house was there.
 
-It had appeared while I was not watching, or it had been there all along, or it had waited for me to come back — I did not know which, and I did not stop to ask.
+It had appeared while I was not watching, or it had been there all along, or it had waited for me to come back — I could not tell for certain which, and I did not stop to ask.
 
 I crossed the grass. I crossed the pressed floor, and the keeper's sign bent into the earth, and the threshold, and I stood in the bare room with the clock stopped at 00:00 and the chair that had not been there before.
 
@@ -134,7 +134,7 @@ I stood at the bottom of the ladder and looked along the passage. It ran in one 
 
 I held the candle up and looked at the nearest mark. The keeper's sign, carved into the stone, deep and clear — not worn smooth like the mark on the door, not hidden like the mark at the base of the fourth stone, but fresh, as if it had been carved recently, as if someone had been here, in this passage, carving the sign, marking the way.
 
-I did not know who. I did not know when.
+I had no way of knowing who. I could not say when.
 
 I walked along the passage. The candle threw my shadow ahead of me, long and wavering, and the keeper's signs passed one after another, each one the same, each one cut into the stone at about the height of a man's eyes, each one fresh.
 
@@ -166,7 +166,7 @@ I could put the gear in the depression. I could turn it. I could open the door �
 
 Or I could leave it closed, and climb back up the ladder, and cross the threshold, and return to the town, and tell no one what I had found.
 
-I did not know what was behind the door. I did not know whether opening it would be the end of the mystery, or the beginning of something worse.
+I could not tell for certain what was behind the door. I had no way of knowing whether opening it would be the end of the mystery, or the beginning of something worse.
 
 I stood there for a long time.
 
@@ -196,10 +196,11 @@ Then I took the gear from my coat and placed it on the desk, and I looked at it,
 
 Someone had been in the passage, carving the signs. Someone had been in the passage, recently. Someone had prepared the way.
 
-And I did not know whether they had prepared it for me, or for the man who was asking about the gear, or for something that had been waiting beneath Ashford for a long time.
+And I could not say whether they had prepared it for me, or for the man who was asking about the gear, or for something that had been waiting beneath Ashford for a long time.
 
 The door was still closed. The gear was still in my hand.
 
 But I understood, now, that I was not the only one who knew the way.
 
 And I understood that the next time I went down, I might not be alone.
+

@@ -1,10 +1,10 @@
-CHAPTER 131 — THE MARSH PEOPLE
+﻿CHAPTER 131 — THE MARSH PEOPLE
 
 I did not leave the marsh.
 
 I built my shelter beside the house, and I stayed, and I kept the first sign on the floor of the house, and the ring of stones around it, and the count.
 
-I could not yet tell how long I would stay. I could not yet tell whether the count would call me further north, or whether I had come to the end of the calling.
+I could not yet tell how long I would stay. I could not say whether the count would call me further north, or whether I had come to the end of the calling.
 
 But I stayed.
 
@@ -125,3 +125,4 @@ The count had led me to the house.
 And the house had been waiting for me.
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

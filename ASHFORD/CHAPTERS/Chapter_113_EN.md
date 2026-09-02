@@ -110,7 +110,7 @@ The first sign on the floor was the centre of the count.
 
 And the object, set in the first sign, was the counter.
 
-I did not know what the count was counting.
+I could not say what the count was counting.
 
 But I understood that I was part of it.
 
@@ -148,7 +148,7 @@ I was the keeper. I was a hunter.
 
 And I was part of the count.
 
-I did not know what it was counting.
+I could not tell for certain what it was counting.
 
 But I would learn.
 
@@ -158,3 +158,4 @@ And the object was leading me to the count.
 
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

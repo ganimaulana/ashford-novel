@@ -1,4 +1,4 @@
-CHAPTER 118 — THE NUMBER
+﻿CHAPTER 118 — THE NUMBER
 
 I carried the three tallies with me — the tally from the book of the first keeper, the marks from the oldest book of the Academy, and the marks from Ferrand's notebook.
 
@@ -122,7 +122,7 @@ The count was fixed. The boundary was fixed. The stones were fixed.
 
 And I was part of it.
 
-I did not know what the count was counting.
+I could not say what the count was counting.
 
 But I would learn.
 
@@ -131,3 +131,4 @@ The hunt had led me to the number.
 And the number was leading me somewhere.
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

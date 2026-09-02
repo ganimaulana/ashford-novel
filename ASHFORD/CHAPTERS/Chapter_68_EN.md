@@ -58,7 +58,7 @@ I had not known there were two. I had carried one object, and I had thought it w
 
 The house that appears was the keeper's house â€” the house of the keeper's sign. The house that is kept was the maker's house â€” the house of the first sign. And I had two medallions, two signs, two houses. I was the keeper of both.
 
-I did not know what it meant. But I knew that I would find out. And I knew that the two houses were not two mysteries. They were one mystery, divided. And I was the keeper of the whole.
+I could not say what it meant. But I knew that I would find out. And I knew that the two houses were not two mysteries. They were one mystery, divided. And I was the keeper of the whole.
 
 ---
 
@@ -80,7 +80,9 @@ I do not know what the two houses are for. But I know that they are the same mys
 
 I was not given one. I was given both. I have been carrying the whole, all my life, without knowing that there was a whole.
 
-I closed the red book. I put it in the drawer. I left both medallions on the desk. And I sat in the dark, and I looked at them, and I understood that the mystery had never been about the door. It had never been about the signs. It had been about the two houses, and the two medallions, and the keeping of both.
+I shut the book. I put it in the drawer. I left both medallions on the desk. And I I sat in the stillness, and I looked at them, and I understood that the mystery had never been about the door. It had never been about the signs. It had been about the two houses, and the two medallions, and the keeping of both.
 
 And I was the keeper of both. The house that appears. The house that is kept. I would go to both. I would learn both. And I would keep the whole. The whole of what had been divided—the thirteen signs, the count, the bell at 00:00.
+
+
 

@@ -78,7 +78,7 @@ I stood in the vestry. The clerk had spoken as if he had known this all along.
 
 "Why did you not tell me before?" I said.
 
-"Because I did not know you had the first sign." He looked at the object. "I did not know it was in Ashford. I did not know it had been kept. I believed the first sign was lost â€” that the maker's sign had been carried away from Ashford long ago, and would never return."
+"Because I did not know you had the first sign." He looked at the object. "I could not say it was in Ashford. I could not tell for certain it had been kept. I believed the first sign was lost â€” that the maker's sign had been carried away from Ashford long ago, and would never return."
 
 "It has been mine all my life."
 
@@ -102,7 +102,7 @@ The first sign â€” the maker's â€” the circle, the three lines, the do
 
 I had carried the first all my life. I had been given the third by Vale. I had learned the second from the wall, the passage, the map.
 
-And the first had warmed at the second. I did not know what the third would do. I did not know whether the gear would respond to anything, or whether it was only a key to a door that was not a door, or whether it had a purpose I had not yet understood.
+And the first had warmed at the second. I had no way of knowing what the third would do. I could not say whether the gear would respond to anything, or whether it was only a key to a door that was not a door, or whether it had a purpose I had not yet understood.
 
 I opened my notebook, and I wrote:
 
@@ -122,9 +122,10 @@ And I sat in the dark, and I thought about the house that appeared at the edge o
 
 The first sign had warmed at the second. The keeper's sign kept the maker's sign. And I was the keeper.
 
-I did not know what I was keeping. But I had carried the first sign all my life, and it had answered me at the common, and I understood that the keeping had not begun with Vale, and had not begun with me. It had begun with the maker's sign, and it had never stopped being kept.
+I could not tell for certain what I was keeping. But I had carried the first sign all my life, and it had answered me at the common, and I understood that the keeping had not begun with Vale, and had not begun with me. It had begun with the maker's sign, and it had never stopped being kept.
 
-And the house â€” the house that appeared and disappeared at the edge of the common â€” was part of it. I did not know how. But I would find out.
+And the house â€” the house that appeared and disappeared at the edge of the common â€” was part of it. I had no way of knowing how. But I would find out.
 
 
 The count of thirteen signs was moving forward, and I was part of it.
+

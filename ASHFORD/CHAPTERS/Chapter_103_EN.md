@@ -1,4 +1,4 @@
-CHAPTER 103 — THE THIRD TEST
+﻿CHAPTER 103 — THE THIRD TEST
 
 The third test came in the winter.
 
@@ -20,7 +20,7 @@ Only the name.
 
 I stood at the desk, with the paper in my hand, and I did not know what the test was. I had been given a name, and nothing else. I was to find the man, I supposed, or to find something about him, or to find what he had to do with the tests I had already passed.
 
-I did not know.
+I could not say.
 
 But I had been given a name, and I had learned that in Ashford, a name is a thing that can be followed.
 
@@ -40,9 +40,9 @@ I found him in the records of the poor-house — a note, twenty years ago, that 
 
 I found him nowhere else.
 
-I did not know whether he was alive or dead. I did not know where he lived. I had a name, and a history, and nothing more.
+I could not tell for certain whether he was alive or dead. I had no way of knowing where he lived. I had a name, and a history, and nothing more.
 
-And I did not know what the test was asking of me.
+And I could not say what the test was asking of me.
 
 ---
 
@@ -94,7 +94,7 @@ Marcus Ferrand had been the constable before Vale. He had retired. He had disapp
 
 And I had been given his name, with no instruction, no explanation, no clue.
 
-I did not know what the test was.
+I could not tell for certain what the test was.
 
 But I knew that it was not a test of my ability to find information.
 
@@ -116,7 +116,7 @@ I found no trace of Marcus Ferrand, living or dead. I found no grave, no letter,
 
 I had been given a name, and the name had led to nothing.
 
-I did not know whether that was the correct answer — the answer that the test was looking for — or whether I had failed.
+I had no way of knowing whether that was the correct answer — the answer that the test was looking for — or whether I had failed.
 
 I went to the lending library, and I found Adeline Brume at her table, as if she had been waiting for me.
 
@@ -164,9 +164,9 @@ I sat at the desk, with the address before me, and I thought about the three tes
 
 I had passed all three. I had been given a choice, after the first test, to continue or to stop. I had continued. I had been given a second test, and a third, and now I was being asked to meet someone.
 
-I did not know who—but I knew that the person I was about to meet would be another piece in the puzzle of the thirteen signs, and that the count was moving toward its final hour.
+I could not say who—but I knew that the person I was about to meet would be another piece in the puzzle of the thirteen signs, and that the count was moving toward its final hour.
 
-I did not know whether I was walking into a meeting, or a trap, or something else.
+I could not tell for certain whether I was walking into a meeting, or a trap, or something else.
 
 But I knew that I would go.
 
@@ -175,3 +175,4 @@ The hunt had begun again.
 And I was in it.
 
 I would see it through to the end, even if the end was only the confirmation that I had been following a name that led to nothing.
+

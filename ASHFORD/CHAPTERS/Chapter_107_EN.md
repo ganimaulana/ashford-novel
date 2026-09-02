@@ -1,4 +1,4 @@
-CHAPTER 107 — THE BOOK OF ORIGINS
+﻿CHAPTER 107 — THE BOOK OF ORIGINS
 
 Elias Marr lit the lamp.
 
@@ -108,7 +108,7 @@ I would open the book when I was ready.
 
 I put it in the drawer, beside the red book, and the agreement, and the key to the reading room.
 
-I sat in the dark.
+I I sat in the stillness.
 
 I was the keeper. I was a hunter. I was a man who worked with a society that had no name.
 
@@ -123,3 +123,4 @@ The hunt had led me to the book.
 And the book was the beginning of something new—an origin that would not stay buried, and a keeper who could no longer claim to have started from nothing.
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

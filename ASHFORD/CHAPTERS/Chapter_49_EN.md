@@ -1,4 +1,4 @@
-CHAPTER 49 — THE SUMMONS
+﻿CHAPTER 49 — THE SUMMONS
 
 A week passed before Crowe came to me again.
 
@@ -88,7 +88,7 @@ The mark on the gear was a circle and a short line. The mark on the door was a c
 
 The meeting was in the room above the old brewery, as Crowe had said. I came late — not so late that they would think I was afraid, but late enough that they would know I had considered whether to come at all. The room was lit by a single lamp. Around the table sat seven men and one woman. I did not know all their names.
 
-Crowe was there. Graves was there — Nathaniel Graves, the Purist, who had spoken to me once before and who had not liked what I had said then. The woman I did not know sat across from Graves, with a ledger closed in front of her.
+Crowe was there. Graves was there — Nathaniel Graves, the Purist, who had spoken to me once before and who had not liked what I had said then. The woman I could not say sat across from Graves, with a ledger closed in front of her.
 
 I stood at the head of the table. No one offered me a chair.
 
@@ -136,7 +136,7 @@ The woman with the ledger spoke again. "There is a mark," she said. "A mark that
 
 "There was. You did not know of it."
 
-There was a long silence. I understood, in the moment of silence, that I had made a mistake. I had told them about the mark. I had told them what I had decided to tell no one. And I did not know which of the eight faces around the table had been waiting for exactly that.
+There was a long silence. I understood, in the moment of silence, that I had made a mistake. I had told them about the mark. I had told them what I had decided to tell no one. And I could not tell for certain which of the eight faces around the table had been waiting for exactly that.
 
 The woman stood. "The meeting is over. We will speak again when there is something to decide."
 
@@ -164,8 +164,8 @@ Crowe was very still. "There is a mark in the earth that I did not make, at a st
 
 He went out.
 
-I stood alone in the room above the brewery, the lamp burning down, the chairs empty, and I thought of the worn line and three strokes on the door beneath the seal. Two signatures. One I had been shown. One I had found by accident. I did not know which was older. I did not know which was the true keeper's mark. I only knew that I had walked into that room thinking the Order was a single organization with a single purpose, and I had come out understanding that it was a collection of people who disagreed on everything except their suspicion of me.
+I stood alone in the room above the brewery, the lamp burning down, the chairs empty, and I thought of the worn line and three strokes on the door beneath the seal. Two signatures. One I had been shown. One I had found by accident. I had no way of knowing which was older. I could not say which was the true keeper's mark. I only knew that I had walked into that room thinking the Order was a single organization with a single purpose, and I had come out understanding that it was a collection of people who disagreed on everything except their suspicion of me.
 
 I did not sleep that night. I sat at my desk in the dark, the gear before me, the agreement in the drawer, and I opened my notebook and wrote: Fourth stone. Fresh mark in the earth beside it. A line and three strokes. Made since the rain. Not mine. Not Crowe's — he denies it, and I cannot prove him a liar. Door: second mark found beneath the seal, worn almost smooth by years. The Order met tonight. They did not all want the same thing. Some want the door open. Some want it sealed forever. Some want to test me. None of them asked what I would find behind the door. None of them asked what the mark in the earth was for. I told them I carry the gear. I should not have. I do not know who drew the line and three strokes. I do not know whether it is a signature, a warning, or a key. I know it is not the mark I carry. I know it was left for me to find — on the fourth stone, and on the door, hidden where the keeper alone would look. Two marks. I have been keeper for a week. I have been watching the wrong one. Or perhaps I have been watching the right one, and simply cannot yet see what it means.
 
-I closed the notebook. I put it with the agreement, in the drawer, beneath the parish account. Then I took the gear from the desk and put it back in my coat. The bell had not rung since Vale died. I did not know whether it would ring again—or whether it was meant to ring only when the count reached its end. Whatever was behind the door would wait. But whoever had drawn the line and three strokes had not waited for me. That one had come to the fourth stone while I was not there. That one had drawn the mark, and left it, and gone. And I had walked into the room above the brewery and told eight strangers I carried the gear, and I had come out understanding that I did not know a single one of them, and that the one hand I could not place was the only hand that mattered. The door was still closed. The Agreement was still in the drawer. But somewhere in Ashford, there was a hand that drew lines in the earth beside the keeper's stones, in the hours before first light, and it had not drawn them for the Order. It had drawn them for me. And I did not know whether that was a message, or a test, or the beginning of a question I would spend the rest of the book learning to answer.
+I closed the notebook. I put it with the agreement, in the drawer, beneath the parish account. Then I took the gear from the desk and put it back in my coat. The bell had not rung since Vale died. I could not tell for certain whether it would ring again—or whether it was meant to ring only when the count reached its end. Whatever was behind the door would wait. But whoever had drawn the line and three strokes had not waited for me. That one had come to the fourth stone while I was not there. That one had drawn the mark, and left it, and gone. And I had walked into the room above the brewery and told eight strangers I carried the gear, and I had come out understanding that I had no way of knowing a single one of them, and that the one hand I could not place was the only hand that mattered. The door was still closed. The Agreement was still in the drawer. But somewhere in Ashford, there was a hand that drew lines in the earth beside the keeper's stones, in the hours before first light, and it had not drawn them for the Order. It had drawn them for me. And I could not say whether that was a message, or a test, or the beginning of a question I would spend the rest of the book learning to answer.

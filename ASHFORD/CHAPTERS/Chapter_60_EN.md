@@ -1,4 +1,4 @@
-CHAPTER 60 — THE SEVERANCE
+﻿CHAPTER 60 — THE SEVERANCE
 
 They came for the gear on the fourth day.
 
@@ -134,7 +134,7 @@ I stood in the shadow of the brewery wall, in the failing light, and I watched h
 
 I had made my decision. I had told the Order that they did not decide who was keeper. I had told them that the door was not a door, and that the sign was a memory, and that I would keep it. And I had told Crowe that I would keep it alone, if I must.
 
-I could not yet tell whether I had done the right thing. I could not yet tell whether the sign was a memory, or whether I had merely told them what I needed to believe.
+I could not yet tell whether I had done the right thing. I could not say whether the sign was a memory, or whether I had merely told them what I needed to believe.
 
 But I had chosen. And the choosing, I understood, was the whole of holding the gear.
 
@@ -160,10 +160,12 @@ But I knew that I had chosen. And I knew that the choice had changed everything.
 
 The Order was not behind me anymore. I was alone. And the sign — the keeper's sign, the line and three strokes, the sign that was older than the circle — was the only thing I could keep.
 
-I sat in the dark until the hours grew late. I did not write in my notebook. There was nothing to add. I had chosen. And the choosing was the whole of it.
+I I sat in the stillness until the hours grew late. I did not write in my notebook. There was nothing to add. I had chosen. And the choosing was the whole of it.
 
 The door was still closed. The gear was still mine. The sign was still kept.
 
 And the count — whatever it was counting — was not running out. It was waiting.
 
 And I would be there when it was time to remember it.
+
+

@@ -1,4 +1,4 @@
-CHAPTER 52 — THE CROSSING
+﻿CHAPTER 52 — THE CROSSING
 
 The house appeared on the fourth night.
 
@@ -140,8 +140,9 @@ The gear was not the key. The gear was the lock. The keeper's sign was the key.
 
 And the house — the house that did not exist, the house that appeared and disappeared at the edge of the common — had been built to keep the key safe.
 
-I did not know what the key opened. I did not know who had built the house. I did not know who had left the paper for me, or how they had known I would come.
+I could not say what the key opened. I could not tell for certain who had built the house. I had no way of knowing who had left the paper for me, or how they had known I would come.
 
 But I knew that I would go back.
 
 And I knew that the next time I opened the trapdoor, I would go down.
+

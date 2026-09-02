@@ -62,9 +62,9 @@ I dreamed of the object, and of the house at the edge of the common, and of the 
 
 I dreamed that I was standing at the door, with the object in my hand, and the door was not a door â€” it was a wall, and the wall was covered with the first sign, carved into the stone, one after another, the circle, the three lines, the dot, repeated, repeated, repeated, until the wall was nothing but the sign.
 
-I woke in the dark. I did not light the lamp. I sat in the dark, and I thought about the dream, and I understood that the door was not a door. It was a wall. A wall of signs. A wall of the first sign, carved into the stone, one after another, waiting for the keeper to remember.
+I woke in the dark. I did not light the lamp. I I sat in the stillness, and I thought about the dream, and I understood that the door was not a door. It was a wall. A wall of signs. A wall of the first sign, carved into the stone, one after another, waiting for the keeper to remember.
 
-I did not know what I had dreamed. I did not know whether it was a dream, or a memory, or something the object had shown me.
+I could not say what I had dreamed. I could not tell for certain whether it was a dream, or a memory, or something the object had shown me.
 
 But I knew that I had to go back. I had to go to the door, with the object, and I had to understand what the wall of signs was telling me.
 
@@ -74,7 +74,7 @@ The house was not there. I had not expected it to be. I knelt at the edge of the
 
 I knelt there, in the grey morning, with the warm object in my hand, and I understood that the house was not the door. The house was the keeper. The keeper of the first sign. And the first sign was the key to everything.
 
-I did not know how. I did not know why. But I knew that I was the keeper of the first sign, and that the house had answered me, and that the door had knocked, and that the wall of signs in my dream was the wall I had been walking toward all my life.
+I had no way of knowing how. I could not say why. But I knew that I was the keeper of the first sign, and that the house had answered me, and that the door had knocked, and that the wall of signs in my dream was the wall I had been walking toward all my life.
 
 I stood. I put the object back in my coat. I walked home. I sat at my desk. I opened the red book. I wrote:
 
@@ -82,11 +82,11 @@ I stood. I put the object back in my coat. I walked home. I sat at my desk. I op
 
 I stopped. I looked at what I had written. I had written in the red book. I had written the first entry.
 
-I did not know what I would write next. But I knew that the book was not blank anymore. And I knew that Vale had left it for me, knowing that I would find it, knowing that I would write in it, knowing that the first sign would lead me to the door that was not a door.
+I could not tell for certain what I would write next. But I knew that the book was not blank anymore. And I knew that Vale had left it for me, knowing that I would find it, knowing that I would write in it, knowing that the first sign would lead me to the door that was not a door.
 
 I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the object away. I left it on the desk.
 
-And I sat in the dark, and I thought about the wall of signs in my dream, and about the knocking from the other side of the door, and about the first sign, and the keeper's sign, and the Order's sign, and about everything that had been carried and kept and forgotten.
+And I I remained in the dark, and I thought about the wall of signs in my dream, and about the knocking from the other side of the door, and about the first sign, and the keeper's sign, and the Order's sign, and about everything that had been carried and kept and forgotten.
 
 I had begun to write in the red book. I had begun to keep the account. And I understood, sitting in the dark, that the account was the whole of what I was meant to keep.
 
@@ -100,3 +100,5 @@ I had begun. I would continue. And the door â€” the door that was not a doo
 
 
 The count of thirteen signs was moving forward, and I was part of it.
+
+

@@ -1,4 +1,4 @@
-CHAPTER 106 — THE FIRST TASK
+﻿CHAPTER 106 — THE FIRST TASK
 
 The key to the reading room opened the door at the top of the stair above the chandler's shop.
 
@@ -30,7 +30,7 @@ Elias Marr was that collector.
 
 And he had a book that the society wanted.
 
-I could not yet tell what was in the book. I could not yet tell how it had come into his possession. I could not yet tell why the society wanted it.
+I could not yet tell what was in the book. I could not say how it had come into his possession. I could not determine why the society wanted it.
 
 But I had been asked to find out.
 
@@ -146,7 +146,7 @@ I did not approach by the lane. I came across the fields, in the dark, the way a
 
 I stood at the gate a long moment.
 
-I did not know whether I was doing the right thing. I had been asked to find out what was in the book, not to steal it. But I did not know how to find out what was in a book without opening it.
+I could not say whether I was doing the right thing. I had been asked to find out what was in the book, not to steal it. But I could not tell for certain how to find out what was in a book without opening it.
 
 I pushed the gate open. I crossed the garden. I came to the door of the house.
 
@@ -191,3 +191,4 @@ I had walked into a room that had been waiting for me.
 And the book was the reason—but not the only one. The man himself had been waiting, and that waiting was a message I had not yet decoded.
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

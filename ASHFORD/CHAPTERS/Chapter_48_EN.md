@@ -1,4 +1,4 @@
-CHAPTER 48 — THE FIRST DUTY
+﻿CHAPTER 48 — THE FIRST DUTY
 
 We buried him on the third day.
 
@@ -58,7 +58,7 @@ I looked at the ground around it. The ground was soft there. Rain had fallen, an
 
 And there was another. A heel. Not mine. My boots leave a wider print. This was narrower, newer, pressed into the soft earth as if the one who made it had stood for a time, looking at the door, before turning away.
 
-I did not know when. I did not know who. I knew only that while I had been standing at a grave, or folding a blanket, or closing a window, someone else had stood where one who holds the gear stands. And they had not held the gear.
+I could not say when. I could not tell for certain who. I knew only that while I had been standing at a grave, or folding a blanket, or closing a window, someone else had stood where one who holds the gear stands. And they had not held the gear.
 
 I wrote it down. I did not write it in the town's book. I wrote it in my own.
 
@@ -84,7 +84,7 @@ A Watchman reports. One who holds the gear — I do not yet know what one who ho
 
 I closed the book. I put it with the agreement, in the drawer, beneath the parish account.
 
-Then I took the gear from my coat and placed it on the desk where I could see it — the circle, the short line, the worn metal that had been carried for fifty years by a man who had never explained it to anyone. I did not know what the mark meant. I knew only that it would not be put into that door by accident — not by me, not yet.
+Then I took the gear from my coat and placed it on the desk where I could see it — the circle, the short line, the worn metal that had been carried for fifty years by a man who had never explained it to anyone. I had no way of knowing what the mark meant. I knew only that it would not be put into that door by accident — not by me, not yet.
 
 Whatever was behind the door would wait. And whoever had stood at the mechanism in the soft ground would come again.
 

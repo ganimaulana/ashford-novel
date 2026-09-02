@@ -132,7 +132,7 @@ The first sign on the floor was the tally.
 
 And the mark at the centre was a count â€” a count that was being kept, one mark at a time, by someone, or something, that I did not understand.
 
-I did not know how many marks had been made. I did not know how many were left.
+I did not know how many marks had been made. I could not say how many were left.
 
 But I knew that I was part of it.
 
@@ -158,3 +158,4 @@ I walked home through the streets, and I sat at my desk, and I opened the red bo
 
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

@@ -1,4 +1,4 @@
-CHAPTER 123 — THE SUCCESSOR
+﻿CHAPTER 123 — THE SUCCESSOR
 
 I could not yet tell who would keep after me.
 
@@ -16,7 +16,7 @@ But I did not have a successor.
 
 I did not know whether the keeper of the tally would choose one, or whether the keeping would find one, or whether I was meant to find one myself.
 
-I did not know.
+I could not say.
 
 ---
 
@@ -56,11 +56,11 @@ I sat by her fire.
 
 "Already counted," she said. "The tally is the record of the keepers. The keeper who comes after you is one of them. His mark is in the tally, though he has not yet kept."
 
-I did not know what to say.
+I could not tell for certain what to say.
 
 The keeper who would come after me. Already counted. Already in the tally, though he had not yet kept.
 
-I did not know who he was. I did not know when he would come. I did not know whether I would meet him, or whether he would come after I was gone.
+I had no way of knowing who he was. I could not say when he would come. I could not tell for certain whether I would meet him, or whether he would come after I was gone.
 
 But I knew that he existed.
 
@@ -102,7 +102,7 @@ The keeping was old. The keeping was large. The keeping would continue after me.
 
 And I would prepare for the keeper who came after.
 
-I did not know who he was. I did not know when he would come.
+I had no way of knowing who he was. I could not say when he would come.
 
 But I would be ready.
 
@@ -113,3 +113,4 @@ I would keep the keeping.
 And I would trust the count.
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

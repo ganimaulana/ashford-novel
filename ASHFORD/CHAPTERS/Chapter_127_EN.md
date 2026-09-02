@@ -1,4 +1,4 @@
-CHAPTER 127 — THE MARSH ROAD
+﻿CHAPTER 127 — THE MARSH ROAD
 
 I had never been north of Ashford.
 
@@ -6,7 +6,7 @@ I had come to the town from London, by the south road, and I had stayed in the t
 
 Now I walked north.
 
-I could not yet tell where the road would take me. I could not yet tell what I was looking for. I only knew that I had to walk, and that the walking was part of something I did not yet understand.
+I could not yet tell where the road would take me. I could not say what I was looking for. I only knew that I had to walk, and that the walking was part of something I did not yet understand.
 
 I carried the medallions — the one I had carried all my life, and the one from the kept house — and the key to the reading room. I did not carry the gear; I had passed it to Daniel, with the book of the keeping and the agreement. I did not carry the red book — I had left it with Daniel, in the drawer.
 
@@ -104,7 +104,7 @@ I had felt such things before.
 
 I had felt them in Ashford, at the house at the end of the lane, at the chamber beneath Bellweather House, at the door beneath the mill.
 
-I did not know what this house was.
+I could not say what this house was.
 
 But I knew that it was connected.
 
@@ -115,3 +115,4 @@ The count had called me north.
 And the count was not done with me yet.
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

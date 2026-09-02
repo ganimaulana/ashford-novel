@@ -1,4 +1,4 @@
-CHAPTER 100 — THE INVITATION
+﻿CHAPTER 100 — THE INVITATION
 
 The letter came on a Tuesday, at the end of October, and it was not of the lane's hand.
 
@@ -152,7 +152,7 @@ He is looking for someone who will tell him the truth, even when the truth is th
 
 I did not know who had sent the letter.
 
-I did not know what would come of it.
+I could not say what would come of it.
 
 But I knew that I had been asked a question, and that I had answered it — not to the letter, not to anyone, but to myself, in the red book.
 
@@ -160,4 +160,5 @@ And I knew that the answer would be found out.
 
 The hunt had begun again.
 
-And this time, I did not know whether I was the hunter, or the hunted.
+And this time, I could not tell for certain whether I was the hunter, or the hunted.
+

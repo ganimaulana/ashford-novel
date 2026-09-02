@@ -1,4 +1,4 @@
-CHAPTER 111 — THE COUNT
+﻿CHAPTER 111 — THE COUNT
 
 I could not yet tell what the count was counting.
 
@@ -12,7 +12,7 @@ I sat at my desk, with the two pages before me, and I thought about the keeping 
 
 The count was more than all of them.
 
-I did not know what the count was counting.
+I could not say what the count was counting.
 
 ---
 
@@ -90,7 +90,7 @@ I stood at the fourth stone, where the hairline mark ran across its face, and I 
 
 The tally was a number. The stones were a number. The two numbers were not the same.
 
-I did not know what that meant.
+I could not tell for certain what that meant.
 
 I knelt at the fourth stone. I looked at the first sign, cut into the base of the stone, hidden where the earth covered it.
 
@@ -152,7 +152,7 @@ I was the keeper. I was a hunter. I was a man who worked with a society that had
 
 And I had found the count.
 
-I did not know what it was counting.
+I had no way of knowing what it was counting.
 
 But I knew that I would learn.
 
@@ -161,3 +161,4 @@ The hunt had led me to the boundary.
 And the boundary was leading me to the count.
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+

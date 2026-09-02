@@ -4,7 +4,7 @@ I walked toward the house on the hill.
 
 The road led up from the town, past the wall of old stone, to a gate that stood open. Beyond the gate, a drive of packed earth led to the house.
 
-I could not yet tell what the house was. I could not yet tell why the count had brought me here.
+I could not yet tell what the house was. I could not say why the count had brought me here.
 
 But the object was warm.
 
@@ -150,7 +150,7 @@ The first was warm. The second was warm. The third was cold.
 
 And I waited.
 
-I did not know what would happen.
+I could not say what would happen.
 
 But I knew that something would.
 
@@ -180,3 +180,4 @@ And I was the keeper of all three.
 
 
 The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+
