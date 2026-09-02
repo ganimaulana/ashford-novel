@@ -34,6 +34,33 @@ This separation ensures that:
 
 ---
 
+## 2026-09-02: Character Image Generation Guide
+
+**Event**: Created `CHARACTER_IMAGE_GENERATION_GUIDE.md` — permanent visual-generation framework for future Ashford character images.
+
+**Actions**:
+- Created `04_CHARACTERS/CHARACTER_IMAGE_GENERATION_GUIDE.md`:
+  - Source-of-truth hierarchy (manuscript > canon > visual canon > guide > prompts > images)
+  - Ashford visual language (grounded 1816 realism, restrained Gothic)
+  - 1816 historical standard (menswear/womenswear/working-class specifics)
+  - Master character prompt architecture (25-section template)
+  - Character Identity Lock system
+  - Portrait + Full Body image-type standards
+  - Negative constraint framework
+  - Visual differentiation rules
+  - Expression/behavior guidelines
+  - Clothing methodology (Order of Severence affiliation must NOT be costume-signaled)
+  - Prompt modularity, naming convention, quality control checklist, approval statuses
+- `CHARACTER_VISUAL_CANON.md` NOT modified
+- No manuscript files modified
+
+**Master Index Entry**:
+> CHARACTER_IMAGE_GENERATION_GUIDE.md establishes canon→generation workflow. Images are references, never canon. Identity Locks stable across prompts. 1816 hard constraint. Model-agnostic. Approval statuses: DRAFT/REVIEW/APPROVED/REJECTED/SUPERSEDED.
+
+**Status**: PROVISIONAL — planning/preparation. No images generated.
+
+---
+
 ## 2026-09-02: Character Visual Canon — Applied Author Review
 
 **Event**: Applied the author-review recommendations to `CHARACTER_VISUAL_CANON.md`. Established image-generation-ready visual profiles for all major characters.
