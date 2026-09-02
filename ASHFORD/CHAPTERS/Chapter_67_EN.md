@@ -6,7 +6,7 @@ I could not yet tell why I waited. I have tried since to tell myself it was prud
 
 Three days I carried it against my chest, where I had carried my own object all my life. It lay beside the first sign I had kept since I could remember, and it stayed cold. Not the cold of the air, not the cold of metal left in shadow. A cold that seemed to begin inside the metal and move outward, so that even on the mildest day the cloth of my coat was cold where it touched it. I would reach inside, as I had reached for my own object a thousand times, and the cold would take my fingers, and I would take my hand away. It did not feel like a thing waiting to warm. It felt like a thing that had decided against me.
 
-I had sat at my desk, with both medallions before me, and I had looked at them, and I had not known what to do with the second.
+I had sat at my desk, with both Tokens before me, and I had looked at them, and I had not known what to do with the second.
 
 They were alike in the lamplight. That was part of the difficulty — that they could have been the same object, turned out of the same mould by the same hand, in a year Ashford had no name for. The same size. The same dark metal. The same cord, the same worn edges, the same first sign cut into the face: the circle, the three lines, the dot. I set them side by side and the light could not tell them apart. Only my hand could tell them apart. One gave back my warmth. The other took nothing, gave nothing, waited.
 
@@ -26,7 +26,7 @@ I took out my own object — the warm one — and I held it over the same spot. 
 
 I sat at the edge of the common, in the grey light, with one warm object in my hand and one cold object in my coat, and I understood that the second object did not answer the keeper's sign. My object answered. The second did not.
 
-I did not know what that meant. I put my own object back in my coat. I sat there, with both medallions against my chest, one warm and one cold, and I thought about the difference.
+I did not know what that meant. I put my own object back in my coat. I sat there, with both Tokens against my chest, one warm and one cold, and I thought about the difference.
 
 My object had been carried. The second had been kept. My object had been taken to the common, and to the house, and to the door, and it had answered each time, because those were the places of its keeping. The second had been kept in a box, in a windowless room, at the end of a forgotten lane, in a house that was itself kept — and it had not answered anything, because I had not brought it to the place it answered. I could not say where that place was. I only knew that the keeper's sign was not its sign.
 
@@ -70,7 +70,7 @@ The clerk was silent. I watched his face. He had known about the house at the en
 
 He did not answer at once. He looked at the object a long time, and I saw him want to touch it, and I saw him not touch it.
 
-"I do not know," he said. "I have no record of two medallions. I have no record of a second. The first sign is the first sign. I have never heard of a second."
+"I do not know," he said. "I have no record of two Tokens. I have no record of a second. The first sign is the first sign. I have never heard of a second."
 
 "Then why was it kept?"
 
@@ -84,6 +84,6 @@ I had found it. I had carried it. I had not known what it was. But I had found i
 
 And I understood, standing in the vestry, that the keeping was not over. I had thought, when I lifted the second object from its box, that I had reached the end of something — that the house at the end of the lane had given up its last secret and would trouble me no more. It had not been the end. It had been the middle. The second object had been kept for a reason. I could not tell for certain the reason. But I had found it. And I would carry it. And I would find out what the second object was for.
 
-I put it in my coat, beside my own. Two medallions. One warm, one cold. I carried them both. I was the keeper of both.
+I put it in my coat, beside my own. Two Tokens. One warm, one cold. I carried them both. I was the keeper of both.
 
 The clerk said nothing as I left. He stood at the table, looking at the place where the object had lain, and I understood that he too had expected to know more than he knew. I walked home through the darkening streets with the cold object against my chest and my own warm beside it, and I could not say which of them would speak next — only that one of them would, and that when it did, I would be carrying it.

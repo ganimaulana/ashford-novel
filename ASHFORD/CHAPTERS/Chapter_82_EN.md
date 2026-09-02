@@ -8,7 +8,7 @@ They came to my rooms in the middle of the day. I heard the knock — three stro
 
 I let them in.
 
-They stood in my room, the three of them, and the room felt small with them in it, the way a room feels small when it is suddenly full of people who are not there to be comfortable. They did not sit. They did not look at the chairs. They looked at the desk where the medallions lay, and they looked at the drawer where the red book was kept, and they looked at me. The woman held the ledger against her chest, closed, the way one holds a thing one is accountable for. Graves stood with his hands at his sides. The third man stood a little behind the other two, and he did not look at me at all. He looked at the room, at the walls, at the window, as if he were counting the ways in or out.
+They stood in my room, the three of them, and the room felt small with them in it, the way a room feels small when it is suddenly full of people who are not there to be comfortable. They did not sit. They did not look at the chairs. They looked at the desk where the Tokens lay, and they looked at the drawer where the red book was kept, and they looked at me. The woman held the ledger against her chest, closed, the way one holds a thing one is accountable for. Graves stood with his hands at his sides. The third man stood a little behind the other two, and he did not look at me at all. He looked at the room, at the walls, at the window, as if he were counting the ways in or out.
 
 "You have been keeping," the woman said.
 
@@ -50,7 +50,7 @@ Graves stepped forward. "That is not what the Order was made for."
 
 I looked at them. The woman's fingers moved on the edge of the ledger, and I saw that the ledger was not closed to me — she had left it open a finger's width, and there was writing on the page, small and regular, in a hand that was not hers. I did not read it. I did not need to read it. The ledger was their account of me, and I had my own account of them, and we were both keeping.
 
-"I will not give you the gear," I said. "I will not give you the key. I will not give you the medallions. I will not give you the account."
+"I will not give you the gear," I said. "I will not give you the key. I will not give you the Tokens. I will not give you the account."
 
 "We did not come to take them," the woman said.
 
@@ -60,7 +60,7 @@ I looked at her. "Then why did you come?"
 
 I was silent.
 
-"You have kept it," she said. "You have kept it all. The gear, the key, the medallions, the account. You have kept the forgetting, and you have kept the remembering."
+"You have kept it," she said. "You have kept it all. The gear, the key, the Tokens, the account. You have kept the forgetting, and you have kept the remembering."
 
 She looked at me.
 
@@ -80,7 +80,7 @@ I sat at my desk. I opened the red book. I wrote: The Order came today. They sai
 
 But I did not write what I was thinking: that the Order had not asked what the keeping was for. They had not asked what the door held, or why the count had not run out, or whether the keeper was meant to understand. They watched. They did not ask. That was the difference between us. And I had begun to wonder whether they could not ask — whether the watching had gone on for so long that the question had gone out of them, the way a bell loses its note if it is only ever looked at and never rung.
 
-I closed the red book. I put it in the drawer. I left the medallions on the desk. And I sat in the dark, and I thought about the Order's visit.
+I closed the red book. I put it in the drawer. I left the Tokens on the desk. And I sat in the dark, and I thought about the Order's visit.
 
 They had come to confirm what they already knew: I would not yield the gear or the key. But they had also confirmed something else — that they could not compel me. The town was asleep, the bell was silent, and I was the keeper. The keeping was mine. It was the one thing the Order could not take, because it had never been theirs to give.
 
@@ -96,7 +96,7 @@ I did not sleep well that night. I lay in the dark, and I listened to the town, 
 
 I thought about the third man, who had said nothing and looked at me only at the door. He had not come to see whether I had kept what the keeper keeps. He had come to see me. He had stood at the back of the room, counting the ways in and out, and at the door he had looked at me the way a man looks at a thing he has been sent to remember. I did not know who had sent him. I did not know what he would do with the remembering. The Order was not one thing; it was a door with many rooms behind it, and I had been shown only the first.
 
-I got up in the grey of the morning and I went to the drawer, and I took out the red book, and I looked at what I had written the day before. The Order came today. They said I am the keeper. I had written it as a record. I had not written that the keeping had become visible — that from now on there would be watchers who watched me, not the boundary, and that I would walk the town with their eyes on me the way I already walked it with the medallions warm against my chest.
+I got up in the grey of the morning and I went to the drawer, and I took out the red book, and I looked at what I had written the day before. The Order came today. They said I am the keeper. I had written it as a record. I had not written that the keeping had become visible — that from now on there would be watchers who watched me, not the boundary, and that I would walk the town with their eyes on me the way I already walked it with the Tokens warm against my chest.
 
 I put the book back in the drawer. The Order had come, and the Order had gone, and the spring went on outside the window, and the town did not know any of it. The gear was in the drawer. The key was in my keeping. The account was written. And the keeping was mine, named now, spoken aloud in my own room, and I understood that a thing that has been named is a thing that can be called for.
 

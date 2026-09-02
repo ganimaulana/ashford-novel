@@ -32,13 +32,13 @@ I stood in the doorway. I did not ask him in. He did not ask to come in. We stoo
 
 "The count was not a count," I said. "The signs were not a count of years. They were a record. A record of the keeping."
 
-He was silent. He looked past me, into the room, at the desk where the medallions lay, at the drawer where the red book was kept.
+He was silent. He looked past me, into the room, at the desk where the Tokens lay, at the drawer where the red book was kept.
 
 "I have read the account," he said. "I have read what you have written."
 
 "You have read the red book?"
 
-"I have." He looked at me. "I have been watching you since the spring. I have been reading what you write. I know about the bell, and the houses, and the medallions, and the chamber, and the place beneath."
+"I have." He looked at me. "I have been watching you since the spring. I have been reading what you write. I know about the bell, and the houses, and the Tokens, and the chamber, and the place beneath."
 
 I stood in the room. The stranger had read the account. The stranger knew everything. He had stood in my room, or he had come when I was gone, and he had opened the drawer, and he had read the red book — the account I had written for the keeper who would come after me, the account I had kept locked in the dark, and he had read it as easily as the lamplighter reads his rounds.
 

@@ -50,7 +50,7 @@ A circle. Three lines through it. A single dot.
 
 The first sign.
 
-The same mark as on the wall. The same mark as on the medallion. The same mark as on the stones of the boundary. The same mark as on the floor of the chamber beneath Bellweather House.
+The same mark as on the wall. The same mark as on the Token. The same mark as on the stones of the boundary. The same mark as on the floor of the chamber beneath Bellweather House.
 
 I knelt, in the cold air, and I looked at the first sign on the floor of the house in the marsh.
 
@@ -62,7 +62,7 @@ The house was not the centre of the ring. The first sign on the floor was the ce
 
 I knelt in the house, in the grey light, and I looked at the first sign on the floor.
 
-The same mark as the chamber. The same mark as the medallion. The same mark as the stones.
+The same mark as the chamber. The same mark as the Token. The same mark as the stones.
 
 And I understood that I had found the beginning of the count.
 
@@ -94,7 +94,7 @@ I did not know what it meant. But I knew that I had found it. And I knew that I 
 
 I built my fire. I sat by it, in the evening, and I wrote in my book:
 
-*I have found the first sign on the floor of the house in the marsh. The same mark as the chamber beneath Bellweather House. The same mark as the medallion. The same mark as the stones. The house is not the centre of the ring. The first sign on the floor is the centre. I have not moved the stone. I will not move the stone. I do not know what is beneath it. But I know that I have found the beginning of the count. And I will keep it.*
+*I have found the first sign on the floor of the house in the marsh. The same mark as the chamber beneath Bellweather House. The same mark as the Token. The same mark as the stones. The house is not the centre of the ring. The first sign on the floor is the centre. I have not moved the stone. I will not move the stone. I do not know what is beneath it. But I know that I have found the beginning of the count. And I will keep it.*
 
 I closed the book. I sat by the fire. The marsh was dark around me. The house was a shadow in the darkness.
 

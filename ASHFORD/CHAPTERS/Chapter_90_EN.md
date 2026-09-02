@@ -6,7 +6,7 @@ The light had not yet reached the street. The houses were closed. A dog barked s
 
 I did not tell anyone where I was going. I did not tell Crowe. I did not tell Marianne. I left a note in the red book, in the drawer, so that if I did not return, the account would not be lost.
 
-I took the two clocks. I took the medallions. I took the gear, though I could not yet tell whether I would need it. I took money, and food, and a coat that had seen weather.
+I took the two clocks. I took the Tokens. I took the gear, though I could not yet tell whether I would need it. I took money, and food, and a coat that had seen weather.
 
 I walked out of Ashford by the north road, and I did not look back.
 

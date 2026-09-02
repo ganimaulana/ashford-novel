@@ -70,7 +70,7 @@ The tally is being kept. There are marks on the stones — marks on the fourth s
 
 I closed the red book, and I sat in the dark, and the full weight of what I had learned settled onto me.
 
-The keeper of the tally was not the keeper of the keeping. He kept the count, but he did not keep the boundary, or the door, or the bell, or the houses, or the medallions. He kept the marks. He kept the record of the keepers, the way the clerk keeps the register of the town. And I — I kept the keeping itself. The boundary. The door. The bell. The account. The gear. The chamber. The life.
+The keeper of the tally was not the keeper of the keeping. He kept the count, but he did not keep the boundary, or the door, or the bell, or the houses, or the Tokens. He kept the marks. He kept the record of the keepers, the way the clerk keeps the register of the town. And I — I kept the keeping itself. The boundary. The door. The bell. The account. The gear. The chamber. The life.
 
 The tally was the record of the keeping. The keeping was the life. And the two were not the same.
 

@@ -6,7 +6,7 @@ I built a small fire in the clearing, and I sat by it, and I looked at the house
 
 The first sign was the mark of the maker. I had read that in the vestry book, years ago. The first sign was the sign of the maker, the sign that was set before the wall, before the boundary, before the Order.
 
-I had carried the medallion all my life. I had found the first sign on the stones of the boundary, and on the floor of the chamber, and on the bell, and on the clocks, and on the key, and on the box. And now I had found it on the wall of a house in the marsh.
+I had carried the Token all my life. I had found the first sign on the stones of the boundary, and on the floor of the chamber, and on the bell, and on the clocks, and on the key, and on the box. And now I had found it on the wall of a house in the marsh.
 
 I did not know what it meant. But I knew that the first sign was everywhere. And I knew that it was connected.
 

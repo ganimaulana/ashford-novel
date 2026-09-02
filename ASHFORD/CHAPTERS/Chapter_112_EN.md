@@ -1,4 +1,4 @@
-CHAPTER 112 — THE WALL OF STONES
+﻿CHAPTER 112 — THE WALL OF STONES
 
 I returned to the boundary the following day, and the day after, and the day after that.
 

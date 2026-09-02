@@ -16,7 +16,7 @@ He stood in the doorway, in the winter cold, and he looked at me. His clothes we
 
 "I am."
 
-"I know." He looked past me, into the room, at the desk where the medallions lay. "I have come to see the account."
+"I know." He looked past me, into the room, at the desk where the Tokens lay. "I have come to see the account."
 
 "Who are you?"
 
@@ -46,7 +46,7 @@ I stood in the doorway. The keeper before Vale had come back to write the accoun
 
 I looked at him. "You have been waiting for me?"
 
-"I have been waiting for the keeper who would carry the first sign. I have been waiting for the keeper who would find the second medallion. I have been waiting for the keeper who would enter the chamber and set the medallion in the first sign and feel the place beneath."
+"I have been waiting for the keeper who would carry the first sign. I have been waiting for the keeper who would find the second Token. I have been waiting for the keeper who would enter the chamber and set the Token in the first sign and feel the place beneath."
 
 I was silent. I had done all of those things.
 
@@ -72,7 +72,7 @@ He was silent a long moment. I did not hurry him. I had been the keeper long eno
 
 "And it did not?"
 
-"It did not." He looked at me. "The door opened, and I found the passage, and I walked to the chamber, and I set the medallion in the first sign, and I felt the place beneath. I understood what I was keeping. I understood that the door was not the mystery. The place beneath was."
+"It did not." He looked at me. "The door opened, and I found the passage, and I walked to the chamber, and I set the Token in the first sign, and I felt the place beneath. I understood what I was keeping. I understood that the door was not the mystery. The place beneath was."
 
 "Then why did you not come back?"
 
@@ -80,7 +80,7 @@ He was silent for a long time. I watched him, and I did not know what a man did 
 
 "Because I was ashamed," he said. "I had opened the door because I wanted to know. I had wanted to know, and I had opened the door, and I had found what I was keeping — and I did not know what to do with it. I stayed in the passage because I was ashamed that I had opened the door without understanding."
 
-I stood in the room. The keeper before Vale had opened the door, and he had been ashamed, and he had stayed in the passage for fifty years. And I understood, standing in the lamplight, that I had nearly done the same thing — I had set the medallion in the first sign, felt the place beneath, and taken it away, and I had gone back to my rooms and written it down, because the writing was my way of not kneeling there until I understood.
+I stood in the room. The keeper before Vale had opened the door, and he had been ashamed, and he had stayed in the passage for fifty years. And I understood, standing in the lamplight, that I had nearly done the same thing — I had set the Token in the first sign, felt the place beneath, and taken it away, and I had gone back to my rooms and written it down, because the writing was my way of not kneeling there until I understood.
 
 "I have come back," he said, "because I have read the account. You have written what I did not write. You have kept the remembering. And I have understood that the forgetting was not the whole of the keeping."
 
@@ -116,7 +116,7 @@ I closed the door. I went to my desk. I sat down. I opened the red book. I wrote
 
 The keeper before Vale came back tonight. He was in the passage for fifty years. He came back to see the account. He read it. He said it was well. He said the forgetting is the town's. The remembering is the keeper's. He said I have kept both. He went back to the passage. I do not know whether I will see him again. But I have written the account. And I have understood that the keeping is the whole of it.
 
-I closed the red book. I put it in the drawer. I left the medallions on the desk. And I sat in the dark, and I thought about the keeper before Vale, and about the passage, and about the fifty years, and about the account.
+I closed the red book. I put it in the drawer. I left the Tokens on the desk. And I sat in the dark, and I thought about the keeper before Vale, and about the passage, and about the fifty years, and about the account.
 
 But I could not stop thinking of what he had said — that he had opened the door because he wanted to know, and that he had been ashamed of wanting to know, and that he had stayed in the passage because of the shame. I had opened no door. The bell had rung for me, and the passage had opened, and I had gone down. I had not chosen to want to know; the wanting had chosen me. And yet I could not tell whether that made my keeping safer than his, or only luckier. The shame was not in the opening. The shame was in the not understanding — and I did not understand, and I had only the account to put between myself and the passage, the way he had put fifty years.
 

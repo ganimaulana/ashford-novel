@@ -20,7 +20,7 @@ It was a small mark. A single tally-mark, cut into the stone, deeper than the si
 
 The mark of the keeper who had come.
 
-I had been in the keeping for four years. I had kept the account. I had kept the boundary. I had kept the door, and the bell, and the medallions, and the gear, and the agreement. And all that time, in the dark beneath Bellweather House, my mark had been lying in the stone at the centre of the first sign — cut before I had kept anything, waiting for me to come and kneel and finally see what it was.
+I had been in the keeping for four years. I had kept the account. I had kept the boundary. I had kept the door, and the bell, and the Tokens, and the gear, and the agreement. And all that time, in the dark beneath Bellweather House, my mark had been lying in the stone at the centre of the first sign — cut before I had kept anything, waiting for me to come and kneel and finally see what it was.
 
 It was a strange thing, to look at one's own mark and not to have made it.
 

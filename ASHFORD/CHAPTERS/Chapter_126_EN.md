@@ -1,4 +1,4 @@
-CHAPTER 126 — THE PASSING
+﻿CHAPTER 126 — THE PASSING
 
 I stayed in Ashford for a year after Daniel came.
 
@@ -84,7 +84,7 @@ I did not tell Daniel I was going. I did not want a farewell. I wanted to leave 
 
 I walked out of the town by the north road. I did not look back.
 
-I carried the medallions — the one I had carried all my life, the first sign, and the one I had found in the kept house at the end of Bellweather Lane. They were warm against my chest, as they had always been.
+I carried the Tokens — the one I had carried all my life, the first sign, and the one I had found in the kept house at the end of Bellweather Lane. They were warm against my chest, as they had always been.
 
 I carried the key to the reading room. I did not know why I carried it. The reading room was not mine anymore. It was Daniel's. But I carried the key.
 
@@ -104,7 +104,7 @@ Now I walked north.
 
 I walked through the fields, and the lanes, and the small towns, and the country that grew wilder as the days passed. I did not know where I was going. I did not know what I was looking for. I only knew that I had to walk, and that the walking was part of something I did not yet understand.
 
-The medallions were warm.
+The Tokens were warm.
 
 I walked, and I looked at the world, and I understood that I was no longer the keeper. I was a man who had kept the keeping, and who had passed it on. I did not know where I would go. I did not know what I would do. But I knew that I would be ready.
 
@@ -124,7 +124,7 @@ The keeping had been passed. But the calling had not.
 
 And I was still following it, north, into a world I had not seen, toward a threshold I had not yet found.
 
-The medallions were warm against my chest. The road stretched ahead of me, through the fields and the lanes and the wild country beyond. I did not know where it would take me.
+The Tokens were warm against my chest. The road stretched ahead of me, through the fields and the lanes and the wild country beyond. I did not know where it would take me.
 
 But I walked.
 
@@ -138,7 +138,7 @@ I had been a keeper. Now I was something else — a man who had passed the keepi
 
 And I walked.
 
-The road led on. The sky was grey. The medallions were warm. And I walked, north, into the unknown, into the calling, into the count that was still counting, patient and slow, toward the hour of the bell.
+The road led on. The sky was grey. The Tokens were warm. And I walked, north, into the unknown, into the calling, into the count that was still counting, patient and slow, toward the hour of the bell.
 
 I did not know what I would find.
 
