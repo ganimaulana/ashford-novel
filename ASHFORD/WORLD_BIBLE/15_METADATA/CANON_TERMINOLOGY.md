@@ -185,24 +185,24 @@ The Sign determines WHAT kind of supernatural identity the person possesses. The
 
 ## APPROVED TERMINOLOGY
 
-| OLD TERM | NEW TERM | FUNCTION / STATUS |
-|----------|----------|-------------------|
-| Keeper | **Holder** | Role/authority term. NOT a Rank, Sign, or power level. Context audit required. |
-| Watcher | **Observer / Seeker** | UNRESOLVED between the two. Neither is a Rank or Sign. |
-| Medallion / Object | **Token** | Physical manifestation of a Sign. Sign = identity; Token = object. |
-| Sign (supernatural identity) | **Sign** | Unchanged. Underlying supernatural identity/symbol/concept. |
-| Power 9→1 | **Nine-Rank hierarchy** | Tier 9 = lowest, Tier 1 = highest. (See Nine Ranks.) |
-| Sequence | **Rank** | Position/status within the hierarchy. "Sequence" removed from plan. |
-| Potion / Acting | **Resonance** | Broader concept of supernatural alignment/interaction. Mechanics undefined. |
-| Sanity / Madness | **Drift** | Supernatural deviation from the normal human condition. NOT a Rank/Sign/stage. |
-| Connection Slots | **Anchors** | Points through which supernatural connections can occur. |
-| 13 Symbols | **XIII Signs** | The thirteen supernatural Signs (list locked above). |
-| Gear | **Component** | Gear is ONE type of Component. Not the only component. |
-| Key | **Key** | Unchanged. A separate concept. One possible component/method. |
-| Clock | **00:00 Marker** | Supernatural time marker associated with activation/access. |
-| Bell | **Call** | The Bell functions as a signal indicating a Call is available. |
-| Door | **The Door** | Unchanged. The supernatural Door. Do NOT replace with "Threshold." |
-| Room / Connection Space | **The Sanctuary** | Supernatural space in which multiple connections can occur. |
+| Previous Term | Official Term | Category | Notes |
+|---------------|---------------|----------|-------|
+| Keeper | **Holder** | Role | Possesses/exercises authority over an object, access, or supernatural function. NOT a Rank or Sign. Context audit required. |
+| Watcher | **Observer** | Role | Witnesses, monitors, records, or studies supernatural phenomena. NOT a Rank or Sign. "Seeker" is NOT used unless future canon establishes it as a separate Sign or role. |
+| Medallion / Object | **Token** | Object | Physical manifestation of a Sign. Sign = identity; Token = object. |
+| Sign (supernatural identity) | **Sign** | Symbol | One of the 13 supernatural identities. Unchanged. |
+| Power 9→1 | **Hierarchy** | Progression | Nine-rank system. Rank 9 = lowest (Marked), Rank 1 = highest (Transcendent). |
+| Sequence | **State** | Condition | Do NOT use "Sequence" as the power system terminology. |
+| Potion / Acting | **Resonance / Alignment** | Progression mechanism | Stabilization and development of supernatural alignment. Mechanics undefined. |
+| Sanity / Madness | **Drift** | Risk/state | Loss of normal human stability due to supernatural influence. NOT a Rank/Sign/stage. |
+| Connection Slots | **Anchors** | Mechanism | Points through which supernatural connections can occur. |
+| 13 Symbols | **XIII Symbols** | Lore | Keep partially mysterious. |
+| Gear | **Component** | Object category | Gear is ONE type of Component. Not the only component. Do NOT replace "Gear" with "Component" when the text specifically refers to the actual gear mechanism. |
+| Key | **Key** | Object | Unchanged. A separate concept. One possible component/method. |
+| Clock | **00:00 Marker** | Phenomenon | Supernatural time marker associated with activation/access. |
+| Bell | **Call** | Phenomenon | The Bell functions as a signal indicating a Call is available. |
+| Door | **Door / Threshold** | Phenomenon | The supernatural Door. Keep "Door" simple and mysterious. |
+| Room / Connection Space | **The Sanctuary** | Supernatural space | Supernatural space in which multiple connections can occur. |
 
 Do NOT blindly apply these replacements to the manuscript yet.
 
@@ -291,9 +291,13 @@ Holder is a **ROLE / AUTHORITY TERM**. It is NOT a Rank, Sign, or power level. A
 
 ---
 
-## OBSERVER / SEEKER
+## OBSERVER
 
-Observer and Seeker remain UNRESOLVED. Do NOT select one globally yet. Their final usage must be determined through contextual analysis. Neither term is a Rank or a Sign.
+Observer is the official term for the role previously called "Watcher."
+
+An Observer is an individual whose role involves witnessing, monitoring, recording, or studying supernatural phenomena. "Observer" is a ROLE / IDENTITY TERM. It is NOT a Rank or Sign.
+
+Do NOT use "Seeker" as the replacement for Watcher unless future canon explicitly establishes Seeker as a separate Sign or role.
 
 ---
 
@@ -320,7 +324,6 @@ LOCKED:
 - Drift
 
 UNRESOLVED:
-- Observer vs Seeker
 - Rank 0
 - Exact abilities of each Sign
 - Exact abilities of each Rank
@@ -410,11 +413,50 @@ All of these must emerge naturally from the story during ARC 2 and beyond.
 
 ---
 
+## NARRATIVE RULES
+
+1. Do NOT introduce all 13 Signs at once.
+2. Do NOT reveal the complete supernatural hierarchy early.
+3. Do NOT explain all Rank abilities immediately.
+4. The reader should discover terminology naturally through events.
+5. Early characters may use incomplete, local, incorrect, or archaic terminology.
+6. Such terminology must not contradict established canon.
+7. Leon must NOT suddenly possess knowledge he has not earned.
+8. The existence of the 13 Signs does not require all 13 to appear in early arcs.
+9. The Sanctuary should remain mysterious before its full function is understood.
+10. 00:00 should remain a recurring mystery rather than immediately receiving a complete explanation.
+11. The Call should be discovered gradually.
+12. Tokens, Signs, Components, Anchors, and the Sanctuary must remain distinct concepts.
+13. Avoid exposition dumps explaining the entire supernatural system.
+14. Future revelations must be earned through plot progression.
+
+---
+
+## LEGACY TERMINOLOGY POLICY
+
+The following terms are **LEGACY TERMS** and should not be used as current canonical terminology in newly written material:
+
+- Medallion (use Token)
+- Keeper (use Holder — but see §2 for authorial decision in Arc 1)
+- Watcher (use Observer)
+- Power 9 / Power 8 (use Rank names)
+- Sequence (do not use as power system term)
+- Potion / Acting (use Resonance / Alignment)
+- Madness (use Drift)
+- Connection Slot (use Anchor)
+- Room (when referring specifically to the supernatural connection space — use The Sanctuary)
+
+However:
+
+Existing manuscript references must NOT be blindly rewritten. Future manuscript revision tasks must replace legacy terminology while preserving sentence meaning, character knowledge, historical context, and narrative continuity.
+
+---
+
 ## FUTURE TERMINOLOGY AUDIT REQUIREMENTS
 
 Before manuscript migration:
 1. Audit every occurrence of "keeper" — determine "Holder" (authority) vs "keeper" (literal keeper of records, etc.).
-2. Audit every occurrence of "watcher" — determine "Observer" vs "Seeker" based on function.
+2. Audit every occurrence of "watcher" — determine whether the role maps to "Observer" (witness/monitor/record) and rewrite accordingly. Do NOT use "Seeker" unless future canon establishes it as a separate role or Sign.
 3. Audit every occurrence of "medallion" / "object" — determine "Token" (manifestation of a Sign) vs ordinary object.
 4. Audit every occurrence of "sign" — determine supernatural "Sign" vs ordinary "sign/mark."
 5. Audit every occurrence of "gear" — determine "Component" (supernatural) vs ordinary mechanical gear.
@@ -448,7 +490,8 @@ Before manuscript migration:
 - [✓] Sign ≠ Rank
 - [✓] Resonance remains separate from the Resonant Rank
 - [✓] Drift remains separate from Rank and Sign
-- [✓] Observer / Seeker remains unresolved
+- [✓] Observer is the official replacement for Watcher (resolved)
+- [✓] Seeker is NOT used unless future canon establishes it separately
 - [✓] No abilities were invented
 - [✓] No advancement mechanics were invented
 - [✓] No XIII Sign lore was invented

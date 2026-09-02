@@ -51,6 +51,26 @@ This separation ensures that:
 
 ---
 
+## 2026-09-02: Supernatural System Naming Lock — Watcher→Observer Resolution
+
+**Event**: Watcher terminology resolved to **Observer** (previously unresolved Observer/Seeker). Canonical terminology table, narrative rules, and legacy terminology policy added to `CANON_TERMINOLOGY.md`.
+
+**Actions**:
+- Updated `CANON_TERMINOLOGY.md`:
+  - Watcher → **Observer** (role/identity, NOT a Rank or Sign); "Seeker" NOT used unless future canon establishes it separately
+  - Enhanced Approved Terminology table with Category + Notes columns
+  - Added NARRATIVE RULES (14 rules)
+  - Added LEGACY TERMINOLOGY POLICY (Medallion, Keeper, Watcher, Power 9/8, Sequence, Potion/Acting, Madness, Connection Slot, Room → legacy)
+- No chapter files were modified
+- No existing lore was changed
+
+**Master Index Entry**:
+> Watcher → Observer (resolved). Keeper → Holder. Medallion → Token. Room → The Sanctuary. Gear remains a specific Component. 13 Signs and 9 Ranks (Rank 1 = Transcendent strongest, Rank 9 = Marked weakest) remain locked. Legacy terms must not be used in newly written material.
+
+**Status**: PROVISIONAL CANON / TERMINOLOGY LOCK. No manuscript migration has been performed.
+
+---
+
 ## 2026-09-02: Supernatural System Naming Lock
 
 **Event**: XIII Signs (13 identities) and Nine Ranks (progression) permanently locked. See `CANON_TERMINOLOGY.md`.
