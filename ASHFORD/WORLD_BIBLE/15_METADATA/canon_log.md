@@ -34,6 +34,25 @@ This separation ensures that:
 
 ---
 
+## 2026-09-02: Character Visual Canon Audit & Design
+
+**Event**: Created CHARACTER_VISUAL_CANON.md with audit findings, visual profiles, and design proposals for 19 major characters.
+
+**Actions**:
+- Created `04_CHARACTERS/CHARACTER_VISUAL_CANON.md` — visual canon document with audit, profiles, differentiation check, and evolution notes
+- Audit finding: 342 possible visual fields across 19 character files; only ~18 (~5%) filled
+- Three characters identified as HIGHEST priority for visual development: Leon Ashcroft, Silas Crowe, James Calloway
+- 17 visual profiles created (all labeled PROPOSED — awaiting author approval)
+- No manuscript files were modified
+- Zero contradictions found between existing character files and manuscript
+
+**Master Index Entry**:
+> CHARACTER_VISUAL_CANON.md created. 19 characters audited. 5% visual fields filled. Highest priority: Leon, Crowe, Calloway. All visual proposals require author approval before becoming canon.
+
+**Status**: PROPOSED — awaiting author approval. No manuscript insertion performed.
+
+---
+
 ## 2026-09-02: Keeper / Holder Terminology Canon Lock + Occurrence Audit
 
 **Event**: Keeper and Holder established as NON-synonymous terms. Keeper = historical/literal/thematic/in-world term. Holder = formal supernatural-system term. Occurrence audit of Ch 1–137 completed.
