@@ -8,13 +8,13 @@ I had been looking at the crack. I had been watching it for signs of growth, for
 
 I had not been counting.
 
-I moved along the wall, stone by stone, from the eastern marker to the corner where the wall turned, and I looked at each stone as I had never looked at them before — not for the circle, not for the crack, but for the keeper's sign.
+I moved along the wall, stone by stone, from the eastern marker to the corner where the wall turned, and I looked at each stone as I had never looked at them before — not for the circle, not for the crack, but for the first sign.
 
-It was there. At the base of the first stone, hidden where the earth met the stone, a line and three strokes, cut deep and worn smooth by age. At the second. At the third. At every stone along the wall.
+It was there. At the base of the first stone, hidden where the earth met the stone, a circle, and three lines, and a dot, cut deep and worn smooth by age. At the second. At the third. At every stone along the wall.
 
-I knelt at each one and cleared the earth from its base and looked, and the sign was there — the keeper's sign, carved into the stone, one at each stone, worn smooth by weather and time.
+I knelt at each one and cleared the earth from its base and looked, and the sign was there — the first sign, carved into the stone, one at each stone, worn smooth by weather and time.
 
-Not fifty. I counted the stones along the wall. There were not fifty. There were more than a hundred, running from the eastern marker to the corner where the wall turned, each one carrying the keeper's sign at its base, each one older than the Order, older than the Agreement, older than anything in the town that had a name.
+Not fifty. I counted the stones along the wall. There were not fifty. There were more than a hundred, running from the eastern marker to the corner where the wall turned, each one carrying the first sign at its base, each one older than the Order, older than the Agreement, older than anything in the town that had a name.
 
 The stranger had told me the signs were a count. Fifty signs. Fifty years.
 
@@ -32,7 +32,7 @@ The clerk was there, as he always was, at his table, with the ledgers and the ke
 
 He saw me, and he did not speak, and I did not speak. I waited until the room was empty.
 
-"The signs on the wall," I said. "The keeper's sign, at the base of the stones. How many are there?"
+"The signs on the wall," I said. "The first sign, at the base of the stones. How many are there?"
 
 The clerk was silent a long moment.
 
@@ -124,5 +124,5 @@ And I knew that the only way to find out was to go back down into the passage, a
 
 I would count them myself. I would walk the whole length of the passage.
 
-And I would find out what the keeper's sign was counting, before the stranger — or the Order — or the door itself — decided for me.
+And I would find out what the signs were counting, before the stranger — or the Order — or the door itself — decided for me.
 

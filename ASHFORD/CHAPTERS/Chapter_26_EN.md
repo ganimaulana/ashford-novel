@@ -1,4 +1,4 @@
-# Chapter 26 — What the Post Office Kept
+﻿# Chapter 26 — What the Post Office Kept
 
 The Tuesday stood still, the way the middle of a week stands still when the week has done its great things early: the rate was asked and carried, and Hobbs was named and noted, and the town had settled back over both of them as a town settles over what it has done, and there was nothing more to be done of either, and the doing of nothing is the town's way of keeping a thing.
 
@@ -46,4 +46,4 @@ I went home with the plain of it, and the lamp came up at the end of the lane at
 
 I wrote it down under the day, and shut the book, and let the lamp burn.
 </content>
-The keeper's duty, the count, and the hour of the bell were drawing nearer.
+

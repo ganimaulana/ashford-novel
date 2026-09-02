@@ -1,6 +1,22 @@
 # MASTER STORY RECONSTRUCTION PLAN — ASHFORD
 
-## TARGET
+## ⚠️ FINAL-AUDIT NOTE (2026-09-02) — SUPERSEDED
+
+This plan was written against an early "possibility map" (power 9→8, connection slots, 13 colored symbols, named calling entity, 00:00–00:59 call window, hidden organization with a full hierarchy). **The finished manuscript does NOT use that architecture.** Per the canon hierarchy (manuscript = source of truth), the LOTM-derived mythology is **EXCLUDED from canon**.
+
+The final, locked structure is documented in:
+- `FINAL_STORY_STRUCTURE.md` — eight arcs, chapter sequence, purpose of each arc.
+- `FINAL_CONTINUITY_LEDGER.md` — signs, objects, characters, timeline, knowledge states.
+- `FINAL_MYSTERY_LEDGER.md` — mystery classification and progression.
+- `FINAL_RECONSTRUCTION_REPORT.md` — full before/after report and novel score.
+
+The manuscript's actual supernatural framework is the grounded keeper system: three signs (maker's / keeper's / Order's), the medallions, the gear, the bell, the count of keepers, 00:00 as an unexplained threshold, and the thirteen rings of first-sign stones. No "power levels," no "connection slots," no named calling entity.
+
+The remainder of this file is retained as historical planning record only.
+
+---
+
+## TARGET (historical)
 Reconstruct Chapters 1–137 according to the new architecture. Focus on raising the quality and mystery progression of each chapter to a value of 9.
 
 ## FINAL ARC STRUCTURE

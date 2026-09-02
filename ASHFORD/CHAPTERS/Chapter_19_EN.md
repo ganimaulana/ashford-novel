@@ -17,7 +17,7 @@ Hobbs was not there. The place where Hobbs would have stood stood empty, and the
 "By the orders," said the constable, "the lane from the Ashcroft door to the mill-yard gate, and the church in the going past, because the church is at the corner. The night is quiet. I would have it stay quiet."
 
 "The night is always quiet," said Michael. "It is the quiet I am come to watch, because a quiet that is watched is a quiet that belongs to somebody, and a quiet that is not watched belongs to anyone that wants it."
-Michael did not know that the quiet he spoke of was the silence of a count in motion—thirteen signs, each one a threshold, and the bell that would call at 00:00 when the count was complete.
+Michael did not know that the quiet he spoke of was the thing I had been watching all month — the house keeping itself, the lamp and the bell keeping their hours, the town keeping its agreement. I did not tell him. I did not know enough to name it, and I had learned already that in this town a thing left unnamed is a thing that stays, and a thing named too soon is a thing that is lost.
 
 It was the most that Michael had said since the signing, and the round took it as the round takes a man that talks at the signing — with the patience of men who have heard the same thing said at every signing since the price went up.
 

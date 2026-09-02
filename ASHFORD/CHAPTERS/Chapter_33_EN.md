@@ -1,4 +1,4 @@
-# Chapter 33 — The First Week
+﻿# Chapter 33 — The First Week
 
 The new year came in with the frost still lying, and the town gone to its first day with the quiet of a body that has slept well and does not want to rise, and I went about the morning as a man goes about the first morning of a year, which is slowly, and with the knowledge that the year is new and the town is the same, and the sameness is the thing the year stands on, and the standing is the keeping, and the keeping was kept.
 
@@ -48,4 +48,4 @@ I came home at the quarter to twelve, and there was no paper at the door, and th
 
 I shut the book, and let the fire burn, and went to bed with the round done and the year four days old, and the four days standing in the book as the days of the new year, and the standing was the keeping, and the keeping was kept, and I slept in it.
 </content>
-The keeper's duty, the count, and the hour of the bell were drawing nearer.
+
