@@ -1,6 +1,6 @@
 CHAPTER 78 — THE CHOICE
 
-I did not sleep for three nights. I sat at my desk, with the red book open, and the agreement in the drawer, and the medallions on the desk, and I did not sleep. I was the keeper of the forgetting. I was the keeper of the remembering. And I did not know what to do with them.
+I did not sleep for three nights. I sat at my desk, with the red book open, and the agreement in the drawer, and the medallions on the desk, and I did not sleep. I was the keeper of the forgetting. I was the keeper of the remembering. And I could not yet tell what to do with them.
 
 I had understood that the agreement was the forgetting — the town's choice to see nothing, to speak of nothing, to forget the door and the sign and the bell and the place beneath. I had understood that the account was the remembering — the record I was writing, the record of what the town had agreed to forget. And I was the keeper of both.
 
@@ -72,10 +72,4 @@ I went to my desk. I opened the drawer. I took out the agreement. I took out the
 
 ---
 
-I did not end the forgetting that night. I did not give the town back its memory. I sat at my desk, with the agreement and the account before me, and I understood that the keeping was not a choice. It was a waiting. I would keep the forgetting, and I would keep the remembering, and I would wait until the town chose. And when the town chose — whether to forget, or to remember — I would be there.
-
-I opened the red book. I wrote:
-
-The agreement is the forgetting. The account is the remembering. I keep both. It is not for me to choose whether the town remembers or forgets. It is for the town. I will keep both until the town chooses. That is the keeping.
-
-I closed the red book. I put it in the drawer, with the agreement. I left the medallions on the desk. And I sat in the dark, and I thought about the town, and the forgetting, and the remembering, and the choice. I was the keeper of both. And I would keep them both. Until the town chose.
+I did not end the forgetting that night, nor did I mistake delay for an answer. I returned the agreement and the account to the drawer, side by side. They did not resolve one another; they recorded the cost of either course. For the present, I would keep both—and make no claim that the town's silence belonged to me.

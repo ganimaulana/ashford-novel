@@ -14,7 +14,7 @@ It said nothing about the box beyond its size and its age. It gave no descriptio
 
 Only that the box was coming to auction, and that Adeline Brume wanted to know what it was worth.
 
-I did not know whether she wanted me to estimate its monetary value, or its true value, or something else entirely.
+I could not yet tell whether she wanted me to estimate its monetary value, or its true value, or something else entirely.
 
 I had learned, in two years of keeping, that the worth of a thing in Ashford was rarely the price a man would pay for it.
 

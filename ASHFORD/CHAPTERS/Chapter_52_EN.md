@@ -66,7 +66,7 @@ And someone had left this for me — in a house that did not exist, on a chair t
 
 Someone had known I would come. Someone had known I would find it.
 
-I did not know whether it was a message, or a warning, or a test.
+I could not yet tell whether it was a message, or a warning, or a test.
 
 I folded the paper and put it in my coat, beside the gear.
 

@@ -26,7 +26,7 @@ The mill stood where it had always stood. Silent. Empty. The door was closed.
 
 I had told Crowe I had not shown him the mark. I had told him I trusted no one. I had told the room above the brewery that I carried the gear, and I had come out of that room understanding that I had told them more than I meant to tell, and now there was a man who had followed me from the brewery to the mill and erased my mark before I could read it again.
 
-Not Crowe. I did not know whose print it was, but I knew it was not Crowe's. Crowe's boot was narrower. I had seen it often enough, in the mud at the door, in the dust at Vale's house, in the lane behind the brewery when he had walked ahead of me into the dark.
+Not Crowe. I could not yet tell whose print it was, but I knew it was not Crowe's. Crowe's boot was narrower. I had seen it often enough, in the mud at the door, in the dust at Vale's house, in the lane behind the brewery when he had walked ahead of me into the dark.
 
 This was a different man.
 

@@ -96,7 +96,7 @@ I took the medallion out. I held it against the nineteenth sign. The first sign 
 
 I held them together, the warm metal against the cold stone, and I felt the warmth pass between them — the same warmth I had felt at the common, at the keeper's sign in the earth, at the first sign on the wall of the house.
 
-The two signs recognized each other. I did not know what that meant. But I knew that it was the same thing that had happened at the common, and at the wall of the house, and that it was happening here, at the nineteenth sign, at the place where the keeper's sign crossed the circle.
+The two signs recognized each other. I could not yet tell what that meant. But I knew that it was the same thing that had happened at the common, and at the wall of the house, and that it was happening here, at the nineteenth sign, at the place where the keeper's sign crossed the circle.
 
 I lowered the medallion. I walked on. I reached the door.
 

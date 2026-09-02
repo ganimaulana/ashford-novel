@@ -38,7 +38,7 @@ I heard the name. Bellweather. I had heard it before — in the spring, when I h
 
 He looked at me a long moment. Then he turned to the shelf, and he took down a book — a book I had not seen before, bound in black leather, its spine cracked and its pages yellow.
 
-"The record of Bellweather," he said. "I have kept it for forty years, and I have not shown it to anyone, because I did not know who to show it to."
+"The record of Bellweather," he said. "I have kept it for forty years, and I have not shown it to anyone, because I could not yet tell who to show it to."
 
 He opened it. The pages were filled with the same small hand I had seen in the vestry book, the book of the wall, the red book — the same hand, the same ink, the same careful letters.
 

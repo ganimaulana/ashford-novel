@@ -2,7 +2,7 @@ CHAPTER 70 — THE KEEPER'S BELL
 
 The door of the tower was locked for three days.
 
-I went to the church each morning. I stood at the door of the tower, and I tried the latch, and it was locked, and I did not force it. I did not know who had the key. The verger, perhaps. Or the sexton. Or the warden. The bell was the church's bell, and the tower was the church's tower, and the key would be with the men who kept the church.
+I went to the church each morning. I stood at the door of the tower, and I tried the latch, and it was locked, and I did not force it. I could not yet tell who had the key. The verger, perhaps. Or the sexton. Or the warden. The bell was the church's bell, and the tower was the church's tower, and the key would be with the men who kept the church.
 
 I did not ask. I had not asked anyone about the bell. I had asked about the wall, and the boundary, and the signs. I had not asked about the bell. I had not wanted to. The bell had been part of the winter — the bell that did not ring, the Thursday of the bell, the thread that Goding had known about and the town had not wanted to speak of. I had put it aside when I had found the gear and the door. I had thought it was a different mystery. I had been wrong. The bell was the keeper's bell. The bell was the third sign. And the door of the tower was locked.
 

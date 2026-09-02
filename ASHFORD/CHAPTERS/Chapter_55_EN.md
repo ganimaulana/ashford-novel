@@ -74,7 +74,7 @@ The stranger had told me the signs were a count of years, running out.
 
 The book said they were a record — a record kept by no one, added to by no one, present in every page, so that no one could change the wall without the signs showing.
 
-I did not know which was true. I did not know whether they were both true — a count of years, and a record of the wall, kept by the same hand for reasons I could not see.
+I could not yet tell which was true. I could not yet tell whether they were both true — a count of years, and a record of the wall, kept by the same hand for reasons I could not see.
 
 But I knew that the stranger had come to Ashford and told me the count was running out. And I knew that the book in front of me said the count had never stopped being kept.
 
@@ -98,7 +98,7 @@ I did not know why he had lied. I did not know whether he had lied.
 
 But I knew that I could not trust what he had told me, and I knew that I could not trust the Order, and I knew that I could not trust the vestry — because the clerk had kept the book of the wall hidden for years, and Vale had asked him to keep the page hidden, and no one had ever told me that the signs were everywhere.
 
-I walked home. I sat at my desk. I opened my notebook, and I wrote:
+At home, I sat at my desk. I opened my notebook, and I wrote:
 
 The signs are on every stone of the wall. They are in the margins of the wardens' book. They are in the passage beneath the common. They are not fresh. They have been kept for longer than anyone can name.
 

@@ -20,7 +20,7 @@ I thought of the fifty years.
 
 No stone was raised. No one had ordered one. The town did not raise stones for men who had stopped no carts in years.
 
-I would see to it later. Or perhaps I would not. I did not know then that keeping a man's memory was part of what I had inherited.
+I would see to it later. Or perhaps I would not. I could not yet tell then that keeping a man's memory was part of what I had inherited.
 
 ---
 

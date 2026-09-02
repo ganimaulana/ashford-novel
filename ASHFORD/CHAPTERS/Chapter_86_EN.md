@@ -16,4 +16,4 @@ I sat in the dark, and I was content. The town was asleep. The bell was silent. 
 
 The rain continued through the night. I sat at my desk, listening to the rain, and I thought about the year that had passed. I had come to Ashford as a stranger. I had become a watchman. I had found the gear. I had found the door. I had found the signs. I had found the medallions. I had found the houses. I had found the bell. I had found the chamber. I had found the place beneath. I had found the keeping. I had written the account. I was the keeper.
 
-I sat in the dark, and I listened to the rain, and I was content. The town was asleep. The bell was silent. The house was kept. The account was written. The keeping was whole. And I was the keeper. That was the whole of it. That was the whole of the account. I was the keeper. I kept. The end.
+I listened to the rain until the lamps along the street went out one by one. The town was asleep; the bell was silent; Bellweather House kept its distance at the end of the lane. Yet the account did not feel finished. It had only become quiet enough for another question to be heard.

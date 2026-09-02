@@ -42,7 +42,7 @@ I had two clocks.
 
 The Fenn clock had been sold to a woman in a dark coat years ago. The Harlow clock was now in my coat. The Wintour and Langford clocks were still missing.
 
-I did not know where to look for them. The families had disappeared from the records. The clocks had disappeared with them.
+I could not yet tell where to look for them. The families had disappeared from the records. The clocks had disappeared with them.
 
 I sat at my desk, with both clocks before me. They were identical. The same size. The same tarnished brass. The same first sign on the back.
 

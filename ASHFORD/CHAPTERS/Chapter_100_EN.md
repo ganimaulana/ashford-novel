@@ -20,7 +20,7 @@ There was no name. There was no town. There was no signature.
 
 At the foot of the page, in the same hand, an address: the reading room above the chandler's shop, on the night of Thursday, before midnight.
 
-I sat at the desk with the letter in my hand, and I did not know what to make of it.
+I sat at the desk with the letter in my hand, and I could not yet tell what to make of it.
 
 It was not a threat. It was not a summons of the kind the bench sent. It was a request — a strange request, from an unknown hand, about a room that had remained locked for seventeen years and three men who did not agree on what they had seen.
 

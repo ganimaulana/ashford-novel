@@ -1,6 +1,6 @@
 CHAPTER 111 — THE COUNT
 
-I did not know what the count was counting.
+I could not yet tell what the count was counting.
 
 I carried the two pages of marks with me, in my notebook — the tally from the book of the first keeper, and the marks from the oldest book of the Academy. I looked at them together, and I counted them, and I did not know what they meant.
 

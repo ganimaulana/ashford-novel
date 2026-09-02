@@ -6,7 +6,7 @@ I read the book of the first keeper again, and again, and again. I copied the pa
 
 The tally was longer than the keeping as I knew it.
 
-I did not know how much longer. I did not know whether the tally was a count of years, or of seasons, or of something else. I did not know whether I had counted the marks correctly, or whether the marks meant something other than what the first keeper had said they meant.
+I could not yet tell how much longer. I could not yet tell whether the tally was a count of years, or of seasons, or of something else. I could not yet tell whether I had counted the marks correctly, or whether the marks meant something other than what the first keeper had said they meant.
 
 But I knew that the keeping was older than the keepers I knew.
 

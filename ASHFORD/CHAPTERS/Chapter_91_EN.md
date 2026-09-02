@@ -2,7 +2,7 @@ CHAPTER 91 — THE RETURN
 
 I returned to Ashford on the seventh day.
 
-The road was longer on the way back. I had found nothing in Darlington but an empty house and a dead end. The fourth clock was still out there, somewhere, and I did not know where to look for it.
+The road was longer on the way back. I had found nothing in Darlington but an empty house and a dead end. The fourth clock was still out there, somewhere, and I could not yet tell where to look for it.
 
 I walked through the streets of Ashford in the late afternoon, and the town was as I had left it — ordinary, quiet, unchanged. The same carts. The same lamps. The same faces.
 

@@ -1,6 +1,6 @@
 CHAPTER 95 — THE LOCK
 
-I had the key. I did not know what it opened.
+I had the key. I could not yet tell what it opened.
 
 I held it in my hand and I thought about the locks I knew. The door beneath the mill. The door beneath the common. The trapdoors. The chest in the vestry. The door of the tower.
 

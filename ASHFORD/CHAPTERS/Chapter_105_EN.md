@@ -12,7 +12,7 @@ I had been a hunter since the clock in the market — a finder of things that we
 
 And now I had been offered a place among people who did the same thing — people who sought to preserve what would otherwise be lost.
 
-I did not know whether to accept.
+I could not yet tell whether to accept.
 
 I walked the boundary on the third day, and I stood at the eastern marker, where the first sign was cut into the stone, and I thought about the keepers who had come before me.
 

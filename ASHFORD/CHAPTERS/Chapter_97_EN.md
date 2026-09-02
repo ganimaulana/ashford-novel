@@ -4,7 +4,7 @@ Ysabel Nott sat in my room, by the lamp, and I set the four clocks on the desk b
 
 The first. The second. The third. The fourth.
 
-All four, together, for the first time in — I did not know how long.
+All four, together, for the first time in — I could not yet tell how long.
 
 I set them in order. I, II, III, IV. They were identical. The same brass. The same cracked faces. The same first sign on the backs.
 

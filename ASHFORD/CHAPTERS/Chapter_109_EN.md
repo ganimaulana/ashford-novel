@@ -4,7 +4,7 @@ I did not see Adeline Brume for two weeks after the night in the reading room.
 
 I did not expect to. I had kept the book. I had refused to give it to the society. And I had understood that the society had been testing me — that the book had been the final test, and that I had passed by keeping it.
 
-I did not know what the society would do next. I did not know whether they would ask more of me, or whether they would leave me be, or whether the working relationship had ended before it had truly begun.
+I could not yet tell what the society would do next. I could not yet tell whether they would ask more of me, or whether they would leave me be, or whether the working relationship had ended before it had truly begun.
 
 I kept the account. I walked the boundary. I carried the medallions and the gear. I wrote in the red book.
 

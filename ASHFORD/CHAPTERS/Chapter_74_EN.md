@@ -10,7 +10,7 @@ I walked the passage with the candle, and I counted the signs. They were not a c
 
 I walked. The passage was longer than the passage beneath the common. It turned, and turned again, and the air grew colder, and the smell of earth and stone grew stronger, and the first signs continued, one after another, marking the way.
 
-I did not know where the passage led. I did not know what it held. I only knew that the bell had rung, and that the passage had opened, and that I was the keeper, and that I had to go on.
+I could not yet tell where the passage led. I could not yet tell what it held. I only knew that the bell had rung, and that the passage had opened, and that I was the keeper, and that I had to go on.
 
 I walked for a long time. The candle burned low. I lit another. The passage continued.
 

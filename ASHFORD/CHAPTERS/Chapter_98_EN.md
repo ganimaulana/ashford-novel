@@ -118,7 +118,7 @@ I took out the key.
 
 I held it in my hand.
 
-I did not know what was in the box. I did not know whether I should open it.
+I could not yet tell what was in the box. I could not yet tell whether I should open it.
 
 But I was the keeper. The box had been kept for me. The letter had said it would be given to the keeper when he came.
 

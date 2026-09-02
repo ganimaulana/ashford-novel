@@ -82,7 +82,7 @@ She looked at me.
 
 "You are more than a keeper," she said. "You are the keeper who came at the end of the old keeping, and the beginning of the new."
 
-I did not know what to say.
+I could not yet tell what to say.
 
 "Keep the medallion," she said. "Keep it with your own. They are meant to be together. The first sign was made twice, and the two are meant to be kept by one keeper."
 

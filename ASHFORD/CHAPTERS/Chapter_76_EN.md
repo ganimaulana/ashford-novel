@@ -6,7 +6,7 @@ I had written in the red book every day since the night I had understood what I 
 
 I had not told anyone what I had learned. I had not told Crowe. I had not told Eleanor Shaw. I had not told the clerk. I had kept the account, and I had kept the medallions, and I had kept the gear, and I had kept the key to the tower. I had kept everything. And I had begun to understand that keeping was not the same as knowing.
 
-I knew what I was keeping. I did not know why. I did not know what the place beneath was. I did not know why it had been kept. I did not know why I had been given the first sign, and why I had been led to the second, and why the bell had rung for me. I knew only that I was the keeper. And that the keeping was the thing.
+I knew what I was keeping. I could not yet tell why. I could not yet tell what the place beneath was. I could not yet tell why it had been kept. I could not yet tell why I had been given the first sign, and why I had been led to the second, and why the bell had rung for me. I knew only that I was the keeper. And that the keeping was the thing.
 
 ---
 

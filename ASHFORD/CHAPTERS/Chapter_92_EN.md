@@ -4,7 +4,7 @@ I had three clocks.
 
 I set them on the desk, side by side, in the order of their numbers. I, III, IV. The second was missing. Somewhere in Ashford, or beyond it, the woman in the dark coat had the second clock. She had bought it from the Fenn family years ago, and she had not been seen since.
 
-I did not know where she was. I did not know how to find her.
+I could not yet tell where she was. I could not yet tell how to find her.
 
 But I had three clocks. And I had the first sign on all of them.
 

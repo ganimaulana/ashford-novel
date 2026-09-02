@@ -6,7 +6,7 @@ The house at the end of the lane — Vale's house — had stood empty since his 
 
 But the medallion had led me to the common. The house had answered. The door had knocked. And I had understood that the first sign was connected to everything I had found — and that I had not yet found everything.
 
-I went to Bellweather Lane on the morning after the house appeared. I did not know what I was looking for. I knew only that the house at the end of the lane was Vale's, and that Vale had been keeper, and that the keeper had kept the first sign hidden, and that the keeper's house had held something I had not found.
+I went to Bellweather Lane on the morning after the house appeared. I could not yet tell what I was looking for. I knew only that the house at the end of the lane was Vale's, and that Vale had been keeper, and that the keeper had kept the first sign hidden, and that the keeper's house had held something I had not found.
 
 I let myself in. The door was still unlocked. The room was as I had left it — the chair, the cold fireplace, the folded blanket, the rosemary on the sill. The window was closed. I had closed it twice, and I had not been back to see whether it had been opened again.
 

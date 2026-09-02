@@ -6,7 +6,7 @@ The house was not there.
 
 I stood at the edge of the grass, in the dark, and I looked at the place where it had stood, and there was nothing — only the shape of the floor pressed into the grass, and the keeper's sign bent into the earth at its centre, and the memory of the cold air inside a room that had not existed until I had crossed its threshold.
 
-I did not know whether the house appeared on a schedule. I did not know whether it appeared when I was meant to see it, or whether it appeared and disappeared without regard for my watching.
+I could not yet tell whether the house appeared on a schedule. I could not yet tell whether it appeared when I was meant to see it, or whether it appeared and disappeared without regard for my watching.
 
 I stood at the edge of the common for a long time, and the house did not come, and I walked back to my rooms, and I sat at my desk, and I thought about the trapdoor.
 

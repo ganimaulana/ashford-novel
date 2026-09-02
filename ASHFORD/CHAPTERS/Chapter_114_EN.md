@@ -38,7 +38,7 @@ The lamp was not a ghost. It was not a haunting. It was a keeping — a keeping 
 
 And the keeping was part of the count.
 
-I did not know what the count was counting. But I knew that the lamp was part of it.
+I could not yet tell what the count was counting. But I knew that the lamp was part of it.
 
 The lamp burned at nine. The bell came when the lamp did not. The house kept itself through the season.
 

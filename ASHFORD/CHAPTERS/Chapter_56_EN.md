@@ -90,7 +90,7 @@ I did not open the door.
 
 I stood in the passage, in the candlelight, and I looked at the door, and I thought about the nineteenth sign, and about the hand that had carved it, and about the message that had been left for me — or for someone — in the stone.
 
-I did not know what the message said. I did not know who had carved it.
+I could not yet tell what the message said. I could not yet tell who had carved it.
 
 But I knew that the signs were not a count. They were a path. And the nineteenth sign — the sign that was different — was the sign that marked the place where the path changed.
 

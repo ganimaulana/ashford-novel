@@ -10,7 +10,7 @@ It was not a large house. It was a single story, low, with a roof of slate that 
 
 I crossed the clearing.
 
-I did not know what I would find inside. I did not know whether the house was connected to the count, or to the keeping, or to something else entirely.
+I could not yet tell what I would find inside. I could not yet tell whether the house was connected to the count, or to the keeping, or to something else entirely.
 
 But I knew that I had to enter.
 

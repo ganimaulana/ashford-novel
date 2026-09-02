@@ -2,7 +2,7 @@ CHAPTER 130 — THE CENTRE
 
 I stayed in the marsh for two weeks.
 
-I did not know why I stayed. I had found the house, and the ring of stones, and the first sign on every stone. I had understood that this was the beginning of the boundary.
+I could not yet tell why I stayed. I had found the house, and the ring of stones, and the first sign on every stone. I had understood that this was the beginning of the boundary.
 
 But I did not leave.
 

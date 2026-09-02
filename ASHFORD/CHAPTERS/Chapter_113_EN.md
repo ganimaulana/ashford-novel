@@ -12,7 +12,7 @@ I held it up, and I looked at it, and I thought about the count.
 
 The stones had the first sign at their base. The medallion had the first sign on its face. The tally was in the hand of the first keeper. The boundary was set to mark the count.
 
-I did not know what the stones were counting.
+I could not yet tell what the stones were counting.
 
 But I knew that the first sign was the language of the count.
 

@@ -24,7 +24,7 @@ The tally was a number. The stones were a number. Every stone had the first sign
 
 But the number of stones was not the tally.
 
-I stood at the end of the wall, and I did not know what the stones were counting.
+I stood at the end of the wall, and I could not yet tell what the stones were counting.
 
 ---
 

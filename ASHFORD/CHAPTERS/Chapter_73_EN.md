@@ -4,7 +4,7 @@ A week passed, and the bell did not ring.
 
 I went to the tower each day. I climbed the stairs, I stood in the bell chamber, I looked at the bell — the keeper's bell, the first sign on its rim — and I waited. It did not ring.
 
-I did not know whether it would ring. I had prepared. I had written the account. I had told Crowe where it was. I had accepted that I might go into the passage and not come back. But the bell did not ring.
+I could not yet tell whether it would ring. I had prepared. I had written the account. I had told Crowe where it was. I had accepted that I might go into the passage and not come back. But the bell did not ring.
 
 I did not know whether that meant I had been wrong — whether the bell would not ring for me, whether it was not my time, whether I was not the keeper after all. I did not know.
 

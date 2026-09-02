@@ -2,7 +2,7 @@ CHAPTER 82 — THE ORDER'S RETURN
 
 The Order came to me in the spring. I had not seen them since the reckoning. I had not heard from them. I had kept the account, and I had kept the forgetting, and I had not thought about the Order.
 
-They came to my rooms, three of them — Graves, the woman with the ledger, and a third man I did not know. I let them in. They stood in my room, the three of them, and they looked at the desk where the medallions lay, and they looked at the drawer where the red book was kept, and they looked at me.
+They came to my rooms, three of them — Graves, the woman with the ledger, and a third man I could not yet tell. I let them in. They stood in my room, the three of them, and they looked at the desk where the medallions lay, and they looked at the drawer where the red book was kept, and they looked at me.
 
 "You have been keeping," the woman said. "I have." "You have been keeping the gear." "I have." "You have been keeping the bells." I was silent. "You have been to the tower," she said. "You have the key. You have been to the house at the end of the lane. You have been to the common. You have been to Goding's farm." I did not deny it. "You have kept things from the Order," Graves said. "I have kept what the keeper keeps." "The Order decides what the keeper keeps." "The Order decides nothing," I said. "The keeper keeps what is kept. The Order watches. The Order does not decide."
 

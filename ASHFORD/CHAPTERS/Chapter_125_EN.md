@@ -8,7 +8,7 @@ I had done what I could.
 
 Now I waited.
 
-I did not know what I was waiting for. I did not know whether the keeper who came after me would come in my time, or after I was gone. I did not know whether I would meet him, or whether he would find the book in the drawer after I had left it.
+I could not yet tell what I was waiting for. I could not yet tell whether the keeper who came after me would come in my time, or after I was gone. I could not yet tell whether I would meet him, or whether he would find the book in the drawer after I had left it.
 
 But I waited.
 

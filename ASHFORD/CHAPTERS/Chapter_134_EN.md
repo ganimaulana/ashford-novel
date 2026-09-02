@@ -4,7 +4,7 @@ I walked toward the house on the hill.
 
 The road led up from the town, past the wall of old stone, to a gate that stood open. Beyond the gate, a drive of packed earth led to the house.
 
-I did not know what the house was. I did not know why the count had brought me here.
+I could not yet tell what the house was. I could not yet tell why the count had brought me here.
 
 But the medallion was warm.
 

@@ -6,7 +6,7 @@ I had not planned to carry it. I had taken it out to look at it, to compare it w
 
 On the third day, I went to the common.
 
-I had not gone to the common in weeks. I had gone to the eastern marker, and to the passage, and to the brewery, and I had stayed away from the common, because I did not know what I would find there, and because I had told the Order that the door was not a door, and because I had needed to believe it.
+I had not gone to the common in weeks. I had gone to the eastern marker, and to the passage, and to the brewery, and I had stayed away from the common, because I could not yet tell what I would find there, and because I had told the Order that the door was not a door, and because I had needed to believe it.
 
 I went to the common in the evening.
 

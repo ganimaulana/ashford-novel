@@ -20,7 +20,7 @@ I stood in the shop.
 
 A man. Asking about the same book, before the woman in the dark coat.
 
-I did not know what the book was. I did not know whether it was connected to the clocks.
+I could not yet tell what the book was. I could not yet tell whether it was connected to the clocks.
 
 But I knew that there were others asking questions. And I knew that they had been asking for a long time.
 

@@ -40,7 +40,7 @@ I had found it myself, now — not in the passage, not on the wall, but at the e
 
 I reached out and put my hand to the circle at the centre of the sign.
 
-The stone was cold. I had expected it to be warm — I did not know why. I had expected, at the moment I found the nineteenth sign at the eastern marker, that something would happen. That the stone would move. That the earth would open. That I would understand.
+The stone was cold. I had expected it to be warm — I could not yet tell why. I had expected, at the moment I found the nineteenth sign at the eastern marker, that something would happen. That the stone would move. That the earth would open. That I would understand.
 
 Nothing happened.
 

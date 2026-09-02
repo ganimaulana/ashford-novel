@@ -4,7 +4,7 @@ I carried both medallions for a week.
 
 I did not go to the common. I did not go to the mill. I did not go to the eastern marker. I carried the two medallions — one warm, one cold — and I went about my days, and I waited.
 
-I did not know what I was waiting for. I had taken the second medallion from the house at the end of Bellweather Lane, and I had carried it, and I had tested it at the keeper's sign, and it had not answered. I had not tested it anywhere else. I had not taken it back to the house at the end of the lane. I had not taken it to Vale's house. I had not taken it to the house that appeared at the edge of the common.
+I could not yet tell what I was waiting for. I had taken the second medallion from the house at the end of Bellweather Lane, and I had carried it, and I had tested it at the keeper's sign, and it had not answered. I had not tested it anywhere else. I had not taken it back to the house at the end of the lane. I had not taken it to Vale's house. I had not taken it to the house that appeared at the edge of the common.
 
 I had carried both medallions, and I had waited, and on the eighth day, I went back to the house at the end of Bellweather Lane.
 

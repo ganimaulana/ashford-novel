@@ -60,7 +60,7 @@ Goding was silent. "I do not know," he said. "I did not go after him. I did not 
 
 I stood in the yard, with the dog watching me, and the grey sky overhead, and the memory of the bell that had rung once, in the dark, before dawn, on the Thursday of the bell. The keeper before Vale had opened the door. The bell had rung. The keeper had gone into the passage. He had not come back. And Vale had kept the door closed ever since.
 
-I had the gear. I had the key to the tower. I had the medallions. I was the keeper. I did not know whether I would go into the passage. I did not know whether I would open the door. But I knew that the bell had rung once, and that the keeper had not come back. And I knew that the bell was the keeper's bell.
+I had the gear. I had the key to the tower. I had the medallions. I was the keeper. I could not yet tell whether I would go into the passage. I could not yet tell whether I would open the door. But I knew that the bell had rung once, and that the keeper had not come back. And I knew that the bell was the keeper's bell.
 
 I thanked Goding. I walked home through the wet fields. I sat at my desk. I took out the red book. I wrote:
 

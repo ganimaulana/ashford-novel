@@ -12,7 +12,7 @@ The same marks. The same hand. The same count.
 
 Three books, three tallies, one number.
 
-I did not know what the number was counting.
+I could not yet tell what the number was counting.
 
 But I knew that it was important.
 

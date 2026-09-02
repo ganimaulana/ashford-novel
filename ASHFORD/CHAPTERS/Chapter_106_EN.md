@@ -30,7 +30,7 @@ Silas Wren was that collector.
 
 And he had a book that the society wanted.
 
-I did not know what was in the book. I did not know how it had come into his possession. I did not know why the society wanted it.
+I could not yet tell what was in the book. I could not yet tell how it had come into his possession. I could not yet tell why the society wanted it.
 
 But I had been asked to find out.
 

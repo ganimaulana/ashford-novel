@@ -4,7 +4,7 @@ The summer came, and the town settled into its long warmth. I kept the account. 
 
 The town did not know. The town went about its business — the harvest, the market, the weddings, the births, the ordinary life of a town that did not know what was beneath it. I walked the boundary. I had walked it every week since I had become keeper. I had walked it with the medallions warm against my chest, and I had watched the stones, and I had watched the wall, and I had watched the place where the house appeared. Nothing had changed. The stones had not moved. The wall had not failed. The house had not appeared. The bell had not rung. The keeping was quiet.
 
-I did not know whether that was a good sign or a bad sign. I had expected, in the spring, that something would happen — that the town would begin to remember, or that the keeping would be tested, or that the place beneath would stir. Nothing had happened. The summer passed quietly, and I kept the account, and I waited.
+I could not yet tell whether that was a good sign or a bad sign. I had expected, in the spring, that something would happen — that the town would begin to remember, or that the keeping would be tested, or that the place beneath would stir. Nothing had happened. The summer passed quietly, and I kept the account, and I waited.
 
 ---
 

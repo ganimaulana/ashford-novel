@@ -60,7 +60,7 @@ And the keeping would continue.
 
 On a day in autumn, I decided to leave Ashford.
 
-I did not know where I would go. I had not been anywhere in five years. I had been the keeper, and the keeper stays.
+I could not yet tell where I would go. I had not been anywhere in five years. I had been the keeper, and the keeper stays.
 
 But I was not the keeper now.
 
@@ -116,14 +116,4 @@ The count would call.
 
 And when it called, I would answer.
 
-I walked north, into the morning, and I was content.
-
-I had been a keeper.
-
-I had kept the account.
-
-I had passed the keeping.
-
-And the count would continue.
-
-The end.
+I walked north into the morning. The keeping had changed hands, but not become simple. Behind me, Ashford kept its ordinary face; ahead lay the unanswered part of the count. I could leave the duty, not its consequence.

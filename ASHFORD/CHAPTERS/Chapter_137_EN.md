@@ -6,7 +6,7 @@ I did not cross. I did not turn back. I stayed at the bridge, and I watched the 
 
 The medallions were warm. They had not changed.
 
-I did not know what the count was telling me.
+I could not yet tell what the count was telling me.
 
 On the third day, a man came to the bridge.
 

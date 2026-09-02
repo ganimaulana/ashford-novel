@@ -4,7 +4,7 @@ The winter came, and the town settled into its stillness, and I kept the account
 
 I had been keeper for four years. I had been a hunter since the clock in the market. I had worked with the society for a year. I had read the book of the first keeper, and I had found the tally, and I had understood that the boundary was a count.
 
-I did not know what the count was counting.
+I could not yet tell what the count was counting.
 
 I carried the question through the winter. I carried it to the boundary, and to the chamber, and to the tower, and to the reading room above the chandler's shop. I carried it with the medallion warm against my chest.
 

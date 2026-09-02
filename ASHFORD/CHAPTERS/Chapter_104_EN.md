@@ -42,7 +42,7 @@ He looked at me.
 
 "I have been watching you for two years, Mr. Ashcroft. I have seen you become a keeper. I have seen you become a hunter. I have seen you find the clock, and the key, and the lock, and the letter of Aurelius Ashcroft. I have seen you refuse to open the door, and refuse to ring the bell, and keep the account when you were told to keep it."
 
-I stood in the room, by the fire, and I did not know what to say.
+I stood in the room, by the fire, and I could not yet tell what to say.
 
 "We need men like you," he said. "Men who can see what is hidden. Men who can find what is lost. Men who know when to stop, and when to continue."
 

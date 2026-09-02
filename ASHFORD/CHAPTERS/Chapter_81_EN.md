@@ -2,7 +2,7 @@ CHAPTER 81 — THE PASSING
 
 The spring came again to Ashford. I had been keeper for a year. I had kept the forgetting. I had kept the remembering. I had written the account. I had kept the houses, the bell, the medallions, the sign, the passage, the chamber, the place beneath. I had kept everything.
 
-And the spring came, and the snow melted, and the town woke from its winter sleep, and I was still the keeper. I did not know what I had expected. I had expected the keeping to end, perhaps. I had expected the bell to ring again, or the house to appear, or the keeper before Vale to return. None of it had happened. The spring came, and the town went about its business, and I kept the account. I had written the red book full. I had written everything I had learned. And I had begun to understand that the account was not finished. It would never be finished. The keeping would continue. And the account would continue with it.
+And the spring came, and the snow melted, and the town woke from its winter sleep, and I was still the keeper. I could not yet tell what I had expected. I had expected the keeping to end, perhaps. I had expected the bell to ring again, or the house to appear, or the keeper before Vale to return. None of it had happened. The spring came, and the town went about its business, and I kept the account. I had written the red book full. I had written everything I had learned. And I had begun to understand that the account was not finished. It would never be finished. The keeping would continue. And the account would continue with it.
 
 ---
 

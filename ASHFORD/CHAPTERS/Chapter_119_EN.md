@@ -46,7 +46,7 @@ A count that did not change.
 
 And on the fourth stone, a mark that had appeared.
 
-I did not know what it meant. But I understood that the mark on the fourth stone and the tally in the book of the first keeper might be the same kind of thing.
+I could not yet tell what it meant. But I understood that the mark on the fourth stone and the tally in the book of the first keeper might be the same kind of thing.
 
 Marks.
 

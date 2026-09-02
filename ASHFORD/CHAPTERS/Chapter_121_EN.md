@@ -56,7 +56,7 @@ I came closer.
 
 He turned.
 
-I saw his face in the moonlight — a face I did not know, lined with years, with eyes that had seen a great deal and had not spoken of most of it.
+I saw his face in the moonlight — a face I could not yet tell, lined with years, with eyes that had seen a great deal and had not spoken of most of it.
 
 "You are the keeper," he said.
 

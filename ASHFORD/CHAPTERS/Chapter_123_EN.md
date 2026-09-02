@@ -1,6 +1,6 @@
 CHAPTER 123 — THE SUCCESSOR
 
-I did not know who would keep after me.
+I could not yet tell who would keep after me.
 
 I had understood that the keeping would continue after me. The keeper of the tally had said so: "There are keepers to come. Keepers after you."
 
