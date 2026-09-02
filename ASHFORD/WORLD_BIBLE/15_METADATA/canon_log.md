@@ -51,6 +51,24 @@ This separation ensures that:
 
 ---
 
+## 2026-09-02: Supernatural System Naming Lock
+
+**Event**: XIII Signs (13 identities) and Nine Ranks (progression) permanently locked. See `CANON_TERMINOLOGY.md`.
+
+**Actions**:
+- Updated `CANON_TERMINOLOGY.md` with XIII Signs list, Nine Ranks hierarchy, Rank + Sign format, Sign vs Rank distinction
+- Rank ordering locked: 9 = Marked (lowest), 1 = Transcendent (highest)
+- No chapter files were modified
+- No abilities, mechanics, or lore were invented
+- No Signs were revealed to the manuscript
+
+**Master Index Entry**:
+> XIII Signs (13 identities) and Nine Ranks (9 progression levels) locked. Rank 9 = Marked (lowest), Rank 1 = Transcendent (highest). Rank + Sign format: `[RANK] [SIGN]` (e.g., Marked Knight). All advancement mechanics remain undefined.
+
+**Status**: PROVISIONAL CANON / TERMINOLOGY LOCK. No manuscript migration has been performed.
+
+---
+
 ## 2026-09-02: Long-Term Arc Roadmap Locked
 
 **Event**: Chapters 1–137 formally designated as ARC 1 — BELLWEATHER. Long-term planning framework created for Arcs 2–10.
