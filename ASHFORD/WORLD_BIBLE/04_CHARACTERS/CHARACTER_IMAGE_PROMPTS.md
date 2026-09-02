@@ -493,7 +493,59 @@ no glamour pose
 - [ ] Anime version is mature seinen (not childish fantasy)
 - [ ] Realism version is photorealistic (not plain or generic)
 
+## 13. Image Review Criteria — Leon Ashcroft
+
+### A. Identity Consistency
+- Does the generated image match the Canon Identity Lock?
+- Is the character recognisably Leon Ashcroft without context?
+- Are the distinctive facial proportions (oval, clean jawline, straight nose) intact?
+- Is the facial structure the same across both modes (Anime ↔ Realism)?
+
+### B. Historical Accuracy
+- Is the clothing plausibly 1816?
+- Is the frock/travelling coat cut correctly for the period?
+- Is the waistcoat period-appropriate?
+- Is the cravat tied in a simple 1816 manner?
+- Are the trousers and shoes correct for 1816?
+- Is the hairstyle historically plausible (not modern, not fantasy)?
+
+### C. Silhouette
+- Is Leon's silhouette recognisable at a glance?
+- Does the frock/travelling coat + waistcoat + trousers form a coherent, elegant 1816 silhouette?
+- Is the silhouette the same between Anime and Realism versions (only rendering differs)?
+
+### D. Facial Distinctiveness
+- Does Leon have a memorable, distinctive face? (NOT ordinary, forgettable, plain, or generic)
+- Is the face refined, intelligent, and naturally attractive without being excessive?
+- Is the dark brown hair visually distinctive (naturally slightly untidy, period-plausible)?
+- Are the hazel eyes present and consistent (not green, amber, gold, or supernatural)?
+
+### E. Clothing
+- Is the dark wool frock/travelling coat present?
+- Is the layered waistcoat present?
+- Is the cravat tied and neatly composed?
+- Is the clothing fitted and elegant, not excessively luxurious?
+- Is the notebook visible as a recurring anchor?
+
+### F. Character Presence
+- Does Leon's expression convey composed watchfulness and quiet intelligence?
+- Is the posture upright and composed?
+- Is the overall impression "restrained elegance, understated mystery, quiet intelligence"?
+- Does the character look like a protagonist without looking like a fantasy hero?
+
+### G. Anime / Realism Correspondence
+- Do the Anime and Realism versions depict the SAME person?
+- Are the facial structure, hair, eyes, build, clothing, and notebook identical in concept?
+- Is the Anime version mature seinen (not childish, not fantasy, not bishounen)?
+- Is the Realism version photorealistic (not plain, not generic, not beauty-filtered)?
+
+### H. Absence of Unintended Supernatural Cues
+- No glowing eyes, magical aura, or supernatural symbols?
+- No occult clothing, fantasy armor, or steampunk elements?
+- No vampire, wizard, or fantasy protagonist styling?
+- Does Leon look like a real young man of 1816 who happens to be visually memorable?
+
 ---
 
-**Status:** V2 — LEON ASHCROFT GENERATION PACKAGE — DRAFT / PROPOSED (not APPROVED)
+**Status:** V2 — LEON ASHCROFT GENERATION PACKAGE + IMAGE REVIEW CRITERIA — DRAFT / PROPOSED (not APPROVED)
 **Last Updated:** 2026-09-02
