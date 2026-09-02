@@ -176,4 +176,4 @@ The count had called me to them.
 
 The count had brought them together.
 
-And I was the keeper of both.
+And I was the keeper of all three.

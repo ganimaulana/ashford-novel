@@ -1,4 +1,4 @@
-CHAPTER 99 — THE ACCOUNT
+CHAPTER 99 — THE HUNT AND THE KEEPING
 
 I read the letter again that night.
 
@@ -122,13 +122,7 @@ I was the keeper of the account.
 
 And the account was the whole of the keeping.
 
-I sat in the dark, and I was content.
-
-The town was asleep. The bell was silent. The house was kept. The account was written.
-
-And I was the keeper.
-
-That was the whole of it.
+The town settled into its ordinary forgetting, and the bell kept its silence. The account remained open; I closed the drawer on a mystery that had learned to wait. I was still the keeper, but I had become something else as well: a man who had stopped asking the door for answers and started keeping the questions.
 
 ---
 

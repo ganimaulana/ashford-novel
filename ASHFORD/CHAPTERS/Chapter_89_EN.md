@@ -116,7 +116,7 @@ The keeping was still my duty. I could not leave it unattended.
 
 But I knew that I would go.
 
-I had found two clocks. The fourth was out there, somewhere to the north. The woman in the dark coat knew about the clocks. The woman in the lane — Ysabel Nott — had thought the clock was lost.
+I had found two clocks. The fourth was out there, somewhere to the north. The woman in the dark coat knew about the clocks. The woman in the lane had thought the clock was lost.
 
 I did not know who she was. I did not know whether she was the same woman who had bought the Fenn clock.
 

@@ -44,13 +44,13 @@ But I knew that it was being kept.
 
 ---
 
-I went to see Silas Wren.
+I went to see Elias Marr.
 
 He was at his house on the lane past the mill, among the objects without history, and he let me in.
 
 "The tally," I said. "The marks in the book of the first keeper. You know them."
 
-Silas was silent.
+Elias was silent.
 
 "I know them," he said. "I have known them for years."
 
@@ -64,17 +64,17 @@ I stood in his house, among the objects without history.
 
 "No one knows," I said.
 
-"No one knows," Silas said. "The first keeper made the tally. He kept the count. He erased his own history. And he left the tally, without explanation, without meaning, without anything but the marks themselves."
+"No one knows," Elias said. "The first keeper made the tally. He kept the count. He erased his own history. And he left the tally, without explanation, without meaning, without anything but the marks themselves."
 
 "The marks are being added to," I said.
 
-Silas looked at me.
+Elias looked at me.
 
 "The marks?"
 
 "There is a mark on the fourth boundary stone," I said. "A mark that appeared in the first year. A tally-mark. And there is a mark at the centre of the first sign on the floor of the chamber. The same kind of mark."
 
-Silas was very still.
+Elias was very still.
 
 "The tally is being kept," he said.
 
@@ -82,7 +82,7 @@ Silas was very still.
 
 We looked at each other in the lamplight.
 
-"Then there is someone keeping the tally," Silas said. "Someone who is adding marks to the count."
+"Then there is someone keeping the tally," Elias said. "Someone who is adding marks to the count."
 
 "Who?"
 

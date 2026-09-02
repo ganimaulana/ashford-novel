@@ -46,4 +46,4 @@ The agreement is the forgetting. The town agreed to see nothing, and to speak of
 
 I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the medallions away. I left them on the desk.
 
-And I sat in the dark, and I thought about the agreement, and the account, and the town, and the keeping. The town had agreed to forget. I had chosen to remember. That was the whole of my duty. I was the keeper of the place beneath. And the place beneath was remembered in the account. I would keep it. I would remember. And when the town forgot again, the account would remain.
+And I sat in the dark, and I thought about the agreement, and the account, and the town, and the keeping. The town had agreed to forget; I had chosen to remember. That was my duty. The place beneath was remembered in the account. I would keep it. When the town forgot again, the account would remain—not as a challenge, but as a record that had stopped needing a keeper and started being its own reason.

@@ -1,4 +1,4 @@
-CHAPTER 97 — THE FOUR CLOCKS
+CHAPTER 97 — THE SEQUENCE
 
 Ysabel Nott sat in my room, by the lamp, and I set the four clocks on the desk before us.
 

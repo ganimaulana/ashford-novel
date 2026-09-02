@@ -1,8 +1,8 @@
-CHAPTER 125 — THE VISITOR
+CHAPTER 125 — THE NEXT KEEPER
 
 The spring came again to Ashford.
 
-I had been keeper for five years. I had written the account of the keeping. I had prepared the book for the keeper who came after me. I had recorded the objects with Silas, and walked the boundary with Ysabel, and kept the count with the tally.
+I had been keeper for five years. I had written the account of the keeping. I had prepared the book for the keeper who came after me. I had recorded the objects with Elias, and walked the boundary with Ysabel, and kept the count with the tally.
 
 I had done what I could.
 
@@ -16,7 +16,7 @@ But I waited.
 
 On a day in June, a visitor came to my door.
 
-I did not know him. He was young — younger than I had been when I came to Ashford, with a face that had not yet been marked by the town.
+I knew the face. He was younger than I remembered, but I knew him — Daniel, who had shown me the oldest book in the Academy, who had counted the marks with me and not known what they counted. He had grown in the years since, but the face was the same.
 
 He stood at my door, in the afternoon light, with a bag at his feet and a look of a man who had come a long way.
 
