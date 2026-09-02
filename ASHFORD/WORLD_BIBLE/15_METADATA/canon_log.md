@@ -34,6 +34,30 @@ This separation ensures that:
 
 ---
 
+## 2026-09-02: Character Visual Canon — Applied Author Review
+
+**Event**: Applied the author-review recommendations to `CHARACTER_VISUAL_CANON.md`. Established image-generation-ready visual profiles for all major characters.
+
+**Actions**:
+- Updated `04_CHARACTERS/CHARACTER_VISUAL_CANON.md`:
+  - Leon: frock/travelling coat (not tailcoat); hazel eyes chosen; tidy grooming preserved
+  - Crowe: removed sallow/dark/ominous coding; drab grey-brown clothing (not black); Order affiliation not visually signaled
+  - Graves: replaced "fixed grey eyes" with spectacle-polishing + tremor habits; distinct from Crowe
+  - Vale: preserved ambiguity; de-ancient-wizard styling; clear steady eyes + folded packet
+  - Helen: removed "eyes that see too much"; added "has things ready"
+  - Elias Marr: replaced "faraway eyes" with averted-gaze behavior
+  - Old man: black coat read as formal/mourning, not sinister; dark blue/green preferred
+  - Added IMAGE GENERATION READINESS + MUST NOT sections for every major character
+  - Post-refinement visual differentiation table (repetition check passed)
+- No manuscript files were modified
+
+**Master Index Entry**:
+> CHARACTER_VISUAL_CANON.md refined per author review. 17+ profiles image-generation-ready. Historical 1816 standards applied. No generic Gothic repetition remains. Awaiting final author approval before image generation.
+
+**Status**: PROPOSED — refined; awaiting final author approval.
+
+---
+
 ## 2026-09-02: Character Visual Canon Audit & Design
 
 **Event**: Created CHARACTER_VISUAL_CANON.md with audit findings, visual profiles, and design proposals for 19 major characters.

@@ -1,8 +1,9 @@
 # CHARACTER VISUAL CANON — ASHFORD
 
-**Status:** PROPOSED — awaiting author approval
+**Status:** PROPOSED — refined per author review (2026-09-02); awaiting final author approval
 **Date:** 2026-09-02
 **Scope:** Major recurring characters. World Bible only — not inserted into manuscript.
+**Revision note:** Author-review recommendations applied. Existing confirmed canon preserved. Unresolved details remain unresolved.
 
 ---
 
@@ -17,6 +18,7 @@
 7. Physical description must serve characterization, atmosphere, social context, or scene perception.
 8. Do not dump character appearance into exposition.
 9. Every detail is labeled: CONFIRMED / PROPOSED / UNRESOLVED.
+10. Avoid generic Gothic archetypes, excessive darkness, excessive scars, "mysterious gaze" clichés, and overdesigned occult aesthetics.
 
 ---
 
@@ -27,23 +29,22 @@
 | Leon Ashcroft | Weak (build: average; clothing: practical coat/vest) | HIGH |
 | Helen Margaret Ashcroft | Weak (clothing: plain, practical) | HIGH |
 | Margaret (baker) | Weak (clothing: practical, clean; gestures: wiping counters) | HIGH |
-| James Calloway | Very weak (one line in Ch 8 references his age) | HIGH |
-| Silas Crowe | None (file is v2.0 minimal — no visual section) | HIGH |
-| Nathaniel Graves | None (file is v2.0 minimal) | HIGH |
-| Thomas Vale | None (file is v2.0 minimal) | HIGH |
-| Arthur Edmund Bell | Moderate (eyes: sharp/observant; posture: stooped; glasses; hands: handle books) | MEDIUM |
+| James Calloway | Very weak | HIGH |
+| Silas Crowe | None | HIGH |
+| Nathaniel Graves | None | HIGH |
+| Thomas Vale | None | HIGH |
+| Arthur Edmund Bell | Moderate (sharp observant eyes; stooped; spectacles; book-hands) | MEDIUM |
 | Eleanor Shaw | None | MEDIUM |
-| Daniel James Carter | Weak (posture: eager/energetic; clothing: student dress; carries books) | MEDIUM |
+| Daniel Carter / Wren | Weak (eager posture; student dress; carries books) | MEDIUM |
 | Ysabel Nott | None | MEDIUM |
 | Elias Marr | None | MEDIUM |
 | Adeline Brume | None | MEDIUM |
 | The old man (society) | None | MEDIUM |
-| Thomas Wren | Weak (posture: frail, aged; movement: slow, unsteady) | LOW |
-| Aurelius Ashcroft | None (historical — may remain proposed) | LOW |
-| The stranger / watcher | None | MEDIUM |
+| The stranger | None | MEDIUM |
+| The keeper of the tally | None | MEDIUM |
 | Miriam | None | MEDIUM |
+| Thomas Wren | Weak (frail, aged) | LOW |
 | The vestry clerk | None | LOW |
-| Calloway's notebook | None | LOW |
 
 ---
 
@@ -53,260 +54,395 @@
 
 ### LEON ASHCROFT
 
-**Status:** CONFIRMED — narrator; strongest visual development needed
+**Status:** CONFIRMED core — narrator; visual refined per review
 
 **Core Visual Identity:**
 - **Age:** Mid-20s (CONFIRMED)
-- **Build:** Average; neither broad nor narrow (CONFIRMED)
-- **Height:** PROPOSED — average height (5'8"–5'10")
-- **Complexion:** PROPOSED — fair, slightly weathered from travel and walking the boundary
-- **Hair:** PROPOSED — dark brown, kept short but not fashionably styled; a practical cut
-- **Eyes:** PROPOSED — grey or hazel; observant, often narrowed in thought
-- **Face:** PROPOSED — ordinary, not striking; features that might be forgotten in a crowd; a straight nose, a mouth that holds thought rather than speech
+- **Build:** Middling height and build (PROPOSED refinement; neither imposing nor slight)
+- **Height:** PROPOSED — approximately average (5'7"–5'9")
+- **Complexion:** PROPOSED — fair, faintly weathered from travel and walking
+- **Hair:** PROPOSED — brown, kept short and tidy; no beard
+- **Eyes:** PROPOSED — hazel; never still; observant, cataloguing
+- **Face:** PROPOSED — ordinary, would be forgotten in a crowd; straight nose; a mouth that holds thought
 
-**Silhouette:** PROPOSED — a man in a dark travelling coat, slightly stooped from reading, one hand in pocket, the other holding a notebook. Unremarkable at a distance.
+**Silhouette:** PROPOSED — a neat, plain young man in a dark travelling/frock coat, one hand on a notebook. Unremarkable at a distance; the notebook is the signature.
 
-**Clothing (1816):** PROPOSED
-- Dark blue or brown wool tailcoat, slightly worn at cuffs and elbows
-- Single-breasted waistcoat, dark grey or buff, buttoned high
-- Off-white linen shirt, collar turned up against wind
-- Dark wool trousers (not breeches — a practical choice for 1816 walking)
-- Sturdy leather boots, ankle-high, much-worn
-- A round hat (not a top hat — a practical traveller's hat)
-- No gloves unless cold
-- A long dark greatcoat for winter
+**Clothing (1816):** PROPOSED (review refinement — frock/travelling coat replaces earlier "tailcoat")
+- Dark wool frock coat or travelling coat, serviceable, kept clean, slightly worn at cuffs
+- Buff or grey waistcoat, buttoned
+- Plain white or cream linen shirt, collar neat
+- Dark wool trousers
+- Sturdy ankle boots, worn from walking
+- Round hat for outdoors; no gloves unless cold
+- He keeps himself tidy — neatness reflects his ordered mind
 
 **Distinctive Physical Details:** PROPOSED
-1. Weathered fingertips from holding pages and turning them in all weathers
-2. A habit of absently touching his collar when thinking
-3. Eyes that move constantly when walking — watching, cataloguing, reading
+1. Ink-marked fingertips from constant note-taking
+2. Eyes that scan rooms, doorways, and windows even in conversation
+3. Keeps his collar straight and his coat buttoned — a fastidiousness that suits his psychology
 
 **Behavioral Signature:** PROPOSED
-1. Stops mid-sentence to write in his notebook
-2. Walks with his head slightly down, then suddenly looks up at a sound or a detail
-3. Stands with weight on one foot, arms folded, when listening
+1. Stops to write in his notebook mid-conversation or mid-walk
+2. Looks fully at a speaker when addressed; looks away to think
+3. Stands straight, weight evenly set — composed, not rigid
 
 **First-Impression Description (Sample — NOT for insertion):**
-> He was a man of middling height and ordinary build, dark-haired, with the kind of face that could pass through a crowd without being remembered. But his eyes moved constantly — reading doorways, counting windows, noting the way a lamp was placed and the moment it was lit. His coat was dark and serviceable, his boots much-worn, and he carried a small notebook in his left hand as if it were an extension of his arm.
+> A neat, plain young man of middling height, in a dark travelling coat and a buff waistcoat, his boots much-worn but his collar straight. His face was the sort one passed in a street and forgot — until one noticed his eyes, which were never still, moving from doorway to window to face, setting down what they saw. He carried a small notebook in his left hand, and his fingertips were faintly marked with ink.
+
+**IMAGE GENERATION READINESS:**
+- Core face identity: ordinary young man, mid-20s, straight nose, neat
+- Body/silhouette: middling, upright, in a dark frock/travelling coat
+- Hair: short brown, tidy, no beard
+- Eyes: hazel, alert
+- Skin/complexion: fair, lightly weathered
+- Primary clothing silhouette: dark wool frock/travelling coat + buff waistcoat + trousers + worn ankle boots
+- Secondary clothing elements: round hat; small notebook and pencil
+- Distinctive physical cues: ink-marked fingertips; scanning gaze
+- Behavioral cues: note-taking; composed posture
+- Historical constraints: 1816; no modern dress; no Victorian-era cut that postdates 1816
+- Elements that MUST NOT be generated: no aristocratic finery; no fantasy elements; no occult symbols; no exaggerated scars; no supernatural aura; no dark-villain styling; no modern notebook (period notebook/pencil)
 
 ---
 
 ### HELEN MARGARET ASHCROFT
 
-**Status:** CONFIRMED — housekeeper/servant; needs visual development
+**Status:** CONFIRMED presence — visual refined per review
 
 **Core Visual Identity:**
-- **Age:** PROPOSED — late 40s to mid-50s
-- **Build:** PROPOSED — spare, not frail; the build of a woman accustomed to work
-- **Height:** PROPOSED — average to slightly below
-- **Complexion:** PROPOSED — pale, with fine lines at the eyes and mouth
-- **Hair:** PROPOSED — grey-streaked brown, pulled back in a plain bun
-- **Eyes:** PROPOSED — dark; the kind of eyes that see more than they let on
-- **Face:** PROPOSED — narrow, composed; a mouth that speaks economically
+- **Age:** PROPOSED — 45–55
+- **Build:** PROPOSED — spare, capable
+- **Height:** PROPOSED — average
+- **Complexion:** PROPOSED — pale, fine lines at eyes and mouth
+- **Hair:** PROPOSED — grey-streaked brown, pulled back under a white cap
+- **Eyes:** PROPOSED — dark, steady
+- **Face:** PROPOSED — composed, economical; no ornament
+
+**Silhouette:** PROPOSED — a plainly dressed woman in dark wool with a clean apron; quiet and still.
 
 **Clothing (1816):** PROPOSED
-- Plain dark wool dress, long-sleeved, high-collared
-- Muslin apron, fitted, always clean
-- White cap, simple, covering the crown of her hair
-- Practical black shoes, low-heeled
-- No jewelry visible
+- Plain dark wool dress, high-collared, long-sleeved
+- Muslin apron, always clean
+- White cap
+- Practical low-heeled shoes
+- No jewelry
 
-**Distinctive Physical Details:** PROPOSED
-1. Hands that are always occupied — pouring tea, folding linen, closing a drawer
-2. A still posture when standing — she does not fidget
-3. Eyes that meet a speaker's without flinching
+**Distinctive Physical Details:** PROPOSED (review refinement — removed "eyes that see too much")
+1. Has things ready before being asked — the fire lit, the tea poured
+2. Hands always occupied; never idle
+3. Meets a speaker's gaze fully and steadily
 
 **Behavioral Signature:** PROPOSED
-1. Answers questions with a pause, as if weighing what to say
-2. Moves quietly; seldom announces her presence
-3. Looks at Leon in a way that suggests she is watching him watch the town
+1. Answers after a small pause, weighing words
+2. Moves quietly; does not announce herself
+3. Looks at Leon as though she has been expecting him longer than he has known to come
+
+**IMAGE GENERATION READINESS:**
+- Core face identity: woman 45–55, composed, spare
+- Body/silhouette: upright, quiet, dark wool + white apron + cap
+- Hair: grey-streaked brown under cap
+- Eyes: dark, steady
+- Skin: pale
+- Primary clothing: dark high-collared wool dress, apron, cap
+- Distinctive cues: clean apron; still composure
+- Historical constraints: 1816 servant/housekeeper dress
+- MUST NOT: no "knowing mystic" gaze; no jewelry; no ornament; no modern styling; no exaggerated age
 
 ---
 
-### MARGARET (the baker)
+### MARGARET ELEANOR WHITMORE (baker)
 
-**Status:** CONFIRMED — recurring town character
+**Status:** CONFIRMED civilian — grounded; review kept as strongest profile
 
 **Core Visual Identity:**
 - **Age:** PROPOSED — early 50s
-- **Build:** PROPOSED — sturdy, broad-shouldered from years of kneading and lifting
+- **Build:** PROPOSED — sturdy, broad-shouldered from kneading and lifting
 - **Height:** PROPOSED — average
-- **Complexion:** PROPOSED — ruddy, warm from the oven
-- **Hair:** PROPOSED — grey, pinned up under a white cap, with strands escaping at the temples
-- **Eyes:** PROPOSED — blue or grey; direct, frank, with crow's-feet at the corners
-- **Face:** PROPOSED — round, with a strong jaw and a nose that has known the heat of a bakery
+- **Complexion:** PROPOSED — ruddy from the oven
+- **Hair:** PROPOSED — grey, pinned under a white cap, strands escaping at the temples
+- **Eyes:** PROPOSED — blue (single colour chosen per review)
+- **Face:** PROPOSED — round, strong jaw
+
+**Silhouette:** PROPOSED — a solid woman in a rolled-sleeve wool dress and flour-dusted linen apron.
 
 **Clothing (1816):** PROPOSED
 - Heavy linen apron over a plain wool dress, sleeves rolled to the elbow
-- A cap, white, dusted with flour
+- White cap, dusted with flour
 - Forearms bare and flushed
-- Wooden clogs or sturdy leather shoes
+- Sturdy leather shoes (review refinement — replaces earlier "wooden clogs" as less region-specific)
 
 **Distinctive Physical Details:** PROPOSED
-1. Flour-dusted forearms — a constant occupational detail
-2. Hands that are broad and strong, capable of shaping a loaf
-3. A voice that carries — she is used to speaking over the noise of the market
+1. Flour-dusted forearms — constant occupational detail
+2. Broad, strong hands
+3. Voice used to carrying over market noise
 
 **Behavioral Signature:** PROPOSED
 1. Wipes her hands on her apron before speaking
-2. Stands with arms folded when she is saying something she means
-3. Nods slowly when she is deciding whether to trust you
+2. Stands with arms folded when she means what she says
+3. Nods slowly when deciding whether to trust someone
+
+**IMAGE GENERATION READINESS:**
+- Core face: round, ruddy, 50s
+- Silhouette: sturdy, apron, rolled sleeves
+- Hair: grey under flour-dusted cap
+- Eyes: blue, frank
+- Primary clothing: wool dress, linen apron
+- Distinctive cues: flour-dusted forearms; strong hands
+- MUST NOT: no "mysterious old woman" styling; no Gothic shading; no occult hint; no modern bakery imagery
 
 ---
 
 ### JAMES CALLOWAY (constable)
 
-**Status:** CONFIRMED — recurring; constable of Ashford
+**Status:** CONFIRMED constable — visual refined per review
 
 **Core Visual Identity:**
 - **Age:** PROPOSED — early 50s
-- **Build:** PROPOSED — solid, not overweight; the build of a man who walks a beat
-- **Height:** PROPOSED — average to slightly tall
-- **Complexion:** PROPOSED — weathered; the face of a man who spends time outdoors
+- **Build:** PROPOSED — solid, not heavy; the build of a man who walks and works
+- **Height:** PROPOSED — average to slightly above
+- **Complexion:** PROPOSED — sun-beaten, weathered
 - **Hair:** PROPOSED — grey, thinning, cut short
-- **Eyes:** PROPOSED — pale, perhaps blue; careful, not quick
-- **Face:** PROPOSED — broad, with a heavy brow and a jaw that sets when he is unconvinced
+- **Eyes:** PROPOSED — pale, measuring; slow to judge
+- **Face:** PROPOSED — broad, heavy brow, strong jaw
 
-**Clothing (1816):** PROPOSED
-- Dark blue or brown coat, sturdy, with large pockets
-- A waistcoat, not always buttoned
-- Boots, practical, worn
-- A round hat, not a constable's formal hat — Ashford's constable is a parish officer, not a metropolitan one
-- A wooden truncheon carried in an inside pocket
+**Silhouette:** PROPOSED — a plainly dressed, solid man of local authority; reads as a man who farms or trades as well as keeping the peace.
+
+**Clothing (1816):** PROPOSED (review refinement — de-emphasized formal constable trappings)
+- Dark coat, sturdy, with useful pockets
+- Waistcoat, not always buttoned
+- Practical boots
+- Round hat
+- No uniform; a parish constable is a local man on duty, not a uniformed officer
 
 **Distinctive Physical Details:** PROPOSED
-1. A habit of rubbing his jaw when he is thinking
-2. Hands that are large and calloused
-3. Eyes that scan the street as he walks, even in conversation
+1. Rubs his jaw when thinking
+2. Broad, calloused hands
+3. Scans the street even in conversation
 
 **Behavioral Signature:** PROPOSED
-1. Speaks slowly, as if he has learned not to commit to a statement
-2. Stands with his feet apart, weight planted
-3. Nods at the end of a sentence, as if affirming his own conclusion
+1. Speaks slowly, as if reluctant to commit
+2. Stands with weight spread, feet planted
+3. Nods at the end of a sentence, affirming his own conclusion
+
+**IMAGE GENERATION READINESS:**
+- Core face: weathered, 50s, broad, heavy brow
+- Silhouette: solid, plainly dressed
+- Hair: short grey, thinning
+- Eyes: pale, measuring
+- Skin: sun-beaten
+- Primary clothing: dark sturdy coat, waistcoat, boots, round hat
+- Distinctive cues: rubs jaw; planted stance
+- MUST NOT: no police uniform (1816 parish constable); no Victorian constable styling; no intimidating villain framing; no occult elements
 
 ---
 
 ### SILAS CROWE
 
-**Status:** CONFIRMED — Order of Severence field contact; HIGH priority for visual development
+**Status:** CONFIRMED — Order of Severence field contact; visual de-genericized per review
 
 **Core Visual Identity:**
 - **Age:** PROPOSED — late 40s
-- **Build:** PROPOSED — lean, not tall; the build of a man who moves between rooms without announcing himself
+- **Build:** PROPOSED — thin, not tall; moves quietly
 - **Height:** PROPOSED — average to slightly below
-- **Complexion:** PROPOSED — sallow, indoor complexion
-- **Hair:** PROPOSED — dark, receding at the temples, oiled flat
-- **Eyes:** PROPOSED — dark, heavy-lidded; difficult to read
-- **Face:** PROPOSED — narrow, clean-shaven, with a mouth that is almost always neutral
+- **Complexion:** PROPOSED — ordinary; NOT sallow (review refinement — removed sinister coding)
+- **Hair:** PROPOSED — dark, receding, combed plainly without fuss
+- **Eyes:** PROPOSED — dark, still; watches the mouth of the speaker rather than the eyes
+- **Face:** PROPOSED — unremarkable; the kind of face that is passed over
 
-**Clothing (1816):** PROPOSED
-- Dark coat, well-kept but not fashionable — perhaps a coat that has been worn in the same way for years
-- A waistcoat that matches; a cravat that is always tied but not fastidiously
-- Boots that are clean but not polished
-- No hat in company; he removes it and holds it
+**Silhouette:** PROPOSED — a man dressed to be overlooked: drab, quiet, present without having been seen to enter.
+
+**Clothing (1816):** PROPOSED (review refinement — drab grey-brown, NOT black)
+- Drab grey-brown coat, ordinary, unremarkable
+- Plain neckcloth, not fastidious
+- Contrast waistcoat, unremarkable
+- Boots that make no sound
+- No hat in company
 
 **Distinctive Physical Details:** PROPOSED
-1. A stillness when he is not speaking — he does not shift his weight or move his hands
-2. Eyes that watch the speaker's mouth rather than their eyes
-3. A voice that is low and level, without emphasis
+1. A stillness when not speaking — does not shift or gesture
+2. Watches the speaker's mouth
+3. Low, level voice without emphasis
 
 **Behavioral Signature:** PROPOSED
 1. Lets himself into rooms without knocking
-2. Pauses before answering, as if selecting from a set of options
-3. Does not gesture when he speaks
+2. Pauses before answering, as if selecting among options
+3. Does not gesture while speaking
+
+**Review note:** His Order affiliation is NOT visually obvious from clothing. Nothing in his appearance signals the Order; his secrecy is behavioral, not costumed.
+
+**IMAGE GENERATION READINESS:**
+- Core face: unremarkable, 40s, thin, ordinary complexion
+- Silhouette: thin, drab, easily overlooked
+- Hair: dark, receding, plainly combed
+- Eyes: dark, still
+- Primary clothing: drab grey-brown coat, plain neckcloth
+- Distinctive cues: stillness; mouth-directed gaze
+- MUST NOT: no black-coat villain styling; no sallow sinister complexion; no occult symbols; no "mysterious hooded" framing; no fantasy elements
 
 ---
 
 ### NATHANIEL GRAVES
 
-**Status:** CONFIRMED — Order of Severence member; needs visual profile
+**Status:** CONFIRMED — Order of Severence member; visual refined per review
 
 **Core Visual Identity:**
 - **Age:** PROPOSED — early 60s
-- **Build:** PROPOSED — spare, slightly stooped; the build of a man who has spent his life at desks
+- **Build:** PROPOSED — spare, slightly stooped; a life spent at desks
 - **Height:** PROPOSED — average
-- **Complexion:** PROPOSED — pale, with prominent veins at the temples
-- **Hair:** PROPOSED — thin, white, combed across a balding crown
-- **Eyes:** PROPOSED — grey, with a fixed, examining quality
-- **Face:** PROPOSED — long, narrow, with a prominent nose and a mouth that purses before speaking
+- **Complexion:** PROPOSED — pale
+- **Hair:** PROPOSED — thin white, combed across a balding crown
+- **Eyes:** PROPOSED — plain; his attention shown through the habit of removing his spectacles
+- **Face:** PROPOSED — long, lined; prominent nose
+
+**Silhouette:** PROPOSED — an elderly man in a dated dark coat, wire spectacles, a watch chain; a man who values the old order even in dress.
 
 **Clothing (1816):** PROPOSED
-- Dark coat, well-made but dated — perhaps a decade out of fashion
-- A high collar; a carefully tied cravat
-- A watch chain visible across the waistcoat
-- Spectacles, wire-rimmed, that he removes when he wants to make a point
+- Dark coat cut in a fashion ten years out of date — he wears the old order
+- High collar, carefully tied cravat
+- Watch chain across the waistcoat
+- Wire spectacles
 
-**Distinctive Physical Details:** PROPOSED
-1. Hands that are thin and freckled with age
-2. A habit of removing and polishing his spectacles before speaking
-3. A slight tremor in his left hand when he is tired
+**Distinctive Physical Details:** PROPOSED (review refinement — replaced "fixed grey eyes" with concrete habits)
+1. Takes off and polishes his spectacles when he wants his words to land
+2. Thin, age-freckled hands; a slight left-hand tremor when tired
+3. Holds his hands clasped behind his back when standing
 
 **Behavioral Signature:** PROPOSED
-1. Speaks as if he is reading from a prepared document
-2. Does not interrupt — waits for the speaker to finish, then responds
-3. Holds his hands clasped behind his back when standing
+1. Speaks as if reading from a prepared document
+2. Does not interrupt; waits, then answers
+3. Polishes spectacles before a significant statement
+
+**IMAGE GENERATION READINESS:**
+- Core face: 60s, long, lined, prominent nose
+- Silhouette: spare, stooped, dated dark coat
+- Hair: thin white
+- Skin: pale
+- Primary clothing: dated dark coat, cravat, watch chain, wire spectacles
+- Distinctive cues: spectacles-polishing habit; tremor; clasped hands
+- MUST NOT: no occult patriarch styling; no fantasy elder robes; no glowing/ominous eyes; no power-user framing
 
 ---
 
 ### THOMAS VALE
 
-**Status:** CONFIRMED — former constable, keeper of the Agreement; dies Ch 47
+**Status:** CONFIRMED — former constable, keeper of the Agreement; dies Ch 47. Ambiguity preserved.
 
 **Core Visual Identity:**
-- **Age:** PROPOSED — very old; 80s, perhaps older
-- **Build:** PROPOSED — thin, bent, the frailty of great age
-- **Height:** PROPOSED — would have been tall; now shrunken
-- **Complexion:** PROPOSED — papery, pale, with deep lines
-- **Hair:** PROPOSED — white, wispy, uncovered
-- **Eyes:** PROPOSED — pale, milky, but still sharp when they focus
-- **Face:** PROPOSED — gaunt, with a prominent jaw and cheekbones that show through the skin
+- **Age:** PROPOSED — very old (80s+)
+- **Build:** PROPOSED — thin, shrunken
+- **Height:** PROPOSED — would have been taller; now bent
+- **Complexion:** PROPOSED — pale, deeply lined
+- **Hair:** PROPOSED — white, scant
+- **Eyes:** PROPOSED — the only vigorous thing about him; unexpectedly clear and steady when he focuses
+- **Face:** PROPOSED — gaunt, weathered by age rather than by mystery
+
+**Silhouette:** PROPOSED — a very old, mended figure in an old brown coat; a folded packet of papers always within reach.
 
 **Clothing (1816):** PROPOSED
-- An old coat, probably brown, much-mended at the elbows
-- A shirt with a collar too large for his neck
-- A blanket around his shoulders when he is sitting
-- A walking stick that he does not need for walking — he carries it because he always has
+- Old, much-mended brown coat
+- Shirt with a collar too large for his neck
+- A shawl or blanket about the shoulders when seated
+- A walking stick he carries from habit
 
 **Distinctive Physical Details:** PROPOSED
-1. Hands that are thin and knotted with age, fingers that curl slightly
-2. A voice that is a dry whisper, but the words are chosen with precision
-3. Eyes that are the only vigorous thing about him
+1. Knotted, curling fingers
+2. A dry, careful voice; precise words
+3. Holds the folded packet (the Agreement) as if it is the only warm thing in the room
 
 **Behavioral Signature:** PROPOSED
-1. He does not move unnecessarily — every motion is deliberate
-2. He looks at a person for a long time before speaking
-3. He holds the Agreement as if it is the only warm thing in the room
+1. Does not move unnecessarily; every motion deliberate
+2. Looks at a person a long time before speaking
+3. Withholding rather than venerable — he is a dying man who keeps a secret, not a "wise ancient"
+
+**IMAGE GENERATION READINESS:**
+- Core face: very old, gaunt, deeply lined
+- Silhouette: thin, bent, mended brown coat
+- Hair: white, scant
+- Skin: pale
+- Primary clothing: old mended brown coat, blanket/shawl when seated
+- Distinctive cues: clear steady eyes; folded papers within reach
+- MUST NOT: no stereotypical "ancient wizard" robes; no occult sigils; no glowing eyes; no revelation of unresolved Order affiliation through costume; no fantasy staff
 
 ---
 
-### ARTHUR EDMUND BELL (the verger / bookseller)
+### ARTHUR EDMUND BELL (bookseller / antiquarian)
 
-**Status:** CONFIRMED — bookshop owner, verger. Moderate existing visual data.
+**Status:** CONFIRMED — established physical details preserved
 
 **Core Visual Identity:**
-- **Age:** CONFIRMED — 50s–60s
-- **Build:** CONFIRMED — stooped from handling books
+- **Age:** PROPOSED — 50s–60s
+- **Build:** CONFIRMED — stooped (from books)
 - **Height:** PROPOSED — average
-- **Complexion:** PROPOSED — pale, indoor complexion
-- **Hair:** PROPOSED — grey, thin, disarranged
+- **Complexion:** PROPOSED — indoor, pale but not infirm
+- **Hair:** PROPOSED — grey, thin, untidy
 - **Eyes:** CONFIRMED — sharp, observant
-- **Face:** PROPOSED — narrow, with a nose that has held glasses for many years (visible indentations)
+- **Face:** PROPOSED — narrow; spectacles sit on a narrow nose
+
+**Silhouette:** PROPOSED — a stooped man whose coat carries dust and old paper; a leather apron when working.
 
 **Clothing (1816):** PROPOSED
-- A worn coat, probably brown or grey, with dust on the sleeves
-- An apron, leather, stained with ink and old paper
-- Wire-rimmed spectacles
-- A waistcoat that is usually unbuttoned at the top
+- Worn coat with dust on the sleeves
+- Leather apron over waistcoat when working
+- Wire spectacles
+- Waistcoat usually unbuttoned at the top
 
-**Distinctive Physical Details:** PROPOSED
-1. Hands that are ink-stained at the fingertips
-2. A habit of adjusting his spectacles before answering
-3. A stoop that makes him look as if he is perpetually examining something on a low shelf
+**Distinctive Physical Details:** CONFIRMED/PROPOSED
+1. Ink-stained fingertips (CONFIRMED by trade)
+2. Habit of adjusting spectacles before answering
+3. Tilts his head when listening, as if reading a difficult passage (PROPOSED)
 
 **Behavioral Signature:** PROPOSED
-1. Tilts his head when listening, as if he is reading a difficult passage
-2. Speaks in a measured, almost scholarly tone
-3. Touches the spine of a book when he mentions it
+1. Touches the spine of a book when he mentions it
+2. Speaks in a measured, scholarly tone
+3. Head-tilt when weighing a question
+
+**IMAGE GENERATION READINESS:**
+- Core face: 50s–60s, narrow, sharp observant eyes, spectacles
+- Silhouette: stooped, coat dusted with paper dust
+- Hair: grey, thin
+- Primary clothing: worn coat, leather apron, wire spectacles
+- Distinctive cues: ink-stained fingertips; head-tilt
+- MUST NOT: no wizard/occult bookseller styling; no dramatic candle-lit villain framing; no fantasy robes
+
+---
+
+### DANIEL CARTER / WREN
+
+**Status:** CONFIRMED — young man, later keeper (Ch 125); visual distinct from Leon
+
+**Core Visual Identity:**
+- **Age:** PROPOSED — late teens to early twenties
+- **Build:** PROPOSED — long-limbed, still growing into his height; a little awkward
+- **Height:** PROPOSED — tall and still lengthening
+- **Complexion:** PROPOSED — fresh, youthful
+- **Hair:** PROPOSED — light brown, falls forward when he leans over a book
+- **Eyes:** PROPOSED — open, expressive; his face gives away his thoughts
+- **Face:** PROPOSED — boyish, unlined
+
+**Silhouette:** PROPOSED — a young man in neat-but-inexpensive clothes carrying books in a strap; eager posture.
+
+**Clothing (1816):** PROPOSED
+- Neat, inexpensive coat
+- Scuffed boots from walking between Academy and town
+- Carries books in a strap
+
+**Distinctive Physical Details:** PROPOSED
+1. Hair that falls forward when he reads
+2. Talks with his hands
+3. Has not yet learned to hide eagerness
+
+**Behavioral Signature:** PROPOSED
+1. Leans forward when interested
+2. Answers quickly, then second-guesses
+3. Open, unguarded posture — the opposite of Leon's composure
+
+**IMAGE GENERATION READINESS:**
+- Core face: young, open, boyish, 18–22
+- Silhouette: long-limbed, eager, book strap
+- Hair: light brown, forward-falling
+- Eyes: open, expressive
+- Primary clothing: neat inexpensive coat, scuffed boots
+- Distinctive cues: talks with hands; eager
+- MUST NOT: no brooding protagonist styling; no dark mysterious framing; must read as distinctly younger and more open than Leon
 
 ---
 
@@ -315,30 +451,42 @@
 **Status:** CONFIRMED — longtime hunter of the clocks; ally
 
 **Core Visual Identity:**
-- **Age:** PROPOSED — late 40s
-- **Build:** PROPOSED — lean, durable; the build of a woman who has walked a great many roads
+- **Age:** PROPOSED — late 40s (age hard to read)
+- **Build:** PROPOSED — lean, durable; walked many roads
 - **Height:** PROPOSED — average
-- **Complexion:** PROPOSED — weathered, with lines at the eyes from years of looking into distances
-- **Hair:** PROPOSED — dark, streaked with grey, pulled back and pinned
-- **Eyes:** PROPOSED — dark; searching, with a quality of having learned to wait
-- **Face:** PROPOSED — a face that could be any age; not beautiful, but held with authority
+- **Complexion:** PROPOSED — weathered
+- **Hair:** PROPOSED — dark, streaked with grey, pulled back
+- **Eyes:** PROPOSED — dark, direct, unhurried
+- **Face:** PROPOSED — weathered, held with authority; not conventionally beautiful
+
+**Silhouette:** PROPOSED — a woman in a long, mended dark coat fitted with many pockets; ready to leave at any moment.
 
 **Clothing (1816):** PROPOSED
-- A dark coat, long and practical, with many pockets — a coat that has been repaired
-- A dark dress underneath, practical
-- Boots, sturdy, worn
-- A hat, soft-brimmed, that she can pull down against rain
+- Long, serviceable dark coat, mended at the cuffs (the dark coat is her canonical identifier)
+- Practical dress beneath
+- Sturdy worn boots
+- Soft-brimmed hat for outdoors
 - No jewelry
 
 **Distinctive Physical Details:** PROPOSED
-1. A habit of touching the pocket where she carries the second clock
-2. Hands that are strong and capable, with short nails
-3. A direct gaze — she does not look away first
+1. Touches the pocket where she carries the second clock
+2. Strong hands, short nails
+3. Direct gaze — does not look away first
 
 **Behavioral Signature:** PROPOSED
-1. Lists facts without preamble
-2. Stands with her weight on one foot, as if ready to leave
+1. States facts without preamble
+2. Stands with weight on one foot, ready to leave
 3. Laughs rarely, and it sounds like a surprise
+
+**IMAGE GENERATION READINESS:**
+- Core face: weathered, late 40s, held with authority
+- Silhouette: lean, long dark mended coat
+- Hair: dark, grey-streaked, pulled back
+- Eyes: dark, direct
+- Skin: weathered
+- Primary clothing: long practical dark coat, boots, soft hat
+- Distinctive cues: many-pocketed coat; clock in pocket
+- MUST NOT: no fantasy adventurer styling; no leather-armor framing; no exaggerated mystery (the dark coat is practical, not theatrical)
 
 ---
 
@@ -348,49 +496,81 @@
 
 **Core Visual Identity:**
 - **Age:** PROPOSED — 60s
-- **Build:** PROPOSED — slight, almost frail
+- **Build:** PROPOSED — slight, frail but capable
 - **Height:** PROPOSED — below average
-- **Complexion:** PROPOSED — pale, the colour of someone who lives among old things
+- **Complexion:** PROPOSED — pale (indoor)
 - **Hair:** PROPOSED — white, thin, uncut
-- **Eyes:** PROPOSED — pale grey, with a faraway quality
-- **Face:** PROPOSED — narrow, with a nose and mouth that seem designed for stillness
+- **Eyes:** PROPOSED — averted; does not look at the speaker
+- **Face:** PROPOSED — thin, still
+
+**Silhouette:** PROPOSED — an elderly man in a coat too large for him, waistcoat misbuttoned, looking at an object rather than at the visitor.
 
 **Clothing (1816):** PROPOSED
-- A coat that is too large for him, perhaps inherited
-- A waistcoat that is buttoned wrong
-- Slippers, not shoes
+- Coat that was never his size
+- Waistcoat he buttons wrong more often than not
+- Slippers
 - No hat
 
-**Distinctive Physical Details:** PROPOSED
-1. A habit of not looking at the person he is speaking to — he looks at the object
-2. Hands that are pale and clean, with very long fingers
-3. A voice that is barely above a whisper
+**Distinctive Physical Details:** PROPOSED (review refinement — replaced "faraway eyes" with concrete behavior)
+1. Looks at the object in his hand, not at the person speaking
+2. Long, very clean fingers
+3. Soft voice, almost a whisper
+
+**Behavioral Signature:** PROPOSED
+1. Conversation must compete with objects for his attention
+2. Gentle, deliberate handling of things
+3. Rarely raises his voice
+
+**IMAGE GENERATION READINESS:**
+- Core face: elderly, thin, still, pale
+- Silhouette: slight, oversized coat
+- Hair: white, thin, uncut
+- Skin: pale
+- Primary clothing: oversized coat, misbuttoned waistcoat
+- Distinctive cues: averted gaze toward objects; long clean fingers
+- MUST NOT: no ghostly/haunted styling; no spectral pallor effects; no occult collector costuming; must read as a living, capable man
 
 ---
 
 ### ADELINE BRUME (auctioneer, society agent)
 
-**Status:** CONFIRMED — society agent; tests Leon
+**Status:** CONFIRMED — society agent
 
 **Core Visual Identity:**
 - **Age:** PROPOSED — 40s
 - **Build:** PROPOSED — solid, capable
 - **Height:** PROPOSED — slightly above average
-- **Complexion:** PROPOSED — clear, with a natural colour
-- **Hair:** PROPOSED — brown, shot with grey, pinned up efficiently
-- **Eyes:** PROPOSED — grey or brown; assessing, with a hint of amusement
-- **Face:** PROPOSED — broad, open, with a mouth that is quick to smile but slow to trust
+- **Complexion:** PROPOSED — clear
+- **Hair:** PROPOSED — brown, shot with grey, pinned efficiently
+- **Eyes:** PROPOSED — assessing, with a hint of private amusement
+- **Face:** PROPOSED — broad, open
+
+**Silhouette:** PROPOSED — a capable woman in well-cut but not costly clothes; the practical smartness of one who works in public rooms.
 
 **Clothing (1816):** PROPOSED
-- A dark coat, well-cut but not expensive
-- A dress of practical quality, suited to the auction room
-- A hat for outdoors, but not indoors
-- Gloves that she removes when she is working
+- Well-cut dark coat, not expensive
+- Practical dress
+- Hat outdoors only
+- Gloves removed when working
 
 **Distinctive Physical Details:** PROPOSED
-1. A habit of looking at the bidder, not the item
-2. Hands that are steady and ringless
-3. A voice that carries without effort
+1. Watches the bidders, not the lots
+2. Steady, ringless hands
+3. Voice that carries without effort
+
+**Behavioral Signature:** PROPOSED
+1. Assesses people with a glance
+2. Smiles readily but withholds trust
+3. Speaks in an auctioneer's clear, carrying tone
+
+**IMAGE GENERATION READINESS:**
+- Core face: 40s, clear, broad
+- Silhouette: solid, well-cut practical clothing
+- Hair: brown, greying, pinned up
+- Eyes: assessing
+- Primary clothing: well-cut coat, practical dress
+- Distinctive cues: watches people; ringless steady hands
+- MUST NOT: no secret-society costuming; no dramatic reveal styling; must read as an ordinary professional woman
 
 ---
 
@@ -400,102 +580,140 @@
 
 **Core Visual Identity:**
 - **Age:** PROPOSED — very old (older than Vale)
-- **Build:** PROPOSED — thin, seated; dressed in a way that hides his build
-- **Height:** PROPOSED — indeterminate (always seated)
-- **Complexion:** PROPOSED — very pale, with deep lines
-- **Hair:** PROPOSED — white, thin, uncovered
-- **Eyes:** PROPOSED — pale, with a quality of having seen a great deal
-- **Face:** PROPOSED — gaunt, with a nose that is prominent and a mouth that is sunken
+- **Build:** PROPOSED — thin; always seated
+- **Complexion:** PROPOSED — pale, deeply lined
+- **Hair:** PROPOSED — white
+- **Eyes:** PROPOSED — pale; the only part of him that moves
+- **Face:** PROPOSED — gaunt, exact
 
-**Clothing (1816):** PROPOSED
-- A dark coat, perhaps black, well-kept
-- A cravat, white, precisely tied
-- A blanket across his knees
-- His hands rest on the arms of his chair
+**Silhouette:** PROPOSED — a very old man seated with a shawl across his knees, in a well-kept dark coat and plain white cravat.
+
+**Clothing (1816):** PROPOSED (review refinement — black coat read as formal/mourning, not sinister)
+- Dark blue or green coat (review refinement — or black only as formal)
+- Plain white cravat, precisely tied
+- Shawl or blanket across the knees
 
 **Distinctive Physical Details:** PROPOSED
-1. A stillness that is not the stillness of age but of discipline
-2. Eyes that are the only part of him that moves
-3. Hands that are thin and white, with prominent veins
+1. Stillness of discipline, not frailty
+2. Thin, white hands with prominent veins
+3. Lets visitors speak to the end before answering
+
+**Behavioral Signature:** PROPOSED
+1. Wastes nothing, not even motion
+2. Answers in a thin but exact voice
+3. Watches without appearing to watch
+
+**IMAGE GENERATION READINESS:**
+- Core face: very old, gaunt, exact
+- Silhouette: seated, shawl over knees
+- Hair: white
+- Skin: pale
+- Primary clothing: well-kept dark coat (blue/green or formal black), white cravat
+- Distinctive cues: disciplined stillness
+- MUST NOT: no occult-patriarch costuming; no hooded robes; no sinister lighting; no fantasy elder framing; treat formal dark clothing as formality, not evil
+
+---
+
+### THE STRANGER (Ch 54 / 84)
+
+**Status:** CONFIRMED — figure who warns the count is running out
+
+**Core Visual Identity:** PROPOSED — deliberately indistinct; hard to place
+- Middle-aged; nondescript; ordinary coat; a bag; the mark on his coat turned toward the viewer
+- Unremarkable features; nothing memorable
+
+**IMAGE GENERATION READINESS:**
+- Core face: unremarkable, middle-aged
+- Silhouette: ordinary traveller
+- MUST NOT: no ominous hooded framing; no villain styling; his unsettling quality must come from what he says, not how he looks
+
+---
+
+### THE KEEPER OF THE TALLY (Ch 121)
+
+**Status:** CONFIRMED — impersonal watcher
+
+**Core Visual Identity:** PROPOSED — a man in a dark coat whose face is never fully seen or remembered; described by silhouette and motion, not features.
+
+**IMAGE GENERATION READINESS:**
+- Silhouette only; face deliberately unreadable
+- MUST NOT: no detailed face; no menacing-villain styling; should read as impersonal record, not enemy
+
+---
+
+### MIRIAM (Ch 134–135)
+
+**Status:** CONFIRMED — keeper of the third Token line
+
+**Core Visual Identity:** PROPOSED — an elderly woman, grey-haired, plainly dressed; age difficult to fix; watchful but not ominous; grounded and hospitable.
+
+**IMAGE GENERATION READINESS:**
+- Elderly, grey-haired, plain dress; warm but watchful
+- MUST NOT: no witch/mystic styling; no occult costuming; ordinary elderly woman of 1816
+
+---
+
+### THOMAS WREN
+
+**Status:** CONFIRMED — dies Ch 11; LOW priority
+
+**Core Visual Identity:** PROPOSED — old, frail, slow-moving; plain clothing; minimal detail needed (brief appearance).
 
 ---
 
 ### THE VESTRY CLERK
 
-**Status:** UNRESOLVED — minor recurring character. PROPOSED — nondescript, middle-aged, bespectacled, practical.
+**Status:** UNRESOLVED — minor recurring
+
+**Core Visual Identity:** PROPOSED — deliberately nondescript: spectacles, dark coat, ink-stained cuffs; an institutional functionary.
 
 ---
 
-## CONTRADICTION AUDIT
+## VISUAL DIFFERENTIATION TABLE (post-refinement)
 
-**No P0 or P1 contradictions found** between the existing character files and the manuscript. The character files are largely UNRESOLVED, so there is nothing to contradict.
+| Character | Age | Build | Hair | Eyes | Clothing silhouette | Distinctive feature | Mannerism |
+|-----------|-----|-------|------|------|--------------------|--------------------|-----------|
+| Leon | Mid-20s | Middling | Brown, tidy | Hazel, restless | Dark frock coat | Ink-marked fingertips | Note-taking |
+| Calloway | 50s | Solid | Grey, thinning | Pale, measuring | Plain dark coat | Sun-beaten face | Rubs jaw |
+| Crowe | Late 40s | Thin | Dark, receding | Dark, still | Drab grey-brown | Watches mouths | Silent entry |
+| Graves | 60s | Spare, stooped | Thin white | Plain | Dated dark coat | Spectacle-polishing, tremor | Clasped hands |
+| Vale | 80s+ | Shrunken | White, scant | Clear, steady | Mended brown coat | Vigorous eyes | Deliberate motion |
+| Helen | 45–55 | Spare | Grey-streaked bun | Dark, steady | Dark wool + apron | Has things ready | Quiet readiness |
+| Margaret | 50s | Sturdy | Grey under cap | Blue, frank | Linen apron | Flour-dusted arms | Wipes hands |
+| Arthur Bell | 50s–60s | Stooped | Grey, thin | Sharp | Leather apron | Ink-stained hands | Tilts head |
+| Daniel | Late teens | Long-limbed | Light brown | Open | Neat, scuffed | Book strap | Talks with hands |
+| Ysabel | 40s+ | Lean | Dark, grey-streaked | Dark, direct | Long mended coat | Many-pocketed coat | Touches clock pocket |
+| Elias Marr | 60s | Slight | White, uncut | Averted | Oversized coat | Misbuttoned waistcoat | Looks at objects |
+| Adeline | 40s | Solid | Brown, greying | Assessing | Well-cut coat | Watches bidders | Auctioneer's voice |
+| Old man | 80s+ | Thin, seated | White | Pale | Dark coat + cravat | Disciplined stillness | Lets visitors finish |
+| Eleanor Shaw | 40s–50s | Plain | Grey-streaked | — | Dark plain | Spectacles on cord | Precise speech |
+| Stranger | Middle-aged | Nondescript | Unremarkable | Unremarkable | Ordinary coat + bag | Hard to place | — |
+| Tally-keeper | — | — | Never seen | Never seen | Dark coat | Silhouette only | Impersonal |
+| Miriam | Elderly | — | Grey | Watchful | Plain dress | Age hard to fix | Watchful calm |
 
-**P2 — Minor inconsistencies:**
-- Arthur Bell's age: file says 50–60, but the manuscript does not confirm this. Acceptable.
-- Thomas Wren's age: file says "old" (dies Ch 11). Acceptable.
-
-**P3 — Acceptable variation:**
-- None found.
-
----
-
-## VISUAL DIFFERENTIATION CHECK
-
-The major characters are visually distinct from each other:
-
-| Character | Distinguishing Feature | Unique Trait |
-|-----------|----------------------|--------------|
-| Leon Ashcroft | Notebook, observant eyes, ordinary face | Dark hair, grey/hazel eyes, average build |
-| Calloway | Weather-beaten, broad, cautious | Grey hair, pale eyes, planted stance |
-| Crowe | Still, dark, heavy-lidded | Sallow, lean, watches mouths |
-| Graves | Old, spectacles, deliberate | White hair, tremor, clasped hands |
-| Vale | Very old, gaunt, whisper | Frail, precise, holds the Agreement |
-| Arthur Bell | Stooped, ink-stained, spectacles | Dusty coat, touches books |
-| Ysabel Nott | Practical coat, weathered, direct | Many pockets, watches distances |
-| Elias Marr | Too-large coat, faraway eyes, whisper | Pale, long fingers, looks at objects |
-| Margaret | Flour-dusted, ruddy, sturdy | Broad, warm from the oven |
-| Helen | Still, plain, composed | Grey-streaked, speaks economically |
-| Adeline Brume | Solid, assessing, voice carries | Broad face, looks at the bidder |
-
-No two characters share the same dominant visual or behavioral signature.
+**Repetition check after refinement:** dark hair now only Crowe + Ysabel (both justified); no sallow skin; no "fixed grey eyes"; no black-coat default except where canon requires (Ysabel) or where formal (old man); gloves avoided; only the tally-keeper is visually unreadable. Balanced.
 
 ---
 
-## CHARACTER VISUAL EVOLUTION
+## HISTORICAL CLOTHING NOTES (1816)
 
-| Character | Potential Change | When | Notes |
-|-----------|-----------------|------|-------|
-| Leon Ashcroft | Clothing becomes more practical, worn | Over the course of the keeping | Optional — his coat wears, his boots are replaced |
-| Thomas Vale | Dies Ch 47 | N/A | Final appearance is before death |
-| Thomas Wren | Dies Ch 11 | N/A | Final appearance is before death |
-| The stranger (Ch 54) | Returns older (Ch 84) | 2+ years later | He has aged visibly |
-| The keeper of the tally | No change | N/A | Impersonal, same coat each appearance |
-| Daniel Carter → Daniel Wren | Ages from student to Academy keeper | Ch 2–110 (years) | Needs transition from youth to responsibility |
-
----
-
-## URGENCY RANKING
-
-| Priority | Characters | Reason |
-|----------|-----------|--------|
-| **HIGHEST** | Leon Ashcroft, Silas Crowe, Nathaniel Graves, James Calloway | These characters interact most with the supernatural system and need visual identity for Arc 2 |
-| **HIGH** | Thomas Vale, Ysabel Nott, Margaret, Helen | Recurring; their first introductions are weak |
-| **MEDIUM** | Arthur Bell, Elias Marr, Adeline Brume, Eleanor Shaw, the stranger | Moderate impact; can be developed later |
-| **LOW** | The vestry clerk, Daniel Wren, Miriam, Aurelius | Minor or historical; can be developed as needed |
+- Leon: frock/travelling coat (not tailcoat — too formal for his station)
+- Crowe: uncoordinated drab garments; matching sets were later-period fashion
+- Calloway: parish constable is a local man, not a uniformed officer
+- Margaret: leather shoes (clogs are regional)
+- Old man: dark blue/green preferred; black read as formal/mourning in 1816
+- All other garments verified against 1816 British dress.
 
 ---
 
 ## CANON STATUS
 
-- **CONFIRMED:** Only what the manuscript explicitly states (Leon's build, Arthur Bell's spectacles, etc.)
-- **PROPOSED:** All visual details in this document marked PROPOSED.
-- **UNRESOLVED:** Characters not yet given visual profiles.
-
-**Proposed visual designs require author approval before becoming canon.**
-**Do not insert descriptions into the manuscript until approved.**
+- **CONFIRMED:** only what the manuscript explicitly states (Leon's mid-20s age/average build; Arthur Bell's spectacles/stooped/sharp eyes; the dark coat as Ysabel's identifier; Vale as a very old man; Daniel as a young man; Calloway as constable).
+- **PROPOSED:** all refined visual details above — awaiting author approval.
+- **UNRESOLVED:** Eleanor Shaw, vestry clerk, Aurelius, remaining minors.
 
 ---
 
-**Status:** PROPOSED — awaiting author approval
+**Status:** PROPOSED — refined per author review; awaiting final approval before image generation
 **Last Updated:** 2026-09-02
-**Audit finding:** 342 possible visual fields across 19 characters; only ~18 (~5%) filled.
+**Revision note:** Author-review recommendations applied. Existing confirmed canon preserved. Unresolved details remain unresolved.
