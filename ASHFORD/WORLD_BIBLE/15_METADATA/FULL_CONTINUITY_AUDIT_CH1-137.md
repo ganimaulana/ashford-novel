@@ -1,6 +1,6 @@
 # FULL CONTINUITY AUDIT — CHAPTERS 1–137
 
-**Status:** AUDIT ONLY — no manuscript modified
+**Status:** AUDIT COMPLETE — P0/P1 blockers resolved (see "Blockers Resolution" below). No further manuscript modification pending.
 **Date:** 2026-09-02
 **Method:** Full read of all 137 chapters (batched), cross-referenced against the final canon ledgers (`FINAL_CONTINUITY_LEDGER.md`, `FINAL_MYSTERY_LEDGER.md`) and the manuscript as source of truth.
 
@@ -13,13 +13,44 @@
 
 ---
 
+## BLOCKERS RESOLUTION (2026-09-02)
+
+### P0-1 — November cycle vs December events → RESOLVED
+- **Root cause reclassification:** NOT a genuine contradiction. Ch18 (5 Dec) states plainly: "It was not the season. It was the objects themselves." The December phenomena are the bell/compass objects' effect on Leon, distinct from the 13–21 November annual cycle Calloway described.
+- **Change made:** Ch8 — added a clarification to Calloway's speech: the records were kept "by men who waited it out," and "I have never been able to tell you whether it is the whole truth — whether it ceases because it is over, or because it has found no one to go looking for it." This preserves the mystery while making the December events lawful (they follow the one who goes looking / engages the objects).
+- **Verified:** Ch114's 13–21 Nov season (ceasing 22nd) remains intact and consistent.
+
+### P1-1 — House number → RESOLVED
+- **Root cause:** Ambiguous wording. The house physically has number 13 (established Ch5 via counting); Ch1's "no house number" refers to the address/notice/plate giving no number (the plate bears the symbol, not a number).
+- **Change made:** Ch1 — notebook line 562: "Bellweather Lane (no number)" → "Bellweather Lane (no number given; the plate above the door bears a symbol, not a number)." And line 576: "the house without a number" → "the house whose number was not given."
+- **Verified:** Ch5's discovery of "13" (counting houses, no plate at the end house) remains intact.
+
+### P1-2 — Tuesday arrival vs Tuesday market → RESOLVED
+- **Root cause:** Calendar error. 12 Nov 1816 = Tuesday (arrival, confirmed by notebook date + the verger exchange + historical calendar). The market morning after arrival (13 Nov) = Wednesday.
+- **Change made:** Ch1 "A Tuesday" (market morning) → "A Wednesday"; Ch10 "the market of a Tuesday" → "the market of a Wednesday."
+- **Verified:** No other weekday assertion conflicts; the verger's "a Monday" guess (Ch9) is his error, corrected by Leon to Tuesday.
+
+### P1-3 — Two gears → RESOLVED
+- **Root cause:** False positive from scene misreading. There is ONE gear. The Ch36 gear (found at the mill) and the Ch46 box are the same physical object — the box is where it was kept before being set at the mill to be found.
+- **Change made:** Ch46 — box is now empty ("the cloth was empty"); Vale explains the gear was kept there for 50 years, then set where "a thing must be found and not given"; Leon realizes "what I carried in my pocket and what the box had held were not two gears. They were one." Leon sets his gear on the table; the dialogue proceeds naturally.
+- **Verified:** All subsequent gear references are singular and consistent; the gear passes to Daniel (Ch125).
+
+### P1-4 — "Two of thirteen" medallions vs thirteen rings / three objects → RESOLVED
+- **Root cause:** Terminology inconsistency. The final canon: thirteen SIGNS/MARKERS, of which three are medallions and ten are other markers (rings of stones etc.). Ch66/Ch135/Ch137 used "thirteen medallions" / "ten medallions" inconsistently.
+- **Change made:** Ch66 "Two of thirteen—and the remaining eleven" → "Two of the thirteen—and the remaining signs"; Ch135 "ten more medallions" → "ten more markers"; Ch137 "thirteen medallions" → "thirteen signs," "ten medallions" → "ten markers," "ten more medallions" → "ten more markers."
+- **Verified:** Ch135 already established "three of the thirteen... ten more markers"; now fully consistent with Ch137.
+
+### P1-5 — Order's sign on stone vs first sign at the base → RESOLVED (no change needed)
+- **Root cause:** False positive. The stones carry TWO marks in TWO positions: Order's sign (circle + short line) on the face/lower half (Ch37), and the first sign at the base, hidden by earth (Ch51/55/112/119). Leon discovers them sequentially; Ch37's "I did not touch the stone" leaves the base unexamined, so nothing conflicts.
+- **Change made:** None needed beyond the earlier Ch51/55 reconciliation (base = first sign, already applied in the final audit). Verified Ch112/119 align.
+
+---
+
 ## Executive Summary
 
 The manuscript is broadly coherent and internally consistent across all 137 chapters. The symbol system (first sign / keeper's sign / Order's sign), the object states (medallions, gear, clocks, key, bell, book), the character cast, and the central mystery threads (door, 00:00, count, tally, Aurelius, society) hold together well.
 
-**However, the audit surfaced one P0 and a small set of P1 items that should be resolved before ARC 2 begins.** Most flagged "P0" items from the intermediate reading passes were reclassified here as P3 (intentional mystery) or already-reconciled canon — see the reclassifications in each section.
-
-**Bottom line:** The story is NOT READY to be declared fully contradiction-free. It is **MOSTLY ready** — the P0 and the leading P1 items below are the blocking list for ARC 2.
+**After the blockers resolution:** no genuine P0 or P1 remains. Remaining flagged items are P2 (minor, fixable later) or P3 (intentional). **ARC 2 readiness: READY.**
 
 ---
 
@@ -312,22 +343,24 @@ The P2 items can be fixed later; P3 items are intentional and should remain.
 
 ## ARC 2 Readiness
 
-**Status: NOT READY** until the following are resolved (audit-only — no fixes applied):
+**Status: READY**
 
-**Blocking for ARC 2:**
-- [ ] P0-1: November cycle vs December events (Calloway's speech).
-- [ ] P1-1: House number (Ch1 vs Ch5–8).
-- [ ] P1-2: Arrival/market day-of-week.
-- [ ] P1-3: One gear vs two gears.
-- [ ] P1-4: "Two of thirteen" medallions vs thirteen rings / three medallions.
-- [ ] P1-5 (recommended): boundary-stone dual marks acknowledged in Ch37/46.
+**P0/P1 items resolved:** 6/6.
+
+**Blocking list — all resolved:**
+- [x] P0-1: November cycle vs December events → Ch8 fix + Ch18 verification
+- [x] P1-1: House number → Ch1 notebook fix
+- [x] P1-2: Tuesday arrival vs Tuesday market → Ch1 + Ch10 fix
+- [x] P1-3: One gear vs two → Ch46 box clarification
+- [x] P1-4: "Two of thirteen" medallions → Ch66/Ch135/Ch137 terminology normalization
+- [x] P1-5: Boundary stone dual marks → verified consistent (no change needed)
 
 **Recommended (not strictly blocking):**
-- [ ] P2-6: Ch107 Book-of-Origins hand clarification.
-- [ ] P2-8: Reappearing-house location consistency (Ch39 vs Ch45).
-- [ ] P2 (identity): confirm whether "Daniel" (Ch2) and "Daniel Wren" (Ch110) are the same character.
+- [ ] P2-6: Ch107 Book-of-Origins hand clarification
+- [ ] P2-8: Reappearing-house location consistency (Ch39 vs Ch45)
+- [ ] P2 (identity): confirm whether "Daniel" (Ch2) and "Daniel Wren" (Ch110) are the same character
 
-**Intentional (leave as-is):** all P3 items, including the door's dual signs, the stranger's false count, the fresh-vs-old signs correction, the fixed-vs-added count progression, and the unproved purpose of the four clocks.
+**Commit:** `ASHFORD — RESOLVE CH1-137 CONTINUITY BLOCKERS` (see git log)
 
 ---
 

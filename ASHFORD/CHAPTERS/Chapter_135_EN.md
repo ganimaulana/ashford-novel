@@ -116,7 +116,7 @@ I walked down the drive, past the wall of old stone, through the gate that had s
 
 The keeper before the first keeper had divided the first sign into thirteen, so that the count would be preserved until the bell called at 00:00. And I was the one who would gather what he had divided.
 
-I did not know what it would cost me. I did not know whether I would find them all, or whether I would die on the road with ten more medallions still scattered in the world, waiting for a keeper who would not come. I did not know whether I was the beginning of the new keeping or the last of the old, or both, or neither.
+I did not know what it would cost me. I did not know whether I would find them all, or whether I would die on the road with ten more markers still scattered in the world, waiting for a keeper who would not come. I did not know whether I was the beginning of the new keeping or the last of the old, or both, or neither.
 
 But I carried the first sign. And the first sign had been made by the keeper who came before the first keeper, and I carried it now, and I would carry it until the thirteen were gathered or until I could carry it no longer.
 

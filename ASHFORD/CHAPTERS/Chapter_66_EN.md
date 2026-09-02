@@ -94,6 +94,6 @@ And I had carried one all my life, without knowing what it was. I did not know w
 
 But I knew that I had found it. And I knew that the keeping â€” the long, silent keeping of the house at the end of Bellweather Lane â€” had been waiting for me.
 
-I had entered the kept house. I had found the second object. And I had understood that the mystery was not about the door. It was about the medallions. And I was the keeper of both. Two of thirteen—and the remaining eleven would reveal themselves as the count turned toward 00:00.
+I had entered the kept house. I had found the second object. And I had understood that the mystery was not about the door. It was about the medallions. And I was the keeper of both. Two of the thirteen—and the remaining signs would reveal themselves as the count turned toward 00:00.
 
 
