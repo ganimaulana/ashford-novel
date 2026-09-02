@@ -8,6 +8,8 @@ I did not know whether it appeared on a schedule I had not yet learned, or wheth
 
 I went about my days. I kept the account. I walked the boundary. I knelt at the fourth stone, where the hairline mark still lay across its face, and I did not touch it, and I did not try to understand it. I let the days pass.
 
+But I could not let the house go. I had crossed its threshold once, in the spring. I had seen the clock stopped at 00:00, and I had heard the knocking from beneath the floor — three knocks, slow, deliberate, as if someone beneath the boards had been counting, and had reached three, and had stopped. I had not understood it then. I did not understand it now. But I had begun to suspect that the knocking was a language — the language of the count, marking time until the bell would call.
+
 On the third evening, I walked to the edge of the common and found something different. The grass was no longer pressed in the shape of a door. It was pressed in the shape of a room. The shape of the door was still there, at the edge, but beyond it the grass was flattened in a larger rectangle — the shape of a floor, the shape of the house I had entered in the spring. The house had stood here again while I was not watching. It had left its mark and gone.
 
 I knelt. The grass was cold and wet. I put my hand to the grass where the threshold had lain, and I felt nothing — but I had not expected to feel anything. At the centre of the pressed floor, there was a mark. A line, and three strokes. The keeper's sign. Pressed into the earth by a house that did not exist.
@@ -28,4 +30,6 @@ I closed the book. I took the gear from the desk and put it in my coat. I did no
 
 And when it did, I would not stand at the edge of the grass and watch. I would cross the threshold. I would go inside. I would find what the house had been pressing into the earth, each time it stood on the common.
 
-The clock in the house was stopped at 00:00 — a time I had not yet learned to read, but one I was beginning to suspect was the key to everything.
+The clock in the house was stopped at 00:00 — a time I had not yet learned to read, but one I was beginning to suspect was the key to everything. The knocking had come from beneath the floor, three times, slow and deliberate. I had not learned what it meant. But I had learned that it came when I was close to the sign. And I had learned that the sign was older than the circle, older than the Order, older than the wall. The keeper's sign. And I was the keeper.
+
+I sat in the dark, and I understood that I was standing on the threshold of something. Not the threshold of the house — the threshold of the keeping itself. I had been keeping the door closed. I had been keeping the boundary. I had been keeping the account. But I had not been keeping the keeper's sign. I had not even known it existed. And now that I knew, I could not un-know it. The threshold had been crossed. And I could not go back.
