@@ -34,6 +34,23 @@ This separation ensures that:
 
 ---
 
+## 2026-09-02: Canon Terminology Lock
+
+**Event**: New terminology framework canonized for future manuscript migration. See `CANON_TERMINOLOGY.md`.
+
+**Actions**:
+- Created `CANON_TERMINOLOGY.md` — master terminology mapping, definitions, migration rules, and restrictions
+- No chapter files were modified
+- No existing lore was changed
+- No global find-and-replace was performed
+
+**Master Index Entry**:
+> New terminology (PROVISIONAL CANON): Holder, Observer/Seeker (unresolved), Token, Tier, Rank, Resonance, Drift, Anchors, XIII Signs, Component, 00:00 Marker, Call, The Sanctuary. Legacy terms remain in Chapters 1–137. Manuscript migration is a future operation.
+
+**Status**: PROVISIONAL CANON / TERMINOLOGY LOCK. No manuscript migration has been performed.
+
+---
+
 ## 2026-09-02: Long-Term Arc Roadmap Locked
 
 **Event**: Chapters 1–137 formally designated as ARC 1 — BELLWEATHER. Long-term planning framework created for Arcs 2–10.
