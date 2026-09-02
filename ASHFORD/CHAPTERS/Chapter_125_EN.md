@@ -1,4 +1,4 @@
-CHAPTER 125 — THE NEXT KEEPER
+﻿CHAPTER 125 — THE NEXT KEEPER
 
 The spring came again to Ashford.
 
@@ -8,7 +8,7 @@ I had done what I could.
 
 Now I waited.
 
-I could not yet tell what I was waiting for. I could not yet tell whether the keeper who came after me would come in my time, or after I was gone. I could not yet tell whether I would meet him, or whether he would find the book in the drawer after I had left it.
+I could not yet tell what I was waiting for. I could not say whether the keeper who came after me would come in my time, or after I was gone. I could not determine whether I would meet him, or whether he would find the book in the drawer after I had left it.
 
 But I waited.
 
@@ -114,6 +114,8 @@ And he had taken it.
 
 I walked with him to the boundary that evening.
 
+The light was long and gold, the way it is in June, and the town was settling into its evening — the lamplighter beginning his rounds, the smell of bread from the bakery, children calling in the lanes. Daniel walked beside me, carrying the book I had given him, and he did not speak. I did not speak either. There are walks that are not meant to be filled with words, and this was one of them.
+
 I showed him the stones. I showed him the first sign at the base of each stone. I showed him the fourth stone, where the hairline mark ran across its face.
 
 "The tally," I said. "The count of the keepers. Your mark will be in it."
@@ -126,7 +128,9 @@ He looked at the stones.
 
 I looked at him.
 
-"You will understand, in time. The keeping will teach you. The stones will teach you. The account will teach you."
+"You will understand, in time. The keeping will teach you. The stones will teach you. The account will teach you. And when you do not understand, you will write it down — because the writing is how the keeping is passed, and a keeper who does not write leaves nothing for the keeper who comes after."
+
+He looked at the book in his hands, and I saw him understand, for the first time, what he had been given — not a book of answers, but a book of questions, kept so that the questions would not be lost.
 
 We stood at the boundary, in the evening light, and I looked at the stones, and I understood that I was no longer the keeper.
 
@@ -136,11 +140,9 @@ The count had brought the next keeper.
 
 And I had done my part.
 
-I stood at the boundary, with the young man beside me, and I looked at the stones, and I understood that the keeping would continue.
+I stood at the boundary, with the young man beside me, and I looked at the stones, and I understood that the keeping would continue. The count would go on. And I had been part of it.
 
-The count would go on.
-
-And I had been part of it.
+I did not tell him that it would cost him. I did not tell him that there would be nights when the keeping was the only thing between him and the dark, or that the town would never know what he did, or that he would carry the forgetting and the remembering both, and that no one would thank him for either. He would learn those things himself, the way I had learned them, the way every keeper had learned them. It was not mine to spare him. It was mine to have made the road a little straighter for him than it had been for me.
 
 I went home.
 
@@ -165,3 +167,14 @@ I opened the red book. I wrote:
 *I have been a keeper.*
 
 *And I have passed the keeping.*
+
+I closed the red book. I stood in the stillness of the room. The book of the keeping was in the drawer beside the gear and the agreement. The boundary was waiting. Daniel was at the Academy, reading the account I had written, beginning the long work of learning what the keeping was. I had done what I had set out to do. I had kept the account, and I had passed it, and the keeping would continue after me, as it had continued before me, and the count would go on being counted, and the bell would ring at 00:00 when the count was ready, and I would not be there to hear it. And that was as it should be.
+
+I left the rooms. I walked to the boundary. The stones were waiting in their patient line, and I stood at the eastern marker, where the first sign was cut into the stone, and I did not kneel. I had knelt enough. The wall was not mine to keep anymore. It was Daniel's.
+
+I walked home. I sat at my desk. I did not open the red book.
+
+The keeping was the thing. The keeper was not.
+
+I had been a keeper. Now I was something else — a man who had passed the keeping, and who was waiting for the next thing, whatever it was, to call him north.
+

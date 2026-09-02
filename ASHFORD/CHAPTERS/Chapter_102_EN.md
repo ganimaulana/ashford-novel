@@ -1,8 +1,8 @@
-CHAPTER 102 — THE ITEM
+﻿CHAPTER 102 â€” THE ITEM
 
 The paper Adeline Brume gave me described an item coming to auction.
 
-It was a small box, she said — a box of dark wood, no larger than a man's hand, with a lid that fitted closely and a clasp of old brass. It had been in the possession of a family for a hundred years, passed down without remark, and they did not know what it was. They thought it was worth nothing.
+It was a small box, she said â€” a box of dark wood, no larger than a man's hand, with a lid that fitted closely and a clasp of old brass. It had been in the possession of a family for a hundred years, passed down without remark, and they did not know what it was. They thought it was worth nothing.
 
 The auction was in three weeks.
 
@@ -22,7 +22,7 @@ I had learned, in two years of keeping, that the worth of a thing in Ashford was
 
 I began with the family.
 
-The paper named no family. But the auction, Adeline had said, was in three weeks, and the item had been in the family for a hundred years, and a hundred years in one family was a keeping — and in Ashford, keepings left records.
+The paper named no family. But the auction, Adeline had said, was in three weeks, and the item had been in the family for a hundred years, and a hundred years in one family was a keeping â€” and in Ashford, keepings left records.
 
 I went to the vestry. I went to the library. I went to Arthur's shop, where the old papers were kept that no one else thought to keep.
 
@@ -30,11 +30,11 @@ I asked about a family that had kept a small dark box for a hundred years.
 
 It took me four days.
 
-I found the family through a record of a sale — a sale of a house, forty years ago, in which the inventory listed "one small box, dark wood, brass clasp, no value." The box had been kept, not sold, and the note "kept by the family" stood beside it.
+I found the family through a record of a sale â€” a sale of a house, forty years ago, in which the inventory listed "one small box, dark wood, brass clasp, no value." The box had been kept, not sold, and the note "kept by the family" stood beside it.
 
 The family name was Mercer.
 
-I had not heard the name before. I went back to the records. The Mercers had been in Ashford for generations — small people, tradesmen, one branch of them millers, another branch of them clerks. They had kept a shop on the High Street, and they had sold it, and they had kept a house, and they had kept the box.
+I had not heard the name before. I went back to the records. The Mercers had been in Ashford for generations â€” small people, tradesmen, one branch of them millers, another branch of them clerks. They had kept a shop on the High Street, and they had sold it, and they had kept a house, and they had kept the box.
 
 No one remembered the box. No one remembered why it had been kept.
 
@@ -68,7 +68,7 @@ I stood before it, in the parlour, in the afternoon light, and I looked at it.
 
 And I felt it.
 
-Not the warmth of the medallion. Not the cold of the key. A different thing — a stillness, a weight, the sense of a thing that had been kept for a long time and was not done with being kept.
+Not the warmth of the object. Not the cold of the key. A different thing â€” a stillness, a weight, the sense of a thing that had been kept for a long time and was not done with being kept.
 
 I had felt such things before. I had learned to trust the feeling, and to verify it.
 
@@ -78,7 +78,7 @@ I had felt such things before. I had learned to trust the feeling, and to verify
 
 I reached out. I lifted the box.
 
-It was light. It was empty. I could feel that through the wood — the absence of weight, the hollowness.
+It was light. It was empty. I could feel that through the wood â€” the absence of weight, the hollowness.
 
 I turned it over.
 
@@ -164,7 +164,7 @@ I was silent.
 
 I looked at her.
 
-"I will let it go to auction," I said. "I will let it sell for nothing. And I will follow it, and I will see who buys it — because the man who buys an empty box for nothing, at an auction where no one wants it, is the man who knows what the box is."
+"I will let it go to auction," I said. "I will let it sell for nothing. And I will follow it, and I will see who buys it â€” because the man who buys an empty box for nothing, at an auction where no one wants it, is the man who knows what the box is."
 
 Adeline was silent a long moment. Then she smiled.
 
@@ -178,7 +178,7 @@ The box went up, and it sold for a few shillings, as I had said it would. The ro
 
 I watched him pay. I watched him take the box. I watched him leave.
 
-I did not follow him then. I sat in the auction room until the crowd had gone, and then I went out into the street, and I did not know what I had done — whether I had passed a test, or set a trap, or begun something I did not understand.
+I did not follow him then. I sat in the auction room until the crowd had gone, and then I went out into the street, and I did not know what I had done â€” whether I had passed a test, or set a trap, or begun something I did not understand.
 
 But I knew that the man in the dark coat had the box now.
 
@@ -192,10 +192,13 @@ The first test had been a room and three accounts.
 
 The second test had been a box and a mark.
 
-And the third test — I did not know what it would be.
+And the third test â€” I did not know what it would be.
 
 But I knew that it would come.
 
 The hunt had begun again.
 
-And I was in it.
+And I was in it, with no certainty that my method would hold. I had let the box go to follow the buyer; now I had to wait for the trail to lead somewhere, or to prove that I had been outmaneuvered.
+
+
+The hour 00:00 drew nearer, and with it the count of thirteen signs.

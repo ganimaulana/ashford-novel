@@ -1,4 +1,4 @@
-CHAPTER 52 — THE CROSSING
+﻿CHAPTER 52 — THE CROSSING
 
 The house appeared on the fourth night.
 
@@ -22,7 +22,7 @@ The air was colder inside than out. I had felt it before, in the spring, when I 
 
 I stepped over the threshold.
 
-The room was the same. The bare hallway. The single clock on the far wall, its hands stopped at 11:17. The cracked glass. The silence.
+The room was the same. The bare hallway. The single clock on the far wall, its hands stopped at 00:00. The cracked glass. The silence.
 
 But there was something else.
 
@@ -70,7 +70,7 @@ I could not yet tell whether it was a message, or a warning, or a test.
 
 I folded the paper and put it in my coat, beside the gear.
 
-Then I looked at the clock. 11:17. The same time as the spring. I had written it in my notebook, and I had not understood it, and I had not come back to ask what it meant.
+Then I looked at the clock. 00:00. The same time as the spring. I had written it in my notebook, and I had not understood it, and I had not come back to ask what it meant.
 
 I looked at the floor.
 
@@ -140,8 +140,9 @@ The gear was not the key. The gear was the lock. The keeper's sign was the key.
 
 And the house — the house that did not exist, the house that appeared and disappeared at the edge of the common — had been built to keep the key safe.
 
-I did not know what the key opened. I did not know who had built the house. I did not know who had left the paper for me, or how they had known I would come.
+I could not say what the key opened. I could not tell for certain who had built the house. I had no way of knowing who had left the paper for me, or how they had known I would come.
 
 But I knew that I would go back.
 
 And I knew that the next time I opened the trapdoor, I would go down.
+

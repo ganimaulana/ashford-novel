@@ -1,4 +1,4 @@
-CHAPTER 106 — THE FIRST TASK
+﻿CHAPTER 106 — THE FIRST TASK
 
 The key to the reading room opened the door at the top of the stair above the chandler's shop.
 
@@ -30,9 +30,15 @@ Elias Marr was that collector.
 
 And he had a book that the society wanted.
 
-I could not yet tell what was in the book. I could not yet tell how it had come into his possession. I could not yet tell why the society wanted it.
+I could not yet tell what was in the book. I could not say how it had come into his possession. I could not determine why the society wanted it.
 
 But I had been asked to find out.
+
+There was a thing that troubled me, though I could not at first name it. The society had watched me for two years. The society knew of the clock, the key, the lock, the letter. The society had men and women in many towns, and it preserved histories and objects and knowledge, and it could not have lacked for ways to learn what was in a single book in a single house in Ashford. If it wanted to know, it had only to ask — or to send one of its own.
+
+It had sent me instead.
+
+Either the society could not touch Elias Marr, or it would not, or it was not the book it wanted to see me carry out of that house. I did not know which. I folded the paper and put it in my coat, and I told myself the task was simple, and I did not believe it.
 
 This was the first task of my working relationship.
 
@@ -146,11 +152,13 @@ I did not approach by the lane. I came across the fields, in the dark, the way a
 
 I stood at the gate a long moment.
 
-I did not know whether I was doing the right thing. I had been asked to find out what was in the book, not to steal it. But I did not know how to find out what was in a book without opening it.
+I could not say whether I was doing the right thing. I had been asked to find out what was in the book, not to steal it. But I could not tell for certain how to find out what was in a book without opening it.
 
 I pushed the gate open. I crossed the garden. I came to the door of the house.
 
 It was not locked.
+
+I stood at the door a long moment, with my hand on the latch. I had not broken in anywhere in two years. I had entered the common house, and the kept house, and the chamber — but those were mine to enter, places that had been waiting for the keeper. This was a man's house, and I had been sent to it, and the door was not locked, and I understood that the unlocked door was itself a message. A man who locks nothing is a man who expects someone.
 
 I pushed it open.
 
@@ -162,7 +170,9 @@ Coins without years. Books without authors. Paintings without signatures. Clocks
 
 And at the back of the room, on a table, under a lamp that was not lit, there was a book.
 
-I crossed the room. I reached for the book.
+I crossed the room. I did not touch the objects as I passed. I walked between them the way a man walks through a graveyard, careful not to disturb the dead. These things had been kept for a long time, and I understood, without being told, that the keeping mattered more to the man who lived here than the things themselves.
+
+I reached for the book.
 
 And a voice spoke from the dark.
 
@@ -184,8 +194,23 @@ He looked at me a long moment. Then he smiled — a small smile, tired and knowi
 
 "Then you are the man I have been waiting for," he said. "Sit down. I will show you what is in it."
 
+I did not sit.
+
+"I have been asked to find out what is in the book," I said. "And how it came to you."
+
+He looked at me a long moment. "I know who asked you," he said. "The society has sent men to me before. They do not come to my door. They come through the fields, at night, the way you came." He paused. "I have refused them all. Do you know why I will not refuse you?"
+
+"No."
+
+"Because you have come to find out what the book is," he said. "The others came to take it. There is a difference, and I have waited a long time to see whether a man who understood the difference would come." He looked at me, and his eyes were tired. "Sit down. I will show you what is in it. And in return, you will tell me what it is — what it means. I have kept it for years without knowing. I am tired of keeping a thing I do not understand."
+
 I stood in the dark room, among the objects without history, and I understood that I had not broken into Elias Marr's house.
 
 I had walked into a room that had been waiting for me.
 
-And the book was the reason.
+And the book was the reason—but not the only one. The man himself had been waiting, and that waiting was a message I had not yet decoded. He had said he would show me what was in the book. He had not said how the book had come to him, and I had not yet asked, and I understood that the answer to that question might matter more than anything the pages contained. Somewhere in this town there had once been a hand that had scrubbed the origins from a hundred objects and then let them go. That hand had left this book in Elias Marr's keeping, and no one in the society had thought to tell me why.
+
+I followed him to the table.
+
+And I sat down.
+

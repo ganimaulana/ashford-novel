@@ -1,4 +1,4 @@
-CHAPTER 100 — THE INVITATION
+﻿CHAPTER 100 — THE INVITATION
 
 The letter came on a Tuesday, at the end of October, and it was not of the lane's hand.
 
@@ -28,7 +28,7 @@ I had been a keeper for two years. I had been a hunter since the clock in the ma
 
 And yet.
 
-The letter was not addressed to the keeper. It was not addressed to the heir of Aurelius Ashcroft. It was addressed to *Mr. Ashcroft*, as if the writer knew the name and nothing else about it.
+The letter was not addressed to the keeper. It was not addressed to the heir of Aurelius Ashcroft. It was addressed to *Mr. Ashcroft*, as if the writer knew the name and nothing else about it. That precision unsettled me more than any threat could have.
 
 I turned it over. There was nothing on the back.
 
@@ -148,11 +148,11 @@ But I knew, sitting in the dark, that the letter had begun something. A test. A 
 
 I only knew that a man who sends such a letter, and who locks a room for seventeen years, and who sends three men into it to see three different things — that man is not looking for someone who will give him an easy answer.
 
-He is looking for someone who will tell him the truth, even when the truth is that the answer cannot be known.
+He is looking for someone who will tell him the truth, even when the truth is that the answer cannot be known. And perhaps that room was one of thirteen, each holding a fragment of the same mystery, waiting for the hour when the bell would call.
 
 I did not know who had sent the letter.
 
-I did not know what would come of it.
+I could not say what would come of it.
 
 But I knew that I had been asked a question, and that I had answered it — not to the letter, not to anyone, but to myself, in the red book.
 
@@ -160,4 +160,5 @@ And I knew that the answer would be found out.
 
 The hunt had begun again.
 
-And this time, I did not know whether I was the hunter, or the hunted.
+And this time, I could not tell for certain whether I was the hunter, or the hunted.
+

@@ -1,56 +1,42 @@
-CHAPTER 124 — THE INSTRUCTION
+﻿CHAPTER 124 — THE INSTRUCTION
 
-I began to prepare the account.
+I began to prepare the account in the autumn of the same year.
 
-I had written the red book full. I had written everything I had learned, everything I had felt, everything I had kept. The red book was the account of my keeping.
-
-But it was not enough.
-
-The keeper who came after me would need more than the account. He would need to understand the keeping — the boundary, the sign, the house, the agreement, the door, the bell, the medallions, the gear, the count.
+The red book was full. I had filled it over the years of my keeping — the account of what I had found, what I had felt, what I had lost and kept and learned. It was the record of my own keeping, the thing I had written for myself, and it could not be given to another keeper the way it was. The keeper who came after me would need more than the account of one man's years. He would need to understand the keeping itself — the boundary, the sign, the house, the agreement, the door, the bell, the medallions, the gear, the count. He would need to know what I had learned, not only what I had done.
 
 I began to write a new book.
 
-Not the red book. Not the account of my keeping. A different book — a book of instruction, a book for the keeper who would come after me.
+Not the red book. Not the account of my keeping. A different book, bound in plain boards, clean pages, the first of them blank and waiting. A book of instruction for the keeper who would come after me. I wrote what I knew. I wrote about the boundary, and the stones, and the first sign at the base of every stone — the circle, the three lines, the dot. I wrote about the chamber beneath Bellweather House, and the passage that led to it, and the door that was not a door, and the place beneath the chamber that I had felt but never entered. I wrote about the bell, and the tower, and the lamp, and the season in which the bell was meant to be lit. I wrote about the agreement, and the keepers who had kept it before me, and the tally, and the count that did not change. I wrote it all down as clearly as I could, in the plainest words I could find, so that the keeper who came after me would not have to begin from nothing.
 
-I wrote what I knew.
+I wrote through the autumn and into the winter.
 
-I wrote about the boundary, and the stones, and the first sign. I wrote about the chamber, and the passage, and the door that was not a door. I wrote about the bell, and the tower, and the lamp, and the season. I wrote about the agreement, and the keepers who had kept it, and the tally, and the count.
+The lamp burned late on my desk, and the pages grew, and I learned that writing for a man I had never met was a different kind of keeping than writing for myself. I had to choose what to leave in and what to leave out. I had to decide what was essential and what was only the noise of my own time. I had to write as though the book would be found by a stranger in a drawer, fifty years after I was dead, and that stranger would have to understand the keeping from the pages alone. I did not know whether such a thing was possible. But I wrote as though it were.
 
-I wrote it all down, as clearly as I could, so that the keeper who came after me would not have to begin from nothing.
+In the autumn, I went to see Elias.
 
-I wrote for months.
-
----
-
-In the autumn, I went to see Elias Marr.
-
-He was at his house on the lane past the mill, among the objects without history, and he let me in.
+He was at his house on the lane past the mill, among the objects without history, and he let me in. The room was cold, and the objects sat on their shelves and on the table and on the floor, each one scrubbed clean of its origin, each one waiting for a story that would never be told.
 
 "I am writing a book," I said. "A book for the keeper who comes after me."
 
-Elias was silent a moment.
+Elias was silent a moment. He was a man who had spent his life with silence, and he did not break it quickly.
 
-"The first keeper erased himself," he said. "He left no name, no history, no account of who he was. He left only the tally, and the keeping."
+"The first keeper erased himself," he said. "He left no name, no history, no account of who he was. He left only the tally, and the keeping, and the signs he had distributed so that the count would never be lost."
 
 "I know."
 
-"Vale left no account. He left the document, and the gear, and the silence. You have written the account. You have done what they did not do."
-
-I stood in his house.
-
-"And now you are writing for the keeper who comes after," Elias said.
+"Vale left no account. He left the document, and the gear, and the silence. He passed the keeping to you without a word of what it was, and you had to learn it for yourself."
 
 "Yes."
 
-He looked at me a long moment.
+"And now you are writing for the keeper who comes after."
 
-"Then you are doing what no keeper has done," he said. "You are leaving more than the keeping. You are leaving the understanding."
+I stood in his house, among the erased objects, and I did not know what to say.
 
-I could not yet tell what to say.
+"Then you are doing what no keeper has done," Elias said. "You are leaving more than the keeping. You are leaving the understanding."
 
-"The first keeper kept without understanding," Elias said. "Vale kept without understanding. You have understood — the boundary, the sign, the count, the keepers. And you are leaving that understanding for the one who comes after."
+I looked at him. "The first keeper kept without understanding," he said. "Vale kept without understanding. You have understood — the boundary, the sign, the count, the keepers, the tally. And you are leaving that understanding for the one who comes after."
 
-I stood among the objects without history.
+I stood among the objects without history, and I understood that Elias had been waiting for this moment longer than I had. He had kept the book of the first keeper, and the objects that had been erased, and the knowledge of the tally, and he had been waiting for a keeper who would write it down.
 
 "Will you help me?" I said.
 
@@ -62,64 +48,24 @@ Elias was silent a moment. Then he nodded.
 
 "I will help you," he said. "I have kept the objects for years. I will help you record them, so that the keeper who comes after will know what they are."
 
-I stood in his house, among the objects without history, and I understood that I was not alone in the preparation.
+I wrote for the rest of the autumn, and through the winter, and into the early weeks of the spring. I recorded the objects with Elias — every erased thing in his house, every piece that had been scrubbed of its history, every box and latch and key and lock that had been kept by the keeping. I walked the boundary with Ysabel, and I wrote down the condition of every stone, the position of every sign, the shape of the ground where the wall turned. I wrote the account of the keepers I knew — the first keeper, Aurelius, the keeper before Vale, Vale, and the keeper of the tally, who had no name and needed none. I wrote what I knew about the count, and the number, and the thirteen signs that each keeper must find. I wrote what I knew about the bell, and the tower, and the hour of nothing, and the silence that had held for as long as I had been listening.
 
-Elias would help me. Ysabel would help me. The society would help me, in its way.
-
-And the keeper who came after me would not have to begin from nothing.
-
----
-
-I wrote for a year.
-
-I wrote the book of the keeping. I recorded the objects with Elias. I walked the boundary with Ysabel. I kept the account, and I prepared the instruction, and I waited.
-
-I did not know when the keeper who came after me would come. I did not know who he would be.
-
-But I knew that I would be ready.
-
-I wrote the last page of the book of the keeping on a night in the spring.
+I wrote the last page of the book of the keeping on a night in the spring, when the frost had finally left the ground and the first soft air of the season was coming through the window.
 
 I sat at my desk, with the book before me, and I wrote:
 
-*To the keeper who comes after:*
+To the keeper who comes after: I have written this book so that you will not have to begin from nothing. It is the account of the keeping as I have understood it — the boundary, the sign, the house, the agreement, the door, the bell, the medallions, the gear, the count. I did not understand all of it. I do not think any keeper understands all of it. But I have written what I know, and I have kept what I could, and I have trusted the count to bring you here. The keeping is the thing. The keeper is not. You are the keeper now. The count has brought you. The tally is yours to keep. Keep the account. Keep the boundary. Keep the door. Keep the bell. Keep the medallions. Keep the gear. Keep the count. And when you have kept as long as you are meant to keep, write your own account, and leave it for the keeper who comes after you. That is the whole of the keeping.
 
-*I have written this book so that you will not have to begin from nothing. It is the account of the keeping as I have understood it — the boundary, the sign, the house, the agreement, the door, the bell, the medallions, the gear, the count.*
-
-*I did not understand all of it. I do not think any keeper understands all of it. But I have written what I know, and I have kept what I could, and I have trusted the count to bring you here.*
-
-*The keeping is the thing. The keeper is not.*
-
-*You are the keeper now. The count has brought you. The tally is yours to keep.*
-
-*Keep the account. Keep the boundary. Keep the door. Keep the bell. Keep the medallions. Keep the gear. Keep the count.*
-
-*And when you have kept as long as you are meant to keep, write your own account, and leave it for the keeper who comes after you.*
-
-*That is the whole of the keeping.*
-
-I set down the pen.
-
-I closed the book.
-
-I put it in the drawer, beside the red book, and the agreement, and the gear, and the medallions, and the key to the reading room.
+I set down the pen. I closed the book. I put it in the drawer, beside the red book, and the agreement, and the gear, and the medallions, and the key to the reading room.
 
 I sat in the dark.
 
-I had written the book of the keeping.
+I had written the book of the keeping. I had prepared for the keeper who would come after me. I did not know who he was. I did not know when he would come. I did not know whether he would find the book, or whether he would understand it, or whether he would throw it aside and learn the keeping the hard way, as I had learned it. But I had done what I could. I had written the account. I had recorded the objects. I had walked the boundary and marked the stones. I had prepared the instruction. And I had trusted the count to bring him.
 
-I had prepared for the keeper who would come after me.
+But as I sat in the dark, I understood that the book of the keeping was not the keeping itself. It was a guide — a map for a man who had never seen the country. The keeping was not in the book. It was in the boundary, and the stones, and the door, and the bell, and the place beneath the chamber. It was in the cold of the winter boundary, and the dark of the passage, and the silence of the bell that never rang. The keeper who came after me would have to find it there, in the keeping itself, not in the pages I had written. The book was the seed. The keeping was the growth. And I had planted the seed, and watered it, and left it in the drawer for the hands that would find it.
 
-I did not know who he was. I did not know when he would come.
+I sat in the stillness of the room, and I looked at the drawer where the book lay. The book was separate from me now. It had its own life, its own purpose, its own future. It would speak to a man I had never met, in a voice I would never hear, and it would tell him what I had learned, and he would take it or leave it, and the keeping would go on either way.
 
-But I would be ready.
+I had done my part.
 
-The keeping was old. The keeping was large. The keeping would continue after me.
-
-And I had done my part.
-
-I had kept the account.
-
-I had prepared the instruction.
-
-And I had trusted the count.
+The rest belonged to the count.

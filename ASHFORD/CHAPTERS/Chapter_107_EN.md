@@ -1,4 +1,4 @@
-CHAPTER 107 — THE BOOK OF ORIGINS
+﻿CHAPTER 107 — THE BOOK OF ORIGINS
 
 Elias Marr lit the lamp.
 
@@ -32,13 +32,23 @@ I stood very still.
 
 I looked at the book. The hand of the man who had come before Aurelius.
 
-"His name is not known," Elias said. "He was the first keeper. He built Bellweather House. He set the boundary. He carved the first sign. And then he erased his own history — not because he was afraid, but because he wanted the keeping to be about the thing, and not about the man."
+"His name is not known," Elias said. "He was the first keeper. He built Bellweather House. He set the boundary. He carved the first sign—and the twelve that followed. And then he erased his own history — not because he was afraid, but because he wanted the keeping to be about the thing, and not about the man."
 
 I stood in the lamplight, among the objects without history, and I understood.
 
 The objects in Elias Marr's collection had not been scrubbed by someone else. They had been scrubbed by the first keeper — the man who had come before Aurelius, who had built the first sign, and who had erased his own history so that the keeping would be about the thing, and not about the man.
 
 "This book," Elias said, "is the record of what he erased. It is the account of the origins — the origins of the objects, the origins of the signs, the origins of the keeping. It is the only record that remains."
+
+I looked at the room — the coins without years, the books without authors, the paintings without signatures. "Why do you collect them?" I said. "The erased things."
+
+He was silent a moment. "Because someone must keep them," he said. "The man who erased them did not destroy them. He scattered them, so they would be found. If no one kept them, the erasure would be complete. I keep them so the erasure is not complete."
+
+"Even if you do not know what they are?"
+
+"Even then." He looked at me. "The keeping is the thing. The man is not."
+
+He said it the way a man says a thing he has repeated many times, until it has become the shape of his life. I had written the same words in the red book. I had read them in the book of the first keeper. And now I heard them spoken by a man who collected the things that had been erased, in a house full of objects without history, and I understood that the keeping was not a single thing. It was a thread that ran through all of us — the first keeper, Vale, the keeper before Vale, Ysabel, Elias Marr, and me — and we were all of us holding it in different hands.
 
 I looked at the book.
 
@@ -70,7 +80,19 @@ I looked at Elias.
 
 I reached out. I took the book.
 
-It was heavy in my hands. The leather was cracked, the pages yellow, the ink brown with age. The hand of the first keeper was on every page.
+"How did it come to you?" I said.
+
+He did not answer at once. He looked at the book in my hands, and I saw something move behind his eyes — not reluctance, but the weighing of how much to say.
+
+"It came to me the way the others came," he said. "A man brought it, years ago, and would not say where he had found it. He said only that it had been kept for a very long time, and that it was looking for its keeper, and that I was to hold it until the keeper came."
+
+"And you believed him."
+
+"I believed the book." He looked at me. "It was the only object I ever kept that was not erased. It was the record of the erasure itself. Whatever man carried it, he knew what he was carrying."
+
+He did not say the man's name. He did not say where the man had come from, or where he had gone. I did not ask again. Some questions, in Ashford, are not answered so much as carried.
+
+The book was heavy in my hands. The leather was cracked, the pages yellow, the ink brown with age. The hand of the first keeper was on every page.
 
 I did not open it then.
 
@@ -108,7 +130,7 @@ I would open the book when I was ready.
 
 I put it in the drawer, beside the red book, and the agreement, and the key to the reading room.
 
-I sat in the dark.
+I sat in the stillness.
 
 I was the keeper. I was a hunter. I was a man who worked with a society that had no name.
 
@@ -118,6 +140,7 @@ I could not yet tell what was in it.
 
 But I knew that I would open it, when the time was right.
 
-The hunt had led me to the book.
+The hunt had led me to the book. The society had led me to Elias Marr, and Elias Marr had led me to the first keeper's own account, and the man who had brought the book to Ashford — the man who had said it was looking for its keeper — had vanished without a name. I did not know who he was. I did not know whether he was one of the society, or the keeper before Vale, or something else entirely. I only knew that the book had been waiting for me, and that I had been led to it by a chain of hands I could not see.
 
-And the book was the beginning of something new.
+The book was not the end of the hunt. It was the beginning of something new — an origin that would not stay buried, and a keeper who could no longer claim to have started from nothing.
+

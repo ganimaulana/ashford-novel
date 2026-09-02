@@ -1,4 +1,4 @@
-CHAPTER 57 — THE ARCHIVIST
+﻿CHAPTER 57 — THE ARCHIVIST
 
 I did not go back to the passage.
 
@@ -12,7 +12,7 @@ I went to find Eleanor Shaw.
 
 I had met her once, in the spring, by the river, when she had told me that people had died protecting things they could not explain. She had been part of the Order then — an archivist, a keeper of records. She had not been at the meeting at the brewery, or she had been, and I had not known her face.
 
-I could not yet tell where she lived. I could not yet tell where she worked.
+I could not yet tell where she lived. I could not say where she worked.
 
 But I knew that she was in Ashford, and I knew that she kept records, and I knew that if anyone knew the history of the wall, it would be the Order's archivist.
 
@@ -66,7 +66,7 @@ It was light in my hand. I did not open it. I put it in my coat, beside the gear
 
 I waited.
 
-"The keeper's sign is not the Order's mark," she said. "The Order took the circle — took it, and made it theirs, and built their understanding of the boundary around it. But the keeper's sign is older, and it is not theirs, and they do not know what it is. Vale kept it from them because he knew that if they understood it, they would use it — and he did not want the door used."
+"The keeper's sign is not the Order's mark," she said. "The Order took the circle — took it, and made it theirs, and built their understanding of the boundary around it. But the keeper's sign is older, and it is not theirs, and they do not know what it is. Vale kept it from them because he believed that if they understood it, they would use it — and he did not want the door used. Whether he was right to believe that, I cannot say."
 
 "The door."
 
@@ -80,7 +80,7 @@ I waited.
 
 She was silent a long moment.
 
-"I do not know," she said. "And I do not think Vale knew, either. I think he knew that it was not what the Order thought it was — that it was not a thing to be opened, and not a thing to be sealed — and that was all he knew, and all he could know, and he kept the map so that the next keeper would not have to start from nothing."
+"I do not know," she said. "And I do not think Vale knew, either. I think he knew that it was not what the Order thought it was — that it was not a thing to be opened, and not a thing to be sealed — and that was all he knew, and all he could know, and he kept the map so that the next keeper would not have to start from nothing. But I cannot tell you whether he was right about any of it."
 
 I stood in the room, in the smell of paper and dust, with the folded map in my coat.
 
@@ -167,3 +167,4 @@ And I had to remember what I had been keeping.
 Because I had been keeper for a month, and I had not remembered, and the count — whatever it was counting — had not been running out.
 
 It had been waiting.
+

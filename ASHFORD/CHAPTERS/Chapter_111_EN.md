@@ -1,4 +1,4 @@
-CHAPTER 111 — THE COUNT
+﻿CHAPTER 111 — THE COUNT
 
 I could not yet tell what the count was counting.
 
@@ -12,9 +12,7 @@ I sat at my desk, with the two pages before me, and I thought about the keeping 
 
 The count was more than all of them.
 
-I did not know what the count was counting.
-
----
+I could not say what the count was counting.
 
 I went to see Ysabel.
 
@@ -68,31 +66,37 @@ I looked at her.
 
 I stood in her house, and I understood that I had been reading the boundary wrong.
 
-I had read it as a line — a boundary drawn between one place and another. I had read the stones as markers of that line.
+I had read it as a line — a boundary drawn between one place and another, meant to keep something in or out. I had read the stones as markers of that line.
 
-But if the boundary marked a number, then the stones were counters — and the line was not a line at all.
+But there was a thing I had noticed and set aside without understanding it. I had walked the wall from the eastern marker to the corner where it turned, and the wall had ended there. It had not continued around the town. It had not enclosed the fields, or the common, or the houses. It had run a length and turned and stopped — as if its purpose was not to surround anything but to record something, the way a line on a page records a count.
+
+If the boundary marked a number, then the stones were counters — and the line was not a line at all.
 
 The line was a count.
+
+I stood in her house, and I did not speak for a long time. Ysabel stood at the table, with the two pages of marks before her, and she did not speak either.
+
+"You have been afraid of it," I said at last.
+
+She looked at me.
+
+"The count," I said. "You have been hunting the clocks for twenty years, and you have read the books, and you have followed the trails. You could have found the tally before I did. You could have counted the marks in the Academy book, or read the wardens' ledger, or asked the clerk. But you did not."
+
+She was silent a long moment.
+
+"I was afraid," she said, "that if I found the number, I would have to know what it meant. And I was not ready to know what it meant." She looked at me. "I do not know whether I am ready now."
+
+I had no answer for her. I had no answer for myself. The number was there, and it was older than the boundary, and it was not counting years, and I did not know what it was counting. But I understood that Ysabel had been carrying her own keeping — the keeping of a question she had been afraid to ask — and that she had been carrying it longer than I had been carrying mine.
 
 ---
 
 I went to the boundary the following morning.
 
-I walked the line of stones, from the eastern marker to the corner where the wall turned, and I counted the stones.
-
-I had counted them before. There were more than a hundred stones along the wall.
-
-I counted them again.
-
-The number was not the same as the tally.
-
-I stood at the fourth stone, where the hairline mark ran across its face, and I looked at the stone, and I thought about the tally.
+I had walked the line of stones many times. I had counted them — more than a hundred, from the eastern marker to the corner where the wall turned. I had studied them. I did not count them again. I walked them instead, slowly, looking at each stone as I passed, thinking about what Ysabel had said.
 
 The tally was a number. The stones were a number. The two numbers were not the same.
 
-I did not know what that meant.
-
-I knelt at the fourth stone. I looked at the first sign, cut into the base of the stone, hidden where the earth covered it.
+I knelt at the fourth stone, where the hairline mark ran across its face. I looked at the first sign, cut into the base of the stone, hidden where the earth covered it.
 
 The first sign. The mark of the maker.
 
@@ -112,7 +116,7 @@ And the tally was the record of what they counted.
 
 I stood.
 
-I walked the line of stones again, and I counted them again, and I looked at each stone as I passed, and I looked for the pattern — the pattern of the count, the pattern that the boundary was marking.
+I walked the line of stones again, and I looked for the pattern — the pattern of the count, the pattern that the boundary was marking.
 
 I did not find it that morning.
 
@@ -152,10 +156,13 @@ I was the keeper. I was a hunter. I was a man who worked with a society that had
 
 And I had found the count.
 
-I did not know what it was counting.
+I had no way of knowing what it was counting.
 
 But I knew that I would learn.
 
 The hunt had led me to the boundary.
 
 And the boundary was leading me to the count.
+
+I had not yet learned what the count was counting. But I had learned that it was older than the boundary, and that the boundary had been set to mark it, and that I was the keeper of a thing that had been counted before the town had a name. The question was no longer where the count was. It was what the count was for — and what would happen when it reached its end. I did not know whether I was walking toward an answer or toward the thing that would ask me the question.
+

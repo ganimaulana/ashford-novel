@@ -1,16 +1,26 @@
-CHAPTER 98 — THE MAKER'S NAME
+﻿CHAPTER 98 — THE MAKER'S NAME
 
 Ysabel and I searched together through the winter.
 
 She had been looking for twenty years. I had been looking for months. Together, we knew more than either of us had known alone.
 
-We searched the records. We searched the vestry. We searched the libraries, and the archives, and the houses of the families who had kept the old ways. We followed the trail of Aurelius Ashcroft through the margins of the books, through the ledgers, through the letters.
+We worked in the old way, the way of the keeping — slow, methodical, in the grey light of afternoons, with candles against the dark and the cold. We searched the records. We searched the vestry. We searched the libraries, and the archives, and the houses of the families who had kept the old ways. We followed the trail of Aurelius Ashcroft through the margins of the books, through the ledgers, through the letters.
 
 His name appeared where it should not have been. In the margins of the book of the wall. In the records of the families. In the letters of the clerks who had kept the secrets.
+
+I learned to read for it the way I had learned to read for the first sign — not looking at the page, but looking past it, at the edges where a hand had added something that the record did not ask for. Once you knew to look there, the name was everywhere. Aurelius. Ashcroft. A. A. Sometimes the initials, sometimes the whole name, sometimes only a hand that had written in a way you came to recognize as his.
+
+"Look," Ysabel said one afternoon, in the archive of a house that had not been lived in for fifty years. She held a ledger open to a page where the margins were thick with a small, even hand. "He wrote here. All through here. This is his hand."
+
+I came to look. The writing was not the writing of the ledger. It was smaller, firmer, a hand that had been taught to be exact and had never lost the habit. It ran up the side of the page like a column of small corrections, and at the foot of the column, in the same hand, was the name.
+
+Aurelius.
 
 We began to understand.
 
 Aurelius Ashcroft was not a man who had lived in Ashford and then left. He was a man who had lived in Ashford and had never left. He was in the margins because he had been deliberately kept out of the records.
+
+The thought was strange, and I turned it over in my mind for days. A man who is kept out of the records is a man someone did not want recorded. And a man someone did not want recorded is a man who was important enough to hide.
 
 And the clocks, and the key, and the lock were part of what he had left behind.
 
@@ -19,6 +29,8 @@ And the clocks, and the key, and the lock were part of what he had left behind.
 In January, Ysabel found the letter.
 
 She found it in the archives of a family that had left Ashford in the last century. A letter, written by a clerk, describing a box that had been placed in the keeping of the family.
+
+She brought it to me at my desk, and she read it aloud, and I heard the clerk's careful hand in her voice — a man describing a thing he had been asked to record, taking pains to be exact because he understood that the exactness was the whole of it.
 
 "It describes the box exactly," she said. "An iron box, bound with a strap, with a lock on the front."
 
@@ -56,6 +68,8 @@ The old church. The one that had been pulled down. Beneath it, a vault. And in t
 
 The lock that the key was made for.
 
+It had been there all along, beneath a piece of ground that no one remembered. The town had built over its own memory, and the vault had waited under the new grass for the keeper who would come for what had been kept.
+
 I looked at Ysabel.
 
 "We have to find the vault," I said.
@@ -70,6 +84,8 @@ We went to the old church the following morning.
 
 It had been pulled down years ago. The ground where it had stood was a small green, at the edge of town, used for nothing. No one remembered that a church had stood there.
 
+I had passed it a hundred times without seeing it. That was the way of such places. A green at the edge of town, a patch of grass no one needed, a flat stone at the corner that could have been anything. The town did not know it was walking over its own keeping.
+
 We stood at the edge of the green, in the grey morning light, and we looked at the ground.
 
 "The vault," I said. "It must be beneath the ground."
@@ -79,6 +95,8 @@ Ysabel nodded. "The letter said the vault was beneath the church. The church was
 We searched.
 
 The green was covered in grass. There was no entrance, no door, no stone to mark the vault. We walked it, looking for anything that did not belong.
+
+We walked it in widening circles, the way I had walked the market, the way she had walked a hundred towns. Two people looking for a thing that had been hidden on purpose, in a place where hiding was the natural condition.
 
 Ysabel found it.
 
@@ -104,6 +122,8 @@ We lit a candle. We went down.
 
 The vault was small. Stone walls. A stone floor. The air was cold and still.
 
+It had been sealed for a century. The cold had settled into it like water settling into a well, and the stillness had a weight to it, a pressure, as though the vault were holding its breath against the day it would be opened.
+
 At the back of the vault, on a stone table, there was a box.
 
 It was iron. It was bound with a strap. It was dark with age.
@@ -118,7 +138,9 @@ I took out the key.
 
 I held it in my hand.
 
-I could not yet tell what was in the box. I could not yet tell whether I should open it.
+It had been cold against my chest for weeks. Now, in the vault, it did not feel cold anymore. It felt like it had come home.
+
+I could not yet tell what was in the box. I could not say whether I should open it.
 
 But I was the keeper. The box had been kept for me. The letter had said it would be given to the keeper when he came.
 
@@ -133,6 +155,8 @@ The lock opened.
 I lifted the lid.
 
 Inside the box, on a bed of cloth, there was a single sheet of paper.
+
+The cloth was old, and the paper was old, and neither had been disturbed since the day the box was sealed. The keeping had been exact. The box had held its contents the way the vault had held the box, the way the keeping held everything — whole, and waiting.
 
 I picked it up.
 
@@ -152,6 +176,8 @@ And I had found the words of Aurelius Ashcroft, written a hundred years ago, to 
 
 *Do not open the door. Do not ring the bell. Keep the account. The account is the whole of the keeping.*
 
+I read the words again. And again. The way Ysabel had read the margins, I read them until the shape of them was in me, until I could have said them in the dark.
+
 I had been keeping the account. I had been keeping the boundary. I had been keeping the door.
 
 And now I knew that the clocks, and the key, and the lock had been left for me — not to open anything, but to understand what I was keeping.
@@ -160,9 +186,15 @@ I stood in the vault, and I understood.
 
 The hunt was not leading me to a treasure. It was leading me back to the keeping.
 
+I looked up. Ysabel was standing at the foot of the stone table, watching me, the candle in her hand. She had not come closer. She had not read the letter over my shoulder. She had given the finding to me, the way the box had been given to the keeper.
+
+"Well?" she said.
+
 I folded the letter. I put it in my coat.
 
 I took the empty box, and I left the vault, and I walked back through the streets of Ashford, with Ysabel beside me, and the letter against my chest.
+
+The cold of the vault stayed with me for the length of the walk. And beneath it, warm as a coal, the words of Aurelius Ashcroft, written for me a hundred years before I was born.
 
 I had found what Aurelius had left.
 

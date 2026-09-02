@@ -391,7 +391,7 @@ The hallway was papered with old floral wallpaper whose colours had faded. The a
 
 The wooden floor creaked beneath my step.
 
-An old wall clock ticked at the end of the corridor, its sound nearly drowned by the rain outside.
+An old wall clock ticked at the end of the corridor, its sound nearly drowned by the rain outside. I noticed, as I passed, that its hands were frozen at 00:00 — though it continued to tick, as if the mechanism had forgotten what time it was supposed to keep. I would later learn that the hour 00:00 was not an accident, but a threshold—one that Ashford had been counting toward longer than any record remembered.
 
 Helen took my trunk before I could refuse.
 

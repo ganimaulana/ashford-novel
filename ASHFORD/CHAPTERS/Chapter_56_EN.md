@@ -1,4 +1,4 @@
-CHAPTER 56 — THE NINETEENTH SIGN
+﻿CHAPTER 56 — THE NINETEENTH SIGN
 
 I waited three days for the house to appear.
 
@@ -10,7 +10,7 @@ The house appeared at dusk.
 
 It did not fade into view. It was there, as it had been before, standing at the edge of the common where the grass met the pasture, its windows dark, its front door open.
 
-I crossed the common. I did not stop at the threshold. I did not look at the clock, stopped at 11:17.
+I crossed the common. I did not stop at the threshold. I did not look at the clock, stopped at 00:00.
 
 I knelt, lifted the edge of the front mat, pulled the iron ring, and opened the trapdoor.
 
@@ -90,7 +90,7 @@ I did not open the door.
 
 I stood in the passage, in the candlelight, and I looked at the door, and I thought about the nineteenth sign, and about the hand that had carved it, and about the message that had been left for me — or for someone — in the stone.
 
-I could not yet tell what the message said. I could not yet tell who had carved it.
+I could not yet tell what the message said. I could not say who had carved it.
 
 But I knew that the signs were not a count. They were a path. And the nineteenth sign — the sign that was different — was the sign that marked the place where the path changed.
 
@@ -165,3 +165,4 @@ I did not know what it meant. I did not know what would happen when I found the 
 But I knew that I would find it.
 
 And I knew that the count was not running out. The count was leading somewhere.
+

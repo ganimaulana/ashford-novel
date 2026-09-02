@@ -1,12 +1,12 @@
-CHAPTER 110 — THE OLDER KEEPING
+﻿CHAPTER 110 — THE OLDER KEEPING
 
-I spent the autumn trying to understand the tally.
+I spent the early spring trying to understand the tally.
 
 I read the book of the first keeper again, and again, and again. I copied the page of marks into my notebook. I counted them by ones, by fives, by rows. I counted them forward and backward. The count was always the same.
 
 The tally was longer than the keeping as I knew it.
 
-I could not yet tell how much longer. I could not yet tell whether the tally was a count of years, or of seasons, or of something else. I could not yet tell whether I had counted the marks correctly, or whether the marks meant something other than what the first keeper had said they meant.
+I could not yet determine how much longer. I could not yet decide whether the tally was a count of years, seasons, or something else entirely. I could not yet tell whether the marks were even meant to be counted individually. I had counted the marks correctly, or whether the marks meant something other than what the first keeper had said they meant.
 
 But I knew that the keeping was older than the keepers I knew.
 
@@ -78,13 +78,19 @@ Daniel was silent a moment.
 
 "And you will show it to me?"
 
-He looked at me a long moment.
+He looked at me a long moment. I had seen Daniel before, in the years of my keeping — a quiet young man at the Academy who kept the ledgers and the papers and never asked for anything. He had the look of a man who had been waiting for something without knowing what it was.
 
 "You have asked for the oldest things," he said. "And you have kept what you have been given. I will show it to you."
 
 He went to the shelf at the back of the room, where the oldest books were kept, and he took down a book — a book bound in leather so old that it had gone the colour of the dust, its spine held together with thread.
 
 He set it on the table.
+
+"My father was clerk before me in his own way," he said. "He kept the vestry for forty years. He told me, once, that if a keeper ever came to the Academy asking for the oldest things, I was to show him this book and ask no questions. I did not believe a keeper would ever come. I have kept the Academy for six years, and no one has asked."
+
+He looked at me.
+
+"I did not think you would be the one to ask."
 
 "The record of the boundary," he said. "As it was first set."
 
@@ -142,7 +148,7 @@ And the marks in the oldest book of the Academy were the same marks, in the same
 
 The count was older than the boundary.
 
-I did not know what that meant. I did not know what the count was counting. I did not know why the first keeper had made the same tally in two books.
+I did not know what that meant. I could not say what the count was counting. I could not tell for certain why the first keeper had made the same tally in two books.
 
 But I knew that the keeping was older than the boundary.
 
@@ -170,10 +176,11 @@ I was the keeper. I was a hunter. I was a man who worked with a society that had
 
 And I had found a count that was older than the boundary.
 
-I did not know what it was counting.
+I had no way of knowing what it was counting.
 
 But I knew that I would find out.
 
 The hunt had led me to the tally.
 
-And the tally was leading me somewhere older.
+And the tally was leading me somewhere older—older than the keepers, older than the boundary, older than the name of Ashford itself. I did not yet know what lay at the end of that trail, but I knew the trail was not new. It had been marked before I was born. The same hand had set the boundary and made the tally, and the same hand had written its count into the Academy's oldest book, and I did not know why a single man would make the same count in two books — unless he was leaving a record of something that would need to be checked, by the keepers who came after him, against a thing that must not be allowed to change.
+

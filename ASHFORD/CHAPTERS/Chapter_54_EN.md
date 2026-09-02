@@ -1,4 +1,4 @@
-CHAPTER 54 — THE STRANGER
+﻿CHAPTER 54 — THE STRANGER
 
 I did not go back to the common for three days.
 
@@ -50,7 +50,7 @@ I thanked her. I left the bakery. I walked down the High Street, and I thought a
 
 A sign. A mark.
 
-I could not yet tell what sign he wore. I could not yet tell what mark he carried.
+I could not yet tell what sign he wore. I could not say what mark he carried.
 
 But I knew that there were two marks in Ashford — the circle, and the keeper's sign — and I knew that one of them was older than the Order, and I knew that a man had come a long way asking about the gear, and I knew that I had to find him before he found me.
 
@@ -144,7 +144,7 @@ They had been made by Vale. One for each year. Fifty years. Fifty signs, marking
 
 And the man who had come to find the gear had told me that the count was running out.
 
-I did not know who he was. I did not know where the keeper's sign came from. I did not know whether he was the third hand, or the first hand, or something older than all of them.
+I did not know who he was. I did not know where the keeper's sign came from. I could not say whether he was the third hand, or the first hand, or something older than all of them.
 
 But I knew that the signs were not fresh. I knew that they were a count. I knew that Vale had carved them, one for each year, not understanding what they meant.
 
@@ -154,12 +154,13 @@ I walked home through the dark streets. I sat at my desk. I did not write in my 
 
 I took the gear from the drawer and held it in my hand, and I looked at the circle and the short line, and I thought about the fifty signs, and the fifty years, and the man who had come a long way to tell me the count was running out.
 
-I did not know what was behind the door. I did not know who had built the house. I did not know who the man was, or who had sent him, or what he truly wanted.
+I could not tell for certain what was behind the door. I had no way of knowing who had built the house. I could not say who the man was, or who had sent him, or what he truly wanted.
 
 But I knew that the signs were not fresh. I knew that they were a count. And I knew that Vale had not been afraid because he understood the door. He had been afraid because he did not.
 
 And the man who had come to find the gear — the man who wore a mark on his coat that he turned toward me in the dark — had come to find a keeper who would not be afraid.
 
-I did not know whether I was that keeper. But I knew that the count was running out.
+I could not tell for certain whether I was that keeper. But I knew that the count was running out.
 
 And I knew that I had to decide, before it did, whether I would open the door — or let it be opened for me.
+
