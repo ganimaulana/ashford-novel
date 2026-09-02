@@ -4,9 +4,13 @@ The autumn came again. I had been keeper for a year and a half. I had kept the a
 
 I had come to Ashford as a stranger. I had become a watchman. I had become a keeper. I had walked the streets, and the boundary, and the passage. I had written the account. I had kept the keeping. I had become what I was meant to be.
 
+But in the autumn of my second year as keeper, I began to understand that the account was not the whole of the keeping. The account was the record. The keeping was the life. And the life was not in the book — it was in the boundary, in the stones, in the bell, in the houses, in the place beneath, in the town that did not know it was being kept.
+
 I went to the church on a Sunday in October. The service was over. The town had gone home. I stood in the church, alone, in the grey light. I looked at the tower. The bell was in the tower. The keeper's bell. I had not rung it. I had not needed to. I had needed to keep it.
 
 I stood in the church, and I thought about the bell. It had rung twice — once for the keeper before Vale, once for me. It had not rung since. I could not say whether it would ring again. I could not say whether it was meant to ring again. I stood in the church, and I understood that the bell was not for ringing. It was for keeping. The bell was the keeper's bell. It was kept. It was not rung.
+
+But as I stood there, I remembered the words the stranger had spoken, years before: The bell is the call signal. It rings when the count is complete. And I had begun to suspect that the bell's silence was not the absence of a call, but the waiting for one.
 
 I left the church. I walked through the streets of Ashford, in the autumn light, and I understood that the whole of the keeping was the same. The signs were not for reading. The medallions were not for using. The door was not for opening. The bell was not for ringing. They were for keeping. They were kept. And I was the keeper.
 
@@ -20,4 +24,4 @@ I closed the red book. I put it in the drawer. I left the medallions on the desk
 
 I sat in the dark, and I was content. The town was asleep. The bell was silent. The house was kept. The account was written. And I was the keeper. That was the whole of it. And it was enough — until I remembered the door, and the count, and the hour that had not yet come — the hour when the thirteen signs would converge and the bell would call at 00:00.
 
-The account was full. But the story was not. And the count was still counting.
+The account was full. But the story was not. And the count was still counting. I sat in the dark, and I understood that the keeping would not end when the account was full. It would end only when the bell rang at 00:00, and the count was complete, and the thirteen signs were gathered. And I was still the keeper — the keeper of the account, the keeper of the forgetting, the keeper of the remembering, and the keeper of the count that had not yet reached its end.
