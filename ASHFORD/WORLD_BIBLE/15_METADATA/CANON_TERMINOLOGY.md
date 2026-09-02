@@ -187,7 +187,7 @@ The Sign determines WHAT kind of supernatural identity the person possesses. The
 
 | Previous Term | Official Term | Category | Notes |
 |---------------|---------------|----------|-------|
-| Keeper | **Holder** | Role | Possesses/exercises authority over an object, access, or supernatural function. NOT a Rank or Sign. Context audit required. |
+| Keeper | **Keeper (historical/thematic) / Holder (formal system)** | Role | "Keeper" is a legitimate in-world/historical/temporal/thematic term (guardian, custodian, tradition). "Holder" is the formal supernatural-system term (authority over a Sign/Token/function). Keeper ≠ Holder. See KEEPER/HOLDER section. |
 | Watcher | **Observer** | Role | Witnesses, monitors, records, or studies supernatural phenomena. NOT a Rank or Sign. "Seeker" is NOT used unless future canon establishes it as a separate Sign or role. |
 | Medallion / Object | **Token** | Object | Physical manifestation of a Sign. Sign = identity; Token = object. |
 | Sign (supernatural identity) | **Sign** | Symbol | One of the 13 supernatural identities. Unchanged. |
@@ -285,9 +285,74 @@ The former concept of "Room / Connection Space" is now **The Sanctuary** — a s
 
 ---
 
-## HOLDER
+## KEEPER / HOLDER TERMINOLOGY
 
-Holder is a **ROLE / AUTHORITY TERM**. It is NOT a Rank, Sign, or power level. A Holder is someone who possesses or exercises authority over an object, access mechanism, or supernatural function. Do not automatically replace every "Keeper" occurrence with "Holder."
+### KEEPER
+
+"Keeper" is a legitimate in-world/historical/temporal term. It may refer to:
+- a person who guards, maintains, preserves, or watches over something;
+- an inherited or historical title;
+- Bellweather/local terminology;
+- historical documents and traditions;
+- thematic concepts such as "the keeping";
+- established phrases whose meaning depends on the existing prose;
+- "first keeper" when it is a historical designation.
+
+**KEEPER MUST NOT be treated as automatically equivalent to the supernatural power-system term HOLDER.**
+
+### HOLDER
+
+"Holder" is the formal supernatural/system terminology.
+
+A Holder is a person who possesses, carries, or exercises supernatural authority associated with a Sign, Token, or related supernatural function. Use "Holder" as the formal terminology of the supernatural system in future planning and future manuscript material when that specific meaning is intended.
+
+### IMPORTANT DISTINCTION
+
+**Keeper and Holder are NOT synonyms.**
+
+- A Keeper can exist without being a Holder.
+- A Holder can exist without being called a Keeper.
+- The fact that someone keeps an object does not automatically make them a Holder.
+
+Do NOT retroactively force the formal term "Holder" into Chapters 1–137 merely to make terminology uniform.
+
+### Transition Rule
+
+- Chapters 1–137 retain their existing Keeper terminology unless a future editorial pass explicitly determines that a specific occurrence is genuinely incorrect.
+- Future chapters should use "Holder" when the formal supernatural meaning is intended.
+- Do NOT retroactively normalize all Keeper occurrences.
+- Terminology should evolve naturally through character knowledge and discovery rather than through authorial exposition.
+
+---
+
+## KEEPER/HOLDER OCCURRENCE AUDIT — Chapters 1–137 (2026-09-02)
+
+### Statistics
+
+**Total Keeper-family occurrences in Ch 1–137: 1290**
+
+| Classification | Count | Notes |
+|----------------|-------|-------|
+| A — HISTORICAL / LITERAL | 5 | Innkeeper (Ch90), poor-house keeper (Ch14), "keeper of people's affairs" (Ch2), etc. |
+| B — THEMATIC / TRADITIONAL | 1282 | Includes pre-classified compounds: "the keeping" (647), "first keeper" (173), "keeper's sign" (153), "keeper before Vale" (77), "keeper's bell" (38), "keeper's key" (13), "keeper's house" (9), "keeper's man" (7), plus 147 role-thematic uses ("you are the keeper," "the keeper is not," "keeper of the tally"). |
+| C — SUPERNATURAL ROLE (conflicts with Holder) | **0** | NONE found. The manuscript never uses "keeper" as a formal supernatural power authority. |
+| D — AMBIGUOUS | 2 | Ch 121 (tally enumeration); Ch 137 (title-doubt). Both are safe as written — guardian-thematic, not system-authority. |
+| E — OTHER | 1 | Aurelius's letter salutation "To the keeper who comes after" (Ch 98/99) — in-world document quotation. |
+
+### Key Finding
+
+The manuscript's "keeper" NEVER means a formal supernatural "Holder." The Keeper concept is structurally **anti-Holder**:
+- Ch 82: "The Order was made to watch. The keeper was made to keep... That is the difference."
+- Ch 108: "The first keeper had not been a man of power. He had been a man who had been asked to keep something."
+- The creed: "The count is the thing. And the keeper is not."
+- Ch 122: "He was not a keeper himself. He was the one who kept the record of the keepers."
+
+Renaming "keeper" → "Holder" would invert the novel's central creed. **Zero manuscript changes are required from this audit.**
+
+### Canon Guard
+
+- Keeper ≠ Holder. Ch 121's tally-role and Ch 137's title-doubt are guardian-thematic, not system-authority.
+- "Holder" (the formal system term) does not appear anywhere in Chapters 1–137 (the only substring "holder" is inside "householder"). This is correct for Arc 1.
 
 ---
 

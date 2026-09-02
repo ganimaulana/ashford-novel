@@ -34,6 +34,25 @@ This separation ensures that:
 
 ---
 
+## 2026-09-02: Keeper / Holder Terminology Canon Lock + Occurrence Audit
+
+**Event**: Keeper and Holder established as NON-synonymous terms. Keeper = historical/literal/thematic/in-world term. Holder = formal supernatural-system term. Occurrence audit of Ch 1–137 completed.
+
+**Actions**:
+- Updated `CANON_TERMINOLOGY.md`:
+  - Added KEEPER/HOLDER TERMINOLOGY canon rule (definitions, distinction, transition rule)
+  - Added KEEPER/HOLDER OCCURRENCE AUDIT section (1290 total, classification A-E, zero C occurrences)
+  - Updated Approved Terminology table (Keeper row corrected — no longer flat "Keeper → Holder")
+- No chapter files were modified
+- No prose was changed
+
+**Master Index Entry**:
+> Keeper ≠ Holder. Keeper = historical/literal/thematic in-world term (guardian, "the keeping", "first keeper", "keeper's sign"). Holder = formal supernatural-system term reserved for future arcs. Occurrence audit: 1290 keeper-family occurrences in Ch 1–137 classified as A=5, B=1282, C=0, D=2, E=1. ZERO manuscript changes required.
+
+**Status**: CANON. No manuscript migration has been performed.
+
+---
+
 ## 2026-09-02: Organizational Canon Restructure — Constable vs Order of Severence
 
 **Event**: Corrected the organizational structure. Constable = Leon's organization. Order of Severence = separate secret organization. Hidden Circle (Secret_Organization.md) marked as SUPERSEDED.
