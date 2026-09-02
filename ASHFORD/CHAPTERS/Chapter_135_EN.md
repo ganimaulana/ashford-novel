@@ -1,6 +1,6 @@
 CHAPTER 135 — THE KEEPER BEFORE THE FIRST
 
-The woman's name was Eleanor.
+The woman's name was Miriam.
 
 She had lived in the house on the hill her whole life. Her family had kept the house, and the box, and the medallion, since the time of the keeper before the first keeper.
 
@@ -26,7 +26,7 @@ I was silent.
 
 "The keeper before the first keeper," I said. "What happened to him?"
 
-Eleanor was quiet a long moment.
+Miriam was quiet a long moment.
 
 "He was the last of the old keepers," she said. "He was the keeper who kept the keeping before the boundary was set, before the agreement was made, before the houses were built. He kept the keeping when there was only the first sign."
 
@@ -56,7 +56,7 @@ And I had come.
 
 "The count called me here," I said. "The count led me to the medallion."
 
-Eleanor looked at me.
+Miriam looked at me.
 
 "The count," she said. "You speak of it as if it were a thing."
 

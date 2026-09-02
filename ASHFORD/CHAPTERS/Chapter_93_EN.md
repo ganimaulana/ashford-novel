@@ -6,7 +6,7 @@ I asked at the market. I asked at the inns. I asked at the shops, and the vestry
 
 Most people had not seen her. Some had. The descriptions were always the same: a woman, neither old nor young, who stood very still, and who asked about things that had been lost.
 
-"She came to my shop," said Arthur's — no, the book dealer said. Winifred Calder. "Two years ago. She asked about a book. A journal, she said. She described it exactly."
+"She came to my shop," said Winifred Calder, who kept the bookshop. "Two years ago. She asked about a book. A journal, she said. She described it exactly."
 
 "Did you have it?"
 

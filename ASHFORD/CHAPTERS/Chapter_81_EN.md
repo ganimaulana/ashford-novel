@@ -1,4 +1,4 @@
-CHAPTER 81 — THE PASSING
+CHAPTER 81 — THE YEAR TURNS
 
 The spring came again to Ashford. I had been keeper for a year. I had kept the forgetting. I had kept the remembering. I had written the account. I had kept the houses, the bell, the medallions, the sign, the passage, the chamber, the place beneath. I had kept everything.
 
@@ -18,4 +18,4 @@ I sat at the desk, and I took up my pen, and I wrote:
 
 I am the keeper. I have kept the forgetting. I have kept the remembering. I have written the account. I will pass it on. The keeping is whole.
 
-I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the medallions away. I left them on the desk. I was the keeper. I had written the account. I would pass it on. The keeping would continue. And I sat in the dark, and I was content. The town was asleep. The bell was silent. The house was kept. The account was written. And I was the keeper. That was the whole of it. And that was enough.
+I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the medallions away. I left them on the desk. I was the keeper. I had written the account. I would pass it on. The keeping would continue. And I sat in the dark, and I was content. The keeping had found its rhythm. The account would outlast me. I set the medallions beside the book and left them there. That was all I needed to do.

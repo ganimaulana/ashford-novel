@@ -14,7 +14,7 @@ And then, one evening, she came to my door.
 
 I was at my desk when I heard the knock.
 
-It was not a knock I knew. It was not Theo's, or Marianne's, or Rosamund's. It was a knock I had heard once before, in a lane behind the market.
+It was not a knock I knew. It was not Theo's, or Marianne's, or the clerk's. It was a knock I had heard once before, in a lane behind the market.
 
 I opened the door.
 

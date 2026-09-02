@@ -1,4 +1,4 @@
-CHAPTER 124 — THE PREPARATION
+CHAPTER 124 — THE INSTRUCTION
 
 I began to prepare the account.
 
@@ -22,13 +22,13 @@ I wrote for months.
 
 ---
 
-In the autumn, I went to see Silas Wren.
+In the autumn, I went to see Elias Marr.
 
 He was at his house on the lane past the mill, among the objects without history, and he let me in.
 
 "I am writing a book," I said. "A book for the keeper who comes after me."
 
-Silas was silent a moment.
+Elias was silent a moment.
 
 "The first keeper erased himself," he said. "He left no name, no history, no account of who he was. He left only the tally, and the keeping."
 
@@ -38,7 +38,7 @@ Silas was silent a moment.
 
 I stood in his house.
 
-"And now you are writing for the keeper who comes after," Silas said.
+"And now you are writing for the keeper who comes after," Elias said.
 
 "Yes."
 
@@ -48,7 +48,7 @@ He looked at me a long moment.
 
 I could not yet tell what to say.
 
-"The first keeper kept without understanding," Silas said. "Vale kept without understanding. You have understood — the boundary, the sign, the count, the keepers. And you are leaving that understanding for the one who comes after."
+"The first keeper kept without understanding," Elias said. "Vale kept without understanding. You have understood — the boundary, the sign, the count, the keepers. And you are leaving that understanding for the one who comes after."
 
 I stood among the objects without history.
 
@@ -58,13 +58,13 @@ I stood among the objects without history.
 
 "With the objects," I said. "The objects that were scrubbed of their origin. The keeper who comes after me will need to understand them. I would have them recorded."
 
-Silas was silent a moment. Then he nodded.
+Elias was silent a moment. Then he nodded.
 
 "I will help you," he said. "I have kept the objects for years. I will help you record them, so that the keeper who comes after will know what they are."
 
 I stood in his house, among the objects without history, and I understood that I was not alone in the preparation.
 
-Silas would help me. Ysabel would help me. The society would help me, in its way.
+Elias would help me. Ysabel would help me. The society would help me, in its way.
 
 And the keeper who came after me would not have to begin from nothing.
 
@@ -72,7 +72,7 @@ And the keeper who came after me would not have to begin from nothing.
 
 I wrote for a year.
 
-I wrote the book of the keeping. I recorded the objects with Silas. I walked the boundary with Ysabel. I kept the account, and I prepared the instruction, and I waited.
+I wrote the book of the keeping. I recorded the objects with Elias. I walked the boundary with Ysabel. I kept the account, and I prepared the instruction, and I waited.
 
 I did not know when the keeper who came after me would come. I did not know who he would be.
 

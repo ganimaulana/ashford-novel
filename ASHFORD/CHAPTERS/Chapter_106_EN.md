@@ -10,7 +10,7 @@ I crossed the room. I opened the paper.
 
 *Mr. Ashcroft,*
 
-*There is a book in the possession of a man named Silas Wren, of this town. He keeps it among a collection of objects that have no history — objects from which the origin has been deliberately removed.*
+*There is a book in the possession of a man named Elias Marr, of this town. He keeps it among a collection of objects that have no history — objects from which the origin has been deliberately removed.*
 
 *We have been trying to acquire this book for some time. The owner will not sell it. He will not show it. He will not say where he obtained it.*
 
@@ -22,11 +22,11 @@ There was no signature.
 
 I read the paper twice. Then I folded it and put it in my coat.
 
-Silas Wren.
+Elias Marr.
 
 I had heard the name — from Ysabel, in the weeks after the clock, when she had spoken of a collector who kept objects without history. Coins with no year. Books with no author. Paintings with no signature. She had said: "Someone deliberately erased their origin."
 
-Silas Wren was that collector.
+Elias Marr was that collector.
 
 And he had a book that the society wanted.
 
@@ -40,7 +40,7 @@ I would see it through.
 
 ---
 
-I did not go directly to Silas Wren.
+I did not go directly to Elias Marr.
 
 I had learned, in two years of keeping, that the direct approach was the approach that failed. I went to the market first, and I asked, where I could ask without drawing attention, about a collector who kept objects without history.
 
@@ -56,7 +56,7 @@ The market knew of him. The town knew of him, in the way a town knows of a man w
 
 I thanked them. I went home.
 
-Silas Wren had a house on the lane past the mill. He collected objects without history. He had not left the house in years, that anyone had seen.
+Elias Marr had a house on the lane past the mill. He collected objects without history. He had not left the house in years, that anyone had seen.
 
 And he had a book that the society wanted.
 
@@ -74,7 +74,7 @@ I did not approach it. I watched from the lane, and from the fields beyond, and 
 
 There were none.
 
-The house gave no sign of life. No lamp in the evening. No smoke from the chimney. No movement at the windows. It was as if the house were empty — and yet I knew it was not, because the society had told me Silas Wren kept it, and because the town said he had not left it in years.
+The house gave no sign of life. No lamp in the evening. No smoke from the chimney. No movement at the windows. It was as if the house were empty — and yet I knew it was not, because the society had told me Elias Marr kept it, and because the town said he had not left it in years.
 
 On the seventh day, I saw him.
 
@@ -82,7 +82,7 @@ I was at the mill-yard corner, at dusk, and a light appeared in the upper window
 
 I watched the light go out, and I understood something.
 
-Silas Wren was in the house. He read at night. He carried his light through the rooms, the way a keeper carries a lamp, and then he put it out.
+Elias Marr was in the house. He read at night. He carried his light through the rooms, the way a keeper carries a lamp, and then he put it out.
 
 He was a keeper of sorts.
 
@@ -100,7 +100,7 @@ I went to see Ysabel.
 
 She was at her house near the river, and she let me in, and I told her about the task.
 
-"Silas Wren," she said slowly. "The collector of objects without history."
+"Elias Marr," she said slowly. "The collector of objects without history."
 
 "You know him."
 
@@ -114,7 +114,7 @@ She was at her house near the river, and she let me in, and I told her about the
 
 Ysabel was silent a moment.
 
-"I will tell you what I know," she said. "Silas Wren believes that the objects in his collection have one thing in common: that someone deliberately erased their origin. He believes they were scrubbed — that their histories were removed, on purpose, so that they could not be traced."
+"I will tell you what I know," she said. "Elias Marr believes that the objects in his collection have one thing in common: that someone deliberately erased their origin. He believes they were scrubbed — that their histories were removed, on purpose, so that they could not be traced."
 
 "Why would anyone do that?"
 
@@ -126,7 +126,7 @@ Ysabel was silent a moment.
 
 I stood in her house, in the cold light, and I understood.
 
-The book was not just a book. It was a key — a key to the pattern that Silas Wren had spent years trying to understand.
+The book was not just a book. It was a key — a key to the pattern that Elias Marr had spent years trying to understand.
 
 And the society wanted it.
 
@@ -156,7 +156,7 @@ I pushed it open.
 
 The house was dark, and cold, and filled with objects.
 
-I stood in the doorway, in the dark, and I looked at the room — and I understood that I had entered the collection of Silas Wren.
+I stood in the doorway, in the dark, and I looked at the room — and I understood that I had entered the collection of Elias Marr.
 
 Coins without years. Books without authors. Paintings without signatures. Clocks without mechanisms. Photographs without faces. Everywhere, objects that had been scrubbed of their origin.
 
@@ -166,7 +166,7 @@ I crossed the room. I reached for the book.
 
 And a voice spoke from the dark.
 
-"I wondered when you would come," said Silas Wren.
+"I wondered when you would come," said Elias Marr.
 
 I turned.
 
@@ -184,7 +184,7 @@ He looked at me a long moment. Then he smiled — a small smile, tired and knowi
 
 "Then you are the man I have been waiting for," he said. "Sit down. I will show you what is in it."
 
-I stood in the dark room, among the objects without history, and I understood that I had not broken into Silas Wren's house.
+I stood in the dark room, among the objects without history, and I understood that I had not broken into Elias Marr's house.
 
 I had walked into a room that had been waiting for me.
 

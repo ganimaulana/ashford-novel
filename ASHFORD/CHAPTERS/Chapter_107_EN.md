@@ -1,6 +1,6 @@
 CHAPTER 107 — THE BOOK OF ORIGINS
 
-Silas Wren lit the lamp.
+Elias Marr lit the lamp.
 
 It was the same lamp I had seen from the mill-yard corner — a small lamp, old, with a glass that had been mended once. He set it on the table, beside the book, and the light fell on the pages, and I saw what the book was.
 
@@ -8,7 +8,7 @@ It was a ledger, bound in black leather, its spine cracked with age. The pages w
 
 The same hand.
 
-I looked at Silas.
+I looked at Elias.
 
 "You know this hand," he said.
 
@@ -20,7 +20,7 @@ I looked at the book. The hand of the man who had erased the origins.
 
 "It is the hand of Aurelius Ashcroft," I said.
 
-Silas was silent a moment.
+Elias was silent a moment.
 
 "No," he said. "It is the hand of the man who came before him."
 
@@ -28,23 +28,23 @@ I stood very still.
 
 "The man who came before Aurelius Ashcroft," I said.
 
-"The keeper before the keeper," Silas said. "The man who built the first sign, and who carved it into the stone, and who set the boundary, and who made the first agreement. The man whose name is not in any record."
+"The keeper before the keeper," Elias said. "The man who built the first sign, and who carved it into the stone, and who set the boundary, and who made the first agreement. The man whose name is not in any record."
 
 I looked at the book. The hand of the man who had come before Aurelius.
 
-"His name is not known," Silas said. "He was the first keeper. He built Bellweather House. He set the boundary. He carved the first sign. And then he erased his own history — not because he was afraid, but because he wanted the keeping to be about the thing, and not about the man."
+"His name is not known," Elias said. "He was the first keeper. He built Bellweather House. He set the boundary. He carved the first sign. And then he erased his own history — not because he was afraid, but because he wanted the keeping to be about the thing, and not about the man."
 
 I stood in the lamplight, among the objects without history, and I understood.
 
-The objects in Silas Wren's collection had not been scrubbed by someone else. They had been scrubbed by the first keeper — the man who had come before Aurelius, who had built the first sign, and who had erased his own history so that the keeping would be about the thing, and not about the man.
+The objects in Elias Marr's collection had not been scrubbed by someone else. They had been scrubbed by the first keeper — the man who had come before Aurelius, who had built the first sign, and who had erased his own history so that the keeping would be about the thing, and not about the man.
 
-"This book," Silas said, "is the record of what he erased. It is the account of the origins — the origins of the objects, the origins of the signs, the origins of the keeping. It is the only record that remains."
+"This book," Elias said, "is the record of what he erased. It is the account of the origins — the origins of the objects, the origins of the signs, the origins of the keeping. It is the only record that remains."
 
 I looked at the book.
 
 "And you have been keeping it," I said.
 
-"I have been keeping it," Silas said. "I have been keeping it for years, waiting for the keeper who would understand it."
+"I have been keeping it," Elias said. "I have been keeping it for years, waiting for the keeper who would understand it."
 
 I looked at him.
 
@@ -60,9 +60,9 @@ I stood in the room, with the book before me, and I understood.
 
 The society had not sent me to steal the book. They had sent me to find it — to find the man who was holding it, and to receive it from him.
 
-Because they had known that Silas Wren would not sell it, and would not show it, and would not give it to anyone — except the keeper.
+Because they had known that Elias Marr would not sell it, and would not show it, and would not give it to anyone — except the keeper.
 
-I looked at Silas.
+I looked at Elias.
 
 "You have been holding it for me," I said.
 
