@@ -124,8 +124,5 @@ The first sign had warmed at the second. The keeper's sign kept the maker's sign
 
 I could not tell for certain what I was keeping. But I had carried the first sign all my life, and it had answered me at the common, and I understood that the keeping had not begun with Vale, and had not begun with me. It had begun with the maker's sign, and it had never stopped being kept.
 
-And the house â€” the house that appeared and disappeared at the edge of the common â€” was part of it. I had no way of knowing how. But I would find out.
-
-
-The count of thirteen signs was moving forward, and I was part of it.
+And the house — the house that appeared and disappeared at the edge of the common — was part of it. I had no way of knowing how. But I would find out. I sat in the dark, with the object warm on the desk, and I understood that I was not at the end of the mystery. I was at the beginning of it.
 

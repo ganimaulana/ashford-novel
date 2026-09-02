@@ -90,4 +90,4 @@ Whatever was behind the door would wait. And whoever had stood at the mechanism 
 
 When he did, he would find the door closed. He would find the one who holds the gear. He would find me — standing on the side of a door I had not yet decided to understand.
 
-But I had begun to understand one thing: the hour 00:00 was not an accident. It was a threshold. And the bell, I knew, would not ring for just anyone.
+The clock in the house had stopped at 00:00. I had written the time in my notebook and I had not understood it, and I did not understand it now. But I had begun to suspect that it was not an accident — that it was a time that meant something, a time the house kept the way it kept the door, and that I would learn what it meant only when I had earned it. The bell in the tower had not rung since Vale died. I could not say whether it would ring again, or for whom, or what it would mean if it did. Those were questions I had not earned answers to yet — and the gear in my pocket was a poor payment for an answer I had not yet learned to ask.

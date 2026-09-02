@@ -174,7 +174,7 @@ And the stranger who had come to Ashford, and the Order, and Crowe, and Eleanor 
 
 The count was not running out. The count was the memory. And I had been so busy counting that I had not remembered.
 
-I I sat in the stillness until the lamp burned down, and I did not light it again, and I did not write in my notebook.
+I sat in the stillness until the lamp burned down, and I did not light it again, and I did not write in my notebook.
 
 I had nothing to add. I had only remembered.
 

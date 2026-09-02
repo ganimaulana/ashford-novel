@@ -1,6 +1,6 @@
 ﻿CHAPTER 110 — THE OLDER KEEPING
 
-I spent the autumn trying to understand the tally.
+I spent the early spring trying to understand the tally.
 
 I read the book of the first keeper again, and again, and again. I copied the page of marks into my notebook. I counted them by ones, by fives, by rows. I counted them forward and backward. The count was always the same.
 
@@ -78,13 +78,19 @@ Daniel was silent a moment.
 
 "And you will show it to me?"
 
-He looked at me a long moment.
+He looked at me a long moment. I had seen Daniel before, in the years of my keeping — a quiet young man at the Academy who kept the ledgers and the papers and never asked for anything. He had the look of a man who had been waiting for something without knowing what it was.
 
 "You have asked for the oldest things," he said. "And you have kept what you have been given. I will show it to you."
 
 He went to the shelf at the back of the room, where the oldest books were kept, and he took down a book — a book bound in leather so old that it had gone the colour of the dust, its spine held together with thread.
 
 He set it on the table.
+
+"My father was clerk before me in his own way," he said. "He kept the vestry for forty years. He told me, once, that if a keeper ever came to the Academy asking for the oldest things, I was to show him this book and ask no questions. I did not believe a keeper would ever come. I have kept the Academy for six years, and no one has asked."
+
+He looked at me.
+
+"I did not think you would be the one to ask."
 
 "The record of the boundary," he said. "As it was first set."
 
@@ -176,7 +182,5 @@ But I knew that I would find out.
 
 The hunt had led me to the tally.
 
-And the tally was leading me somewhere older—older than the keepers, older than the boundary, older than the name of Ashford itself. I did not yet know what lay at the end of that trail, but I knew the trail was not new. It had been marked before I was born.
-
-The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+And the tally was leading me somewhere older—older than the keepers, older than the boundary, older than the name of Ashford itself. I did not yet know what lay at the end of that trail, but I knew the trail was not new. It had been marked before I was born. The same hand had set the boundary and made the tally, and the same hand had written its count into the Academy's oldest book, and I did not know why a single man would make the same count in two books — unless he was leaving a record of something that would need to be checked, by the keepers who came after him, against a thing that must not be allowed to change.
 

@@ -2,37 +2,41 @@
 
 A week passed, and the bell did not ring.
 
-I went to the tower each day. I climbed the stairs, I stood in the bell chamber, I looked at the bell — the keeper's bell, the first sign on its rim — and I waited. It did not ring.
+I went to the tower each day. I climbed the stairs, I stood in the bell chamber, I looked at the bell — the keeper's bell, the first sign on its rim — and I waited. It did not ring. The silence hung in the stone the way dust hangs in a room that has been closed for a long time. I had prepared. I had written the account. I had told Crowe where it was. I had accepted that I might go into the passage and not come back. But the bell did not ring.
 
-I did not know whether it would ring. I had prepared. I had written the account. I had told Crowe where it was. I had accepted that I might go into the passage and not come back. But the bell did not ring.
+The bell chamber was the same each day. The grey light fell through the narrow windows, and the dust turned in it, and the bell hung from its beam, dark and still, and the first sign on its rim was a small mark in the iron, worn smooth by years I could not count. I stood before it, and I held the medallions, and I looked at the sign on the bell and the sign on the metal in my hand, and the two first signs were the same, and neither of them spoke.
 
-I did not know whether that meant I had been wrong — whether the bell would not ring for me, whether it was not my time, whether I was meant to wait longer. The bell's silence was not a certainty, only a silence.
+I did not know whether the silence meant I had been wrong — whether the bell would not ring for me, whether it was not my time, whether I was meant to wait longer. The bell's silence was not a certainty, only a silence. I had thought, when I took the keeper's key, that the bell would speak when it was ready. I had not understood that the waiting was part of the keeping — that a bell that rings on command is a bell that has been tamed, and the keeper's bell would ring only when it chose.
+
+I went down the stairs each day and locked the door behind me, and I walked home through the same streets, and the town was the same town, and the account waited in the drawer, and the medallions lay on the desk, and the days passed. The bell had rung once for the keeper before Vale. I did not know whether it would ring for me. I did not know whether the bell was the kind of thing that rang only once, or whether it would ring for each keeper, or whether it would ring only when the passage was ready to receive whoever stood at its head. I had no way of knowing. I could only wait.
 
 On the eighth day, I felt the warmth.
 
-I was at my desk, writing in the red book, when I felt it — the warmth of the medallions, against my chest, both of them, at once.
+I was at my desk, writing in the red book, when I felt it — the warmth of the medallions, against my chest, both of them, at once. It was not the gradual warmth of a thing carried close. It was the warmth of a thing that had been touched from outside, a warmth that had risen in the metal as if something beneath the town had stirred and the medallions had felt it first.
 
-They were not always warm. They had been warm since I had returned the first sign to Bellweather House, but the warmth had faded over the days. I had begun to think it was the warmth of my own body, held in the metal. It was not. It was stronger now — the warmth of a thing that had responded to something.
+I set down my pen. I took out the medallions. They were warm. Both of them. I had not felt them both warm at the same time before — not like this, not together, not strongly. The metal was warm in a way that was not my own heat. It was a heat that had come up from below, through the floor of the room, through the stone of the town, and had found the metal and entered it. I held them in my hands, and the warmth was steady, and I knew.
 
-I set down my pen. I took out the medallions. They were warm. Both of them. I had not felt them both warm at the same time before — not like this, not together, not strongly.
+I stood. I looked at the window. The light had failed. The town was settling into its evening stillness. The lamps were being lit along the High Street, one by one, and I could hear the lamplighter's pole clicking against the glass, and the ordinary sounds of the town going about its ordinary evening. I felt the warmth of the medallions in my hands, and I knew that the bell was about to ring.
 
-I stood. I looked at the window. The light had failed. The town was settling into its evening stillness. And I felt the warmth, and I knew. I did not know how I knew. But I knew.
+I did not know how I knew. There was no sound. There was no sign. The warmth was the sign. The medallions had felt the bell before it had spoken, had felt it moving through the earth toward the moment of its ringing, and they had warmed to tell me that the time was here.
 
 I put the medallions in my coat. I took the gear. I took the keeper's key. I went out. I walked through the dark streets of Ashford, past the shuttered houses, past the silent shops, past the church with its tower dark against the sky. I did not go to the church. I did not go to the common. I went to the end of Bellweather Lane.
 
 I walked the length of the lane, past Vale's house, to the place where the lane narrowed and turned and ran out into the fields. Bellweather House stood where it had always stood. Empty. Dark. Forgotten. And the medallions were warm against my chest.
 
-I stood before the house. I did not open the door. I stood in the dark, in the lane, with the warm medallions against my chest, and I waited.
+I stood before the house. I did not open the door. I stood in the dark, in the lane, with the warm medallions against my chest, and I waited. The lane was empty. The fields were dark. The sky above the town held no light. I stood there, and I felt the warmth of the medallions, and I knew that whatever was coming was coming because I had come to this house, to this lane, to this place.
 
-And then I heard it. The bell. It rang once. The keeper's bell. It rang once, in the dark, from the tower of the church — a single note, low and long, that I felt more than heard. It rang once. And then it was silent.
+And then I heard it. The bell. It rang once. The keeper's bell. It rang once, in the dark, from the tower of the church — a single note, low and long, that I felt more than heard. It was not a sound that travelled through the air. It travelled through the ground, through the stone of the lane, through the walls of the house at the end of the lane, and I felt it in my chest, in the bones of my feet, in the metal of the medallions against my skin. The note rose and held and faded, and the dark returned, and the bell was silent again.
 
 I stood in the lane, before Bellweather House, and I felt the note fade into the earth, into the stones, into the walls of the house at the end of the lane. The bell had rung. The Thursday of the bell. It had rung once, as it had rung for the keeper before Vale. And I knew what I had to do.
 
 I did not go to the church. I did not go to the common. I went to the house at the end of the lane. I opened the door. I crossed the bare room. I knelt, and I lifted the edge of the front mat, and I pulled the iron ring. The trapdoor was not there.
 
-I had expected it to be there — the trapdoor in the common house, the passage, the door. But I was not in the common house. I was in Bellweather House, the kept house, and the floor was bare, and there was no trapdoor, and there was no passage. I stood in the bare room. The bell had rung. I had come to Bellweather House. And there was no trapdoor.
+I had expected it to be there — the trapdoor in the common house, the passage, the door. But I was not in the common house. I was in Bellweather House, the kept house, and the floor was bare, and there was no trapdoor, and there was no passage. The candle I had lit cast a small circle of light on the floorboards, and the floorboards were solid, and the ring was not in them.
 
-I heard a sound. Not the bell. Not the knocking. A sound from the far wall — from the wall where I had found the box, the second medallion, the wall of the windowless room. I crossed the room. I entered the windowless room. The box was gone. The table was gone. The room was bare.
+I stood in the bare room. The bell had rung. I had come to Bellweather House. And there was no trapdoor.
+
+I heard a sound. Not the bell. Not the knocking. A sound from the far wall — from the wall where I had found the box, the second medallion, the wall of the windowless room. It was not a loud sound. It was the sound of something settling, or of air moving in a space that had been closed and had just opened. I crossed the room. I entered the windowless room. The box was gone. The table was gone. The room was bare.
 
 I stood in the empty room, in the dark, and I did not understand. The bell had rung. I had come to Bellweather House. The box was gone. The medallions were warm. I stood there, and then I felt it — the warmth of the medallions, stronger, pulling, toward the back wall of the windowless room.
 
@@ -46,4 +50,8 @@ I stood in the windowless room, in the dark, with the warm medallions against my
 
 I did not know what I would find. But I knew that I had to go down. The bell had rung once, for the keeper before Vale. It had rung for me. And I was the keeper.
 
-I lit a candle. I went down. The passage led to the heart of the count — the thirteenth threshold, where the bell would call at 00:00.
+I stood at the top of the ladder a long moment. The warmth of the medallions was steady against my chest, and the dark rose from the passage like breath, and I understood that I was doing what the keeper before Vale had done — answering the bell, going down into the passage, trusting that the way would show itself or would not, and that either way I had chosen to go.
+
+I lit a candle. I went down.
+
+The passage led deeper than the passage beneath the common, and the signs on its walls were not the keeper's signs — they were the first signs, the circle and the three lines and the dot, carved at intervals, marking a way that had been cut before the town had a name. I walked, and the medallions grew warmer as I went, and the air grew colder, and the smell of the earth rose around me, and I understood that I was walking toward the place where the keeping had its centre — the place where the bell's single note had been born, and where the first sign waited for the hand that had been carrying it all my life without knowing what it carried.

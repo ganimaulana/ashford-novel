@@ -108,6 +108,5 @@ And I wondered, sitting in the dark, whether the house that kept the first sign 
 
 I could not yet tell what was inside. I could not say what it was keeping. But I knew that I would enter it. And I knew that when I did, I would understand the whole of what had been kept.
 
-
-The count of thirteen signs was moving forward, and I was part of it.
+I sat in the dark, with the object on the desk before me, and I thought about the two houses — the one that appeared and the one that was kept — and about the two signs — the keeper's and the first — and about the wall of signs in my dream, and the door that was not a door, and the account I had begun to write. I had found the second house. I had not entered it. But I knew that I would. And I knew that the house at the end of Bellweather Lane was not waiting for me to open it. It was waiting for me to remember it.
 

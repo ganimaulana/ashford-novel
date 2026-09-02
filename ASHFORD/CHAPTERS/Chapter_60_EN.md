@@ -160,7 +160,7 @@ But I knew that I had chosen. And I knew that the choice had changed everything.
 
 The Order was not behind me anymore. I was alone. And the sign — the keeper's sign, the line and three strokes, the sign that was older than the circle — was the only thing I could keep.
 
-I I sat in the stillness until the hours grew late. I did not write in my notebook. There was nothing to add. I had chosen. And the choosing was the whole of it.
+I sat in the stillness until the hours grew late. I did not write in my notebook. There was nothing to add. I had chosen. And the choosing was the whole of it.
 
 The door was still closed. The gear was still mine. The sign was still kept.
 

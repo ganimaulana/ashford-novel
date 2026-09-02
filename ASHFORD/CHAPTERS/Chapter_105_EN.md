@@ -6,7 +6,7 @@ I did not go to the lending library. I did not go to the house on the edge of As
 
 A working relationship with a society that had no name.
 
-I had been a keeper for two years. I had kept the agreement. I had kept the account. I had kept the boundary, and the door, and the bell, and the houses, and the medallions, and the gear.
+I had been a keeper for two years. I had kept the agreement. I had kept the account. I had kept the boundary, the door, the bell, the houses, the medallions, the gear.
 
 I had been a hunter since the clock in the market — a finder of things that were meant to stay hidden.
 
@@ -96,6 +96,24 @@ I was silent.
 
 "Take the offer," she said. "Not because you need them. But because you have been alone too long, and because the work is the same, and because a keeper who keeps among others is not less a keeper — he is more."
 
+She looked at me, and there was something in her face I had not seen before — not certainty, but the edge of it. "I hunted for twenty years," she said. "I never found what I was hunting for. You found it in a market stall, in a clock you bought for five pence. I do not know whether that means you are lucky or chosen. But I know that I would have given years of my life for someone to have offered me a place among people who understood. Do not waste it because you are afraid of belonging to something."
+
+---
+
+On the sixth day, I went to look at the reading room.
+
+I did not go up the stair. I stood across the street, in the failing light, and I looked at the window above the chandler's shop — the window of the room where I had read the three accounts, where I had understood that the answer could not be known from the evidence.
+
+The window was dark. The room was empty. It had been locked for seventeen years, and I had been inside it once, and the letter had not told me why.
+
+I stood there a long time, and I watched the window, and I understood that I was doing what I had done all my life — standing outside a door, weighing the cost of the door, deciding whether the weight of what lay beyond was mine to carry.
+
+The room had not decided for me. The old man had not decided for me. Ysabel had not decided for me.
+
+Only I could decide whether I would take the key.
+
+And I understood, standing in the cold, that I had already decided — that I had decided the moment I had walked out of the house on the edge of Ashford and felt the offer settle in me like a stone that had found its place. I had only been waiting to admit it.
+
 ---
 
 I went to the house on the edge of Ashford on the seventh day.
@@ -122,6 +140,10 @@ I looked at the key.
 
 "The room is our meeting place," he said. "We have not used it in seventeen years. We have not had a use for it. Now we do."
 
+I looked at the key.
+
+He did not say who had used the room before. He did not say who had held the key, or why it had been locked for seventeen years, or what the last man to use it had done there. I did not ask. I was learning, slowly, that the society gave out information the way the keeping did — one piece at a time, only when it was earned, never all at once.
+
 I took the key.
 
 I stood in the room, by the fire, with the key in my hand, and I understood that I had crossed a threshold.
@@ -142,4 +164,10 @@ I walked home through the dark streets, with the key in my pocket, and I sat at 
 
 *I will keep the keeping, as I have kept it.*
 
-*And I will help them keep what they keep, when the work is the same. I have not become one of them; I have only become less alone in the keeping—and I sensed that the thirteen signs were about to reveal themselves, one by one, as the count approached 00:00.*
+*And I will help them keep what they keep, when the work is the same.*
+
+I closed the red book. I sat in the dark, with the key in my pocket, and I understood that I had crossed a threshold — not merely by taking the key, but by learning that I could be known by others and still be myself. The keeping was still mine. The account was still mine. Nothing had been taken from me, and nothing had been given to me that I did not choose to take.
+
+But I was not alone anymore.
+
+And I did not yet know whether that was a comfort or a new kind of risk.

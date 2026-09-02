@@ -62,7 +62,7 @@ I dreamed of the object, and of the house at the edge of the common, and of the 
 
 I dreamed that I was standing at the door, with the object in my hand, and the door was not a door â€” it was a wall, and the wall was covered with the first sign, carved into the stone, one after another, the circle, the three lines, the dot, repeated, repeated, repeated, until the wall was nothing but the sign.
 
-I woke in the dark. I did not light the lamp. I I sat in the stillness, and I thought about the dream, and I understood that the door was not a door. It was a wall. A wall of signs. A wall of the first sign, carved into the stone, one after another, waiting for the keeper to remember.
+I woke in the dark. I did not light the lamp. I sat in the stillness, and I thought about the dream, and I understood that the door was not a door. It was a wall. A wall of signs. A wall of the first sign, carved into the stone, one after another, waiting for the keeper to remember.
 
 I could not say what I had dreamed. I could not tell for certain whether it was a dream, or a memory, or something the object had shown me.
 
@@ -86,7 +86,7 @@ I could not tell for certain what I would write next. But I knew that the book w
 
 I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the object away. I left it on the desk.
 
-And I I remained in the dark, and I thought about the wall of signs in my dream, and about the knocking from the other side of the door, and about the first sign, and the keeper's sign, and the Order's sign, and about everything that had been carried and kept and forgotten.
+And I remained in the dark, and I thought about the wall of signs in my dream, and about the knocking from the other side of the door, and about the first sign, and the keeper's sign, and the Order's sign, and about everything that had been carried and kept and forgotten.
 
 I had begun to write in the red book. I had begun to keep the account. And I understood, sitting in the dark, that the account was the whole of what I was meant to keep.
 
@@ -94,11 +94,8 @@ Not the door. Not the gear. Not the sign. The account. The memory. The record of
 
 I had been keeper for a month. I had been keeping the wrong thing. I had been keeping the door closed. I had been keeping the gear. I had been keeping the sign. I had not been keeping the account.
 
-And the account â€” the red book â€” was what Vale had left me, because he had not kept it himself.
+And the account — the red book — was what Vale had left me, because he had not kept it himself.
 
-I had begun. I would continue. And the door â€” the door that was not a door â€” would wait. Because the account was the thing that was kept. And I was the keeper of it.
-
-
-The count of thirteen signs was moving forward, and I was part of it.
+I had begun. I would continue. And the door — the door that was not a door — would wait. Because the account was the thing that was kept. And I was the keeper of it.
 
 

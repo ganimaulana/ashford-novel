@@ -1,8 +1,8 @@
 ﻿CHAPTER 113 â€” THE OBJECT AND THE COUNT
 
-I had not carried the object in months.
+I had not carried the object in months — not the second one, the one from Bellweather House, but the one I had carried all my life, the one that had come to me in the wooden box before I could remember. The one that had warmed at the keeper's sign in the first year, and at the first sign on the wall of the common house, and at the door beneath the mill.
 
-It lay in the drawer, with the gear, and the red book, and the agreement, and the key to the reading room. I had not worn it since the winter, when I had carried it to the chamber beneath Bellweather House and set it in the first sign on the floor.
+It lay in the drawer, with the gear, and the red book, and the agreement, and the key to the reading room. I had not worn it since the winter of my first year, when I had carried it to the chamber beneath Bellweather House and set it in the first sign on the floor.
 
 I took it out now.
 
@@ -142,20 +142,43 @@ I walked home through the streets, with the object warm against my chest, and I 
 
 I closed the red book.
 
-I sat in the dark.
+I sat in the dark, with the warm medallion against my chest, and I understood that the count was not only a number in a book. It was a thing that responded — a thing that knew the first sign when it was brought near, and that answered the setting of the object in the chamber floor with a warmth that rose through the stone. The count was alive in the way a thing is alive that has been kept for a long time by a hand that does not forget.
 
-I was the keeper. I was a hunter.
+I did not know who had set the first sign on the chamber floor. I did not know who had carved the first sign into every stone of the wall. I did not know who had added the hairline mark to the fourth stone, or whether the mark on the fourth stone and the mark at the centre of the chamber floor were the same kind of mark, added by the same hand.
 
-And I was part of the count.
+But I understood that I was not the only one keeping the count.
 
-I could not tell for certain what it was counting.
+There were others — the man who had bought the empty box at the auction, the stranger who had come to Ashford in my first year and told me the count was running out, whoever had added the mark to the fourth stone. I did not know who they were, or how many of them there were, or whether they were watchers or keepers or something else. But I knew that they were there, and that the count was a thing more than one person was watching, and that the warmth of the object against my chest was not the first time the count had responded to a keeper's hand.
 
-But I would learn.
+I did not know what the count was counting.
 
-The hunt had led me to the object.
+But I knew that I was not alone in the keeping — and that the count was not waiting for me alone to finish it.
 
-And the object was leading me to the count.
+---
 
+I went to see Ysabel the following evening.
 
-The count of thirteen signs moved forward, and the hour of the bell drew nearer.
+I set the object on her table. It was warm from the walk, warm against my chest, warm in my hand as I set it down. "It warms at every stone," I said. "I walked the boundary, and it warmed at every stone, and it warmed in the chamber when I set it in the first sign on the floor."
+
+Ysabel looked at it. She did not touch it.
+
+"Show me," she said.
+
+I took it up and held it out to her. She reached for it — and I saw her hesitate, the way a person hesitates before touching a thing they are not certain they should touch. She took it in her hand.
+
+It lay in her palm, cold.
+
+She held it a long moment. It did not warm. She looked at it, and then she looked at me, and I saw something pass across her face — not envy, but a kind of recognition, the recognition of a woman who had spent twenty years hunting and had never once been answered.
+
+"It does not warm for me," she said.
+
+"No."
+
+"It does not warm for anyone I have ever known," she said. "I have held the second clock. I have held the key. I have held things that carried the first sign, and none of them ever warmed in my hand." She set the object back on the table between us. "It is answering you."
+
+I did not know what to say. I had thought the object warmed at the signs — that it was the place, not the hand, that called the warmth. But Ysabel held it at the same table, in the same house, and it stayed cold.
+
+"It has answered you since the first year," she said. "The keeper's sign in the earth. The wall of the common house. The door beneath the mill. And now every stone of the wall." She looked at me. "It is not the count that is calling you, Mr. Ashcroft. It is the count that knows you are here. And I do not know whether that is a comfort, or a warning."
+
+I took the object from the table. It warmed in my hand again, the way it had warmed for years, and I understood that I had been given something that answered no one else — and that whatever the count was counting, it was counting it through me, and I did not yet know what it would do when the counting was done.
 

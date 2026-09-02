@@ -74,13 +74,12 @@ And I sat in the dark, and I thought about the bell, and about the first sign on
 
 The bell was the third sign. The keeper's bell. The bell that does not ring. I could not tell for certain what it was for. But I knew that it had been waiting. And I knew that I would find out.
 
-I I sat in the stillness, with the key on the desk, and I thought about the bell. It had not rung in living memory. It had hung in the tower, silent, waiting. And I had stood in the bell chamber, and I had looked at the first sign on its rim, and I had not rung it.
+I sat in the stillness, with the key on the desk, and I thought about the bell. It had not rung in living memory. It had hung in the tower, silent, waiting. And I had stood in the bell chamber, and I had looked at the first sign on its rim, and I had not rung it.
 
 I had no way of knowing whether I had chosen rightly. I only knew that the bell had been waiting, and that I had been brought to it. What that meant, I could not yet say. I was the keeper of the first sign. I was the keeper of the keeper's sign. I was the keeper of the bell. And I was the keeper of the keeping.
 
-I could not say what the bell was for. But I would find out. And when I did, I would know whether to ring it. The bell was the call signal, and the call would come from the place beneath—and the call would come at 00:00.
+I could not say what the bell was for. But I would find out. And when I did, I would know whether to ring it. The bell had rung once in living memory, and the keeper who had answered it had not come back. I did not know whether it would ring again, or what would answer if it did. I only knew that it was not a bell for the town, and not a bell for the church. It was a bell for the keeper — and I was the keeper. When the time came, whatever time that was, I would hear it. And I would decide.
 
-
-The count of thirteen signs was moving forward, and I was part of it.
+I sat in the dark, with the key on the desk, and I understood that I was not finished with the tower. I had climbed it once, and I would climb it again, and the bell would still be there, silent, patient, waiting — the keeper's bell, and I was the keeper of it.
 
 

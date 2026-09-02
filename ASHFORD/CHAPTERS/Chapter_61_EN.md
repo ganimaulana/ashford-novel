@@ -154,8 +154,5 @@ I sat in the dark, and I looked at the two signs, and I thought about the maker'
 
 The mystery had not begun with the spring. It had begun before I was born. And I had been carrying the first sign all my life, waiting for the day I would learn what it was for.
 
-That day, I began to suspect, had come—or was still coming. I had no way of knowing. The first sign was only the beginning; there were twelve more marks waiting to be understood—each one a threshold in the count that would end when the bell called at 00:00.
-
-
-The count of thirteen signs was moving forward, and I was part of it.
+That day, I began to suspect, had come—or was still coming. I had no way of knowing. The first sign was only the beginning; there were twelve more marks waiting to be understood. I did not yet know what they were, or what they would ask of me, or whether the bell would call when the count was ready. I only knew that I was part of something that had begun before I was born, and that I would not stop walking toward it.
 
