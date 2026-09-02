@@ -25,3 +25,7 @@ I closed the red book. I put it in the drawer. I left the medallions on the desk
 I sat in the dark, and I was content. The town was asleep. The bell was silent. The house was kept. The account was written. And I was the keeper. That was the whole of it. And it was enough — until I remembered the door, and the count, and the hour that had not yet come — the hour when the thirteen signs would converge and the bell would call at 00:00.
 
 The account was full. But the story was not. And the count was still counting. I sat in the dark, and I understood that the keeping would not end when the account was full. It would end only when the bell rang at 00:00, and the count was complete, and the thirteen signs were gathered. And I was still the keeper — the keeper of the account, the keeper of the forgetting, the keeper of the remembering, and the keeper of the count that had not yet reached its end.
+
+But I also understood that the account was not the thing that was kept. The account was the thing that kept. The account kept the forgetting from swallowing the remembering. The account kept the town from forgetting that there was a door, and a bell, and a place beneath. The account was not a record of the keeping. It was the keeping itself — the keeping made visible, made readable, made passable from keeper to keeper. And when I passed it on, I would not be passing a book. I would be passing the keeping.
+
+I sat in the dark, and I was content. The account was full. The keeping was whole. And I was the keeper.
