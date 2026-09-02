@@ -34,6 +34,25 @@ This separation ensures that:
 
 ---
 
+## 2026-09-02: Leon Ashcroft Visual Generation Package V2
+
+**Event**: Added production-ready dual-mode generation package for Leon Ashcroft (Anime Portrait, Anime Full Body, Realism Portrait, Realism Full Body) to `CHARACTER_IMAGE_PROMPTS.md`.
+
+**Actions**:
+- Added `# LEON ASHCROFT — V2 GENERATION PACKAGE` section to `04_CHARACTERS/CHARACTER_IMAGE_PROMPTS.md`
+- Contains: Canon Identity Lock, Shared Visual Identity, facial construction, 4 production prompts, 3 negative constraint sets, generation notes, identity consistency checklist, approval checklist
+- Design principle: MEMORABLE, NOT EXTRAVAGANT (replaces any ordinary/forgettable framing)
+- Hazel eyes, dark brown slightly untidy hair, frock/travelling coat, notebook anchor — consistent across all four prompts
+- No canon changed; no PROPOSED detail became CONFIRMED; no images generated
+- No manuscript files modified
+
+**Master Index Entry**:
+> LEON ASHCROFT V2 generation package added. Four prompts (Anime/Realism × Portrait/Full Body) share one Identity Lock. Memorable, not extravagant. Hazel eyes + dark brown hair + frock/travelling coat + notebook consistent. Model-agnostic.
+
+**Status**: V2 — DRAFT / PROPOSED. No images generated.
+
+---
+
 ## 2026-09-02: Dual Character Visual Modes (ANIME + REALISM)
 
 **Event**: Revised the character image-generation system to support two official visual modes — Anime and Realism — for every character.

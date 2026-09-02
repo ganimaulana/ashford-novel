@@ -335,3 +335,165 @@ no exaggerated frail caricature
 
 **Status:** V2 — DRAFT / PROPOSED (not APPROVED)
 **Last Updated:** 2026-09-02
+
+---
+
+# LEON ASHCROFT — V2 GENERATION PACKAGE
+
+**Design principle:** MEMORABLE, NOT EXTRAVAGANT.
+
+Leon is a believable young man of 1816 who happens to have a visually memorable presence. He is NOT ordinary, forgettable, or generic. His appeal comes from coherent character design, not decoration.
+
+## 1. Canon Identity Lock
+
+| Element | Value | Status |
+|---------|-------|--------|
+| Age | Mid-20s | CONFIRMED |
+| Sex | Male | CONFIRMED |
+| Eye colour | Hazel | PROPOSED (fixed — do not drift to green/amber/gold) |
+| Hair | Dark brown, naturally slightly untidy | PROPOSED |
+| Complexion | Fair, lightly weathered | PROPOSED |
+| Build | Slender, elegant | PROPOSED |
+| Height impression | Middling height (5'7"–5'9") | PROPOSED |
+| Distinctive feature | Ink-marked fingertips | PROPOSED |
+| Recurring prop | Small notebook + pencil | CONFIRMED (notebook habit) |
+| Clothing identity | Dark frock/travelling coat, layered waistcoat, cravat | PROPOSED |
+| Era | 1816 Britain | CONFIRMED |
+
+## 2. Shared Visual Identity (used verbatim in all four prompts)
+
+> A youthful adult English man of about 25 in the year 1816. Distinctive, refined, naturally attractive face — not rugged, not childish, not excessively beautiful. Slender, elegant build of middling height; composed, upright posture. Fair, lightly weathered skin. Dark brown hair, naturally slightly untidy, cut in a period-plausible style. Hazel eyes that are intelligent, observant, and quietly alert. A small notebook is always with him. He wears a dark wool frock or travelling coat over a layered waistcoat, a plain white period shirt, a neatly tied cravat, and period trousers with leather shoes. The overall impression: restrained elegance, understated mystery, quiet intelligence.
+
+### Facial Construction
+
+- **Face shape:** refined oval with a light taper; distinctive but not sharp
+- **Jawline:** clean and composed, moderate strength — neither weak nor heavy
+- **Cheek structure:** defined but soft; youthful planes
+- **Brow structure:** straight, thoughtful brow; no furrow at rest
+- **Nose:** straight, moderate, characterful without being prominent
+- **Mouth:** composed, well-shaped; holds thought rather than expression
+- **Eye shape:** alert, slightly deep-set; hazel with visible light and shade
+- **Eyelid structure:** natural, defined but not heavy
+- **Hairline:** natural, slightly uneven — not fashion-perfect
+- **Overall impression:** a memorable, intelligent face one notices and remembers
+
+## 3. Anime Portrait Prompt
+
+> Sophisticated mature historical seinen anime portrait of a distinctive young English man, about 25, year 1816. Waist-up framing. Refined anime facial construction with realistic human proportions: a distinctive oval face, clean composed jawline, defined youthful cheekbones, straight thoughtful brow, straight characterful nose, composed mouth. Fair lightly weathered skin rendered naturally. Dark brown hair, naturally slightly untidy, cut in a period-plausible 1816 style — subtle natural movement, no spikes. Hazel eyes, detailed but NOT oversized, intelligent and observant, quietly alert with controlled curiosity; natural eyelid detail. He wears a dark wool frock coat over a layered buff waistcoat, a plain white period shirt, and a neatly tied white cravat; the collar and cravat are carefully composed. Restrained expression — composed, thoughtful, watchful. Cinematic composition, sophisticated lighting with soft natural window light, muted historical colour palette (dark wool, buff, white), restrained Gothic atmosphere, subtle painterly / cel-shaded rendering with refined linework and detailed fabric texture. Mature, elegant, historically grounded. The character is unmistakably Leon Ashcroft: the notebook just visible in the frame, ink-marked fingertips.
+
+## 4. Anime Full Body Prompt
+
+> Sophisticated mature historical seinen anime full-body reference of a distinctive young English man, about 25, year 1816. Full figure visible from head to feet, three-quarter view, neutral standing pose. Refined anime facial construction with realistic proportions: distinctive oval face, clean composed jawline, hazel intelligent eyes (not oversized), dark brown slightly untidy period hair. Slender, elegant build of middling height; composed upright posture, weight evenly set, natural hand placement. He wears a dark wool frock/travelling coat (single-breasted, period cut, tails or skirted front appropriate to 1816), a layered buff waistcoat, a plain white period shirt, a neatly tied cravat, dark wool period trousers, and period leather shoes — the full outfit forms a coherent, elegant 1816 silhouette. A small notebook is held naturally in one hand. Muted historical palette, cinematic composition, sophisticated lighting, restrained Gothic atmosphere, painterly / cel-shaded rendering with refined linework and detailed period fabric texture. Full body visible — no cropped feet, no distorted hands, no excessive coat movement.
+
+## 5. Realism Portrait Prompt
+
+> Photorealistic historical portrait of a distinctive young English man, about 25, year 1816. Waist-up framing. Realistic facial anatomy: a distinctive oval face, clean composed jawline, defined youthful cheekbones, straight thoughtful brow, straight characterful nose, composed mouth. Fair skin with natural texture and subtle weathering. Dark brown hair, naturally slightly untidy, physically plausible and period-correct for 1816. Hazel eyes — realistic iris texture, intelligent, observant, quietly alert with a hint of controlled curiosity; natural eyelid and brow structure. He wears a dark wool frock coat over a layered buff waistcoat, a plain white period shirt, and a neatly tied white cravat; collar and cravat carefully composed. Restrained, composed expression. Cinematic but restrained lighting, soft natural window light, subtle Gothic atmosphere, muted historical palette. Realistic fabric texture for wool and linen, natural skin texture, no beauty filters. The character is unmistakably Leon Ashcroft: the notebook edge visible, ink-marked fingertips.
+
+## 6. Realism Full Body Prompt
+
+> Photorealistic historical full-body reference of a distinctive young English man, about 25, year 1816. Full figure visible head to feet, three-quarter view, neutral standing pose. Realistic facial anatomy: distinctive oval face, clean composed jawline, hazel intelligent eyes with realistic iris detail, dark brown slightly untidy period hair with natural texture. Slender, elegant build of middling height; composed upright posture, weight evenly set, natural hand placement. He wears a dark wool frock/travelling coat (single-breasted, period cut, appropriate to 1816), a layered buff waistcoat, a plain white period shirt, a neatly tied cravat, dark wool period trousers, and period leather shoes — the full outfit forms a coherent, elegant 1816 silhouette. A small notebook held naturally in one hand. Cinematic but restrained lighting, soft natural light, muted historical palette, subtle Gothic atmosphere. Realistic wool and linen fabric texture, natural skin and hair texture, restrained composition. Full body visible — no cropped feet, no distorted hands, no excessive coat movement.
+
+## 7. Shared Negative Constraints
+
+```
+no modern clothing
+no modern hairstyle
+no modern accessories
+no fantasy armor
+no steampunk
+no occult symbols
+no supernatural glowing eyes
+no magical effects
+no modern objects
+no post-1816 Victorian fashion
+no superhero aesthetic
+no generic fantasy protagonist
+no vampire aesthetic
+no magician aesthetic
+no excessive gothic ornamentation
+no aristocratic prince styling
+no fantasy adventurer outfit
+no excessive jewelry
+no elaborate coat decoration
+no unnecessary scars
+no oversized props
+```
+
+## 8. Anime Negative Constraints
+
+```
+no chibi
+no childish appearance
+no oversized eyes
+no exaggerated proportions
+no bishounen exaggeration
+no neon colours
+no excessive visual effects
+no fantasy anime armor
+no magical aura
+no modern anime fashion
+no generic fantasy anime prince
+no modern undercut or fade hairstyle
+no anime spikes
+no overly long fantasy hair
+```
+
+## 9. Realism Negative Constraints
+
+```
+no plastic skin
+no fashion-model appearance
+no modern photography styling
+no beauty-filter skin
+no modern haircut
+no modern tailoring
+no superhero physique
+no fantasy realism
+no excessive cinematic effects
+no glossy airbrushed skin
+no glamour pose
+```
+
+## 10. Generation Notes
+
+- All four prompts share the same Shared Visual Identity block; only mode, composition, and lighting change.
+- Anime mode: mature seinen-style historical mystery anime — sophisticated, restrained, muted palette, painterly/cel-shaded rendering.
+- Realism mode: photorealistic 1816 historical rendering — natural texture, cinematic portrait photography influence.
+- The notebook is the recurring anchor; place it naturally (held, tucked, or edge-visible). Do not make it oversized or supernatural.
+- Ink-marked fingertips are a subtle recurring detail in all four versions.
+- Keep hazel eyes consistent — never green, amber, gold, glowing, or supernatural.
+- Keep dark brown hair consistent — the exact same style translated between rendering modes.
+- Clothing is the same frock/travelling coat + layered waistcoat + cravat in all four versions; only rendering differs.
+- Model-agnostic: do not reference any specific artist, model, or existing character.
+
+## 11. Identity Consistency Checklist
+
+- [ ] Same approximate age (25) in all four
+- [ ] Same facial structure (oval, clean jawline, defined cheeks, straight nose)
+- [ ] Same hair (dark brown, slightly untidy, period-plausible)
+- [ ] Same eyes (hazel, intelligent, observant — never supernatural)
+- [ ] Same build (slender, elegant, middling height)
+- [ ] Same clothing (dark frock/travelling coat, buff waistcoat, white shirt, cravat, period trousers, leather shoes)
+- [ ] Same notebook present
+- [ ] Same ink-marked fingertips detail
+- [ ] Same silhouette recognizable at a distance
+- [ ] 1816 historical constraint respected in all four
+
+## 12. Approval Checklist
+
+- [ ] The four images look like the same person
+- [ ] Hazel eyes consistent across all four
+- [ ] Dark brown hair consistent across all four
+- [ ] Frock/travelling coat consistent across all four
+- [ ] Notebook present as the recurring anchor
+- [ ] Leon is distinctive but not extravagant
+- [ ] No forbidden modern / post-1816 / fantasy elements
+- [ ] No supernatural effects introduced
+- [ ] No PROPOSED detail became CONFIRMED canon
+- [ ] Anime version is mature seinen (not childish fantasy)
+- [ ] Realism version is photorealistic (not plain or generic)
+
+---
+
+**Status:** V2 — LEON ASHCROFT GENERATION PACKAGE — DRAFT / PROPOSED (not APPROVED)
+**Last Updated:** 2026-09-02
