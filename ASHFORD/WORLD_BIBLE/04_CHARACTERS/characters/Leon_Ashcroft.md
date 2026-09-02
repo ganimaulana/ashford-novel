@@ -71,12 +71,11 @@
 - He has found a locked door and an old key
 - He has received anonymous envelopes
 
-### Layer 3 (Circle Member — Known to Circle Only)
-- The Hidden Circle exists and is active in Ashford
-- He has been initiated as "Leon Ashcroft"
-- Circle members are observing and testing him
-- He has access to Circle archives and correspondents
-- He is being positioned as an heir to Aurelius's legacy
+### Layer 3 (Constable — Public/Operational Identity)
+- Constable is Leon's active organization (see `ORGANIZATIONAL_AFFILIATION_LEDGER.md`)
+- He operates within the watch/constabulary network of Ashford
+- His primary affiliation is CONSTABLE, not the Order of Severence
+- The "Hidden Circle" organizational concept is SUPERSEDED (2026-09-02). Leon is NOT a member of any "Hidden Circle" or "secret organization" as a primary affiliation. The nameless preservation society (Ch 100–108) is a working relationship, not membership.
 
 ### Layer 4 (Aurelius Legacy — Known to Inner Circle Only)
 - NOT YET REACHED

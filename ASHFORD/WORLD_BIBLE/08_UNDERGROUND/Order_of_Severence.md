@@ -78,7 +78,7 @@ Per Phase 3H D7: The medical/Power-User framing is superseded. The Order's curre
 
 | Character | Title | Role | File |
 |-----------|-------|------|------|
-| Thomas Vale | The Old Constable | Former constable, keeper of the Agreement (until Ch 47) | `../04_CHARACTERS/characters/Thomas_Vale.md` |
+| Thomas Vale | The Old Constable | Former constable, keeper of the Agreement (until Ch 47). **Affiliation NOTE (2026-09-02): the manuscript does not establish Vale as an Order member. Per `ORGANIZATIONAL_AFFILIATION_LEDGER.md`, his Order affiliation is UNRESOLVED. He is listed here only as a name/existence roster entry, not as confirmed membership.** | `../04_CHARACTERS/characters/Thomas_Vale.md` |
 | Silas Crowe | The Field Man | Order member; appears Ch 41, Ch 44, Ch 47 | `../04_CHARACTERS/characters/Silas_Crowe.md` |
 | Eleanor Shaw | The Archivist | Order member; appears Ch 41 | `../04_CHARACTERS/characters/Eleanor_Shaw.md` |
 | Nathaniel Graves | The Purist | Order member; appears Ch 44 (the "Graves" of Ch 44) | `../04_CHARACTERS/characters/Nathaniel_Graves.md` |

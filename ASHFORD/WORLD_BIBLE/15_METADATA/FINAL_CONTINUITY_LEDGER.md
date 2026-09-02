@@ -47,7 +47,7 @@
 | **Thomas Vale** | Keeper before Leon, died Ch47 | Guarded 50 years; left no account |
 | **Daniel Wren** | Clerk's son, Academy keeper | Next keeper of Ashford (Ch125) |
 | **Ysabel Nott** | Dark-coat woman, 20-year hunter, ally | Works with Leon; helps decipher count |
-| **Crowe** | Ambiguous; not the Order; kept the account offer | Shadows the keeping |
+| **Crowe** | Order of Severence insider/participant; denies formal membership label; kept the account offer | Shadows the keeping; denies formal Order membership label while acting as Order insider |
 | **Elias Marr** | Collector of erased objects; kept book of origins | Gave book to Leon |
 | **The stranger** | Claimed count running out; recanted Ch84 | Watcher; leaves |
 | **Keeper of the tally** | Man in dark coat, adds marks (Ch121) | Impersonal record; neither ally nor enemy |
