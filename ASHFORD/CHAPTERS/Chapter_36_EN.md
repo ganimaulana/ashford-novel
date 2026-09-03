@@ -1042,17 +1042,15 @@ Then back at the object.
 
 I picked it up.
 
-It was warm.
+It was cold.
 
-Not hot.
+Not unusually cold.
 
-Not enough to burn.
-
-Simply warmer than the room.
+Only as cold as a piece of metal that had spent a night on the floor of an unheated house.
 
 I held it for several seconds.
 
-The warmth remained.
+It took the heat of my hand at the rate iron takes it, and gave nothing back that iron does not give.
 
 I placed it on the floor.
 
@@ -1060,19 +1058,23 @@ Then I waited.
 
 After a minute, I touched it again.
 
-The warmth was gone.
+Cold.
 
 I picked it up.
 
-It returned.
+It warmed again, as slowly as before.
 
 I put it down.
 
-Gone.
+Cold.
 
 I repeated the test.
 
 The same result.
+
+Nothing that a hand and a cold room could not account for.
+
+I wrote that down, because it was the only part of the object that behaved.
 
 I turned it over in the candlelight.
 
@@ -1262,7 +1264,7 @@ Observed: an object I had not previously noticed was found beneath the clock.
 
 It was not the missing piece.
 
-Its temperature changed according to whether I held it.
+In every test I could devise, it behaved as a cold piece of iron behaves.
 
 It carries a sentence cut around its face. Unresolved: why.
 

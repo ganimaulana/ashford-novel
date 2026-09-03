@@ -188,7 +188,7 @@ The door beneath the mill and the door beneath the common are the same door, see
 
 I did not open it.
 
-I do not know what is behind it. But I know now that the gear is the key to the door from the inside, and that the keeper's sign is the key to the door from the outside, and that I have been carrying the gear for weeks and have not understood what it was for.
+I do not know what is behind it. I do not know what the gear is to the door — I called it the lock two nights ago, and tonight I stood on the inside and thought it might be something else again, and the truth is that I have been carrying it for weeks and have not understood what it is for. The keeper's sign stands above the depression on both sides. Whatever opens the door, the sign is part of it. Whether the gear is part of it, I cannot yet say.
 
 I have been keeper for a month. I have been keeping the door closed. It is possible that I have been standing on the outside of a door that opens from both sides. It is possible that I am the key. But it is equally possible that I have been misunderstanding the door, and the key, and myself. I do not yet know.
 

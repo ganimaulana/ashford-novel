@@ -13,7 +13,8 @@
 - True names: NOT necessarily known.
 - Do NOT treat Gear as generic magical equipment.
 - Gear is a specialized Artifact. Do NOT treat Gear as Token, as ERC, or as a legacy "ARC artifact". An ERC RECORD may document a Gear; the Gear itself remains an Artifact.
-- The confirmed manuscript Gear (Ch 36, Mill Lane clock; lock/marker; passed to Daniel Ch 125) is separate established canon; its relationship to this proposed nine-component structure is an OPEN QUESTION.
+- The confirmed manuscript Gear (Ch 36, Mill Lane clock; classification unresolved in canon; passed to Daniel Ch 129) is separate established canon; its relationship to this proposed nine-component structure is an OPEN QUESTION.
+- **HARD RULE (2026-09-03): no Gear has a supernatural temperature response. THE GEAR DOES NOT BECOME WARM. Warmth is the Token/Object signature exclusively. Field 24 of every profile must remain "none" or UNKNOWN — never a warmth response.**
 - Visual identities must be differentiated (see `DOOR_GEAR_SYSTEM.md` §XXIII).
 - Inscriptions have layered meaning (see §XXIV).
 - Numerical in-world labels ("Gear One"...) are forbidden; identifiers below are author-side only.
@@ -102,7 +103,7 @@
 20–36. UNKNOWN
 37–40. UNKNOWN
 41. Long-term narrative significance: PROPOSED — detection and tension
-42. MUST NOT constraints: manifestations (weight, pressure, temperature, occupancy awareness, distortion) remain ambiguous; must not become omniscient detection
+42. MUST NOT constraints: manifestations (weight, pressure, occupancy awareness, distortion) remain ambiguous; must not become omniscient detection; must not manifest as warmth in the Gear itself
 
 ---
 

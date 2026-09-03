@@ -35,10 +35,10 @@ MANUSCRIPT CANON (Ch 1–141)
 
 ### Experimentation subsystem — key findings (see subsystem document)
 
-- The **first serious Gear experiment is Ch40**, not Ch57: proximity warmth (repeatable), contact, one tremor through the stone beneath Leon's hand, and **no opening**.
+- The **first serious Gear experiment is Ch40**, not Ch57: contact with the depression, one tremor through the stone beneath Leon's hand, and **no opening**. The Gear itself gives no signal of any kind before, during, or after — the response is in the ground.
 - **Ch49 escalates it:** rotation under applied pressure produces clicks and **one inch** of movement, cold air, and a faint unclassifiable sound — which Leon then deliberately closes. Door interaction stages 1–4 are therefore already CONFIRMED in canon; Arc 2+ escalation must move toward **perception**, not further physical opening.
 - **Ch57 and Ch63 are refusal scenes**, not experiments.
-- **Open manuscript conflict (author review):** `Chapter_66_EN.md:53` claims the Gear "had never warmed," contradicting Ch38/Ch40/Ch47/Ch49. Recorded in the subsystem document; **not silently resolved.**
+- **Former manuscript conflict — RESOLVED (2026-09-03):** the Ch66 statement that the Gear never warmed is now the governing canon. The Gear-warmth passages in Ch36/Ch38/Ch40/Ch47/Ch49/Ch51 were revised out of the manuscript. **THE GEAR DOES NOT BECOME WARM.**
 
 ---
 
@@ -48,7 +48,7 @@ MANUSCRIPT CANON (Ch 1–141)
 - **One Gear** exists in canon (Ch36, Mill Lane clock). It is circular, dark iron, worn by use, and bears the keeper's sign (a circle crossed by a short line).
 - **PHYSICAL SCALE — CONFIRMED DESIGN DECISION (2026-09-03):** diameter approximately **14–15 cm** — broad as the flat of an adult hand, thicker than a plate, substantial in mass. The Gear is **not** pocket-sized, and is not a coin, medallion, or Token-like object. The earlier manuscript phrasing "small enough to rest comfortably between two fingers" (Ch36) has been revised accordingly.
 - **CARRYING LOGIC — CONFIRMED:** Leon carries the Gear **wrapped in a square of cloth, inside his coat** (established Ch38, used consistently Ch40/Ch47/Ch49/Ch52/Ch53). It is not carried loose in a trouser pocket. The cloth wrapping also links to Vale's box, where the Gear lay in a folded cloth for fifty years (Ch49).
-- The Gear's temperature behaviour is canon: ordinarily **cold**; it **warms** near fractured boundary stones and the door depression (Ch38/Ch40/Ch47/Ch49).
+- **TEMPERATURE — CONFIRMED (revised 2026-09-03):** the Gear has **no supernatural temperature response**. It is ordinary cold iron in every test Leon devises (Ch36, Ch37, Ch38, Ch43, Ch47, Ch49, Ch51). It does not warm near fractured boundary stones, at the door depression, or anywhere else. Warmth is the **Token/Object** signature exclusively. The Gear's only meaningful anomalous response is mechanical and belongs to the separate underground mechanism (tremor Ch40; rotation/clicks/one-inch opening Ch49) — and whether the mechanism responded to the Gear, recognized it, or merely required its shape is UNKNOWN.
 - **Reconciliation (Ch49):** Vale's box is empty of the Gear; the gear Leon carried and the gear previously kept in the box are **the same Gear**. The box held it for 50 years before Vale set it where Leon would find it.
 - **CUSTODY MODEL — CONFIRMED (2026-09-03).** Vale did **not** hand Leon the Gear as keeper equipment. Vale entrusted Leon with **one personal box** — his own private property, not a parish or Order archive — containing folded papers, a bundle of letters, a parish map with a corner missing, two stoppered bottles labelled in an unknown hand, a brass button, his wife's ring, and the empty cloth in which the Gear had lain. Vale's instruction is custody, not investiture: "These are mine. Not the parish's. Not the Order's. Mine." / "There is no one to leave them to." / "Keep the box." He states plainly that some contents are nothing, that some he never understood in fifty years, and that he cannot say which is which. He does **not** answer "Why me?"
   - The **Gear reached Leon separately** — he found it beneath the stopped clock at the mill (Ch36), before Vale's box was given. Vale had placed it "where a thing must be found and not given."
@@ -59,7 +59,8 @@ MANUSCRIPT CANON (Ch 1–141)
   - **VALE BACKGROUND (CONFIRMED 2026-09-03):** Vale was a veteran, then a Constable, then a senior figure in Constable intelligence and counter-intelligence, investigating internal compromise — including indications that Order members or associates had infiltrated parts of the Constable. He was demoted and transferred to Ashford under an innocuous official reason. This reframes the Gear's concealment: **PROPOSED** — he moved it out of anywhere searchable because people connected to a compromised Constable and/or the Order were looking for it. **UNKNOWN** — whether he intended Leon specifically to find it. Intended reader question: *"Did Vale hide the Gear so Leon would find it, or so nobody else would?"* Do not answer. Full profile: `../04_CHARACTERS/characters/Thomas_Vale.md`.
   - **Constable interest in Vale's effects is deliberately double-read:** institutional recovery of records, or one person's wish to learn what Vale retained. Do not resolve.
 - The Gear fits a depression in the stone door beneath the mill and is associated with the lock/mechanism (Ch57).
-- The Gear is **not** the key; the keeper's sign is the key (Ch57). The Gear is the lock/marker.
+- The Gear is **not** the key, is never "the keeper's key," and is not a universal key. Leon's classifications of it are explicitly provisional in canon (lock → marker → "I could not call it anything yet": Ch56/Ch57/Ch60/Ch66). The keeper's sign is associated with the key function (Ch56).
+- **KEEPER'S DOOR SEPARATION — CONFIRMED (Ch78):** the Keeper's Door (the third door, beneath Bellweather House) has **no depression for the Gear and no lock**; it answers the Tokens. Keeper's Seal ≠ Gear. Keeper's Door ≠ Gear mechanism. The Keeper's Door does not require the Gear.
 - The Door is beneath the mill / chamber area (not at Leon's residence).
 - The Gear is passed to **Daniel** in Ch129 — wrapped, placed in Daniel's bag, with Leon telling only part of the truth and explicitly transferring **custody rather than ownership** ("I did not tell him it was his. I told him he would carry it."). Daniel does **not** understand its function. Leon's stated reason is the continuation of the keeping; his withheld reason is that the Gear has been asked after by a stranger and that he will not always be in that room.
 - **INSCRIPTION — CONFIRMED FROM Ch36.** The confirmed Gear bears a cryptic inscription from its first appearance.
@@ -95,7 +96,7 @@ MANUSCRIPT CANON (Ch 1–141)
 1. **Before Ch36:** The Gear was kept in Vale's box for ~50 years.
 2. **Ch36:** Leon finds the Gear beneath the Mill Lane clock.
 3. **Ch49:** Vale's box is empty. Leon learns the Gear from the box and his Gear are one and the same. The Gear had been placed where he would find it.
-4. **Ch57:** The Gear fits the door's depression; it is the lock; the keeper's sign is the key. A second door/depression in the underground passage, also shaped for the Gear.
+4. **Ch57:** The Gear fits the door's depression; Leon declines to classify it (key / lock / something else — "I cannot yet say"). A second door/depression in the underground passage, also shaped for the Gear.
 5. **Ch129:** Leon passes the Gear to Daniel, along with the book of the keeping and the Agreement.
 6. **Current state:** Daniel holds the confirmed Gear. Leon does not possess it.
 

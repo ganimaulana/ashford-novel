@@ -50,7 +50,7 @@ I stood. I put the object back in my coat. I walked home through the dark street
 
 I took out the object, and I took out the gear, and I set them side by side, and I looked at them.
 
-The object had warmed at the keeper's sign. The gear had never warmed â€” not in the passage, not at the door, not at the eastern marker.
+The object had answered the keeper's sign. The gear had never answered anything â€” not in the passage, not at the door, not at the eastern marker. Once, at the mill, the stone beneath it had moved. That was not the gear answering. That was something under the door that had felt the shape of it in the socket and turned.
 
 The object was different. The object was the first sign. And it had responded to the second.
 
@@ -102,7 +102,7 @@ The first sign â€” the maker's â€” the circle, the three lines, the do
 
 I had carried the first all my life. I had been given the third by Vale. I had learned the second from the wall, the passage, the map.
 
-And the first had warmed at the second. I had no way of knowing what the third would do. I could not say whether the gear would respond to anything, or whether it was only a key to a door that was not a door, or whether it had a purpose I had not yet understood.
+And the first had warmed at the second. I had no way of knowing what the third would do. The gear had never once answered a sign, or a stone, or a door, in all the months I had carried it and tested it and written down the nothing it gave me. Only the mill had answered, and it had answered in the ground, and I could not say whether the gear had caused that or merely been present for it. I could not call it a key on the strength of a single tremor in the stone. I could not call it anything yet.
 
 I opened my notebook, and I wrote:
 
@@ -111,6 +111,8 @@ The object warmed at the keeper's sign. The clerk says the maker's sign responds
 I have carried the first sign all my life. I have been given the third. I have learned the second.
 
 Three signs. One sign, divided.
+
+The gear answers none of them. It never has. Whatever answered at the mill answered from under the stone, and I do not know what to call that.
 
 I do not know what the third is for. But I know that the first responds to the second. And I know that the second is the keeper's. And I am the keeper.
 

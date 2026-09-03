@@ -34,35 +34,35 @@ I waited.
 
 Still nothing.
 
-Then the gear in my coat became warm.
+Then I remembered the gear in my coat.
 
 I stopped.
 
 For several seconds I did not move.
 
-The warmth was faint.
+I had carried it to these stones a dozen times since the winter.
 
-Not enough to burn.
+It had never once done anything.
 
-Not enough even to be uncomfortable.
+That was not a reason to leave it at home.
 
-But unmistakable.
+It was a reason to be exact about the record.
 
 I took the gear out.
 
-It was warmer than it had been when I left home.
+It was as cold as the morning.
 
 I held it several inches from the stone.
 
-The warmth remained.
+Nothing.
 
 I moved farther away.
 
-It cooled.
+Nothing.
 
 I returned to the stone.
 
-It warmed again.
+Nothing.
 
 I repeated the test three times.
 
@@ -70,15 +70,19 @@ The result was the same.
 
 That was interesting.
 
+Not the gear. The stone.
+
+The stone had changed, in dry weather, without a mark on it — and the one object I owned that might have explained it did not answer the change at all.
+
 It was not proof.
 
 I wrote:
 
-Gear becomes warmer near fractured stone.
+Eastern marker fractured. Gear no different at the stone than in my coat.
 
 Then, beneath it:
 
-Possible correlation. Cause unknown.
+The stone is changing without it. Cause unknown.
 
 I put the gear away.
 
@@ -108,25 +112,21 @@ I measured the fracture.
 
 Then I took out the gear.
 
-It warmed.
+Nothing.
 
-Not immediately.
+I had not expected anything.
 
-That mattered.
+I ran the test properly regardless.
 
-The first time, I had wondered whether the warmth might have been caused by my own body heat.
-
-So I placed the gear on the ground.
+I placed the gear on the ground beside the crack.
 
 I stepped away.
 
 Waited.
 
-The metal cooled.
-
 I returned to the stone.
 
-The warmth returned.
+Nothing had changed in it.
 
 I repeated the experiment.
 
@@ -134,17 +134,17 @@ Again.
 
 And again.
 
-The result remained uncertain, but it was no longer something I could dismiss as imagination.
+The result was consistent, and the consistency was the finding: the second fracture had appeared the same way the first had, and the gear had no more to say about this stone than about the last one.
 
 I wrote:
 
-Second fractured marker produces similar response.
+Second fractured marker. Gear: no response, as before.
 
 I stared at the sentence.
 
 Then added:
 
-Relationship appears repeatable.
+The stones are doing this without it.
 
 I almost wrote connected.
 
@@ -340,15 +340,15 @@ The gear was in my coat.
 
 I did not take it out.
 
-I wanted to know whether I was expecting the reaction now.
+I wanted to know whether I had begun to expect something from it.
 
 Expectation was dangerous.
 
 It could make a person interpret everything as confirmation.
 
-So I walked away from the markers.
+So I stood with my hand on it, inside my coat, and walked away from the markers.
 
-The gear cooled.
+Nothing.
 
 I stopped.
 
@@ -356,15 +356,17 @@ Waited.
 
 Then returned.
 
-The gear warmed.
+Nothing.
 
 I repeated the process twice.
 
-The result remained consistent.
+The result remained consistent, and it was the same result as at the first stone, and at the second, and in my own room in January.
 
-I could no longer dismiss the correlation.
+I could no longer pretend I was testing anything.
 
-But I still could not explain it.
+I was carrying a cold piece of iron between two stones that were cracking on their own.
+
+That was the finding. It was not the one I had wanted.
 
 I returned home and compared the notes.
 
@@ -430,27 +432,25 @@ No tool marks.
 
 I took out the gear.
 
-It warmed almost immediately.
+I did it out of habit by now, and I knew it.
 
 I held it beside the fracture.
 
-The metal became noticeably warmer.
+Nothing.
 
 I moved it away.
 
-It cooled.
+Nothing.
 
 I brought it back.
 
-Warm again.
+Nothing.
 
 I put the gear on the ground.
 
 The stone remained silent.
 
-The gear remained warm for several seconds.
-
-Then it cooled.
+The gear lay in the grass beside it, dark and heavy and entirely inert.
 
 I waited.
 
@@ -458,15 +458,17 @@ Nothing.
 
 I picked it up.
 
-Warmth returned.
+Nothing.
 
 I stared at it.
 
-For the first time, I wondered whether the object was reacting to the stones or whether the stones were somehow reacting to it.
+For the first time, I wondered whether I had been holding the wrong question all spring — whether the gear had nothing to do with the stones at all, and I had put it into every observation simply because it was the strangest thing I owned.
 
-I wrote both possibilities down.
+I wrote that possibility down.
 
-Then added a third.
+Then the second: that the stones were changing for a reason that had no object in it anywhere.
+
+Then a third.
 
 Unknown common cause.
 
@@ -550,7 +552,9 @@ Until I had evidence strong enough to survive another explanation, I would descr
 
 The stone had cracked.
 
-The gear had warmed.
+Three stones had cracked.
+
+The gear had done nothing.
 
 The house had appeared.
 

@@ -312,9 +312,9 @@ No fracture.
 
 No movement.
 
-No warmth from the gear.
+Nothing to record.
 
-I took it out anyway.
+I took the gear out anyway.
 
 Cold.
 
@@ -329,6 +329,8 @@ Still nothing.
 I put it away.
 
 The result should have reassured me.
+
+It was the result I had written down at every stone since May.
 
 Instead, I wondered how long that would remain true.
 

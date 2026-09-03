@@ -245,6 +245,11 @@ COMPONENT
 
 Gear is ONE type of Component. Gear is NOT the entire supernatural system, the only method of accessing The Door, or the central object of every supernatural event. Key remains a separate concept. Do not invent additional Components at this stage.
 
+**GEAR HARD RULES (2026-09-03):**
+- The Gear has **no established supernatural temperature response. THE GEAR DOES NOT BECOME WARM.** Warmth (as a supernatural signature) belongs to the Token/Object system exclusively.
+- The Gear is never "the keeper's key," never a universal key, and does not detect signs. Its only meaningful response is **mechanical**, tied to the separate underground mechanism beneath the mill (tremor Ch40; rotation/clicks/one-inch opening Ch49). Whether that mechanism responded *to* the Gear, *recognized* it, or merely required its shape is **UNKNOWN — protected**.
+- **Keeper's Seal ≠ Gear. Keeper's Door ≠ Gear mechanism.** The Keeper's Door (Ch78) has no lock and no Gear depression and does not require the Gear; it answers the Tokens.
+
 ---
 
 ## 00:00 MARKER
