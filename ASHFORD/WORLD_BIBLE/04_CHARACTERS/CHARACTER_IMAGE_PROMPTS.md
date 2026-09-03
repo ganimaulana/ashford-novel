@@ -1141,11 +1141,11 @@ no police-uniform styling
 
 # THOMAS VALE — V2 GENERATION PACKAGE
 
-**Design principle:** MEMORABLE THROUGH QUIET GRAVITY.
+**Design principle:** RADICALLY DIFFERENT FROM GRAVES.
 
-Vale is the fifth and final note in the Ashford visual set — the oldest, the last keeper of the Agreement, the dying man who keeps a secret. Where Leon is presence, Crowe is stillness, Graves is deliberation, and Calloway is groundedness, Vale is QUIET GRAVITY: a shrunken, mended old man whose only vigorous element is his eyes — unexpectedly clear and steady when they focus — and whose folded packet of papers is never far from his hand. He is withholding, not venerable; a man ending a long keeping, not a wise ancient.
+Vale is the fifth and final note in the Ashford visual set — the oldest, the last keeper of the Agreement, the dying man who keeps a secret. He is SPECTACULARLY distinct from Graves: where Graves is a standing scholar with wire spectacles, a dated dark coat, and a carefully tied cravat, Vale is a SEATED, SHRUNKEN figure in a MENDED BROWN COAT, NO SPECTACLES, NO CRAVAT, with a blanket across his knees, a walking stick, and curled fingers. His only vigorous element is his eyes — unexpectedly clear and steady. His folded packet of papers is never far from his hand.
 
-He must NOT look like: a stereotypical ancient occult wizard, a fantasy elder with robes and staff, a sinister old man, a "wise mentor" archetype, a figure of supernatural power. His unresolved affiliation (constable? keeper? Order?) must NEVER be resolved by costume.
+He must NOT look like: Nathaniel Graves, a stereotypical ancient occult wizard, a fantasy elder with robes and staff, a sinister old man, a "wise mentor" archetype, a figure of supernatural power. His unresolved affiliation (constable? keeper? Order?) must NEVER be resolved by costume.
 
 ## 1. Canon Identity Lock
 
@@ -1153,52 +1153,59 @@ He must NOT look like: a stereotypical ancient occult wizard, a fantasy elder wi
 |---------|-------|--------|
 | Age | Very old (80s+) | PROPOSED |
 | Sex | Male | CONFIRMED |
-| Eye colour | Pale; unexpectedly clear and steady when he focuses | PROPOSED |
-| Hair | White, scant | PROPOSED |
-| Complexion | Pale, papery | PROPOSED |
-| Build | Thin, shrunken; would have been taller | PROPOSED |
-| Height impression | Would have been tall; now bent and diminished | PROPOSED |
-| Distinctive feature | Vigorous clear eyes; folded packet within reach | PROPOSED |
-| Recurring prop | Folded packet (the Agreement) | CONFIRMED (Agreement kept close) |
-| Clothing identity | Old mended brown coat, loose collar, blanket/shawl when seated, walking stick from habit | PROPOSED |
+| Eye colour | Pale; unexpectedly clear and steady — NO spectacles | PROPOSED |
+| Hair | White, scant, wispy | PROPOSED |
+| Complexion | Pale, papery, translucent | PROPOSED |
+| Build | Shrunken, bent; would have been taller | PROPOSED |
+| Height impression | Would have been tall; now diminished and seated | PROPOSED |
+| Distinctive feature | Clear steady eyes; folded packet within reach; NO spectacles, NO cravat | PROPOSED |
+| Recurring prop | Folded packet (the Agreement) | CONFIRMED |
+| Clothing identity | Old mended BROWN coat (NOT dark), loose collar (NO cravat), blanket/shawl, walking stick | PROPOSED |
 | Era | 1816 Britain | CONFIRMED |
 
 ## 2. Shared Visual Identity (used verbatim in all four prompts)
 
-> A very old English man, 80 or beyond, year 1816. Thin, shrunken figure that would once have been taller; gaunt, deeply lined face. White, scant hair. Pale, papery skin. Eyes pale yet unexpectedly clear and steady when they focus — the only vigorous thing about him. He wears an old, much-mended brown coat and a shirt with a collar too large for his neck; a shawl or blanket about his shoulders when seated; a walking stick carried from habit. A folded packet of papers is always within reach. The overall impression: a withholding, guarded dying man who keeps a secret — not a wise ancient, not sinister.
+> A very old English man, 80 or beyond, year 1816. SEATED — not standing. A shrunken, bent figure that would once have been taller; gaunt, deeply lined face. White, wispy, scant hair — no hat. Pale, papery, translucent skin. NO spectacles — his eyes are pale yet unexpectedly clear and steady when they focus, the only vigorous thing about him. He wears an old, much-mended BROWN coat (NOT dark, NOT fitted) and a shirt with a collar too large for his neck — NO cravat, no tie. A shawl or blanket about his shoulders. A worn walking stick leans against his chair. Knotted, curling fingers rest on the folded packet of papers (the Agreement) that is always within reach. The overall impression: a withholding, guarded dying man who keeps a secret — not a scholar, not a wise ancient, not sinister. The opposite of Graves in every visual dimension.
 
 ### Facial Construction
 
-- **Face shape:** gaunt, deeply lined, weathered by age
-- **Jawline:** prominent, showing through thin skin
-- **Cheek structure:** cheekbones prominent under papery skin
-- **Brow structure:** deeply lined; heavy lids
-- **Nose:** prominent, age-worn
+- **Face shape:** gaunt, deeply lined, weathered by age — not long and narrow like Graves
+- **Jawline:** prominent, showing through translucent skin
+- **Cheek structure:** sharp cheekbones under papery skin
+- **Brow structure:** deeply lined; heavy, hooded lids
+- **Nose:** prominent, age-worn, slightly hooked with age
 - **Mouth:** thin, sunken, held carefully
-- **Eye shape:** pale, creased at the corners; clear and steady when focusing
+- **Eye shape:** pale, creased at the corners; clear and steady when focusing — WITHOUT spectacles
 - **Eyelid structure:** heavy, hooded, deeply lined
-- **Hairline:** white, scant, thin
-- **Overall impression:** a face worn down to the essential by age — the only life in it is the eyes, and the care with which he holds the folded packet
+- **Hairline:** white, wispy, scant — thin enough to see the scalp
+- **Overall impression:** a face worn down to the essential by age — NO scholarly refinement, NO spectacles, NO cravat. The only life in it is the eyes, and the care with which he holds the packet
 
 ## 3. Anime Portrait Prompt
 
-> Sophisticated mature historical seinen anime portrait of a very old English man, 80 or beyond, year 1816. Waist-up framing. Refined anime facial construction with realistic human proportions: a gaunt, deeply lined face, prominent jaw and cheekbones showing through papery skin, deeply lined brow, prominent age-worn nose, thin sunken mouth. Pale, papery skin rendered naturally. White, scant hair. Pale eyes — restrained, NOT oversized, no supernatural glow — unexpectedly clear and steady when they focus. He wears an old, much-mended brown coat and a shirt with a collar too large for his neck. Warm muted light, simple period room, muted palette, cinematic composition, painterly / cel-shaded rendering with refined linework and detailed mended-wool fabric texture. Restrained, guarded expression — withholding, not venerable. The character is unmistakably Vale: the clear steady eyes, the folded packet just visible within reach, the deliberate minimal motion. No ancient-wizard coding, no occult styling.
+> Sophisticated mature historical seinen anime portrait of a very old English man, 80 or beyond, year 1816 — RADICALLY different from Graves. Waist-up framing. Gaunt, deeply lined face, sharp cheekbones, prominent age-worn slightly hooked nose, thin sunken mouth. Pale, papery translucent skin. White, wispy, scant hair — thin enough to see the scalp. NO spectacles. Pale, clear steady eyes — restrained, NOT oversized, no supernatural glow. He wears an old, much-mended BROWN coat (NOT dark, NOT fitted) and a shirt with a collar too large for his neck — NO cravat, no tie. The collar is open and loose. A shawl or blanket is visible at the shoulders. Knotted, curling fingers rest on a folded packet of papers. Warm muted light, simple cottage room, muted palette, cinematic composition, painterly / cel-shaded rendering with refined linework and detailed mended-wool and worn-linen fabric texture. Restrained, guarded expression — withholding, not venerable. The character is unmistakably Vale and NOT Graves: no spectacles, no cravat, no dark fitted coat, no scholar's bearing. Just a shrunken old man with clear eyes and a packet of papers.
 
 ## 4. Anime Full Body Prompt
 
-> Sophisticated mature historical seinen anime full-body reference of a very old, thin, shrunken English man, 80 or beyond, year 1816. Full figure visible from head to feet, three-quarter view, seated or standing bent. Refined anime facial construction with realistic proportions: gaunt deeply lined face, white scant hair, pale clear steady eyes (not oversized). Thin, shrunken build that would once have been taller. He wears an old, much-mended brown coat and a shirt with a loose collar; a shawl or blanket about the shoulders when seated; a walking stick carried from habit. A folded packet of papers within reach. Muted 1816 English interior (a cottage or lane-end house), warm muted light, muted palette, cinematic composition, painterly / cel-shaded rendering with refined linework and detailed mended-fabric texture. Full body visible — no cropped feet, no distorted hands, no excessive coat movement. Deliberate, minimal motion; withholding, not sinister.
+> Sophisticated mature historical seinen anime full-body reference of a very old, shrunken, bent English man, 80 or beyond, year 1816 — RADICALLY different from Graves. Full figure visible, SEATED in a wooden chair, NOT standing. Gaunt deeply lined face, white wispy scant hair, pale clear steady eyes (not oversized, no spectacles). Thin, shrunken frame that would once have been taller — diminished, bent, seated. He wears an old, much-mended BROWN coat (NOT dark, NOT fitted) and a shirt with a loose collar — NO cravat, NO tie. A shawl or blanket about the shoulders. A worn walking stick leans against the chair. Knotted, curling fingers hold a folded packet of papers. Warm muted interior light (a cottage or lane-end house), simple room, muted palette, cinematic composition, painterly / cel-shaded rendering with refined linework and detailed mended-fabric texture. Full body visible — no cropped feet, no distorted hands, no excessive coat movement. Deliberate, minimal motion; seated, withholding, not sinister. The opposite of Graves's standing scholarly silhouette.
 
 ## 5. Realism Portrait Prompt
 
-> Photorealistic historical portrait of a very old English man, 80 or beyond, year 1816. Waist-up framing. Realistic facial anatomy: gaunt, deeply lined face, prominent jaw and cheekbones, deeply lined brow, prominent age-worn nose, thin sunken mouth. Pale, papery skin with realistic age texture. White, scant hair, physically plausible. Pale eyes with realistic detail — unexpectedly clear and steady when they focus, no supernatural glow. He wears an old, much-mended brown coat and a shirt with a collar too large for his neck. Warm muted natural light, simple period room, restrained composition, subtle Gothic atmosphere. Realistic mended-wool and linen fabric texture, natural aged skin texture, no beauty filters. Restrained, guarded expression — withholding, not venerable. The character is unmistakably Vale: the clear steady eyes, the folded packet within reach. No ancient-wizard coding, no occult styling.
+> Photorealistic historical portrait of a very old English man, 80 or beyond, year 1816 — RADICALLY different from Graves. Waist-up framing. Gaunt, deeply lined face, sharp cheekbones, prominent age-worn slightly hooked nose, thin sunken mouth. Pale, papery translucent skin with realistic age texture. White, wispy, scant hair, physically plausible — thin enough to see the scalp. NO spectacles. Pale eyes with realistic detail — unexpectedly clear and steady when they focus, no supernatural glow. He wears an old, much-mended BROWN coat (NOT dark, NOT fitted) and a shirt with a collar too large for his neck — NO cravat, NO tie. The collar is open and loose. A shawl or blanket visible at the shoulders. Knotted, curling fingers rest on a folded packet of papers. Warm muted natural light, simple cottage room, restrained composition, subtle Gothic atmosphere. Realistic mended-wool and worn-linen fabric texture, natural aged translucent skin texture, no beauty filters. The character is unmistakably Vale and NOT Graves: no spectacles, no cravat, no dark fitted coat, no scholar's bearing.
 
 ## 6. Realism Full Body Prompt
 
-> Photorealistic historical full-body reference of a very old, thin, shrunken English man, 80 or beyond, year 1816. Full figure visible head to feet, three-quarter view, seated or standing bent. Realistic facial anatomy: gaunt deeply lined face, white scant hair, pale clear steady eyes with realistic detail. Thin, shrunken build that would once have been taller. He wears an old, much-mended brown coat and a shirt with a loose collar; a shawl or blanket about the shoulders when seated; a walking stick carried from habit. A folded packet of papers within reach. Muted 1816 English interior (a cottage or lane-end house), warm muted natural light, restrained composition, subtle Gothic atmosphere. Realistic mended-fabric texture, natural aged skin and hair texture. Full body visible — no cropped feet, no distorted hands, no excessive coat movement. Deliberate, minimal motion; withholding, not sinister.
+> Photorealistic historical full-body reference of a very old, shrunken, bent English man, 80 or beyond, year 1816 — RADICALLY different from Graves. Full figure visible, SEATED in a wooden chair, NOT standing. Gaunt deeply lined face, white wispy scant hair, pale clear steady eyes with realistic detail (no spectacles). Thin, shrunken frame that would once have been taller — diminished, bent, seated. He wears an old, much-mended BROWN coat (NOT dark, NOT fitted) and a shirt with a loose collar — NO cravat, NO tie. A shawl or blanket about the shoulders. A worn walking stick leans against the chair. Knotted, curling fingers hold a folded packet of papers. Warm muted natural light, simple cottage room, restrained composition, subtle Gothic atmosphere. Realistic mended-fabric texture, natural aged translucent skin and wispy hair texture. Full body seated — no cropped feet, no distorted hands, no excessive coat movement. The opposite of Graves's standing scholarly silhouette.
 
 ## 7. Shared Negative Constraints
 
 ```
+no spectacles — Vale does NOT wear glasses unlike Graves
+no cravat or tie — Vale's collar is open and loose
+no dark fitted coat — Vale's coat is BROWN, MENDED, TOO LARGE
+no scholarly standing posture — Vale is SEATED and bent
+no wire-frame glasses — Vale has NONE
+no pocket watch chain — Vale's prop is the folded packet
+no smooth hands — Vale's fingers are knotted and curling
 no stereotypical ancient-wizard robes
 no occult sigils or symbols
 no glowing eyes
@@ -1231,6 +1238,7 @@ no modern anime fashion
 no wise-old-sage archetype
 no fantasy staff or robes
 no anime spikes
+no spectacles
 ```
 
 ## 9. Realism Negative Constraints
@@ -1246,86 +1254,105 @@ no fantasy realism
 no excessive cinematic effects
 no glamour pose
 no exaggerated frail caricature
+no spectacles
 ```
 
 ## 10. Generation Notes
 
-- Vale's "factor" is quiet gravity: the clear steady eyes, the folded packet within reach, the deliberate minimal motion, the withholding guardedness. Every prompt must carry these.
-- He is a dying man who keeps a secret — not a "wise ancient." Avoid visual grandeur and mentor-archetype framing.
+- Vale is the VISUAL OPPOSITE of Graves. Compare: Graves wears spectacles → Vale has NONE. Graves wears a dark dated coat → Vale wears a MENDED BROWN coat. Graves wears a high cravat → Vale has NO cravat. Graves stands with clasped hands → Vale is SEATED with a blanket. Graves has a pocket watch → Vale has a folded packet. Graves has a slight tremor → Vale has KNOTTED curling fingers. These are deliberate polarities.
+- Vale's "factor" is seated stillness: the clear steady eyes (no spectacles), the folded packet (no watch chain), the blanket (no clasped hands), the walking stick (no standing posture). Every prompt must carry these.
+- He is a dying man who keeps a secret — not a "wise ancient," not a scholar. Avoid visual grandeur and mentor-archetype framing.
 - His ambiguity (constable? keeper? Order?) must NOT be resolved by costume — no constable badge, no keeper symbol, no Order insignia.
-- The clear steady eyes and the folded packet (the Agreement) are his signature — keep them.
-- Anime mode: mature seinen, warm muted palette, quiet room light, deliberate minimal motion.
-- Realism mode: photorealistic, realistic aged texture, the same quiet gravity.
+- Anime mode: mature seinen, warm muted palette, cottage light, seated stillness.
+- Realism mode: photorealistic, realistic aged translucent texture, the same seated stillness.
 - No supernatural, occult, or fantasy coding in any version.
 - Model-agnostic: do not reference any specific artist, model, or existing character.
 
 ## 11. Identity Consistency Checklist
 
+- [ ] VISUALLY DISTINCT FROM GRAVES — confirmed by: no spectacles, no cravat, brown mended coat, seated, blanket, walking stick, curled fingers, folded packet
 - [ ] Same approximate age (80s+) in all four
-- [ ] Same facial structure (gaunt, deeply lined, prominent jaw and cheekbones)
-- [ ] Same hair (white, scant)
-- [ ] Same eyes (pale, clear and steady when focusing — never glowing)
-- [ ] Same build (thin, shrunken)
-- [ ] Same clothing (old mended brown coat, loose collar, blanket/shawl, walking stick)
+- [ ] Same facial structure (gaunt, sharp cheekbones, slightly hooked nose — NOT long and narrow like Graves)
+- [ ] Same hair (white, wispy, scant)
+- [ ] Same eyes (pale, clear and steady — NO spectacles — never glowing)
+- [ ] Same build (shrunken, seated, bent)
+- [ ] Same clothing (old mended BROWN coat, loose collar, NO cravat, blanket/shawl, walking stick)
 - [ ] Same folded packet within reach
-- [ ] Same deliberate minimal motion
-- [ ] Same silhouette — recognizable by the mended coat and shrunken frame
+- [ ] Same seated posture (NOT standing)
+- [ ] Same silhouette — recognizable by the mended brown coat, blanket, and seated frame
 - [ ] 1816 historical constraint respected in all four
 
 ## 12. Approval Checklist
 
 - [ ] The four images look like the same person
-- [ ] Pale clear steady eyes consistent; no glowing effect
-- [ ] White scant hair consistent
-- [ ] Old mended brown coat consistent
-- [ ] Folded packet present as the recurring anchor
-- [ ] No ancient-wizard, occult, or wise-mentor styling
+- [ ] Vale is RADICALLY distinct from Graves at a glance
+- [ ] NO spectacles present
+- [ ] NO cravat present — loose open collar
+- [ ] BROWN mended coat, NOT dark fitted
+- [ ] SEATED, NOT standing
+- [ ] Blanket/shawl present, not clasped hands
+- [ ] Walking stick present
+- [ ] Knotted curling fingers, not tremor
+- [ ] Pale clear steady eyes, no glowing effect
+- [ ] Folded packet within reach
+- [ ] No ancient-wizard, occult, or scholar styling
 - [ ] Ambiguity preserved — no constable/keeper/Order costume cues
 - [ ] No PROPOSED detail became CONFIRMED canon
 - [ ] Anime version is mature seinen (not fantasy sage)
 - [ ] Realism version is photorealistic (not sinister or venerable-grand)
 
-## 13. Image Review Criteria — Thomas Vale
+## 13. Image Review Criteria — Thomas Vale (radically distinct from Graves)
 
 ### A. Identity Consistency
 - Is the character recognizably Vale without context?
-- Are the gaunt deeply lined face, white scant hair, pale clear steady eyes, and shrunken build intact?
+- Is Vale RADICALLY different from Graves at a glance? (no spectacles, no cravat, brown coat, seated, blanket, curled fingers, walking stick, folded packet)
+- Are the gaunt face, wispy white hair, and clear steady eyes intact?
 - Is the facial structure the same across Anime ↔ Realism?
 
-### B. Historical Accuracy
+### B. Graves Differentiation (CRITICAL)
+- Does Vale have NO spectacles? (Graves HAS spectacles)
+- Does Vale have NO cravat? (Graves HAS a carefully tied cravat)
+- Is Vale's coat BROWN and MENDED? (Graves's is DARK and FITTED)
+- Is Vale SEATED? (Graves STANDS with clasped hands)
+- Does Vale have a blanket/shawl? (Graves has NONE)
+- Does Vale have a walking stick? (Graves has NONE)
+- Does Vale have curled knotted fingers? (Graves has a slight tremor)
+- Does Vale hold a folded packet? (Graves has a pocket watch)
+
+### C. Historical Accuracy
 - Is the old mended brown coat plausibly 1816?
 - Are the loose collar, blanket/shawl, and walking stick period-correct?
 - Is the hairstyle historically plausible?
 
-### C. Silhouette
-- Is Vale's silhouette recognizable by the mended coat and shrunken, bent frame?
-- Is it the same between Anime and Realism?
+### D. Silhouette
+- Is Vale's silhouette recognizable by the mended brown coat, blanket, and seated frame?
+- Is it clearly distinct from Graves's standing dark silhouette with spectacles?
 
-### D. Facial Distinctiveness
-- Is the face gaunt and weathered without being sinister or venerable-grand?
-- Are the clear steady eyes the memorable element (the only vigorous thing about him)?
-- No occult, wizard, or wise-mentor features?
+### E. Facial Distinctiveness
+- Is the face gaunt and weathered without being sinister or scholar-like?
+- Are the clear steady eyes (without spectacles) the memorable element?
+- No occult, wizard, scholar, or wise-mentor features?
 
-### E. Clothing
-- Is the old much-mended brown coat present?
-- Is the collar loose (too large for his neck)?
-- Is the folded packet within reach?
-- Does NO item resolve his unresolved affiliation (no constable/keeper/Order cues)?
+### F. Clothing
+- Is the old much-mended BROWN coat present (NOT dark, NOT fitted)?
+- Is the collar loose and open (NO cravat)?
+- Is the blanket/shawl present?
+- Is the walking stick present?
+- Does NO item resolve his unresolved affiliation?
 
-### F. Character Presence
-- Does the image convey quiet gravity, withholding guardedness?
-- Is the motion deliberate and minimal?
-- Is Vale a dying man who keeps a secret — not a wise ancient?
+### G. Character Presence
+- Does the image convey seated stillness, quiet gravity, withholding?
+- Is Vale a dying man who keeps a secret — not a scholar, not a wise ancient?
 
-### G. Anime / Realism Correspondence
+### H. Anime / Realism Correspondence
 - Do the Anime and Realism versions depict the SAME person?
 - Is the Anime version mature seinen (not fantasy sage)?
 - Is the Realism version photorealistic (not sinister or venerable-grand)?
 
-### H. Absence of Unintended Supernatural Cues
-- No occult symbols, glowing eyes, magical aura, or fantasy staff/robes?
-- No constable/keeper/Order costume cues that resolve his ambiguity?
-- Does Vale look like a very old, guarded 1816 man — quiet gravity, secret kept?
+### I. Absence of Unintended Supernatural Cues
+- No occult symbols, glowing eyes, magical aura, or fantasy staff?
+- No constable/keeper/Order costume cues?
+- No spectacles, cravat, or dark fitted coat that would make Vale look like Graves?
 
 ---
 
