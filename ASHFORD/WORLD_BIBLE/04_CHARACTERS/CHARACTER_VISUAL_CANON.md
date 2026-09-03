@@ -149,45 +149,45 @@
 
 ---
 
-### MARGARET ELEANOR WHITMORE (baker)
+### MARGARET ELEANOR WHITMORE (shopkeeper / tearoom)
 
-**Status:** CONFIRMED civilian — grounded; review kept as strongest profile
+**Status:** CONFIRMED civilian — grounded; age updated per author decision (2026-09-03)
 
 **Core Visual Identity:**
-- **Age:** PROPOSED — early 50s
-- **Build:** PROPOSED — sturdy, broad-shouldered from kneading and lifting
+- **Age:** 30 (AUTHOR APPROVED 2026-09-03)
+- **Build:** PROPOSED — sturdy, capable — a young working woman of the shop
 - **Height:** PROPOSED — average
-- **Complexion:** PROPOSED — ruddy from the oven
-- **Hair:** PROPOSED — grey, pinned under a white cap, strands escaping at the temples
-- **Eyes:** PROPOSED — blue (single colour chosen per review)
-- **Face:** PROPOSED — round, strong jaw
+- **Complexion:** PROPOSED — warm, flushed from the shop
+- **Hair:** PROPOSED — brown, pulled back under a white cap, strands escaping at the temples — NOT grey
+- **Eyes:** PROPOSED — warm, frank, lively
+- **Face:** PROPOSED — round, strong jaw, open and pleasant
 
-**Silhouette:** PROPOSED — a solid woman in a rolled-sleeve wool dress and flour-dusted linen apron.
+**Silhouette:** PROPOSED — a young woman in a rolled-sleeve wool dress and clean apron.
 
 **Clothing (1816):** PROPOSED
-- Heavy linen apron over a plain wool dress, sleeves rolled to the elbow
-- White cap, dusted with flour
-- Forearms bare and flushed
-- Sturdy leather shoes (review refinement — replaces earlier "wooden clogs" as less region-specific)
+- Plain wool dress, sleeves rolled to the elbow
+- Clean apron (noted as practical; flour dust only if baker context)
+- White cap
+- Sturdy leather shoes
 
 **Distinctive Physical Details:** PROPOSED
-1. Flour-dusted forearms — constant occupational detail
-2. Broad, strong hands
-3. Voice used to carrying over market noise
+1. Energetic, capable hands
+2. Voice used to carrying over market noise
+3. Warm, open presence — grounded, not mysterious
 
 **Behavioral Signature:** PROPOSED
 1. Wipes her hands on her apron before speaking
 2. Stands with arms folded when she means what she says
-3. Nods slowly when deciding whether to trust someone
+3. Speaks directly — warm but not easily fooled
 
 **IMAGE GENERATION READINESS:**
-- Core face: round, ruddy, 50s
-- Silhouette: sturdy, apron, rolled sleeves
-- Hair: grey under flour-dusted cap
-- Eyes: blue, frank
-- Primary clothing: wool dress, linen apron
-- Distinctive cues: flour-dusted forearms; strong hands
-- MUST NOT: no "mysterious old woman" styling; no Gothic shading; no occult hint; no modern bakery imagery
+- Core face: round, warm, 30 years old
+- Silhouette: young woman, apron, rolled sleeves
+- Hair: brown under cap (NOT grey)
+- Eyes: warm, frank
+- Primary clothing: wool dress, apron
+- Distinctive cues: capable hands; warm open expression
+- MUST NOT: no "mysterious old woman" styling; no grey hair; no occult hint; no modern bakery imagery
 
 ---
 

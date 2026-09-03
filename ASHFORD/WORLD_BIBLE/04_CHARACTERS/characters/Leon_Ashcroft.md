@@ -16,16 +16,16 @@
 - **Current story status:** Actively investigating the history of Aurelius Ashcroft and Bellweather House
 
 ## Physical Presence
-- **Build:** Average, not described in detail
-- **Posture:** Observant, often seen writing or reading
-- **Face:** UNRESOLVED — DO NOT INVENT DURING CHAPTER WRITING
-- **Hair:** UNRESOLVED
-- **Eyes:** UNRESOLVED
-- **Clothing:** Wears a coat, vest, and carries a notebook; dresses practically for walking
-- **Hands:** UNRESOLVED
-- **Movement:** UNRESOLVED
+- **Build:** Slender, elegant build of middling height (PROPOSED)
+- **Posture:** Observant, often seen writing or reading; composed and upright
+- **Face:** Distinctive but not extravagant — refined oval, clean jawline, defined cheekbones, straight nose, composed mouth (PROPOSED)
+- **Hair:** Dark brown, naturally slightly untidy, cut in a period-plausible 1816 style (PROPOSED)
+- **Eyes:** Hazel, intelligent, observant, quietly alert (PROPOSED)
+- **Clothing:** Dark wool frock/travelling coat, buff layered waistcoat, plain white period shirt, neatly tied cravat, dark wool trousers, leather walking boots; carries a small notebook and pencil (PROPOSED)
+- **Hands:** Ink-marked fingertips from constant note-taking (PROPOSED)
+- **Movement:** Composed; weight evenly set; stops to write mid-walk
 - **Voice:** UNRESOLVED
-- **Habitual physical behavior:** Often carries a notebook and pencil; habit of recording details
+- **Habitual physical behavior:** Often carries a notebook and pencil; habit of recording details; eyes scan rooms and streets even in conversation
 
 ## Personality
 - **Dominant traits:** Observant, methodical, patient, cautious

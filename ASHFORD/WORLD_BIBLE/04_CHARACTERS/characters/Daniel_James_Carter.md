@@ -15,17 +15,34 @@
 - **First appearance:** Chapter 2
 - **Current story status:** Active; serves as a source of historical knowledge
 
-## Physical Presence
-- **Build:** UNRESOLVED
-- **Posture:** Energetic, eager
-- **Face:** UNRESOLVED
-- **Hair:** UNRESOLVED
-- **Eyes:** UNRESOLVED
-- **Clothing:** Carries books; dressed as a student
-- **Hands:** UNRESOLVED
+## Physical Presence / Visual Canon
+**Status:** PROPOSED — awaiting author approval
+
+| Element | Value |
+|---------|-------|
+| Age | Early 20s (student at the Academy) |
+| Build | Long-limbed, still growing into his height; a little awkward |
+| Height | Tall and still lengthening |
+| Complexion | Fresh, youthful |
+| Face | Boyish, open, unlined |
+| Hair | Light brown, falls forward when he leans over a book — distinctly lighter than Leon's dark brown |
+| Eyes | Open, expressive — his face gives away his thoughts |
+| Clothing | Neat but inexpensive coat, scuffed boots from walking between Academy and town; carries books in a strap |
+| Hands | Clean, quick; gestures when talking |
+| Behavioral signature | Leans forward when interested; answers quickly then second-guesses; talks with his hands; has not yet learned to hide eagerness |
+| Historical note | 1816. A young student — earnest, energetic, clearly distinct from Leon (younger, lighter hair, open posture vs Leon's composed darkness). |
+| Design principle | MEMORABLE THROUGH EARNESTNESS — the open, unguarded young man, the opposite of Leon's composure |
+
+- **Build:** Long-limbed, still growing (PROPOSED)
+- **Posture:** Energetic, eager; leans forward when interested
+- **Face:** Boyish, open (PROPOSED)
+- **Hair:** Light brown, falls forward when reading (PROPOSED)
+- **Eyes:** Open, expressive (PROPOSED)
+- **Clothing:** Neat but inexpensive coat; carries books in a strap (PROPOSED)
+- **Hands:** Clean, quick (PROPOSED)
 - **Movement:** Quick, animated
 - **Voice:** Enthusiastic
-- **Habitual physical behavior:** Often carries books; gestures when talking
+- **Habitual physical behavior:** Often carries books; gestures when talking; talks with his hands
 
 ## Personality
 - **Dominant traits:** Enthusiastic, knowledgeable, friendly, talkative

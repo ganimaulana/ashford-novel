@@ -34,6 +34,29 @@ This separation ensures that:
 
 ---
 
+## 2026-09-03: Visual Canon Synced to Character Files + Margaret Age Set to 30
+
+**Event**: Visual Canon sections added or Physical Presence updated in 8 character files. Margaret's age AUTHOR-APPROVED to 30.
+
+**Actions**:
+- Updated `04_CHARACTERS/characters/Leon_Ashcroft.md` — Physical Presence fields filled (hazel eyes, dark brown hair, frock coat, notebook, ink-marked fingertips)
+- Updated `04_CHARACTERS/characters/Silas_Crowe.md` — added Visual Canon section (drab grey-brown, dark still eyes, mouth-directed gaze, NO villain coding)
+- Updated `04_CHARACTERS/characters/Nathaniel_Graves.md` — added Visual Canon section (dated dark coat, wire spectacles, spectacles-polishing, tremor)
+- Updated `04_CHARACTERS/characters/Thomas_Vale.md` — added Visual Canon section (BROWN mended coat, NO spectacles, NO cravat, SEATED, walking stick, folded packet)
+- Updated `04_CHARACTERS/characters/Constable.md` — rewrote as James Calloway, added Visual Canon section (solid, weathered, grey hair, pale measuring eyes, round hat, NO uniform)
+- Updated `04_CHARACTERS/characters/Margaret_Whitmore.md` — **AGE SET TO 30** (AUTHOR APPROVED); visual canon updated (brown hair, NOT grey; warm, young shopkeeper)
+- Updated `04_CHARACTERS/characters/Daniel_James_Carter.md` — added Visual Canon (light brown hair, open face, long-limbed, eager — distinct from Leon)
+- Updated `04_CHARACTERS/characters/Helen_Margaret_Ashcroft.md` — added Visual Canon (grey-streaked brown hair, dark steady eyes, composed, has things ready)
+- Updated `04_CHARACTERS/CHARACTER_VISUAL_CANON.md` — Margaret section revised for age 30 (brown hair, not grey; warm young shopkeeper)
+- No manuscript files modified
+
+**Master Index Entry**:
+> Visual canon synced to 8 character files. Margaret age 30 (author-approved). Margaret: brown hair, warm, young shopkeeper. Daniel: light brown hair, open, distinct from Leon. Helen: grey-streaked brown, composed, ready. All PROPOSED.
+
+**Status**: PROPOSED — awaiting author approval. Visual details now in character files, not just separate documents.
+
+---
+
 ## 2026-09-03: Thomas Vale Visual Generation Package V2
 
 **Event**: Added production-ready dual-mode generation package for Thomas Vale (Anime Portrait, Anime Full Body, Realism Portrait, Realism Full Body) to `CHARACTER_IMAGE_PROMPTS.md`.

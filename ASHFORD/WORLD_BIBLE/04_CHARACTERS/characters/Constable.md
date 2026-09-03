@@ -3,42 +3,54 @@
 ## Canon Status
 **UNNAMED SUPPORTING ROLE** — The constable is mentioned but not named.
 
-## Basic Identity
-- **Full name:** UNRESOLVED (no name given)
-- **Public name:** Constable
-- **Age:** UNRESOLVED
-- **Gender:** Male (assumed)
-- **Occupation:** Parish constable (part-time, elected)
-- **Social position:** Local official
-- **Residence:** UNRESOLVED
-- **District:** UNRESOLVED
-- **First appearance:** Mentioned but not named
-- **Current story status:** Active off-screen
+## NAMING NOTE
+The constable character is James Calloway per the current manuscript canon (Ch 1, 8, 47+). The World Bible constable profile is being developed under the Calloway identity for visual purposes. `ORGANIZATIONAL_AFFILIATION_LEDGER.md` confirms Calloway → Constable (CONFIRMED).
 
-## Physical Presence
-- **Build:** UNRESOLVED
-- **Posture:** UNRESOLVED
-- **Face:** UNRESOLVED
-- **Hair:** UNRESOLVED
-- **Eyes:** UNRESOLVED
-- **Clothing:** UNRESOLVED
-- **Hands:** UNRESOLVED
-- **Movement:** UNRESOLVED
-- **Voice:** UNRESOLVED
-- **Habitual physical behavior:** UNRESOLVED
+## Basic Identity
+- **Full name:** James Calloway (PROPOSED — per manuscript references)
+- **Public name:** Constable / Calloway
+- **Age:** Early 50s (PROPOSED)
+- **Gender:** Male (confirmed)
+- **Occupation:** Parish constable (part-time, elected) — a local tradesman/farmer who keeps the peace, NOT a uniformed metropolitan officer
+- **Social position:** Local official
+- **Residence:** Ashford
+- **District:** Ashford
+- **First appearance:** Chapter 1 (the man at the inn); named Calloway Ch 8
+- **Current story status:** Active
+
+## Physical Presence / Visual Canon
+**Status:** PROPOSED — awaiting author approval
+
+| Element | Value |
+|---------|-------|
+| Age | Early 50s |
+| Build | Solid, not heavy — the build of a man who walks and works |
+| Height | Average to slightly above |
+| Complexion | Sun-beaten, weathered, deep weathering lines |
+| Face | Broad, heavy brow, strong square jaw, broad sun-beaten cheeks |
+| Hair | Grey, thinning, cut short |
+| Eyes | Pale, measuring — weigh the viewer slowly |
+| Distinctive feature | Rubs jaw when thinking; planted stance |
+| Clothing | Plain dark coat with useful pockets, waistcoat not fully buttoned, plain neckcloth, practical boots, round hat — NO uniform |
+| Accessories | None (no uniform, no truncheon emphasised) |
+| Behavioral signature | Speaks slowly, as if reluctant to commit; stands with weight spread, feet planted; nods at the end of a sentence |
+| Historical note | 1816 parish constable — a local man on duty, not a uniformed officer. No police/military uniform, no occult coding. |
+| Design principle | MEMORABLE THROUGH GROUNDEDNESS — the reader's ground truth, the ordinary man against whom the supernatural reads. |
+
+---
 
 ## Personality
-- **Dominant traits:** UNRESOLVED
-- **Secondary traits:** UNRESOLVED
-- **Virtues:** UNRESOLVED
-- **Flaws:** UNRESOLVED
+- **Dominant traits:** Cautious, unhurried, reliable
+- **Secondary traits:** Ordinary, grounded, unremarkable in appearance
+- **Virtues:** Honest, steady
+- **Flaws:** Reluctant to commit; slow to judge
 - **Fears:** UNRESOLVED
 - **Desires:** UNRESOLVED
 - **Emotional weaknesses:** UNRESOLVED
 - **Internal contradictions:** UNRESOLVED
-- **Habits:** UNRESOLVED
-- **Worldview:** UNRESOLVED
-- **What makes the character memorable:** UNRESOLVED
+- **Habits:** Rubbing his jaw when thinking
+- **Worldview:** Practical, local, wary
+- **What makes the character memorable:** His groundedness and reliability — the believable parish official
 
 ## Intelligence / Competence
 - **Observation:** UNRESOLVED
