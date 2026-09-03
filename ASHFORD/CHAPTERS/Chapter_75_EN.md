@@ -18,7 +18,7 @@ He had known. He had known about the gear. He had known about the house. He had 
 
 "You knew," I said.
 
-"I knew some of it," he said. "I knew the bell was the keeper's bell. I knew the gear was the key to the door. I knew the house at the end of the lane was the keeper's house — the one that does not change."
+"I knew some of it," he said. "I knew the bell was the keeper's bell. I knew the gear belonged to the door beneath the mill — Vale kept it fifty years and never set it in the stone. I knew the house at the end of the lane was the keeper's house — the one that does not change."
 
 "The one that does not change?"
 

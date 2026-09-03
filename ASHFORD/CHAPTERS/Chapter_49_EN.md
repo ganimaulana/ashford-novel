@@ -276,23 +276,17 @@ It was cold.
 
 For several seconds, nothing happened.
 
-Then warmth slowly spread through the metal.
+Nothing happened after that either.
 
 The old constable watched my face.
 
-"You've felt it before."
+"You've tested it."
 
-"Near the stones."
+"Near the stones. At the door."
 
-"Only the stones?"
+"And?"
 
-I thought about the house.
-
-The mill.
-
-The door.
-
-"Near the boundary."
+"Nothing. Not once."
 
 He nodded.
 
@@ -368,7 +362,7 @@ A circle crossed by a short line.
 
 I took out the gear.
 
-It was warm.
+It was cold.
 
 I did not touch the door with it.
 
@@ -386,11 +380,11 @@ There was a difference.
 
 I held the gear near the depression.
 
-The warmth increased.
+Nothing.
 
 I moved it away.
 
-The warmth faded.
+Nothing.
 
 Again.
 
@@ -620,13 +614,17 @@ Nothing.
 
 That bothered me.
 
-If the gear had been part of some mechanism, perhaps its reaction near the stones should have changed.
+An hour earlier the same object had turned in a socket of stone and moved a door that had not moved in fifty years.
 
-But it hadn't.
+Here it was a weight in my hand, beside a cracked stone, and there was no difference between the two moments that I could measure in the metal.
+
+Whatever had answered at the mill had not been the gear.
+
+It had been whatever the gear was set into.
 
 I wrote:
 
-After the door was closed, gear showed no unusual response at eastern marker.
+Door: mechanism responded to gear under pressure. Eastern marker: gear no different before or after. The response is in the stone, not the object.
 
 I stared at the sentence.
 
@@ -786,9 +784,11 @@ Almost.
 
 I unwrapped the gear.
 
-It was cold now.
+It was cold.
 
 Ordinary.
+
+It had been ordinary all night, in my hand, while the stone under it did something that was not ordinary at all.
 
 I turned it over in my hand.
 

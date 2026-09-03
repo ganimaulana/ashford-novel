@@ -97,6 +97,9 @@ ERC-001, ERC-002… are RECORD DESIGNATIONS. They do NOT represent power, danger
 - "Door is an ERC." ✗
 - "Sanctuary is a Gear." ✗
 - "Sign is an Artifact." ✗ (unless a specific canon context explicitly requires it)
+- "The Gear becomes warm / responds through heat." ✗ (warmth is the Token/Object signature exclusively; the Gear has no supernatural temperature response)
+- "The Gear is the Keeper's key / opens the Keeper's Door." ✗ (Keeper's Seal ≠ Gear; Keeper's Door ≠ Gear mechanism; the Keeper's Door has no lock and no Gear depression — Ch78)
+- "The Gear is a universal key." ✗ (the Gear's meaningful response is mechanical and tied to the separate underground mechanism; its exact function is UNKNOWN)
 
 ## KNOWLEDGE BOUNDARIES (PRESERVED)
 

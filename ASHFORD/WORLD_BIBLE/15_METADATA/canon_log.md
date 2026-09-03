@@ -4,6 +4,38 @@ This file tracks major changes to the official release canon.
 
 ---
 
+## 2026-09-03: MANUSCRIPT REVISION — Gear-Warmth Mechanic Removed (Ch66 conflict resolved) + Keeper's Door / Gear Separation
+
+**Event**: The inherited "Gear becomes warm" architecture was removed from the manuscript. The former continuity conflict around `Chapter_66_EN.md` ("the gear had never warmed") is resolved **in favour of Ch66**, by author instruction. **Chapter files modified.**
+
+**New canon (CONFIRMED)**:
+- **THE GEAR DOES NOT BECOME WARM.** It has no established supernatural temperature response, no glow, and no obvious supernatural signal of any kind. In every test Leon devises it behaves as ordinary cold iron.
+- The Gear's **first and only meaningful anomalous response is mechanical and belongs to the separate underground mechanism** beneath the mill: one tremor through the stone on contact (Ch40); rotation, clicks, and a one-inch opening under applied pressure (Ch49). Whether the mechanism responded *to* the Gear, *recognized* it, or merely required its shape as one physical component is **UNKNOWN — protected. Do not resolve.**
+- **Keeper's Seal ≠ Gear. Keeper's Door ≠ Gear mechanism.** The Keeper's Door (third door, beneath Bellweather House, Ch78) has no lock and no Gear depression, does not require the Gear, and answers the Tokens. The Gear is never "the keeper's key" and never a universal key.
+- **Token/Object warmth is untouched and remains valid canon** (Ch66 onward: keeper's sign, common, house wall, nineteenth sign, passage door, chamber, bell — all Token responses).
+
+**Chapters modified (12)**:
+- `Chapter_36_EN.md` — discovery: warm-when-held mechanic replaced with explicit null result ("It took the heat of my hand at the rate iron takes it, and gave nothing back that iron does not give"); notebook Observed line now "In every test I could devise, it behaved as a cold piece of iron behaves."
+- `Chapter_38_EN.md` — mill-door scene: all Gear warmth removed; Marlow's alarm retained (reacts to Leon testing the object at the door, "Put it away" / "Don't"); the unconfirmed one-off vibration through the metal retained as ambiguous mechanism transmission that does not repeat; notebook line "The object reacts near the boundary" → "The object carries the same mark as the boundary stones."
+- `Chapter_40_EN.md` — Vale's garden test: Leon now reports "Nothing. / Nothing at all." near the stones; "You said it reacted" exchange replaced (Vale: "To see what you would do when it failed"); night experiment at the mill: warmth gradient removed, replaced with a measured null ladder; the ground tremor on contact is now explicitly the first response ("Not the metal in my hand. The ground.").
+- `Chapter_43_EN.md` — coin/gear test evaluated in context and left substantially intact ("The gear remained cold" = explicit absence, permitted); no warmth mechanic present.
+- `Chapter_47_EN.md` — full sequence rewritten: eastern marker (37), notebook entries (77), between-markers expectation test (359), third stone (433–463), facts list (553). The stones' fracturing is now the anomaly; the Gear is a recorded null at every site ("The stones are doing this without it"; "I was carrying a cold piece of iron between two stones that were cracking on their own"; facts list: "The gear had done nothing.").
+- `Chapter_49_EN.md` — handover scene: warmth-spread beat removed; Vale dialogue now "You've tested it." / "Nothing. Not once." / "Then you know enough."; at the door: warmth gradient removed, depression fit and mechanical response retained; eastern marker afterwards: notebook now "The response is in the stone, not the object."; closing beat: "It had been ordinary all night, in my hand, while the stone under it did something that was not ordinary at all."
+- `Chapter_51_EN.md` — vigil at fourth stone: "No warmth from the gear" → "Nothing to record" + "It was the result I had written down at every stone since May."
+- `Chapter_66_EN.md` — three-sign reasoning rewritten: "The object had answered the keeper's sign. The gear had never answered anything…"; the mill tremor attributed to the mechanism, not the Gear; "key to a door that was not a door" removed — Leon explicitly refuses to classify the Gear ("I could not call it a key on the strength of a single tremor in the stone. I could not call it anything yet."); notebook addition: "The gear answers none of them. It never has."
+- `Chapter_57_EN.md` — notebook claim "the gear is the key to the door from the inside" replaced with explicit non-classification ("I called it the lock two nights ago… Whether the gear is part of it, I cannot yet say.").
+- `Chapter_64_EN.md` — Leon no longer endorses the Order's "The gear was made to open it" ("You say so… I have found no one who can prove what the gear was made for"); kept-sign/memory framing retained.
+- `Chapter_75_EN.md` — Goding's "I knew the gear was the key to the door" → "I knew the gear belonged to the door beneath the mill — Vale kept it fifty years and never set it in the stone."
+- `Chapter_58_EN.md` — reviewed, unchanged: the stranger's "the gear was made to open the door" is an outsider's doctrinal claim, already framed as "the truth, or a truth, or a lie that wore the shape of the truth," and is contradicted by Leon's canon refusals elsewhere.
+
+**Preserved**: Leon's observation/comparison method and notebook discipline · chronology (first crack in May, three stones by summer, Vale's death in October) · the significance of the mill and the fractured stones · the underground mechanism as the locus of response · Vale custody model (personal box separate from Gear discovery; box contents unchanged) · Token/Object warmth architecture in full (Ch66–141) · chapter numbering 1–141 · Ch78/Ch79 Keeper's Door and place-beneath canon.
+
+**World Bible updated**: `MASTER_GEAR_BLUEPRINT.md` (§ experimentation findings; §III temperature, key/lock, Keeper's Door separation; §IV history) · `GEAR_EXPERIMENTATION_AND_RESONANCE.md` (canon anchor table, conflict resolution, experiment sequence, resonance perception, knowledge progression, door stages, hard rules 3–5, plot-hole audit, unknowns) · `GEAR_STORY_ARCHITECTURE.md` (§0 canon audit; GEAR I/V table rows) · `DOOR_GEAR_SYSTEM.md` (continuity note; PRESENCE row; 42-field template rule) · `GEAR_COMPONENT_PROFILES.md` (global constraints hard rule; GEAR IV MUST NOT) · `CANON_SEMANTIC_TABLE.md` (three new forbidden conflations) · `CANON_TERMINOLOGY.md` (GEAR HARD RULES block) · this log (obsolete assertions in earlier entries marked SUPERSEDED in place).
+
+**UNKNOWN (protected, unchanged)**: what the underground mechanism is part of · whether it responds to, recognizes, or merely requires the Gear · the inscription's meaning and function · the nature of the Ch49 sound beyond the door · whether Token and Gear share an origin.
+
+---
+
 ## 2026-09-03: MANUSCRIPT — Vale Deepening Arc (4 new chapters, full renumbering 137 → 141)
 
 **Event**: Four new numbered chapters inserted into the main timeline to deepen Thomas Vale before his death. Not a flashback arc, not lettered inserts — real chapters in sequence, with all following chapters renumbered.
@@ -36,7 +68,7 @@ New: 41, 45, 48, 50. Total 137 → **141**. All 141 filenames renamed via `git m
 
 **Preserved**: Gear discovered by Leon at the mill in Ch36, never given by Vale · Gear not in the box at discovery · custody ≠ ownership · Vale never says the Gear is Leon's · no grandson/son declaration anywhere · Vale not omniscient and not a supernatural authority · Door, inscription, Order infiltration, and the reason for the transfer all still unexplained · no prophecy or chosen-one framing · no new Gear mechanics.
 
-**AUTHOR REVIEW REQUIRED (unchanged)**: the Ch66 (old Ch62) warmth statement — citation renumbered, prose untouched as instructed. The "Father Lucien Vale" naming question. `chapter_status.md` rows 52–141.
+**AUTHOR REVIEW REQUIRED (updated)**: ~~the Ch66 (old Ch62) warmth statement~~ **[RESOLVED 2026-09-03 — see top entry: Gear-warmth mechanic removed manuscript-wide in favour of Ch66]**. The "Father Lucien Vale" naming question. `chapter_status.md` rows 52–141.
 
 ---
 
@@ -103,17 +135,17 @@ New: 41, 45, 48, 50. Total 137 → **141**. All 141 filenames renamed via `git m
 **Event**: Created `08_UNDERGROUND/GEAR_EXPERIMENTATION_AND_RESONANCE.md` — the focused subsystem document for how the confirmed Gear interacts with the stone mechanism, how perception occurs, and how Leon's investigation progresses. **No chapters were modified.**
 
 **Audit findings that corrected prior planning assumptions**:
-- The **first serious Gear experiment is Ch40**, not Ch53 — proximity warmth (repeatable ×3), contact, one tremor through the stone beneath Leon's hand, door unmoved, no marks left.
+- The **first serious Gear experiment is Ch40**, not Ch53 — contact, one tremor through the stone beneath Leon's hand, door unmoved, no marks left. ~~proximity warmth (repeatable ×3)~~ **[SUPERSEDED 2026-09-03: the Gear-warmth mechanic was removed from the manuscript; the Gear does not become warm]**
 - **Ch46 already contains a partial opening**: rotation under applied pressure → clicks in the stone → **one inch** of movement, cold air, an unclassifiable faint sound → Leon closes it deliberately. Door interaction **stages 1–4 are CONFIRMED canon**; Arc 2+ escalation must move toward perception, not further physical opening.
 - **Ch53 and Ch59 are refusal scenes**, not experiments. No new first-experiment scene is required.
-- **Ch46 (after closing): the Gear went cold and stopped responding near the boundary stone** — an unexploited thread suggesting the mechanism has states. The reader is ahead of Leon here.
+- ~~**Ch46 (after closing): the Gear went cold and stopped responding near the boundary stone**~~ **[SUPERSEDED 2026-09-03: the Gear never responded anywhere; Ch49 now records that the Gear is identical before and after the door event — "The response is in the stone, not the object."]**
 - Wall-contact perception is CONFIRMED with the **Token** (Ch75, hand flat on the chamber floor), and only partially with the Gear (vibration felt through stone, Ch40/46).
 
 **Architecture recorded (PROPOSED)**: resonance as the explanatory bridge (PHYSICAL CONTACT → MECHANICAL RESPONSE → RESONANCE → PERCEPTION → SUPERNATURAL RESPONSE); wall-contact as the perceptual channel; six inscription interpretation layers; Leon knowledge-progression table (Ch36 → Ch125); Door stages 5–9; nine plot-hole answers; forbidden-phrasing list; sixteen hard continuity rules.
 
 **Status locks**: INSCRIPTION = CONFIRMED · MEANING = UNKNOWN · FUNCTION = UNKNOWN · RESONANCE = PROPOSED/EMERGING · RITUAL = PROPOSED · FULL PROCEDURE = UNKNOWN. The nature of the Ch46 sound beyond the door remains UNKNOWN and must not be retroactively identified. No numerical/RPG resonance system permitted.
 
-**CONTINUITY CONFLICT — AUTHOR REVIEW REQUIRED (not resolved)**: `Chapter_62_EN.md:53` states "The gear had never warmed — not in the passage, not at the door, not at the eastern marker," contradicting Ch38, Ch40, Ch45, and Ch46. Three options documented in the subsystem file; recommendation is to narrow Ch62's claim to the keeper's sign specifically. **No edit applied.**
+**CONTINUITY CONFLICT — RESOLVED 2026-09-03 (see top entry)**: the Ch66 (old Ch62) "the gear had never warmed" statement was resolved **in its favour**. The Gear-warmth passages in Ch36/Ch38/Ch40/Ch47/Ch49/Ch51 were revised out of the manuscript. THE GEAR DOES NOT BECOME WARM.
 
 **World Bible updated**: `MASTER_GEAR_BLUEPRINT.md` — hierarchy now includes the subsystem document; key experimentation findings and the Ch62 conflict cross-referenced.
 
@@ -155,7 +187,7 @@ New: 41, 45, 48, 50. Total 137 → **141**. All 141 filenames renamed via `git m
 **Canon decisions (CONFIRMED)**:
 - Gear diameter ≈ **14–15 cm** — broad as the flat of an adult hand, thicker than a plate, substantial mass. NOT pocket-sized, NOT a coin/medallion/Token-like object.
 - Gear carrying method: **wrapped in a square of cloth, carried inside the coat** (1816-plausible; echoes the folded cloth in Vale's box).
-- Gear temperature behaviour unchanged (cold; warms near fractured stones and the door depression).
+- Gear temperature behaviour: ~~cold; warms near fractured stones and the door depression~~ **[SUPERSEDED 2026-09-03: the Gear has NO supernatural temperature response anywhere. THE GEAR DOES NOT BECOME WARM.]**
 - One confirmed Gear only; Ch46 reconciliation intact.
 
 **Chapters modified (8)**:

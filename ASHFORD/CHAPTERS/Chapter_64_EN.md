@@ -74,7 +74,7 @@ Graves leaned forward.
 
 "It was meant to be opened," the woman said. "It was made to be opened. The gear was made to open it."
 
-"The gear was made to open it," I agreed. "But it was not made to be used. It was made to be kept — kept as a sign, kept as a memory, kept so that the keeper would know that the door existed, and that it was not to be forgotten."
+"You say so," I said. "I have found no one who can prove what the gear was made for — not the Order, not the vestry, not the man who kept it for fifty years. Whatever it was made for, it was not made to be used by us. It was made to be kept — kept as a sign, kept as a memory, kept so that the keeper would know that the door existed, and that it was not to be forgotten."
 
 There was a long silence. I could not tell whether I had reached them. I could not tell whether they had heard me, or whether they had heard only that I was refusing them.
 

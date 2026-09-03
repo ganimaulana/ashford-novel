@@ -10,13 +10,14 @@
 ## 0. CANON AUDIT RESULTS (required before design)
 
 ### CONFIRMED (manuscript Ch 1–141)
-- Ch 36: Leon finds **the gear** under the Mill Lane clock. Initial interpretation: a clock part / found object.
-- The gear fits a depression in the stone door beneath the mill; the door opens an inch.
-- Ch 57: the gear is the **lock/marker, not the key**; the keeper's sign is the key.
-- **Two gears exist** in canon: Leon's gear, and a gear in Vale's box (`FINAL_MYSTERY_LEDGER.md` §2).
+- Ch 36: Leon finds **the gear** under the Mill Lane clock. Initial interpretation: a clock part / found object. **No temperature anomaly — the gear behaves as ordinary cold iron in every test (revised canon 2026-09-03: THE GEAR DOES NOT BECOME WARM).**
+- The gear fits a depression in the stone door beneath the mill; when set in and turned under pressure, the underground **mechanism** responds (tremor Ch40; clicks and a one-inch opening Ch49). Whether the mechanism responded to the gear, recognized it, or merely required its shape is UNKNOWN — protected.
+- Ch 56–66: Leon's classifications of the gear are provisional and end unresolved (key → lock → marker → "I could not call it anything yet"). The keeper's sign is associated with the key function. The gear is never "the keeper's key" and never a universal key.
+- Ch 78: the **Keeper's Door** (third door, beneath Bellweather House) has **no depression for the gear and no lock**; it answers the Tokens. Keeper's Seal ≠ Gear; Keeper's Door ≠ Gear mechanism; the Keeper's Door does not require the gear.
+- **One confirmed gear** exists (Ch49 reconciliation: the box gear and Leon's gear are the same object; the older "two gears" note is superseded — see MASTER_GEAR_BLUEPRINT §III).
 - Ch 129: Leon passes **the gear** to Daniel Wren with the book of the keeping and the Agreement. Leon no longer possesses it.
 - The Door = stone door beneath the mill (Ch 38); "not opened but remembered"; kept closed. The place beneath is beneath the chamber, not behind the door (Ch 79).
-- The keeper's bell, 00:00, the Tokens, the count — separate confirmed systems.
+- The keeper's bell, 00:00, the Tokens, the count — separate confirmed systems. Warmth is the **Token** signature exclusively.
 
 ### PROPOSED (this document and siblings)
 - Nine principal Gear components; individual identities, inscriptions, functions; the Door escalation sequence; the Pale Compass; member acquisition model; world-expansion loop.
@@ -166,11 +167,11 @@ Working names derive from appearance/inscription/discovery context — not SCP-s
 
 | ID (internal) | Working Name | Position (PROPOSED) | Visual identity (PROPOSED) | Inscription concept | Discovery concept |
 |---|---|---|---|---|---|
-| GEAR I | The Keeper's Tooth | Recognition / first contact | The CONFIRMED canon gear (Ch 36, Mill Lane clock) — small, fits the door's depression; appearance needs MANUSCRIPT FUTURE INSERTION | Lock/marker motif; "the keeping is the thing" echo | ALREADY DISCOVERED — passed to Daniel (Ch 129); quest must begin with its absence |
+| GEAR I | The Keeper's Tooth | Recognition / first contact | The CONFIRMED canon gear (Ch 36, Mill Lane clock) — ~14–15 cm, dark iron, no temperature response, fits the door's depression | Kept-sign/marker motif; "the keeping is the thing" echo | ALREADY DISCOVERED — passed to Daniel (Ch 129); quest must begin with its absence |
 | GEAR II | The Listening Coil | One-way voice | Dark iron, spiral form, wire-fine, cold to the touch | Fragment on absence: "what is spoken into the dark is not lost" | Auction lot mislabelled as an instrument part; Leon suspects before he proves |
 | GEAR III | The Answering Plate | Two-way communication | Tarnished copper with enamel, palm-sized, hairline-cracked | "What is answered becomes a conversation" (design reference, not final) | Unknowing ordinary owner (information-arbitrage scene) |
 | GEAR IV | The Witness Lens | Limited vision | Smoky glass in a pale steel frame; asymmetric | "The eye follows where the voice cannot" (design reference) | Scholar's private collection in another city — travel engine |
-| GEAR V | The Breathing Stone | Environmental sensing | Pale ceramic, warm like the Tokens (candidate link — UNRESOLVED) | Reference to witnesses | Hidden inside another historical object (nesting discovery) |
+| GEAR V | The Breathing Stone | Environmental sensing | Pale ceramic; must NOT be given Token-like warmth (Gears have no temperature response — hard rule) | Reference to witnesses | Hidden inside another historical object (nesting discovery) |
 | GEAR VI | The Returning Hand | Limited interaction beyond | Bronze with deep oxidation; one repaired break | Reference to return and names | Faction-controlled artifact — conflict scene |
 | GEAR VII | The Hinge of Hours | Partial crossing | Pale steel, architectural, heavier than it looks | Reference to thresholds | Abandoned estate; obstacle: the house itself resists |
 | GEAR VIII | The Quiet Anchor | Persistent access | Dull silver with green patina; inscriptions on ALL faces | Reference to separation | Member-assisted acquisition (organization test) |

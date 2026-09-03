@@ -200,37 +200,31 @@ I had brought it without entirely deciding why.
 
 Perhaps curiosity had made the decision for me.
 
-The moment my hand closed around it, warmth spread through the metal.
-
-I stopped.
+I unwrapped it.
 
 Marlow noticed.
 
 "What is it?"
 
-"Nothing."
+"Something I found."
 
-He looked at me.
+He looked at it, then at the frame in the ground.
 
-I unwrapped the gear.
-
-It was warmer than before.
-
-Not hot.
-
-Just warm enough to be unmistakable.
+The metal was cold. It had been cold in my coat and it was cold in my hand, and it stayed cold while I held it.
 
 I held it several inches from the stone.
 
-The warmth increased.
+Nothing.
 
-Marlow's expression changed.
+I moved it closer.
+
+Nothing.
+
+Marlow's expression changed anyway.
 
 "Put it away."
 
 I did.
-
-The warmth faded slowly.
 
 Neither of us spoke for several seconds.
 
@@ -244,17 +238,13 @@ Finally he asked, "Have you tried that before?"
 
 "And?"
 
-"It became warm."
-
-"Always?"
-
-"No."
+"Nothing. Every time."
 
 "Under what conditions?"
 
-"I don't know."
+"All of them I could think of."
 
-That answer seemed to satisfy him.
+That answer seemed to satisfy him more than the other one would have.
 
 We returned to the door.
 
@@ -304,11 +294,11 @@ Neither did I.
 
 I unwrapped the gear once more.
 
-The warmth returned immediately.
+The metal was as cold as it had been.
 
 I held it near the depression.
 
-The sensation intensified.
+Nothing changed in my hand.
 
 For a moment, I thought I felt a faint vibration through the metal.
 
@@ -320,7 +310,9 @@ Marlow caught my wrist.
 
 I stopped.
 
-The warmth remained.
+I held still and waited for the sensation to come again.
+
+It did not.
 
 Nothing else happened.
 
@@ -332,7 +324,7 @@ No opening.
 
 After several seconds, I lowered my hand.
 
-The warmth disappeared.
+The gear was cold, and had never been anything else.
 
 We left the door closed.
 
@@ -376,7 +368,7 @@ It was too certain.
 
 I rewrote it.
 
-The object reacts near the boundary.
+The object carries the same mark as the boundary stones.
 
 I paused.
 

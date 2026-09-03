@@ -482,11 +482,11 @@ Instead he leaned closer.
 
 "And?"
 
-"Warmth."
+"Nothing."
 
 "Anything else?"
 
-"No."
+"Nothing at all."
 
 He considered that.
 
@@ -568,13 +568,19 @@ He said nothing.
 
 After several minutes I wrapped the gear and put it back inside my coat.
 
-"You said it reacted."
+"You expected that."
 
-"It has."
+"I expected nothing. That is not the same."
 
-"Then why not now?"
+"Then what was the test for?"
 
-"That is the question."
+"To see what you would do when it failed."
+
+I considered that.
+
+"It hasn't failed. It hasn't done anything at all."
+
+"No," he said. "It hasn't."
 
 I thought about the stones.
 
@@ -582,11 +588,13 @@ The door.
 
 The boundary.
 
-The warmth.
+The long list of nothings in my notebook.
 
-Perhaps the object did not respond to a symbol.
+Perhaps the object was not meant to answer a symbol.
 
-Perhaps it responded to something else.
+Perhaps it was not meant to answer anything I could put in front of it.
+
+Perhaps whatever it belonged to was not in this garden.
 
 Distance.
 
@@ -620,35 +628,27 @@ Nothing.
 
 I lowered it.
 
-The warmth began slowly.
+Nothing.
 
-I stopped.
+I held it there.
 
-I waited.
+I counted to sixty.
 
-It became warmer.
+Still nothing.
 
-Not enough to burn.
-
-Enough to make my fingers tense.
+The metal in my fingers was the temperature of the night and the stone and my own hand, and nothing else.
 
 I moved it away.
 
-The warmth faded.
-
 I brought it closer.
-
-It returned.
 
 I repeated the movement three times.
 
-The result was the same.
+The result was the same each time.
 
-That was new.
+That was not new.
 
-I was no longer dealing with a single strange occurrence.
-
-I was dealing with something I could reproduce.
+It was the same nothing I had been recording since January.
 
 I placed the gear against the depression.
 
@@ -673,6 +673,14 @@ Nothing followed.
 The door remained closed.
 
 I stared at it.
+
+That was new.
+
+Not the metal in my hand. The ground.
+
+I was no longer dealing with an object that refused to be interesting.
+
+I was dealing with something beneath the door that had moved when the gear was set into the stone.
 
 Part of me wanted to try again.
 
