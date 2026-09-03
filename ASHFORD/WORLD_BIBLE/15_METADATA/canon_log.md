@@ -34,6 +34,24 @@ This separation ensures that:
 
 ---
 
+## 2026-09-03: PROPOSED Arc 2+ — Eleanor Shaw as First Anonymous Token Recipient & Anonymous Network Foundation
+
+**Event**: Created PROPOSED World Bible entry establishing Eleanor Shaw as the leading candidate for the first anonymous recipient of a supernatural Token from Leon Ashcroft during Arc 2 or later.
+
+**Actions**:
+- Updated `04_CHARACTERS/characters/Eleanor_Shaw.md` — added ARC 2+ PROPOSAL section (character function, Leon/Eleanor distinction, knowledge boundary, Token relationship, visual canon note, canon tension re: prior Ch 57 acquaintance)
+- Created `08_UNDERGROUND/ANONYMOUS_TOKEN_NETWORK.md` — design file (status, character role, motivation, personality, knowledge boundary, Token relationship, anonymous correspondence, Leon's relationship, future network model, information asymmetry, risks, canon constraints, open questions)
+- Eleanor's existing CANON status (Order of Severence, The Archivist) preserved unchanged
+- All new material labeled PROPOSED — awaiting author approval
+- No manuscript files modified
+
+**Master Index Entry**:
+> PROPOSED — Eleanor Shaw = primary candidate for first anonymous Token recipient (Arc 2+). Anonymous network foundation documented (decentralized, cautious, NOT a Tarot Club copy). Open question: how anonymity is maintained given Eleanor and Leon already met in Ch 57. All PROPOSED.
+
+**Status**: PROPOSED — ARC 2+. Not implemented in manuscript.
+
+---
+
 ## 2026-09-03: Visual Canon Added — Bell, Ysabel, Marr, Adeline, Wren
 
 **Event**: Visual Canon sections added or files created for 5 more characters.
