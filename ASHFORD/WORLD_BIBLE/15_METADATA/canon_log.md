@@ -34,6 +34,26 @@ This separation ensures that:
 
 ---
 
+## 2026-09-03: Silas Crowe Visual Generation Package V2
+
+**Event**: Added production-ready dual-mode generation package for Silas Crowe (Anime Portrait, Anime Full Body, Realism Portrait, Realism Full Body) to `CHARACTER_IMAGE_PROMPTS.md`.
+
+**Actions**:
+- Added `# SILAS CROWE — V2 GENERATION PACKAGE` section after the Leon V2 package
+- Design principle: MEMORABLE THROUGH RESTRAINT (the inverse of Leon)
+- Contains: Canon Identity Lock, Shared Visual Identity, facial construction, 4 production prompts, 3 negative constraint sets, generation notes, identity consistency checklist, approval checklist, image review criteria
+- Crowe's Order of Severence affiliation is NOT visually readable (no villain/occult/society coding)
+- No canon changed; no PROPOSED detail became CONFIRMED; no images generated
+- No manuscript files modified
+- Also noted: Leon's generated images exist in `04_CHARACTERS/IMAGES/LEON_ASFCROFT/` (folder name contains typo — flag for rename)
+
+**Master Index Entry**:
+> SILAS CROWE V2 generation package added. Four prompts (Anime/Realism × Portrait/Full Body) share one Identity Lock. Memorable through restraint. Dark still eyes + mouth-directed gaze + drab grey-brown coat consistent. No Order of Severence visual coding.
+
+**Status**: V2 — DRAFT / PROPOSED. No images generated.
+
+---
+
 ## 2026-09-02: Leon Ashcroft Visual Generation Package V2
 
 **Event**: Added production-ready dual-mode generation package for Leon Ashcroft (Anime Portrait, Anime Full Body, Realism Portrait, Realism Full Body) to `CHARACTER_IMAGE_PROMPTS.md`.

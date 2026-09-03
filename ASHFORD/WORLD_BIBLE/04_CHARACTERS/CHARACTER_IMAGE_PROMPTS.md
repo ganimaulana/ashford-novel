@@ -549,3 +549,200 @@ no glamour pose
 
 **Status:** V2 — LEON ASHCROFT GENERATION PACKAGE + IMAGE REVIEW CRITERIA — DRAFT / PROPOSED (not APPROVED)
 **Last Updated:** 2026-09-02
+
+---
+
+# SILAS CROWE — V2 GENERATION PACKAGE
+
+**Design principle:** MEMORABLE THROUGH RESTRAINT.
+
+Crowe is the inverse of Leon. Where Leon is memorable through refined presence, Crowe is memorable through ABSENCE — the man who is present in a room without having been seen to enter. His visual identity is not costume; it is stillness, a drab silhouette, and the unsettling detail that he watches the mouth of the person speaking rather than their eyes. He is dressed to be overlooked, and that is exactly what makes him unforgettable.
+
+He must NOT look like: a villain, an occult cultist, an Order agent in costume, a hooded figure, a spy, a generic sinister man, a fantasy antagonist. His Order of Severence affiliation must NEVER be readable from clothing or appearance.
+
+## 1. Canon Identity Lock
+
+| Element | Value | Status |
+|---------|-------|--------|
+| Age | Late 40s | PROPOSED |
+| Sex | Male | CONFIRMED |
+| Eye colour | Dark, still | PROPOSED |
+| Hair | Dark, receding, combed plainly | PROPOSED |
+| Complexion | Ordinary — NOT sallow | PROPOSED |
+| Build | Thin, not tall | PROPOSED |
+| Height impression | Middling to slightly below | PROPOSED |
+| Distinctive feature | Stillness; mouth-directed gaze; silent entry | PROPOSED |
+| Recurring prop | None | PROPOSED |
+| Clothing identity | Drab grey-brown coat, plain neckcloth, contrast waistcoat | PROPOSED |
+| Era | 1816 Britain | CONFIRMED |
+
+## 2. Shared Visual Identity (used verbatim in all four prompts)
+
+> A thin, unremarkable English man in his late 40s, year 1816. Ordinary face with unremarkable features — the kind of face passed over in a crowd — with an ordinary, not sallow complexion. Dark, receding hair combed plainly without fuss. Dark, still eyes. The single unsettling detail: his gaze is directed at the mouth of the person speaking rather than at their eyes. Thin build of middling or slightly below height; a posture of total stillness, as if he wastes no motion. He wears a drab grey-brown coat, a plain neckcloth, an unremarkable contrast waistcoat, and quiet boots. The overall impression: a man who is present without having been seen to enter — unease from stillness, never from costume.
+
+### Facial Construction
+
+- **Face shape:** narrow, unremarkable; forgettable by design
+- **Jawline:** lean, unremarkable — neither weak nor strong
+- **Cheek structure:** flat, thin, no prominence
+- **Brow structure:** low, level; no expression at rest
+- **Nose:** ordinary, moderate
+- **Mouth:** thin, neutral; almost always without expression
+- **Eye shape:** dark, hooded but not heavy; fixed, patient
+- **Eyelid structure:** natural, unremarkable
+- **Hairline:** receding at the temples, combed flat and plain
+- **Overall impression:** a face one cannot afterwards describe — except for the eyes, and the way they watch the mouth
+
+## 3. Anime Portrait Prompt
+
+> Sophisticated mature historical seinen anime portrait of a thin, unremarkable English man in his late 40s, year 1816. Waist-up framing. Refined anime facial construction with realistic human proportions: a narrow unremarkable face, lean unremarkable jawline, flat thin cheeks, low level brow, ordinary nose, thin neutral mouth. Ordinary, not sallow complexion rendered naturally. Dark, receding hair combed plainly without fuss, period-plausible for 1816. Dark, still eyes — restrained, NOT oversized — fixed on the viewer's mouth rather than the eyes, a subtle and unsettling detail. He wears a drab grey-brown coat over an unremarkable contrast waistcoat and a plain neckcloth. Total stillness of expression. Muted colour palette, minimal light, flat cinematic composition, painterly / cel-shaded rendering with refined linework and detailed drab fabric texture. Restrained Gothic atmosphere, grounded realism. The character is unmistakably Crowe: the stillness, the mouth-directed gaze, the absence of visual drama. NO Order of Severence visual coding, no villain styling.
+
+## 4. Anime Full Body Prompt
+
+> Sophisticated mature historical seinen anime full-body reference of a thin, unremarkable English man in his late 40s, year 1816. Full figure visible from head to feet, three-quarter view, neutral standing pose. Refined anime facial construction with realistic proportions: narrow unremarkable face, dark still eyes (not oversized), dark receding hair combed plainly. Thin build of middling or slightly below height; posture of total stillness, weight settled, hands still at his sides. He wears a drab grey-brown coat, an unremarkable contrast waistcoat, a plain neckcloth, and quiet period boots — a deliberately unremarkable 1816 silhouette. Muted palette, minimal light, flat cinematic composition, painterly / cel-shaded rendering with refined linework and detailed drab fabric texture. Full body visible — no cropped feet, no distorted hands, no excessive coat movement. The unease comes from stillness, never costume.
+
+## 5. Realism Portrait Prompt
+
+> Photorealistic historical portrait of a thin, unremarkable English man in his late 40s, year 1816. Waist-up framing. Realistic facial anatomy: narrow unremarkable face, lean unremarkable jawline, flat thin cheeks, low level brow, ordinary nose, thin neutral mouth. Ordinary complexion with natural skin texture — not sallow, not dramatic. Dark, receding hair combed plainly, physically plausible and period-correct for 1816. Dark, still eyes with realistic detail — gaze directed at the viewer's mouth rather than the eyes, a subtle unsettling detail. He wears a drab grey-brown coat over an unremarkable contrast waistcoat and a plain neckcloth. Total stillness of expression. Natural muted daylight, simple period interior background, restrained composition, subtle Gothic atmosphere. Realistic wool and linen fabric texture, natural skin texture, no beauty filters. The character is unmistakably Crowe: the stillness, the mouth-directed gaze, the absence of visual drama. NO Order of Severence visual coding.
+
+## 6. Realism Full Body Prompt
+
+> Photorealistic historical full-body reference of a thin, unremarkable English man in his late 40s, year 1816. Full figure visible head to feet, three-quarter view, neutral standing pose. Realistic facial anatomy: narrow unremarkable face, dark still eyes with realistic detail, dark receding hair combed plainly. Thin build of middling or slightly below height; posture of total stillness, weight settled, hands still. He wears a drab grey-brown coat, an unremarkable contrast waistcoat, a plain neckcloth, and quiet period boots — a deliberately unremarkable 1816 silhouette. Natural muted daylight, simple period interior background, restrained composition, subtle Gothic atmosphere. Realistic wool and linen fabric texture, natural skin and hair texture. Full body visible — no cropped feet, no distorted hands, no excessive coat movement. The unease comes from stillness, never costume.
+
+## 7. Shared Negative Constraints
+
+```
+no black clothing as default
+no sallow sinister complexion
+no occult robes or symbols
+no secret-society uniform
+no hooded framing
+no mysterious glowing eyes
+no supernatural aura
+no villain styling
+no dramatic lighting
+no fantasy elements
+no exaggerated menace
+no generic model appearance
+no modern clothing
+no post-1816 Victorian styling
+no steampunk
+no modern hairstyle
+no modern accessories
+no trench coat
+no spy costuming
+no scar
+no cold-gaze cliché
+```
+
+## 8. Anime Negative Constraints
+
+```
+no chibi
+no childish appearance
+no oversized eyes
+no exaggerated proportions
+no bishounen exaggeration
+no neon colours
+no magical aura
+no fantasy anime armor
+no modern anime fashion
+no dramatic villain lighting
+no anime spikes
+```
+
+## 9. Realism Negative Constraints
+
+```
+no plastic skin
+no fashion-model appearance
+no beauty-filter skin
+no modern haircut
+no modern tailoring
+no superhero physique
+no fantasy realism
+no excessive cinematic effects
+no glamour pose
+```
+
+## 10. Generation Notes
+
+- Crowe's "factor" is behavioral: total stillness and the mouth-directed gaze. Every prompt must carry this.
+- He is dressed to be overlooked — drab grey-brown, no hat in company, nothing that draws the eye.
+- His Order of Severence affiliation is NEVER visible in clothing, posture, or symbols.
+- Anime mode: mature seinen, muted palette, minimal light, flat cinematic stillness.
+- Realism mode: photorealistic, ordinary face, natural texture, the same unsettling stillness.
+- No recurring prop — Crowe carries nothing visually memorable by design. His stillness is his signature.
+- Model-agnostic: do not reference any specific artist, model, or existing character.
+
+## 11. Identity Consistency Checklist
+
+- [ ] Same approximate age (late 40s) in all four
+- [ ] Same facial structure (narrow, unremarkable, flat cheeks, ordinary nose)
+- [ ] Same hair (dark, receding, combed plainly)
+- [ ] Same eyes (dark, still, mouth-directed gaze)
+- [ ] Same build (thin, middling or slightly below)
+- [ ] Same clothing (drab grey-brown coat, contrast waistcoat, plain neckcloth, quiet boots)
+- [ ] Same stillness of posture
+- [ ] Same absence of visual props
+- [ ] Same silhouette — recognizable by its unremarkableness
+- [ ] 1816 historical constraint respected in all four
+
+## 12. Approval Checklist
+
+- [ ] The four images look like the same person
+- [ ] Dark still eyes consistent; mouth-directed gaze present
+- [ ] Dark receding hair consistent
+- [ ] Drab grey-brown coat consistent
+- [ ] No Order of Severence visual coding in any version
+- [ ] No villain styling, occult symbols, or supernatural effects
+- [ ] Crowe is memorable through stillness, not costume
+- [ ] No PROPOSED detail became CONFIRMED canon
+- [ ] Anime version is mature seinen (not fantasy villain)
+- [ ] Realism version is photorealistic (not sinister or generic)
+
+## 13. Image Review Criteria — Silas Crowe
+
+### A. Identity Consistency
+- Is the character recognizably Crowe without context?
+- Are the narrow unremarkable features, dark still eyes, and receding hair intact?
+- Is the facial structure the same across Anime ↔ Realism?
+
+### B. Historical Accuracy
+- Is the drab grey-brown clothing plausibly 1816?
+- Are the coat, waistcoat, neckcloth, and boots period-correct?
+- Is the hairstyle historically plausible?
+
+### C. Silhouette
+- Is Crowe's silhouette recognizable by its unremarkableness — thin, drab, still?
+- Is it the same between Anime and Realism?
+
+### D. Facial Distinctiveness
+- Is the face unremarkable by design but still identifiable?
+- Are the eyes the memorable element (dark, still, mouth-directed)?
+- No dramatic villain features, no scars, no cold-gaze cliché?
+
+### E. Clothing
+- Is the drab grey-brown coat present?
+- Is the contrast waistcoat unremarkable?
+- Does NO item signal the Order of Severence?
+
+### F. Character Presence
+- Does the image convey total stillness?
+- Does the gaze direct toward the mouth of the speaker?
+- Is the unease behavioral, not costumed?
+
+### G. Anime / Realism Correspondence
+- Do the Anime and Realism versions depict the SAME person?
+- Is the Anime version mature seinen (not fantasy villain)?
+- Is the Realism version photorealistic (not sinister or generic)?
+
+### H. Absence of Unintended Supernatural Cues
+- No occult symbols, glowing eyes, magical aura, or hooded framing?
+- No secret-society uniform or villain costuming?
+- Does Crowe look like an ordinary, forgettable 1816 man who is unforgettable only because of his stillness?
+
+---
+
+**Status:** V2 — SILAS CROWE GENERATION PACKAGE + IMAGE REVIEW CRITERIA — DRAFT / PROPOSED (not APPROVED)
+**Last Updated:** 2026-09-02
