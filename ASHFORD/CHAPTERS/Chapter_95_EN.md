@@ -1,193 +1,197 @@
-﻿CHAPTER 95 — THE LOCK
+CHAPTER 95 — THE RETURN
 
-I had the key. I could not yet tell what it opened.
+I returned to Ashford on the seventh day.
 
-I held it in my hand and I thought about the locks I knew. The door beneath the mill. The door beneath the common. The trapdoors. The chest in the vestry. The door of the tower.
+The road was longer on the way back. The wind had shifted to the east and brought rain with it, and I walked with my head down, my coat soaked through, the two clocks wrapped in cloth against my chest. I had found nothing in Darlington but an empty house and a dead end. The fourth clock was still out there, somewhere, and I could not yet tell where to look for it.
 
-I had tried none of them. I had not wanted to. The key was a thing I had bought, and I had brought it home, and I had not known what to do with it.
+I walked through the streets of Ashford in the late afternoon, and the town was as I had left it — ordinary, quiet, unchanged. The same carts. The same lamps. The same faces. The baker was closing his shutters. Two boys were kicking a ball against the wall of the church. A woman I did not know nodded to me as she passed, and I nodded back, and it seemed to me that I had never been away at all.
 
-There is a difference between a thing found and a thing used. A thing found can be set on a desk and looked at. A thing used must be put somewhere, must be turned, must be answered. The key demanded to be used, and I had not been ready to let it.
+I went to my rooms. I set the two clocks on the desk. I sat down, and I did not know what to do next.
 
-But I knew that it opened something. The first sign was on it. It had been made for a purpose.
+I had been gone a week. The boundary had held. The door was closed. The bell was silent. The keeping had not needed me. The stones had stood, and the houses had stood, and the bell had hung in the tower, and none of it had required my hand. That was a comfort, and it was also a strange thing, and I did not know which feeling to trust.
 
-I began to try the locks.
+But the hunting had not ended.
 
-Not all of them. Not the door beneath the mill. Not the door beneath the common. I was not ready for those. But I tried the others — the chest in the vestry, the door of the tower, the old locks in the houses I had been given access to.
+I had two clocks. The fourth was missing. And somewhere in Ashford, a man was asking questions about old clocks.
 
-I went about it as I went about everything in the keeping: methodically, in daylight, with the key wrapped in cloth and my reasons ready in case anyone asked. No one asked. The town had grown used to me carrying old things and asking old questions. I was the keeper. Keepers did such things.
+I needed to find him before he found the fourth clock.
 
-The key did not fit any of them.
+I sat at the desk for a long time, looking at the two clocks, and at the empty space where the others should have been. The first sign was on both of them. I had walked four days north and come back with nothing but the same two marks and a certainty that I was not alone in the hunt.
 
-I stood in the tower with the key in my hand, the iron still cold though I had carried it in my pocket against my chest for hours, and I felt the particular flatness of a door that will not take what you offer it. The locks I tried were honest locks. They admitted their matches and refused the rest. The key was not refused. It simply was not recognized.
-
-I sat at my desk, with the key in my hand, and I did not know what it opened.
-
-I had three clocks. I had the key. I had the object. I had the first sign on all of them.
-
-But I did not know what the key was for.
-
-I could not say what the clocks were for.
-
-I could not tell for certain why the first sign was on them.
-
-I had found the objects. I had not found their meaning.
-
-The difference between the two, I was learning, was the whole of the keeping. A man could hold the account in his hands and still not know what it was an account of.
+I had to find the man before he found the fourth clock. That much I knew. The rest — who he was, what he wanted, how he had known about the clocks — I could not say.
 
 ---
 
-I returned to the library.
+I found Theo Marsh at his stall the following morning.
 
-Marianne was there. I set the key on the table before her.
+The market was quieter than it had been in the autumn. The last of the season's vegetables were on the stalls, and the crowd was thin. Theo sat behind his blanket of unwanted things, his hands folded, watching the passers-by.
 
-"Do you know what this opens?" I said.
+He looked up when I approached. "You've been gone," he said.
 
-She picked it up. She turned it over. She looked at the mark.
+"I have."
 
-"The first sign," she said.
+"Did you find what you were looking for?"
 
-"Yes."
+"No."
 
-"It is a key to a lock that no longer exists," she said. "That is what the records say. A lock that no longer exists."
+He was quiet a moment. He did not ask where I had gone. He did not ask what I had been looking for. He simply sat, and I could see him weighing what he knew against what he had decided to tell me.
 
-"A lock that no longer exists," I repeated.
+"There's a man," he said. "He's been coming to the market. Asking about old clocks. He talked to me yesterday."
 
-"It may have been destroyed," she said. "Or it may have been moved. Or it may have been sealed. The records do not say."
+I felt the cold settle in my chest.
 
-She set the key down. She did not push it back toward me. She left it where it lay, between us, on the table, as though it were a question we were both deciding how to hold.
+"What did he look like?"
 
-"There is something else," she said. "The records that mention the lock do not describe it as a door. They describe it as a thing that was made. By a particular hand. For a particular keeping."
+"Tall. Dark coat. Older than you. He spoke like a man who was used to getting answers." Theo looked at me. "He asked about the clock I sold you. He knew about it."
 
-"What keeping?"
+"Did you tell him you sold it?"
 
-She was quiet a moment. "The records do not say. They only note that it was not an ordinary lock, and that it was not made for an ordinary door, and that the hour at which it would open was written down somewhere and then the writing was lost."
+"I told him I didn't remember." Theo shrugged. "I sell a lot of things. I don't keep track of every broken clock."
 
-I stood in the library.
+I nodded. "Thank you."
 
-A lock that no longer exists.
+Theo looked at me. "You're not just a collector, are you?"
 
-A lock that was not made for an ordinary door.
+I did not answer.
 
-A lock whose hour had been written down and then lost.
+"I didn't think so." He turned back to his stall. "Be careful."
 
-I had been trying to find the lock. I had been trying the locks in Ashford. I had not found one that fit.
+I left the market. Someone was asking about the clock. Someone knew I had it. And I did not know who he was, or what he wanted, or whether he was the same man the traveller had spoken of in the inn. The man in the inn had been offering money for information. The man at the market had been asking about a specific clock — the clock I had bought. He knew about it.
 
-But perhaps the lock was not in Ashford.
+But there was something else in what Theo had said, and I turned it over as I walked. The man had asked about the clock I bought. That meant he had been watching the market. That meant he had been watching me, or watching the stall, or watching for the clock to surface.
 
-Perhaps it was elsewhere.
+It had surfaced with me.
 
-Perhaps it was in a place I had not thought to look.
+And I did not know whether that made me a problem to him, or an answer.
 
----
-
-I went to the end of Bellweather Lane.
-
-I had not been to Bellweather House since the autumn. I had kept it, but I had not entered it. I had not needed to.
-
-The house stood at the end of the lane the way it had always stood, grey and patient, holding its silence the way the vestry held its records. It had been the house of the first sign before I was born. It would be that after I was gone. A house, like a lock, waits for whoever is meant to come.
-
-I stood before the house, in the grey light, and I looked at it.
-
-The house of the first sign. The kept house.
-
-I had found the second object there. I had found the passage. I had found the chamber.
-
-I had no way of knowing whether the house held a lock that the key would fit.
-
-But I knew that I had to look.
-
-I opened the door. I crossed the bare room. I entered the windowless room, where I had found the second object.
-
-The room was bare. The table was gone. The box was gone.
-
-The dust had settled again over the place where they had stood, and I could not say whether that comforted me or not. The house was returning to what it had been before I came — a kept house, empty of everything but the keeping.
-
-I knelt. I felt along the floor, where the trapdoor had been.
-
-It was still there. The iron ring. I pulled.
-
-The passage opened.
-
-I went down.
+But I knew that I had to find him before he found the fourth clock.
 
 ---
 
-The passage was as I had left it. The stone walls. The first signs, carved into the stone at intervals. The smell of earth and old air, unchanged.
+I found him that evening.
 
-I walked the passage, past the first signs, to the chamber.
+He was at the lending library, talking to Marianne. I saw him through the window before I entered — tall, dark coat, older than me, with the look of a man who was used to getting answers. He stood by the table with his back to the glass, and Marianne sat with her pen still in her hand, and I could not hear what they were saying.
 
-The chamber was as I had left it. The first sign on the floor. The empty space where the object had been.
+I waited until he left.
 
-I knelt.
+I watched him come out of the chandler's door and stand in the street for a moment, looking up and down. He did not look at me. He turned, and he walked away up the street, and I watched him go, and I tried to fix his shape in my mind — the height, the coat, the way he moved. He moved like a man who had walked a great many streets in his life and had learned not to hurry.
 
-I looked at the first sign on the floor.
+I entered the library. Marianne was at her table, her pen in her hand, but she was not writing.
 
-I had set the object in it before. The stone had warmed. I had felt the place beneath.
+"He asked about the clocks," she said before I could speak.
 
-That was what I remembered most clearly — not the finding, but the warmth. The stone had warmed under the object, as though the sign had recognized what was set upon it. I had not understood it then. I was not certain I understood it now.
+"I know."
 
-I took out the key.
+"He knew about the four clocks. He knew about the mark on the back. He knew about the woman in the dark coat."
 
-I held it over the first sign on the floor.
+I sat down across from her. "Did you tell him anything?"
 
-I could not say whether the key would fit. I could not tell for certain whether the first sign was the lock.
+"No." She looked at me. "But he knew more than I did. He knew that the Langford clock is still in Ashford."
 
-I set the key on the first sign.
+I was very still.
 
-It did not fit.
+"The Langford family," she said, "did not disappear from Ashford. They changed their name. The records are incomplete, but I found it this morning. The Langfords became the Ashworths, and they are still in Ashford."
 
-The key was not meant for the first sign on the floor.
+I stood.
 
-The stone did not warm. The key lay where I had set it, a dead weight, as foreign to the chamber as I was myself.
+"Where?"
 
-I picked it up. I stood. I looked around the chamber.
+She gave me an address. A street on the eastern edge of town.
 
-There was nothing else. The walls were bare. The floor was bare.
+I took it. I thanked her. I left.
 
-The key did not open anything in the chamber.
+The fourth clock was still in Ashford. The man in the dark coat knew about it. And I had to find it before he did.
 
-I left the chamber. I walked back along the passage. I climbed the ladder. I closed the trapdoor. I left the house.
+The man had been to the library. He had asked about the clocks. He had known about the woman in the dark coat. He had known that the Langford clock was still in Ashford — before I had known it. He had come to Ashford with the answer already in his hands, and he had been asking questions not to learn, but to confirm.
 
-I walked home through the cold streets, with the key in my coat, and I had no way of knowing what it opened.
-
-The lamps were being lit along the High Street. I watched the light spread from window to window, and I thought about how a town answers the dark — not all at once, but one lit window at a time. The lock was somewhere, answering or not answering, and I had not found the window.
+I walked faster.
 
 ---
 
-I sat at my desk.
+I walked to the eastern edge of Ashford.
 
-The key was before me. The clocks were in the drawer. The object was on the desk.
+The house was at the end of a quiet street, set back from the road, with a garden in front and a low wall. The light was going. A lamp was lit in the front window. I knocked.
 
-I could not say what the key was for.
+A woman answered. She was young, perhaps thirty, with a child at her side. The child held her skirt and looked up at me with wide, careful eyes.
 
-I had found it. I had tried the locks I knew. I had tried the chamber beneath Bellweather House. Nothing had opened.
+I asked about the clock.
 
-I could not tell for certain where the lock was.
+She looked at me for a long moment. I could see her taking me in — my coat, my face, the fact that I had come at dusk to ask about a clock. Then she led me inside.
 
-But I knew that it existed. The key had been made for a reason. The first sign was on it. It opened something.
+The room was warm. There was a fire, and a lamp, and the smell of cooking. The clock was on the mantelpiece. I could see it from the doorway. The same size. The same brass case. The same cracked face.
 
-A key could be made by accident. A mark could be cut by chance. But a key and a mark and a purpose, together, were not accidents. Someone had made the key for a lock, and someone had marked the key so that it would be recognized, and someone had kept them apart so that they would be brought together at the right time.
+I crossed the room. I picked it up. I turned it over.
 
-I had no way of knowing what.
+The first sign was there. Worn, but unmistakable. The circle. The three lines. The dot.
 
-But I knew that I would find it. It was sealed against any hour but 00:00, and the count of thirteen would take another step toward its end.
+I held it for a long moment.
 
-The lock was out there. I would find it. It was sealed against any hour but 00:00, and the count of thirteen would take another step toward its end.
+"I would like to buy it," I said.
 
-I was a keeper. I was a hunter.
+She looked at me. "A man came yesterday," she said. "He asked about the clock. He offered me money for it."
 
-And the hunt was not over.
+"Did you sell it?"
+
+"No." She looked at the clock. "It was my grandmother's. I did not want to sell it."
+
+I stood in the room, with the clock in my hands. The man in the dark coat had been here. He had offered money. He had been refused. I could not say whether he would come back. I could not say whether he would take the refusal as an answer.
+
+I set the clock down. I looked at the young woman, and the child, and the fire, and the small warm room, and I understood that she did not know what she was keeping. She was keeping her grandmother's clock because it was her grandmother's clock. The mark on the back meant nothing to her. The man had come with money, and she had refused, not out of knowledge, but out of love.
+
+"I will not sell it," she said again. "But I will let you borrow it."
+
+I looked at her.
+
+"Bring it back," she said. "When you have found what you are looking for."
+
+I could not tell for certain what to say. She was trusting me with something she did not understand, and I did not know whether that trust was earned or stolen. I thanked her. I left the house with the fourth clock, and I walked home through the streets of Ashford, with the weight of it in my coat.
+
+The street was dark. The lamps were lit. I passed the chandler's shop, dark now, and the lending library above it, dark too. I thought about the young woman's grandmother, who had kept the clock, and the child who had watched me take it from the mantelpiece.
+
+I had three clocks.
+
+The second was still missing, somewhere with the woman in the dark coat.
+
+But I had three.
+
+I had the first, the third, and the fourth.
+
+I had three clocks, and the first sign, and the beginning of a hunt that I had not known I was on.
+
+---
+
+I sat at my desk. I set the clocks before me — three whole, one empty space where the second should have been.
+
+I looked at the numbers inside the cases.
+
+I, III, IV.
+
+The second was missing. The woman in the dark coat had it. She had bought it from the Fenns years ago, and she had not been seen since, and somewhere — in Ashford, or beyond it — she was holding the second clock and waiting, as I was waiting, to understand what the four of them were for.
+
+But I had three.
+
+And I would find the fourth — no, I had the fourth now. I would find the second. I would find the woman in the dark coat. I could not say how, or when, or what I would find when I did. But I would not stop.
+
+I had no way of knowing what the clocks were for. I could not say why the first sign was on them. I could not tell for certain who had numbered them, or why, or when.
+
+But I knew that I was not the only one looking.
+
+And I knew that the hunt was not over.
 
 I opened the red book. I wrote:
 
-I have the key. I do not know what it opens. It does not fit any lock I know.
+*I have found the fourth clock. It was kept by the Ashworths, who were once the Langfords, and a young woman let me borrow it. The second is still missing. The woman in the dark coat took it, years ago. A man in a dark coat came to Ashford asking about the clocks, and he knew that the fourth was here.*
 
-But it was made for a lock. The first sign is on it. The lock exists.
+*I have three clocks. I do not know who the man is. I do not know who the woman is.*
 
-I will find it.
+*But the hunt continues.*
 
 I closed the book.
 
-A lock that no longer existed, a key that fitted nothing I knew: these were the questions the keeping had left me, and I carried them back through the town toward the hour that had not yet come.
+I was a keeper.
 
-The drawer was closed. The clocks were inside it. The key was in my coat, against my chest, and I could feel its cold through the cloth — a small reminder, constant as a pulse, that the lock was still waiting somewhere, and that the hour, whenever it came, would find me ready.
+I was a hunter.
+
+And I would not stop until I had found the second clock.
+
+And until I had learned what the clocks were for.

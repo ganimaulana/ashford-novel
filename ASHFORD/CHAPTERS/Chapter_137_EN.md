@@ -1,122 +1,105 @@
-﻿CHAPTER 137 — THE CROSSING
+CHAPTER 137 — THE CALLING
 
-I waited at the river for three days.
+The summer came to the marsh, and I stayed.
 
-I did not cross. I did not turn back. I stayed on the bridge, in the grey light, and I watched the river, and I waited. The Tokens were warm against my chest — three first signs, three pieces of the divided count — and they had not changed. They did not lean toward the far bank. They did not grow warmer. They told me nothing, and I stood on the bridge, and I waited for them to tell me something, and they did not.
+The marsh people had said the keeping was the thing, and the keeper was not, and I had come to understand how deep that went. I was not needed at the house the way the house was needed. It would stand whether I knelt at the sign or not; the sign would be there whether I read it or not. The keeping did not depend on me. And yet I kept it. That was the shape of it — the count moving through the world, and the keepers moving with it, and the keeping going on whether any one of them understood it or not.
 
-The river moved below me, slow and deep, the way it had moved for a thousand years. I watched the water carry the light of the grey sky, and carry leaves and small branches and the things the water had taken, and carry none of them anywhere in particular. The river was not going anywhere. It was only moving, and the moving was enough.
+I kept the house through the summer. I went to it each day. I knelt at the first sign. I did not move the stone. The marsh people came and went in their boats, and the woman came to sit at the edge of the clearing, and we watched the house together, and we did not always speak.
 
-On the first day I waited, and I thought about the keeping. I thought about the boundary in Ashford, and the tally of the keepers cut into the fourth stone, and the bell that would ring at 00:00 when the count was ready. I thought about the marsh, and the house I had kept through the winter that had never been kept, and the marsh woman's voice saying that the keeping was the thing and the keeper was not.
+"You are still here," she said, one evening.
 
-On the second day I waited, and I thought about the choice. I thought about the crossroads, and the Tokens that had given me no direction, and the south road I had chosen, and the river I had walked to, and the choice that lay in it now. I thought about the keeper before the first keeper, who had divided the count into thirteen so that it could not be lost, and about the ten markers still scattered in the world, waiting for me to gather them.
+"I am still here."
 
-On the third day I waited, and I stopped thinking. The river moved. The Tokens were warm. The grey light held the bridge and the water and me, and I stood in it, and I waited, and I did not know what I was waiting for.
+"The house has told you nothing new?"
 
----
+"It has told me nothing," I said. "It is silent. The ring of stones is silent. The first sign is silent. And I am silent with them."
 
-On the third day, a man came to the bridge.
+She nodded. "That is how it was kept before," she said. "In silence. The house was kept empty and closed, and the keeping was in the silence of it. The keeper who comes must be able to keep a silence."
 
-He was old. He walked with a stick, and he carried a bag over his shoulder, and he moved the way old men who have walked a long way move — slowly, carefully, with nothing left to hurry for. He came up the road from the south, onto the bridge, and he looked at me, and he looked at the river, and he looked at me again.
+"I can keep a silence," I said.
 
-"You have been here a while," he said.
+"Yes," she said. "I think you can. That is why the house opened to you."
 
-"I have."
+I did not know what to say to that. The house had not opened to me, exactly. It had never been locked. I had walked in because the Token had been warm, and because the count had called me north, and because I had followed. I had not opened the house. I had only arrived at it.
 
-"You are waiting to cross."
+"Perhaps," I said, "the house was not opened. Perhaps it was only kept."
 
-"I am waiting to know whether I should cross."
+She looked at me a long moment, and then she smiled — the first smile I had seen from her, and the last I would see for a long time.
 
-He looked at the river. The water moved below us, dark and slow, and he looked at it the way a man looks at something he has known all his life and has stopped needing to understand.
-
-"The river does not care," he said. "It has been here for a thousand years. It will be here for a thousand more. It does not care whether you cross."
-
-I looked at the river.
-
-"I am not waiting for the river," I said. "I am waiting for the count."
-
-He looked at me. His eyes were old, and they had seen many things, and they did not change when I said the word.
-
-"The count," he said.
-
-"The count of the keepers," I said. "It has been calling me. It led me to the marsh, and to the house on the hill, and to the crossroads. And now I am at the river, and I do not know whether it wants me to cross."
-
-He was silent a moment. The river moved below us.
-
-"And if you cross?" he said.
-
-"Then I will be on the other side of the river."
-
-"And if you do not cross?"
-
-"Then I will be on this side."
-
-He looked at me, and he nodded, slowly, the way old men nod when a thing has finally been put plainly.
-
-"Then the river has already decided," he said. "The river does not care. The count does not care. The count called you to the crossroads, and you chose, and you walked to the river. And now you are at the river, and the river does not care whether you cross."
-
-He looked at me, and his voice was quiet, and it carried no judgment and no comfort, only the plain fact of the thing.
-
-"You are the one who decides," he said.
-
-I stood on the bridge, and the words went into me the way the cold had gone into me in the marsh — slowly, and then all at once. I had been waiting for the count to tell me what to do. I had been waiting for the Tokens to lean, for the warmth to change, for some sign that would take the choosing out of my hands. And there was no sign. There had never been a sign. The count had led me to the crossroads, and I had chosen, and the count had led me to the river, and the river did not care, and the count did not care, and I was the one who decided.
-
-The old man walked past me, across the bridge, to the other side of the river.
-
-I watched him go. He walked down the road on the far bank, and he did not look back, and he did not hurry, and he did not slow. He had crossed the river, and the crossing was done, and the river had not cared, and neither had he.
-
-I stood on the bridge, and I understood.
+"Yes," she said. "Kept. That is the whole of it."
 
 ---
 
-I crossed.
+The night it happened came at the end of the summer, when the light had begun to shorten and the marsh had begun to think of autumn.
 
-I did not know what the south held. I did not know whether the count would call me again, or whether the ten markers would ever be gathered, or whether I was walking toward the next marker or only away from the last one. But the old man had crossed, and the river did not care, and the count did not care, and I was the one who decided.
+I was in the house. It was late, later than I usually went, and I had come not to kneel but to be still — to sit in the dark of the house the way the marsh people had sat in its silence for as long as anyone remembered. The first sign lay on the floor in the dark, and I sat with it, and I did not move the stone.
 
-I crossed the bridge.
+And then I felt it.
 
-I walked to the other side of the river, and I did not look back at the bank I had left. The road on the far side was a road like any other, and I walked it, and the Tokens were warm against my chest, and they had not changed, and I did not know where I was going.
+It began in the Token against my chest — the one I had carried all my life, the first sign, the mark I had worn before I knew what it was. It grew warm. Not the warmth of the summer night, not the warmth of my own body, but the other warmth, the warmth I had felt at the boundary in Ashford, at the door, at the chamber beneath Bellweather House, at the first sign on the wall of the common house. It was the warmth of the keeping. It was the count.
 
-I walked south for a month.
+I took out the Tokens. The first was warm. The second — the one from the kept house at the end of the lane — was warm too, warmer than it had been since I had found it. I held them up, one in each hand, in the dark of the house, and I watched them, and I did not know what I was watching for.
 
-I walked through towns and villages, through fields and woods, through country I had never seen. I walked through rain and sun and the long grey days of the season, and I did not stop. The Tokens were warm. They had not changed since the river. They did not lean, they did not grow warmer, they did not tell me where I was going, and I walked anyway, because I had crossed the river, and the crossing had been mine, and the walking was mine too.
+The warmth did not come and go. It settled. It steadied. It became a constant — warmer than it had ever been in the marsh, warmer than it had been when it led me to the house, and it was not going away.
 
-I did not know what I was looking for. I did not know whether the count would call me again. I walked, and I kept the Tokens warm against my chest, and I let the road teach me what it had to teach, the way the marsh had taught me, the way the keeping had always taught me — slowly, by walking, by keeping, by not knowing.
+I stood in the house, in the dark, with the warm Tokens in my hands, and I understood.
 
-And then I came to the sea.
+The count was calling.
 
----
+Not me, not yet — the Tokens. It was calling them onward. It had called me to the marsh, and to the house, and to the first sign on the floor, and I had kept them, and the keeping had been done. Now the count was turning toward the next marker — the second of the thirteen signs, the next threshold in the count. It was not calling me to find it. It was calling the Tokens, and I would follow, because that was what the keeper did. The keeper followed the calling.
 
-I stood on the shore, in the grey light, and I looked at the water.
+I stood a long time in the dark of the house, holding the warmth, letting it tell me what it had to tell. It told me nothing more. It only was — warm, steady, calling.
 
-The sea was wide. It moved the way it had moved for a thousand years — slow, steady, indifferent — and it did not end. The river had had a far bank. The sea had no far bank that I could see. It went on to the edge of the world, and beyond it there was only the sea, and I stood at the edge of the land, and there was nowhere further south.
+I went back to the shelter, and I did not sleep.
 
-I stood on the shore, and I waited.
+I sat through the night, with the Tokens warm against my chest, and I waited for the dawn. I had kept the house through a year. I had kept it through the winter that had never been kept. And now the count was calling me away from it, and I did not know whether I would return, and I did not know whether the house would be kept after I was gone. But the count was calling, and the keeper follows the calling. That is the keeping.
 
-The Tokens were warm against my chest. Three first signs. Three pieces of the divided count. And I stood at the edge of the sea, with ten more markers scattered somewhere in the world, and I did not know where they were, or whether I would find them, or whether the count would ever be made whole.
+At dawn I went to the village.
 
-I stood on the shore, and I waited, and in the waiting I understood.
+The marsh people were there — not all of them, but the woman, and the man who had come with her on the first day, and a few others. They had known. I do not know how they had known, but they had come to the village, and they stood in the grey light, and they looked at me, and I looked at them.
 
-The count had not called me to the sea to cross it. It had not called me to the sea to find anything. It had called me to the sea to stand at the edge of it, and to understand — that the calling was not about the destination. The calling was about the journey.
+"The count is calling," I said. "It is calling the Tokens. It is calling me to the next marker. I must follow."
 
-I had thought, for so long, that the thirteen signs were things to be found — markers on a road, signs to be gathered, a count to be completed. I had thought that the journey was the walking, and that the destination was the gathering, and that when all thirteen were found, the count would be complete and the bell would ring at 00:00 and the keeping would end.
+The woman looked at me a long moment.
 
-And standing at the edge of the sea, with the Tokens warm against my chest and the waves steady and indifferent, I understood that I had had it backwards.
+"Then you must go," she said. "The keeper follows the calling. That is the keeping."
 
-The thirteen signs were not markers of a path. They were the path itself. The journey was not the walking toward something. The journey was the destination. The keeping was not the holding of the count until the count was complete. The keeping was the thing itself — the walking, the waiting, the choosing, the standing at the edge of the sea with the Tokens warm against my chest and not knowing what came next.
+I looked toward the house — I could not see it from the village, but I knew where it stood, out in the marsh, patient as the stones — and at the ring of stones, and at the water that held them all.
 
-And yet a doubt remained, the way the tide remains at the foot of the shore. The sea had its own rhythm, and the count had its own purpose, and I had not yet learned to hear either clearly. I did not know whether I was keeping the count, or the count was keeping me. The keeping was the thing, or so I had been told; I had said it myself, many times, in many rooms. Standing at the edge of the sea, I could not tell whether the words were truth or habit. I was the keeper. That much I knew. What I did not know was whether the title had outlived the thing it named.
+"You will keep the house?" I said.
 
-I stood on the shore, and I waited. The sea moved, slow and steady. The Tokens were warm.
+"We will keep it," she said. "We have always kept it. We kept it before you came, and we will keep it after you are gone. We will keep it until the keeper returns."
 
-And I understood that I was not waiting for the count to call me somewhere. I was waiting for the count to call me to understand — and the understanding had come, at the edge of the sea, in the grey light, with the waves moving and the Tokens warm.
+"I do not know when I will return," I said. "I do not know whether I will return."
 
-The bell would call at 00:00 when the count was ready. I did not know when that would be. I did not know where I would be when it called. I did not know whether I would have gathered the ten markers that remained, or whether the count would ever be complete.
+"Then we will keep it," she said. "The keeping is the thing. The keeper is not. You have kept the house, and we have kept the marsh, and the house will be kept, whether you return or not. Go."
 
-But I knew that I would be ready.
+I stood in the village, in the grey light, and I understood that I was leaving a thing I had kept, and that I was leaving it in good hands, and that the keeping would go on without me. That was the shape of it. The keeper is not the thing. The keeping is.
 
-I would be ready wherever 00:00 found me — standing at the edge of the sea, or on a road in a country I had never seen, or at a threshold I had not yet reached. I would be ready because the journey was the destination, and the thirteen signs were the path itself, and I was walking it, and the walking was the keeping, and the keeping was the thing.
+I left the marsh that morning.
 
-I stood on the shore, and the waves moved, and the Tokens were warm, and I was not content, exactly — content was not a word I trusted anymore — but I was still. Not because I knew where the count was leading me; I did not, and I might never know. But because I understood, at last, that the not knowing was part of it, and that the waiting was not an interruption of the journey but the journey itself, and that I was the keeper of it, wherever it led.
+I walked north, along the causeway, away from the water, and I did not look back. The Tokens were warm against my chest, steady, constant, and the count was calling, and I would follow. The marsh fell away behind me, and the reeds gave way to fields, and the fields to lanes, and the lanes to the roads of the north, and I walked them all, and I did not know where I was going.
 
-The journey was not over. It had only just begun.
+For a week I walked.
 
+The land rose as I went north. The air grew thinner and drier. The towns grew fewer and farther apart, and the houses in them grew older, and the people in them looked at the stranger from the south the way people look at any stranger — briefly, and then not at all. I did not stop. I did not ask for directions. The Tokens were warm, and they had not changed since I left the marsh, and I followed them the way I had followed them to the marsh, the way I had followed them all my life — not knowing what they led to, only knowing that they led.
+
+On the seventh day, they changed.
+
+I was walking through a town at midday — a small town, a market town, with streets and houses and a church — when the Tokens grew warmer. I stopped in the middle of the street. I took them out. They were warm — warmer than they had been, warmer than they had been since the night in the house, warmer than they had ever been on the road. And they were not steady now. They were leaning. The warmth was not equal in my two hands. It was stronger toward one end of the town than the other.
+
+I looked up.
+
+The town ended at the foot of a hill, and on the hill, set back from the town, stood a house. It was large and old, built of stone, with a roof of slate, and it was set behind a wall of old stone that ran along the slope. A gate stood in the wall, and beyond the gate a drive of packed earth led up to the house.
+
+I stood in the street, in the midday light, and I looked at the house on the hill, and the Tokens burned warm against my chest, and I understood that the count had led me here. It had led me through the marsh, and away from the marsh, and north for seven days, and to this town, and to this house. It was the next threshold. The second of the thirteen signs was waiting for me there — or whatever the count had kept for me, behind that wall, in that old house on the hill.
+
+I walked toward it. The road led up from the town, past the wall of old stone, and the Tokens grew warmer with every step, and I came to the gate.
+
+It stood open.
+
+I paused at the open gate. It had been left open for me — I could feel that, the way I had felt the house in the marsh, the way I had felt the keeping waiting. The gate stood open, and the drive led up to the house, and the house waited at the top of the hill, and beyond the door of the house there was a threshold I had not yet crossed.
+
+I passed through the gate.
+
+The drive of packed earth led up to the house, and I walked it, and the Tokens were warm against my chest, steady and constant and sure, and I understood that I was being called to the next sign in the count of thirteen — and that whatever waited behind that door, I had been walking toward it all my life.

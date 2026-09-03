@@ -9,7 +9,7 @@
 ## I. PURPOSE
 - Provide a canonical-safe, expandable architecture for the Gear storyline from Arc 2 onward.
 - Ensure the Gear system becomes a major long-term narrative engine, not a collectible checklist.
-- Preserve all confirmed canon (the single Gear from Ch36/46/125) while allowing future Gear discoveries (PROPOSED).
+- Preserve all confirmed canon (the single Gear from Ch36/Ch49/Ch129) while allowing future Gear discoveries (PROPOSED).
 - Maintain strict semantic separation: Gear ≠ Artifact ≠ Token ≠ ERC.
 - Prevent accidental gameification and power creep.
 
@@ -18,7 +18,7 @@
 ## II. SOURCE-OF-TRUTH HIERARCHY
 
 ```
-MANUSCRIPT CANON (Ch 1–137)
+MANUSCRIPT CANON (Ch 1–141)
   > CONFIRMED WORLD_BIBLE CANON
     > MASTER_GEAR_BLUEPRINT.md (this document)
       > GEAR_STORY_ARCHITECTURE.md
@@ -35,10 +35,10 @@ MANUSCRIPT CANON (Ch 1–137)
 
 ### Experimentation subsystem — key findings (see subsystem document)
 
-- The **first serious Gear experiment is Ch40**, not Ch53: proximity warmth (repeatable), contact, one tremor through the stone beneath Leon's hand, and **no opening**.
-- **Ch46 escalates it:** rotation under applied pressure produces clicks and **one inch** of movement, cold air, and a faint unclassifiable sound — which Leon then deliberately closes. Door interaction stages 1–4 are therefore already CONFIRMED in canon; Arc 2+ escalation must move toward **perception**, not further physical opening.
-- **Ch53 and Ch59 are refusal scenes**, not experiments.
-- **Open manuscript conflict (author review):** `Chapter_62_EN.md:53` claims the Gear "had never warmed," contradicting Ch38/40/45/46. Recorded in the subsystem document; **not silently resolved.**
+- The **first serious Gear experiment is Ch40**, not Ch57: proximity warmth (repeatable), contact, one tremor through the stone beneath Leon's hand, and **no opening**.
+- **Ch49 escalates it:** rotation under applied pressure produces clicks and **one inch** of movement, cold air, and a faint unclassifiable sound — which Leon then deliberately closes. Door interaction stages 1–4 are therefore already CONFIRMED in canon; Arc 2+ escalation must move toward **perception**, not further physical opening.
+- **Ch57 and Ch63 are refusal scenes**, not experiments.
+- **Open manuscript conflict (author review):** `Chapter_66_EN.md:53` claims the Gear "had never warmed," contradicting Ch38/Ch40/Ch47/Ch49. Recorded in the subsystem document; **not silently resolved.**
 
 ---
 
@@ -47,31 +47,31 @@ MANUSCRIPT CANON (Ch 1–137)
 ### CONFIRMED (manuscript evidence)
 - **One Gear** exists in canon (Ch36, Mill Lane clock). It is circular, dark iron, worn by use, and bears the keeper's sign (a circle crossed by a short line).
 - **PHYSICAL SCALE — CONFIRMED DESIGN DECISION (2026-09-03):** diameter approximately **14–15 cm** — broad as the flat of an adult hand, thicker than a plate, substantial in mass. The Gear is **not** pocket-sized, and is not a coin, medallion, or Token-like object. The earlier manuscript phrasing "small enough to rest comfortably between two fingers" (Ch36) has been revised accordingly.
-- **CARRYING LOGIC — CONFIRMED:** Leon carries the Gear **wrapped in a square of cloth, inside his coat** (established Ch38, used consistently Ch40/45/46/48/49). It is not carried loose in a trouser pocket. The cloth wrapping also links to Vale's box, where the Gear lay in a folded cloth for fifty years (Ch46).
-- The Gear's temperature behaviour is canon: ordinarily **cold**; it **warms** near fractured boundary stones and the door depression (Ch38/40/45/46).
-- **Reconciliation (Ch46):** Vale's box is empty of the Gear; the gear Leon carried and the gear previously kept in the box are **the same Gear**. The box held it for 50 years before Vale set it where Leon would find it.
+- **CARRYING LOGIC — CONFIRMED:** Leon carries the Gear **wrapped in a square of cloth, inside his coat** (established Ch38, used consistently Ch40/Ch47/Ch49/Ch52/Ch53). It is not carried loose in a trouser pocket. The cloth wrapping also links to Vale's box, where the Gear lay in a folded cloth for fifty years (Ch49).
+- The Gear's temperature behaviour is canon: ordinarily **cold**; it **warms** near fractured boundary stones and the door depression (Ch38/Ch40/Ch47/Ch49).
+- **Reconciliation (Ch49):** Vale's box is empty of the Gear; the gear Leon carried and the gear previously kept in the box are **the same Gear**. The box held it for 50 years before Vale set it where Leon would find it.
 - **CUSTODY MODEL — CONFIRMED (2026-09-03).** Vale did **not** hand Leon the Gear as keeper equipment. Vale entrusted Leon with **one personal box** — his own private property, not a parish or Order archive — containing folded papers, a bundle of letters, a parish map with a corner missing, two stoppered bottles labelled in an unknown hand, a brass button, his wife's ring, and the empty cloth in which the Gear had lain. Vale's instruction is custody, not investiture: "These are mine. Not the parish's. Not the Order's. Mine." / "There is no one to leave them to." / "Keep the box." He states plainly that some contents are nothing, that some he never understood in fifty years, and that he cannot say which is which. He does **not** answer "Why me?"
   - The **Gear reached Leon separately** — he found it beneath the stopped clock at the mill (Ch36), before Vale's box was given. Vale had placed it "where a thing must be found and not given."
-  - Leon's title is therefore **custody arising from personal trust**, never institutional ownership. "The keeper's key" phrasing is retired from the Gear (Ch125). The surviving "keeper's key" in canon is the **tower/bell key** (Ch70, 73, 80, 114) — a different object.
-  - **Order/Constable claim (Ch49, Ch60):** the Order's "the gear belongs to the keeping" is **doctrine, not title**. Leon's counter is factual: the Order did not know the Gear existed until he told them (Ch49), and "a thing you did not know of is not a thing you were keeping" (Ch60). Vale's ownership ≠ Order's ownership.
-  - **Ch125:** Leon passes custody to Daniel in the same register — "Vale kept it for fifty years, in a box, among his letters and his papers, and then he put it where I would find it and never told me why… Now you will carry it." Explicitly: "I did not tell him it was his. I told him he would carry it." Chain = **custody, not ownership**: Vale → personal trust → Leon → deliberate trust → Daniel.
+  - Leon's title is therefore **custody arising from personal trust**, never institutional ownership. "The keeper's key" phrasing is retired from the Gear (Ch129). The surviving "keeper's key" in canon is the **tower/bell key** (Ch74, 73, 80, 114) — a different object.
+  - **Order/Constable claim (Ch53, Ch64):** the Order's "the gear belongs to the keeping" is **doctrine, not title**. Leon's counter is factual: the Order did not know the Gear existed until he told them (Ch53), and "a thing you did not know of is not a thing you were keeping" (Ch64). Vale's ownership ≠ Order's ownership.
+  - **Ch129:** Leon passes custody to Daniel in the same register — "Vale kept it for fifty years, in a box, among his letters and his papers, and then he put it where I would find it and never told me why… Now you will carry it." Explicitly: "I did not tell him it was his. I told him he would carry it." Chain = **custody, not ownership**: Vale → personal trust → Leon → deliberate trust → Daniel.
   - **UNKNOWN:** why Vale possessed the Gear; how he obtained it; whether he understood its function; why he chose Leon; whether he expected Leon to investigate it; the Gear's status beyond Vale's private ownership.
   - **VALE BACKGROUND (CONFIRMED 2026-09-03):** Vale was a veteran, then a Constable, then a senior figure in Constable intelligence and counter-intelligence, investigating internal compromise — including indications that Order members or associates had infiltrated parts of the Constable. He was demoted and transferred to Ashford under an innocuous official reason. This reframes the Gear's concealment: **PROPOSED** — he moved it out of anywhere searchable because people connected to a compromised Constable and/or the Order were looking for it. **UNKNOWN** — whether he intended Leon specifically to find it. Intended reader question: *"Did Vale hide the Gear so Leon would find it, or so nobody else would?"* Do not answer. Full profile: `../04_CHARACTERS/characters/Thomas_Vale.md`.
   - **Constable interest in Vale's effects is deliberately double-read:** institutional recovery of records, or one person's wish to learn what Vale retained. Do not resolve.
-- The Gear fits a depression in the stone door beneath the mill and is associated with the lock/mechanism (Ch53).
-- The Gear is **not** the key; the keeper's sign is the key (Ch53). The Gear is the lock/marker.
+- The Gear fits a depression in the stone door beneath the mill and is associated with the lock/mechanism (Ch57).
+- The Gear is **not** the key; the keeper's sign is the key (Ch57). The Gear is the lock/marker.
 - The Door is beneath the mill / chamber area (not at Leon's residence).
-- The Gear is passed to **Daniel** in Ch125 — wrapped, placed in Daniel's bag, with Leon telling only part of the truth and explicitly transferring **custody rather than ownership** ("I did not tell him it was his. I told him he would carry it."). Daniel does **not** understand its function. Leon's stated reason is the continuation of the keeping; his withheld reason is that the Gear has been asked after by a stranger and that he will not always be in that room.
+- The Gear is passed to **Daniel** in Ch129 — wrapped, placed in Daniel's bag, with Leon telling only part of the truth and explicitly transferring **custody rather than ownership** ("I did not tell him it was his. I told him he would carry it."). Daniel does **not** understand its function. Leon's stated reason is the continuation of the keeping; his withheld reason is that the Gear has been asked after by a stranger and that he will not always be in that room.
 - **INSCRIPTION — CONFIRMED FROM Ch36.** The confirmed Gear bears a cryptic inscription from its first appearance.
   - **Canonical text:** *"The mouth speaks before the ear receives."*
   - **Status:** CONFIRMED. **Meaning:** UNKNOWN. **Function:** UNKNOWN. **Ritual relationship:** PROPOSED.
   - **Physical placement:** shallow, unusually precise characters cut in a narrow band around the outer face, following the rim; worn at the crests but legible. Compatible with the 14–15 cm diameter. Archaic letter-forms; the words themselves are readable by Leon without special knowledge, and the manuscript adds no explanation for why.
   - **Second marking:** the keeper's sign (circle crossed by a short line) near the centre, worn almost flat — unresolved at the mill (Ch36), identified under lamplight in Ch38.
-  - **Ch46 (Vale):** confirms the sentence is genuine, unchanged in fifty years, and is not a name, date, or maker's mark. Neither Vale nor Leon can determine its purpose. There is **no second hidden message** and no answering inscription in the door's depression. The inscription exists; it is not explained.
-  - **Ch125 (Daniel):** Daniel finds and reads the sentence. Leon states plainly that he does not know what it means, that Vale did not either, and instructs Daniel not to decide its meaning out of impatience. Leon withholds the depression's location, the second door, and his own late suspicion that the sentence sounds like one half of an exchange.
+  - **Ch49 (Vale):** confirms the sentence is genuine, unchanged in fifty years, and is not a name, date, or maker's mark. Neither Vale nor Leon can determine its purpose. There is **no second hidden message** and no answering inscription in the door's depression. The inscription exists; it is not explained.
+  - **Ch129 (Daniel):** Daniel finds and reads the sentence. Leon states plainly that he does not know what it means, that Vale did not either, and instructs Daniel not to decide its meaning out of impatience. Leon withholds the depression's location, the second door, and his own late suspicion that the sentence sounds like one half of an exchange.
   - Do NOT interpret the sentence as ritual, instruction, or Door mechanic in canon. It may later prove to be an instruction, a ritual sequence, a resonance principle, a warning, a description of communication, or something more fundamental — all PROPOSED.
-- The second door/depression in the underground passage (Ch53) is shaped to accommodate the Gear.
-- **Obsolete development references:** Any older WORLD_BIBLE or development text stating "two Gears exist" is superseded by the Ch46 reconciliation. The manuscript establishes a single confirmed Gear.
+- The second door/depression in the underground passage (Ch57) is shaped to accommodate the Gear.
+- **Obsolete development references:** Any older WORLD_BIBLE or development text stating "two Gears exist" is superseded by the Ch49 reconciliation. The manuscript establishes a single confirmed Gear.
 
 ### PROPOSED (this blueprint and siblings)
 - Nine-Gear architecture.
@@ -94,9 +94,9 @@ MANUSCRIPT CANON (Ch 1–137)
 
 1. **Before Ch36:** The Gear was kept in Vale's box for ~50 years.
 2. **Ch36:** Leon finds the Gear beneath the Mill Lane clock.
-3. **Ch46:** Vale's box is empty. Leon learns the Gear from the box and his Gear are one and the same. The Gear had been placed where he would find it.
-4. **Ch53:** The Gear fits the door's depression; it is the lock; the keeper's sign is the key. A second door/depression in the underground passage, also shaped for the Gear.
-5. **Ch125:** Leon passes the Gear to Daniel, along with the book of the keeping and the Agreement.
+3. **Ch49:** Vale's box is empty. Leon learns the Gear from the box and his Gear are one and the same. The Gear had been placed where he would find it.
+4. **Ch57:** The Gear fits the door's depression; it is the lock; the keeper's sign is the key. A second door/depression in the underground passage, also shaped for the Gear.
+5. **Ch129:** Leon passes the Gear to Daniel, along with the book of the keeping and the Agreement.
 6. **Current state:** Daniel holds the confirmed Gear. Leon does not possess it.
 
 ---
@@ -424,9 +424,9 @@ Every meaningful use of a Gear must carry a cost or risk:
 
 ## XXIV. CONTINUITY CONSTRAINTS
 
-1. The confirmed Gear (Ch36/46/125) is a single object; its position among the nine (if any) is UNRESOLVED.
+1. The confirmed Gear (Ch36/Ch49/Ch129) is a single object; its position among the nine (if any) is UNRESOLVED.
 2. The Door is the stone door beneath the mill / chamber area; do not relocate it.
-3. The Gear is currently with Daniel (Ch125); any Gear quest in Arc 2 must account for this.
+3. The Gear is currently with Daniel (Ch129); any Gear quest in Arc 2 must account for this.
 4. Gear ≠ ERC; ERC is a record framework.
 5. Gear ≠ Token; Token is a separate artifact system.
 6. The ancient organization's disappearance remains unresolved.

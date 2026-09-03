@@ -18,7 +18,7 @@ The previous medical/research/Power-User framing (Version 1.0, 2026-08-31) is **
 **Name:** Order of Severence
 **Type:** Secret society (boundary/severance faction)
 **Concern:** the old boundary, the Agreement, and keeper-related matters
-**First chapter appearance:** Ch 41
+**First chapter appearance:** Ch 42
 
 ### Historical Nature
 A secret society operating in and around Ashford, concerned with preservation of the boundary established in older times and with the Agreement that bound certain families to a custodial role. The Order is NOT automatically allied with or hostile toward the **Constable** organization (Leon's organization) — per `ORGANIZATIONAL_AFFILIATION_LEDGER.md` (2026-09-02) and per Phase 3H D7. Constable ≠ Order of Severence.
@@ -68,7 +68,7 @@ Per Phase 3H D7: The medical/Power-User framing is superseded. The Order's curre
 ### Investigators
 **Goal:** Argue that understanding the boundary and Agreement must come before any decision to preserve or sever.
 
-(Corresponds canonically to Ch 41's "Some believe the old boundaries are mistakes. Some believe the agreements were made by frightened men. Some believe the things beneath Ashford were never meant to remain hidden.")
+(Corresponds canonically to Ch 42's "Some believe the old boundaries are mistakes. Some believe the agreements were made by frightened men. Some believe the things beneath Ashford were never meant to remain hidden.")
 
 ---
 
@@ -78,11 +78,11 @@ Per Phase 3H D7: The medical/Power-User framing is superseded. The Order's curre
 
 | Character | Title | Role | File |
 |-----------|-------|------|------|
-| Thomas Vale | The Old Constable | Former constable, keeper of the Agreement (until Ch 47). **Affiliation NOTE (2026-09-02): the manuscript does not establish Vale as an Order member. Per `ORGANIZATIONAL_AFFILIATION_LEDGER.md`, his Order affiliation is UNRESOLVED. He is listed here only as a name/existence roster entry, not as confirmed membership.** **BACKGROUND NOTE (2026-09-03): Vale's approved canon background is veteran → Constable → senior intelligence → counter-intelligence, and his fall is connected to investigating indications that Order members or associates had infiltrated or influenced parts of the Constable. This makes Order membership actively unlikely, though the extent of infiltration remains UNKNOWN and unconfirmed. See `../04_CHARACTERS/characters/Thomas_Vale.md`.** | `../04_CHARACTERS/characters/Thomas_Vale.md` |
-| Silas Crowe | The Field Man | Order member; appears Ch 41, Ch 44, Ch 47 | `../04_CHARACTERS/characters/Silas_Crowe.md` |
-| Eleanor Shaw | The Archivist | Order member; appears Ch 41 | `../04_CHARACTERS/characters/Eleanor_Shaw.md` |
-| Nathaniel Graves | The Purist | Order member; appears Ch 44 (the "Graves" of Ch 44) | `../04_CHARACTERS/characters/Nathaniel_Graves.md` |
-| Thomas Finch | The Records Man | Order member; appears Ch 41 (records-bearer, NOT the Greyhound innkeeper) | `../04_CHARACTERS/characters/Thomas_Finch.md` |
+| Thomas Vale | The Old Constable | Former constable, keeper of the Agreement (until Ch 51). **Affiliation NOTE (2026-09-02): the manuscript does not establish Vale as an Order member. Per `ORGANIZATIONAL_AFFILIATION_LEDGER.md`, his Order affiliation is UNRESOLVED. He is listed here only as a name/existence roster entry, not as confirmed membership.** **BACKGROUND NOTE (2026-09-03): Vale's approved canon background is veteran → Constable → senior intelligence → counter-intelligence, and his fall is connected to investigating indications that Order members or associates had infiltrated or influenced parts of the Constable. This makes Order membership actively unlikely, though the extent of infiltration remains UNKNOWN and unconfirmed. See `../04_CHARACTERS/characters/Thomas_Vale.md`.** | `../04_CHARACTERS/characters/Thomas_Vale.md` |
+| Silas Crowe | The Field Man | Order member; appears Ch 42, Ch 46, Ch 51 | `../04_CHARACTERS/characters/Silas_Crowe.md` |
+| Eleanor Shaw | The Archivist | Order member; appears Ch 42 | `../04_CHARACTERS/characters/Eleanor_Shaw.md` |
+| Nathaniel Graves | The Purist | Order member; appears Ch 46 (the "Graves" of Ch 46) | `../04_CHARACTERS/characters/Nathaniel_Graves.md` |
+| Thomas Finch | The Records Man | Order member; appears Ch 42 (records-bearer, NOT the Greyhound innkeeper) | `../04_CHARACTERS/characters/Thomas_Finch.md` |
 
 **Note:** Henry Marlow (Ch 38) is NOT listed above — the chapter text does not establish him as an Order member. He assists Leon with the boundary investigation; his organizational affiliation is UNRESOLVED.
 

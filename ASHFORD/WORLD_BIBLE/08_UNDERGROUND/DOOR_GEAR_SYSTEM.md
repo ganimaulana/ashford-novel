@@ -56,7 +56,7 @@ This principle is a foundational reference for future Arc 2+ development.
 Everything introduced by this task is **PROPOSED — ARC 2+**, unless an existing confirmed canon statement explicitly establishes otherwise.
 
 - Do NOT overwrite existing confirmed canon.
-- Do NOT retcon Chapters 1–137.
+- Do NOT retcon Chapters 1–141.
 - **Leon does NOT begin Arc 2 knowing the complete relationship between Token, Gear, and Door.**
 - The reader discovers the system progressively with Leon.
 
@@ -373,7 +373,7 @@ The following are recorded as OPEN / PROPOSED — do NOT resolve without author 
 
 1. All speculative material remains PROPOSED / UNRESOLVED / OPEN QUESTION until separately approved.
 2. Do not convert proposals into confirmed canon.
-3. Do not insert the Door–Gear system into Chapters 1–137.
+3. Do not insert the Door–Gear system into Chapters 1–141.
 4. Develop the system gradually with Leon and the reader together.
 5. Preserve complementary expertise (Leon observes function; Eleanor reads records).
 6. Preserve partial knowledge for all factions.
@@ -430,7 +430,7 @@ Constraints:
 
 The nine Gear must have strongly differentiated identities — each a unique artifact, not interchangeable pieces.
 
-**Continuity note:** The confirmed manuscript Gear (found Ch 36 under the Mill Lane clock; lock/marker; passed to Daniel in Ch 125) is established canon. Its relationship to the proposed nine-component system is an OPEN QUESTION. This document does NOT retroactively redefine it.
+**Continuity note:** The confirmed manuscript Gear (found Ch 36 under the Mill Lane clock; lock/marker; passed to Daniel in Ch 129) is established canon. Its relationship to the proposed nine-component system is an OPEN QUESTION. This document does NOT retroactively redefine it.
 
 ### Gear Identity Profile Template (42 fields)
 
@@ -587,7 +587,7 @@ The Gear plot must NOT become: find Gear → collect Gear → final reward. Ever
 
 **PROPOSED:** exactly nine principal Gear; individual Gear functions (CALL…ANCHOR, 9th unresolved); Gear visual identities; inscriptions; discovery histories; Gear-finding ARC; Token-network assistance; information-arbitrage transactions; world-expansion structure; Ancient Organization hypotheses.
 
-**UNRESOLVED:** final consequence of assembling all nine; true Ancient Organization fate; complete Door purpose; complete Sanctuary nature; historical relationship between Gear and Ancient Organization; exact Order of Severence knowledge; final name of the Gear-finding ARC; its exact limitations; relationship of confirmed manuscript Gear (Ch 36 / Ch 125) to the nine; relationship of Ancient Organization to the nameless society.
+**UNRESOLVED:** final consequence of assembling all nine; true Ancient Organization fate; complete Door purpose; complete Sanctuary nature; historical relationship between Gear and Ancient Organization; exact Order of Severence knowledge; final name of the Gear-finding ARC; its exact limitations; relationship of confirmed manuscript Gear (Ch 36 / Ch 129) to the nine; relationship of Ancient Organization to the nameless society.
 
 ---
 

@@ -245,5 +245,5 @@ ERC must NOT become an SCP imitation. Forbidden: containment procedures, Foundat
 
 ---
 
-**Status:** PROPOSED. Not implemented in manuscript. CHAPTERS 1–137 untouched.
+**Status:** PROPOSED. Not implemented in manuscript. CHAPTERS 1–141 untouched.
 **Last Updated:** 2026-09-03

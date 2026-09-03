@@ -1,123 +1,155 @@
-﻿CHAPTER 135 — THE KEEPER BEFORE THE FIRST
+CHAPTER 135 — THE MARSH PEOPLE
 
-The woman's name was Miriam.
+I did not leave the marsh.
 
-She had lived in the house on the hill her whole life. Her family had kept the house, and the box, and the Token, since the time of the keeper before the first keeper — through generations she could count, and through generations she could not. She had grown up knowing the box, and the room it stood in, and the reason for the keeping, in the way a person grows up knowing the weather without being able to say how they learned it.
+I built my shelter beside the house, and I stayed, and I kept the first sign on the floor of the house, and the ring of stones around it, and the count. I did not know how long I would stay. I did not know whether the count would call me further north, or whether I had come to the end of the calling. But I stayed.
 
-We sat together in the mornings, in the room at the back of the house, where the fire burned low and the light came in through the old windows, and I asked her about the Token.
+Each morning, I entered the house. I knelt at the first sign on the floor. I did not move the stone. I kept it. I kept it the way I had kept the boundary in Ashford — by being there, by watching, by waiting.
 
-"Who was the keeper before the first keeper?" I said.
+Each evening, I sat by my fire, and I wrote in my book, and I thought about the count. The first sign on the floor. The ring of stones. The beginning of the boundary.
 
-She was silent a moment. She had a way of being silent before she answered, as if the answer had to travel a long way to reach her.
+I had found it. I was keeping it. But I did not know what it was for.
 
-"I do not know his name," she said. "No one knows his name. He was the keeper who came before the one who set the boundary. He was the keeper who made the first sign."
+I did not know why the house was there. I did not know who had built it. I did not know why the first sign was on the floor, or what was beneath the stone, or why the ring of stones circled the house.
 
-"The first sign," I said. "The mark on the Token."
-
-"The first sign," she said. "He made it. He carved it into the stone, and into the metal, and into the walls of the houses that would keep the keeping. He made the first sign, and he passed it to the keeper who came after him, and the keeper after him set the boundary."
-
-I looked at the Token against my chest — the one I had carried all my life.
-
-"He made the first sign," I said. "And I carry it."
-
-"You carry it," she said. "You have carried it all your life. You were carrying it before you knew what it was. You were a child with the first sign against your chest, and you did not know what it was, and you carried it anyway. That is the way of it. The sign chooses the keeper, and the keeper carries it, and the carrying teaches the meaning, and the meaning comes late, if it comes at all."
-
-I was silent. I had never thought of it that way — that the Token had chosen me before I had chosen it, that I had been marked before I had known what the mark was. It had been warm against my chest in the schoolroom and the streets and the rooms of my life, and I had not known why, and I had carried it anyway, because it had always been there.
-
-"The keeper before the first keeper," I said. "What happened to him?"
+I only knew that I had been led there. And I knew that I would keep it.
 
 ---
 
-Miriam was quiet a long time.
+The marsh people came to see me on the third week.
 
-"He was the last of the old keepers," she said. "He was the keeper who kept the keeping before the boundary was set, before the agreement was made, before the houses were built. He kept the keeping when there was only the first sign — and then he divided it into thirteen, so that the count would be preserved until the bell called at 00:00."
+They came in a small boat, across the water, two of them — a man and a woman, in the dark clothes of the marsh. The boat was low and narrow, painted black, and it moved through the reeds without sound.
 
-"Divided it," I said. "The keeping was one thing, and he divided it into thirteen."
+I saw them from the clearing. I stood, and I watched them approach.
 
-"Yes," she said. "The keeping had been one thing, held by one keeper, handed from one to the next, from the beginning. And he saw that it could not stay that way. The world was changing. The keeping was too much for one pair of hands to hold across the years. And so he divided it — the count, the signs, the keeping — into thirteen parts, so that no one keeper would have to hold it all, and no single loss could end it. If one part was lost, the rest would remain. The count would go on being counted. The bell would still be able to call at 00:00 when the count was ready."
+The man was tall, with a face that had been weathered by the wind and the water. The woman was smaller, her face hidden beneath a hood. They beached the boat at the edge of the clearing, and they stepped out onto the packed earth, and they stood, and they looked at me.
 
-I sat in the room, in the firelight, and I let the shape of it settle in me. He had divided the keeping so that it could not be lost. He had scattered it like seed, so that it would not die in one place. It was not a gift, and it was not a burden — it was a preservation. He had made the keeping able to survive him.
+They did not speak at first. They looked at me, and they looked at the shelter I had built, and they looked at the house behind me.
 
-"And then?" I said.
+"You have been here," the man said.
 
-"And then he passed it on," she said. "He passed the first sign to the keeper who came after him, and the keeper after him set the boundary, and built the houses, and made the agreement — the agreement that kept the keeping in place, the one that my family's keeping and your keeping and all the keepings of the thirteen descend from."
+"I have."
 
-"And the keeper before the first keeper?"
+"You have been to the house."
 
-"He did not keep anymore," she said. "He gave up the keeping. He had made the first sign, and he had divided the count into thirteen, and he had passed the first sign to the keeper who would set the boundary and make the agreement. And then he gave up the keeping. He kept only the Token. And he kept the Token until he died."
+"I have."
 
-"He gave it up," I said.
+They were silent a moment. The wind moved through the reeds. The water lapped at the edge of the boat.
 
-"He gave it up," she said. "He gave up the keeping, and he kept only the Token, and he gave the Token to my family to keep until the keeper came for it. And we have kept it, generation after generation, in this house on this hill, until you came through the gate."
+"No one goes to the house," the woman said. Her voice was low, older than the man's, as if she had been speaking of the house for a long time. "It has been there as long as the marsh people have been here. It was there before the village. It was there before the marsh people came."
 
-I looked at the three Tokens — mine, and the kept house's, and the one that had come from the box. The Token of the keeper who had given up the keeping.
+"I have been to it," I said. "I have kept it."
 
-"He gave up the keeping," I said slowly, "but he did not give up the Token. He kept it until he died. Why would a man who had given up the keeping keep the Token?"
+They looked at each other.
 
-Miriam looked at me a long moment.
+"Kept it?" the man said.
 
-"Perhaps," she said, "because he could not give it up. Perhaps the giving up of the keeping was not the giving up of the mark. Perhaps he kept the Token because it was all that remained of him — the sign he had made, the first of the thirteen, the thing that would carry the count forward after he was gone. A man who has made a thing and divided it and passed it on may still want to hold one piece of it, in his hands, until the end."
+"I am a keeper," I said. "I have kept the boundary in Ashford. The count called me here. I have found the house, and the ring of stones, and the first sign on the floor of the house."
 
-I sat in the room, and I did not know what to say to that. I understood it, I thought. I had passed the keeping in Ashford — the book, the gear, the agreement — and I had walked away, and I had carried the Token with me, and I had not known why I had kept it. Perhaps it had been the same thing. Perhaps the Token had been the thing I could not give up.
+They were silent.
 
----
+"The first sign," the woman said slowly. "You know the first sign."
 
-"The count called me here," I said. "The count led me to the Token."
+"I have carried it all my life," I said.
 
-Miriam looked at me. "The count," she said. "You speak of it as if it were a thing."
+She looked at me a long moment. Her eyes were dark, and they did not blink.
 
-"It is a thing," I said. "It is the count of the keepers. It is the tally. It is kept by a keeper who has kept it since the first keeper."
+"We are the marsh people," she said. "We have kept the marsh for as long as anyone remembers. We have kept the water, and the reeds, and the paths. And we have kept the house."
 
-She was silent.
+"You have kept the house?"
 
-"You have seen him," she said.
+"We have kept it," she said. "We have kept it empty. We have kept it closed. We have kept it the way it was given to us to keep it."
 
-"I have seen him."
-
-She looked at me a long moment.
-
-"Then you know," she said, "that the count is not finished."
-
-"I know the count is not finished," I said. "There are marks to be added. There are keepers to come."
-
-"And you," she said. "You have found the Token of the keeper before the first keeper. You carry the first sign. You have kept the boundary, and the house, and the count. You have kept the house in the marsh that had never been kept through the winter. You have kept the keeping, and you have come to the end of the old keeping and the beginning of the new."
-
-She looked at me, and her voice was quiet, and it carried the weight of the long holding of her family.
-
-"You are the keeper who came at the end of the old keeping and the beginning of the new. The last of one kind, the first of another. You have come out of the keeping that was, into the keeping that will be. And you carry the first sign — the sign of the keeper who divided the count, and the sign that will be made whole again when the thirteen are gathered."
-
-I did not know what to say.
-
-I stood in the room, and the weight of it settled on me the way the cold had settled in the marsh — slowly, and then all at once. The end of the old keeping. The beginning of the new. I had not asked for either. I had only followed the warmth of the Tokens, the way I had always followed them, from the boundary in Ashford to the marsh, and from the marsh to this house on this hill.
-
-"I do not know what I am," I said.
-
-"Nor did he," Miriam said. "The keeper before the first keeper did not know what he was, and he made the first sign anyway, and divided the count, and the keeping went on. You do not need to know what you are. You need only to keep."
+I stood in the clearing. The marsh people had kept the house. They had kept it empty, and closed, and the way it was given to them to keep it. And they had known that a keeper would come.
 
 ---
 
-"Keep the Token," she said. "Keep it with your own. They are meant to be together. The first sign was made twice, and the two are meant to be kept by one keeper."
+"We have been waiting," the man said.
 
-I stood in the room, with the three Tokens against my chest.
+"We have been waiting for the keeper who would come to the house."
 
-"I will keep them," I said.
+"For how long?"
 
-She nodded.
+He shook his head. "I do not know. Longer than the village. Longer than the marsh people have been here. There is a saying among us: the house will be opened when the keeper comes."
 
-"Then the keeping is whole," she said. "The first sign is kept. The Token is kept. The keeper is kept."
+I looked at the house.
 
-"The keeping is whole," I said.
+"The house is not locked," I said. "I entered it. I found the first sign on the floor."
 
-"Go," she said. "The count is still calling. You have not come to the end of it. You have three of the thirteen. There are ten more markers scattered, waiting for the keeper who will gather them. Go, and gather them, and the count will be ready, and the bell will call at 00:00, and the keeping will be complete."
+"The house is not locked," the woman said. "It has never been locked. The keeping is not in the lock. It is in the knowing."
 
-I left the house on the hill.
+I stood in the clearing, and I understood.
 
-I walked down the drive, past the wall of old stone, through the gate that had stood open for me, and into the town. I did not look back — I had learned, in the marsh, not to look back at the thing I had kept. I walked through the town, and I let the thought settle in me the way the Tokens lay warm against my chest: three of thirteen. Three first signs. And ten more markers scattered across the world, waiting for the keeper who would gather them.
+The house had never been locked. The keeping had never been in the lock. It was in the knowing. And the marsh people had kept it, not by locking it, but by knowing it — by keeping it empty, and closed, and the way it was given to them to keep it.
 
-The keeper before the first keeper had divided the first sign into thirteen, so that the count would be preserved until the bell called at 00:00. And I was the one who would gather what he had divided.
+"You have come to the house," the woman said. "You have kept it. You have found the first sign on the floor. And you have not moved the stone."
 
-I did not know what it would cost me. I did not know whether I would find them all, or whether I would die on the road with ten more markers still scattered in the world, waiting for a keeper who would not come. I did not know whether I was the beginning of the new keeping or the last of the old, or both, or neither.
+I looked at her. She knew.
 
-But I carried the first sign. And the first sign had been made by the keeper who came before the first keeper, and I carried it now, and I would carry it until the thirteen were gathered or until I could carry it no longer.
+"How do you know that I have not moved the stone?"
 
-And the count went on, waiting for the bell.
+She looked at me with her dark eyes. "Because the house is still standing. Because the ring is still whole. Because the marsh is still the marsh. If you had moved the stone, we would know. The marsh would know. The water would know."
+
+I stood in the grey light, and I understood that the marsh people had been watching me. They had been watching me since I came to the marsh. They had seen me enter the house. They had seen me search the ring. They had seen me kneel at the floor. And they had seen me leave the stone unmoved.
+
+"Then you are the keeper," she said. "You are the one we have been waiting for."
+
+---
+
+I stood in the clearing, and I understood that I had not come to the marsh alone. I had come to a people who had been waiting for me. And the keeping was not mine alone. It was theirs as well.
+
+They took me to their village.
+
+It was a small village, hidden in the reeds, where the marsh people had lived for generations. The houses were low, built of mud and stone, with roofs of thatch. The paths were of packed earth, raised above the water. The boats were tied at the edges of the paths, dark and silent.
+
+The woman led me to a house. She sat me at a fire. She gave me food and drink. And she told me about the keeping.
+
+"The house was built before the marsh," she said. "Before the water came. Before the land sank. It was built on the highest ground, and the marsh grew up around it, and the house stayed."
+
+"Who built it?"
+
+"I do not know," she said. "No one knows. It was there when the first of the marsh people came. It was given to us to keep, and we have kept it."
+
+"The first sign," I said. "On the floor of the house."
+
+"We have not entered the house," the woman said. "We have kept it empty, and closed, and we have not entered it. We have kept the knowing, and we have not entered the house."
+
+I looked at her.
+
+"Then I am the first to enter it," I said.
+
+"You are the first," she said. "The keeper is the first. That is the keeping."
+
+She looked at me, and I understood that the marsh people had kept the house for generations, waiting for a keeper who would enter it. They had kept it empty. They had kept it closed. They had kept the knowing, and they had waited.
+
+And I had come.
+
+I had entered the house. I had found the first sign on the floor. I had not moved the stone. And I was the first.
+
+I did not know what that meant. I did not know what the house was for. I did not know what the first sign guarded. But I knew that I was part of the keeping.
+
+The count had called me north. The count had led me to the house. And the house had been waiting for me.
+
+I sat by the fire, in the village of the marsh people, and I understood that I had not left the keeping when I left Ashford. I had carried it with me. And the keeping had led me to the marsh, and to the house, and to the first sign on the floor.
+
+And I would keep it.
+
+I would keep it the way the marsh people had kept it, and the way the keepers before me had kept the boundary. I would keep it until the count called me to the next threshold, and the next, until the count was complete and the bell tolled.
+
+I did not know when that would be. I did not know where the next threshold was. But I knew that I would be ready.
+
+The marsh people had been waiting for me. And I had come.
+
+The count was still counting. The signs were still scattered. The bell had not tolled.
+
+But I was at the beginning. And I would keep the beginning until the end.
+
+I sat by the fire, and I looked at the woman, and I understood that she was part of the keeping now, as I was, as the marsh people had been for generations. The keeping was not a thing that could be held by one person. It was a thing that was held by all who kept it. And I was part of it.
+
+I was the keeper of the marsh. And I would keep it until the count called me further.
+
+The woman looked at me, and she nodded.
+
+"You are the keeper," she said.
+
+And I was.

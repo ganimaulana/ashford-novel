@@ -1,128 +1,182 @@
-﻿CHAPTER 62 â€” THE RESPONSE
+CHAPTER 62 — THE EASTERN MARKER
 
-I carried the object for three days before I understood why I had taken it from the box.
+I went to the eastern end of the boundary the following morning.
 
-I had not planned to carry it. I had taken it out to look at it, to compare it with the gear, to write in my notebook about the three signs. But when I had finished, I had not put it back in the box. I had put it in my coat, against my chest, where it lay flat and cold and unnoticed, and I had gone about my days without thinking of it.
+I went early, before the town was awake, when the streets were empty and the light was grey and the frost still lay on the grass of the fields beyond the last houses. I did not tell anyone where I was going. I did not tell Crowe. I did not tell Eleanor Shaw. I took the map with me, folded, in my coat, and I took the gear, and I took my notebook, and I walked out of Ashford by the east road.
 
-On the third day, I went to the common.
+The boundary did not follow the road. The map showed it running north of the road, across the fields, along the line of an old ditch that had long since filled with earth, past a copse of alder, to the place where the eastern marker stood.
 
-I had not gone to the common in weeks. I had gone to the eastern marker, and to the passage, and to the brewery, and I had stayed away from the common, because I could not yet tell what I would find there, and because I had told the Order that the door was not a door, and because I had needed to believe it.
+I had been here before. In the spring, when the eastern marker had been moved, and Calloway had asked me to find it, I had walked this ground. I had found the marker displaced — pushed a hand's breadth out of its setting — and I had set it right, and I had thought that was the end of it.
 
-I went to the common in the evening.
+I had not known that the marker was the place. I had not known that the keeper's sign crossed the circle there.
 
-The house was not there. I had not expected it to be. I stood at the edge of the grass, in the failing light, and I looked at the pressed shape of the floor, and I thought about the house that appeared and disappeared, and about the passage beneath it, and about the door that opened from both sides.
+I stood at the eastern marker now, in the grey morning light, and I looked at it.
 
-I did not cross the grass. I stood at the edge, and I was about to turn away, when I felt it.
+It was an ordinary stone — a block of grey stone, set upright in the earth, with the circle and the short line carved into its face, the same mark as the stones along the wall, the same mark as the gear.
 
-A warmth. Not the warmth of the evening air. Not the warmth of my own body. A warmth against my chest, where the object lay â€” a warmth that had not been there a moment before.
+I had seen it in the spring. I had set it right. I had not looked at its base.
 
-I stopped. I put my hand to my coat.
+I knelt, and I cleared the earth from the base of the stone, the way I had cleared the earth from the base of the stones along the wall.
 
-The object was warm. It had never been warm. I had held it many times, in the years I had kept it in the box, and it had always been cold â€” the cold of old metal, the cold of a thing that had lain untouched for a long time. I had never felt it warm.
+The keeper's sign was there. The line and three strokes, cut into the stone at its base, worn smooth by years.
 
-I took it out. The metal was warm in my hand. It was not hot. It was warm â€” the warmth of a thing that had been held, or the warmth of a thing that had been near something warm.
+I looked at it. The strokes were the same length.
 
-I looked at the common. The house was not there. The grass was pressed in the shape of the floor, and the keeper's sign was bent into the earth at its centre, and the light was failing, and there was nothing else.
+I cleared more earth. The sign continued below the line of the earth — the middle stroke extended, crossing the line, running down the face of the stone into the ground.
 
-But the object was warm. And it had not been warm when I entered the common.
+I stopped. I cleared the earth with my hands, slowly, carefully, until the full sign was exposed.
 
-I stood at the edge of the grass, with the warm object in my hand, and I understood that the object had responded to something â€” to the common, to the pressed shape of the house, to the keeper's sign in the earth, to the passage beneath.
+The line. The three strokes. The middle stroke extended, crossing the line. And at the point where it crossed — the small circle.
 
-The first sign had responded. And I did not know to what.
+The nineteenth sign.
 
----
+Cut into the eastern marker, at its base, hidden beneath the earth, so that no one would see it unless they knelt and cleared the ground and knew what to look for.
 
-I did not go home.
+I sat back on my heels and looked at it.
 
-I walked the length of the common, slowly, with the object in my hand, and I watched it.
+The map had shown it. Eleanor Shaw had said Vale had found it. The stranger had said the count was running out.
 
-It did not warm at the edge of the common. It did not warm at the place where the road crossed the grass. It warmed at the place where the house had stood. It grew warm as I approached the pressed shape of the floor, and it grew warmest at the centre, where the keeper's sign was bent into the earth.
+I had found it myself, now — not in the passage, not on the wall, but at the eastern marker, where I had set the stone right in the spring without knowing what I was setting right.
 
-I knelt at the centre. I held the object over the keeper's sign. The metal was warm. I lowered it until it touched the grass.
+I reached out and put my hand to the circle at the centre of the sign.
 
-Nothing happened. No light. No sound. No movement of the earth. Only the warmth â€” the warmth of the object, held over the keeper's sign, where the house had stood.
+The stone was cold. I had expected it to be warm — I could not yet tell why. I had expected, at the moment I found the nineteenth sign at the eastern marker, that something would happen. That the stone would move. That the earth would open. That I would understand.
 
-I sat back on my heels and looked at the object. The first sign. The circle, the three lines, the dot.
+Nothing happened.
 
-I had carried it all my life. I had not known it was the first sign. I had not known it would respond to the keeper's sign. I had not known that the signs were connected â€” that the maker's sign would warm at the place where the keeper's sign was set.
+The stone was cold. The sign was carved. The circle was cut deep, at the point where the keeper's sign crossed.
 
-I stood. I put the object back in my coat. I walked home through the dark streets, and I sat at my desk, and I did not write in my notebook.
+And nothing else.
 
-I took out the object, and I took out the gear, and I set them side by side, and I looked at them.
+I knelt there, in the grey morning, in the field beyond the last houses of Ashford, and I looked at the eastern marker, and I understood that I had found the place — and that I did not know what the place was for.
 
-The object had warmed at the keeper's sign. The gear had never warmed â€” not in the passage, not at the door, not at the eastern marker.
-
-The object was different. The object was the first sign. And it had responded to the second.
+The map said the door was not opened but remembered. I had come to the eastern marker expecting a door. I had found a stone, and a sign, and a circle, and nothing else.
 
 ---
 
-The next morning, I went to the vestry.
+I did not go back to Ashford immediately.
 
-The clerk was there. I placed the object on the table before him.
+I sat in the field, with my back to the marker, and I looked at the ground before me.
 
-"It warmed," I said. "At the common. At the place where the house appears. At the keeper's sign in the earth."
+The map was in my coat. I took it out and unfolded it, and I looked at the eastern end of the boundary, at the nineteenth sign marked there, and I read again the words in the margin:
 
-The clerk looked at me. He did not speak at once.
+*Here the door is not opened but remembered. He who forgets the sign forgets what he keeps.*
 
-"The first sign," he said slowly, "is the sign of the maker. The keeper's sign is the sign of the keeper. The Order's sign is the sign of the Order."
+I did not understand.
 
-"I know. You told me."
+I had walked the passage. I had found the signs. I had found the nineteenth sign. I had found the eastern marker, and the sign at its base, and the circle at the crossing. And nothing had opened. Nothing had moved. Nothing had happened.
 
-"The signs are not separate," he said. "They are one sign, divided. The maker's sign was set first. The keeper's sign was set to keep it. The Order's sign was taken from it, and the Order believes it is the whole."
+I sat in the field and looked at the map, and I thought about what Eleanor Shaw had said — that the Order took the circle, and made it theirs, and built their understanding of the boundary around it. That the keeper's sign was older, and not theirs. That Vale had kept the map because he did not want the door used.
 
-I waited.
+*The door is not opened but remembered.*
 
-"The maker's sign responds to the keeper's sign," he said. "It is meant to. The keeper's sign is the keeper's, and the keeper's sign keeps the maker's sign, and the maker's sign remembers the keeper."
+I had been trying to open it. I had been walking the passage, counting the signs, looking for the key. I had been wrong.
 
-I stood in the vestry. The clerk had spoken as if he had known this all along.
+The door was not something to be opened. The door was something to be remembered.
 
-"Why did you not tell me before?" I said.
+And I had been so busy looking for the key that I had not stopped to remember.
 
-"Because I did not know you had the first sign." He looked at the object. "I could not say it was in Ashford. I could not tell for certain it had been kept. I believed the first sign was lost â€” that the maker's sign had been carried away from Ashford long ago, and would never return."
-
-"It has been mine all my life."
-
-"Then it was kept," he said. "Kept, and carried, and brought back â€” brought back by a hand that did not know what it was carrying. That is how the signs are kept. They are not kept by those who understand them. They are kept by those who carry them, and who do not forget."
-
-I stood in the vestry, in the cold light, with the object on the table between us.
-
-I had carried the first sign all my life. I had not known what it was. I had not known it was the maker's sign. I had not known it would respond to the keeper's sign at the common.
-
-But I had carried it. And I had not forgotten it. And now it had warmed, at the keeper's sign, where the house appeared, where the passage led to the door that was not a door.
-
-And I understood that I had been carrying the answer all my life, without knowing.
+I folded the map. I stood. I looked at the eastern marker, at the sign at its base, at the circle at the crossing. And I understood that I had been a fool.
 
 ---
 
-I did not go to the common that night.
+I walked back to Ashford slowly.
 
-I sat at my desk, with the object before me, and the gear beside it, and I thought about the three signs.
+I did not go to my rooms. I went to the vestry.
 
-The first sign â€” the maker's â€” the circle, the three lines, the dot. The second sign â€” the keeper's â€” the line, the three strokes. The third sign â€” the Order's â€” the circle, the short line.
+The clerk was there, at his table, as he always was.
 
-I had carried the first all my life. I had been given the third by Vale. I had learned the second from the wall, the passage, the map.
+I stood in the doorway.
 
-And the first had warmed at the second. I had no way of knowing what the third would do. I could not say whether the gear would respond to anything, or whether it was only a key to a door that was not a door, or whether it had a purpose I had not yet understood.
+"The wall," I said. "The stones. The signs at the base of the stones. You told me you did not know how many there were. You showed me the page in the vestry book. You kept the book hidden."
 
-I opened my notebook, and I wrote:
+He looked at me. "Yes."
 
-The object warmed at the keeper's sign. The clerk says the maker's sign responds to the keeper's sign â€” that they are one sign, divided.
+"The book records the wall. The signs in the margins. You said the wardens did not know whose hand it was. You said the signs had always been there."
 
-I have carried the first sign all my life. I have been given the third. I have learned the second.
+"Yes."
 
-Three signs. One sign, divided.
+"Who built the wall?" I said.
 
-I do not know what the third is for. But I know that the first responds to the second. And I know that the second is the keeper's. And I am the keeper.
+He was silent.
 
-I closed the book. I put it in the drawer, with the agreement, and the map.
+"The wall was not built," he said at last. "It was set. The stones were set in the ground, in the older time, before the town, before the wardens, before the boundary was moved. The wall was not built to keep anything out."
 
-I did not put the object away. I left it on the desk, beside the gear.
+"Then what was it for?"
 
-And I sat in the dark, and I thought about the house that appeared at the edge of the common, and about the passage beneath it, and about the door that was not a door, and about the maker's sign, and the keeper's sign, and the Order's sign, and about everything that had been carried and kept and forgotten for longer than the town had a name.
+"It was set to mark the boundary," he said. "And the boundary was not set to keep anything out. It was set to mark the place."
 
-The first sign had warmed at the second. The keeper's sign kept the maker's sign. And I was the keeper.
+"The place of what?"
 
-I could not tell for certain what I was keeping. But I had carried the first sign all my life, and it had answered me at the common, and I understood that the keeping had not begun with Vale, and had not begun with me. It had begun with the maker's sign, and it had never stopped being kept.
+He looked at me a long moment.
 
-And the house — the house that appeared and disappeared at the edge of the common — was part of it. I had no way of knowing how. But I would find out. I sat in the dark, with the object warm on the desk, and I understood that I was not at the end of the mystery. I was at the beginning of it.
+"I do not know," he said. "No one knows. The wall was set to mark the place, and the stones were set to mark the boundary, and the signs were set to mark the wall, and the keepers were set to mark the signs — and no one, in all the years, has ever said what it was all marking."
+
+I stood in the vestry.
+
+The clerk had said what I had come to hear, and it was not what I had expected.
+
+The wall was not built to keep anything out. The wall was set to mark the place. And the keepers — Vale, and me, and the keepers before them — had been set to mark the signs.
+
+I had been a keeper for a month. I had been trying to open a door. I had been trying to keep a door closed. I had been watching the circle, and the gear, and the seal, and the stranger who said the count was running out.
+
+I began to wonder whether I had been mistaken about the door. Perhaps there was no door. Perhaps there was only the mark. And perhaps the mark was not something to be opened or closed, but something to be remembered — or something to be carried, or something to be passed on. I did not know which, and the clerk did not know either.
+
+I left the vestry. I walked through the streets of Ashford, in the grey afternoon, and I understood that I had been a keeper for a month and I had not known what I was keeping.
+
+I had been keeping the sign. The keeper's sign. And I had forgotten it, because I had been looking for the key, and the sign was the thing that was kept.
+
+*He who forgets the sign forgets what he keeps.*
+
+I had forgotten. I had forgotten the sign. I had forgotten what I was keeping.
+
+And I had been standing at the eastern marker, at the nineteenth sign, at the circle where the lines crossed, expecting the earth to open — when the earth had already opened, long ago, and the sign had been carved to mark it, and the wall had been set to mark the sign, and the keepers had been set to mark the wall.
+
+Thing beneath Ashford was not behind the door. The thing beneath Ashford was beneath the marker. And the marker was not a door to be opened. The marker was a sign to be remembered.
+
+---
+
+I went home as the light failed.
+
+I sat at my desk. I opened my notebook, and I wrote:
+
+I went to the eastern marker today. I found the nineteenth sign at its base, hidden beneath the earth. The circle is at the crossing.
+
+Nothing opened. Nothing moved. Nothing happened.
+
+The clerk told me the wall was not built to keep anything out. It was set to mark the place.
+
+I have been trying to open a door that does not exist. I have been trying to keep a door closed that was never a door.
+
+The door is a sign. The sign is a memory. The memory is what I am keeper of.
+
+I have been keeper for a month, and I have forgotten the sign, and I have forgotten what I am keeping.
+
+He who forgets the sign forgets what he keeps.
+
+I will not forget it again.
+
+I closed the book. I put it in the drawer, with the agreement, beneath the parish account.
+
+I did not take the gear out. I did not look at it.
+
+I sat in the dark, and I thought about the eastern marker, and about the sign at its base, and about the circle at the crossing, and about the words in the margin of the map.
+
+*Here the door is not opened but remembered.*
+
+I had been trying to open it. I had been trying to close it. I had been watching it, and counting the signs, and following the path, and looking for the key.
+
+I had not stopped to remember.
+
+And I understood, sitting in the dark, that the thing I was keeper of was not the door, and not the gear, and not the boundary. It was the memory. The memory of what had been set in the earth, long ago, beneath the eastern marker, beneath the wall, beneath the town. And that memory—like the bell—would not be silent forever.
+
+And the stranger who had come to Ashford, and the Order, and Crowe, and Eleanor Shaw — they were all trying to make me remember the wrong thing.
+
+The count was not running out. The count was the memory. And I had been so busy counting that I had not remembered.
+
+I sat in the stillness until the lamp burned down, and I did not light it again, and I did not write in my notebook.
+
+I had nothing to add. I had only remembered.
+
+And remembering, I understood, was the whole of my duty.
 

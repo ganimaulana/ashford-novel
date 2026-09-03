@@ -1,101 +1,175 @@
-﻿CHAPTER 64 â€” THE HOUSE AT THE END OF THE LANE
+CHAPTER 64 — THE SEVERANCE
 
-I had not been to Bellweather Lane since the day I had closed Vale's window.
+They came for the gear on the fourth day.
 
-The house at the end of the lane â€” Vale's house â€” had stood empty since his death. I had not returned to it. I had not wanted to return. The window, the chair, the rosemary on the sill â€” they were the last things of his I had touched, and I had not wanted to touch them again.
+I had known they would come. I had told Crowe I would not give it to them, and Crowe had told the Order, and the Order had decided, and the Order would not let the matter lie. They had sent one of their number to my rooms, in the morning, with a message that I was to attend them at the brewery.
 
-But the object had led me to the common. The house had answered. The door had knocked. And I had understood that the first sign was connected to everything I had found â€” and that I had not yet found everything.
+I did not attend them at the brewery. I went to the common.
 
-I went to Bellweather Lane on the morning after the house appeared. I could not yet tell what I was looking for. I knew only that the house at the end of the lane was Vale's, and that Vale had been keeper, and that the keeper had kept the first sign hidden, and that the keeper's house had held something I had not found.
+I crossed the grass in the grey morning light, and I stood at the edge of the pressed floor, and I waited for the house. It did not come. I had not expected it to come. I had not come to the common for the house. I had come to the common to think, away from the town, away from the Order, away from the room where the message had been left on my table.
 
-I let myself in. The door was still unlocked. The room was as I had left it â€” the chair, the cold fireplace, the folded blanket, the rosemary on the sill. The window was closed. I had closed it twice, and I had not been back to see whether it had been opened again.
+I stood at the edge of the common and looked at the place where the house had stood, and I thought about the sign. The keeper's sign. The line and three strokes. The sign that was older than the circle.
 
-I crossed the room. I stood at the window. The rosemary was still there. I touched its leaves. They were dry. I had not been here in weeks, and the rosemary had not been watered, and it had not died.
+I had remembered it. I had remembered what I was keeping.
 
-I stood at the window, looking at the rosemary, and I understood that I had been wrong about Vale's house. It was not a house. It was a keeper's house. And the keeper's house had kept something, for fifty years, that I had not thought to look for.
+And I had decided, standing at the edge of the common, that I would not give the gear to the Order, and that I would not open the door, and that I would not let the Order open it.
 
-I turned from the window. I looked at the room. The chair. The fireplace. The blanket. The shelf.
+The Order had decided that I was not the keeper. The Order had decided that the door should be opened. The Order had decided that the gear should be taken.
 
-The shelf. I had not looked at the shelf. I had looked at the chair, and the blanket, and the rosemary, and the window, and I had not looked at the shelf.
-
-There was a book on it. A single book, lying flat, not standing with the others â€” a book I had not seen before, because I had not looked at the shelf.
-
-I crossed the room. I picked up the book. It was bound in red leather, the same red leather as the book the clerk had shown me in the vestry.
-
-I opened it. The pages were blank. The first page. The second. The third. All blank, until the last page, where there was a line of writing, in a hand I recognized. Vale's hand.
-
-*He who forgets the sign forgets what he keeps.*
-
-I stood in the room, with the book open in my hands, and I read the sentence. The same sentence as the paper in the house. The same sentence as the map. The same sentence that had been carved into the wall, and written in the margins, and kept in the passage, and forgotten by the Order.
-
-*He who forgets the sign forgets what he keeps.*
-
-I had not forgotten. I had remembered. And Vale had left me this â€” a book of blank pages, with only the sentence at the end.
-
-A book to be written in. A keeper's book.
-
-I closed it. I took it with me. I left the house at the end of Bellweather Lane, and I did not close the window, and I did not touch the rosemary, and I did not look back.
-
-I had what I had come for.
+I had decided otherwise.
 
 ---
 
-I sat at my desk. I opened the book. The blank pages. The sentence at the end.
+I went to the brewery in the afternoon.
 
-I did not know what Vale had meant me to write in it. I did not know whether he had meant me to write in it at all.
+Not because they had summoned me. Because I had chosen to go.
 
-But I took my notebook from the drawer, and I opened it to the last entry, and I looked at the words I had written there. *The house is a keeper. It has kept the first sign carved into its wall.*
+The room above the brewery was lit by a single lamp, as it had been before. The table was set. The chairs were filled — Graves at one end, the woman with the ledger at the other, and the others between them.
 
-I had written it. I had kept the account. I had kept it in my own book, in my own hand, in my own room. I had kept the sign.
+Crowe was not there.
 
-I closed my notebook. I put it in the drawer, with the agreement, and the map. I did not put the red book in the drawer. I left it on the desk, open to the first blank page.
+I stood at the head of the table, as I had stood before. No one offered me a chair.
 
-And I sat in the dark, and I thought about the sentence Vale had left me, and about the blank pages, and about what I was meant to write in them.
+"You were summoned," Graves said.
+
+"I was." I did not sit. "I have not come because I was summoned. I have come to tell you what I have decided."
+
+"Decided?" The woman with the ledger looked up. "The Order does not ask the one who holds the gear to decide. The Order decides, and the one who holds the gear obeys."
+
+"The Order does not sign the Agreement," I said. "Aurelius Ashcroft signed it. He is dead. I hold the gear. I decide what is kept."
+
+There was a silence.
+
+"You have the gear," Graves said.
+
+"I have the gear."
+
+"It was not given to you."
+
+"I found it at the mill," I said. "What Vale gave me was a box, and his letters, and his papers, and two bottles I cannot read the labels of. He did not say the gear was in the keeping of anyone. He said the box was his, and that there was no one to leave it to."
+
+"He had no right to place it where you would find it."
+
+"You say that because you want it." I looked at her. "The Order did not know the gear existed until I stood in this room and said so. A thing you did not know of is not a thing you were keeping."
+
+"We have decided you are not the one who holds the gear."
+
+"You have decided." I looked around the table. "But you do not decide that. The gear decides. The sign decides. The memory decides. You have decided that I am not the keeper, and you have decided that the door should be opened, and you have decided that the gear should be taken — but you have not decided what the door is for."
+
+The woman with the ledger was very still.
+
+"The door is a door," she said. "It was made to be opened. It has been closed too long. The boundary is failing. The stones are moving. The count is running out."
+
+"The count is not running out," I said. "Or if it is, I do not know what it is counting. I have walked the passage. I have counted the signs. There are signs on every stone of the wall, and signs in the margins of the vestry book, and signs that have been kept for longer than the Order has existed. But I have not found a single person who can tell me what they mean."
+
+"Kept by whom?"
+
+"By the keepers," I said. "By Vale. By the keepers before him. By the hand that set the wall, and the hand that carved the sign, and the hand that drew the map. The signs are not a count of years. They are a record — a record of everything done to the wall, so that nothing can be changed without the record showing."
+
+Graves leaned forward.
+
+"And the door?"
+
+"The door is not a door," I said. "Or perhaps it is. I have been told both things, and I have no way to prove either. I know only that the Agreement says it was meant to be closed — and that the Agreement may have been written by a man who did not understand what he was signing."
+
+"It was meant to be opened," the woman said. "It was made to be opened. The gear was made to open it."
+
+"The gear was made to open it," I agreed. "But it was not made to be used. It was made to be kept — kept as a sign, kept as a memory, kept so that the keeper would know that the door existed, and that it was not to be forgotten."
+
+There was a long silence. I could not tell whether I had reached them. I could not tell whether they had heard me, or whether they had heard only that I was refusing them.
+
+"You have chosen," Graves said at last. "You have chosen the sign over the Order."
+
+"I have chosen what the sign keeps."
+
+"And the gear?"
+
+"The gear stays with me."
+
+"And the door?"
+
+"The door stays closed. It is not opened but remembered. That is what the sign says. That is what I am keeper of."
+
+I turned. I walked to the top of the stairs.
+
+"You will regret this," Graves said behind me.
+
+"Perhaps." I did not turn. "But the regret will be mine, and the keeping will be mine, and the door will be closed — not because the Order told me, and not because I am afraid, but because the sign says that is what must be remembered."
+
+I went down the stairs. I did not look back.
 
 ---
 
-That night, I dreamed of the object.
+Crowe was waiting for me in the street.
 
-I had not dreamed of it in years. I had not remembered dreaming of it, though I knew I had, in the years before I had come to Ashford, in the years when I had carried the box from place to place without opening it.
+He stood in the shadow of the brewery wall, in the failing light, and he did not speak until I reached him.
 
-I dreamed of the object, and of the house at the edge of the common, and of the door beneath the passage, and of the knocking that came from the other side.
+"I heard," he said.
 
-I dreamed that I was standing at the door, with the object in my hand, and the door was not a door â€” it was a wall, and the wall was covered with the first sign, carved into the stone, one after another, the circle, the three lines, the dot, repeated, repeated, repeated, until the wall was nothing but the sign.
+"Then you know what I decided."
 
-I woke in the dark. I did not light the lamp. I sat in the stillness, and I thought about the dream, and I understood that the door was not a door. It was a wall. A wall of signs. A wall of the first sign, carved into the stone, one after another, waiting for the keeper to remember.
+"I know what you told them." He looked at me. "You told them the door is a sign. You told them the count is not a count. You told them you would not give up the gear. And you told them you hold the gear, and they do not."
 
-I could not say what I had dreamed. I could not tell for certain whether it was a dream, or a memory, or something the object had shown me.
+"I did."
 
-But I knew that I had to go back. I had to go to the door, with the object, and I had to understand what the wall of signs was telling me.
+"You have made enemies," he said. "Graves will not forget. The woman will not forget. The Order will not forget that you stood at their table and told them they did not decide who is keeper."
 
-I did not go that night. I waited until morning. And when morning came, I took the object, and I took the gear, and I took the red book, and I went to the common.
+"I know."
 
-The house was not there. I had not expected it to be. I knelt at the edge of the grass, where the keeper's sign was pressed into the earth, and I held the object over it. The warmth came. I felt it through the metal.
+"And you do not care."
 
-I knelt there, in the grey morning, with the warm object in my hand, and I understood that the house was not the door. The house was the keeper. The keeper of the first sign. And the first sign was the key to everything.
+I was silent a moment.
 
-I had no way of knowing how. I could not say why. But I knew that I was the keeper of the first sign, and that the house had answered me, and that the door had knocked, and that the wall of signs in my dream was the wall I had been walking toward all my life.
+"I care," I said. "But I have held the gear for a month, and I have spent that month trying to understand what I am keeping. I have walked the passage. I have counted the signs. I have found the nineteenth sign, and the eastern marker, and the map, and the words in the margin. And I have understood that the door is not a door, and the count is not a count, and the sign is not a key."
 
-I stood. I put the object back in my coat. I walked home. I sat at my desk. I opened the red book. I wrote:
+"Then what is it?"
 
-*I am the keeper of the first sign. I have carried it all my life, and I have not known it. The house keeps the first sign carved into its wall. The door remembers it. The wall of signs is waiting.*
+"It is a memory," I said. "A memory of what was set in the earth, long ago, beneath the eastern marker, beneath the wall, beneath the town. And I am the keeper of that memory."
 
-I stopped. I looked at what I had written. I had written in the red book. I had written the first entry.
+Crowe was silent a long moment.
 
-I could not tell for certain what I would write next. But I knew that the book was not blank anymore. And I knew that Vale had left it for me, knowing that I would find it, knowing that I would write in it, knowing that the first sign would lead me to the door that was not a door.
+"Then you will keep it," he said. "Alone."
 
-I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the object away. I left it on the desk.
+"I will keep it," I said. "Alone, if I must."
 
-And I remained in the dark, and I thought about the wall of signs in my dream, and about the knocking from the other side of the door, and about the first sign, and the keeper's sign, and the Order's sign, and about everything that had been carried and kept and forgotten.
+He looked at me. Then he nodded, slowly, and turned, and walked away down the street, into the dark.
 
-I had begun to write in the red book. I had begun to keep the account. And I understood, sitting in the dark, that the account was the whole of what I was meant to keep.
+I stood in the shadow of the brewery wall, in the failing light, and I watched him go.
 
-Not the door. Not the gear. Not the sign. The account. The memory. The record of what had been set in the earth, long ago, beneath the wall, beneath the town, beneath the house that appeared and disappeared at the edge of the common.
+I had made my decision. I had told the Order that they did not decide who was keeper. I had told them that the door was not a door, and that the sign was a memory, and that I would keep it. And I had told Crowe that I would keep it alone, if I must.
 
-I had been keeper for a month. I had been keeping the wrong thing. I had been keeping the door closed. I had been keeping the gear. I had been keeping the sign. I had not been keeping the account.
+I could not yet tell whether I had done the right thing. I could not say whether the sign was a memory, or whether I had merely told them what I needed to believe.
 
-And the account — the red book — was what Vale had left me, because he had not kept it himself.
+But I had chosen. And the choosing, I understood, was the whole of holding the gear.
 
-I had begun. I would continue. And the door — the door that was not a door — would wait. Because the account was the thing that was kept. And I was the keeper of it.
+---
+
+I went home in the dark. I sat at my desk. I did not light the lamp.
+
+I opened the drawer, and I took out the agreement, and I took out the map, and I took out my notebook, and I placed them on the desk before me. Then I took out the gear. I set it in the middle of the desk.
+
+I looked at it — the circle, the short line. The sign of the Order. The sign that was not the keeper's sign. The sign that the Order had taken and made their own.
+
+I had told the Order that the door was not a door. I had told them that the sign was a memory. I had told them that I was the keeper, and they were not.
+
+And I had chosen to keep it alone.
+
+I sat in the dark, with the gear before me, and the agreement, and the map, and the notebook, and I thought about what I had done.
+
+I had severed myself from the Order. I had refused them the gear. I had refused them the door. I had told them that I was the keeper, and that I would keep what the sign kept. And I had chosen to do it alone.
+
+I did not know what would come of it. I did not know whether the Order would come for the gear, or whether they would leave me be, or whether they would find another way to open the door.
+
+But I knew that I had chosen. And I knew that the choice had changed everything.
+
+The Order was not behind me anymore. I was alone. And the sign — the keeper's sign, the line and three strokes, the sign that was older than the circle — was the only thing I could keep.
+
+I sat in the stillness until the hours grew late. I did not write in my notebook. There was nothing to add. I had chosen. And the choosing was the whole of it.
+
+The door was still closed. The gear was still mine. The sign was still kept.
+
+And the count — whatever it was counting — was not running out. It was waiting.
+
+And I would be there when it was time to remember it.
 
 

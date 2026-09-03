@@ -1,101 +1,164 @@
-CHAPTER 104 — THE MEETING
+CHAPTER 104 — THE INVITATION
 
-The house was on the edge of Ashford, where the street lamps gave out and the road narrowed and the town began to hand itself back to the fields. I went at eight, as the paper had directed, and the cold was the cold of a deep winter, the kind that keeps a man's hands in his pockets and his questions in his throat.
+The letter came on a Tuesday, at the end of October, and it was not of the lane's hand.
 
-The house stood behind a wall of old stone. A light burned in the upper window — one light, steady, the light of a room where someone sat and waited. I had learned, in two years of keeping, to read the lights of Ashford: the lamp that moved through the house at the end of the lane, the lamp carried from room to room and put out, the lamps that burned where no one stood. I had learned that a light left burning is a thing a man does on purpose. I stood at the wall a long moment before I knocked.
+I knew that before I opened it, the way I had come to know such things. The lane's hand came in the evening, by the office, or was placed under the stone by the step; and this was placed in the morning, on the hall table, where anyone could have left it and no one had seen who.
 
-A woman opened the door. She was older than I had expected — grey-haired, with a face that had seen many years and kept the accounts of them. She did not ask my name. She did not ask what I wanted. She looked at me the way a person looks at a man who has been expected, and she stepped back and let me in.
+It was a good paper. Not the paper of a shop. The kind of paper a man writes on when he expects the writing to be kept.
 
-The house was quiet. The hall was narrow, the stairs steep, the walls lined with books — not the ordered books of a shop, but the lived-in books of a house where books had been the furniture of a life. She led me through the hall to a room at the back, where a fire burned low and a man sat in a chair by the hearth.
+I opened it.
 
-He was old. Older than Vale had been. Older than anyone I had seen in Ashford — so old that the years seemed to have worn him down to the essential, the way water wears a stone. His hands were folded on his knee. His eyes were the eyes of a man who had seen a great deal and had not spoken of most of it. He looked at me when I came in, and I understood that he had been waiting for me — not tonight, but for years.
+*Mr. Ashcroft,*
 
-"You are Mr. Ashcroft," he said.
+*There is a room in this town which has remained locked for seventeen years. Three men have entered it, in those seventeen years. None of them agree on what they saw.*
 
-"I am."
+*Determine which of them was telling the truth.*
 
-"You have passed three tests. The room. The box. The name."
+*If you succeed, come to the address below before midnight on Thursday. Your time will not be wasted.*
 
-I did not deny it.
+There was no name. There was no town. There was no signature.
 
-"Do you know why you were invited?"
+At the foot of the page, in the same hand, an address: the reading room above the chandler's shop, on the night of Thursday, before midnight.
 
-I had thought about this. I had thought about it for three weeks, since the first letter had come, and I had turned it over in my mind until I had worn it smooth. "You wanted to know whether I was someone who could be trusted," I said. "Not whether I could solve puzzles. Whether I would use the solving rightly."
+I sat at the desk with the letter in my hand, and I could not yet tell what to make of it.
 
-The old man was silent a moment.
+It was not a threat. It was not a summons of the kind the bench sent. It was a request — a strange request, from an unknown hand, about a room that had remained locked for seventeen years and three men who did not agree on what they had seen.
 
-"That is partly correct," he said. "But it is not the whole of it."
+I had been a keeper for two years. I had been a hunter since the clock in the market. I had learned to distrust the things that arrived unasked at my door.
 
-I waited. He did not go on at once. He looked at the fire, and the woman had gone, and there was only the fire and the books and the two of us, and the quiet of the house settled around us like snow.
+And yet.
 
-"We are a society," he said. "A small society, of men and women who have an interest in the preservation of certain things. Histories. Objects. Knowledge. We have existed for a long time, in Ashford and beyond. We have members in many towns. We do not seek power. We do not seek influence. We seek to preserve what would otherwise be lost."
+The letter was not addressed to the keeper. It was not addressed to the heir of Aurelius Ashcroft. It was addressed to *Mr. Ashcroft*, as if the writer knew the name and nothing else about it. That precision unsettled me more than any threat could have.
 
-He paused.
+I turned it over. There was nothing on the back.
 
-"Including the secret of the thirteen signs, and the count that ends at 00:00."
+I put it in the drawer, with the red book and the agreement, and I did not decide anything about it that day.
 
-I stood very still. I had heard the thirteen signs spoken of before — but always in fragments, always in the margins, always by people who did not know what they were saying. I had never heard the words spoken plainly, by a man who was looking at me while he said them.
+---
 
-"You know of the signs," I said.
+The room was the reading room above the chandler's shop.
 
-"I know that they exist," he said. "I know that they are kept. I do not know what they are for. That is not a secret we have been given. It is a secret we have been set to preserve."
+I had not known the chandler's shop had a reading room above it. I had known the lending library was in the room above the chandler's shop — the room where Marianne Loxley kept her tables and her ledgers. I had not known there was another room above that.
 
-He looked at me.
+I went to see Marianne that afternoon.
 
-"I have been watching you for two years, Mr. Ashcroft. I have seen you become a keeper. I have seen you become a hunter. I have seen you find the clock, and the key, and the lock, and the letter of Aurelius Ashcroft. I have seen you refuse to open the door, and refuse to ring the bell, and keep the account when you were told to keep it."
+She was at her table, as she always was, with the lamp burning low though it was mid-afternoon, and she looked up when I came in with the letter in my hand.
 
-I did not ask how he knew. I had learned not to ask such questions in Ashford. But the words settled in me like stones. He had been watching. He had seen the door, and the bell, and the account. He knew what I was — and whatever I was, he had been waiting to find it.
+"You have come about something," she said.
 
-"Your predecessor kept us out," he said.
+"I have." I set the letter on the table before her. "Read it."
 
-I looked at him. "Vale."
+She read it. She read it slowly, the way she read everything, and when she had finished she set it down and looked at me.
 
-"Vale." The old man said the name without fondness and without anger — the way a man says a name he has had to wait a long time beside. "He was one of us, once. Then he stopped coming. He would not say why. He would not meet us. He kept the door alone, and he kept us away from it, and he died without telling us what he had been guarding."
+"There is a room above this one," she said. "It has been locked as long as I have kept the library. I have never asked what is in it. The shop below is the chandler's, and the chandler keeps the key, and the chandler has kept the key longer than I have kept the library."
 
-"And you want to know what he would not tell you."
+"Three men have entered it," I said. "In seventeen years."
 
-"I want to know," the old man said, "whether you will be another Vale. Whether you will take what the keeping gives you and shut the door in our faces, or whether you will keep it among us, so that when you die, the knowledge does not die with you. That is why we watched. That is why we tested. Not to take the keeping from you. To know whether we could stand beside it."
+"So the letter says." She looked at me. "I do not know the three men. I do not know the room. I have never asked, because the keeping of this town is the keeping of this town, and a room above a chandler's shop that stays locked is a room that is kept."
 
-I stood in the room. The fire had burned lower. The books stood along the walls, and I understood that the old man was not asking me to join anything. He was asking me not to repeat a man's mistake — to keep the keeping, but to keep it where it could be seen.
+"Do you think I should go?"
 
-"We need men like you," he said. "Men who can see what is hidden. Men who can find what is lost. Men who know when to stop, and when to continue."
+She was silent a moment.
 
-He paused, and his eyes held mine.
+"I think," she said, "that a man who sends such a letter knows something about the room. I think he knows what the three men saw. And I think he wants to know whether you can find it out for yourself."
 
-"Men who can be trusted with a truth that has no name."
+"That is what I thought."
 
-I did not know what to say. The fire burned low; the books stood along the walls; and I understood that I was being offered something I could not yet name — not a membership, and not a master, but a place among people who had been doing what I did for longer than the town had a name for it.
+"Then you will go," she said.
 
-"I will need time," I said.
+"I have not decided."
 
-"Take all the time you need," the old man said. "The door is open. When you are ready, you will know what to do."
+"You have decided," she said. "You are only waiting to admit it."
 
-He did not stand. He did not offer his hand. He looked at me, and the audience was over, and I understood that I was meant to go.
+---
 
-The woman was at the foot of the hall. She opened the door for me. I stepped out into the cold, and the door closed behind me, and I stood in the lane in the dark and did not move for a long moment.
+The address on the letter was the reading room above the chandler's shop.
 
-I had gone to the house expecting a test. I had passed three tests, and I had come to believe that the tests were the whole of it — that the sender wanted to know whether I could be trusted.
+I went on the Thursday, before midnight, as the letter directed.
 
-I had not expected to be offered a place.
+The shop was closed. The street was dark. The town had settled into its evening, and the lamps were out along the High Street, and the chandler's shop stood dark behind its shutters.
 
-I walked home through the dark streets. The town had settled into its winter stillness; the lamps were out; the windows were dark; and I could not tell for certain whether anyone was following me. I had learned, in two years, to tell when I was being watched. I did not know, tonight, whether the feeling was the ordinary one or whether it was new.
+I went round to the side, where a narrow stair led up to the room above the shop — the room Marianne had said she had never entered.
 
-I sat at my desk. I opened the red book. I wrote:
+The stair was unlit. I climbed it by the light of a match, and at the top there was a door, and the door was not locked.
 
-*The tests are over. I have met the man who sent them. He is old, and he is careful, and he has offered me a place — not a membership, but a working relationship — with a society that has no name.*
+I pushed it open.
 
-*I have not accepted. But I have not refused.*
+The room beyond was lit by a single lamp, set on a table in the middle of the floor.
 
-He had told me that the society preserved histories, objects, and knowledge — including the secret of the thirteen signs, and the count that ends at 00:00. He had told me that they preserved what would otherwise be lost.
+The room was bare. No furniture but the table and a chair. No papers. No books. Nothing but the lamp, and the table, and — on the table — three sheets of paper, laid side by side.
 
-But he had not told me what the thirteen signs were for. He had not told me what the count was counting. He had not told me why Aurelius Ashcroft had made the lock, or what it held, or why the bell would call at 00:00.
+I crossed the room. I looked at the three sheets.
 
-He had told me enough to make me curious, and not enough to make me safe.
+They were statements. Three accounts of the same room — the room I stood in — written by three hands.
 
-I closed the red book. I sat in the dark. The fire was out in my grate; the room was cold; and I understood that I had crossed a threshold — not by entering the house on the edge of Ashford, but by learning that there were people who had been watching me, and who would go on watching me, whether I accepted their offer or not.
+The first was in the hand of a clerk. It described the room as it stood: bare, with a single lamp, a table, a chair. It described the room as ordinary.
 
-I did not know whether that made me safer or less safe.
+The second was in the hand of a younger man. It described the room as he had seen it: the same bare room, but with a door at the far end that he had not opened, and a sound, once, like something moving beyond it.
 
-I did not know whether the door that had opened was a door I wanted to walk through.
+The third was in the hand of an older man. It described the room as he had seen it — the same bare room, but with no door at the far end at all, and no sound, and nothing beyond the walls but the dark.
 
-But I knew, sitting in the dark, that the offer had been made, and that the question of it would not leave me — and that a man who is offered a place among people who watch is never quite alone again.
+Three men. Three accounts of the same room. None of them agreed on what they had seen.
+
+I stood at the table, in the lamplight, and I looked at the three sheets, and I understood that I was being tested.
+
+The letter had said: *Determine which of them was telling the truth.*
+
+But the room was bare. There was no door at the far end. There was no sound. There was nothing to verify any of the three accounts against.
+
+I looked at the room. I looked at the three sheets. I looked at the lamp.
+
+And I understood.
+
+The room was not the test. The three accounts were the test.
+
+The first man said the room was ordinary. The second said there was a door and a sound. The third said there was neither.
+
+None of them could be proved from the room itself. The room gave no evidence.
+
+And that was the answer.
+
+The letter had asked which of them was telling the truth. But the truth was that none of them could be trusted — not because any of them lied, but because all of them could be believed, and the room could not decide between them.
+
+I stood in the room, in the lamplight, and I understood that the correct answer was not one of the three men.
+
+The correct answer was: *I cannot determine which of them was telling the truth.*
+
+---
+
+I did not write an answer.
+
+I left the room, and I went down the stair, and I walked home through the dark streets, and I sat at my desk, and I opened the red book, and I wrote:
+
+*A room above the chandler's shop. Locked seventeen years. Three men have entered it. None agree on what they saw.*
+
+*I entered it tonight. The room is bare. There is no door at the far end. There is no sound. There is nothing to decide between the three accounts.*
+
+*I cannot determine which of them was telling the truth.*
+
+*I am not certain that is the answer they want.*
+
+*But it is the only answer the evidence supports.*
+
+I closed the red book. I put it in the drawer, with the agreement.
+
+I did not decide whether I would go back.
+
+But I knew, sitting in the dark, that the letter had begun something. A test. A trial. A selection of some kind — I did not know what.
+
+I only knew that a man who sends such a letter, and who locks a room for seventeen years, and who sends three men into it to see three different things — that man is not looking for someone who will give him an easy answer.
+
+He is looking for someone who will tell him the truth, even when the truth is that the answer cannot be known. And perhaps that room was one of thirteen, each holding a fragment of the same mystery, waiting for the hour when the bell would call.
+
+I did not know who had sent the letter.
+
+I could not say what would come of it.
+
+But I knew that I had been asked a question, and that I had answered it — not to the letter, not to anyone, but to myself, in the red book.
+
+And I knew that the answer would be found out.
+
+The hunt had begun again.
+
+And this time, I could not tell for certain whether I was the hunter, or the hunted.
+

@@ -1,81 +1,89 @@
-﻿CHAPTER 71 — THE THURSDAY OF THE BELL
+CHAPTER 71 â€” THE COLD object
 
-I went to Goding's farm the following morning.
+I carried the second object for three days before I took it to the common.
 
-I had not been there since the winter. I had gone, in the cold months, to ask about the entry in the vestry book — the account of the Thursday of the bell. Goding had told me what he knew, and I had written it in my notebook, and I had not understood it, and I had left it. The words had sat in my book all through the cold and the snow, a page I turned past on my way to other pages, because I had found the gear, and the door, and the signs, and I had thought the bell was a different mystery. I had been wrong. The bell was the keeper's bell. And Goding had known about the bell. He had known before I knew, and he had told me the truth of it, and I had not known enough to hear what he was telling me.
+I could not yet tell why I waited. I have tried since to tell myself it was prudence, that a keeper does not hurry what he does not understand. It was not prudence. It was something nearer to fear, and I knew it even then. I had taken my own object to the common, and it had warmed, and the house had answered it, and the door had knocked. I had expected the second object to do the same — or to do something different that I could name. I had not expected it to do nothing. The nothing was what I feared.
 
-I walked the road to the farm in the grey morning. The fields were wet with rain. The hedges were bare. The road was quiet, and the mud was deep in the ruts, and the water stood in the wheel tracks the way it had stood in the winter, and I remembered the last time I had come this way — the cold, the shorter light, the way my notebook had filled with what I did not understand. The farm was as I remembered it — the low house, the barn, the yard, the dog chained by the door. The dog saw me first. It did not bark. It watched me, the way a dog watches when it remembers a scent and has not yet decided whether to trust it.
+Three days I carried it against my chest, where I had carried my own object all my life. It lay beside the first sign I had kept since I could remember, and it stayed cold. Not the cold of the air, not the cold of metal left in shadow. A cold that seemed to begin inside the metal and move outward, so that even on the mildest day the cloth of my coat was cold where it touched it. I would reach inside, as I had reached for my own object a thousand times, and the cold would take my fingers, and I would take my hand away. It did not feel like a thing waiting to warm. It felt like a thing that had decided against me.
 
-The door opened. Goding stood in the doorway. He was older than I remembered, or perhaps I had not looked at him closely enough in the winter. His hands were the hands of a man who worked the land — broad, cracked, stilled for the moment at his sides. His eyes were the eyes of a man who had seen something he had not spoken of, and who had decided, standing there in the doorway, that he would speak of it now.
+I had sat at my desk, with both Tokens before me, and I had looked at them, and I had not known what to do with the second.
 
-"You have come about the bell," he said. It was not a question.
+They were alike in the lamplight. That was part of the difficulty — that they could have been the same object, turned out of the same mould by the same hand, in a year Ashford had no name for. The same size. The same dark metal. The same cord, the same worn edges, the same first sign cut into the face: the circle, the three lines, the dot. I set them side by side and the light could not tell them apart. Only my hand could tell them apart. One gave back my warmth. The other took nothing, gave nothing, waited.
 
-"Yes."
+I had carried my own object all my life. The second had been kept. I did not know whether it was meant to be carried, or whether it was meant to stay in the house at the end of the lane, or whether I had lifted it from its box and broken something I did not understand. There was an order to the keeping — I had begun to see that much. Things had their places. The first sign had had its house. If the second object's place was the box in the windowless room, then I had taken it from its place, and I could not put it back, because I did not yet know whether the taking had been wrong.
 
-He was silent a moment. "I wondered when you would come back," he said. "I thought you would come in the spring, after you found the gear. I thought you would come when you found the house at the end of the lane. I thought you would come when you found the passage."
+On the third day I decided. I could not sit with the question any longer. I took the second object — the cold one — and I went to the common.
 
-He had known. He had known about the gear. He had known about the house. He had known about the passage. I had walked to his farm in the winter carrying the bell as a mystery, and all the while the man in the doorway had been carrying the answer.
+The morning was grey. The grass of the common was wet, and the town beyond it was quiet, and the keeper's sign was where it had always been, pressed into the earth at the edge of the grass — the line and the three strokes, worn but legible, waiting to be read. I knelt. The wet came through the cloth at my knees. I took out the second object, and I held it over the keeper's sign, the way I had held my own object on the day the house appeared. I waited.
 
-"You knew," I said.
+It did not warm.
 
-"I knew some of it," he said. "I knew the bell was the keeper's bell. I knew the gear was the key to the door. I knew the house at the end of the lane was the keeper's house — the one that does not change."
+I held it there until my arm ached and the grey light began to fail, and the metal stayed cold against my palm, cold as the earth I knelt on, cold as if the sign beneath it were nothing to it. I set it down on the grass, at the centre of the keeper's sign — the line, the three strokes, the mark of the house that appears. I took my hand away. I waited. The object lay in the grass, and the cold lay on it like a thing that belonged there, and it did not warm.
 
-"The one that does not change?"
+I picked it up. I put it back in my coat.
 
-"The house at the end of the lane," he said. "Bellweather House. It does not change. It has stood at the end of the lane for as long as there has been a lane, and it has not changed, because it is the keeper's house — the one that is kept."
+I took out my own object — the warm one — and I held it over the same spot. It warmed. It warmed as it had always warmed there, as if the sign and the metal knew each other, as if the keeping and the carried thing had never been apart. The warmth came up through my palm, into my wrist, into the bone of my arm, and I felt it, and I knew the difference was real.
 
-I stood in the yard. Goding had known. He had known all along. I thought of the years he had carried it — the gear, the house, the bell — and of how he had stood in this same yard in the winter and told me only what I had asked, and nothing more. He had been waiting for me to ask the right question. I had not known which question was right. I had gone looking for the door with the gear in my hand, and I had not asked the man who could have told me what the door was for.
+I sat at the edge of the common, in the grey light, with one warm object in my hand and one cold object in my coat, and I understood that the second object did not answer the keeper's sign. My object answered. The second did not.
 
-"The bell," I said. "The Thursday of the bell. What happened on the Thursday of the bell?"
+I did not know what that meant. I put my own object back in my coat. I sat there, with both Tokens against my chest, one warm and one cold, and I thought about the difference.
 
-Goding was silent a long moment. The dog watched us both. The water dripped from the eaves of the barn, one drop at a time, and the sound of it filled the yard.
+My object had been carried. The second had been kept. My object had been taken to the common, and to the house, and to the door, and it had answered each time, because those were the places of its keeping. The second had been kept in a box, in a windowless room, at the end of a forgotten lane, in a house that was itself kept — and it had not answered anything, because I had not brought it to the place it answered. I could not say where that place was. I only knew that the keeper's sign was not its sign.
 
-"The bell rang," he said.
+I stood. The light had gone further while I sat. I walked home through the quiet streets. I opened the drawer. I took out the red book. I wrote:
 
-I stared at him. "The bell does not ring. It has not rung in living memory."
+The second object does not warm at the keeper's sign. My object does. They are identical, but they are not the same.
 
-"It has rung once," he said. "On the Thursday of the bell. It rang once, in the dark, before dawn, and I was the only one who heard it."
+I have carried mine all my life. The second was kept in a house at the end of Bellweather Lane, kept empty, kept closed, kept forgotten.
 
-"Only you?"
+I do not know whether the second object is meant to be carried, or whether it is meant to be kept. I have taken it from its place. I do not know whether that was right.
 
-"I was the keeper's man," he said. "Before Vale, there was another keeper. I was his man. I knew the passage. I knew the house at the end of the lane. I knew the bell."
+I closed the red book. I put it in the drawer. I took out the second object and held it in my hand. It was cold. I had carried it for three days, and it had not warmed against my skin. I had carried my own object for years, and I had never noticed it warm. I had not known it was warm until I had brought it to the common and felt it change. The second object did not change.
 
-I stood in the yard. Goding had been the keeper's man. He had known the bell had rung. He had been the only one to hear it. I had thought of him, all winter, as a farmer who had known a piece of the town's old trouble. I had not understood that he was the man the keeper had left behind.
+I looked at it. The first sign — the circle, the three lines, the dot. The same as mine. The same metal. The same age. But cold. I turned it over, and the metal gave nothing back, and the mark on its face might have been cut yesterday or a hundred years ago, and I could not tell which.
 
-"The keeper before Vale," I said. "What happened to him?"
+I sat in the dark, with the cold object in my hand, and I thought about the house at the end of the lane, and the box on the table, and the windowless room, and the years of silence. The second object had been kept for a reason. I could not tell for certain the reason. I had taken it. I could not put it back.
 
-"He went into the passage," Goding said. "The night the bell rang. He went down, and he did not come back. The bell rang once, and he went down, and he did not come back."
+I had no way of knowing whether I was meant to carry it, or whether I was meant to keep it, or whether I was meant to do something else with it. I put it in the drawer, beside the red book, and the agreement, and the map, and my notebook. I left my own object on the desk.
 
-I was very still. "The bell rang," I said. "The keeper went into the passage. He did not come back."
+I could not say what to do with the second. But I knew that I would not leave it in the drawer forever. It had been kept for too long. I would carry it. I would carry both. And I would find out what the difference meant.
 
-"Vale was the keeper after him," Goding said. "He was not the first. He was the keeper who kept the door closed, because the keeper before him had opened it."
+---
 
-I stood in the yard. The keeper before Vale had opened the door. The bell had rung. The keeper had gone into the passage. He had not come back. And Vale had kept the door closed ever since — or so Goding said. I had no way to confirm his account. I had only the silence in the yard, and the dog's watching eyes, and the truth in the way he said the words, as if he had kept them a long time and was tired of them.
+The next day, I went to the vestry. I took the second object with me. I placed it on the table before the clerk.
 
-"Where is he?" I said. "The keeper before Vale. Is he still in the passage?"
+He looked at it. He did not touch it.
 
-Goding was silent. "I do not know," he said. "I did not go after him. I did not enter the passage. I heard the bell, and I knew what it meant, and I did not go after him."
+The vestry was quiet. The light came through the small window and fell on the table between us, and the clerk stood with his hands at his sides, looking down at the object the way a man looks at a page he had thought was finished and finds is not. There was dust in the air. There was always dust in the air in the vestry, moving slowly in the light, as if the room itself were breathing.
 
-"Because you were afraid."
+"There is a second," he said.
 
-"Because I was not the keeper," Goding said. "The keeper goes. The keeper's man stays."
+"There is. I found it at the end of Bellweather Lane, in a house that has been kept empty, in a box, in a windowless room."
 
-I stood in the yard, with the dog watching me, and the grey sky overhead, and the memory of the bell that had rung once, in the dark, before dawn, on the Thursday of the bell. The keeper before Vale had opened the door. The bell had rung. The keeper had gone into the passage. He had not come back. And Vale had kept the door closed ever since.
+The clerk was silent. I watched his face. He had known about the house at the end of the lane — he had told me, the first time I asked, that no one went there, that it was kept, that it was not to be entered. He had not told me what was in it. I think now that he had not known. Or he had known and had not said, and the difference no longer mattered, because the box was open either way.
 
-I thought of the man who had stayed. Goding had heard the bell, and he had known what it meant, and he had not gone after the keeper — not because he was afraid, or not only because he was afraid, but because his part was to stay. Someone had to stay. Someone had to remember the account of the Thursday of the bell, and carry it, and tell it to the next keeper when he came to ask the right question. I had come. I had asked. And he had told me. The keeper goes. The keeper's man stays. The man who stays is the one who tells the tale to the one who goes.
+"It is cold," I said. "My object warms at the keeper's sign. This one does not."
 
-I had the gear. I had the key to the tower. I had the Tokens. I was the keeper. I could not yet tell whether I would go into the passage. I could not say whether I would open the door. But I knew that the bell had rung once, and that the keeper had not come back. And I knew that the bell was the keeper's bell.
+"The first object was carried," he said slowly. "The second was kept. That is the difference."
 
-I thanked Goding. I walked home through the wet fields. I sat at my desk. I took out the red book. I wrote:
+"Then what is the second for?"
 
-Goding was the keeper's man. The keeper before Vale opened the door. The bell rang. The keeper went into the passage. He did not come back. Vale kept the door closed after that. The bell has not rung since.
+He did not answer at once. He looked at the object a long time, and I saw him want to touch it, and I saw him not touch it.
 
-I have the gear. I have the Tokens. I have the key to the tower. I am the keeper. I did not know what I would do. But I knew that the bell was the keeper's bell. And I knew that if it rang again, I would go into the passage. And I knew that I might not come back.
+"I do not know," he said. "I have no record of two Tokens. I have no record of a second. The first sign is the first sign. I have never heard of a second."
 
-I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the Tokens away. I left them on the desk. And I sat in the dark, and I thought about the keeper before Vale, and about the bell that had rung, and about the passage, and about the door.
+"Then why was it kept?"
 
-The keeper before Vale had opened it. He had not come back. Vale had kept it closed. I was the keeper now. And I did not know what I would do. The bell was the keeper's bell. The first sign was on its rim. The Tokens warmed at it. And I held the key to the tower.
+"Because it was meant to be found," he said. "By you. At the end of Bellweather Lane, in a house that has been kept empty, in a box, in a windowless room — waiting for the keeper who would find it."
 
-I sat in the stillness, and I thought about the Thursday of the bell, and about the keeper who had not come back, and about the passage that had taken him. I could not say what I would do. But I knew that the bell was the keeper's bell. And I knew that the keeper's bell had rung once. And I knew that if it rang again, I would answer it.
+He looked at me. "The first object was carried. The second was kept. One was carried so that the keeper would know the first sign. The other was kept so that the keeper would know there was more than one."
 
-The bell had rung for the keeper before Vale, and he had gone down, and he had not come back. I could not say who the bell would ring for, if it rang again. I could not say whether it would carry my name, or whether it was only ever one bell, ringing once for each keeper, calling each of them down the same passage into the same dark. I stood at my window and looked toward the church, and the tower was a black shape against the sky, and the bell hung in it, silent, and I knew that if it rang again I would answer it. I did not know what answer would be enough. I did not know whether I would come back. The keeping had never asked me whether I was ready. It had only waited. And Goding — the keeper's man — would be the one left standing in the yard, the one who stays, the one who would tell the next keeper what the last keeper had asked and had not come back to answer.
+I stood in the vestry, with the cold object in my hand. The clerk had not known. No one had known. The second object had been kept, in a house at the end of a forgotten lane, in a box, in a windowless room, waiting for the keeper who would find it. Not for the town. Not for the Order. For the keeper. For me, if I was the keeper — and I was the keeper.
+
+I had found it. I had carried it. I had not known what it was. But I had found it.
+
+And I understood, standing in the vestry, that the keeping was not over. I had thought, when I lifted the second object from its box, that I had reached the end of something — that the house at the end of the lane had given up its last secret and would trouble me no more. It had not been the end. It had been the middle. The second object had been kept for a reason. I could not tell for certain the reason. But I had found it. And I would carry it. And I would find out what the second object was for.
+
+I put it in my coat, beside my own. Two Tokens. One warm, one cold. I carried them both. I was the keeper of both.
+
+The clerk said nothing as I left. He stood at the table, looking at the place where the object had lain, and I understood that he too had expected to know more than he knew. I walked home through the darkening streets with the cold object against my chest and my own warm beside it, and I could not say which of them would speak next — only that one of them would, and that when it did, I would be carrying it.

@@ -992,11 +992,13 @@ The following events are CONFIRMED by locked/living canon chapters. Source notat
 - **[CONFIRMED] 5–6 Jan 1817:** Twelfth Day; wardens named (Goding, Hare); Goding met at the market cross; Thursday appointment given. SOURCE: Ch 34.
 - **[CONFIRMED] 9 Jan 1817 (Thursday):** Goding's farm; his 1809 day-of memory; two newer stones at the mill-yard corner wall. SOURCE: Ch 35.
 
-## Notes on timeline rules (Ch 1–47)
+## Notes on timeline rules (Ch 1–51)
 
 - Specific dates are recorded only where narratively/historically/chronologically necessary; the Ashford date-sparing rule is respected.
-- No dates in Ch 36–47 beyond "January 1817" (Ch 36), "May 1817" (first stone cracks, Ch 45), and Vale's death "before dawn" (Ch 46–47, May–Jun 1817).
+- No dates in Ch 36–51 beyond "January 1817" (Ch 36), the last week of February 1817 (Ch 41, Leon's first visit to Vale with no investigative purpose), April 1817 (Ch 45, the Pell report and the single-copy lesson), "May 1817" (first stone cracks, Ch 47), the first week of August 1817 (Ch 48, the box first shown), a Tuesday in mid-October 1817 (Ch 50, the last ordinary visit), and Vale's death "before dawn" on the following Thursday (Ch 49–51, October 1817).
+- **Leon knew Vale for approximately eight months** — from the Agreement visit of Ch 40 (February 1817) and the return of Ch 41 (late February) to Vale's death in October 1817. Vale states the duration himself in Ch 50 ("You have been coming here eight months… February"). CONFIRMED.
 - All items above are CONFIRMED by their cited chapters; where a date is implied rather than stated (e.g., arrival = 19 Nov), it is marked by the reasoning in the source.
+- **RENUMBERING NOTE (2026-09-03):** four chapters inserted; old Ch 47–137 are now Ch 51–141. Timeline entries above for Ch 1–35 are unaffected.
 
 ---
 

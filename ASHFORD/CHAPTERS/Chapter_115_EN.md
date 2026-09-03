@@ -1,127 +1,168 @@
-﻿CHAPTER 115 — THE QUESTION
-
-The winter came, and the town settled into its stillness, and I kept the account.
-
-I had been keeper for four years. I had been a hunter since the clock in the market. I had worked with the society for a year. I had read the book of the first keeper, and I had found the tally, and I had understood that the boundary was a count. I had carried the question through four seasons, and through the reading of books, and through the nights when the lamp burned at nine and the bell came and I could not say what they were counting.
+CHAPTER 115 — THE COUNT
 
 I could not yet tell what the count was counting.
 
-I carried the question through the winter. I carried it to the boundary, and to the chamber, and to the tower, and to the reading room above the chandler's shop. I carried it with the object warm against my chest. It went where I went, the way a coat goes, or a wound. I set it down nowhere, because there was nowhere in Ashford where I could set it down.
+I carried the two pages of marks with me, in my notebook — the tally from the book of the first keeper, and the marks from the oldest book of the Academy. I looked at them together, and I counted them, and I did not know what they meant.
 
-I did not find the answer.
+The count was a number. I had counted it many times. It was the same number each time.
 
-The winter was hard that year. The snow lay long on the fields, and the boundary stones stood up out of it black and wet, and I walked the line every morning, as I had walked it every morning for four years, touching the first sign at the base of each stone. The stones did not move. The boundary held. I had written those words in the red book, and I did not know what they meant, and I wrote them again.
+But I did not know what it was counting.
+
+I sat at my desk, with the two pages before me, and I thought about the keeping — the boundary, the sign, the house, the agreement, the door, the bell. I thought about the keepers — the first keeper, Aurelius, the keeper before Vale, Vale, and me. I thought about the years — the fifty years of Vale, the years of the keeper before him, the years of Aurelius.
+
+The count was more than all of them.
+
+I could not say what the count was counting.
+
+I went to see Ysabel.
+
+She was at her house near the river, and I set my notebook on her table, and I showed her the two pages of marks.
+
+"The tally from the book of the first keeper," I said. "And the marks from the oldest book of the Academy. The same hand. The same count."
+
+Ysabel looked at them for a long time.
+
+"The first keeper wrote that the tally is the count of the years," she said. "One mark for each year, kept since the first year."
+
+"Yes."
+
+"And the oldest book of the Academy records the boundary as it was first set."
+
+"Yes."
+
+"And the marks are the same, in the same hand, the same count."
+
+"Yes."
+
+Ysabel was silent a moment.
+
+"Then either the first keeper made the tally twice," she said, "or the boundary was not the first thing he set."
+
+I looked at her.
+
+"The boundary was not the first thing he set?"
+
+"The count was made before the boundary," Ysabel said. "You have said so yourself. The same hand made the same count in two books — one the tally of the keeping, one the record of the boundary. If the count is the same, and the hand is the same, then the count was made at the same time in both books."
+
+"And?"
+
+"And the count was made before the boundary," she said. "Or the count was made for the boundary."
+
+I stood in her house, in the cold light, and I did not understand.
+
+"The count was made for the boundary," I said.
+
+"The count is a number," Ysabel said. "A number of things. The first keeper made the count, and then he set the boundary. Perhaps the boundary was set to mark the count."
+
+"To mark the count?"
+
+"Perhaps," she said, "the boundary does not mark a place. Perhaps it marks a number."
+
+I looked at her.
+
+"A number of what?"
+
+"I do not know," she said. "But if the boundary marks a number, then the stones are not markers of a boundary — they are counters. And the tally is not a count of years — it is the record of what the boundary is counting."
+
+I stood in her house, and I understood that I had been reading the boundary wrong.
+
+I had read it as a line — a boundary drawn between one place and another, meant to keep something in or out. I had read the stones as markers of that line.
+
+But there was a thing I had noticed and set aside without understanding it. I had walked the wall from the eastern marker to the corner where it turned, and the wall had ended there. It had not continued around the town. It had not enclosed the fields, or the common, or the houses. It had run a length and turned and stopped — as if its purpose was not to surround anything but to record something, the way a line on a page records a count.
+
+If the boundary marked a number, then the stones were counters — and the line was not a line at all.
+
+The line was a count.
+
+I stood in her house, and I did not speak for a long time. Ysabel stood at the table, with the two pages of marks before her, and she did not speak either.
+
+"You have been afraid of it," I said at last.
+
+She looked at me.
+
+"The count," I said. "You have been hunting the clocks for twenty years, and you have read the books, and you have followed the trails. You could have found the tally before I did. You could have counted the marks in the Academy book, or read the wardens' ledger, or asked the clerk. But you did not."
+
+She was silent a long moment.
+
+"I was afraid," she said, "that if I found the number, I would have to know what it meant. And I was not ready to know what it meant." She looked at me. "I do not know whether I am ready now."
+
+I had no answer for her. I had no answer for myself. The number was there, and it was older than the boundary, and it was not counting years, and I did not know what it was counting. But I understood that Ysabel had been carrying her own keeping — the keeping of a question she had been afraid to ask — and that she had been carrying it longer than I had been carrying mine.
 
 ---
 
-On a night in January I went to the reading room.
+I went to the boundary the following morning.
 
-I had not been there since the autumn. I had not been called. The society had not asked anything of me since the book, and I had not asked anything of them, and the key to the reading room had lain in my drawer, between the Tokens and the gear, and I had not used it.
+I had walked the line of stones many times. I had counted them — more than a hundred, from the eastern marker to the corner where the wall turned. I had studied them. I did not count them again. I walked them instead, slowly, looking at each stone as I passed, thinking about what Ysabel had said.
 
-I went because I wanted to think.
+The tally was a number. The stones were a number. The two numbers were not the same.
 
-The room was as I had left it — bare, with a single lamp on a table in the middle of the floor. The key was in my pocket, and I set it on the table, and I sat in the chair, and I thought.
+I knelt at the fourth stone, where the hairline mark ran across its face. I looked at the first sign, cut into the base of the stone, hidden where the earth covered it.
 
-I thought about the count.
+The first sign. The mark of the maker.
 
-I had read the book of the first keeper. I had counted the tally. I had walked the boundary, and the wall, and the chamber. I had worn the object, and it had warmed at every stone. I had watched the season pass, four times, and I had understood that the lamp and the bell and the house at the common were all part of the count. I knew that the boundary was a count. I knew that the stones were counters. I knew that the object was the counter. I knew that the count was older than the keeping.
+The tally was in the hand of the first keeper.
 
-I did not know what it was counting.
+The stones were set by the first keeper.
 
-I sat in the reading room, in the lamplight, and I asked myself the question I had been avoiding.
+The boundary was set to mark something that had been counted before.
 
-What if the count was not counting the keeping?
+I sat back on my heels, and I looked at the stone, and I understood that I was reading the boundary wrong.
 
-What if the count was counting the keeper?
+I had read it as a line. I had read the stones as markers of the line.
+
+But the stones were not markers of a line. They were counters. Each stone counted something — one thing for each stone, or some number of things for each stone.
+
+And the tally was the record of what they counted.
+
+I stood.
+
+I walked the line of stones again, and I looked for the pattern — the pattern of the count, the pattern that the boundary was marking.
+
+I did not find it that morning.
+
+But I understood that the boundary was not a line.
+
+It was a count.
+
+And the tally was the record of the count.
 
 ---
-
-I had not asked myself that question before.
-
-I had assumed the count was counting the keeping — the years, the seasons, the turning of the boundary. It was the first keeper's own word for it. He had written that the tally was the count of the years, one mark for each year, kept since the first year. And the count was more than the years of the keeping as I knew it — more than Vale's fifty years, more than the keeper before him, more than Aurelius, more than the first keeper's own life could have held. I had counted that tally in the first year I read it, and I had counted it again, and I had not been able to make the marks fit the years.
-
-What if the count was counting something else?
-
-What if it was counting the keepers?
-
-I sat in the reading room, in the lamplight, and I turned the question over in my mind, and I did not like the shape of it. The first keeper. Aurelius. The keeper before Vale. Vale. And me. Five keepers, in the keeping I knew — a number a child could count on one hand. The tally was more than five. The tally was more than fifty. It was a count that outran every accounting of the keepers I had, and if it was counting keepers, then it was counting keepers I did not know — keepers before the records, before the names, before the town itself, perhaps. The keeping had worn many faces before it had worn mine, and the count had kept its own tally of all of them.
-
-I did not know how many marks the tally had. I had counted them, and I had lost the number in the counting, and I had not written it down, because I had not understood what it was counting.
-
-I had not written the number down.
-
-I sat in the reading room, and I understood that I had made a mistake. I had counted the tally. I had known the number. And I had not written it down, because I had not understood what it meant — and now I needed the number, and I did not have it, and the book was at home, and the thought of the number lying unrecorded in the dark of my desk was a heavier thought than the number itself.
 
 I went home.
 
-I took out the book of the first keeper. I opened it to the first page. I looked at the tally. The marks ran in rows, in the same hand, the same count I had counted before and lost.
+I sat at my desk. I opened the red book. I wrote:
 
-I counted the marks.
+*The boundary is not a line. It is a count.*
 
-I wrote the number in the red book.
+*The stones are not markers of a line. They are counters. Each stone counts something.*
 
-And then I sat in the dark and looked at the number, and I understood that I could not say what it meant — but I knew that I needed to find out, and that I would not lose it again. Whatever the number was counting, it had been counted by hands older than mine, and I was not going to be the keeper who let it slip away unrecorded.
+*The tally in the book of the first keeper is the record of the count. The same count stands in the oldest book of the Academy, beside the record of the boundary.*
 
----
+*I do not know what the stones are counting.*
 
-I went to the Academy the following morning.
+*But I know that the boundary was set to mark the count.*
 
-Daniel was there, in the room at the top of the stair, with his papers and his ledgers. The Academy kept its own kind of records, the kind that went back further than the town's, and Daniel kept them the way the clerk kept the vestry — carefully, without asking what they meant. I had brought the number to him because he was the keeper of the oldest book in the Academy, the book whose marks matched the tally of the first keeper, and because if anyone could read a count, it was the man who kept the books that held the same count.
+*And I know that the count is older than the boundary.*
 
-I set my notebook on his table. I had copied the number from the red book into my own hand, because I did not want to carry the red book through the streets, and because I had decided, in the night, that the number should be able to travel without me.
-
-I opened it to the page where I had written the number.
-
-"Count this," I said. "Tell me what it means."
-
-Daniel looked at the number. He looked at me. He did not ask where I had got it, and I did not tell him — in Ashford, questions of that sort are usually answered by silence, and we both knew it.
-
-"It is a number," he said. "It is a large number. It is the sort of number a man writes when he has been counting something for a very long time."
-
-"I need to know what it is counting," I said.
-
-Daniel was silent a moment. He set the notebook down, and I saw his hand move to the ledger at his elbow, and then stop, the way a man's hand stops when he has decided not to show you what he was about to show you.
-
-"Then you will need the records," he said. "The records of the counting. And the records of the counting are not in the Academy."
-
-"Where are they?"
-
-Daniel looked at me. The lamp in the room at the top of the stair burned between us, the same lamp that burned in so many of the rooms where the town kept its secrets.
-
-"The records of the counting," he said, "are in the place the counting was made. And I do not know where that is."
-
-I stood in the room at the top of the stair.
-
-The records of the counting were in the place the counting was made.
-
-And no one knew where that was.
-
-I thought about the oldest book of the Academy, the book whose marks matched the tally. It was not the place of the counting — Daniel kept it, and Daniel did not know where the counting was made. The number was in the tally. The number was in the Academy's oldest book. The number was in my notebook. And somewhere, in a place I had not found, there was a place where the count had been born, and the records of the counting were kept there, and I had no way of knowing where it was. The books that held the count were not the place of the counting. They were only the record of it, carried down by hand after hand, and the place itself had been left out of every record I had found.
-
-I took my notebook. I folded it. I put it in my coat.
-
-I thanked Daniel. I left the Academy.
-
-I walked home through the streets, with the number in my pocket, and I understood that the hunt was not over. I had found the tally. I had counted the marks. I had written the number. But I could not tell for certain what the number meant, and I had no way of knowing where the counting had been made.
-
-I walked home, and I sat at my desk, and I opened the red book, and I wrote:
-
-*I have counted the tally. I have written the number.*
-
-*I do not know what it means.*
-
-*The records of the counting are in the place the counting was made. And no one knows where that is.*
-
-*I will find the place.*
+*I will learn what the stones are counting.*
 
 *I will learn the count.*
 
-*The hunt is not over.*
+I closed the red book.
 
-I closed the red book. I sat in the dark. The number was in my notebook, and the number was in the tally, and the number was in the oldest book of the Academy — and no one knew where the counting had been made. But someone had made it. Someone had set a number at the beginning of the keeping, and the keepers had carried it unchanged ever since, and I was the latest of them. Somewhere in Ashford, or beyond it, there was a place where the count had been born — and I understood that I would know it when I found it, the way I had known the first sign was different from every other mark in the town.
+I sat in the dark.
 
-I did not yet know what the count was counting.
+I was the keeper. I was a hunter. I was a man who worked with a society that had no name.
 
-But I knew that I was walking toward the place where it had been made. The road was cold, and the winter was long, and I could not tell what I would find at the end of it — a room, a book, a name.
+And I had found the count.
 
-Or a number that had been waiting for me all along.
+I had no way of knowing what it was counting.
+
+But I knew that I would learn.
+
+The hunt had led me to the boundary.
+
+And the boundary was leading me to the count.
+
+I had not yet learned what the count was counting. But I had learned that it was older than the boundary, and that the boundary had been set to mark it, and that I was the keeper of a thing that had been counted before the town had a name. The question was no longer where the count was. It was what the count was for — and what would happen when it reached its end. I did not know whether I was walking toward an answer or toward the thing that would ask me the question.
+

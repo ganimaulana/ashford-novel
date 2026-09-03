@@ -1,197 +1,101 @@
-﻿CHAPTER 108 — THE OPENING
+CHAPTER 108 — THE MEETING
 
-I kept the book of the first keeper for three days without opening it.
+The house was on the edge of Ashford, where the street lamps gave out and the road narrowed and the town began to hand itself back to the fields. I went at eight, as the paper had directed, and the cold was the cold of a deep winter, the kind that keeps a man's hands in his pockets and his questions in his throat.
 
-I could not yet tell why I waited. I had been given the book, and the book was the account of the origins, and the account was what I had been seeking — the beginning of the keeping, the beginning of the signs, the beginning of the boundary.
+The house stood behind a wall of old stone. A light burned in the upper window — one light, steady, the light of a room where someone sat and waited. I had learned, in two years of keeping, to read the lights of Ashford: the lamp that moved through the house at the end of the lane, the lamp carried from room to room and put out, the lamps that burned where no one stood. I had learned that a light left burning is a thing a man does on purpose. I stood at the wall a long moment before I knocked.
 
-But I did not open it.
+A woman opened the door. She was older than I had expected — grey-haired, with a face that had seen many years and kept the accounts of them. She did not ask my name. She did not ask what I wanted. She looked at me the way a person looks at a man who has been expected, and she stepped back and let me in.
 
-I set it on the desk each evening. I looked at it. I did not open it.
+The house was quiet. The hall was narrow, the stairs steep, the walls lined with books — not the ordered books of a shop, but the lived-in books of a house where books had been the furniture of a life. She led me through the hall to a room at the back, where a fire burned low and a man sat in a chair by the hearth.
 
-The red book lay beside it — the account I had written, the account of my own keeping. And the book of the first keeper lay beside the red book, and I looked at them together, and I understood that one was the beginning and one was the keeping, and I did not know whether I was ready to read the beginning.
+He was old. Older than Vale had been. Older than anyone I had seen in Ashford — so old that the years seemed to have worn him down to the essential, the way water wears a stone. His hands were folded on his knee. His eyes were the eyes of a man who had seen a great deal and had not spoken of most of it. He looked at me when I came in, and I understood that he had been waiting for me — not tonight, but for years.
 
-On the third evening, I opened it.
+"You are Mr. Ashcroft," he said.
 
----
+"I am."
 
-The first page was not a page of words. It was a page of marks.
+"You have passed three tests. The room. The box. The name."
 
-Not the first sign. Not the keeper's sign. Not the circle and the line. A page of marks I had never seen — small marks, like a tally, running in rows across the page, hundreds of them, in the hand of the first keeper.
+I did not deny it.
 
-I looked at them for a long time.
+"Do you know why you were invited?"
 
-The rows were dense. They filled the page and ran over it, and I understood without counting that there were more marks here than any one man's life could account for — more than the years I had lived, more than the years Vale had kept the door closed, more than the years this town had called itself Ashford, if the marks were years. I did not know what they meant. I could not say whether they were a count, or a record, or a language, or a pattern.
+I had thought about this. I had thought about it for three weeks, since the first letter had come, and I had turned it over in my mind until I had worn it smooth. "You wanted to know whether I was someone who could be trusted," I said. "Not whether I could solve puzzles. Whether I would use the solving rightly."
 
-I turned the page.
+The old man was silent a moment.
 
-The second page was words — the hand of the first keeper, in the same careful hand I had seen in the letter of Aurelius, but older, harder, written by a hand that had not yet learned the gentleness of the later hand.
+"That is partly correct," he said. "But it is not the whole of it."
 
-I read it.
+I waited. He did not go on at once. He looked at the fire, and the woman had gone, and there was only the fire and the books and the two of us, and the quiet of the house settled around us like snow.
 
-*I have set the boundary. I have carved the sign. I have built the house. I have made the agreement.*
+"We are a society," he said. "A small society, of men and women who have an interest in the preservation of certain things. Histories. Objects. Knowledge. We have existed for a long time, in Ashford and beyond. We have members in many towns. We do not seek power. We do not seek influence. We seek to preserve what would otherwise be lost."
 
-*I have done these things because I was asked to do them, and because I believed they were necessary, and because I could not tell for certain what else to do.*
+He paused.
 
-*I do not know what lies beneath the boundary. I do not know what the sign marks. I do not know what the house keeps.*
+"Including the secret of the thirteen signs, and the count that ends at 00:00."
 
-*I know only that I was asked, and that I said yes, and that I have kept my word.*
+I stood very still. I had heard the thirteen signs spoken of before — but always in fragments, always in the margins, always by people who did not know what they were saying. I had never heard the words spoken plainly, by a man who was looking at me while he said them.
 
-I turned the page.
+"You know of the signs," I said.
 
-*The tally is the count of the years. I have kept it since the first year, one mark for each year, so that the keeper who comes after will know how long the keeping has stood.*
+"I know that they exist," he said. "I know that they are kept. I do not know what they are for. That is not a secret we have been given. It is a secret we have been set to preserve."
 
-*I do not know how many years the keeping will stand. I do not know who will keep it after me. I do not know whether the keeper who comes after will understand what I have done.*
+He looked at me.
 
-*But I know that I have kept my word, and that the keeping is the thing, and that the man is not.*
+"I have been watching you for two years, Mr. Ashcroft. I have seen you become a keeper. I have seen you become a hunter. I have seen you find the clock, and the key, and the lock, and the letter of Aurelius Ashcroft. I have seen you refuse to open the door, and refuse to ring the bell, and keep the account when you were told to keep it."
 
-I read it twice.
+I did not ask how he knew. I had learned not to ask such questions in Ashford. But the words settled in me like stones. He had been watching. He had seen the door, and the bell, and the account. He knew what I was — and whatever I was, he had been waiting to find it.
 
-*The keeping is the thing, and the man is not.*
+"Your predecessor kept us out," he said.
 
-I had written the same words, in my own way, in the red book. I had not known that the first keeper had written them too.
+I looked at him. "Vale."
 
-I turned the pages.
+"Vale." The old man said the name without fondness and without anger — the way a man says a name he has had to wait a long time beside. "He was one of us, once. Then he stopped coming. He would not say why. He would not meet us. He kept the door alone, and he kept us away from it, and he died without telling us what he had been guarding."
 
-The book was not long. It was the account of a life — the life of the first keeper, who had set the boundary, and carved the sign, and built the house, and made the agreement, and kept the tally, and erased his own history so that the keeping would be about the thing, and not about the man.
+"And you want to know what he would not tell you."
 
-There was no name in the book. There was no record of where he came from, or who he was, or what he had been before he became the keeper.
+"I want to know," the old man said, "whether you will be another Vale. Whether you will take what the keeping gives you and shut the door in our faces, or whether you will keep it among us, so that when you die, the knowledge does not die with you. That is why we watched. That is why we tested. Not to take the keeping from you. To know whether we could stand beside it."
 
-Only the account of the keeping.
+I stood in the room. The fire had burned lower. The books stood along the walls, and I understood that the old man was not asking me to join anything. He was asking me not to repeat a man's mistake — to keep the keeping, but to keep it where it could be seen.
 
-And at the end of the book, on the last page, there was a single line, in a hand that had grown tired with years:
+"We need men like you," he said. "Men who can see what is hidden. Men who can find what is lost. Men who know when to stop, and when to continue."
 
-*I have kept my word. I have kept the keeping. I have erased myself so that the keeping will be kept for its own sake, and not for mine. Let the keeper who comes after know that the keeping is the thing, and the man is not.*
+He paused, and his eyes held mine.
 
-I closed the book.
+"Men who can be trusted with a truth that has no name."
 
-I sat in the dark, with the book before me, and I understood.
+I did not know what to say. The fire burned low; the books stood along the walls; and I understood that I was being offered something I could not yet name — not a membership, and not a master, but a place among people who had been doing what I did for longer than the town had a name for it.
 
-The first keeper had not been a man of power. He had been a man who had been asked to keep something, and who had said yes, and who had kept it for his whole life, and who had erased himself so that the keeping would be kept for its own sake.
+"I will need time," I said.
 
-The boundary. The sign. The house. The agreement. The tally.
+"Take all the time you need," the old man said. "The door is open. When you are ready, you will know what to do."
 
-All of it, kept by a man whose name was not in any record.
+He did not stand. He did not offer his hand. He looked at me, and the audience was over, and I understood that I was meant to go.
 
-And I had been given the account of what he had done.
+The woman was at the foot of the hall. She opened the door for me. I stepped out into the cold, and the door closed behind me, and I stood in the lane in the dark and did not move for a long moment.
 
-I sat in the stillness, and I understood that I was not reading the beginning of a mystery.
+I had gone to the house expecting a test. I had passed three tests, and I had come to believe that the tests were the whole of it — that the sender wanted to know whether I could be trusted.
 
-I was reading the beginning of a life.
+I had not expected to be offered a place.
 
-A life that had been given to the keeping.
+I walked home through the dark streets. The town had settled into its winter stillness; the lamps were out; the windows were dark; and I could not tell for certain whether anyone was following me. I had learned, in two years, to tell when I was being watched. I did not know, tonight, whether the feeling was the ordinary one or whether it was new.
 
-And I understood, sitting in the dark, that I had been given the same life.
+I sat at my desk. I opened the red book. I wrote:
 
----
+*The tests are over. I have met the man who sent them. He is old, and he is careful, and he has offered me a place — not a membership, but a working relationship — with a society that has no name.*
 
-I did not tell the society what was in the book.
+*I have not accepted. But I have not refused.*
 
-I did not tell Adeline. I did not tell the old man. I did not tell Ysabel.
+He had told me that the society preserved histories, objects, and knowledge — including the secret of the thirteen signs, and the count that ends at 00:00. He had told me that they preserved what would otherwise be lost.
 
-I sat at my desk, with the book of the first keeper before me, and I understood that I had been given something that was not for the society.
+But he had not told me what the thirteen signs were for. He had not told me what the count was counting. He had not told me why Aurelius Ashcroft had made the lock, or what it held, or why the bell would call at 00:00.
 
-The society wanted the book. The society had asked me to find out what was in it. But the book was not a thing to be given to a society.
+He had told me enough to make me curious, and not enough to make me safe.
 
-The book was the account of the first keeper's life.
+I closed the red book. I sat in the dark. The fire was out in my grate; the room was cold; and I understood that I had crossed a threshold — not by entering the house on the edge of Ashford, but by learning that there were people who had been watching me, and who would go on watching me, whether I accepted their offer or not.
 
-And the account was the keeping.
+I did not know whether that made me safer or less safe.
 
-I put the book in the drawer, beside the red book, and the agreement, and the key to the reading room.
+I did not know whether the door that had opened was a door I wanted to walk through.
 
-I had no way of knowing what I would tell the society.
-
-I could not say whether I would tell them anything.
-
-But I knew that the book was not mine to give, and not theirs to take.
-
-The book was the account of the keeping.
-
-And the account was the thing that was kept.
-
----
-
-I went to the reading room the following evening.
-
-Adeline was there, at the table, with the lamp burning.
-
-"Did you find the book?" she said.
-
-"I found it."
-
-"And what is in it?"
-
-I was silent a moment. I had decided, on the walk to the chandler's shop, how much I would say. I had decided to say only what could be seen and not what had been given. "It is the account of the first keeper," I said. "The man who set the boundary, and carved the sign, and built the house, and made the agreement. He wrote the account of the keeping, and he erased his own history so that the keeping would be kept for its own sake."
-
-Adeline was silent.
-
-"The first keeper," she said slowly. "There are those who believed he was only a name — a story the Order told to give itself a beginning."
-
-"He was a man," I said. "And he left an account."
-
-"And the book?" she said.
-
-"I have it," I said. "I am keeping it."
-
-She looked at me. "The society asked you to find out what was in it. Not to keep it."
-
-"The society asked me to find out what was in it," I agreed. "And I have found out. It is the account of the first keeper's life. And I am keeping it, because it is the account of the keeping, and the account is the thing that is kept."
-
-Adeline was silent a long moment. I watched her, and I could not tell whether the silence was surprise, or disappointment, or something else I could not name.
-
-"You have changed," she said at last. "Since you came to the room above the chandler's shop."
-
-"I have understood," I said.
-
-"Understood what?"
-
-"That the society does not own what it finds," I said. "That a keeper keeps what is given to him, and does not give it to another. And that the book of the first keeper was not given to me to pass on — it was given to me to keep."
-
-I looked at her.
-
-"I will work with you," I said. "I will help you preserve what would otherwise be lost. But I will not give you the book."
-
-Adeline looked at me for a long time.
-
-"You said he kept a tally," she said.
-
-I went still.
-
-"Of the years," she said. "You said he kept a tally of the years."
-
-I had said it. I had said it without thinking, in the same breath as the account and the erasure, and now the words sat between us on the table. I could not take them back.
-
-"The book records a count," I said. "I have not yet understood what it counts."
-
-"Bring it to me," she said, "when you do."
-
-It was not a demand. It was not quite a request. It was the kind of sentence a person says when they are telling you where the door will be, and leaving it open, and letting you walk through it on your own.
-
-I said nothing.
-
-Adeline stood. She went to the stair.
-
-"Keep the book, Mr. Ashcroft," she said. "I did not ask you to give it to me, and I will not ask again. But the society has spent a long time looking for the first keeper's account, and it will not stop looking simply because it has found it."
-
-She went down the stair.
-
-I stood in the reading room, in the lamplight, with the key in my pocket and the book in my drawer, and I did not know whether I had passed a test or set a trap. Adeline had not told me I had passed. She had not told me the book was the final test, and that by keeping it I had earned the society's trust. She had told me only that she would not ask for the book again, and that the society would not stop looking.
-
-And I had told her about the tally.
-
-I walked home through the dark streets, and I sat at my desk, and I opened the red book, and I wrote:
-
-*I have read the book of the first keeper. It is the account of his life. He set the boundary, and carved the sign, and built the house, and made the agreement, and kept a tally, and erased himself so that the keeping would be kept for its own sake.*
-
-*The keeping is the thing, and the man is not.*
-
-*I have kept the book. I will not give it to the society.*
-
-*But I have told Adeline that the first keeper kept a tally. I do not know whether that was wisdom or a mistake. The society has been looking for the first keeper's account for a long time. If it is the tally they want, and not the book, then I have told them where to look.*
-
-I closed the red book. I sat in the dark.
-
-I had kept the book. I had refused to give it up. But I had given away something else — the knowledge that the book contained a count, a number, a thing that could be read. And I understood, sitting in the dark, that the three tests had not ended. They had changed shape. The first test was the room. The second was the box. The third was the name. And the fourth — the test I had not seen coming — was the book, and what I chose to do with what it contained.
-
-I did not know yet whether I would pass it.
-
-
+But I knew, sitting in the dark, that the offer had been made, and that the question of it would not leave me — and that a man who is offered a place among people who watch is never quite alone again.

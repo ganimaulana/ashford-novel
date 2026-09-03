@@ -9,11 +9,11 @@
 ---
 
 ## 1. THE THREE SIGNS
-- **First appearance:** Ch1–2 (symbol on nameplate, key, books); Ch37–38 (Order's sign); Ch48–62 (naming of first/keeper/Order signs).
+- **First appearance:** Ch1–2 (symbol on nameplate, key, books); Ch37–38 (Order's sign); Ch–62 (naming of first/keeper/Order signs).
 - **Initial interpretation:** Decorative marks / Order's badge.
 - **Escalation:** first sign appears on boundary stones, bell, clocks, key, chamber, medallions, marsh ring.
-- **Partial revelation:** three signs = maker's / keeper's / Order's; first is oldest; keeper's sign is key, gear is lock (Ch53); first sign is the counter (Ch113).
-- **Payoff:** thirteen rings of first signs across the land; the count; the third medallion (Ch134–137).
+- **Partial revelation:** three signs = maker's / keeper's / Order's; first is oldest; keeper's sign is key, gear is lock (Ch); first sign is the counter (Ch).
+- **Payoff:** thirteen rings of first signs across the land; the count; the third medallion (Ch–137).
 - **Remaining mystery:** the full meaning of the maker's sign; the relationship of all thirteen.
 - **Class:** LONG-TERM / ONGOING
 
@@ -21,8 +21,8 @@
 - **First appearance:** Ch36 (Mill Lane clock).
 - **Initial interpretation:** clock part / found object.
 - **Escalation:** fits door depression; opens door an inch; two gears exist (Leon's + Vale's box).
-- **Partial revelation:** the gear is the lock/marker, not the key; the keeper's sign is the key (Ch53).
-- **Payoff:** passed to Daniel (Ch125).
+- **Partial revelation:** the gear is the lock/marker, not the key; the keeper's sign is the key (Ch).
+- **Payoff:** passed to Daniel (Ch).
 - **Remaining mystery:** whether a second gear's full role.
 - **Class:** RESOLVED (role) / ONGOING (second gear)
 
@@ -30,22 +30,22 @@
 - **First appearance:** Ch38 (stone door beneath mill).
 - **Initial interpretation:** a sealed entrance.
 - **Escalation:** opens from both sides; gear in depression; door is not a door; "not opened but remembered."
-- **Partial revelation:** door marks where first sign crosses keeper's sign; the place beneath is beneath the chamber, not behind the door (Ch75).
+- **Partial revelation:** door marks where first sign crosses keeper's sign; the place beneath is beneath the chamber, not behind the door (Ch).
 - **Payoff:** door kept closed; passed to Daniel unopened.
 - **Remaining mystery:** what lies beneath; what 00:00 would bring if the door opened.
 - **Class:** LONG-TERM / INTENTIONALLY AMBIGUOUS
 
 ## 4. 00:00
-- **First appearance:** Ch1 (wall clock frozen at 00:00, still ticking); Ch45 (stopped clock at 00:00).
-- **Escalation:** becomes a threshold motif; the bell rang for Leon (Ch73); the lock opens only at 00:00 (Ch95).
-- **Partial revelation:** 00:00 is a question, not an answer (Ch51); a time the count moves toward.
+- **First appearance:** Ch1 (wall clock frozen at 00:00, still ticking); Ch47 (stopped clock at 00:00).
+- **Escalation:** becomes a threshold motif; the bell rang for Leon (Ch); the lock opens only at 00:00 (Ch).
+- **Partial revelation:** 00:00 is a question, not an answer (Ch); a time the count moves toward.
 - **Remaining mystery:** what happens at 00:00; never demonstrated.
 - **Class:** LONG-TERM / INTENTIONALLY AMBIGUOUS
 
 ## 5. THE BELL
-- **First appearance:** Ch1 (bell tolls once at night); Ch9 (small bell + compass found); Ch69–73 (keeper's bell in tower).
+- **First appearance:** Ch1 (bell tolls once at night); Ch9 (small bell + compass found); Ch–73 (keeper's bell in tower).
 - **Initial interpretation:** a church bell that cannot ring (tongue sold).
-- **Escalation:** the bell rings once for Leon (Ch73); keeper before Vale answered it and never returned.
+- **Escalation:** the bell rings once for Leon (Ch); keeper before Vale answered it and never returned.
 - **Partial revelation:** the bell is the keeper's bell; it is kept, not rung; it calls at the count's completion.
 - **Remaining mystery:** what the call summons; never shown.
 - **Class:** LONG-TERM / INTENTIONALLY AMBIGUOUS
@@ -58,15 +58,15 @@
 - **Class:** LONG-TERM
 
 ## 7. THE COUNT / TALLY
-- **First appearance:** Ch55 (wall signs as record); Ch107–109 (first keeper's book tally).
+- **First appearance:** Ch (wall signs as record); Ch–109 (first keeper's book tally).
 - **Initial interpretation:** count of years running out.
 - **Escalation:** three identical tallies (first keeper, Academy, Ferrand); number fixed; marks being added.
-- **Partial revelation:** the count counts the KEEPERS (Ch121); Leon's mark is already in it; thirteen signs to find.
+- **Partial revelation:** the count counts the KEEPERS (Ch); Leon's mark is already in it; thirteen signs to find.
 - **Remaining mystery:** what the completed count does; the thirteen rings.
 - **Class:** ONGOING (resolved as keeper-count; destination unknown)
 
 ## 8. THE PLACE BENEATH
-- **First appearance:** Ch38–40 (space beneath mill/door); Ch74–75 (chamber beneath both houses).
+- **First appearance:** Ch38–40 (space beneath mill/door); Ch–75 (chamber beneath both houses).
 - **Initial interpretation:** what the door guards.
 - **Escalation:** the chamber floor first sign; the medallion set in it; warmth rising; the narrator touches what is beneath.
 - **Partial revelation:** not a thing to be opened or sealed but to be kept.
@@ -84,12 +84,12 @@
 ## 10. THE TOWN'S AGREEMENT (the forgetting)
 - **First appearance:** Ch9–35 (town agrees to see nothing); Ch40 (Agreement document).
 - **Escalation:** agreement = forgetting; account = remembering; keeper keeps both.
-- **Payoff:** the town can choose to remember; Leon does not decide for them (Ch78).
+- **Payoff:** the town can choose to remember; Leon does not decide for them (Ch).
 - **Remaining mystery:** none — resolved as a thematic condition.
 - **Class:** RESOLVED
 
 ## 11. THE NAMELESS SOCIETY
-- **First appearance:** Ch100–103 (three tests).
+- **First appearance:** Ch–103 (three tests).
 - **Initial interpretation:** a recruitment.
 - **Escalation:** preserves histories/objects; interest in the tally; took Ferrand's room; tests Leon.
 - **Partial revelation:** old man + Adeline; working relationship, not membership; society's interest in the book is the count.
@@ -97,20 +97,20 @@
 - **Class:** ONGOING / INTENTIONALLY AMBIGUOUS
 
 ## 12. THE KEEPER OF THE TALLY (watcher)
-- **First appearance:** Ch121 (April full moon, man in dark coat adding a mark).
+- **First appearance:** Ch (April full moon, man in dark coat adding a mark).
 - **Initial interpretation:** unseen hand maintaining the count.
 - **Escalation:** neither ally nor enemy; impersonal record; marks added at thresholds.
 - **Remaining mystery:** who he is, what he records for.
 - **Class:** INTENTIONALLY AMBIGUOUS
 
 ## 13. THE THIRTEEN RINGS / THIRTEEN SIGNS
-- **First appearance:** Ch112 (wall as countdown); Ch129 (marsh ring of 100+ stones).
+- **First appearance:** Ch (wall as countdown); Ch (marsh ring of 100+ stones).
 - **Escalation:** 13 rings may exist; marsh = first; house on hill = second medallion marker; journey south continues.
 - **Remaining mystery:** the remaining rings; the completed count.
 - **Class:** LONG-TERM
 
 ## 14. THE MAN WHO BROUGHT MARR THE BOOK
-- **First appearance:** Ch107.
+- **First appearance:** Ch.
 - **Initial interpretation:** unknown keeper.
 - **Remaining mystery:** identity.
 - **Class:** ONGOING (deliberate loose thread)

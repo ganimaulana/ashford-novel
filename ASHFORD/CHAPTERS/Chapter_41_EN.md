@@ -1,823 +1,203 @@
-# CHAPTER 41 — THE ORDER OF SEVERENCE
+CHAPTER 41 — THE OLD MAN'S TABLE
 
-The first sign of the Order was not a meeting.
+I went back to Bellweather Lane two days later.
 
-It was a phrase.
+I had a reason.
 
-I found it three days after the old constable showed me the agreement.
+I had written down three phrases from the agreement while it lay open on his table, and I had written them quickly, and I was no longer certain I had them exactly.
 
-Finch had brought a bundle of papers from the lower shelves of the parish records. Most were unremarkable: property disputes, burial registers, notices concerning roads that no longer existed.
+The line shall remain undisturbed.
 
-One page had been folded twice and placed between two unrelated documents.
+No marked object shall be removed from its appointed place.
 
-There was no title.
+No sealed entrance shall be opened except under the conditions herein stated.
 
-No date.
+Three lines. I had them in my notebook in my own hand, and my own hand is not a reliable witness after two days.
 
-No signature.
+So I walked to the end of the lane in the middle of the afternoon and knocked.
 
-Only six words written across the middle of the page.
+It took him a long time to come to the door.
 
-**Sever what was bound.**
+"You," he said.
 
-I read them twice.
+"I need to check something."
 
-Then a third time.
+He stood aside.
 
-The handwriting was narrow and deliberate. Whoever had written it had pressed hard enough that the impression remained on the paper beneath.
+The room was the same. The chair. The cold fireplace. The blanket over his knees when he sat, which he did slowly, and with one hand on the arm of the chair, and without comment.
 
-I turned the page over.
+I took out my notebook and opened it on the table.
 
-Nothing.
+"I wrote down three lines from the document. I want to know whether I wrote them correctly."
 
-I held it toward the window.
+He looked at the notebook.
 
-Nothing.
+Then he looked at me.
 
-It was not a letter.
+"You copied it."
 
-It was not a prayer.
+"Three lines of it."
 
-It was not even clear that it was meant for anyone.
+"Why."
 
-I put it aside.
+"Because I might not see it again."
 
-Ten minutes later, I picked it up again.
+Something in his face moved. Not a smile. Something further back than that.
 
-That annoyed me.
+"Read them to me."
 
-A phrase without context should have meant nothing.
+I read them.
 
-Instead, it had the unpleasant quality of something overheard.
+He listened with his eyes closed, and when I had finished he was quiet for long enough that I thought he had gone to sleep.
 
-I took it to Calloway.
+"The second one is wrong," he said.
 
-He was in his office, going through reports when I placed the page on his desk.
+"Wrong how?"
 
-He looked at it.
+"You have written *from its appointed place*. The document says *from the place appointed for it*." He opened his eyes. "It is the same meaning. It is not the same sentence."
 
-For several seconds, he did not move.
+"Does that matter?"
 
-Then he folded the paper along its existing crease.
+"It matters when a man tells you he is quoting."
 
-"Where did you find this?"
+I corrected it.
 
-"Finch's records."
+He watched me do it.
 
-"Which records?"
+"Do you always write things down?" he said.
 
-"Parish archives."
-
-He looked at me.
-
-"You shouldn't have brought it here."
-
-"Why?"
-
-"Because now I have to tell you what it is."
-
-I waited.
-
-He sighed.
-
-"An old phrase."
-
-"Whose?"
-
-"That's harder to say."
-
-"Try."
-
-Calloway leaned back.
-
-"The Order of Severence."
-
-The name meant nothing to me.
-
-"Religious?"
-
-"No."
-
-"Political?"
-
-"Not exactly."
-
-"Criminal?"
-
-He almost smiled.
-
-"No."
-
-"Then what are they?"
-
-"People."
-
-"That's not very helpful."
-
-"It is when you understand how they operate."
-
-He returned the paper.
-
-"They don't announce themselves. They don't hold public meetings. They don't recruit in taverns. They don't leave lists of members behind."
-
-"How do you know they exist?"
-
-"Because Ashford is old."
-
-That was his answer.
-
-I waited for more.
-
-It did not come.
-
-"How long?"
-
-"Longer than anyone remembers clearly."
-
-"And what do they believe?"
-
-Calloway looked toward the window.
-
-Rain had begun against the glass.
-
-"That depends on which member you ask."
-
-"Then give me the common part."
-
-He was silent for a moment.
-
-"They believe some things were bound that should not have been."
-
-I thought of the agreement.
-
-Of the door beneath the mill.
-
-Of the gear sitting in my desk drawer.
-
-I kept my expression still.
-
-"Bound how?"
-
-"That's the problem."
-
-"What problem?"
-
-"They don't always mean the same thing."
-
-He picked up another report.
-
-The conversation was over.
-
-I took the page.
-
-At the door, I stopped.
-
-"Calloway."
-
-He looked up.
-
-"Are they dangerous?"
-
-He considered the question.
-
-"Anyone who thinks they understand something other people fear can be dangerous."
-
-That was all.
-
----
-
-I spent the afternoon looking through the records again.
-
-Not for the Order.
-
-For the phrase.
-
-I found it twice.
-
-The first occurrence was nearly forty years old.
-
-The second was older.
-
-Neither document explained it.
-
-The words appeared in margins, beside corrections, or beneath passages that had later been crossed out.
-
-I began to notice something else.
-
-The phrase was never accompanied by a name.
-
-Not once.
-
-That made it difficult to decide whether I was looking at the work of one person or several.
-
-I wrote the occurrences in my notebook.
-
-Then I wrote a question beneath them.
-
-**Sever what was bound.**
-
-What was bound?
-
-And who had decided that it should be severed?
-
-I closed the notebook.
-
-There was no answer.
-
-Only another question.
-
----
-
-The next morning I went to the market.
-
-I had no particular reason to be there.
-
-At least, that was what I told myself.
-
-Ashford's market occupied the same stretch of square it had occupied for generations. Fishmongers argued over space. Farmers complained about the weather. Women moved between stalls carrying baskets. Somewhere nearby, a horse objected loudly to being harnessed.
-
-Nothing looked unusual.
-
-That was one of the things I had begun to distrust about the town.
-
-It was very good at looking ordinary.
-
-I noticed her near the bookstall.
-
-A woman in a dark coat stood with her back to the road, examining a collection of old pamphlets.
-
-She was not dressed unusually.
-
-She was not watching me.
-
-At least, I did not think she was.
-
-I passed her once.
-
-Then again.
-
-On the third pass, she spoke without looking up.
-
-"You are carrying something."
-
-I stopped.
-
-"Everyone carries something."
-
-She turned.
-
-Her eyes moved briefly to my coat.
-
-"Yours is metal."
-
-I said nothing.
-
-She closed the pamphlet.
-
-For the first time, she looked directly at me.
-
-There was no fear in her expression.
-
-No excitement either.
-
-Only calculation.
-
-"You're Leon Ashcroft."
-
-It was not a question.
-
-"Who are you?"
-
-She glanced toward the market.
-
-"Not here."
-
-She walked away.
-
-I followed at a distance.
-
-Not because I trusted her.
-
-Because I wanted to know whether she knew what she was talking about.
-
-She crossed the square, passed the church, and stopped near the river.
-
-The market noise faded behind us.
-
-She rested one hand against the stone railing.
-
-"You shouldn't follow strangers."
-
-"You told me not to stay."
-
-"I didn't tell you to follow me."
-
-"You knew I would."
-
-A faint smile appeared.
-
-"Perhaps."
-
-"Who are you?"
-
-"Eleanor Shaw."
-
-The name meant nothing to me.
-
-"Are you part of the Order?"
-
-She looked at me.
-
-"Who told you that name?"
-
-"Calloway."
-
-That was not entirely true.
-
-She seemed to know it.
-
-"Calloway tells very little."
-
-"Usually."
-
-She looked at the river.
-
-"Then you know more than most."
-
-"I know there is an Order."
-
-"And what else?"
-
-"That they believe some things should be severed."
-
-Her expression changed slightly.
-
-Not surprise.
-
-Recognition.
-
-"That is one interpretation."
-
-"What is yours?"
-
-She did not answer.
-
-Instead, she asked:
-
-"Do you believe a promise should be kept if the person who made it no longer understands why it was made?"
-
-I thought of the agreement.
-
-"I don't know."
+"Yes."
 
 "Good."
 
-"Why?"
-
-"Because certainty is usually the first mistake."
-
-The river moved slowly beneath us.
-
-I studied her.
-
-"Are you trying to recruit me?"
-
-"No."
-
-"Then what do you want?"
-
-"To know whether you intend to keep a promise you don't understand."
-
-I did not answer immediately.
-
-She watched me.
-
-"The agreement," she said.
-
-I kept my face still.
-
-"You know about it."
-
-"I know that there is one."
-
-"Who told you?"
-
-"No one."
-
-That answer was less reassuring than it should have been.
-
-"How much do you know?"
-
-"Enough to know that people have died protecting things they could not explain."
-
-"And the Order?"
-
-"The Order believes that fear is not the same as wisdom."
-
-"Do you?"
-
-She looked toward the opposite bank.
-
-"Sometimes."
-
-"That's not an answer."
-
-"No."
-
-She smiled faintly.
-
-"But it is an honest one."
-
-I thought about the phrase.
-
-"Sever what was bound."
-
-Eleanor's eyes returned to me.
-
-"Where did you see that?"
-
-"In the records."
-
-She was quiet.
-
-Then she said:
-
-"People have been using those words for a very long time."
-
-"Why?"
-
-"Because they are simple."
-
-"Simple isn't an explanation."
-
-"No."
-
-She looked at me for another moment.
-
-"That is why they're dangerous."
-
-I waited.
-
-She continued.
-
-"The Order is not made up of people who agree about everything. Some believe the old boundaries are mistakes. Some believe the agreements were made by frightened men. Some believe the things beneath Ashford were never meant to remain hidden."
-
-"Beneath Ashford?"
-
-She paused.
-
-I knew immediately that I had caught something she had not intended to say.
-
-"What do they believe is beneath it?"
-
-"I didn't say they were right."
-
-"But they believe something is."
-
-"Some of them."
-
-"Do you?"
-
-Eleanor looked at the river again.
-
-"No."
-
-The answer came quickly.
-
-I believed her.
-
-That was what unsettled me.
-
-"Then why stay with them?"
-
-"I didn't say I was with them."
-
-"You aren't?"
-
-"I said I know them."
-
-"That's different."
-
-"Very."
-
-She pushed herself away from the railing.
-
-"Ask yourself a better question."
-
-"What?"
-
-"Why did your family agree to keep something sealed?"
-
-I said nothing.
-
-She started walking.
-
-I followed for two steps.
-
-Then stopped.
-
-She looked back.
-
-"Do you know what the Order wants?"
-
-"To open the door?"
-
-"Some of them."
-
-"And the others?"
-
-"To understand the door first."
-
-She left before I could ask which group she belonged to.
-
-I stood beside the river until the market noise returned.
+He said nothing else about it. He did not tell me why it was good. I noted the omission and did not ask, and I have thought since that he was testing whether I would ask, and that not asking was the answer he wanted.
 
 ---
 
-That evening I went back to the records.
+The reason I had come was finished in four minutes.
 
-I found three names that had appeared beside the phrase over the years.
+Neither of us stood up.
 
-None belonged to members of an organisation.
+That was the first time.
 
-One was a schoolmaster.
+I have thought about it since — about the exact moment when a man stops being an errand and starts being a habit — and I cannot find it. There was no moment. There was only a room in the afternoon with the curtains half drawn and an old man who did not tell me to leave.
 
-One was a cooper.
+"There is bread," he said eventually. "In the press. And butter, if the cat has not had it."
 
-One had been listed as a solicitor.
+"You have a cat?"
 
-The names had nothing obvious in common.
+"No. That is the point of saying it."
 
-But each had been connected to property disputes involving old boundary lines.
+I found the bread. It was two days old. I found the butter. I cut two slices and put one on a plate for him and he looked at the plate as though I had done something faintly presumptuous, and then he ate it.
 
-I wrote that down.
+"When did you eat last?" he said.
 
-Then crossed it out.
+"This morning."
 
-A coincidence was not evidence.
+"What."
 
-I had begun to understand that much.
+"Tea."
 
-I turned another page.
+"Tea is not eating."
 
-A note had been written in the margin.
+"It was a substantial tea."
 
-**The boundary is not the prison.**
+"There is no such thing." He turned the plate a little on the table. "You are thin in the way men are thin when they have decided that hunger is an inconvenience rather than a fact."
 
-I stared at it.
+"I have been busy."
 
-There was no signature.
+"Yes."
 
-No date.
-
-I read it again.
-
-Then I wrote beneath it:
-
-**If so, what is?**
-
-I did not find an answer.
+He let it sit there. He did not press it. That, I came to understand much later, was his method — he would put a thing down between us and leave it, and if I picked it up he would follow, and if I did not he would let it lie and come back to it in a month.
 
 ---
 
-I met Silas Crowe two days later.
+He asked about the boarding house on Chandler Street.
 
-He approached me outside the library.
+I told him the roof leaked over the back stair and the landlady's son had a cough that would not clear.
 
-I had seen him once before.
+He asked how long I had been there.
 
-A tall man in a dark coat, perhaps forty, perhaps a little older. His appearance was unremarkable enough that I had almost forgotten him.
+"Since March."
 
-Almost.
+"And before March?"
 
-He stopped several feet away.
+"Lodgings. Another town. Then another."
 
-"Mr. Ashcroft."
+"And before the lodgings?"
 
-"Mr. Crowe."
+I looked at the fireplace.
 
-He smiled.
+"There was a house," I said. "It was not mine. I was in it for six years because somebody had agreed to have me and was paid a small amount for the trouble."
 
-"So you know my name."
+He did not say he was sorry. I have been told that a great many times by people who wanted the subject closed, and I have learned to hear the door shutting in it. He did not do that.
 
-"People talk."
+He said, "Your mother or your father?"
 
-"Usually when they have something to say."
+"Both. Within a year."
 
-"Usually."
+"How old."
 
-Neither of us moved.
+"Seven."
 
-He looked toward the library doors.
+He nodded, once, the way a man does when a figure confirms something he had already calculated.
 
-"You've been reading old records."
+"That is early," he said. "Late enough to remember. Early enough that no one thinks you need to be told anything."
 
-"That's allowed."
+That was near enough to the truth that I did not answer it.
 
-"I didn't say it wasn't."
+"People who grow up alone learn to carry everything themselves," he said. "It is a useful skill. It is not a virtue. Men confuse the two and then wonder why they cannot put anything down."
 
-"Then why mention it?"
+"I manage."
 
-"Because records have a habit of making dead arguments look simple."
+"I know." He reached for the bread again. "That is what I said."
 
-I watched him.
-
-"What argument?"
-
-"The old one."
-
-"That's not specific."
-
-"No."
-
-He seemed amused.
-
-"The old arguments rarely are."
-
-He walked past me.
-
-I turned.
-
-"Mr. Crowe."
-
-He stopped.
-
-"You know about the agreement."
-
-He looked over his shoulder.
-
-"I know there was one."
-
-"You've seen it?"
-
-"No."
-
-"Then what do you know?"
-
-"Enough."
-
-"That's the second time someone has said that to me."
-
-"Perhaps you should stop asking the wrong people."
-
-I almost smiled.
-
-"Then tell me who the right people are."
-
-Crowe turned fully toward me.
-
-"The right person is usually the one who admits he doesn't know."
-
-"That's Eleanor's answer."
-
-"Then Eleanor has learned something."
-
-He continued walking.
-
-I followed.
-
-Not closely.
-
-"Do you belong to the Order?"
-
-He stopped again.
-
-"No."
-
-I waited.
-
-"Do you support them?"
-
-"Sometimes."
-
-"Do you oppose them?"
-
-"Sometimes."
-
-"That isn't very useful."
-
-"Neither is choosing a side before you understand the dispute."
-
-We had reached the end of the street.
-
-The evening was becoming colder.
-
-Crowe looked toward the dark line of the river.
-
-Then he said:
-
-"You have been looking at a locked door."
-
-I said nothing.
-
-"And?"
-
-"Eventually," he continued, "you will have to decide whether a locked door is protection or imprisonment."
-
-The words were simple.
-
-Too simple.
-
-I thought of Eleanor.
-
-Of Calloway.
-
-Of the agreement.
-
-Of the phrase in the records.
-
-Sever what was bound.
-
-"What would you call it?"
-
-Crowe looked at me.
-
-"That depends on what is on the other side."
-
-"Do you know?"
-
-A pause.
-
-Then:
-
-"I know enough to be interested."
-
-That was not an answer.
-
-But it was probably the most honest thing he had said.
-
-He turned away.
-
-I did not follow.
-
-I watched him disappear into the evening traffic.
+Then he asked me whether the mill road was still flooded at the low turn, and I said it was, and we talked about the drainage of a road for a quarter of an hour, and neither of us went back to it.
 
 ---
 
-That night I opened my notebook.
+I stayed until the light went orange in the window.
 
-I wrote down everything I knew about the Order.
+Twice while I was there he looked at the window — not out of it, at it. The sash, and the latch, and the two inches of gap where the frame had swollen. He did it without interrupting himself, the way another man might check that his pocket was buttoned.
 
-It was not much.
+Once he asked me, apparently from nowhere, who had seen me come up the lane.
 
-They had existed in Ashford for decades.
+"The Hartley girl. She was carrying water."
 
-They had no obvious headquarters.
+"Anyone at the top of the lane?"
 
-Their members did not share a single profession.
+"A man with a barrow. I did not know him."
 
-They believed some boundaries were prisons.
+"Coming up or going down?"
 
-They disagreed about what should be done with them.
+"Going down."
 
-Eleanor Shaw knew about the agreement but claimed not to know its purpose.
+He accepted that and went back to what he had been saying, which was something about a hedge.
 
-Silas Crowe knew about the locked door.
+I remember thinking: he has been alone in this house for a long time, and old men who live alone grow careful about doors.
 
-Calloway knew more than he wanted to say.
+That is what I thought.
 
-And someone, years ago, had written:
+---
 
-**Sever what was bound.**
+When I stood to go he said, "You did not ask me anything about the door."
 
-I stared at the list.
+"No."
 
-Then I added one final line.
+"Why not."
 
-**None of them appears to know the whole truth.**
+"Because I did not come for that."
 
-I left the notebook open.
+He looked at me for a moment.
 
-For the first time since I had begun looking into the strange things around Ashford, that possibility felt less like a weakness and more like a clue.
+"Then come again," he said, "for that reason."
 
-Perhaps there was no single person who knew everything.
+I said I would.
 
-Perhaps the knowledge had been divided.
+I walked back down the lane in the dusk with my notebook in my coat and one corrected sentence in it, and I did not think of the visit as anything at all. I had gone to check a transcription. I had checked it. I had eaten a slice of bread in a cold room with a dying man and talked about a flooded road.
 
-Passed from one generation to another.
+I wrote nothing in my notebook about it.
 
-Broken into pieces.
+That absence is, in its way, the only honest record I kept of that year. Everything I thought mattered is written down. The afternoons are not.
 
-A phrase here.
-
-A name there.
-
-A warning without its reason.
-
-An agreement without its history.
-
-A door without a key.
-
-I closed the notebook.
-
-Outside, the town had gone quiet.
-
-I thought of Crowe's question.
-
-Protection or imprisonment.
-
-I did not know.
-
-But I was beginning to understand that the people asking me to choose already had their answers.
-
-And that frightened me more than the locked door itself.
+It was the last week of February. I did not know then that I would be going up that lane for eight months.

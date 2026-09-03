@@ -46,13 +46,19 @@ Last Updated: 2026-08-29 (repaired under LIVING_CANON_TIMELINE_SOP; previous ent
 | 038 | The Space Beneath | Jan–Feb 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_38_EN.md` | Promoted 2026-09-01 per Phase 3H D5; mill status, Marlow renaming (structural revisions applied) |
 | 039 | The House at the End of the Lane | Feb 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_39_EN.md` | Promoted 2026-09-01 per Phase 3H D5; Bellweather House conflation, Finch reassignment (structural revisions applied) |
 | 040 | The Agreement | Feb 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_40_EN.md` | Promoted 2026-09-01 per Phase 3H D5; Aurelius reaction, Leon family references (structural revisions applied) |
-| 041 | The Order of Severence | Mar 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_41_EN.md` | Promoted 2026-09-01 per Phase 3H D5; Order identity alignment (structural revisions applied) |
-| 042 | The Watchman | Mar–Apr 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_42_EN.md` | Promoted 2026-09-01 per Phase 3H D5; Watchman/Keeper terminology canonized (structural revisions applied) |
-| 043 | The First Test | Apr 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_43_EN.md` | Promoted 2026-09-01 per Phase 3H D5; minor continuity adjustments (structural revisions applied) |
-| 044 | The Watcher's Burden | Apr–May 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_44_EN.md` | Promoted 2026-09-01 per Phase 3H D5; bell strike removal, dialogue repetition (structural revisions applied) |
-| 045 | The Cracks | May 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_45_EN.md` | Promoted 2026-09-01 per Phase 3H D5; time bridge, house phenomenon merge (structural revisions applied) |
-| 046 | The Renewal | May 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_46_EN.md` | Promoted 2026-09-01 per Phase 3H D5; gear handover fix (structural revisions applied) |
-| 047 | The Keeper's Vigil | May–Jun 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_47_EN.md` | Promoted 2026-09-01 per Phase 3H D5; bell strike removal (structural revisions applied); Leon becomes Keeper of the Agreement |
+| 041 | The Old Man's Table | Jan 1817 | OFFICIAL (living canon) | `CHAPTERS/Chapter_41_EN.md` | **NEW 2026-09-03** — Vale deepening arc A; Leon returns to check a transcription and stays; orphanhood established indirectly |
+| 042 | The Order of Severence | Mar 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_42_EN.md` | Promoted 2026-09-01 per Phase 3H D5; Order identity alignment (structural revisions applied). Renumbered from 041 on 2026-09-03 |
+| 043 | The Watchman | Mar–Apr 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_43_EN.md` | Promoted 2026-09-01 per Phase 3H D5; Watchman/Keeper terminology canonized (structural revisions applied). Renumbered from 042 |
+| 044 | The First Test | Apr 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_44_EN.md` | Promoted 2026-09-01 per Phase 3H D5; minor continuity adjustments (structural revisions applied). Renumbered from 043 |
+| 045 | A Second Copy | Apr 1817 | OFFICIAL (living canon) | `CHAPTERS/Chapter_45_EN.md` | **NEW 2026-09-03** — Vale deepening arc B; the single-copy lesson, map reading, observation vs conclusion, the repeated question |
+| 046 | The Watcher's Burden | Apr–May 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_46_EN.md` | Promoted 2026-09-01 per Phase 3H D5; bell strike removal, dialogue repetition (structural revisions applied). Renumbered from 044 |
+| 047 | The Cracks | May 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_47_EN.md` | Promoted 2026-09-01 per Phase 3H D5; time bridge, house phenomenon merge (structural revisions applied). Renumbered from 045 |
+| 048 | The Things We Keep | Aug 1817 | OFFICIAL (living canon) | `CHAPTERS/Chapter_48_EN.md` | **NEW 2026-09-03** — Vale deepening arc C; the box first shown and returned to the press; "These are mine"; "Why me?" unanswered |
+| 049 | The Renewal | Oct 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_49_EN.md` | Promoted 2026-09-01 per Phase 3H D5; gear handover fix (structural revisions applied); box handover reframed as the second showing. Renumbered from 046 |
+| 050 | The Last Visit | Oct 1817 | OFFICIAL (living canon) | `CHAPTERS/Chapter_50_EN.md` | **NEW 2026-09-03** — Vale deepening arc D; the visit with no reason; "you do not owe the dead your life"; the coat refused |
+| 051 | The Keeper's Vigil | Oct 1817 | OFFICIAL (living canon, SOP §18) | `CHAPTERS/Chapter_51_EN.md` | Promoted 2026-09-01 per Phase 3H D5; bell strike removal (structural revisions applied); Leon becomes Keeper of the Agreement. Renumbered from 047 |
+
+> **RENUMBERING NOTE (2026-09-03):** Four chapters were inserted into the Vale sequence. Mapping: old 041–043 → 042–044; old 044–045 → 046–047; old 046 → 049; old 047–137 → 051–141. New chapters are 041, 045, 048, 050. Total chapters: 137 → 141. Rows 052–141 of this table are pending regeneration; the mapping above is authoritative in the interim.
 
 ## Legacy Notes
 

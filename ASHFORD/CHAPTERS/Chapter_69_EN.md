@@ -1,120 +1,112 @@
-﻿CHAPTER 69 â€” THE BELLWEATHER NAME
+CHAPTER 69 â€” THE TWO HOUSES
 
-I had not known the name of the house at the end of Bellweather Lane.
+I had been keeping the account for a week when I understood that I had been asking the wrong question.
 
-I had called it the kept house, in my notebook, in the red book. I had not asked what it was called. I had not asked who had built it, or who had owned it, or why it had been kept empty.
+I had been asking what the door was. I had been asking what the signs meant. I had been asking what the object was for. I had not been asking about the house.
 
-I had entered it. I had found the second object. I had left without asking its name.
+The house that appeared and disappeared at the edge of the common â€” I had treated it as a passage, a way to the door, a keeper that kept the first sign. I had not asked what it was.
 
-On the day after the second object warmed at the kept house, I went to the vestry. The clerk was there.
+I had not asked why it appeared only at the edge of the common. I had not asked why it appeared at all.
 
-"The house at the end of Bellweather Lane," I said. "The empty house, beyond Vale's house, where the lane meets the fields. What is its name?"
+I sat at my desk, with the red book open before me, and I thought about the house. It appeared at the edge of the common, where the grass met the lower pasture. It appeared when the door needed to be opened, or so I had thought. It kept the first sign carved into its back wall. It answered the object. And it disappeared, each time, leaving only the pressed shape of the floor, and the keeper's sign bent into the earth, and the memory of cold air and a stopped clock.
 
-The clerk looked at me.
+I had not asked what the house was. I had asked what it hid.
 
-"You have been inside," he said.
-
-"I have."
-
-"Then you know what it is."
-
-"I know it is the house of the first sign. I know it held the second object. I do not know its name."
-
-The clerk was silent a moment.
-
-"It is called Bellweather House," he said.
-
-I heard the name. Bellweather. I had heard it before â€” in the spring, when I had first come to Ashford, when I had walked the streets and learned the names of the lanes. Bellweather Lane. Bellweather House. I had not thought about it. I had not asked what it meant.
-
-"Bellweather," I said.
-
-"The house gave the lane its name," the clerk said. "The lane was named after the house, not the other way. It has stood at the end of the lane for longer than anyone can remember. It has been empty for as long as I have been here."
-
-"And before?"
-
-"Before that, I do not know. There are records, but they are old, and they are incomplete."
-
-"Show me."
-
-He looked at me a long moment. Then he turned to the shelf, and he took down a book â€” a book I had not seen before, bound in black leather, its spine cracked and its pages yellow.
-
-"The record of Bellweather," he said. "I have kept it for forty years, and I have not shown it to anyone, because I could not yet tell who to show it to."
-
-He opened it. The pages were filled with the same small hand I had seen in the vestry book, the book of the wall, the red book â€” the same hand, the same ink, the same careful letters.
-
-I read the first page.
-
-*Bellweather House. Set at the end of the lane. Built by the first keeper of the first sign. Kept empty after the first sign was carried away. Kept empty so that the first sign would have a place to return to.*
-
-I looked up. The clerk was watching me.
-
-"The first keeper of the first sign," I said.
-
-"The first keeper," he said. "Before the Order. Before the wall. Before the boundary. The keeper who kept the first sign, and who built the house at the end of the lane, and who kept it empty after the first sign was carried away."
-
-I read on.
-
-*The first keeper built the house. The first keeper kept the first sign. The first sign was carried away by a hand that did not know what it was carrying. The house was kept empty, waiting for the first sign to return.*
-
-I stood in the vestry, with the book in my hands. The first keeper. The first sign. Carried away by a hand that did not know what it was carrying.
-
-I had carried the first sign all my life. I had not known what it was. I had been the hand that did not know what it was carrying. And the house â€” Bellweather House â€” had been kept empty, waiting for the first sign to return.
-
-I had returned. The first sign had returned. I had carried it back to the house at the end of the lane, and the second object had warmed, and the house had answered. I had not known what I was doing. I had not known that I was returning the first sign to the house that had been waiting for it.
+I began to ask what it was.
 
 ---
 
-I read the rest of the book in the vestry. It was not long. The book contained the record of Bellweather House â€” the building of it, the keeping of it, the carrying away of the first sign, the years of waiting.
+There was a house at the end of Bellweather Lane. Vale's house. The house where he had lived and died, where the rosemary grew on the sill, where I had found the red book.
 
-And at the end, there was a name. Not the name of the first keeper. The name of the house.
+There was a house at the edge of the common. The house that appeared and disappeared.
 
-*Bellweather.*
+I had treated them as separate â€” one real, one not; one where Vale had lived, one where the passage began. I had not asked whether they were connected.
 
-*The house of the bell that does not ring.*
+I went to the end of Bellweather Lane that afternoon. I had been there before, many times. I had walked the lane to Vale's house. I had never walked it to the end. I had never asked what was at the end of the lane, beyond Vale's house, where the lane ran out.
 
-*The house of the weather that does not change.*
+I walked past Vale's house. The lane narrowed. The houses on either side grew older, emptier, their windows shuttered. The lane turned.
 
-*The house of the keeper who waits.*
+And at the end of the lane, where the houses stopped and the fields began, there was a house.
 
-I read the words. The house of the bell that does not ring. I had not thought of a bell. I had not thought of the bell â€” the bell that had been missing in the winter, the bell that Goding had known about, the bell that had been at the centre of the mystery before I had found the gear and the door and the signs. The bell. I had not thought of it. I had been so deep in the passage, and the signs, and the Tokens, that I had forgotten the bell.
+Not Vale's house. A different house. A house I had never seen before.
 
-I looked at the book. *The house of the bell that does not ring.*
+It stood at the end of Bellweather Lane, where the lane met the fields, its windows dark, its front door closed. I stopped. I looked at it.
 
-I closed the book. I looked at the clerk. "Bellweather," I said. "The bell. There is a bell in Ashford. A bell that does not ring."
+It was not the house at the edge of the common. It was not Vale's house. It was a third house â€” a house I had not known was there, a house at the end of Bellweather Lane, standing where I had never thought to look.
 
-The clerk was silent. "There is a bell," he said. "It has not rung in living memory. It is kept in the tower of the church, but it does not ring. It is not a bell for the town. It is a bell for the keeper."
+I walked toward it. The lane was overgrown. The grass grew through the stones. No one had walked this way in years.
 
-I stood in the vestry. A bell for the keeper. The keeper's bell. The bell that does not ring. I had thought the bell was a mystery of the winter â€” the Thursday of the bell, the Goding thread, the thing the town had not wanted to speak of. I had not known it was a keeper's bell. I had not known it was connected to Bellweather House. I had not known that the bell was the third sign.
+I reached the house. It was empty. I could see it was empty â€” the windows dark, the door closed, the garden wild, the roof sagging in the middle.
+
+I stood before it. The house at the end of Bellweather Lane. Empty. Abandoned. I had not known it was there. I had walked this lane to Vale's house, and I had turned back, and I had never walked to the end.
+
+I looked at the house. It was old. Older than Vale's house. Older than the houses on the lane. It had a look of age â€” a look of having stood here for a very long time, empty, waiting.
+
+I did not enter. I stood before it, and I looked at it, and I understood that I had been wrong. There were two houses. The house at the end of Bellweather Lane â€” empty, abandoned, standing where the lane met the fields. The house at the edge of the common â€” appearing, disappearing, keeping the first sign.
+
+Two houses. And I had been asking which one was real. I had not asked why there were two.
 
 ---
 
-I went to the church. I had not been to the church in months. I had not needed to go. The bell was in the tower, and I had not thought about it. I stood at the door of the tower. It was locked. I had not expected it to be open.
+I went to the vestry. The clerk was there.
 
-I stood at the locked door, and I thought about the bell, and about the house at the end of the lane, and about the name â€” Bellweather â€” and about the words in the book. *The house of the bell that does not ring.*
+"There is a house at the end of Bellweather Lane," I said. "Beyond Vale's house, where the lane meets the fields. It is empty. It has been empty for a long time. What is it?"
 
-I had carried the first sign all my life. I had been given the third sign by Vale. I had learned the second sign from the wall. And I had not known that the bell was the third sign. I had carried the first. I had been given the third. I had learned the second. And the bell â€” the third sign â€” was the bell that does not ring.
+The clerk looked at me. It was a long moment before he spoke.
 
-I stood at the locked door of the tower. I did not try to open it. I turned. I walked home through the streets of Ashford, and I sat at my desk, and I opened the red book, and I wrote:
+"You have found it," he said slowly.
 
-Bellweather House is the house of the first keeper. It was built to keep the first sign. The first sign was carried away by a hand that did not know what it was carrying. I was that hand.
+"Found what?"
 
-I have carried the first sign all my life. I have returned it to the house at the end of the lane. The second object warmed at the house. The house was waiting.
+"The other house." He set down the book he was holding. "There have always been two. The house where the keeper lives, and the house that is kept. Vale lived in one. The other was kept empty â€” kept for the thing it held, kept so that no one would enter it, kept so that the town would forget it was there."
 
-And the bell â€” the bell that does not ring â€” is the third sign. The third sign is not the gear. The third sign is the bell. The gear is the Order's sign. The bell is the keeper's bell. The bell of the keeper who waits.
+"The town has forgotten it," I said. "No one walks to the end of the lane. No one knows it is there."
 
-I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the Tokens away. I left them on the desk, both warm.
+"That is how it is kept," he said. "The house is kept by being forgotten. It is the house of the first sign."
 
-I had returned the first sign to Bellweather House. I had learned that the bell is the keeper's bell. And I had understood that the mystery was not about the door at all. It was about the keeping. The keeping of the first sign, the keeper's sign, the Order's sign, and the bell.
+I stood in the vestry. The house of the first sign. The house at the end of Bellweather Lane. Empty. Abandoned. Forgotten—or so the clerk believed. I had no way to verify his claim.
 
-I sat in the dark, and I thought about the bell, and about the house at the end of the lane, and about the first keeper, and about the first sign, and about everything I had been carrying all my life.
+"The house at the common," I said. "The house that appears and disappears. What is that?"
 
-I had not known that the bell was part of it. I had not known that the bell was the keeper's bell. I had not known that the house at the end of the lane was waiting for the first sign to return.
+"That is the keeper's house," he said. "It appears when the keeper needs to enter the passage. It disappears when the keeper does not. It is the house of the keeper's sign."
 
-I had returned it. I had carried the first sign all my life, and I had returned it to the house that had been waiting for it, and I had not known what I was doing. But I had done it. And the house had answered. And the bell â€” the bell that does not ring â€” was the keeper's bell.
+Two houses. The house of the keeper's sign â€” at the common, appearing and disappearing. The house of the first sign â€” at the end of Bellweather Lane, kept by being forgotten.
 
-I did not know what it meant. But I knew that the bell was part of the keeping. And I knew that I would find out. I sat in the stillness until the lamp burned down. The two Tokens lay on the desk, warm in the dark. The first sign, returned. And the bell — the keeper's bell — waiting.
+Two houses. Two signs. One kept by appearing. One kept by being forgotten. And I had found both, without knowing what they were.
 
-I would go to the tower. I would find the bell. And I would learn what the keeper's bell was for. I had carried the first sign all my life without knowing it, and I had returned it to the house that had been waiting for it, and the house had answered, and the Tokens had warmed, and I understood that the keeping had not begun with me and would not end with me. I was one hand in a line of hands that reached back beyond the first keeper, and the bell had been waiting at the end of that line, patient, silent, for me to find it.
+---
 
-I did not yet know what I would find when I climbed the tower. I only knew that I would climb it — and that whatever the keeper's bell was for, it had been waiting a long time to be understood.
+I did not enter the house at the end of Bellweather Lane that day.
+
+I stood before it, and I looked at it, and I understood that it was not abandoned. It was kept. Kept empty. Kept closed. Kept so that no one would enter it, and so that the town would forget it was there.
+
+It was the house of the first sign. And the first sign was the object I had carried all my life.
+
+I went home. I sat at my desk. I opened the red book. I wrote:
+
+There are two houses.
+
+The house of the keeper's sign â€” at the common, appearing when the keeper needs the passage, disappearing when he does not.
+
+The house of the first sign â€” at the end of Bellweather Lane, kept empty, kept closed, kept by being forgotten.
+
+I have found both. I have entered one. I have not entered the other.
+
+The clerk says the house at the end of the lane is the house of the first sign. The first sign is the object. I have carried the first sign all my life.
+
+And I have not entered the house that keeps it.
+
+I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the object away. I left it on the desk.
+
+And I sat in the dark, and I thought about the two houses â€” the house that appears and the house that is forgotten â€” and about the two signs â€” the keeper's and the maker's â€” and about the door that was not a door, and the wall of signs in my dream, and everything I had been carrying all my life.
+
+I had found the second house. I had not entered it. But I knew that I would.
+
+The house at the end of Bellweather Lane was kept empty, kept closed, kept by being forgotten. But I had found it. And I had not forgotten it.
+
+And I wondered, sitting in the dark, whether the house that kept the first sign was truly waiting for me, or whether I was only convincing myself that it was. The end of the lane was quiet. No one walked there. But I had walked there, and I had not forgotten it.
+
+I could not yet tell what was inside. I could not say what it was keeping. But I knew that I would enter it. And I knew that when I did, I would understand the whole of what had been kept.
+
+I sat in the dark, with the object on the desk before me, and I thought about the two houses — the one that appeared and the one that was kept — and about the two signs — the keeper's and the first — and about the wall of signs in my dream, and the door that was not a door, and the account I had begun to write. I had found the second house. I had not entered it. But I knew that I would. And I knew that the house at the end of Bellweather Lane was not waiting for me to open it. It was waiting for me to remember it.
 

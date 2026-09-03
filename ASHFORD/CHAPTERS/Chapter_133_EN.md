@@ -1,105 +1,141 @@
-﻿CHAPTER 133 — THE CALLING
+CHAPTER 133 — THE MARK OF THE MAKER
 
-The summer came to the marsh, and I stayed.
+I did not leave the house in the marsh that night.
 
-The marsh people had said the keeping was the thing, and the keeper was not, and I had come to understand how deep that went. I was not needed at the house the way the house was needed. It would stand whether I knelt at the sign or not; the sign would be there whether I read it or not. The keeping did not depend on me. And yet I kept it. That was the shape of it — the count moving through the world, and the keepers moving with it, and the keeping going on whether any one of them understood it or not.
+I built a small fire in the clearing, and I sat by it, and I looked at the house, and I thought about the first sign on the wall.
 
-I kept the house through the summer. I went to it each day. I knelt at the first sign. I did not move the stone. The marsh people came and went in their boats, and the woman came to sit at the edge of the clearing, and we watched the house together, and we did not always speak.
+The first sign was the mark of the maker. I had read that in the vestry book, years ago. The first sign was the sign of the maker, the sign that was set before the wall, before the boundary, before the Order.
 
-"You are still here," she said, one evening.
+I had carried the Token all my life. I had found the first sign on the stones of the boundary, and on the floor of the chamber, and on the bell, and on the clocks, and on the key, and on the box. And now I had found it on the wall of a house in the marsh.
 
-"I am still here."
+I did not know what it meant. But I knew that the first sign was everywhere. And I knew that it was connected.
 
-"The house has told you nothing new?"
+The fire burned low. The marsh was dark. The reeds stood black against the sky. The house was a deeper darkness, a shape in the night that I could not quite see.
 
-"It has told me nothing," I said. "It is silent. The ring of stones is silent. The first sign is silent. And I am silent with them."
+I sat by the fire, and I thought about the boundary in Ashford. The stones. The first sign at the base of each stone. The count of the keepers, marked in the tally.
 
-She nodded. "That is how it was kept before," she said. "In silence. The house was kept empty and closed, and the keeping was in the silence of it. The keeper who comes must be able to keep a silence."
+I had walked that boundary for five years. I had known every stone, every sign, every mark. I had thought that the boundary was the whole of it — the keeping, the count, the sign.
 
-"I can keep a silence," I said.
+But the boundary in Ashford was not the only boundary.
 
-"Yes," she said. "I think you can. That is why the house opened to you."
+There was a boundary here, in the marsh. I could feel it. I could sense it in the way the ground rose, in the way the reeds fell back, in the way the house stood at the centre of the clearing.
 
-I did not know what to say to that. The house had not opened to me, exactly. It had never been locked. I had walked in because the Token had been warm, and because the count had called me north, and because I had followed. I had not opened the house. I had only arrived at it.
-
-"Perhaps," I said, "the house was not opened. Perhaps it was only kept."
-
-She looked at me a long moment, and then she smiled — the first smile I had seen from her, and the last I would see for a long time.
-
-"Yes," she said. "Kept. That is the whole of it."
+I did not know what the boundary marked. I did not know who had set it. But I knew that it was there.
 
 ---
 
-The night it happened came at the end of the summer, when the light had begun to shorten and the marsh had begun to think of autumn.
+In the morning, I searched the marsh.
 
-I was in the house. It was late, later than I usually went, and I had come not to kneel but to be still — to sit in the dark of the house the way the marsh people had sat in its silence for as long as anyone remembered. The first sign lay on the floor in the dark, and I sat with it, and I did not move the stone.
+I walked out from the house, through the reeds, across the water, and I looked for other signs of the maker — other marks, other houses, other places where the first sign had been set.
 
-And then I felt it.
+I walked for hours.
 
-It began in the Token against my chest — the one I had carried all my life, the first sign, the mark I had worn before I knew what it was. It grew warm. Not the warmth of the summer night, not the warmth of my own body, but the other warmth, the warmth I had felt at the boundary in Ashford, at the door, at the chamber beneath Bellweather House, at the first sign on the wall of the common house. It was the warmth of the keeping. It was the count.
+The marsh was empty. The reeds stretched to the horizon. The water lay flat and grey. There was no sign of the maker anywhere but in the house.
 
-I took out the Tokens. The first was warm. The second — the one from the kept house at the end of the lane — was warm too, warmer than it had been since I had found it. I held them up, one in each hand, in the dark of the house, and I watched them, and I did not know what I was watching for.
+I came back to the house at midday. I stood in the clearing, and I looked at the house, and I understood that I had been wrong.
 
-The warmth did not come and go. It settled. It steadied. It became a constant — warmer than it had ever been in the marsh, warmer than it had been when it led me to the house, and it was not going away.
+The first sign was not the only thing the house had held.
 
-I stood in the house, in the dark, with the warm Tokens in my hands, and I understood.
+I had searched the house. I had found nothing but the mark on the wall. But I had not looked beneath the house.
 
-The count was calling.
+The house stood on a patch of higher ground, in the centre of the clearing. The ground was packed earth and stone. It was the only firm ground in the marsh for as far as I could see.
 
-Not me, not yet — the Tokens. It was calling them onward. It had called me to the marsh, and to the house, and to the first sign on the floor, and I had kept them, and the keeping had been done. Now the count was turning toward the next marker — the second of the thirteen signs, the next threshold in the count. It was not calling me to find it. It was calling the Tokens, and I would follow, because that was what the keeper did. The keeper followed the calling.
+I looked at the ground. I looked at the clearing. I looked at the way the reeds grew around the edge of the high ground, forming a circle.
 
-I stood a long time in the dark of the house, holding the warmth, letting it tell me what it had to tell. It told me nothing more. It only was — warm, steady, calling.
+I had not noticed it before.
 
-I went back to the shelter, and I did not sleep.
+A circle. A circle of reeds, around the house.
 
-I sat through the night, with the Tokens warm against my chest, and I waited for the dawn. I had kept the house through a year. I had kept it through the winter that had never been kept. And now the count was calling me away from it, and I did not know whether I would return, and I did not know whether the house would be kept after I was gone. But the count was calling, and the keeper follows the calling. That is the keeping.
+I walked to the edge of the clearing. I pushed through the reeds. And I found the stones.
 
-At dawn I went to the village.
+They were old. They were worn. They were set in the ground, in a pattern I had not noticed before. A circle. A circle of stones, around the house.
 
-The marsh people were there — not all of them, but the woman, and the man who had come with her on the first day, and a few others. They had known. I do not know how they had known, but they had come to the village, and they stood in the grey light, and they looked at me, and I looked at them.
+I stood. I looked at the circle of stones.
 
-"The count is calling," I said. "It is calling the Tokens. It is calling me to the next marker. I must follow."
+The house stood in the centre of it. The stones were set in a ring, around the house, hidden by the reeds and the grass. I had walked past them a dozen times and not seen them.
 
-The woman looked at me a long moment.
+I counted them.
 
-"Then you must go," she said. "The keeper follows the calling. That is the keeping."
+There were more than a hundred stones in the ring.
 
-I looked toward the house — I could not see it from the village, but I knew where it stood, out in the marsh, patient as the stones — and at the ring of stones, and at the water that held them all.
+The same number as the boundary in Ashford.
 
-"You will keep the house?" I said.
+I stood in the clearing, in the grey light, and I understood that I had not found a house in the marsh. I had found the beginning of the boundary.
 
-"We will keep it," she said. "We have always kept it. We kept it before you came, and we will keep it after you are gone. We will keep it until the keeper returns."
+---
 
-"I do not know when I will return," I said. "I do not know whether I will return."
+I knelt at the nearest stone.
 
-"Then we will keep it," she said. "The keeping is the thing. The keeper is not. You have kept the house, and we have kept the marsh, and the house will be kept, whether you return or not. Go."
+I cleared the grass from its base. The moss came away in my hands, and the stone was dark and wet beneath it.
 
-I stood in the village, in the grey light, and I understood that I was leaving a thing I had kept, and that I was leaving it in good hands, and that the keeping would go on without me. That was the shape of it. The keeper is not the thing. The keeping is.
+The first sign was there.
 
-I left the marsh that morning.
+The same mark. The same circle, three lines, dot. Cut into the base of the stone, hidden where the grass covered it.
 
-I walked north, along the causeway, away from the water, and I did not look back. The Tokens were warm against my chest, steady, constant, and the count was calling, and I would follow. The marsh fell away behind me, and the reeds gave way to fields, and the fields to lanes, and the lanes to the roads of the north, and I walked them all, and I did not know where I was going.
+I moved to the next stone. The same sign.
 
-For a week I walked.
+The next. The next. The next.
 
-The land rose as I went north. The air grew thinner and drier. The towns grew fewer and farther apart, and the houses in them grew older, and the people in them looked at the stranger from the south the way people look at any stranger — briefly, and then not at all. I did not stop. I did not ask for directions. The Tokens were warm, and they had not changed since I left the marsh, and I followed them the way I had followed them to the marsh, the way I had followed them all my life — not knowing what they led to, only knowing that they led.
+Every stone in the ring carried the first sign at its base.
 
-On the seventh day, they changed.
+The same as the boundary in Ashford. The same marks. The same signs. The same number of stones.
 
-I was walking through a town at midday — a small town, a market town, with streets and houses and a church — when the Tokens grew warmer. I stopped in the middle of the street. I took them out. They were warm — warmer than they had been, warmer than they had been since the night in the house, warmer than they had ever been on the road. And they were not steady now. They were leaning. The warmth was not equal in my two hands. It was stronger toward one end of the town than the other.
+I stood in the centre of the ring, beside the house, and I understood.
 
-I looked up.
+The boundary in Ashford was not the only boundary.
 
-The town ended at the foot of a hill, and on the hill, set back from the town, stood a house. It was large and old, built of stone, with a roof of slate, and it was set behind a wall of old stone that ran along the slope. A gate stood in the wall, and beyond the gate a drive of packed earth led up to the house.
+There was a boundary here, in the marsh, older than the one in Ashford. And the house stood at its centre.
 
-I stood in the street, in the midday light, and I looked at the house on the hill, and the Tokens burned warm against my chest, and I understood that the count had led me here. It had led me through the marsh, and away from the marsh, and north for seven days, and to this town, and to this house. It was the next threshold. The second of the thirteen signs was waiting for me there — or whatever the count had kept for me, behind that wall, in that old house on the hill.
+I did not know what the house was. I did not know what the marsh boundary marked. I did not know why I had been led here.
 
-I walked toward it. The road led up from the town, past the wall of old stone, and the Tokens grew warmer with every step, and I came to the gate.
+But I knew that I had found something.
 
-It stood open.
+The beginning of the boundary. The first sign. The mark of the maker.
 
-I paused at the open gate. It had been left open for me — I could feel that, the way I had felt the house in the marsh, the way I had felt the keeping waiting. The gate stood open, and the drive led up to the house, and the house waited at the top of the hill, and beyond the door of the house there was a threshold I had not yet crossed.
+I stood in the ring of stones, in the grey light, and I understood that the hunt was not over. The count had called me north. And the count had led me to the beginning.
 
-I passed through the gate.
+---
 
-The drive of packed earth led up to the house, and I walked it, and the Tokens were warm against my chest, steady and constant and sure, and I understood that I was being called to the next sign in the count of thirteen — and that whatever waited behind that door, I had been walking toward it all my life.
+I did not leave the marsh.
+
+I built a shelter beside the house, and I stayed, and I searched. I walked the ring of stones. I counted them again. I looked at the first sign on each one, confirming what I had seen.
+
+One hundred and eight stones. The same as the boundary.
+
+I searched the marsh beyond the ring. I looked for other signs, other houses, other marks of the maker. I found nothing. The ring of stones was the only sign of the maker in the marsh.
+
+The house stood at its centre. The first sign was on its wall. The ring of stones circled it, each one carrying the first sign at its base. And the count of the stones was the same as the count of the boundary.
+
+I did not know what it meant. But I knew that it was the beginning.
+
+I sat by my fire, in the evenings, and I thought about the boundary in Ashford. The stones. The tally. The count of the keepers. I had thought that the boundary was the whole of the keeping. But the boundary was not the whole. It was only one threshold.
+
+The marsh was another. And there were more.
+
+I did not know how many. The innkeeper had said there were places that used to be, and places that might be. The marsh people had said that the house had been there before the village, before the marsh people came.
+
+I thought about the count of the stones. One hundred and eight. The same as the boundary. And I thought about the thirteen signs. The signs that were scattered, hidden, waiting.
+
+Perhaps there were as many as thirteen such rings. Perhaps each ring was a threshold, a place where the first sign had been set, a place where the count was kept. Perhaps the marsh was only one of them.
+
+I did not know. I could not know. But I understood that the count was larger than I had thought. Larger than Ashford. Larger than the boundary. Larger than the keeping I had known.
+
+I sat by the fire, and I wrote in my book:
+
+*The count has led me north. I have found a house in the marsh, with the first sign on its wall, and a ring of stones around it, each carrying the first sign at its base. The count of the stones is the same as the count of the boundary in Ashford. This is the beginning of the boundary. This is where the first keeper set the first sign.*
+
+*I do not know what it means. But I know that I have found it.*
+
+*The hunt is not over. The count has led me to the beginning.*
+
+I closed the book. I sat by the fire. The marsh was dark around me. The house stood at the centre of the ring, patient and silent, waiting.
+
+I had found the beginning. But the beginning was not the end. The count was still counting. The signs were still scattered. The bell had not tolled.
+
+And I was still following the calling, north, into the unknown, toward the next threshold, and the next, until the count was complete.
+
+I did not know how many thresholds there were. I did not know how many rings of stones I would find. I did not know where the journey would end.
+
+But I knew that I was on it.
+
+And I knew that the marsh was only the first.

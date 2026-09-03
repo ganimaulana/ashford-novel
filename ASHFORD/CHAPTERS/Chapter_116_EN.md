@@ -1,147 +1,113 @@
-﻿CHAPTER 116 — THE PLACE OF THE COUNTING
+CHAPTER 116 — THE WALL OF STONES
 
-I searched for the place of the counting through the winter.
+I returned to the boundary the following day, and the day after, and the day after that.
 
-I could not yet tell what I was looking for. I knew only that the records of the counting were in the place the counting was made, and that the place was not the Academy, and not the vestry, and not the chamber beneath Bellweather House. I had asked Daniel, and Daniel did not know. I had asked the clerk, and the clerk had looked at me the way he looked at the marks in the margins of the wardens' book — as if I had asked him to count something it was not his business to count.
+I walked the line of stones from the eastern marker to the corner where the wall turned, and I counted them as I had counted them before — more than a hundred, running along the wall in their patient ranks. I counted them again. The number was the same. And the number was not the tally.
 
-I searched the records. I searched the maps. I searched the old books, and the old letters, and the old papers. I went to Arthur's shop, where the papers were kept that no one else thought to keep, and I went through the bundles on the shelves, and I did not find a place of the counting in any of them.
+I did not know what to make of that. I had begun to believe that the boundary was a count — that the stones were counters, and that the tally was the record of what they counted. But if the stones were counters, their number should have been the count. It was not.
 
-I looked for a place older than the town — a place where the first keeper might have made the count, before the boundary was set, before the sign was carved, before the house was built. I looked for a name that appeared only once, for a map that had a mark no other map had, for a mention in a margin of a room, or a hollow, or a stretch of ground where a man might have sat for years, marking one stroke for each year of a count he did not understand.
+I went to the first stone. I knelt. I cleared the earth from its base with my hands, and I looked at the sign cut into the stone where the ground had hidden it — the first sign, the circle, the three lines, the dot, the mark of the maker.
 
-I did not find it.
+I moved to the second stone. The same sign, at the base, hidden. The third. The fourth. The fifth.
 
-The winter was long, and the cold was deep, and I carried the number in my notebook wherever I went, and I did not find the place.
+Every stone had the first sign at its base. Every stone carried the mark of the maker.
 
----
+I walked the whole length of the wall that afternoon, and I knelt at each stone in turn, and I looked at the sign at the base of each one, and I did not find a single stone without it. The marks were old. They had been cut deep and worn smooth by years — by the weather, and by the passing of hands that no longer remembered whose they were.
 
-On a night in February I went to the reading room.
+More than a hundred stones. More than a hundred first signs. And a tally that was not the number of the stones.
 
-I had not been called. I had not been asked. I went because I wanted to think, and because the reading room was the room where I had thought best, in the lamplight, with the town shut out below me.
+I knelt at the first stone again. I looked at the sign — the circle, the three lines, the dot. The mark was worn, but not uniformly. The edges of the circle were softened by years of weather, and the lines were deeper in some places than others, as if they had been recut by different hands across different centuries. I put my finger to the deepest line. It was sharp. It had been cut more recently than the rest — not in my time, but not in the first keeper's time either. Someone had come after the first keeper, and had tended the signs, keeping them readable, keeping them from being worn away.
 
-The room was as I had left it — bare, with a single lamp on a table. The key to the reading room was in my pocket, and I set it on the table, and I sat in the chair, and I thought.
+I moved to the second stone. The same pattern — the sign worn, but recut in places, by hands that had known what they were doing even if they had not known why.
 
-I thought about the count.
+I did not check every stone. I understood what I was seeing. The wall had been kept. The signs had been maintained. The first keeper had set them, and the keepers who came after him — men and women whose names were in no record — had kept the signs from fading. They had not known what the signs meant, any more than I knew. But they had known that the signs must not be lost.
 
-I had read the book of the first keeper. I had counted the tally. I had written the number. I had searched for the place of the counting, and I had not found it. I did not know where the first keeper had made the count. I had looked for it everywhere I knew to look, and I had not thought to look at the room I was sitting in — the room above the chandler's shop, the room that had been locked for seventeen years, the room where the society met. The room where I had taken the first test.
+I went to the vestry.
 
-I had never asked what the room had been, before the society had taken it.
+The clerk was there, at his table, with the books and the keys. He looked up when I came in.
+
+"The wall," I said. "The stones. Every stone has the first sign at its base."
+
+"Yes."
+
+"Every stone is marked."
+
+"Yes."
+
+I stood in the vestry.
+
+"Then the stones are not the count," I said. "They are the counters. Each stone is a counter, and the tally is the record of what they count."
+
+The clerk was silent.
+
+"The tally is a number," he said. "The stones are a number. The number of stones is not the tally. So the stones are not counting themselves."
+
+"Then what are they counting?"
+
+The clerk was silent a long moment.
+
+"I do not know," he said. "I have kept the books for forty years, and I have not known what the stones are counting."
+
+I left the vestry. I walked back to the boundary.
+
+I did not count the stones this time. I looked at them — looked at the stones themselves, not the number of them. They were old. They were worn. They had stood here longer than the town had a name, and they would stand here after the town had forgotten its own name, and they carried the first sign at their base, hidden, patient, waiting.
+
+I knelt at the fourth stone, where the hairline mark ran across its face.
+
+The first sign at the base. The hairline mark across the face. Two marks on the same stone.
+
+I had watched the hairline mark appear, in my first year. I had gone to the boundary one morning, and the mark had been there — thin, straight, too straight to be natural, running across the stone the way a crack would run, but not a crack. I had written it in the red book as a crack. I had watched it through the years, and it had not grown, and it had not changed, and I had not known what it meant.
+
+I put my finger to it now. It was smooth. It was not a crack.
+
+I did not know what it was.
+
+I looked at the first sign at the base of the stone. The mark of the maker. And the hairline mark across the face. Two marks on the same stone — one set, one added. I did not know what the second was. I did not know who had added it. I did not know whether it had been set there by a hand, or whether it had come to be the way the house came to be on the common — without a cause I could name.
+
+I sat back on my heels and looked at the wall.
+
+The stones were counters. The tally was the record. But the number of the stones was not the tally, and I could not tell what the stones were counting — or what the count was for.
+
+That was the question I had not asked.
+
+I had been asking what the stones were counting. I had counted them, and studied them, and looked for the pattern of the count, and I had not found it. But sitting at the fourth stone, with the mark across its face and the sign at its base, I understood that I had been asking the wrong question.
+
+The stones were not a record of what had happened. The stones were a preparation for what was going to happen.
+
+The wall was not a record. It was a countdown.
 
 I stood.
 
-I looked at the walls. I looked at the floor. I looked at the room. It was bare. There was nothing in it but the table, the chair, and the lamp. I had been in this room a dozen times, and I had never looked at it as a room — as a thing with a history, with a use, with a man behind it. I had looked at it as a place of tests, and I had not asked who had built it, or why, or what had been done here before the bare walls and the single lamp.
+I walked the line of stones again, and I looked at them as I passed — the first sign at the base of each, the patient waiting, the marks worn smooth by centuries. And I understood that they had been set not to mark what had been done, but to mark what was going to be done. The crossing of thresholds. The gathering of signs. The ringing of a bell that had not rung in living memory.
 
-I knelt. I looked at the floorboards.
+And the hairline mark on the fourth stone — a mark that had appeared once, in my first year, and had not grown — was part of it. A thing that appears once is a thing that is being added to. Someone, or something, was keeping a tally on the wall.
 
-They were old. They were worn. They were the floorboards of a room that had been used for a long time, and then locked for seventeen years. The wood had the deep, dark polish that comes from years of being walked on, and there were places where it had worn smooth, and places where the grain stood up in ridges, and I ran my hand across them, the way a man runs his hand across a thing he is trying to read.
+I did not know who.
 
-And I found the mark.
+I did not know what they were counting.
 
-It was on the floorboard beneath the table, hidden, almost invisible — a mark worn smooth by years of being stood on, by boots that had stood over it without ever knowing it was there. It had been worn almost away, and I had almost missed it, and I did not miss it.
+But I knew that the wall was not finished. And I knew that I was part of it — the keeper of the preparation, the keeper of the stones, the keeper of a wall that was not a record of the past but the beginning of the future.
 
-A circle.
+I walked home through the fields, and I sat at my desk, and I opened the red book, and I wrote:
 
-Three lines through it.
+*Every stone has the first sign at its base. Every stone is a counter. The tally is the record of what they count.*
 
-A single dot.
+*I do not know what the stones are counting.*
 
-The first sign.
+*But I have asked the wrong question. I have asked what the stones are counting. I should have asked what the count is for.*
 
-I knelt, in the lamplight, and I looked at the first sign on the floorboard, and I understood that I had not been looking for a place older than the town. I had been looking in the wrong direction. The place of the counting was not older than the town, or beyond it, or hidden under the fields. It was here, under the feet of everyone who had ever come to the reading room, under the table where the society had met for seventeen years, worn smooth by the boots of men and women who had stood over the mark of the maker and never once looked down.
+*The boundary is not a record of the past. It is a preparation for the future. The stones were set not to mark what has been done, but to mark what will be done.*
 
-The first sign. The mark of the maker.
-
-On the floor of the reading room.
-
-I did not know what it meant. But I knew that I had found something.
-
----
-
-I went to see Adeline Brume.
-
-She was at the lending library, at her table, as if she had been waiting for me. The lamp was burning, and her hands were folded on the ledger, and she looked up when I came in, and I saw that she had been expecting me, or someone like me, for a very long time.
-
-"The reading room," I said. "The room above the chandler's shop. What was it, before the society took it?"
-
-Adeline looked at me a long moment.
-
-"Why do you ask?"
-
-"Because there is a first sign on the floorboard beneath the table," I said. "The mark of the maker. And I need to know what the room was, before the society took it."
-
-Adeline was silent. I saw her hands move on the ledger, and then still, the way a person's hands still when they have decided to answer a question they have carried for a long time.
-
-"The room was not always the society's," she said. "It was taken, seventeen years ago, from a man who had used it for a purpose the society did not ask about."
-
-"What purpose?"
-
-"I do not know," she said. "The man died, and the room was locked, and the society took it, and no one asked what it had been used for. I have sometimes thought that was the whole of the society's way — to take the rooms and the records and the keepings, and not to ask what they were for, because asking was how the trouble began."
-
-"The man," I said. "Who was he?"
-
-Adeline was silent a moment. The lamp burned between us. I had the sense that I was standing at the edge of something she had not meant to show me, and that she had decided, in the moment, to show it.
-
-"His name was Ferrand," she said. "Marcus Ferrand."
-
-I stood very still.
-
-Marcus Ferrand.
-
-The constable before Vale. The man who had disappeared from the records. The name I had been given in the third test. The name I had looked for, and not found, and concluded had been deliberately removed.
-
-"Marcus Ferrand," I said. "The constable before Vale."
-
-"He was a constable," Adeline said. "He was also a member of the society. He used this room. And when he died, the room was locked, and the society took it."
-
-I stood at the table. The pieces were coming together in a shape I could not yet name. The third test had been a name. The name had been Marcus Ferrand. I had looked for him, and I had found nothing, and I had concluded that he had been deliberately removed from the records. And now I had found that he had used the reading room — the room with the first sign on the floorboard. The room where the society met, seventeen years, standing on the mark of a man whose name they had not asked for.
-
-Marcus Ferrand had used the room where the first sign was.
-
-I could not say what that meant.
-
-But I knew that it was connected. The name and the room and the mark were the same door, seen from different sides, and I had walked through one of them without knowing the door was there.
-
----
-
-I went back to the reading room that night.
-
-I knelt on the floor. I looked at the first sign on the floorboard. The mark of the maker, on the floor of the room Marcus Ferrand had used. I could not tell for certain why it was there. I had no way of knowing what Marcus Ferrand had used the room for. I could not say whether he had made the mark, or found it, or kept it, the way the first keeper had kept the boundary and the sign at the base of every stone.
-
-But I knew that the room was connected to the count.
-
-The first sign on the floorboard. The first sign on every stone. The first sign on the floor of the chamber. The first sign on the object. The first sign was everywhere, and the first sign was the language of the count, and I had spent the winter looking for the place of the counting and I had been standing on a piece of it for two years without knowing.
-
-I knelt in the reading room, in the lamplight, and I understood that I had found a piece of the place of the counting.
-
-Not the whole place. Not the beginning. But a piece.
-
-And I would find the rest.
-
-I went home, and I sat at my desk, and I opened the red book, and I wrote:
-
-*There is a first sign on the floorboard of the reading room. The room was used by Marcus Ferrand — the constable before Vale, the man who disappeared from the records.*
-
-*I do not know what the room was used for.*
-
-*But I know that it is connected to the count.*
-
-*The first sign is everywhere. The first sign is the language of the count.*
-
-*I will find the place of the counting.*
-
-*I will find Marcus Ferrand.*
-
-*And I will learn what the count is counting.*
+*The wall is a countdown. And the count is not over.*
 
 I closed the red book. I sat in the dark.
 
-The reading room had been locked for seventeen years. Marcus Ferrand had used it for a purpose no one had asked about, and then he had vanished from the records, and the society had taken the room after his death, and no one had asked what the room was for. The first sign on the floorboard was worn smooth by seventeen years of boots that did not know what they stood over.
+The hairline mark on the fourth stone had appeared once, in my first year, and had not grown. I did not know what it was. I did not know who had set it there.
 
-I did not know what the room had been. I did not know what Ferrand had done in it. But I understood that the room was a piece of the place of the counting — that the man who had used it had been part of the keeping, and that the society, without knowing it, had been standing on a piece of the count the whole time they had been preserving its secret.
+But I understood that I was not the only one keeping the count.
 
-I had found the name in the third test. Now I had found the room. And I understood that the name and the room were the same door, seen from different sides — and that Marcus Ferrand, whatever he had been, had not vanished. He had been removed. And I meant to find out by whom.
+And I understood that the wall, and the tally, and the stones, and the mark on the fourth stone were all the same thing — a count that was being kept, one mark at a time, by a hand I had not yet seen.
 
-But that was a question for the morning. For now I sat in the dark, and I looked at the mark in my mind — the circle, the three lines, the dot — and I understood that I had been closer to the place of the counting than I had ever known. It had been beneath my feet the whole time, worn smooth, waiting for a keeper who would finally look down.
+I did not know when the next mark would come.
 
-And in the morning I would go to the man who kept the records that were not written down.
-
-I would go to Calloway.
+But I knew that I would be watching.

@@ -1,151 +1,147 @@
-﻿CHAPTER 130 — THE CENTRE
+CHAPTER 130 — THE PASSING
 
-I stayed in the marsh for two weeks.
+I stayed in Ashford for a year after Daniel came.
 
-I did not know why I stayed. I had found the house, and the ring of stones, and the first sign on every stone. I had understood that this was the beginning of the boundary. But I did not leave.
+I did not keep the keeping. That was his now. I had passed it to him, and he had taken it, and the keeping was his to keep. But I stayed.
 
-I walked the ring. I counted the stones. I looked at the first sign on each one. I walked the marsh beyond the ring, searching for other signs, other marks. I found nothing.
+I did not know why I stayed. I had done what I had come to do. I had kept the account. I had written the book. I had passed the keeping. There was nothing left for me in Ashford. But I stayed.
 
-And I looked at the house at the centre.
+Perhaps I was not ready to leave. Perhaps I needed to see that the keeping would continue without me. Perhaps I needed to watch Daniel learn, to know that the count would go on after I had gone.
 
-I had searched the house. I had found the first sign on the wall. I had not found anything else. But I had not looked beneath the house.
+I watched him.
 
-The house stood on a patch of higher ground, in the centre of the ring of stones. The ground was packed earth and stone. I had not looked beneath it.
+I watched him walk the boundary in the mornings, when the mist lay low on the stones. I watched him kneel at the markers, reading the first sign with his fingers, learning the shape of the keeping. I watched him go to the Academy in the afternoons, to the reading room, where he sat at the desk and read the book I had written for him.
 
-I had thought the house was the centre. The stones were set around it, and the house stood in the middle of them, and I had thought that the house was the centre of the ring.
+He was young. He was not ready, when he came. But he learned.
 
-But the house was not the centre.
+He learned the stones. He learned the season. He learned the lamp, and the bell, and the door. He learned the way the keeping worked — the way it was not a thing to be mastered, but a thing to be carried.
 
-The house was only the building.
+I did not interfere. I did not advise, unless he asked. The keeping was his now, and a keeper must learn by keeping. I had learned by keeping. He would learn the same way.
 
-The centre was beneath it.
-
----
-
-I went to the house on the morning of the fifteenth day.
-
-The mist lay low over the marsh. The reeds were grey with it. The house was a shadow in the mist, darker than the air around it.
-
-I crossed the clearing. The ground was wet with dew. The stones of the ring were dark and slick. I reached the door. I pushed it open.
-
-The air inside was cold. It had been cold for fifteen days, and it would be cold for fifteen more. The house did not warm. It did not change. It was as patient as the stones.
-
-I stepped inside. I stood in the centre of the single room. The first sign was on the wall, to my left, cut into the plaster. I had looked at it a hundred times since I came to the marsh. I had touched it. I had traced the lines with my fingers. I had tried to understand what it meant.
-
-But I had not looked at the floor.
-
-I knelt.
-
-The floor was stone. The stones were worn, smooth with age, their surfaces dark with the damp of the marsh. They were set in a pattern I had not noticed before — a pattern of large stones, laid in rows, with a single stone at the centre.
-
-The central stone was larger than the others. It was square, set into the floor, its surface worn smooth by years of being walked on.
-
-I ran my hand across it.
-
-And I found the mark.
-
-It was worn, nearly invisible, hidden beneath a layer of dust and age. I had to look closely to see it. I had to trace it with my fingers to feel its shape.
-
-A circle. Three lines through it. A single dot.
-
-The first sign.
-
-The same mark as on the wall. The same mark as on the Token. The same mark as on the stones of the boundary. The same mark as on the floor of the chamber beneath Bellweather House.
-
-I knelt, in the cold air, and I looked at the first sign on the floor of the house in the marsh.
-
-The same mark. The same sign. On the floor of the house at the centre of the ring of stones.
-
-I understood.
-
-The house was not the centre of the ring. The first sign on the floor was the centre. And the ring of stones was set around it, each stone carrying the first sign at its base, pointing inward, toward the centre.
-
-I knelt in the house, in the grey light, and I looked at the first sign on the floor.
-
-The same mark as the chamber. The same mark as the Token. The same mark as the stones.
-
-And I understood that I had found the beginning of the count.
-
-The first of thirteen thresholds. Each guarded by a sign. Each waiting for the bell to toll.
+But I was there. And when he asked, I answered.
 
 ---
 
-I did not move the stone.
+In the summer, he came to me.
 
-I knelt in the house, and I looked at the first sign on the floor, and I did not move the stone.
+"I have read the book," he said. "I have walked the boundary. I have kept the account. But I do not understand the tally."
 
-I had learned, in five years of keeping, that the marks were not to be moved. The stones were set. The signs were carved. The count was kept.
+I looked at him.
 
-I did not know what was beneath the first sign on the floor of the house in the marsh. I did not know whether there was a chamber, or a door, or a bell, or a book. I did not know what the first sign guarded.
+"The tally is the count of the keepers," I said. "And the count of the thirteen signs. One mark for each keeper, since the first keeper set the boundary. Your mark will be in it."
 
-But I knew that I would not move the stone to find out.
+He looked at the stones.
 
-The keeping was not about knowing. It was about keeping. I had learned that in Ashford. I had learned it at the boundary, and at the door, and at the bell that would one day ring. The keeping was not about finding out what was beneath the stones. It was about keeping the stones as they were.
+"I do not understand," he said.
 
-I stood.
+"Neither did I," I said. "I have been keeper for five years, and I do not understand all of it. But I have kept it, and I have written the account, and I have passed it to you. You will understand, in time. The keeping will teach you. The stones will teach you. The account will teach you."
 
-I left the house.
+We stood at the boundary, in the evening light, and I looked at the stones, and I understood that I was no longer the keeper.
 
-I stood in the clearing, in the grey light, and I looked at the house, and the ring of stones, and the marsh. I had found the beginning of the boundary. I had found the first sign on the floor of the house. I had found the centre of the ring.
+I was the keeper who had passed the keeping.
 
-I did not know what it meant. But I knew that I had found it. And I knew that I would keep it.
+The count had brought the next keeper. And I had done my part.
 
 ---
 
-I built my fire. I sat by it, in the evening, and I wrote in my book:
+In the autumn, the days grew shorter. The mist came earlier. The stones stood in the grey light, patient and silent, and Daniel walked them each morning, learning the shape of the boundary the way I had learned it.
 
-*I have found the first sign on the floor of the house in the marsh. The same mark as the chamber beneath Bellweather House. The same mark as the Token. The same mark as the stones. The house is not the centre of the ring. The first sign on the floor is the centre. I have not moved the stone. I will not move the stone. I do not know what is beneath it. But I know that I have found the beginning of the count. And I will keep it.*
+I watched him, and I felt the weight of the year passing.
 
-I closed the book. I sat by the fire. The marsh was dark around me. The house was a shadow in the darkness.
+I had stayed long enough. I had seen him learn. I had seen him take the keeping into his hands. He would keep it well. He would keep it as long as he was called to keep it. And when the time came, he would pass it to the next keeper, and the count would continue.
 
-I had found the centre of the ring. But I had not found the centre of the count.
+I went to see Ysabel.
 
-The count was larger than the ring. The count was larger than the marsh. The count was the tally of the keepers, and the keepers were scattered, and the signs were scattered, and the centre of the count was not in any one place.
+I found her in the garden, behind the house at the end of the lane. She was tending the herbs, the same herbs she had tended for years, the same garden she had kept since before I came to Ashford.
 
-It was in the keeping itself.
+"I am leaving," I said.
 
-And I had found one centre. One threshold. One beginning.
+She looked at me. She did not look surprised.
 
-There were twelve more waiting, somewhere, in the world beyond the marsh.
+"Where will you go?"
 
-I sat by the fire, and I understood that the marsh was not the end of the journey. It was the beginning. The first threshold. The first sign. The first centre.
+"I do not know," I said. "Somewhere I have not been. Somewhere I have not kept."
 
-And I had been called here not to stop, but to start.
+She looked at me a long moment.
 
-The count was not complete. The count had only just begun to count me.
+"Will you come back?"
 
-I sat by the fire, and I let the thought settle.
+"I do not know," I said. "Perhaps. When the count calls."
 
-The first sign was the centre of the ring. But the count was larger than the ring. And I was only at the beginning of it.
+She nodded.
 
-The marsh was the first threshold. There were twelve more.
+"The count will call," she said. "It called you here. It will call you back."
 
-I did not know where the next threshold was. I did not know what it would hold. I did not know whether I would find another ring of stones, or another house, or another sign on a floor.
+I stood in the garden, in the autumn light, and I understood that she was right. The count had called me to Ashford. It had called me to the keeping. And it would call me again, when it was time.
+
+But I did not know where it would call me. I did not know what I would find. I only knew that I had to leave.
+
+---
+
+I left Ashford on a grey morning.
+
+I did not tell Daniel I was going. I did not want a farewell. I wanted to leave the way the first keeper had left — quietly, without ceremony, so that the keeping would be about the thing, and not about the man.
+
+I walked out of the town by the north road. I did not look back.
+
+I carried the Tokens — the one I had carried all my life, the first sign, and the one I had found in the kept house at the end of Bellweather Lane. They were warm against my chest, as they had always been.
+
+I carried the key to the reading room. I did not know why I carried it. The reading room was not mine anymore. It was Daniel's. But I carried the key.
+
+I carried the account of what I had learned, written in my own hand, in a new book that I had begun after the passing. A book of the journey. A book of what I was finding.
+
+I did not carry the gear. I had passed it to Daniel, with the book of the keeping and the agreement. I did not carry the red book. I had left it in the drawer, for Daniel to keep.
+
+The account was his now.
+
+---
+
+I walked north.
+
+The road rose out of the town, through the fields, past the last houses of Ashford, and into the country beyond. I had not been north of Ashford in five years. I had come from the south, and I had stayed in the south, and I had not crossed the boundary of the town in all the time I had been keeper.
+
+Now I walked north.
+
+I walked through the fields, and the lanes, and the small towns, and the country that grew wilder as the days passed. I did not know where I was going. I did not know what I was looking for. I only knew that I had to walk, and that the walking was part of something I did not yet understand.
+
+The Tokens were warm.
+
+I walked, and I looked at the world, and I understood that I was no longer the keeper. I was a man who had kept the keeping, and who had passed it on. I did not know where I would go. I did not know what I would do. But I knew that I would be ready.
+
+The count would call. And when it called, I would answer.
+
+---
+
+I walked north, into the morning, and I was content.
+
+I had been a keeper. I had kept the account. I had passed the keeping. The count would continue. I had done what I had set out to do.
+
+But as I walked, I understood that the passing of the keeping had not freed me from it.
+
+I had passed the account to Daniel. I had passed the gear. I had passed the agreement. But I had not passed the count. The count was still with me — the count of the thirteen signs, the tally of the keepers, the bell that would one day ring.
+
+The keeping had been passed. But the calling had not.
+
+And I was still following it, north, into a world I had not seen, toward a threshold I had not yet found.
+
+The Tokens were warm against my chest. The road stretched ahead of me, through the fields and the lanes and the wild country beyond. I did not know where it would take me.
+
+But I walked.
+
+I walked north, and the count was with me, and the calling was with me, and the first sign was with me, warm against my chest, patient and waiting.
+
+I walked north, and I did not look back.
+
+The keeping was the thing. The keeper was not.
+
+I had been a keeper. Now I was something else — a man who had passed the keeping, and who was waiting for the next thing, whatever it was, to call him north.
+
+And I walked.
+
+The road led on. The sky was grey. The Tokens were warm. And I walked, north, into the unknown, into the calling, into the count that was still counting, patient and slow, toward the hour of the bell.
+
+I did not know what I would find.
 
 But I knew that I would find it.
 
-The count was calling. And I would follow.
-
-I sat by the fire, and I looked at the house, and I understood that I had come to the marsh to find the beginning. And I had found it.
-
-But the beginning was not the end. The beginning was only the start.
-
-And the count was still counting, patient and slow, toward the hour of the bell.
-
-I did not know when that hour would come. I did not know whether I would be there to hear it.
-
-But I knew that I would keep the keeping until it came.
-
-I thought about the marsh people, though I had not met them yet. I thought about the village, hidden in the reeds, where the house was known. I thought about the generations that had kept the house empty, waiting for the keeper who would enter it.
-
-I was that keeper. I had entered. I had found the sign. I had not moved the stone. And I would keep it, as they had kept it, as the keepers before me had kept the boundary.
-
-The house was not the centre of the ring. The first sign was the centre. And I was at the centre of the first sign, keeping the beginning, waiting for the count to call me further.
-
-The first sign was on the floor of the house. The ring of stones was around it. The marsh was around the ring. And I was at the centre, keeping the beginning, waiting for the count to call me to the next threshold.
-
-I did not know when it would call.
-
-But I knew that it would.
-
-And I would be ready.
+And I walked.

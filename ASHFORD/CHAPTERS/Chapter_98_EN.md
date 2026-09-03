@@ -1,201 +1,169 @@
-﻿CHAPTER 98 — THE MAKER'S NAME
+CHAPTER 98 — THE KEY
 
-Ysabel and I searched together through the winter.
+I began to search for the key.
 
-She had been looking for twenty years. I had been looking for months. Together, we knew more than either of us had known alone.
+I could not yet tell what it looked like, beyond the mark on it. I could not say where it had come from. I could not determine whether it was still in Ashford, or whether it had been carried away, like the clocks, by someone who did not know what they had.
 
-We worked in the old way, the way of the keeping — slow, methodical, in the grey light of afternoons, with candles against the dark and the cold. We searched the records. We searched the vestry. We searched the libraries, and the archives, and the houses of the families who had kept the old ways. We followed the trail of Aurelius Ashcroft through the margins of the books, through the ledgers, through the letters.
+The shopkeeper by the river had told me what the woman in the dark coat had asked for. An old key, iron, with a mark on it — a circle, and three lines, and a dot. The first sign. She had described it exactly, he said, as though she had held it once and had never forgotten the feel of it.
 
-His name appeared where it should not have been. In the margins of the book of the wall. In the records of the families. In the letters of the clerks who had kept the secrets.
+That was what I carried with me into the winter. Not a name. Not a place. A description. A mark. A thing that had been lost for many years and that someone else was seeking.
 
-I learned to read for it the way I had learned to read for the first sign — not looking at the page, but looking past it, at the edges where a hand had added something that the record did not ask for. Once you knew to look there, the name was everywhere. Aurelius. Ashcroft. A. A. Sometimes the initials, sometimes the whole name, sometimes only a hand that had written in a way you came to recognize as his.
+I asked at the same places I had asked about the woman in the dark coat. The market. The shops. The inns. The lending library.
 
-"Look," Ysabel said one afternoon, in the archive of a house that had not been lived in for fifty years. She held a ledger open to a page where the margins were thick with a small, even hand. "He wrote here. All through here. This is his hand."
+Most people had not seen a key with a strange mark. Some had. The descriptions were always the same: old, iron, the mark of a circle and three lines and a dot.
 
-I came to look. The writing was not the writing of the ledger. It was smaller, firmer, a hand that had been taught to be exact and had never lost the habit. It ran up the side of the page like a column of small corrections, and at the foot of the column, in the same hand, was the name.
+I began to collect the stories.
 
-Aurelius.
+A man had seen a key like that twenty years ago, in a box of tools at a farm auction. He had not bought it. He did not know who had.
 
-We began to understand.
+A woman had seen a key like that in her grandfather's workshop, when she was a child. She had not thought of it in years. She did not know where it was now.
 
-Aurelius Ashcroft was not a man who had lived in Ashford and then left. He was a man who had lived in Ashford and had never left. He was in the margins because he had been deliberately kept out of the records.
+A dealer had been offered a key like that, five years ago, by a man who had not known its value. The dealer had not bought it. He had not thought it was worth anything.
 
-The thought was strange, and I turned it over in my mind for days. A man who is kept out of the records is a man someone did not want recorded. And a man someone did not want recorded is a man who was important enough to hide.
+The key was out there. I knew that. It had been seen, and handled, and passed over, and forgotten. It had moved through the town the way the clocks had moved through the town — by ordinary hands, ordinary miseries, ordinary refusals to ask the next question. Each of the people who had seen it had let it go, and each letting-go had carried it one step further from the keeping.
 
-And the clocks, and the key, and the lock were part of what he had left behind.
+I did not know where it was now.
+
+But I knew that the woman in the dark coat was looking for it. And I knew that I had to find it before she did.
 
 ---
 
-In January, Ysabel found the letter.
+I went to the vestry.
 
-She found it in the archives of a family that had left Ashford in the last century. A letter, written by a clerk, describing a box that had been placed in the keeping of the family.
+The clerk was there, as he always was, at his table with the ledgers, and the room smelled of old paper and candle smoke and the particular stillness of a place where things were recorded and nothing was forgotten. I asked about the key.
 
-She brought it to me at my desk, and she read it aloud, and I heard the clerk's careful hand in her voice — a man describing a thing he had been asked to record, taking pains to be exact because he understood that the exactness was the whole of it.
+He did not answer at once.
 
-"It describes the box exactly," she said. "An iron box, bound with a strap, with a lock on the front."
+He set down his pen. He looked at me the way he looked at the accounts when they did not balance — with patience, and with something close to sorrow.
 
-"A lock," I said.
+"There is a key," he said slowly, "that appears in the records of the church. It is not a key to any door in the church. It is not a key to any door in Ashford. It is described as a key to a lock that no longer exists."
 
-"A lock with a keyhole," she said. "And a mark on the box — the first sign."
+"Where is it now?"
+
+"I do not know. It was kept in the vestry, for many years, in a box. Then it was moved. Then it was lost."
+
+"Lost?"
+
+"Not lost," he said. "Taken. A man took it, many years ago. He was a collector. He took many things from the vestry — old keys, old coins, old papers. The warden at the time did not stop him."
+
+I stood in the candlelight, and I understood the shape of what he was telling me. The vestry was a place that kept things. The warden had allowed a man to take them, and the taking had been written down, and the record had outlasted the warden and the collector both. That was the way of records. They did not judge. They simply held.
+
+"Do you know who the man was?"
+
+The clerk was quiet a moment. "His name was Wintour."
 
 I stood very still.
 
-The box. The iron box with the first sign on it. The lock on the front.
+Wintour.
 
-The key I had found.
+The family that had moved north. The family that had owned the fourth clock.
 
-"It says," she read, "that the box was given to the family by a man named Aurelius Ashcroft, and that it was to be kept until the keeper came for it."
+The clock was missing. The key had been taken by a Wintour.
 
-"Until the keeper came for it."
+I had been to Darlington. I had found the Wintour house empty. The clock was gone. But the key — the key had been taken by a Wintour, years ago, and it had not been lost.
 
-"Until the keeper came for it," she repeated. "The letter does not say what is in the box. It does not say where the box is. It only says that it was kept, and that it would be given to the keeper when he came."
+It had been taken.
 
-I looked at her.
+And I did not know where it was now.
 
-"Do you know where the box is now?"
-
-She was silent a moment.
-
-"The family left Ashford," she said. "But they did not take the box with them. The letter says the box was placed in a vault, beneath the old church, before the family left."
-
-"Beneath the church?"
-
-"The old church," she said. "The one that was pulled down, in the last century, when the new church was built."
-
-I stood in the room.
-
-The old church. The one that had been pulled down. Beneath it, a vault. And in the vault, an iron box with the first sign on it, and a lock on the front.
-
-The lock that the key was made for.
-
-It had been there all along, beneath a piece of ground that no one remembered. The town had built over its own memory, and the vault had waited under the new grass for the keeper who would come for what had been kept.
-
-I looked at Ysabel.
-
-"We have to find the vault," I said.
-
-She nodded.
-
-"We have to find the box."
+I thanked the clerk. I left the vestry. I walked out into the cold, and the name Wintour went with me, and I could not say whether it was a door opening or a door closing.
 
 ---
 
-We went to the old church the following morning.
+I returned to the library.
 
-It had been pulled down years ago. The ground where it had stood was a small green, at the edge of town, used for nothing. No one remembered that a church had stood there.
+Marianne was there, at her table, with the lamp burning though it was mid-afternoon. I told her what I had learned.
 
-I had passed it a hundred times without seeing it. That was the way of such places. A green at the edge of town, a patch of grass no one needed, a flat stone at the corner that could have been anything. The town did not know it was walking over its own keeping.
+"The Wintour family," she said slowly. "The man who took the key was a collector. He took many things. The key was one of them."
 
-We stood at the edge of the green, in the grey morning light, and we looked at the ground.
+"Where are the things now?"
 
-"The vault," I said. "It must be beneath the ground."
+"I do not know. But if he was a collector, his collection must have gone somewhere. It may have been sold. It may have been kept by his descendants."
 
-Ysabel nodded. "The letter said the vault was beneath the church. The church was pulled down. The vault was left."
+"Do you know if he had descendants?"
 
-We searched.
+She was quiet a moment. "There is a record," she said. "A Wintour who remained in Ashford after the others moved north. A younger son. He did not go to Darlington. He stayed here."
 
-The green was covered in grass. There was no entrance, no door, no stone to mark the vault. We walked it, looking for anything that did not belong.
+She said it the way she said everything — as though the fact had been waiting, patient and exact, for someone to ask the question that would bring it out. I had come to understand that about Marianne. She did not hold the town's secrets to keep them from me. She held them until I was ready to receive them properly.
 
-We walked it in widening circles, the way I had walked the market, the way she had walked a hundred towns. Two people looking for a thing that had been hidden on purpose, in a place where hiding was the natural condition.
+"Where?"
 
-Ysabel found it.
+She gave me an address. A street near the river.
 
-A stone, set flat in the ground, at the corner of the green. It was worn, almost invisible, but it was not grass.
-
-She knelt. She cleared the earth from the edges.
-
-There was a ring.
-
-An iron ring, set flush with the stone, the same as the rings I had found in the houses.
-
-I knelt beside her. I pulled the ring.
-
-The stone lifted.
-
-A passage opened, beneath the green, leading down into the dark.
-
-The vault.
-
-We lit a candle. We went down.
+I went.
 
 ---
 
-The vault was small. Stone walls. A stone floor. The air was cold and still.
+The house was small, hidden behind a larger building, its entrance narrow. It had the look of a place that had been added to over centuries and had never been finished, only continued. I knocked.
 
-It had been sealed for a century. The cold had settled into it like water settling into a well, and the stillness had a weight to it, a pressure, as though the vault were holding its breath against the day it would be opened.
+A man opened the door. He was old, older than I had expected, with a face that had seen many years and many things, and eyes that looked at me without surprise.
 
-At the back of the vault, on a stone table, there was a box.
+I asked about the key.
 
-It was iron. It was bound with a strap. It was dark with age.
+He did not answer at once. He looked at me for a long time, and then he stepped back and let me in.
 
-And on the front, there was the first sign.
+The house was filled with boxes. Boxes of old things. Papers, tools, books, keys. The collection of his ancestor, and the collection of the man who had collected from him, and the collection of the man before that. Layer upon layer, like the strata of the town itself. I walked through the rooms, and I understood that some men gather things because they cannot bear to lose them, and some because they cannot bear to let them go.
 
-I stood in the vault, in the candlelight, looking at the box.
+He led me to a room at the back. A box sat on the table. He opened it.
 
-The lock was on the front. A keyhole, dark and empty.
+Inside, on a piece of cloth, was a key.
 
-I took out the key.
-
-I held it in my hand.
-
-It had been cold against my chest for weeks. Now, in the vault, it did not feel cold anymore. It felt like it had come home.
-
-I could not yet tell what was in the box. I could not say whether I should open it.
-
-But I was the keeper. The box had been kept for me. The letter had said it would be given to the keeper when he came.
-
-I was the keeper. I had come.
-
-I put the key in the lock.
-
-It turned.
-
-The lock opened.
-
-I lifted the lid.
-
-Inside the box, on a bed of cloth, there was a single sheet of paper.
-
-The cloth was old, and the paper was old, and neither had been disturbed since the day the box was sealed. The keeping had been exact. The box had held its contents the way the vault had held the box, the way the keeping held everything — whole, and waiting.
+It was old. It was iron. It was dark with age, so dark it seemed to have swallowed all the light in the room.
 
 I picked it up.
 
-It was a letter. It was written in a hand I did not know — a hand I had seen only in the margins of the books, in the pages of the vestry, in the signatures of the Agreement.
+The first sign was on it. The circle, worn nearly smooth. The three lines. The dot, still deep, as though someone had pressed it with a purpose that would not wear away.
 
-Aurelius Ashcroft's hand.
+I held it in my hand, and I felt the weight of it, and I understood that I had found what the woman in the dark coat was looking for.
 
-I read it.
+The cold of it entered my palm and stayed there, a small hard certainty.
 
-*To the keeper who comes after. I have written this letter so that you will know what the keepers have kept. The wall was not built to keep anything out. The boundary was not drawn to keep anything in. They were set to mark the place where the first sign crosses the keeper's sign — the place where the door is not opened but remembered. You are the keeper. You have the first sign. You have the key. You have the clocks. The lock is not a door. The lock is a record. What is recorded is the keeping itself. Do not open the door. Do not ring the bell. Keep the account. The account is the whole of the keeping. — Aurelius Ashcroft.*
+"How much?" I said.
 
-I stood in the vault, in the candlelight, with the letter in my hand.
+The old man named a price. It was not small. But I paid it.
 
-I had found the lock. I had opened it. I had found the record.
+He did not ask why I wanted it. He did not ask what it opened. He wrapped it in the cloth, and he gave it to me, and he watched me leave, and I knew he was glad to be rid of it, the way a man is glad to be rid of a thing that has waited too long for its question.
 
-And I had found the words of Aurelius Ashcroft, written a hundred years ago, to the keeper who came after.
+I took the key home.
 
-*Do not open the door. Do not ring the bell. Keep the account. The account is the whole of the keeping.*
+---
 
-I read the words again. And again. The way Ysabel had read the margins, I read them until the shape of them was in me, until I could have said them in the dark.
+I sat at my desk.
 
-I had been keeping the account. I had been keeping the boundary. I had been keeping the door.
+The three clocks. The object. The key.
 
-And now I knew that the clocks, and the key, and the lock had been left for me — not to open anything, but to understand what I was keeping.
+The first sign was on all of them.
 
-I stood in the vault, and I understood.
+I could not say what the key was for. I could not tell for certain what it opened. I had no way of knowing whether it was connected to the clocks, or to the door, or to the chamber, or to the place beneath.
 
-The hunt was not leading me to a treasure. It was leading me back to the keeping.
+I held it in my hand.
 
-I looked up. Ysabel was standing at the foot of the stone table, watching me, the candle in her hand. She had not come closer. She had not read the letter over my shoulder. She had given the finding to me, the way the box had been given to the keeper.
+It was cold.
 
-"Well?" she said.
+I turned it over. The first sign was on the bow. The circle. The three lines. The dot.
 
-I folded the letter. I put it in my coat.
+A thing made to fit a thing that was made for it. That was what a key was. It did not need to be held to be understood as a key; it only needed to exist, and the lock that matched it existed somewhere as well, whether or not I had found it. The world was full of matched pairs waiting to be joined.
 
-I took the empty box, and I left the vault, and I walked back through the streets of Ashford, with Ysabel beside me, and the letter against my chest.
+I could not say what it opened.
 
-The cold of the vault stayed with me for the length of the walk. And beneath it, warm as a coal, the words of Aurelius Ashcroft, written for me a hundred years before I was born.
+But I knew that I had found it.
 
-I had found what Aurelius had left.
+And I knew that the woman in the dark coat would be looking for it.
 
-And I had understood what the keepers had been keeping.
+I put the key in the drawer, with the clocks, and the object, and the red book.
+
+I sat in the dark.
+
+I was a keeper.
+
+I was a hunter.
+
+And I had found something that the woman in the dark coat had been searching for.
+
+The room was very quiet. The drawer held the clocks and the object and now the key, and I could feel them there, in the dark, like a hand that had gathered its fingers and was waiting to close.
+
+I could not tell for certain what it opened.
+
+But I knew that I would find out. It would open only at 00:00, and I would have to be ready when that hour came — if it came, if the count completed itself, if the thing I had gathered was what I thought it was. The hour might never arrive. The lock might have been destroyed, or moved, or sealed. But the key had been made for a purpose, and the purpose had been kept waiting, and I had taken the keeping of it now.
+
+I held the key again, cold against my palm, and I knew it was the next piece of a door I was only beginning to understand.

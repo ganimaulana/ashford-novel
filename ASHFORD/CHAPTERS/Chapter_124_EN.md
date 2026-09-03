@@ -1,80 +1,81 @@
-﻿CHAPTER 124 — THE INSTRUCTION
+CHAPTER 124 — THE KEEPER OF THE TALLY
 
-I began to prepare the account in the autumn of the same year.
+I did not know who was keeping the tally.
 
-The red book was full. I had filled it over the years of my keeping — the account of what I had found, what I had felt, what I had lost and kept and learned. It was the record of my own keeping, the thing I had written for myself, and it could not be given to another keeper the way it was. The keeper who came after me would need more than the account of one man's years. He would need to understand the keeping itself — the boundary, the sign, the house, the agreement, the door, the bell, the Tokens, the gear, the count. He would need to know what I had learned, not only what I had done.
+I had known it for three days, since the morning I knelt in the chamber and found the mark at the centre of the first sign. I had returned to the boundary each night, and to the chamber each dawn, and the marks had not changed, and the silence had not broken, and the hand that had made them had not shown itself. The marks were there. They were finished. And I had no way of knowing when the next one would appear.
 
-I began to write a new book.
+I went back to the book of the first keeper.
 
-Not the red book. Not the account of my keeping. A different book, bound in plain boards, clean pages, the first of them blank and waiting. A book of instruction for the keeper who would come after me. I wrote what I knew. I wrote about the boundary, and the stones, and the first sign at the base of every stone — the circle, the three lines, the dot. I wrote about the chamber beneath Bellweather House, and the passage that led to it, and the door that was not a door, and the place beneath the chamber that I had felt but never entered. I wrote about the bell, and the tower, and the lamp, and the season in which the bell was meant to be lit. I wrote about the agreement, and the keepers who had kept it before me, and the tally, and the count that did not change. I wrote it all down as clearly as I could, in the plainest words I could find, so that the keeper who came after me would not have to begin from nothing.
+I had not read it through since the tally had begun to trouble me. I had opened it only to the first page, the page of marks, and I had let the rest of it sit unread while I focused on the number. Now I opened it again, to the last page, and I read the sentence I had already read many times, the sentence the first keeper had written at the end of his account, in a hand that had grown careful with age:
 
-I wrote through the autumn and into the winter.
+I have kept my word. I have kept the keeping. I have erased myself so that the keeping will be kept for its own sake, and not for mine.
 
-The lamp burned late on my desk, and the pages grew, and I learned that writing for a man I had never met was a different kind of keeping than writing for myself. I had to choose what to leave in and what to leave out. I had to decide what was essential and what was only the noise of my own time. I had to write as though the book would be found by a stranger in a drawer, fifty years after I was dead, and that stranger would have to understand the keeping from the pages alone. I did not know whether such a thing was possible. But I wrote as though it were.
+I read it again, and I understood that I had been reading it wrong.
 
-In the autumn, I went to see Elias.
+I have erased myself. I had always thought it meant that he had removed his name from the records — that he had burned his history, left no trace of who he was, vanished into the keeping like a stone dropped into a river. And I had been right. But it was not only that. He had erased himself, but he had not erased the tally. The tally had survived. The marks had been preserved, copied, passed down through the oldest book of the Academy, through Ferrand's notebook, through the keeping of the boundary itself. The first keeper had erased his own name, but he had left the count, and the count was the thing that mattered. The tally was not the record of the keeper. It was the record of the keeping. And the keeper was not the same as the keeping.
 
-He was at his house on the lane past the mill, among the objects without history, and he let me in. The room was cold, and the objects sat on their shelves and on the table and on the floor, each one scrubbed clean of its origin, each one waiting for a story that would never be told.
+I closed the book. I went to see Elias.
 
-"I am writing a book," I said. "A book for the keeper who comes after me."
+He lived on the lane past the mill, where the road narrowed and the ground rose toward the common, and his house stood at the end of it, half-hidden by the wall of the old orchard. He let me in without speaking, the way a man lets in someone he has been expecting, and I stood in his room among the objects without history.
 
-Elias was silent a moment. He was a man who had spent his life with silence, and he did not break it quickly.
+The objects were everywhere — on shelves, on the table, on the floor by the cold hearth. Things that had been scrubbed, sanded, worn down until no mark of their origin remained. A box with its hinges polished blank. A piece of metal that might have been a lock or a latch or a key to something that no longer existed. They were the things that had been erased, and Elias kept them, and he knew what each of them was, though he would not tell me how he knew.
 
-"The first keeper erased himself," he said. "He left no name, no history, no account of who he was. He left only the tally, and the keeping, and the signs he had distributed so that the count would never be lost."
+"The tally," I said. "The marks in the book of the first keeper. You know them."
 
-"I know."
+"I know them."
 
-"Vale left no account. He left the document, and the gear, and the silence. He passed the keeping to you without a word of what it was, and you had to learn it for yourself."
-
-"He left a journal," I said.
-
-Elias looked at me for a moment.
-
-"And did it tell you what the keeping was?"
-
-"No. It told me what he had been before he came here. Some of it. The parts he was willing to set down." I thought about the pages I had read a dozen times and still could not place — the crossed-out names, the towns I had never heard of, the entries that stopped in the middle of a matter and resumed three years later as though nothing had been left unfinished. "He wrote a great deal, and he wrote nothing about the door. I have come to think that was a decision. He wrote what could be written and left the rest out on purpose."
-
-"Then he left you two things," Elias said. "The keeping, and the habit of a man who did not trust paper."
+"You have known them for years."
 
 "Yes."
 
-"And now you are writing for the keeper who comes after."
+I stood in the lamplight, among the erased objects, and I told him what I had found. I told him about the hairline mark on the fourth stone, and about the mark at the centre of the first sign in the chamber, and about the second, smaller mark I had discovered that morning on the corner stone where the wall turned — a fresh mark, not there in the autumn, cut into the stone at the corner as cleanly as the others.
 
-I stood in his house, among the erased objects, and I did not know what to say.
+I had not meant to tell him about the corner stone. I had not been certain of it myself until I had knelt there and run my finger along the line and felt the newness of it, the edge of the cut still sharp, the stone dust still caught in the grain of the rock. A mark that had been made in the winter, while I was indoors, while I was counting the number and thinking I understood it. A mark made while I was looking at the tally instead of the stones.
 
-"Then you are doing what no keeper has done," Elias said. "You are leaving more than the keeping. You are leaving the understanding."
+Elias was very still.
 
-I looked at him. "The first keeper kept without understanding," he said. "Vale kept without understanding. You have understood — the boundary, the sign, the count, the keepers, the tally. And you are leaving that understanding for the one who comes after."
-I stood among the objects without history, and I understood that Elias had been waiting for this moment longer than I had. He had kept the book of the first keeper, and the objects that had been erased, and the knowledge of the tally, and he had been waiting for a keeper who would write it down.
+"The marks are being added to," I said.
 
-"Will you help me?" I said.
+He did not speak. He was not a man who spoke quickly. He was the keeper of the erased, the keeper of the book of origins, and he had spent his life with things that had been stripped of their histories, and he knew better than anyone that what is left behind is often more important than what is taken away.
 
-"Help you?"
+"The tally is being kept," he said at last. "Not by the first keeper. Not by any keeper you know. It is being kept now."
 
-"With the objects," I said. "The objects that were scrubbed of their origin. The keeper who comes after me will need to understand them. I would have them recorded."
+"It is being kept now," I said. "I have seen the marks. They are new. They were not there in the autumn, and they are there now."
 
-Elias was silent a moment. Then he nodded.
+"Then there is someone keeping the tally."
 
-"I will help you," he said. "I have kept the objects for years. I will help you record them, so that the keeper who comes after will know what they are."
+"Who?"
 
-I wrote for the rest of the autumn, and through the winter, and into the early weeks of the spring. I recorded the objects with Elias — every erased thing in his house, every piece that had been scrubbed of its history, every box and latch and key and lock that had been kept by the keeping. I walked the boundary with Ysabel, and I wrote down the condition of every stone, the position of every sign, the shape of the ground where the wall turned. I wrote the account of the keepers I knew — the first keeper, Aurelius, the keeper before Vale, Vale, and the keeper of the tally, who had no name and needed none. I wrote what I knew about the count, and the number, and the thirteen signs that each keeper must find. I wrote what I knew about the bell, and the tower, and the hour of nothing, and the silence that had held for as long as I had been listening.
+He looked at me, and in his face I saw the same stillness I had seen in Ysabel's face when I had told her about the number. The stillness of a hunter who has been tracking a thing for so long that he has forgotten what it will look like when it finally appears.
 
-I wrote the last page of the book of the keeping on a night in the spring, when the frost had finally left the ground and the first soft air of the season was coming through the window.
+"I do not know," he said. "I have collected the objects that were scrubbed of their origin. I have kept the book of the first keeper. I have looked at the tally, and I have counted the marks, and I have not known what they were counting. I thought the tally was a record of the past — a count of the years the keeping had stood. I was wrong."
 
-I sat at my desk, with the book before me, and I wrote:
+"No one knew," I said. "The first keeper called it years. Ferrand called it years. I called it years."
 
-To the keeper who comes after: I have written this book so that you will not have to begin from nothing. It is the account of the keeping as I have understood it — the boundary, the sign, the house, the agreement, the door, the bell, the Tokens, the gear, the count. I did not understand all of it. I do not think any keeper understands all of it. But I have written what I know, and I have kept what I could, and I have trusted the count to bring you here. The keeping is the thing. The keeper is not. You are the keeper now. The count has brought you. The tally is yours to keep. Keep the account. Keep the boundary. Keep the door. Keep the bell. Keep the Tokens. Keep the gear. Keep the count. And when you have kept as long as you are meant to keep, write your own account, and leave it for the keeper who comes after you. That is the whole of the keeping.
+"The first keeper called it years because he did not know what else to call it," Elias said. "He left the tally, and he left the sign, and he left the boundary, and he erased himself so that nothing would be mistaken for a name. The tally was the thing. The keeper was not. And the tally is being kept, in your time, in your keeping, by a hand you have not seen."
 
-I set down the pen. I closed the book. I put it in the drawer, beside the red book, and the agreement, and the gear, and the Tokens, and the key to the reading room.
+I stood in his house, among the objects that had been erased, and I understood.
 
-I sat in the dark.
+If the tally was being kept, then the count was not complete. And if the count was not complete, then the keeping was not finished. And if the keeping was not finished, then I was not the last keeper. There would be others. There would be more marks. The tally would go on being kept, and the boundary would go on standing, and the keeping would pass to someone after me, as it had passed to me from Vale, and to Vale from the keeper before him, through all the keepers whose names had been erased from the records.
 
-I had written the book of the keeping. I had prepared for the keeper who would come after me. I did not know who he was. I did not know when he would come. I did not know whether he would find the book, or whether he would understand it, or whether he would throw it aside and learn the keeping the hard way, as I had learned it. But I had done what I could. I had written the account. I had recorded the objects. I had walked the boundary and marked the stones. I had prepared the instruction. And I had trusted the count to bring him.
+"I am not the last keeper," I said.
 
-But as I sat in the dark, I understood that the book of the keeping was not the keeping itself. It was a guide — a map for a man who had never seen the country. The keeping was not in the book. It was in the boundary, and the stones, and the door, and the bell, and the place beneath the chamber. It was in the cold of the winter boundary, and the dark of the passage, and the silence of the bell that never rang. The keeper who came after me would have to find it there, in the keeping itself, not in the pages I had written. The book was the seed. The keeping was the growth. And I had planted the seed, and watered it, and left it in the drawer for the hands that would find it.
+"No," Elias said. "You are not the last."
 
-I sat in the stillness of the room, and I looked at the drawer where the book lay. The book was separate from me now. It had its own life, its own purpose, its own future. It would speak to a man I had never met, in a voice I would never hear, and it would tell him what I had learned, and he would take it or leave it, and the keeping would go on either way.
+We looked at each other in the lamplight, and I did not know what to say. I had thought, when I took up the keeping, that I was part of the end of something — that the bell would ring, and the count would complete, and the keeping would close. I had been wrong. The keeping was not closing. It was still being written, one mark at a time, and I was not the final hand.
 
-I had done my part.
+I walked home through the dark streets, and the cold had settled into the town, and the stars were hard and bright above the rooftops. I sat at my desk, and I opened the red book, and I wrote:
 
-The rest belonged to the count.
+The tally is being kept. There are marks on the stones — marks on the fourth stone, marks on the corner stone, marks on the floor of the chamber. Marks that have appeared, and that have not grown, and that have not changed. Someone is adding marks to the count. I do not know who. The keeping is not finished. The count is not complete. I am not the last keeper. The tally will continue until it is finished.
+
+I closed the red book, and I sat in the dark, and the full weight of what I had learned settled onto me.
+
+The keeper of the tally was not the keeper of the keeping. He kept the count, but he did not keep the boundary, or the door, or the bell, or the houses, or the Tokens. He kept the marks. He kept the record of the keepers, the way the clerk keeps the register of the town. And I — I kept the keeping itself. The boundary. The door. The bell. The account. The gear. The chamber. The life.
+
+The tally was the record of the keeping. The keeping was the life. And the two were not the same.
+
+I sat in the stillness, and I understood that I would have to find the keeper of the tally. Not to challenge him, and not to stop him, and not to learn what the count was counting — though I would learn that too, if I could. But to learn who I was in it. The tally was the record of the keepers. And I was a keeper. The count of the marks, the fixed number that had never changed, the number that was counting the keepers and the signs they had found — I was part of it. And I would not know the shape of my own part until I saw the hand that was keeping the whole.
+
+I did not know who he was. I did not know where he came from. I did not know whether he was a man at all, or something older, or something that had been waiting since the first keeper set the boundary. But I knew that he was real. The marks were real. The cuts in the stone were fresh.
+
+I would find him. I would watch the boundary, and the chamber, and the places where the marks lived. I would watch, and I would wait, and I would be ready for the night when the hand came again.

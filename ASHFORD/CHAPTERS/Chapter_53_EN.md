@@ -1,208 +1,171 @@
-﻿CHAPTER 53 — THE CHAMBER
+CHAPTER 53 — THE SUMMONS
 
-I went back to the common on the fifth night.
+A week passed before Crowe came to me again.
 
-The house was not there.
+I spent most of it at the mill. Not at the mill-yard gate, where the town might see me, but beyond it, where the wall turned and the stones stood in their line and no one had any reason to walk. I went in the early mornings, before the lamplighter was done, and in the evenings after the streets emptied. I kept the account the way I had decided to keep it — in my own hand, in my own book.
 
-I stood at the edge of the grass, in the dark, and I looked at the place where it had stood, and there was nothing — only the shape of the floor pressed into the grass, and the keeper's sign bent into the earth at its centre, and the memory of the cold air inside a room that had not existed until I had crossed its threshold.
+The fourth stone had not changed. The hairline mark lay across its face, faint as a thread, and I knelt beside it each morning and put my finger to it and felt nothing. That, more than anything, unsettled me. A crack that does not grow is not a crack. It is a mark. And marks in Ashford were never accidental.
 
-I could not yet tell whether the house appeared on a schedule. I could not say whether it appeared when I was meant to see it, or whether it appeared and disappeared without regard for my watching.
+On the eighth morning, I found the ground disturbed again.
 
-I stood at the edge of the common for a long time, and the house did not come, and I walked back to my rooms, and I sat at my desk, and I thought about the trapdoor.
+Not the mill mechanism — I had gone there first, as I always did, and knelt where the soft ground held the record of every visitor. My own prints were there, deep from the repeated kneeling. The narrow heel was there too — unchanged, pointing away from the door, back toward the town.
 
-The iron ring. The stone walls. The smell of earth and stone and old iron rising from the dark.
+Then I walked to the stones. At the fourth stone, in the soft earth at its base, there was a new mark. Not a print. A scratch. A line drawn in the earth, clean and deliberate, no more than the length of my hand. It ran beside the stone, and at its end the earth had been scored three times, short strokes, close together.
 
-I had not gone down. I had told myself I would go down the next time I opened the trapdoor, but the house had not come, and I had not been able to open a trapdoor in a house that was not there.
+Three strokes.
 
-I did not know how long I would have to wait. I did not know whether the house would come again at all.
+I stared at it for a long time. The mark on the gear was a circle and a short line. The mark on the door was the same. The mark in the earth was different — a line, and three strokes. Not the same. But placed in the same location where I had been kneeling. That could not be coincidence. But it also could not be explained.
 
----
+I knelt and put my fingers to the scored earth. It was fresh — an hour old, perhaps less. The earth had not dried. Whoever had made it had done so since the rain, and the rain had stopped before first light.
 
-Two nights passed.
+I stood, brushed the earth from my hands, and walked back toward town with the image of it in my mind — a line, and three strokes, and a question I could not yet ask aloud.
 
-On the second of them, Crowe came to my rooms again.
+Crowe was waiting for me at my rooms. Inside. He sat in the chair by the window, in the thin morning light, with his hat on his knee.
 
-I was not surprised to see him. I had thought, after the meeting at the brewery, that he would come — that he would ask what I had learned, that he would test whether I had kept anything from him, that he would try to undo the mistake I had made in telling the room I carried the gear.
+"You let yourself in," I said.
 
-He did not come for any of those reasons.
+"I did."
 
-He came to warn me.
+"The door was locked."
 
-"There is a man in Ashford," he said, "who has been asking about the gear."
+"It was." He turned his hat in his hands. "You keep the agreement in the drawer," he said. "Beneath the parish account."
 
-I had just opened the door to him. I had not invited him in. He stood on the threshold, in the light of the passage, and he did not wait for me to speak.
+I stopped. "Who told you that?"
 
-"Who?" I said.
+"No one told me." He set the hat down. "It is where I would keep it. I came to tell you something, and I will tell it, and then I will go. The Order has taken note of the old constable's death — and of you."
 
-"I do not know his name. I do not know his face. I know only that he has been to the brewery, and that he has been to the house on Bellweather Lane, and that he has been asking, in his way, about the old constable's gear — what it is, where it is, who carries it now."
+"They have been watching the house on Bellweather Lane since before you came to it," he said. "They watched Vale. Now they watch you. That is not a threat. It is what they do. It is what we do. We watch the keeper."
 
-"How do you know this?"
+I thought of the open window in Vale's house. "Then you know who has been going to the mill."
 
-"Because I am asked to know things." Crowe looked at me. "And because the man who asks is not one of us."
+Crowe was still. "Someone has been going to the mill," he said slowly. "Someone has been kneeling at the stones. Someone has been standing at the door where a keeper stands. I thought it was you."
 
-"Not one of the Order."
+"It is not you," I said. "You are telling me it is not you."
 
-"Not one of us," he repeated. "The Order knows the gear is carried. The Order does not ask strangers where it is. This man is not a member. He is not from the town. He has the look of a man who has come a long way, and he asks questions as if he already knows the answers and is checking mine against them."
+"It is not me."
 
-I stood in the doorway. I thought of the heel print at the mill. I thought of the mark in the earth, erased before I could read it again. I thought of the footprints that had led away from the fourth stone, toward the mill-yard gate, the print of a man who was not Crowe.
+We looked at each other across the small room.
 
-"There has been someone at the mill," I said. "Someone has been to the stones. Someone erased the mark in the earth. I thought it was a man from the brewery."
+"You want the door opened," I said. "You said so, the night he died."
 
-"It is not," Crowe said. "I know every man in the brewery. I know which of them would go to the mill, and which of them would not, and which of them would erase a mark and which of them would leave it to be found. The man who is asking about the gear is none of them."
+"I want to know what it is for," Crowe said. "There is a difference between wanting to open a door and wanting to know what the door is for. The Order forgets that difference. Some of them don't care what is behind it. Some of them want to believe it is a threat. Some of them believe it is a promise. They don't agree on what they are watching, only that they are watching."
 
-"Then who is he?"
+"Then who draws lines in the earth at the fourth stone?"
 
-"I do not know." Crowe stepped back from the door. "But I know this: the gear has been carried in Ashford for fifty years, and in all that time no one came to ask where it was. Vale carried it, and the town forgot he had it, and the Order knew but did not speak of it. You have carried it for weeks, and already a stranger is asking. That is not an accident."
+Crowe was silent for a long moment. "I don't know," he said. "I didn't know there was a line. But I know the Order has never drawn marks in the earth. That is not what they do. They watch. They don't leave signs."
 
-He turned to go.
+"Then someone else is watching."
 
-"Crowe," I said.
+"Or someone else is trying to be watched by you." He met my eyes. "There are people in Ashford who have been waiting for a keeper who would not be afraid. I don't know whether they are allies or enemies. I only know they exist."
 
-He stopped.
+"And you?"
 
-"Why are you telling me this?"
+"I am still deciding what I am."
 
-He was silent a moment.
+He stood. "The Order wants to see you. Tomorrow night. The room above the old brewery. They want to hear what you have seen of the boundary. Some of them believe the boundary is failing and that the Agreement is a lie. Some believe it is holy and must not be touched. And some — " he stopped. "Some believe you are not the keeper at all. That Vale meant to name someone else."
 
-"Because there is a difference," he said, "between wanting to know what the door is for, and wanting to open it. I have told you the difference before. I will tell you again: I do not want the door opened. I want to know what it is for. And I believe, now, that whatever the stranger wants, it is not the same thing as what I want."
+"Who believes that?"
 
-He went down the stairs.
+"I do not know. That is the truth." He moved toward the door. "They will not all want the same thing from you. Whatever you say, some of them will have decided against you before you opened your mouth."
 
-I stood in the doorway, in the light of the passage, and I thought about what he had said.
+He paused at the threshold. "The mark in the earth. Three strokes. Do not speak of it at the meeting."
 
-A man asking about the gear. A man who was not from the town. A man who had come a long way, who asked questions as if he already knew the answers.
+"Why not?"
 
-I had not told anyone, outside the brewery, that I carried the gear. I had not told the vestry clerk. I had not told Margaret. I had told the room above the brewery — eight people — and one of them had carried the knowledge out of that room, and one of them had gone to the house on Bellweather Lane, and one of them had gone to the mill, and one of them had erased the mark in the earth.
+"Because if it is what I think it is, there are men in that room who have been waiting a long time to hear that the keeper has seen it. And they will not be glad that you have seen it first."
 
-I could not say which.
+He went out.
 
----
+I stood in the room a long time after the door closed, looking at the chair where he had sat, and at the drawer where the agreement lay, and at the coat on the hook with the wrapped gear heavy in its lining. I had not asked Crowe what he thought the mark was. I had not asked him why he had come to warn me. I had asked him nothing, and he had told me three things I could not verify, and one thing I already knew — that he drew a line between wanting to open the door and wanting to know what it was for. I did not know whether to believe the line.
 
-I could not sleep.
+I went to the mill that night. Not to the stones — I left the fourth stone untouched, the mark in the earth unread, as Crowe had advised and as my own distrust advised as well. I went to the mechanism, to the door, where the ground held its record.
 
-I sat at my desk in the dark, the paper from the house before me — the two marks, connected by a line, and the sentence on the back — and I thought about the trapdoor, and about the chamber beneath the common, and about the smell of earth and stone and old iron, and about the door beneath the mill, and about whether they were the same place.
+The door was as I had left it. Closed. Sealed. The depression empty. I put my hand flat against it, the way Vale had shown me, and I stood that way for a long time, listening to nothing. Behind it there was nothing I could hear and nothing I could feel and nothing at all to tell me what it held. I had opened it an inch, once. I had heard something. I had never told anyone what I heard.
 
-The clerk had told me the vestry book recorded the keeper's sign as older than the circle.
+I took my hand away. There was a line in the dust at the base of the door where my fingers had rested. And beside it, faint, half-erased, almost invisible in the dark — a line, and three strokes. Scratched into the stone itself, worn almost smooth by years.
 
-The paper had shown me the two marks, connected.
+The mark on the gear was a circle and a short line. The mark on the door was a circle and a short line — above the seal. And below the seal, hidden where the dust gathered, worn almost to nothing: a line, and three strokes. Two marks. Two signatures. One hidden beneath the other. I had begun to think there was only one. I had been wrong. But I still didn't know whether the second mark had been placed there by the same hand that had placed the first, or whether someone had added it later — to correct the first, to contradict it, or to tell a story the Order had never known how to read.
 
-The house had shown me a door in its floor, leading down into stone.
+The meeting was in the room above the old brewery, as Crowe had said. I came late — not so late that they would think I was afraid, but late enough that they would know I had considered whether to come at all. The room was lit by a single lamp. Around the table sat seven men and one woman. I did not know all their names.
 
-The mill had shown me a door in its wall, leading down into the earth.
+Crowe was there. Graves was there — Nathaniel Graves, the Purist, who had spoken to me once before and who had not liked what I had said then. The woman I could not say sat across from Graves, with a ledger closed in front of her.
 
-I could not tell for certain whether the chamber beneath the common led to the door beneath the mill. But I knew that the smell was the same. And I knew that the keeper's sign was the key. And I knew that the gear was the lock.
+I stood at the head of the table. No one offered me a chair.
 
-And I knew that somewhere in Ashford, there was a man asking about the gear, a man who was not from the town, a man who had come a long way — and that I had no way of knowing what he wanted, and that I could not say whether he was the third hand, or whether there were more than three.
+"You have come," Graves said.
 
----
+"I have come."
 
-I went to the common on the following night.
+"You have not come before. Vale never came. He sent word, when he sent anything."
 
-The house was there.
+"Vale is dead," I said. "I am here in his place. If you want a keeper who sends word instead of coming, you should find another man."
 
-It had appeared while I was not watching, or it had been there all along, or it had waited for me to come back — I could not tell for certain which, and I did not stop to ask.
+There was a silence. The woman with the ledger closed it.
 
-I crossed the grass. I crossed the pressed floor, and the keeper's sign bent into the earth, and the threshold, and I stood in the bare room with the clock stopped at 00:00 and the chair that had not been there before.
+"We have heard," she said, "that the boundary is failing. That stones have moved. That the keeper's house has stood empty at the end of the lane for years, and that the thing beneath Ashford is waking."
 
-The chair was still there. The paper was gone.
+"Who told you that?"
 
-I had taken the paper with me, the first time. I had folded it and put it in my coat, and I had brought it home, and I had looked at it, and I had put it in the drawer with the agreement. I had not left it in the house.
+"It is said."
 
-But the chair was there, and on the seat, where the paper had been, there was nothing.
+"Then you know more than I do," I said. "I am the keeper. I have walked the boundary. The stones have not moved since the eastern marker was set right in the spring. The door is sealed. The house at the end of the lane is not empty — it is the house where Vale lived and died. If you have heard otherwise, you have heard it from someone who was not at the boundary."
 
-I knelt. I lifted the edge of the front mat. The ring was there.
+Graves leaned forward. "And the Agreement. What does it tell you of the door?"
 
-I put my finger through it and pulled.
+"It tells me the door was made to be closed," I said. "It tells me the Agreement was signed by a man who believed closing it was necessary. It does not tell me what is behind it."
 
-The trapdoor opened on silent hinges, and the darkness rose to meet me, and the smell of earth and stone and old iron filled the room.
+"And you will keep it closed?"
 
-I lit a candle. I held it into the opening. The ladder was there, set into the stone, and the walls of the chamber fell away into the dark.
+"I will."
 
-I went down.
+"Even if the Order tells you otherwise?"
 
----
+"The Order does not sign the Agreement," I said. "Aurelius Ashcroft signed it. He is dead. I am the keeper. The door stays closed until I understand it."
 
-The ladder was longer than I had expected.
+Graves was silent. I could not tell whether I had answered what he wanted or what he feared.
 
-I counted the rungs as I descended — ten, twenty, thirty — and the air grew colder, and the smell of the earth grew stronger, and the light of my candle fell on stone walls that were not the walls of a cellar.
+The woman with the ledger spoke again. "There is a mark," she said. "A mark that appears on the boundary when the keeper is tested. A circle and a line. Have you seen it?"
 
-They were not the walls of a cellar at all. They were the walls of a passage.
+"I have seen it," I said. "On the stones. On the door. On the gear."
 
-A passage cut through the earth, wide enough for a man to walk upright, its floor worn smooth by feet that had passed this way for a long time, its walls marked with the keeper's sign — the line and three strokes — carved at intervals, one after another, as if whoever had made the passage had wanted to be certain that no one who walked it would forget what it was for.
+"On the gear," she repeated. She looked at Crowe. "You did not tell us the gear had come to him."
 
-I stood at the bottom of the ladder and looked along the passage. It ran in one direction, toward the mill. I could not see the end of it.
+"It came to me at the mill," I said. "I found it on the floor beneath a stopped clock, before I had heard the word keeper spoken in my hearing. Vale kept it before that. Vale left me his box, and his letters, and his wife's ring, and he did not tell me which of them mattered."
 
-I held the candle up and looked at the nearest mark. The keeper's sign, carved into the stone, deep and clear — not worn smooth like the mark on the door, not hidden like the mark at the base of the fourth stone, but fresh, as if it had been carved recently, as if someone had been here, in this passage, carving the sign, marking the way.
+"There was no gear," Graves said flatly, "before this spring."
 
-I had no way of knowing who. I could not say when.
+"There was. You did not know of it."
 
-I walked along the passage. The candle threw my shadow ahead of me, long and wavering, and the keeper's signs passed one after another, each one the same, each one cut into the stone at about the height of a man's eyes, each one fresh.
+There was a long silence. I understood, in the moment of silence, that I had made a mistake. I had told them about the mark. I had told them what I had decided to tell no one. And I could not tell for certain which of the eight faces around the table had been waiting for exactly that.
 
-I counted them. Seven. Twelve. Nineteen. I lost count.
+The woman stood. "The meeting is over. We will speak again when there is something to decide."
 
-The passage turned, and turned again, and the smell of the earth gave way to the smell of old iron and cold stone, and I came to a door.
+They rose. They left in twos and threes, without looking at me. Graves paused at the top of the stairs. "You have chosen to keep the door closed. And you have told the room you carry the gear. Vale carried it for fifty years and told no one. You have carried it for a week and told the room. You are not Vale. Remember that."
 
-Not the door beneath the mill. A door, set in the wall of the passage, made of the same stone, fitted with the same precision, with a depression in its face the shape of the gear I carried in my coat.
+He went down. Only Crowe remained.
 
-I stopped. I held the candle up. The depression was empty. The door was sealed.
+"You told them," he said.
 
-And above the depression, carved into the stone, was the keeper's sign. And below it, where the dust gathered, worn smooth by years — the circle, and the short line.
+"They asked."
 
-I stood in the passage, in the candlelight, in the cold air, and I looked at the door, and I understood.
+"They always ask. They have asked every keeper since there were keepers. Vale never told them." He shook his head slowly. "I did not think you would tell them."
 
-The passage beneath the common did not lead to the door beneath the mill. The passage WAS the door. Or rather — the passage led to the door, from the inside, from the chamber beneath the common, from the house that appeared and disappeared at the edge of the grass.
+"Then you came expecting me to lie."
 
-And the door I had been watching, the door beneath the mill, the door I had knelt beside and touched and sworn to keep closed — that door was the same door, seen from the other side.
+"I came expecting you to choose what to say." He picked up his hat. "Now the Order knows you carry the gear, and the Order will ask what it is for, and the Order will not all ask for the same reason."
 
-I had been standing on the outside of it. I was standing on the inside of it now.
+"Is that what the mark in the earth was for? To make me walk into this room and tell them what I carry?"
 
-And the gear in my coat, the gear I had found beneath the stopped clock at the mill, the gear with the circle and the short line — fit this depression.
+Crowe was very still. "There is a mark in the earth that I did not make, at a stone I have not visited, drawn with three strokes that I did not draw, and you are asking me whether it was a trap."
 
-I did not put it in.
+"Was it?"
 
-I stood in the passage, with the candle burning down, and I looked at the door, and I felt the weight of the gear in my coat, and I understood that I had a choice.
+"No. But if there is such a mark, and I did not make it, and you did not make it — then there is a third hand in this, and it is not in this room, and it has been waiting longer than any of us have been alive."
 
-I could put the gear in the depression. I could turn it. I could open the door — from the inside, from beneath the common, from the house that did not exist.
+He went out.
 
-Or I could leave it closed, and climb back up the ladder, and cross the threshold, and return to the town, and tell no one what I had found.
+I stood alone in the room above the brewery, the lamp burning down, the chairs empty, and I thought of the worn line and three strokes on the door beneath the seal. Two signatures. One I had been shown. One I had found by accident. I had no way of knowing which was older. I could not say which was the true keeper's mark. I only knew that I had walked into that room thinking the Order was a single organization with a single purpose, and I had come out understanding that it was a collection of people who disagreed on everything except their suspicion of me.
 
-I could not tell for certain what was behind the door. I had no way of knowing whether opening it would be the end of the mystery, or the beginning of something worse.
+I did not sleep that night. I sat at my desk in the dark, the gear before me, the agreement in the drawer, and I opened my notebook and wrote: Fourth stone. Fresh mark in the earth beside it. A line and three strokes. Made since the rain. Not mine. Not Crowe's — he denies it, and I cannot prove him a liar. Door: second mark found beneath the seal, worn almost smooth by years. The Order met tonight. They did not all want the same thing. Some want the door open. Some want it sealed forever. Some want to test me. None of them asked what I would find behind the door. None of them asked what the mark in the earth was for. I told them I carry the gear. I should not have. I do not know who drew the line and three strokes. I do not know whether it is a signature, a warning, or a key. I know it is not the mark I carry. I know it was left for me to find — on the fourth stone, and on the door, hidden where the keeper alone would look. Two marks. I have been keeper for a week. I have been watching the wrong one. Or perhaps I have been watching the right one, and simply cannot yet see what it means.
 
-I stood there for a long time.
-
-Then I took my hand off the gear. I did not put it in the depression.
-
-I had read the sentence on its face so often by then that I no longer had to look at it, and standing in the passage with the depression in front of me, I understood that I had never once been able to say whether the words were describing the thing I was holding or instructing the man who held it.
-
-I turned and walked back along the passage, past the keeper's signs, one after another, each one fresh, each one marking the way, and I climbed the ladder, and I closed the trapdoor, and I replaced the mat.
-
-I crossed the common. The house was still there, standing at the edge of the grass, its windows dark. I did not look back.
-
-I walked home through the streets of Ashford, and I sat at my desk, and I opened my notebook, and I wrote:
-
-I went down tonight.
-
-Beneath the common there is a passage. It is marked, along its whole length, with the keeper's sign — freshly cut. It leads to a door, sealed, with a depression the shape of the gear. Above the depression: the keeper's sign. Below it: the circle.
-
-The door beneath the mill and the door beneath the common are the same door, seen from both sides.
-
-I did not open it.
-
-I do not know what is behind it. But I know now that the gear is the key to the door from the inside, and that the keeper's sign is the key to the door from the outside, and that I have been carrying the gear for weeks and have not understood what it was for.
-
-I have been keeper for a month. I have been keeping the door closed. It is possible that I have been standing on the outside of a door that opens from both sides. It is possible that I am the key. But it is equally possible that I have been misunderstanding the door, and the key, and myself. I do not yet know.
-
-I closed the book. I put it in the drawer, with the agreement, beneath the parish account.
-
-Then I took the gear from my coat and placed it on the desk, and I looked at it, and I thought about the man who was asking about it, and about the passage beneath the common, and about the door that opened from both sides, and about the keeper's signs, freshly cut, marking the way.
-
-Someone had been in the passage, carving the signs. Someone had been in the passage, recently. Someone had prepared the way.
-
-And I could not say whether they had prepared it for me, or for the man who was asking about the gear, or for something that had been waiting beneath Ashford for a long time.
-
-The door was still closed. The gear was still in my hand.
-
-But I understood, now, that I was not the only one who knew the way.
-
-And I understood that the next time I went down, I might not be alone.
-
+I closed the notebook. I put it with the agreement, in the drawer, beneath the parish account. Then I took the gear from the desk and put it back in my coat. The bell had not rung since Vale died. I could not tell for certain whether it would ring again—or whether it was meant to ring only when the count reached its end. Whatever was behind the door would wait. But whoever had drawn the line and three strokes had not waited for me. That one had come to the fourth stone while I was not there. That one had drawn the mark, and left it, and gone. And I had walked into the room above the brewery and told eight strangers I carried the gear, and I had come out understanding that I had no way of knowing a single one of them, and that the one hand I could not place was the only hand that mattered. The door was still closed. The Agreement was still in the drawer. But somewhere in Ashford, there was a hand that drew lines in the earth beside the keeper's stones, in the hours before first light, and it had not drawn them for the Order. It had drawn them for me. And I could not say whether that was a message, or a test, or the beginning of a question I would spend the rest of the book learning to answer.

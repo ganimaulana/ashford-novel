@@ -1,135 +1,137 @@
-﻿CHAPTER 92 — THE THREE CLOCKS
+CHAPTER 92 — THE FOUR CLOCKS
 
-I had three clocks.
+I did not return to the market for a week.
 
-I set them on the desk, side by side, in the order of their numbers. I, III, IV. The second was missing. Somewhere in Ashford, or beyond it, the woman in the dark coat had the second clock. She had bought it from the Fenn family years ago, and she had not been seen since.
+I did not go to the library. I did not go to the vestry. I stayed in my rooms, with the broken clock on my desk, and I looked at it.
 
-I could not yet tell where she was. I could not say how to find her.
+The first sign was on its back. The mark I had carried all my life. The mark that was on the object, and on the wall of the common house, and on the door that was not a door.
 
-But I had three clocks. And I had the first sign on all of them.
+I had not expected to find it again.
 
-I took out the object. I set it beside the clocks. The same mark. The same circle. The same three lines. The same dot.
+I had expected the keeping to be quiet. I had expected the account to be complete. I had expected the boundary to hold, and the bell to remain silent, and the first sign to stay where it had been kept — in the object, in the house, in the chamber beneath the common.
 
-The first sign was on the object. The first sign was on the clocks. The first sign was on the wall of the common house, and on the door that was not a door, and in the chamber beneath Bellweather House.
+I had not expected to find it on a broken clock, in a market, under a blanket, for five pence.
 
-I had thought the first sign was a single thing. One mark. One meaning. One mystery.
+I picked up the clock. I turned it over in my hands. The mark was worn, almost invisible, but it was there. The same circle. The same three lines. The same dot. The first sign.
 
-I had been wrong.
+Marianne had said the clock was one of four. Four clocks, made by a man named Hollis, unaccounted for since the 1790s. The mark had been cut into the case after the clock was made. Someone had added it, in the 1780s or 1790s, and then the clock had disappeared from the records.
 
-The first sign was not a single thing. It was a signature — a signature that appeared on objects that had been kept, or hidden, or marked for a purpose I did not yet understand. It was the hand of someone who had passed through Ashford and left his mark where he had been, the way a man signs a letter he means to be read, or a receipt he means to be honoured.
+I could not yet tell what that meant. But I knew that three other clocks existed, somewhere, carrying the same mark. I knew that I had to find them.
 
-The object. The clocks. The wall of the common house. The door.
+I set the clock down. I walked to the window. The street was empty. The autumn light was thin. I stood there for a long time, and I thought about the four families whose names Marianne had given me — the Fenns, the Harlows, the Wintours, the Langfords. They had been ordinary families once. They had bought clocks from a clockmaker, in the ordinary way of things, and they had taken them home and set them on mantelpieces, and they had wound them each night, and they had watched them measure the hours of lives that had long since ended.
 
-I did not know what connected them. But I knew that they were connected.
+And then, sometime in the 1780s or 1790s, someone had come to those four families. Someone had taken their clocks from their mantelpieces, had cut a mark into the backs, had numbered them, and had given them back. The families had kept them. They had passed them down. They had hidden them, perhaps, or forgotten them, or simply held on to them without knowing what they held.
 
-I sat at the desk until the lamp burned low. I turned each clock over in turn. The marks were the same on all three, but they were not quite the same, either. On the first clock the mark was worn almost smooth, as if it had been handled for years. On the third the lines were deeper, cut with more force. On the fourth they were fainter, as if the hand had tired, or the metal had resisted.
+And now one of those clocks was on my desk.
 
-Three marks. One hand. I was certain of that now — the same hand had cut all three. I could not say how I knew. But I knew, the way you know a familiar handwriting when you see it again, even after years, even in a different pen.
-
-The same hand that had signed the object had marked the clocks.
-
-And I had no way of knowing where that hand had gone.
+I turned away from the window. I picked up the clock again. I held it in my palm, and I felt the weight of it, and I understood that I was holding something that had been meant to be found.
 
 ---
 
-I examined the three clocks more carefully.
+On the eighth day, I went to the lending library.
 
-I opened each one. I looked at the mechanisms. They were identical — the same make, the same period, the same maker. Hollis, the clockmaker from the 1770s. The wheels and springs and gears lay open before me, three copies of the same small world, stopped at different hours. One was stopped near noon. One near the middle of the night. One at an hour I could not read, the hands fallen loose.
+Marianne was at her table. She did not look up when I came in.
 
-I looked at the numbers inside the cases. I, III, IV. Scratched into the brass, faint but deliberate. I held them to the lamplight, tilting each case until the scratched line caught the glow. The same hand had made them. The same angle. The same pressure.
+"I need to find the other three clocks," I said.
 
-I did not know what the numbers meant. But I knew that they were not the order of manufacture. Hollis had made twelve clocks. Only four bore the first sign. The numbers were something else. Something added later, by the hand that had cut the mark, at the same time and for the same reason.
+She set down her pen. "I wondered how long it would take you to say that."
 
-I looked at the marks on the backs. The first sign, worn smooth on each one. The same circle. The same three lines. The same dot.
+"Can you help?"
 
-I had thought the first sign was the sign of the maker.
+She looked at me. "I can tell you where to look. I cannot tell you what you will find."
 
-But the clocks were made by Hollis, not by the maker of the first sign. The mark had been added after the clocks were built. Someone had taken four clocks, and had added the first sign to them, and had numbered them, and had sent them out into the world — one to the Fenns, one to the Harlows, one to the Wintours, one to the Langfords.
+She opened a drawer and took out a sheet of paper. It was a list, written in her neat hand — the names of the four families who had bought the clocks from Hollis, in the 1770s.
 
-I could not say who.
+"These are the original buyers," she said. "The records don't say what happened to the clocks after that. But two of the families still live in or near Ashford. The other two have disappeared from the records entirely."
 
-I could not tell for certain why.
+I took the list.
 
-But I knew that the four clocks were meant to be found. Not by anyone. By someone. The numbers were not for the families who kept the clocks. The families never opened them. The numbers were for whoever came after — whoever opened the cases and found the marks inside.
+"The Fenn family," I read. "The Harlow family. The Wintour family. The Langford family."
 
-And I had found three of them.
+"Fenn and Harlow still have descendants in the town," she said. "Wintour and Langford are gone — moved away or died out. If the clocks still exist, they are likely with the Fenns or the Harlows."
 
-Three clocks. Three numbers. Three signs.
+"Or they were sold," I said.
 
-I set them in a row again. I, III, IV. I left a space where the second should have been. The four clocks were a sequence, I thought, and the sequence was broken, and I did not know what it was counting toward.
+"Or they were sold," she agreed. "But the man who sold your clock to Theo Marsh — he said it had been in his family for years. It is likely, then, that the other clocks stayed with the families as well."
 
----
+I looked at the list. Fenn. Harlow. Wintour. Langford. Four names. Four clocks. Four chances to find the first sign.
 
-I went to the church that evening.
+I folded the list and put it in my coat.
 
-I had not been to the tower since the bell had rung. I had not needed to. The bell was silent. The key was in my drawer.
+"Thank you," I said.
 
-The church was dark. The door to the tower was unlocked, as it had always been for the keeper. I climbed the stairs. The steps were worn. The air grew colder as I rose, and the sound of the town below faded until there was nothing but my breath and the scuff of my boots on the stone.
+She nodded. She did not ask what I would do with the information. She did not ask why I was looking. She simply watched me leave, and I knew that she was curious, and I knew that she would wait.
 
-I stood in the bell chamber. The bell hung in the dark, silent, the first sign on its rim.
-
-I took out the object. I held it up to the mark on the bell.
-
-The object was warm.
-
-I had not held it to the bell since the winter. I had not needed to. The bell was the keeper's bell. The object was the first sign. They were connected. I had known that.
-
-I held the object against the first sign on the bell, and I thought about the clocks.
-
-The first sign was on the bell. The first sign was on the object. The first sign was on the clocks.
-
-The bell had rung once, in the winter, and I had not known why. I had thought it was the boundary, or the houses, or the door. But perhaps it had not been any of those. Perhaps the bell had rung because the keeping was not finished. Perhaps it had rung because there was something I had not yet been given — and the clocks were the giving of it.
-
-I had no way of knowing what the bell had to do with the clocks. I could not say whether it had anything to do with them at all.
-
-But I stood in the bell chamber, with the warm object in my hand, and I understood that the first sign was not a single mystery. It was a thread. A thread that ran through the object, and the bell, and the clocks, and the houses, and the chamber, and the place beneath.
-
-I had found three clocks. I had found the first sign on each of them.
-
-I could not tell for certain what it meant.
-
-But I knew that I was following the thread.
-
-And I knew that the thread would lead somewhere.
+I walked down the narrow stairs from the library room. The chandler's shop below was busy. I passed through it without seeing anyone. The list was in my coat. The first name was Fenn.
 
 ---
 
-I did not sleep that night.
+The Fenn family lived in a house on the western edge of Ashford, near the old toll road. I went there the following morning.
 
-I sat at my desk, with the three clocks before me, and I thought about the second clock. The woman in the dark coat had taken it, years ago. She had been looking for the clocks. She had known about them long before I had. She had stood at the door of the Fenn house and paid for the clock, and she had stood at the end of a lane and looked at the clock in my coat, and she had said that the object was lost long ago.
+The house was small, well-kept, with a garden in front and a low wall of mossy stone. An old woman answered the door. She was small and thin, with hands that had worked for many years, and she looked at me with the wariness of someone who had learned not to trust strangers.
 
-I had no way of knowing who she was. I could not say where she was. I could not tell for certain whether she was still looking.
+I asked about the clock.
 
-But I knew that I had to find her.
+She looked at me for a long moment before she answered. I could see her deciding whether to close the door. Then she stepped back, and I followed her inside.
 
-Not because she was the enemy. I did not know that she was. She had been hunting the clocks for longer than I had, and she had one of them, and if the four clocks were a sequence, then the sequence could not be completed without her.
+The house was neat. The furniture was old but cared for. There was a fire in the grate, and the room was warm. I sat where she gestured, and I waited.
 
-I opened the drawer. I took out the red book. I wrote:
+"The clock," she said slowly. "Yes. There was a clock. My grandfather had it. It sat on the mantelpiece for as long as I can remember."
 
-*I have three clocks. The second is missing. The woman in the dark coat took it. I do not know who she is.*
+"Where is it now?"
 
-*But I have three clocks. I have the first sign on all of them.*
+She was quiet. I could see her deciding how much to tell me.
 
-*I do not know what they are for. But I know that they are connected. And I know that I am meant to find the second.*
+"It was sold," she said. "Many years ago. My father sold it to a collector. A woman. She came to the house, looked at it, and offered him a price he could not refuse."
 
-*I will find her.*
+I felt a stillness settle over me.
 
-*I will find the second clock.*
+"A woman. Do you remember what she looked like?"
 
-*And I will learn what the four clocks are for.*
+"She was not young," the old woman said. "She wore a dark coat. She did not give her name. She looked at the clock for a long time, and she paid what my father asked, and she left."
+
+"Did she say anything about the clock?"
+
+The old woman was quiet a moment. She looked at the empty mantelpiece, as if she could still see the clock there.
+
+"She said something strange," she said. "She said the clock was one of four. She said she had been looking for them for a long time."
+
+I stood at the door. The woman in the dark coat. The woman who had been looking for the clocks. The woman who had been to the Fenn house, years ago, and had bought the clock.
+
+I did not know whether it was the same woman I had seen in the lane. But I knew that there was someone in Ashford — or someone who passed through Ashford — who knew about the clocks.
+
+I thanked the old woman. I left the house. I walked back through the streets of Ashford, and I thought about the four clocks, and the woman in the dark coat, and the mark on the back of the clock on my desk.
+
+I had found one clock. Someone else had found the second. I did not know who. I could not say where the clock was now. But I knew that I had to find the remaining two before someone else did.
+
+---
+
+I did not go to the Harlow house that day.
+
+I went home. I sat at my desk. I took out the broken clock, and I looked at the first sign on its back.
+
+The first sign. The mark of the maker. The mark that was older than the Order, older than the boundary, older than the wall. I had thought it was a single thing. A single mark, on a single object, in a single chamber. But it was not. It was a signature that had been placed on many things, across many years, and I had only just begun to see how many there were.
+
+The clock was one of four. The second was with the woman in the dark coat. The third and fourth were still out there. I could not tell for certain what the clocks were for. I had no way of knowing why the first sign was on them. I could not say who had added the mark, or why, or when.
+
+But I knew that I had to find them.
+
+I opened the drawer. I took out the red book. I had not written in it since the autumn. The account was full.
+
+I opened it to a new page.
+
+I wrote:
+
+*I have found a broken clock with the first sign on its back. It is one of four. The second was bought by a woman in a dark coat, years ago, from the Fenn family. The third and fourth are still out there.*
+
+*I do not know what the clocks are for. But I know that the first sign is on them. And I know that I am meant to find them.*
 
 I closed the red book. I put it back in the drawer.
 
-I looked at the three clocks on the desk. The first sign was on all of them. The numbers were inside them. I, III, IV. The second was a space on my desk, and a clock in the hands of a woman I could not find.
+I sat in the dark. The clock was on the desk before me. The first sign was on its back. I had been a keeper of the boundary, of the houses, of the bell. I had kept the account. I had kept the record. But the keeping had not ended. It had only changed shape.
 
-I was a keeper. I was a hunter.
+I had found one clock. I would find the others. I could not tell for certain whether the Harlow clock remained in Ashford, or whether the woman in the dark coat had reached it first. I only knew that an object could be hidden in plain sight for generations and still draw the attention of the wrong hands. In the morning I would go to the Harlow house — not because the answer was waiting there, but because leaving the question unanswered had become its own kind of risk.
 
-And the hunt was not over.
+I lay down, but I did not sleep. I lay in the dark, and I listened to the silence of the house, and I thought about the four families, and the four clocks, and the woman in the dark coat, and the first sign that was no longer a single mark in a single place.
 
-I had no way of knowing where the thread would lead. But I would follow it.
-
-I had three clocks.
-
-I would find the fourth — I had found the fourth; I meant the second. I would find the second clock. And I would find the woman in the dark coat.
-
-The three clocks sat together, and their three first signs were the map of something larger than any single keeper. The hunt was no longer mine alone.
+It was a thread. And I had begun to follow it.

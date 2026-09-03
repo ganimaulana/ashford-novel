@@ -1,103 +1,89 @@
-CHAPTER 82 — THE ORDER'S RETURN
+CHAPTER 82 — THE CHOICE
 
-The Order came to me in the spring. I had not seen them since the reckoning. I had not heard from them. I had kept the account, and I had kept the forgetting, and I had not thought about the Order. The spring had come, and the year had turned, and I had believed that the Order was finished with me — that they had watched, and seen, and gone, and that the keeping would go on without them.
+I did not sleep for three nights. I sat at my desk, with the red book open, and the agreement in the drawer, and the Tokens on the desk, and I did not sleep. The town slept; I heard it through my window — the last carts, the shutting of doors, the lamplighter's footsteps — and then the deep silence of the small hours, the first birds, the grey light, and still I sat at the desk, and I did not sleep. I was the keeper of the forgetting. I was the keeper of the remembering. And I could not yet tell what to do with them.
 
-I was wrong.
+I had understood that the agreement was the forgetting — the town's choice to see nothing, to speak of nothing, to forget the door and the sign and the bell and the place beneath. I had understood that the account was the remembering — the record I was writing, the record of what the town had agreed to forget. And I was the keeper of both.
 
-They came to my rooms in the middle of the day. I heard the knock — three strokes, deliberate, the knock of a hand that was used to being admitted. I opened the door, and the daylight came in around them, and I saw the three of them standing on the step: Graves, the woman with the ledger, and a third man whose name I was not told.
+I had been keeping the forgetting all my life, without knowing. I had been keeping the agreement — the agreement signed by Aurelius Ashcroft, the agreement that the town had made to forget. And I had been writing the account — the remembering — without knowing what it was. I was the keeper of both. And I had to choose. Not whether to keep them. But what to do with them.
 
-I let them in.
+On the first night I took out the agreement. I had not read it since the spring. It lay in my hands, old paper, old ink, the words of Aurelius Ashcroft, the agreement that the town had made to see nothing and speak of nothing and forget. I read it in the lamplight, and I read what the town had agreed to, and I tried to find in the words the reason for the agreeing — the thing the town had wanted so badly not to know that it had signed its own forgetting. The words did not tell me. They recorded the forgetting, and nothing more. The reason was not in the agreement. The reason was beneath.
 
-They stood in my room, the three of them, and the room felt small with them in it, the way a room feels small when it is suddenly full of people who are not there to be comfortable. They did not sit. They did not look at the chairs. They looked at the desk where the Tokens lay, and they looked at the drawer where the red book was kept, and they looked at me. The woman held the ledger against her chest, closed, the way one holds a thing one is accountable for. Graves stood with his hands at his sides. The third man stood a little behind the other two, and he did not look at me at all. He looked at the room, at the walls, at the window, as if he were counting the ways in or out.
+On the second night I read the account. I had written it, and still I read it as if it were another man's — the record of the bell, and the houses, and the passage, and the chamber, and the warmth, and the keeper before Vale, and the understanding that I was keeper of a place. I read what I had remembered, and I understood that the account was not a defense of the forgetting and not an attack on it. It was a record. It recorded what the town had agreed to forget, and it did not say whether the town had been right.
 
-"You have been keeping," the woman said.
+On the third night I sat with both before me, the agreement in my left hand and the account in my right, and I did not read either of them. I held them, and I felt their difference — the old paper, the old ink, the closed thing; the new paper, the new ink, the open thing — and I thought about the choice.
 
-"I have."
+I could keep the agreement. I could keep the forgetting. I could let the town forget, as it had forgotten, and I could keep the place beneath, as Vale had kept it, and as the keepers before him had kept it. I could keep the account. I could keep the remembering. I could write, and remember, and keep the record of what the town had agreed to forget. Or I could do something else. I could end the forgetting. I could give the town back its memory. I could tell them what they had agreed to forget.
 
-"You have been keeping the gear."
+I sat in the dark, and I thought about the choice, and I did not know which was right. The town had agreed to forget. The town had agreed for a reason. The keepers had kept the forgetting for longer than anyone could remember. And I was the keeper. I was the one who kept the forgetting. I was the one who would keep it, or end it.
 
-"I have."
+I did not know what the place beneath was. I could not say why the town had agreed to forget it. I could not tell for certain whether the forgetting was a protection, or a crime, or a mercy, or a lie. I sat in the stillness, and I had no way of knowing.
 
-"You have been keeping the bells."
+---
 
-I was silent. I had not rung the bell. I had not needed to ring it. But I had kept it — I had climbed the tower, I had put my hand on it, I had kept it the way it was kept. I did not deny it.
+On the third night, Crowe came to my rooms. I had not seen him since the autumn began. I heard his step on the stair before he knocked, and I knew it was him the way one knows the step of a man who has walked toward one's door many times and has never once been in a hurry. He stood in the doorway.
 
-"You have been to the tower," she said. "You have the key. You have been to the house at the end of the lane. You have been to the common. You have been to Goding's farm."
+"You have not left your rooms for three days," he said.
 
-I did not deny it. She had not asked a question. She had read a list, and the list was correct, and I did not need to confirm what they had already counted.
+"I have been thinking."
 
-"You have kept things from the Order," Graves said. His voice was lower than the woman's, and it came from deeper in him, as if the words had to travel a longer way.
-
-"I have kept what the keeper keeps."
-
-"The Order decides what the keeper keeps."
-
-"The Order decides nothing," I said. "The keeper keeps what is kept. The Order watches. The Order does not decide."
-
-They were silent. I had said this before, at the brewery, in the reckoning, and they had heard it then, and they heard it now, and there was nothing in the room but the sound of the spring wind at the window and the weight of the words between us.
-
-"You have changed," the woman said.
-
-"I have understood."
-
-"And what have you understood?"
-
-I looked at them. "The Order took the circle and made it theirs," I said. "The keeper's sign is older. The first sign is older still. The Order does not know the first sign. The Order does not know the bell. The Order does not know the houses. The keeper keeps what the Order does not know."
-
-Graves stepped forward. "That is not what the Order was made for."
-
-"The Order was made to watch," I said. "The keeper was made to keep. You have watched. I have kept. That is the difference."
-
-I looked at them. The woman's fingers moved on the edge of the ledger, and I saw that the ledger was not closed to me — she had left it open a finger's width, and there was writing on the page, small and regular, in a hand that was not hers. I did not read it. I did not need to read it. The ledger was their account of me, and I had my own account of them, and we were both keeping.
-
-"I will not give you the gear," I said. "I will not give you the key. I will not give you the Tokens. I will not give you the account."
-
-"We did not come to take them," the woman said.
-
-I looked at her. "Then why did you come?"
-
-"We came to see," she said. "We came to see whether you had kept what the keeper keeps."
+"I know." He came in. He looked at the desk — the red book, the Tokens, the drawer closed over the agreement — and his look took in all of it and gave none of it back. "I have been watching. I have seen you at the vestry, and at the bakery, and at the church. I have seen you walk the streets, looking at the town as if you are the only one who knows something."
 
 I was silent.
 
-"You have kept it," she said. "You have kept it all. The gear, the key, the Tokens, the account. You have kept the forgetting, and you have kept the remembering."
+"What is it?" he said. "What have you decided?"
 
-She looked at me.
+I looked at him. "I have not decided," I said. "I have understood."
 
-"You are the keeper."
+"Understood what?"
 
-I stood in the room. They had come to see. They had seen. I had not expected them to say it. I had expected them to watch, and to go, and to leave me to the keeping. But she had said the words out loud, in my room, in the spring light, and the words hung there like a thing that had been waiting to be named.
+"The agreement is the forgetting," I said. "The town agreed to see nothing, and to speak of nothing, and to forget. I am the keeper of the forgetting. And I am the keeper of the remembering — the account, the record of what the town agreed to forget."
 
-"The Order will not trouble you again," she said. "You are the keeper. We are the watchers. We will watch."
+Crowe was silent a long moment. He stood in the lamplight, and I could not read his face, and I had never been able to read his face, and I had never known whether that was because he was careful or because he was honest. "You are the keeper," he said. "You keep what the keeper keeps."
 
-They turned. They went out. The third man went last, and at the door he stopped, and he looked at me — the first time he had looked at me since he had come in — and he said nothing, and then he followed the others.
+"I keep both," I said. "The forgetting and the remembering."
 
-I stood in the room after they had gone. The daylight came in where they had stood, and the room felt larger, and emptier, and I understood that something had changed. The Order had come. The Order had seen. The Order had said I was the keeper. I did not know whether I trusted them. But I had not needed to trust them. I had needed to keep. And I had kept.
+"And you do not know what to do."
+
+"I do not know whether to keep the forgetting, or to end it."
+
+Crowe looked at me. "The town forgot," he said. "The town agreed to forget. The agreement was made by the keepers — by the men who kept the place beneath — so that the town could live without knowing what was beneath it."
+
+"Then the forgetting was a mercy."
+
+"Perhaps." He looked at me. "Or perhaps it was a lie. I do not know. The keepers kept the forgetting, and they did not know whether it was a mercy or a lie. They only knew that it was the keeping."
+
+I stood in the room. "The account," I said. "The remembering. What is it for?"
+
+"It is for the keeper," he said. "It is the keeper's own. The keeper remembers what the town forgets. That is the whole of it."
+
+"Then the keeper remembers alone."
+
+"Alone." He looked at me. "Unless he chooses to remember with the town."
+
+I stood in the room. The choice was before me. I could keep the forgetting. I could keep the remembering. Or I could end the forgetting, and remember with the town.
+
+"I do not know," I said. "I do not know whether the town is ready to remember."
+
+"Neither do I," he said. "But it is not for you to decide whether the town is ready."
+
+"It is not?"
+
+"It is for the town," he said. "The town agreed to forget. The town can choose to remember. You are the keeper. You keep the agreement, and you keep the account. You do not keep the town's choice."
+
+I stood in the room. Crowe had said what I had not understood. I was the keeper of the forgetting. I was the keeper of the remembering. I was not the keeper of the town's choice. The town had chosen to forget. The town could choose to remember. And I was not the one who would choose for them.
+
+I stood in the room, and I understood. The choice was not mine. The choice was the town's. And I was the keeper of both the forgetting and the remembering — so that when the town chose, the choice would be real.
+
+I went to my desk. I opened the drawer. I took out the agreement. I took out the account. I set them side by side on the desk. The agreement — the forgetting. The account — the remembering. And I understood that I was not meant to choose between them. I was meant to keep them both. To keep the forgetting until the town chose to remember. To keep the remembering so that the choice was possible. That was the keeping. And I was the keeper of it.
 
 ---
 
-I sat at my desk. I opened the red book. I wrote: The Order came today. They said I am the keeper. They will not trouble me again. I am the keeper. I kept.
+I did not end the forgetting that night, nor did I mistake delay for an answer. I returned the agreement and the account to the drawer, side by side. They did not resolve one another; they recorded the cost of either course. For the present, I would keep both—and make no claim that the town's silence belonged to me.
 
-But I did not write what I was thinking: that the Order had not asked what the keeping was for. They had not asked what the door held, or why the count had not run out, or whether the keeper was meant to understand. They watched. They did not ask. That was the difference between us. And I had begun to wonder whether they could not ask — whether the watching had gone on for so long that the question had gone out of them, the way a bell loses its note if it is only ever looked at and never rung.
+I sat in the dark, with the drawer closed, and I thought about what Crowe had said — that I kept the agreement and the account, but not the town's choice. It was a comfort, and it was also a weight. A keeper who keeps both the forgetting and the remembering keeps the door open for the town to walk through in either direction. But a town that does not know it has a door will not walk through it, and a keeper who waits for the town to choose may wait forever, keeping a choice that no one knows is theirs to make.
 
-I closed the red book. I put it in the drawer. I left the Tokens on the desk. And I sat in the dark, and I thought about the Order's visit.
+That was the difficulty I could not resolve. The account would not tell the town what it had forgotten unless someone read it to them. The agreement would not hold unless someone held it. And I was the one who held both — the remembering and the forgetting — and I could not yet tell whether holding them was the keeping, or whether the keeping demanded that I lay them down.
 
-They had come to confirm what they already knew: I would not yield the gear or the key. But they had also confirmed something else — that they could not compel me. The town was asleep, the bell was silent, and I was the keeper. The keeping was mine. It was the one thing the Order could not take, because it had never been theirs to give.
+I thought about Crowe, after he had gone. I had not asked him how he knew what he knew. I had not asked him how a man of the town had come to speak of the keepers and the keeping as if he had walked among them. I had not asked him what he wanted of me, or of the town, or of the door. He had told me the choice was the town's, and he had left, and I had sat in the dark, and I had not known whether he had come to help me or to watch me choose. He was an ally, I thought, or he was not. He was a friend of the keeping, or he was a man who had been waiting, like the rest of them, and who had chosen to wait close.
 
-But I understood now that the keeping was not a shield; it was a question that the town would one day have to answer for itself. I had always known that the town had agreed to forget. What I had not understood, standing in my room while the Order named me, was that the Order had agreed too. They had agreed to watch, and never to ask, and never to decide. The watchers had chosen their side of the boundary long ago, and the keeper had chosen his, and neither of them had ever been asked what the keeping was for.
-
-I sat in the dark, and I thought about the woman with the ledger. She had said I was the keeper, and then she had gone, and I had not seen her open the ledger once. She had carried it the whole time — through the reckoning, through the brewery, through my room — and she had never needed to read it. The ledger was not her memory. It was her proof that she was watching. And I had begun to wonder whether the Order watched the boundary, or whether the boundary watched the Order.
-
-That was what the visit had told me, more than they had intended. They had asked whether I had kept what the keeper keeps. They had not asked whether I understood it. They had not asked what it was for. And I had begun to wonder whether the Order knew what it was for — or whether they had been watching the boundary for so long that they had forgotten to ask. The Order watched. The keeper kept. And neither of them understood. Perhaps that was the whole of it. Perhaps that was why the count was still counting.
-
----
-
-I did not sleep well that night. I lay in the dark, and I listened to the town, and I turned over the visit the way a man turns over a stone he has picked up in a field. The Order had named me keeper, and the naming had changed something, and I could not yet say what.
-
-I thought about the third man, who had said nothing and looked at me only at the door. He had not come to see whether I had kept what the keeper keeps. He had come to see me. He had stood at the back of the room, counting the ways in and out, and at the door he had looked at me the way a man looks at a thing he has been sent to remember. I did not know who had sent him. I did not know what he would do with the remembering. The Order was not one thing; it was a door with many rooms behind it, and I had been shown only the first.
-
-I got up in the grey of the morning and I went to the drawer, and I took out the red book, and I looked at what I had written the day before. The Order came today. They said I am the keeper. I had written it as a record. I had not written that the keeping had become visible — that from now on there would be watchers who watched me, not the boundary, and that I would walk the town with their eyes on me the way I already walked it with the Tokens warm against my chest.
-
-I put the book back in the drawer. The Order had come, and the Order had gone, and the spring went on outside the window, and the town did not know any of it. The gear was in the drawer. The key was in my keeping. The account was written. And the keeping was mine, named now, spoken aloud in my own room, and I understood that a thing that has been named is a thing that can be called for.
-
-I did not know what the Order would do with the name they had given me. I did not know whether the third man would return. I only knew that the spring had come, and the year had turned, and I was the keeper — not in secret any longer, not in the way I had been before, but in the way that is known. And I wondered whether the knowing would make the keeping easier, or only make it watched.
+I sat in the dark until the lamp burned low, with the drawer closed and the Tokens warm on the desk, and I understood that the keeping would not give me an answer. It would give me only the question, held carefully, until the town was ready to ask it for itself. And I would hold it. I would hold it the way the clerk held his blanks, the way the keepers had held the margins, the way the agreement had been held since Aurelius Ashcroft put his name to it. I would hold the question, and I would not answer it for the town, and I would wait to see whether the town ever came to ask.

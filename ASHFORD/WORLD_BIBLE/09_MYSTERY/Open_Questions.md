@@ -141,7 +141,7 @@
 
 **Hidden-organization layer (Layer 3):** Leon's membership in the secret organization is governed by the four-layer architecture in `Leon_Ashcroft.md`. The civic Watchman role and the Layer 3 role are separate identities; the chapter prose ("Then you shall keep watch") is read as a civic-framed phrase that does not collapse the two.
 
-**Keeper (guardianship):** Leon's formal guardianship title under the Agreement, established at the end of Ch 47 with the death of Thomas Vale. Per Phase 3H D4 (2026-09-01): "Keeper" is distinct from both the civic Watchman and from any hidden-organization layer. The Keeper role is layered — public (former civic Watchman), private Layer 3 (member of the secret organization), and Keeper (guardian of the sealed door beneath the mill, under the Agreement).
+**Keeper (guardianship):** Leon's formal guardianship title under the Agreement, established at the end of Ch 51 with the death of Thomas Vale. Per Phase 3H D4 (2026-09-01): "Keeper" is distinct from both the civic Watchman and from any hidden-organization layer. The Keeper role is layered — public (former civic Watchman), private Layer 3 (member of the secret organization), and Keeper (guardian of the sealed door beneath the mill, under the Agreement).
 
 **Boundary:** old property line with stones/door; origin and purpose unresolved.
 

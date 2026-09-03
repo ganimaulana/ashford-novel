@@ -1,175 +1,168 @@
-﻿CHAPTER 60 — THE SEVERANCE
+CHAPTER 60 — THE NINETEENTH SIGN
 
-They came for the gear on the fourth day.
+I waited three days for the house to appear.
 
-I had known they would come. I had told Crowe I would not give it to them, and Crowe had told the Order, and the Order had decided, and the Order would not let the matter lie. They had sent one of their number to my rooms, in the morning, with a message that I was to attend them at the brewery.
+It did not come on the first night, nor the second. On the third night I went to the common before the light failed, and I sat at the edge of the grass, in the cold, and I watched the place where the house had stood, and I waited.
 
-I did not attend them at the brewery. I went to the common.
+I did not think about the Order. I did not think about the stranger. I thought about the signs — the signs on the wall, the signs in the margins of the book, the signs in the passage — and about what they were counting, and about whether I would recognize the answer when I saw it.
 
-I crossed the grass in the grey morning light, and I stood at the edge of the pressed floor, and I waited for the house. It did not come. I had not expected it to come. I had not come to the common for the house. I had come to the common to think, away from the town, away from the Order, away from the room where the message had been left on my table.
+The house appeared at dusk.
 
-I stood at the edge of the common and looked at the place where the house had stood, and I thought about the sign. The keeper's sign. The line and three strokes. The sign that was older than the circle.
+It did not fade into view. It was there, as it had been before, standing at the edge of the common where the grass met the pasture, its windows dark, its front door open.
 
-I had remembered it. I had remembered what I was keeping.
+I crossed the common. I did not stop at the threshold. I did not look at the clock, stopped at 00:00.
 
-And I had decided, standing at the edge of the common, that I would not give the gear to the Order, and that I would not open the door, and that I would not let the Order open it.
+I knelt, lifted the edge of the front mat, pulled the iron ring, and opened the trapdoor.
 
-The Order had decided that I was not the keeper. The Order had decided that the door should be opened. The Order had decided that the gear should be taken.
+The darkness rose. The smell of earth and stone and old iron.
 
-I had decided otherwise.
-
----
-
-I went to the brewery in the afternoon.
-
-Not because they had summoned me. Because I had chosen to go.
-
-The room above the brewery was lit by a single lamp, as it had been before. The table was set. The chairs were filled — Graves at one end, the woman with the ledger at the other, and the others between them.
-
-Crowe was not there.
-
-I stood at the head of the table, as I had stood before. No one offered me a chair.
-
-"You were summoned," Graves said.
-
-"I was." I did not sit. "I have not come because I was summoned. I have come to tell you what I have decided."
-
-"Decided?" The woman with the ledger looked up. "The Order does not ask the one who holds the gear to decide. The Order decides, and the one who holds the gear obeys."
-
-"The Order does not sign the Agreement," I said. "Aurelius Ashcroft signed it. He is dead. I hold the gear. I decide what is kept."
-
-There was a silence.
-
-"You have the gear," Graves said.
-
-"I have the gear."
-
-"It was not given to you."
-
-"I found it at the mill," I said. "What Vale gave me was a box, and his letters, and his papers, and two bottles I cannot read the labels of. He did not say the gear was in the keeping of anyone. He said the box was his, and that there was no one to leave it to."
-
-"He had no right to place it where you would find it."
-
-"You say that because you want it." I looked at her. "The Order did not know the gear existed until I stood in this room and said so. A thing you did not know of is not a thing you were keeping."
-
-"We have decided you are not the one who holds the gear."
-
-"You have decided." I looked around the table. "But you do not decide that. The gear decides. The sign decides. The memory decides. You have decided that I am not the keeper, and you have decided that the door should be opened, and you have decided that the gear should be taken — but you have not decided what the door is for."
-
-The woman with the ledger was very still.
-
-"The door is a door," she said. "It was made to be opened. It has been closed too long. The boundary is failing. The stones are moving. The count is running out."
-
-"The count is not running out," I said. "Or if it is, I do not know what it is counting. I have walked the passage. I have counted the signs. There are signs on every stone of the wall, and signs in the margins of the vestry book, and signs that have been kept for longer than the Order has existed. But I have not found a single person who can tell me what they mean."
-
-"Kept by whom?"
-
-"By the keepers," I said. "By Vale. By the keepers before him. By the hand that set the wall, and the hand that carved the sign, and the hand that drew the map. The signs are not a count of years. They are a record — a record of everything done to the wall, so that nothing can be changed without the record showing."
-
-Graves leaned forward.
-
-"And the door?"
-
-"The door is not a door," I said. "Or perhaps it is. I have been told both things, and I have no way to prove either. I know only that the Agreement says it was meant to be closed — and that the Agreement may have been written by a man who did not understand what he was signing."
-
-"It was meant to be opened," the woman said. "It was made to be opened. The gear was made to open it."
-
-"The gear was made to open it," I agreed. "But it was not made to be used. It was made to be kept — kept as a sign, kept as a memory, kept so that the keeper would know that the door existed, and that it was not to be forgotten."
-
-There was a long silence. I could not tell whether I had reached them. I could not tell whether they had heard me, or whether they had heard only that I was refusing them.
-
-"You have chosen," Graves said at last. "You have chosen the sign over the Order."
-
-"I have chosen what the sign keeps."
-
-"And the gear?"
-
-"The gear stays with me."
-
-"And the door?"
-
-"The door stays closed. It is not opened but remembered. That is what the sign says. That is what I am keeper of."
-
-I turned. I walked to the top of the stairs.
-
-"You will regret this," Graves said behind me.
-
-"Perhaps." I did not turn. "But the regret will be mine, and the keeping will be mine, and the door will be closed — not because the Order told me, and not because I am afraid, but because the sign says that is what must be remembered."
-
-I went down the stairs. I did not look back.
+I lit a candle and descended.
 
 ---
 
-Crowe was waiting for me in the street.
+The passage was as I had left it — the stone walls, the worn floor, the keeper's signs cut into the stone at intervals, one after another.
 
-He stood in the shadow of the brewery wall, in the failing light, and he did not speak until I reached him.
+I had counted them before, in the candlelight, and I had lost count around nineteen. I would not lose count this time.
 
-"I heard," he said.
+I stopped at the first sign and put my hand to it. The line and three strokes, cut deep into the stone. I had thought it was fresh, the first time I had seen it. Now I knew it was not fresh — it was old, and the stone had been cut with a tool that had been used many times, and the edges of the cut had been worn smooth by the passage of years.
 
-"Then you know what I decided."
+I took a piece of chalk from my coat. I had brought it from my rooms, from the drawer where I kept the parish accounts, where the chalk was used to mark the pages of the ledger before the ink was set.
 
-"I know what you told them." He looked at me. "You told them the door is a sign. You told them the count is not a count. You told them you would not give up the gear. And you told them you hold the gear, and they do not."
+I marked the first sign with a small cross.
 
-"I did."
+Then I walked to the second sign, and I marked it. The third. The fourth.
 
-"You have made enemies," he said. "Graves will not forget. The woman will not forget. The Order will not forget that you stood at their table and told them they did not decide who is keeper."
+I moved along the passage, marking each sign as I passed it, counting them aloud, keeping my hand on the wall.
 
-"I know."
+Seven. Twelve. Fifteen.
 
-"And you do not care."
+At the eighteenth sign, I stopped.
 
-I was silent a moment.
+The passage had turned, as it had before, and the light of my candle fell on the wall ahead of me, and I saw the nineteenth sign.
 
-"I care," I said. "But I have held the gear for a month, and I have spent that month trying to understand what I am keeping. I have walked the passage. I have counted the signs. I have found the nineteenth sign, and the eastern marker, and the map, and the words in the margin. And I have understood that the door is not a door, and the count is not a count, and the sign is not a key."
+It was different.
 
-"Then what is it?"
+The same line. The same three strokes. But the strokes were not the same length. The middle stroke was longer — longer by the width of a finger, longer in a way I had not noticed before, because I had not been counting, I had been looking at the marks as if they were all the same.
 
-"It is a memory," I said. "A memory of what was set in the earth, long ago, beneath the eastern marker, beneath the wall, beneath the town. And I am the keeper of that memory."
+I stood in the passage, in the candlelight, and I looked at the nineteenth sign.
 
-Crowe was silent a long moment.
+The line and three strokes — the keeper's sign — but with the middle stroke extended, crossing the line, forming a shape I had not seen before.
 
-"Then you will keep it," he said. "Alone."
+A line, and three strokes, and the middle stroke crossed the line.
 
-"I will keep it," I said. "Alone, if I must."
+I put my hand to it. The stone had been cut differently. The tool had been different. The hand that had made this sign had been different from the hand that had made the others.
 
-He looked at me. Then he nodded, slowly, and turned, and walked away down the street, into the dark.
+I stood in the passage for a long time, looking at the nineteenth sign, and I understood that I had been wrong about the signs.
 
-I stood in the shadow of the brewery wall, in the failing light, and I watched him go.
+They were not all the same. They were not a count of years.
 
-I had made my decision. I had told the Order that they did not decide who was keeper. I had told them that the door was not a door, and that the sign was a memory, and that I would keep it. And I had told Crowe that I would keep it alone, if I must.
+They were a message — a message carved into the stone, one sign at a time, by a hand that had wanted to be followed.
 
-I could not yet tell whether I had done the right thing. I could not say whether the sign was a memory, or whether I had merely told them what I needed to believe.
-
-But I had chosen. And the choosing, I understood, was the whole of holding the gear.
+And the nineteenth sign was different. The nineteenth sign was a change.
 
 ---
 
-I went home in the dark. I sat at my desk. I did not light the lamp.
+I walked on.
 
-I opened the drawer, and I took out the agreement, and I took out the map, and I took out my notebook, and I placed them on the desk before me. Then I took out the gear. I set it in the middle of the desk.
+The passage turned again, and the signs continued, and I marked each one as I passed it, counting them aloud, not losing count.
 
-I looked at it — the circle, the short line. The sign of the Order. The sign that was not the keeper's sign. The sign that the Order had taken and made their own.
+Twenty-two. Twenty-seven.
 
-I had told the Order that the door was not a door. I had told them that the sign was a memory. I had told them that I was the keeper, and they were not.
+I reached the door.
 
-And I had chosen to keep it alone.
+The door was as I had left it — sealed, with the depression for the gear, the keeper's sign above it, the circle below it, worn smooth by years.
 
-I sat in the dark, with the gear before me, and the agreement, and the map, and the notebook, and I thought about what I had done.
+I looked at the sign above the depression. The keeper's sign. The line and three strokes. The strokes were the same length.
 
-I had severed myself from the Order. I had refused them the gear. I had refused them the door. I had told them that I was the keeper, and that I would keep what the sign kept. And I had chosen to do it alone.
+I looked at the sign below the depression. The circle. The short line.
 
-I did not know what would come of it. I did not know whether the Order would come for the gear, or whether they would leave me be, or whether they would find another way to open the door.
+I had thought, before, that the two marks were the same thing — two signatures, two keys, two sides of the same door. I had been wrong.
 
-But I knew that I had chosen. And I knew that the choice had changed everything.
+The keeper's sign was above the depression. The circle was below it.
 
-The Order was not behind me anymore. I was alone. And the sign — the keeper's sign, the line and three strokes, the sign that was older than the circle — was the only thing I could keep.
+The keeper's sign was the key. The circle was the lock.
 
-I sat in the stillness until the hours grew late. I did not write in my notebook. There was nothing to add. I had chosen. And the choosing was the whole of it.
+And the nineteenth sign — the sign with the middle stroke extended, crossing the line — was the sign that marked the place where the key and the lock met.
 
-The door was still closed. The gear was still mine. The sign was still kept.
+---
 
-And the count — whatever it was counting — was not running out. It was waiting.
+I did not open the door.
 
-And I would be there when it was time to remember it.
+I stood in the passage, in the candlelight, and I looked at the door, and I thought about the nineteenth sign, and about the hand that had carved it, and about the message that had been left for me — or for someone — in the stone.
 
+I could not yet tell what the message said. I could not say who had carved it.
+
+But I knew that the signs were not a count. They were a path. And the nineteenth sign — the sign that was different — was the sign that marked the place where the path changed.
+
+I turned. I walked back along the passage, past the signs I had marked with chalk, counting them in reverse, the candle burning low.
+
+Nineteen. I stopped at the nineteenth sign. I looked at it again.
+
+The line. The three strokes. The middle stroke extended, crossing the line.
+
+I had not seen it before. I had been looking at the signs as if they were all the same. I had been wrong.
+
+I put my hand to the stone.
+
+The middle stroke was longer. The middle stroke crossed the line. And at the end of the cross — where the two lines met, where the stone had been cut deepest — there was a mark.
+
+A small circle. A circle, cut into the stone at the point where the middle stroke crossed the line.
+
+I had not seen it before. I had been looking at the sign, and I had not looked at the point where the lines crossed.
+
+I held the candle closer.
+
+The circle was small — the size of the tip of my smallest finger — and it was cut deep, deeper than the lines, as if the hand that had made it had wanted to be certain that it would not be erased.
+
+A circle. At the point where the keeper's sign crossed.
+
+I stood in the passage, in the candlelight, and I looked at the small circle, and I understood.
+
+The keeper's sign was the path. The circle was the point.
+
+The keeper's sign showed the way. The circle showed the place.
+
+And the door — the door beneath the mill, the door beneath the common, the door that opened from both sides — was not the door to the thing beneath Ashford.
+
+The door was the marker. The door was the place.
+
+The thing beneath Ashford was not behind the door. The thing beneath Ashford was beneath the door.
+
+And the door was not the seal. The door was the sign.
+
+---
+
+I climbed the ladder. I closed the trapdoor. I replaced the mat.
+
+I crossed the common, and the house was still there, standing at the edge of the grass, and I did not look back.
+
+I walked home through the streets of Ashford, and I sat at my desk, and I opened my notebook, and I wrote:
+
+The nineteenth sign is different. The middle stroke crosses the line. At the point where it crosses, there is a small circle — cut deep, not worn smooth.
+
+The keeper's sign is the path. The circle is the point. The door is not the seal. The door is the sign.
+
+I have been standing at the wrong door. I have been watching the seal, thinking the thing was behind it.
+
+The thing is not behind the door. The thing is beneath it.
+
+And the door is not the lock. The door is the marker. The marker that shows where the keeper's sign and the circle meet.
+
+I do not know what that means. I do not know who carved the nineteenth sign differently.
+
+But I know that I have been walking the passage, and I have been counting the signs, and I have been looking at the door, and I have not been looking at the point where the passage crosses.
+
+I have been keeper for a month. I have been watching the wrong thing.
+
+I closed the book. I put it in the drawer, with the agreement, beneath the parish account.
+
+Then I took the gear from my coat and held it in my hand, and I looked at the circle and the short line, and I understood that I had been wrong about it, too.
+
+The gear was not the lock. The gear was the marker — the same as the door, the same as the wall, the same as the nineteenth sign. A marker of the place where the keeper's sign and the circle crossed.
+
+I did not know what it meant. I did not know what would happen when I found the place.
+
+But I knew that I would find it.
+
+And I knew that the count was not running out. The count was leading somewhere.
 

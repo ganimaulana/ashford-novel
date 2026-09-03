@@ -1,81 +1,147 @@
-﻿CHAPTER 120 — THE KEEPER OF THE TALLY
+CHAPTER 120 — THE PLACE OF THE COUNTING
 
-I did not know who was keeping the tally.
+I searched for the place of the counting through the winter.
 
-I had known it for three days, since the morning I knelt in the chamber and found the mark at the centre of the first sign. I had returned to the boundary each night, and to the chamber each dawn, and the marks had not changed, and the silence had not broken, and the hand that had made them had not shown itself. The marks were there. They were finished. And I had no way of knowing when the next one would appear.
+I could not yet tell what I was looking for. I knew only that the records of the counting were in the place the counting was made, and that the place was not the Academy, and not the vestry, and not the chamber beneath Bellweather House. I had asked Daniel, and Daniel did not know. I had asked the clerk, and the clerk had looked at me the way he looked at the marks in the margins of the wardens' book — as if I had asked him to count something it was not his business to count.
 
-I went back to the book of the first keeper.
+I searched the records. I searched the maps. I searched the old books, and the old letters, and the old papers. I went to Arthur's shop, where the papers were kept that no one else thought to keep, and I went through the bundles on the shelves, and I did not find a place of the counting in any of them.
 
-I had not read it through since the tally had begun to trouble me. I had opened it only to the first page, the page of marks, and I had let the rest of it sit unread while I focused on the number. Now I opened it again, to the last page, and I read the sentence I had already read many times, the sentence the first keeper had written at the end of his account, in a hand that had grown careful with age:
+I looked for a place older than the town — a place where the first keeper might have made the count, before the boundary was set, before the sign was carved, before the house was built. I looked for a name that appeared only once, for a map that had a mark no other map had, for a mention in a margin of a room, or a hollow, or a stretch of ground where a man might have sat for years, marking one stroke for each year of a count he did not understand.
 
-I have kept my word. I have kept the keeping. I have erased myself so that the keeping will be kept for its own sake, and not for mine.
+I did not find it.
 
-I read it again, and I understood that I had been reading it wrong.
+The winter was long, and the cold was deep, and I carried the number in my notebook wherever I went, and I did not find the place.
 
-I have erased myself. I had always thought it meant that he had removed his name from the records — that he had burned his history, left no trace of who he was, vanished into the keeping like a stone dropped into a river. And I had been right. But it was not only that. He had erased himself, but he had not erased the tally. The tally had survived. The marks had been preserved, copied, passed down through the oldest book of the Academy, through Ferrand's notebook, through the keeping of the boundary itself. The first keeper had erased his own name, but he had left the count, and the count was the thing that mattered. The tally was not the record of the keeper. It was the record of the keeping. And the keeper was not the same as the keeping.
+---
 
-I closed the book. I went to see Elias.
+On a night in February I went to the reading room.
 
-He lived on the lane past the mill, where the road narrowed and the ground rose toward the common, and his house stood at the end of it, half-hidden by the wall of the old orchard. He let me in without speaking, the way a man lets in someone he has been expecting, and I stood in his room among the objects without history.
+I had not been called. I had not been asked. I went because I wanted to think, and because the reading room was the room where I had thought best, in the lamplight, with the town shut out below me.
 
-The objects were everywhere — on shelves, on the table, on the floor by the cold hearth. Things that had been scrubbed, sanded, worn down until no mark of their origin remained. A box with its hinges polished blank. A piece of metal that might have been a lock or a latch or a key to something that no longer existed. They were the things that had been erased, and Elias kept them, and he knew what each of them was, though he would not tell me how he knew.
+The room was as I had left it — bare, with a single lamp on a table. The key to the reading room was in my pocket, and I set it on the table, and I sat in the chair, and I thought.
 
-"The tally," I said. "The marks in the book of the first keeper. You know them."
+I thought about the count.
 
-"I know them."
+I had read the book of the first keeper. I had counted the tally. I had written the number. I had searched for the place of the counting, and I had not found it. I did not know where the first keeper had made the count. I had looked for it everywhere I knew to look, and I had not thought to look at the room I was sitting in — the room above the chandler's shop, the room that had been locked for seventeen years, the room where the society met. The room where I had taken the first test.
 
-"You have known them for years."
+I had never asked what the room had been, before the society had taken it.
 
-"Yes."
+I stood.
 
-I stood in the lamplight, among the erased objects, and I told him what I had found. I told him about the hairline mark on the fourth stone, and about the mark at the centre of the first sign in the chamber, and about the second, smaller mark I had discovered that morning on the corner stone where the wall turned — a fresh mark, not there in the autumn, cut into the stone at the corner as cleanly as the others.
+I looked at the walls. I looked at the floor. I looked at the room. It was bare. There was nothing in it but the table, the chair, and the lamp. I had been in this room a dozen times, and I had never looked at it as a room — as a thing with a history, with a use, with a man behind it. I had looked at it as a place of tests, and I had not asked who had built it, or why, or what had been done here before the bare walls and the single lamp.
 
-I had not meant to tell him about the corner stone. I had not been certain of it myself until I had knelt there and run my finger along the line and felt the newness of it, the edge of the cut still sharp, the stone dust still caught in the grain of the rock. A mark that had been made in the winter, while I was indoors, while I was counting the number and thinking I understood it. A mark made while I was looking at the tally instead of the stones.
+I knelt. I looked at the floorboards.
 
-Elias was very still.
+They were old. They were worn. They were the floorboards of a room that had been used for a long time, and then locked for seventeen years. The wood had the deep, dark polish that comes from years of being walked on, and there were places where it had worn smooth, and places where the grain stood up in ridges, and I ran my hand across them, the way a man runs his hand across a thing he is trying to read.
 
-"The marks are being added to," I said.
+And I found the mark.
 
-He did not speak. He was not a man who spoke quickly. He was the keeper of the erased, the keeper of the book of origins, and he had spent his life with things that had been stripped of their histories, and he knew better than anyone that what is left behind is often more important than what is taken away.
+It was on the floorboard beneath the table, hidden, almost invisible — a mark worn smooth by years of being stood on, by boots that had stood over it without ever knowing it was there. It had been worn almost away, and I had almost missed it, and I did not miss it.
 
-"The tally is being kept," he said at last. "Not by the first keeper. Not by any keeper you know. It is being kept now."
+A circle.
 
-"It is being kept now," I said. "I have seen the marks. They are new. They were not there in the autumn, and they are there now."
+Three lines through it.
 
-"Then there is someone keeping the tally."
+A single dot.
 
-"Who?"
+The first sign.
 
-He looked at me, and in his face I saw the same stillness I had seen in Ysabel's face when I had told her about the number. The stillness of a hunter who has been tracking a thing for so long that he has forgotten what it will look like when it finally appears.
+I knelt, in the lamplight, and I looked at the first sign on the floorboard, and I understood that I had not been looking for a place older than the town. I had been looking in the wrong direction. The place of the counting was not older than the town, or beyond it, or hidden under the fields. It was here, under the feet of everyone who had ever come to the reading room, under the table where the society had met for seventeen years, worn smooth by the boots of men and women who had stood over the mark of the maker and never once looked down.
 
-"I do not know," he said. "I have collected the objects that were scrubbed of their origin. I have kept the book of the first keeper. I have looked at the tally, and I have counted the marks, and I have not known what they were counting. I thought the tally was a record of the past — a count of the years the keeping had stood. I was wrong."
+The first sign. The mark of the maker.
 
-"No one knew," I said. "The first keeper called it years. Ferrand called it years. I called it years."
+On the floor of the reading room.
 
-"The first keeper called it years because he did not know what else to call it," Elias said. "He left the tally, and he left the sign, and he left the boundary, and he erased himself so that nothing would be mistaken for a name. The tally was the thing. The keeper was not. And the tally is being kept, in your time, in your keeping, by a hand you have not seen."
+I did not know what it meant. But I knew that I had found something.
 
-I stood in his house, among the objects that had been erased, and I understood.
+---
 
-If the tally was being kept, then the count was not complete. And if the count was not complete, then the keeping was not finished. And if the keeping was not finished, then I was not the last keeper. There would be others. There would be more marks. The tally would go on being kept, and the boundary would go on standing, and the keeping would pass to someone after me, as it had passed to me from Vale, and to Vale from the keeper before him, through all the keepers whose names had been erased from the records.
+I went to see Adeline Brume.
 
-"I am not the last keeper," I said.
+She was at the lending library, at her table, as if she had been waiting for me. The lamp was burning, and her hands were folded on the ledger, and she looked up when I came in, and I saw that she had been expecting me, or someone like me, for a very long time.
 
-"No," Elias said. "You are not the last."
+"The reading room," I said. "The room above the chandler's shop. What was it, before the society took it?"
 
-We looked at each other in the lamplight, and I did not know what to say. I had thought, when I took up the keeping, that I was part of the end of something — that the bell would ring, and the count would complete, and the keeping would close. I had been wrong. The keeping was not closing. It was still being written, one mark at a time, and I was not the final hand.
+Adeline looked at me a long moment.
 
-I walked home through the dark streets, and the cold had settled into the town, and the stars were hard and bright above the rooftops. I sat at my desk, and I opened the red book, and I wrote:
+"Why do you ask?"
 
-The tally is being kept. There are marks on the stones — marks on the fourth stone, marks on the corner stone, marks on the floor of the chamber. Marks that have appeared, and that have not grown, and that have not changed. Someone is adding marks to the count. I do not know who. The keeping is not finished. The count is not complete. I am not the last keeper. The tally will continue until it is finished.
+"Because there is a first sign on the floorboard beneath the table," I said. "The mark of the maker. And I need to know what the room was, before the society took it."
 
-I closed the red book, and I sat in the dark, and the full weight of what I had learned settled onto me.
+Adeline was silent. I saw her hands move on the ledger, and then still, the way a person's hands still when they have decided to answer a question they have carried for a long time.
 
-The keeper of the tally was not the keeper of the keeping. He kept the count, but he did not keep the boundary, or the door, or the bell, or the houses, or the Tokens. He kept the marks. He kept the record of the keepers, the way the clerk keeps the register of the town. And I — I kept the keeping itself. The boundary. The door. The bell. The account. The gear. The chamber. The life.
+"The room was not always the society's," she said. "It was taken, seventeen years ago, from a man who had used it for a purpose the society did not ask about."
 
-The tally was the record of the keeping. The keeping was the life. And the two were not the same.
+"What purpose?"
 
-I sat in the stillness, and I understood that I would have to find the keeper of the tally. Not to challenge him, and not to stop him, and not to learn what the count was counting — though I would learn that too, if I could. But to learn who I was in it. The tally was the record of the keepers. And I was a keeper. The count of the marks, the fixed number that had never changed, the number that was counting the keepers and the signs they had found — I was part of it. And I would not know the shape of my own part until I saw the hand that was keeping the whole.
+"I do not know," she said. "The man died, and the room was locked, and the society took it, and no one asked what it had been used for. I have sometimes thought that was the whole of the society's way — to take the rooms and the records and the keepings, and not to ask what they were for, because asking was how the trouble began."
 
-I did not know who he was. I did not know where he came from. I did not know whether he was a man at all, or something older, or something that had been waiting since the first keeper set the boundary. But I knew that he was real. The marks were real. The cuts in the stone were fresh.
+"The man," I said. "Who was he?"
 
-I would find him. I would watch the boundary, and the chamber, and the places where the marks lived. I would watch, and I would wait, and I would be ready for the night when the hand came again.
+Adeline was silent a moment. The lamp burned between us. I had the sense that I was standing at the edge of something she had not meant to show me, and that she had decided, in the moment, to show it.
+
+"His name was Ferrand," she said. "Marcus Ferrand."
+
+I stood very still.
+
+Marcus Ferrand.
+
+The constable before Vale. The man who had disappeared from the records. The name I had been given in the third test. The name I had looked for, and not found, and concluded had been deliberately removed.
+
+"Marcus Ferrand," I said. "The constable before Vale."
+
+"He was a constable," Adeline said. "He was also a member of the society. He used this room. And when he died, the room was locked, and the society took it."
+
+I stood at the table. The pieces were coming together in a shape I could not yet name. The third test had been a name. The name had been Marcus Ferrand. I had looked for him, and I had found nothing, and I had concluded that he had been deliberately removed from the records. And now I had found that he had used the reading room — the room with the first sign on the floorboard. The room where the society met, seventeen years, standing on the mark of a man whose name they had not asked for.
+
+Marcus Ferrand had used the room where the first sign was.
+
+I could not say what that meant.
+
+But I knew that it was connected. The name and the room and the mark were the same door, seen from different sides, and I had walked through one of them without knowing the door was there.
+
+---
+
+I went back to the reading room that night.
+
+I knelt on the floor. I looked at the first sign on the floorboard. The mark of the maker, on the floor of the room Marcus Ferrand had used. I could not tell for certain why it was there. I had no way of knowing what Marcus Ferrand had used the room for. I could not say whether he had made the mark, or found it, or kept it, the way the first keeper had kept the boundary and the sign at the base of every stone.
+
+But I knew that the room was connected to the count.
+
+The first sign on the floorboard. The first sign on every stone. The first sign on the floor of the chamber. The first sign on the object. The first sign was everywhere, and the first sign was the language of the count, and I had spent the winter looking for the place of the counting and I had been standing on a piece of it for two years without knowing.
+
+I knelt in the reading room, in the lamplight, and I understood that I had found a piece of the place of the counting.
+
+Not the whole place. Not the beginning. But a piece.
+
+And I would find the rest.
+
+I went home, and I sat at my desk, and I opened the red book, and I wrote:
+
+*There is a first sign on the floorboard of the reading room. The room was used by Marcus Ferrand — the constable before Vale, the man who disappeared from the records.*
+
+*I do not know what the room was used for.*
+
+*But I know that it is connected to the count.*
+
+*The first sign is everywhere. The first sign is the language of the count.*
+
+*I will find the place of the counting.*
+
+*I will find Marcus Ferrand.*
+
+*And I will learn what the count is counting.*
+
+I closed the red book. I sat in the dark.
+
+The reading room had been locked for seventeen years. Marcus Ferrand had used it for a purpose no one had asked about, and then he had vanished from the records, and the society had taken the room after his death, and no one had asked what the room was for. The first sign on the floorboard was worn smooth by seventeen years of boots that did not know what they stood over.
+
+I did not know what the room had been. I did not know what Ferrand had done in it. But I understood that the room was a piece of the place of the counting — that the man who had used it had been part of the keeping, and that the society, without knowing it, had been standing on a piece of the count the whole time they had been preserving its secret.
+
+I had found the name in the third test. Now I had found the room. And I understood that the name and the room were the same door, seen from different sides — and that Marcus Ferrand, whatever he had been, had not vanished. He had been removed. And I meant to find out by whom.
+
+But that was a question for the morning. For now I sat in the dark, and I looked at the mark in my mind — the circle, the three lines, the dot — and I understood that I had been closer to the place of the counting than I had ever known. It had been beneath my feet the whole time, worn smooth, waiting for a keeper who would finally look down.
+
+And in the morning I would go to the man who kept the records that were not written down.
+
+I would go to Calloway.

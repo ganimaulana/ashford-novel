@@ -9,13 +9,13 @@
 
 ## 0. CANON AUDIT RESULTS (required before design)
 
-### CONFIRMED (manuscript Ch 1–137)
+### CONFIRMED (manuscript Ch 1–141)
 - Ch 36: Leon finds **the gear** under the Mill Lane clock. Initial interpretation: a clock part / found object.
 - The gear fits a depression in the stone door beneath the mill; the door opens an inch.
-- Ch 53: the gear is the **lock/marker, not the key**; the keeper's sign is the key.
+- Ch 57: the gear is the **lock/marker, not the key**; the keeper's sign is the key.
 - **Two gears exist** in canon: Leon's gear, and a gear in Vale's box (`FINAL_MYSTERY_LEDGER.md` §2).
-- Ch 125: Leon passes **the gear** to Daniel Wren with the book of the keeping and the Agreement. Leon no longer possesses it.
-- The Door = stone door beneath the mill (Ch 38); "not opened but remembered"; kept closed. The place beneath is beneath the chamber, not behind the door (Ch 75).
+- Ch 129: Leon passes **the gear** to Daniel Wren with the book of the keeping and the Agreement. Leon no longer possesses it.
+- The Door = stone door beneath the mill (Ch 38); "not opened but remembered"; kept closed. The place beneath is beneath the chamber, not behind the door (Ch 79).
 - The keeper's bell, 00:00, the Tokens, the count — separate confirmed systems.
 
 ### PROPOSED (this document and siblings)
@@ -137,7 +137,7 @@ Gear = strongest clue-path toward the vanished organization. Factions hold fragm
 
 For every Gear document: WHAT LEON KNOWS · WHAT LEON SUSPECTS · WHAT LEON DOES NOT KNOW · WHAT LEON BELIEVES INCORRECTLY · WHAT THE READER MAY SUSPECT · WHAT IS ACTUALLY TRUE. Leon solves by intelligence/deduction; some truths remain beyond him. Accidental omniscience is a defect.
 
-**Arc 2 opening state (canon-consistent):** Leon no longer holds the keeper's gear (passed to Daniel, Ch 125). Leon carries Tokens and the journey's knowledge. Any Gear quest must account for Daniel's possession of the confirmed gear — a built-in complication, not an error.
+**Arc 2 opening state (canon-consistent):** Leon no longer holds the keeper's gear (passed to Daniel, Ch 129). Leon carries Tokens and the journey's knowledge. Any Gear quest must account for Daniel's possession of the confirmed gear — a built-in complication, not an error.
 
 ## 15. INFORMATION REVEAL STRUCTURE
 
@@ -166,7 +166,7 @@ Working names derive from appearance/inscription/discovery context — not SCP-s
 
 | ID (internal) | Working Name | Position (PROPOSED) | Visual identity (PROPOSED) | Inscription concept | Discovery concept |
 |---|---|---|---|---|---|
-| GEAR I | The Keeper's Tooth | Recognition / first contact | The CONFIRMED canon gear (Ch 36, Mill Lane clock) — small, fits the door's depression; appearance needs MANUSCRIPT FUTURE INSERTION | Lock/marker motif; "the keeping is the thing" echo | ALREADY DISCOVERED — passed to Daniel (Ch 125); quest must begin with its absence |
+| GEAR I | The Keeper's Tooth | Recognition / first contact | The CONFIRMED canon gear (Ch 36, Mill Lane clock) — small, fits the door's depression; appearance needs MANUSCRIPT FUTURE INSERTION | Lock/marker motif; "the keeping is the thing" echo | ALREADY DISCOVERED — passed to Daniel (Ch 129); quest must begin with its absence |
 | GEAR II | The Listening Coil | One-way voice | Dark iron, spiral form, wire-fine, cold to the touch | Fragment on absence: "what is spoken into the dark is not lost" | Auction lot mislabelled as an instrument part; Leon suspects before he proves |
 | GEAR III | The Answering Plate | Two-way communication | Tarnished copper with enamel, palm-sized, hairline-cracked | "What is answered becomes a conversation" (design reference, not final) | Unknowing ordinary owner (information-arbitrage scene) |
 | GEAR IV | The Witness Lens | Limited vision | Smoky glass in a pale steel frame; asymmetric | "The eye follows where the voice cannot" (design reference) | Scholar's private collection in another city — travel engine |
@@ -191,5 +191,5 @@ Rules: visuals must not repeat; the common maker's motif should be findable only
 
 ---
 
-**Status:** PROPOSED — ARC 2+. Not CONFIRMED. Not implemented in manuscript. CHAPTERS 1–137 untouched.
+**Status:** PROPOSED — ARC 2+. Not CONFIRMED. Not implemented in manuscript. CHAPTERS 1–141 untouched.
 **Last Updated:** 2026-09-03

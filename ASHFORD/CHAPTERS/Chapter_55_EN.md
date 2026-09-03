@@ -1,128 +1,49 @@
-﻿CHAPTER 55 — THE COUNT
+CHAPTER 55 — THE THRESHOLD
 
-I went to the mill the next morning to test the stranger's words.
+I waited for the house to appear again.
 
-Not to the door — not yet. I went to the wall where the boundary stones stood, where the fourth stone carried the hairline mark across its face, and I knelt, and I looked at the stone as I had looked at it every morning for weeks.
+It did not come that night, nor the next. I went to the common each evening as the light failed, and I stood at the edge of the grass where the door-shaped press remained, and I watched the twilight deepen. The house did not come.
 
-I had been looking at the crack. I had been watching it for signs of growth, for signs of failure, for signs that the boundary was giving way.
+I did not know whether it appeared on a schedule I had not yet learned, or whether it appeared only when something in Ashford had changed, or whether it had appeared as often as it had in the spring because I had been looking for it, and now that I was watching it would not come.
 
-I had not been counting.
+I went about my days. I kept the account. I walked the boundary. I knelt at the fourth stone, where the hairline mark still lay across its face, and I did not touch it, and I did not try to understand it. The town was quiet. The winter held. The lamps were lit and put out at their hours. I met no one on the boundary who asked what I was looking for, and I told no one.
 
-I moved along the wall, stone by stone, from the eastern marker to the corner where the wall turned, and I looked at each stone as I had never looked at them before — not for the circle, not for the crack, but for the first sign.
+But I could not let the house go. I had crossed its threshold once, in the spring. I had seen the clock stopped at 00:00, and I had heard the knocking from beneath the floor — three knocks, slow, deliberate, as if someone beneath the boards had been counting, and had reached three, and had stopped. I had not understood it then. I did not understand it now. But I carried the sound of it with me the way I carried the gear — a weight I could not set down, a thing that had become part of the shape of my days.
 
-It was there. At the base of the first stone, hidden where the earth met the stone, a circle, and three lines, and a dot, cut deep and worn smooth by age. At the second. At the third. At every stone along the wall.
+I went to the vestry on the second morning. The clerk was there, at his table, with the ledgers and the keys. I did not ask for the second mark. I had seen it, in the hidden page, and he had shown it to me, and I did not need to see it again. I asked instead about the stones — the old stones, the ones that had stood before the wall was built.
 
-I knelt at each one and cleared the earth from its base and looked, and the sign was there — the first sign, carved into the stone, one at each stone, worn smooth by weather and time.
+"How many of them carry the older sign?" I said. "The one that is not the circle."
 
-Not fifty. I counted the stones along the wall. There were not fifty. There were more than a hundred, running from the eastern marker to the corner where the wall turned, each one carrying the first sign at its base, each one older than the Order, older than the Agreement, older than anything in the town that had a name.
+He looked at me a long moment. "I do not know," he said. "I have never counted them. The sign is there, and it has always been there, and I have not asked how many times it is repeated."
 
-The stranger had told me the signs were a count. Fifty signs. Fifty years.
+"Then how do you know it is the older sign?"
 
-I had walked the passage beneath the common, counting the signs in the candlelight, losing count around nineteen, believing they were fresh.
+"The book told me," he said. "The page I showed you. It was written in a hand that was old when the vestry was built, and it named the sign, and it said that it was older than the circle. I have not asked more than that. Some questions, in this town, are not answered by asking."
 
-They were not the only signs. There were signs on every stone along the wall.
+I left the vestry. I walked the boundary again, not to the fourth stone, but to the eastern marker, where I had set the stone right in the spring. I stood there in the cold, and I thought about the older sign, and about the wall, and about the door that had a keeper's sign above the depression and a circle below it, and about the house that had pressed the shape of itself into the grass of the common and then gone.
 
-The stranger had not told me the truth. Or he had told me a part of the truth, and the part he had left out was the part that mattered.
+I did not know what the house was. I did not know whether it was a thing that appeared and disappeared, or whether it was a thing that was always there and visible only when the keeper was ready to see it. The difference mattered, but I could not tell which was true.
 
----
+On the third evening, I walked to the edge of the common and found something different. The grass was no longer pressed in the shape of a door. It was pressed in the shape of a room. The shape of the door was still there, at the edge, but beyond it the grass was flattened in a larger rectangle — the shape of a floor, the shape of the house I had entered in the spring. The house had stood here again while I was not watching. It had left its mark and gone.
 
-I went to the vestry.
+I knelt. The grass was cold and wet. I put my hand to the grass where the threshold had lain, and I felt nothing — but I had not expected to feel anything. At the centre of the pressed floor, there was a mark. A line, and three strokes. The keeper's sign. Pressed into the earth by a house that did not exist.
 
-The clerk was there, as he always was, at his table, with the ledgers and the keys.
+I went to the mill that night, not to the door, but to the wall where the oldest stones stood. I carried a lamp. I had not carried a lamp to the mill before. I had not wanted to see too clearly. Now I wanted to see.
 
-He saw me, and he did not speak, and I did not speak. I waited until the room was empty.
+I held the lamp to the fourth stone, where the hairline mark ran across its face — unchanged. I held the lamp lower, to the base of the stone, where the earth met the stone. There was a mark there. Not the circle. A different mark, cut into the stone at its base, worn smooth by weather and age. A circle, and three lines, and a dot. A sign I had not seen before — older than the circle, older than anything the Order had told me to look at. On the fourth stone, at its base, hidden where the earth covered it.
 
-"The signs on the wall," I said. "The first sign, at the base of the stones. How many are there?"
+I had not seen it before. I had been looking at the crack. I had been looking at the circle. I had been looking at what the Order had told me to look at. And while I had been looking at the wrong thing, Vale had been dead for weeks, and this sign had been waiting at the base of the stone for me to find it, and I had not found it because I had not known to look.
 
-The clerk was silent a long moment.
+I did not sleep that night. I sat at my desk with the lamp burning, the gear on the desk before me, and I thought about the mark on the fourth stone. The mark was at the base of the stone. The circle was on the face of the stone. The mark was older. The mark was hidden. The mark was what the vestry book had recorded in the margin of a page the surveyors had never seen. I did not yet know its name. I did not yet know that it was the first sign, the maker's sign, the oldest of the three. I knew only that it was older than the circle, and that it was mine to find.
 
-"I do not know," he said.
+I had found it at the stone, hidden in the earth. I had seen its kind before — in the grass the house pressed into the common, in the older marks of the door — though I could not yet tell whether those were the same sign or near kin. I did not know whether that meant I was meant to find it, or whether it meant that something was ending.
 
-"You have kept the vestry book for forty years. You showed me the page with the sign. You know more than you have told me."
+I opened my notebook and wrote: There is a sign on the fourth stone, at the base, hidden by earth — older than the circle, older than the Order. I have seen its kind in the grass of the common and on the door, and I do not yet know whether they are the same or kin. I do not yet know its name. I know that Vale knew it, and that he kept it from the Order, and that he kept it from me. I do not know whether he was protecting me from knowing it, or protecting the mark from being found. But I know that I have been keeper for weeks, and I have been keeping the wrong thing, and I have not known what I was keeping until now.
 
-"I know what I have been shown." He looked at me. "I know that the signs are older than the record. I know that the surveyors did not draw them, and that the clerk who kept the book before me did not know what they were, and that the keeper who came to me — Vale — asked me to keep the page hidden. I do not know how many there are."
+I closed the book. I took the gear from the desk and put it in my coat. I did not know what I was carrying it for. But I knew that I would carry it. And I knew that I would go back to the common in the morning, and I would wait for the house to appear again.
 
-"Then find out."
+And when it did, I would not stand at the edge of the grass and watch. I would cross the threshold. I would go inside. I would find what the house had been pressing into the earth, each time it stood on the common.
 
-He looked at me a long moment. Then he turned to the shelf, and he took down a book I had not seen before — a ledger, bound in the same cracked leather, its spine held with thread.
+The clock in the house was stopped at 00:00. I had written it in my notebook the first time I had entered, and I had not understood it, and I did not understand it now. But I had begun to understand that the time was not the answer — it was the question. The knocking from beneath the floor had come when I was close to the sign, and the sign was older than the circle, older than the Order, older than the wall. I did not yet know its name. But I knew that I was the keeper of it.
 
-"This is the book of the wall," he said. "It was kept by the wardens, in the years after the boundary was moved. It records the stones — the setting of them, the repair of them, the names of the masons who worked on them."
-
-He opened it. The pages were filled with the careful hand of the wardens, recording the work of the wall.
-
-And in the margins, in a different hand, smaller and older, there were the marks. The keeper's sign. One at the foot of each page where a stone was recorded.
-
-I turned the pages. The signs ran along the margins, one after another, in the same small hand, and I began to count them.
-
-The clerk watched me. I did not count aloud.
-
-I turned page after page, and the signs ran on, and the hand that had written them never changed, and the number of them grew beyond counting, and I understood, before I reached the end of the book, that they were not a count of years.
-
-They were a record. A record kept by a hand that had watched the wall for a very long time, marking each stone, marking each repair, marking the work of the wardens and the masons and the men who did not know what they were building.
-
-A count — but not of years. A count of stones. A count of everything that had been done to the wall, by every hand, in every year, so that no one could change it without the record showing.
-
-I closed the book. I looked at the clerk.
-
-"Who kept this record?" I said.
-
-"I do not know." He shook his head slowly. "It was old when I came to the vestry. The wardens did not know whose hand it was. They said it had always been there — that the signs appeared in the margins, and that no one added them, and that they were there because they had always been there."
-
-I stood in the vestry, in the cold light, with the book closed on the table.
-
-The stranger had told me the signs were a count of years, running out.
-
-The book said they were a record — a record kept by no one, added to by no one, present in every page, so that no one could change the wall without the signs showing. Or so I interpreted it. The clerk did not confirm my interpretation; he only said the signs had always been there. I could not tell whether he was telling me what he knew, or what he had been told to say.
-
-I could not yet tell which was true. I could not say whether they were both true — a count of years, and a record of the wall, kept by the same hand for reasons I could not see.
-
-But I knew that the stranger had come to Ashford and told me the count was running out. And I knew that the book in front of me said the count had never stopped being kept.
-
----
-
-I walked from the vestry to the common.
-
-The house was not there. I had not expected it to be.
-
-I stood at the edge of the grass, in the afternoon light, and I looked at the pressed shape of the floor, and I thought about the passage beneath it, and about the signs in the passage, and about the signs on the wall, and about the signs in the margins of the book.
-
-I had thought, when the stranger spoke, that the signs were fresh. I had thought that someone had been carving them recently, preparing the way. I had thought that the count was running out.
-
-I had been wrong.
-
-The signs were old. The signs were everywhere. The signs had been kept — by Vale, by the wardens, by the clerks, by a hand that no one could name — for longer than the Order had existed, longer than the Agreement, longer than the town.
-
-And the stranger had told me they were running out.
-
-I did not know why he had lied. I did not know whether he had lied.
-
-But I knew that I could not trust what he had told me, and I knew that I could not trust the Order, and I knew that I could not trust the vestry — because the clerk had kept the book of the wall hidden for years, and Vale had asked him to keep the page hidden, and no one had ever told me that the signs were everywhere.
-
-At home, I sat at my desk. I opened my notebook, and I wrote:
-
-The signs are on every stone of the wall. They are in the margins of the wardens' book. They are in the passage beneath the common. They are not fresh. They have been kept for longer than anyone can name.
-
-The stranger told me the signs were a count of years, running out.
-
-The book says they are a record of everything done to the wall, kept so that nothing can be changed without the signs showing.
-
-I do not know which is true.
-
-But I know that the stranger lied, or that he was told a lie, or that he told me a truth that I have not yet understood.
-
-I have been keeper for a month. I have been watching the door. I have not been watching the signs.
-
-I closed the book. I put it in the drawer, with the agreement, beneath the parish account.
-
-Then I took the gear from my coat and placed it on the desk, and I looked at it, and I thought about the man who had come a long way to tell me the count was running out, and about the signs that were everywhere, and about the door that opened from both sides, and about the house that appeared when the door needed to be opened.
-
-I could not say who the stranger was. I could not tell for certain what the signs were for. I had no way of knowing whether the count was running out.
-
-But I knew that I had to find out.
-
-And I knew that the only way to find out was to go back down into the passage, and to walk the signs again, and to count them properly this time — not losing count, not trusting the candlelight, not believing what I had been told.
-
-I would count them myself. I would walk the whole length of the passage.
-
-And I would find out what the signs were counting, before the stranger — or the Order — or the door itself — decided for me.
-
+I sat in the dark, and I understood that I was standing on the threshold of something. Not the threshold of the house — the threshold of the keeping itself. I had been keeping the door closed. I had been keeping the boundary. I had been keeping the account. But I had not been keeping the sign — the older sign, hidden at the base of the stone, older than the circle, older than the Order. I had not even known it existed. And now that I knew, I could not un-know it. The threshold had been crossed. And I could not go back.

@@ -1,198 +1,173 @@
-﻿CHAPTER 109 â€” THE TALLY
+CHAPTER 109 — THE DECISION
 
-I did not see Adeline Brume for two weeks after the night in the reading room.
+I took a week to decide.
 
-I did not expect to. I had kept the book. I had refused to give it to the society. And I could not tell for certain what that meant — whether I had passed a test by keeping it, as I had half-believed in the moment, or whether I had set myself against the society by refusing to hand it over. Adeline had given me no answer. She had given me only a sentence about the tally, and the warning that the society would not stop looking, and the knowledge that I had told her something I had meant to keep to myself.
+I did not go to the lending library. I did not go to the house on the edge of Ashford. I stayed in my rooms, and I kept the account, and I walked the boundary, and I thought about the offer.
 
-I could not yet tell what the society would do next. I could not say whether they would ask more of me, or whether they would leave me be, or whether the working relationship had ended before it had truly begun.
+A working relationship with a society that had no name.
 
-I kept the account. I walked the boundary. I kept the Tokens and the gear in the drawer, where they had lain since the winter. I wrote in the red book.
+I had been a keeper for two years. I had kept the agreement. I had kept the account. I had kept the boundary, the door, the bell, the houses, the Tokens, the gear.
 
-And I read the book of the first keeper.
+I had been a hunter since the clock in the market — a finder of things that were meant to stay hidden.
 
-I read it slowly, a page at a time, in the evenings, and I did not rush it. The book was not long, but it was the account of a life, and I read it as a life should be read â€” carefully, without hurry.
+And now I had been offered a place among people who did the same thing — people who sought to preserve what would otherwise be lost.
 
-The first keeper had set the boundary. He had carved the sign. He had built the house. He had made the agreement. He had kept the tally.
+I could not yet tell whether to accept.
 
-And at the end of the book, on the last page, he had written the sentence I had already read: *I have kept my word. I have kept the keeping. I have erased myself so that the keeping will be kept for its own sake, and not for mine.*
+I walked the boundary on the third day, and I stood at the eastern marker, where the first sign was cut into the stone, and I thought about the keepers who had come before me.
 
-I read the sentence many times.
+The first keeper had built Bellweather House.
 
-And I began to count the tally.
+The keeper before Vale had opened the door and stayed in the passage.
 
----
+Vale had kept the door closed for fifty years.
 
-The tally was the page of marks I had seen on the first page â€” small marks, like tally-marks, running in rows across the page.
+And I had kept the account.
 
-I had looked at them once, and I had not understood them. I had turned the page, and I had read the words, and I had not gone back to the marks.
+Each of them had kept the same thing differently.
 
-Now I went back.
+And I had been offered the chance to do something else — to work with others who preserved things, to find what was lost, to keep what would otherwise be forgotten.
 
-I took the book, and I opened it to the first page, and I looked at the tally, and I counted.
-
-The marks ran in rows. Each row had a certain number of marks. The rows were arranged in groups.
-
-I counted the marks.
-
-There were more than I had expected. Many more than the years of the keeping as I knew it â€” more than the fifty years of Vale, more than the twenty years of the keeper before him, more than the years of Aurelius.
-
-I counted again.
-
-The tally was not a count of the years of the keeping as I knew it.
-
-It was a count of something older.
-
-And there was a thing about it that troubled me more than the size of the number. The first keeper had written, in his own hand, that the tally was the count of the years — that he had kept it since the first year, one mark for each year. He had written it plainly, without doubt. But a man's life has a measure to it. A man who sets a boundary, and carves a sign, and builds a house, and makes an agreement — such a man has forty years, sixty years, at most the years of a long life. He does not have the years that stood in this tally. I had counted more marks than a man could have set in a lifetime of keeping, even if he had begun as a child and marked without ceasing until he died.
-
-Either the first keeper had not been a man of ordinary years, or he had not begun counting at his own beginning, or the marks were not years at all — and the first keeper, who had written so carefully that they were, had been wrong about the thing he had kept longest.
-
-I could not tell which. The book gave no answer. But I understood that the tally was a contradiction made of marks — a count that the man who kept it had named, and a count that could not have been kept by the man who named it — and that the contradiction was not a flaw in the record. It was the record.
-
-I looked at the marks, and I understood that I did not know how to read them. I did not know what the first keeper was counting. I could not say whether the marks were years, or months, or something else entirely.
-
-I set the book down.
-
-I sat in the dark, and I thought about the tally.
-
-The first keeper had written that the tally was the count of the years. He had written: "I have kept it since the first year, one mark for each year, so that the keeper who comes after will know how long the keeping has stood."
-
-And I had counted the marks, and the marks were more than the years of the keeping as I knew it.
-
-I could not tell for certain what that meant.
-
-I had no way of knowing whether the tally was longer than the keeping I knew, or whether the keeping was older than I had believed, or whether I had counted wrong.
-
-I opened the book again. I counted the marks again.
-
-The count was the same.
-
-I sat in the stillness, with the book before me, and I understood that the tally was not a thing I could read â€” not yet.
-
-I had read the words. I had understood the account of the first keeper's life.
-
-But the tally â€” the count of the years â€” was a language I did not yet speak.
-
-I put the book in the drawer, beside the red book.
-
-I could not say what the tally counted.
-
-But I knew that I would learn.
+I did not know whether that was a betrayal of the keeping, or a fulfilment of it.
 
 ---
 
-I went to see Ysabel the following day.
+On the fifth day, I went to see Ysabel.
 
-She was at her house near the river, and she let me in, and I set the book on her table.
+She was living in Ashford now, in a small house near the river, and she had become, in the months since the clock, a kind of companion — not a friend, exactly, but a presence, a person who knew what I was and did not ask me to be otherwise.
 
-"The book of the first keeper," I said. "I have read it. It is the account of his life â€” the boundary, the sign, the house, the agreement, the tally."
+She opened the door when I knocked.
 
-"The tally," Ysabel said.
+"You have been offered something," she said.
 
-"There is a page of marks at the beginning," I said. "A tally. He writes that it is the count of the years â€” one mark for each year, kept since the first year."
+I looked at her. "How do you know?"
 
-"And you have counted them."
+"Because you have been walking the town like a man with a question in his pocket," she said. "You have been walking the boundary, and standing at the eastern marker, and coming home to write in the red book, and not telling anyone what you have been offered."
 
-"I have counted them," I said. "And the count is more than the years of the keeping as I know it. More than Vale's fifty years, more than the keeper before him, more than Aurelius."
+I was silent.
+
+"A society," I said. "A society with no name. They tested me three times — a room, a box, a name — and they have offered me a place among them. A working relationship. They preserve things that would otherwise be lost."
 
 Ysabel was silent a moment.
 
-"More than the years of the keeping as you know it," she repeated.
+"And you do not know whether to accept."
+
+"No."
+
+She looked at me.
+
+"May I ask you a question?" she said.
 
 "Yes."
 
-"Then either the tally is not a count of years," she said, "or the keeping is older than you have believed, or the tally is counting something else."
+"What are you keeper of?"
+
+I stood at her door, in the cold.
+
+"The account," I said. "The boundary. The door. The bell. The houses. The Tokens. The gear. The place beneath."
+
+"And what is the account for?"
+
+I was silent.
+
+"The account is for remembering," I said. "The account is what remains when the town forgets."
+
+"Then the account is a kind of preservation," Ysabel said. "A preservation of memory, of knowledge, of what would otherwise be lost."
 
 I looked at her.
 
-"That is what I thought," I said. "I do not know which."
+"The society preserves things that would otherwise be lost," she said. "You preserve things that would otherwise be lost. The work is the same."
 
-She looked at the book. She did not open it.
+"But the keeping is mine," I said. "It is not theirs."
 
-"The first keeper wrote that the keeping is the thing, and the man is not," she said. "If that is true, then the tally is not the count of one man's years. It is the count of the keeping's years â€” the years the keeping has stood, whoever kept it."
+"The keeping is yours," she agreed. "It will always be yours. No one can take it from you, and no one can give it to you. The question is whether you will keep it alone, or whether you will keep it among others who keep the same kind of thing."
 
-I stood in her house, in the cold light, and I understood.
+I stood at her door, in the cold, and I did not know what to say.
 
-The tally was not the count of the first keeper's life.
+"You have been alone for two years," she said. "You have kept the account alone. You have kept the boundary alone. You have kept the keeping alone. And it has not been enough — not because the keeping was not enough, but because a man cannot keep everything alone."
 
-It was the count of the keeping itself — the years the keeping had stood, from the first keeper to the present, from the setting of the boundary to the keeping of the account.
+I looked at her.
 
-And the count was more than I had believed.
+"Vale kept alone," I said.
 
-Because the keeping was older than the keepers I knew—older, perhaps, than the town itself, and certainly older than any record I could trust.
+"Vale kept alone," she said, "and he left no account. He left the document, and the gear, and the silence. You have written the account. You have done what he did not do. But you have done it alone."
 
-I could not tell for certain how old.
+I was silent.
 
-But I knew that I would find out.
+"Take the offer," she said. "Not because you need them. But because you have been alone too long, and because the work is the same, and because a keeper who keeps among others is not less a keeper — he is more."
 
-I looked at Ysabel. She had not touched the book. She had not opened it. She stood at her table, in the cold light, and there was something in her face that I had not seen before.
-
-"I hunted for twenty years," she said. "I found the second clock. I found the key's history. I found the name of the man who made the lock. I thought, when I found them, that I was close to the whole of it."
-
-"And you were not."
-
-"No." She looked at me. "You have been keeper for two years, and you have found the book of the first keeper, and the tally inside it is older than everything I spent twenty years learning. I do not know whether to be glad that the hunt is not over, or to be afraid of what it means that it has only just begun."
-
-I had no answer for her. I had no answer for myself.
-
-I went to the vestry that afternoon. The clerk was at his table, and I set the book of the first keeper before him — open to the page of marks.
-
-"Have you seen this number before?" I said.
-
-He looked at it for a long time. He did not touch the page.
-
-"I have seen the marks," he said. "In the margins of the wardens' book. But I have never counted them. The book of the wall is the book of the wall — I do not ask what the marks mean."
-
-"And if I told you the number?"
-
-He looked at me. "The number is not written in any book I keep, Mr. Ashcroft. It is not in the vestry records, or the parish register, or the census. It is not a number this town has ever recorded in the ordinary way." He paused. "The clerk before me used to say that the number was not ours to know — that it belonged to the keeping, and that the keeping was not the town's business. I did not understand him then. I am beginning to understand him now."
-
-I closed the book. I thanked him. I left the vestry.
-
-The number belonged to the keeping. It was not in any record the town kept. The clerks had known it was there, and they had let it be, generation after generation, without counting it, without asking what it meant. That was the weight of it — not that the number was hidden, but that it had been visible for so long that no one had looked at it.
+She looked at me, and there was something in her face I had not seen before — not certainty, but the edge of it. "I hunted for twenty years," she said. "I never found what I was hunting for. You found it in a market stall, in a clock you bought for five pence. I do not know whether that means you are lucky or chosen. But I know that I would have given years of my life for someone to have offered me a place among people who understood. Do not waste it because you are afraid of belonging to something."
 
 ---
 
-I did not open the book again that week.
+On the sixth day, I went to look at the reading room.
 
-I walked the boundary. I stood at the eastern marker. I looked at the first sign, carved into the stone, worn smooth by years.
+I did not go up the stair. I stood across the street, in the failing light, and I looked at the window above the chandler's shop — the window of the room where I had read the three accounts, where I had understood that the answer could not be known from the evidence.
 
-The first sign. The mark of the maker. The mark that was on the object, and on the clocks, and on the box, and on the bell, and on the door.
+The window was dark. The room was empty. It had been locked for seventeen years, and I had been inside it once, and the letter had not told me why.
 
-I had carried the object all my life. I had found the clocks, and the key, and the lock. I had read the letter of Aurelius. I had read the book of the first keeper.
+I stood there a long time, and I watched the window, and I understood that I was doing what I had done all my life — standing outside a door, weighing the cost of the door, deciding whether the weight of what lay beyond was mine to carry.
 
-And now I had found the tally â€” the count of the keeping's years.
+The room had not decided for me. The old man had not decided for me. Ysabel had not decided for me.
 
-I had no way of knowing what the count was.
+Only I could decide whether I would take the key.
 
-But I knew that it was longer than the keeping I knew.
+And I understood, standing in the cold, that I had already decided — that I had decided the moment I had walked out of the house on the edge of Ashford and felt the offer settle in me like a stone that had found its place. I had only been waiting to admit it.
 
-And I knew that the keeping was older than the keepers I knew.
+---
 
-I stood at the eastern marker, in the grey light, and I understood that the mystery had not begun with Aurelius, and had not begun with Vale, and had not begun with the first keeper.
+I went to the house on the edge of Ashford on the seventh day.
 
-It had begun before them â€” before the boundary, before the sign, before the house, before the agreement.
+The old man was in his chair by the fire, as he had been before. The woman let me in. The house was quiet.
 
-And the tally was the count of those years.
+"I have decided," I said.
 
-I walked home through the fields, and I sat at my desk, and I opened the red book, and I wrote:
+He looked at me.
 
-*I have read the book of the first keeper. He kept a tally â€” one mark for each year, kept since the first year.*
+"I will work with you," I said. "Not as a member. Not as a servant. As a man who keeps what he keeps, and who will help you keep what you keep, when the work is the same."
 
-*I have counted the marks. The count is more than the years of the keeping as I know it.*
+The old man was silent a moment. Then he nodded.
 
-*The tally is not the count of one man's years. It is the count of the keeping's years â€” the years the keeping has stood, whoever kept it.*
+"That is what I hoped you would say," he said.
 
-*The keeping is older than the keepers I know.*
+He reached into his coat and took out a small object — a key, old and worn, on a length of cord.
 
-*I do not know how old.*
-*But I will find out—whether the tally is older than the boundary, or the boundary is only a recent name for something that was never meant to be counted.*
+"This is the key to the reading room above the chandler's shop," he said. "It has been locked for seventeen years. It is yours now."
 
-I closed the red book. I sat in the dark.
+I looked at the key.
 
-The tally was too old to be one man's count. The first keeper had called it years, and the marks outran a man's years. Somewhere in that contradiction there was a truth I had not yet learned to read — a number that the keeping had carried before the boundary, before the first keeper's own beginning, and that I was only now beginning to carry myself.
+"The room," I said.
 
-I did not know what the tally counted.
+"The room is our meeting place," he said. "We have not used it in seventeen years. We have not had a use for it. Now we do."
 
-But I knew that I would not rest until I did.
+I looked at the key.
 
+He did not say who had used the room before. He did not say who had held the key, or why it had been locked for seventeen years, or what the last man to use it had done there. I did not ask. I was learning, slowly, that the society gave out information the way the keeping did — one piece at a time, only when it was earned, never all at once.
 
+I took the key.
+
+I stood in the room, by the fire, with the key in my hand, and I understood that I had crossed a threshold.
+
+I had not joined the society. I had not bound myself to it. But I had taken a key, and I had accepted a place, and I had begun to work with others who kept the same kind of thing.
+
+The keeping was still mine. The account was still mine. The boundary, and the door, and the bell, and the houses, and the Tokens, and the gear — they were all still mine.
+
+But I was not alone anymore.
+
+I walked home through the dark streets, with the key in my pocket, and I sat at my desk, and I opened the red book, and I wrote:
+
+*I have taken the key. I have accepted the place. I have not joined the society, and I have not bound myself to it, but I have begun to work with it.*
+
+*The keeping is still mine. The account is still mine. Nothing has been taken from me, and nothing has been given to me that I did not choose to take.*
+
+*But I am not alone anymore.*
+
+*I will keep the keeping, as I have kept it.*
+
+*And I will help them keep what they keep, when the work is the same.*
+
+I closed the red book. I sat in the dark, with the key in my pocket, and I understood that I had crossed a threshold — not merely by taking the key, but by learning that I could be known by others and still be myself. The keeping was still mine. The account was still mine. Nothing had been taken from me, and nothing had been given to me that I did not choose to take.
+
+But I was not alone anymore.
+
+And I did not yet know whether that was a comfort or a new kind of risk.

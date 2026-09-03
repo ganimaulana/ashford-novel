@@ -1,278 +1,95 @@
-﻿CHAPTER 87 — THE MARKET
+CHAPTER 87 — THE SUMMER
 
-The autumn had settled into a rhythm by then.
+The summer came, and the town settled into its long warmth. I kept the account. I had written the red book full in the spring. I had continued to write in it through the summer, adding the days, adding the changes, adding the small things that the account had to record — the pattern of the lamplighter's rounds, the gossip of the market, the dates of the fairs. The keeping was in the small things, in the way the town breathed without knowing it was being watched.
 
-I had been keeper for a year and a half. The red book was full. The account was written. The Order had not troubled me. The house at the end of the lane stood empty, as it had always stood, and the house at the edge of the common appeared when it needed to appear, and I kept the agreement, and I kept the memory, and I kept the days.
+The summer light was long and gold. The days were warm, and the evenings lingered, and the town was full of the sound of its own ordinary life — children in the lanes, dogs barking, the clatter of carts in the market square, the smith's hammer in the heat of the afternoon, the women at the well in the cool of the morning. I walked through it all, and I was part of it, and I was not part of it. I bought bread at the bakery. I nodded to the women at the well. I did my ordinary errands. And I carried the keeping with me, hidden, the way a man carries a wound that does not show.
 
-It was not a quiet life. There was always something — a stone to check, a boundary to walk, a record to compare, a question from the vestry that required a keeper's answer. But it was a settled life. The kind of life where you begin to notice the small patterns: the way the same cart passed the same corner at the same hour, the way the lamplighter's schedule changed with the season, the way the town breathed in and out without knowing that it was being watched.
+The town did not know. The town went about its business — the harvest, the market, the weddings, the births, the ordinary life of a town that did not know what was beneath it. I walked the boundary. I had walked it every week since I had become keeper. I had walked it with the Tokens warm against my chest, and I had watched the stones, and I had watched the wall, and I had watched the place where the house appeared. Nothing had changed. The stones had not moved. The wall had not failed. The house had not appeared. The bell had not rung. The keeping was quiet.
 
-I had begun to feel, in those weeks, a restlessness I could not name.
+I could not say whether that was a good sign or a bad sign. I had expected, in the spring, that something would happen — that the town would begin to remember, or that the keeping would be tested, or that the place beneath would stir. Nothing had happened. The summer passed quietly, and I kept the account, and I waited.
 
-I had kept the account. I had written everything I knew. I had read it back, and I had found no gaps, no contradictions, no missing pages. The boundary was stable. The door was closed. The bell was silent.
-
-And yet.
-
-There was something I had not written. Not because I had forgotten it. But because I had not known how to write it.
-
-I could not yet tell what I was looking for.
-
-I only knew that I was looking.
+I did not know what I was waiting for. That was the trouble. A keeper waits, and the waiting is the keeping — but a man cannot wait forever without beginning to wonder whether he has been waiting for the wrong thing.
 
 ---
 
-The market was held on the last Saturday of each month, in the square behind the chandler's shop. I had passed it many times without stopping. I had not needed anything that the market sold. But on that Saturday, I stopped.
+The heat of July lay over the town like a hand. The streets were pale with dust. The river ran low between its stones. I walked the boundary in the early mornings, before the heat, and in the late evenings, when the light lay flat and gold across the fields, and I read the stones the way I had taught myself to read them — the eastern marker with the first sign cut into its base, the fourth stone with the hairline mark across its face, the wall that held the line between them. Nothing had moved. Nothing had changed. The stones had been standing longer than the town had a name, and they would be standing after the town had another one, and my walking did not keep them standing. It kept them known. That was the whole of it. The walking was the remembering made into a habit, the way the lamplighter's rounds were the town's small proof that night would end.
 
-I did not know why.
+I went to the bakery one morning in late July. Margaret was behind the counter, and the shop was close and hot, and the flour hung in the air like a fine dust of light.
 
-The market was ordinary. Farmers selling vegetables. Women selling cloth. A man with a cart of used tools. Another with a tray of buttons and ribbons. The kind of market that had been held in the same square for a hundred years, unchanged, unremarkable.
+"You are thinner," she said. "You walk too much in the heat."
 
-I walked through it slowly. I did not look at the vegetables. I did not look at the cloth. I walked past the tools, the ribbons, the baskets, the second-hand books, the chipped plates, the worn shoes.
+"I walk in the mornings now."
 
-I stopped at a stall at the far end.
+"The mornings." She wiped the counter. "You walked in the mornings all winter. You walked in the mornings all spring. You will walk in the mornings all summer. You will walk them until the walking is the only thing left of you."
 
-It was a small stall, barely more than a blanket spread on the ground. On it were the kinds of things that no one had wanted to keep: a rusty lock, a cracked cup, a bundle of keys that no longer fit any door, a broken clock, a handful of mismatched buttons, a child's wooden toy with the paint worn off.
+"It is not the only thing."
 
-The man behind the stall was younger than I had expected. He sat on a stool, his hands folded in his lap, and he did not call out to passers-by. He did not try to sell anything. He simply sat, as if the stall were a habit he had not yet broken.
+"No," she said. "There is the silence. There is always the silence." She looked at me. "I have known you a long time, Leon. You were a watchman, and you watched. Now you are not a watchman, and you still watch. What is it you think the town will do?"
 
-I knelt.
+I looked at her. "I do not think the town will do anything."
 
-I did not know why I knelt. I had not seen anything that interested me. I knelt, and I looked at the objects on the blanket, and I could not say what I was looking for.
+"Then why do you watch it?"
 
-I picked up the broken clock.
+I could not tell her. She was the town. She was the agreement. She had forgotten, as the town had forgotten, and I could not tell her what she had agreed to forget. But I could tell her part of it — the part that was true without being the whole truth.
 
-It was small, the size of my palm, its face cracked, its hands frozen at an hour I could not read. The case was brass, tarnished, the kind of clock that had once sat on a mantelpiece and had been wound each night by a hand that had long since stopped winding anything.
+"I am watching for something that has not happened yet," I said.
 
-I turned it over.
+"And when it happens?"
 
-There was a mark on the back. A small mark, worn almost smooth, nearly invisible against the tarnished brass. A circle. Three lines through it. A single dot.
+"Then I will know what I have been watching for."
 
-I held it very still.
+She was silent a long moment. Then she said, "That is a strange way to live, Leon. To watch for a thing you cannot name."
 
-The first sign.
+"It is the only way I know," I said.
 
-On the back of a broken clock, at a market stall, on a blanket spread on the ground, where anyone could have seen it, where anyone could have picked it up, where anyone could have bought it for a few pence and carried it away and never known what it was.
-
-"How much?" I said.
-
-The young man looked at me. "Five," he said.
-
-I did not negotiate. I did not pretend to lose interest. I set the clock down, counted out five pence, and put the clock in my coat. It was a small thing to pay, and I did not want to draw attention to it.
-
-He watched me as I stood.
-
-"You buy strange things," he said.
-
-I looked at him.
-
-"You were here last month," he said. "You bought the brass cup with the broken handle. You paid more than it was worth."
-
-I had not remembered. I had bought a brass cup the previous month, at this same market, for no reason I could name. I had not thought of it since.
-
-"You notice what people buy," I said.
-
-"I notice what people don't buy," he said. "That's my trade. I buy what no one else wants, and I wait until someone wants it." He tilted his head. "You're the one who buys what I've been waiting to sell."
-
-I could not tell for certain what to make of him.
-
-"Theo Marsh," he said. "If you find anything else you can't leave alone, you'll know where I am."
-
-I nodded. I walked away with the clock in my coat, and I did not look back.
+I took the bread, and I walked home, and I thought about what she had said. She was right. It was a strange way to live. But the keeping had chosen the way before I had, and I had only agreed to walk it.
 
 ---
 
-Marianne Loxley worked at the lending library, in the room above the chandler's shop, where the books were kept that the town did not think of as important.
+In August, I went to the vestry. The clerk was there, at his desk, with the books that he had kept for forty years arranged around him. The light came in at the high window, and the dust turned in it, and the clerk looked up at me the way he always looked up — as if he had known I was coming, and had been waiting only for the door.
 
-I had met her once, weeks earlier, when I had asked about a parish record and she had corrected my reading of it without looking up. She had a habit of knowing where things were, and a dislike of anyone who did not know where things were.
-
-I went to her the day after the market.
-
-I set the broken clock on the table in front of her.
-
-She looked at it. She did not touch it.
-
-"It's a clock," she said.
-
-"It's broken."
-
-"Most things that come through that door are broken." She looked at me. "You're the one who asks about records. What is a clock to you?"
-
-"I want to know where it came from."
-
-She picked it up. She turned it over. She looked at the mark on the back.
-
-She was quiet for a long moment.
-
-"This mark," she said.
+"The account," I said. "You have kept the records of the town for forty years. You have kept the book of the wall. You have kept the record of Bellweather."
 
 "Yes."
 
-"Do you know what it is?"
+"I have written the account," I said. "I have written everything I have learned. But I have not written everything."
 
-"I have seen it before," I said. "I want to know where the clock came from."
+The clerk looked at me. "What have you not written?"
 
-She set it down. "There's a maker's mark on the inside of the case. I can open it. But I won't do it here." She looked at me. "Bring it back tomorrow. I'll have looked at it by then."
+"The beginning," I said. "The first keeper. The building of the house. The first sign. I have not written the beginning, because I do not know it."
 
-I did not argue. I left the clock with her, and I went home, and I did not sleep well.
+The clerk was silent a long moment. He looked down at his hands, folded on the cover of the nearest book, and I saw that his hands were the hands of a man who had kept books for forty years — careful hands, patient hands, hands that had turned the same pages until the pages turned themselves.
 
-The first sign. On a broken clock, from a market stall, from a man who bought what no one else wanted.
+"The beginning is not written," he said. "It is not in any record. It is older than the records."
 
-I had not been looking for it. I had not known it was there. But I had found it.
+"Then how is it kept?"
 
-And I had no way of knowing whether that was an accident.
+"It is kept in the signs," he said. "The first sign. The keeper's sign. The Order's sign. They are the record of the beginning. They were made before writing, and they have been kept by those who did not know what they were keeping."
 
----
+I stood in the vestry. The signs were the record. I had been reading them as mysteries. I had been trying to open them. I had not understood that they were the account — the account of the beginning, kept in the stone, kept by the keepers, kept without understanding.
 
-The next day, I returned to the lending library.
+"You have kept the books for forty years," I said. "And you have never read the beginning."
 
-Marianne was at her table. The clock was open before her, its back plate removed, its inner workings laid out on a cloth.
+"I have never found it," he said. "I have kept the books that are kept. The beginning is not in them. It is not in the vestry. It is in the stones, and the stones are yours, not mine." He looked at me. "I am the clerk. I keep the records of the town. You are the keeper. You keep the record of the beginning. We have kept our parts for forty years, and I have never once needed to read yours."
 
-She did not look up when I came in.
+I stood in the vestry, and I understood something I had not understood before. The clerk was not a keeper. He was a keeper of records — of the town's records, of the book of the wall, of the record of Bellweather. And he had kept them for forty years without knowing what the keeper kept, and without needing to know. The town had divided the keeping the way it divided everything — into parts that no one needed to understand, so long as each part was kept.
 
-"The clock was made by a man named Hollis," she said. "A clockmaker, active in Ashford from about 1760 to 1790. Small maker. Not well known. There are records."
+"You have kept them," the clerk said. "You have kept the signs. You have kept the account. The account of the beginning is kept in the signs, and the account of the keeping is kept in your book."
 
-"And?"
-
-"And the mark on the back is not his." She looked up. "Someone added it later. After the clock was made. The mark is cut into the case over the original finish, which means it was added years after the clock was built."
-
-"How many years?"
-
-She was silent a moment. "The clock was made around 1770. The mark was cut into it sometime in the 1780s or 1790s." She looked at me. "I found something else."
-
-She pushed a piece of paper across the table. It was a list, in her neat hand.
-
-"Hollis made twelve clocks," she said. "I found a record of them in an old catalogue. Eight are accounted for — destroyed, sold, or still in the possession of the families who bought them."
-
-"And the other four?"
-
-"The other four," she said, "disappeared from the records in the 1790s. No sales. No deaths. No mention of where they went. They simply stopped being accounted for."
-
-I looked at the list. Four clocks. Unaccounted for, in the 1790s.
-
-The mark was cut into the clock in the 1780s or 1790s.
-
-The clock had disappeared from the records in the 1790s.
-
-I could not say what it meant. But I knew that it fit.
-
-"This is your clock," she said, "one of four. And if the other three are like this one, they carry the same mark on the back."
-
-She looked at me.
-
-"What are you looking for, Mr. Ashcroft?"
-
-"I don't know," I said.
-
-She did not believe me. I could see it in her eyes. But she did not press.
-
-"Find the other three," she said, "and you'll know what this one is."
-
-I took the clock. I put it in my coat. I thanked her, and I left.
+I stood in the vestry. I had been writing the account. I had been keeping the signs. I had not understood that they were the same thing. The signs were the beginning. The book was the keeping. And both were kept by the keeper.
 
 ---
 
-I returned to the market the following Saturday.
+I went home. I sat at my desk. I opened the red book. I wrote: The signs are the record of the beginning. They were made before writing. They have been kept by those who did not know what they were keeping. I have kept the signs. I have written the account. The signs are the beginning. The book is the keeping. Both are kept by the keeper.
 
-Theo Marsh was there, at the same stall, on the same blanket, with a new assortment of things no one had wanted to keep.
+I closed the red book. I put it in the drawer. I left the Tokens on the desk. And I sat in the stillness, and I thought about the beginning. The first sign. The first keeper. The building of the house. I did not know the beginning. But I kept the signs. And the signs were the record of the beginning. I was the keeper. I kept the signs. I kept the account. I kept the beginning.
 
-He looked up when I approached.
+That night I walked out to the eastern marker. The summer dark was warm, and the moon was low, and the fields lay silver under it. I knelt at the base of the marker, where the first sign was cut into the stone, and I put my hand on it. The circle. The three lines. The dot. The record of the beginning, cut before writing, kept by those who did not know what they were keeping — and now kept by me, who did not know either.
 
-"You found something," he said.
+I stayed there a long time, kneeling in the grass at the base of the stone, with the Tokens warm against my chest and my hand on the sign. I had thought, when I had come to the vestry, that the beginning was something I could find — that it was written somewhere, in some record, in some book the clerk had not yet shown me. I understood now that the beginning was not something to be found. It was something to be carried. The beginning was carried in the signs, and the signs were carried by the keeper, and the keeper carried them the way a man carries a thing he cannot see the use of yet — because the use is not in the carrying. It is in the passing.
 
-"No," I said. "I came to ask about the clock."
+I let the thought settle. The count. I did not yet know them all. I had the first. I had found others. But the count was larger than I had imagined, and the beginning of it was older than any record I could trust. I sat in the dark, and I understood that the beginning was not something I could find in the records. It was something I had to carry — in the signs, in the Tokens, in the account, in the keeping itself. The beginning was not a time. It was a threshold. And I was still standing on the far side of it.
 
-He was quiet.
+The clerk had told me that the signs were the record of the beginning. But I had begun to suspect that they were not only a record. They were also a key — a key to a door I had walked past a hundred times without knowing it was a door. I did not know what the door held. I did not know what the beginning had been. But I knew that the signs were the way forward, and that I would follow them until I understood — or until the count was complete, and the bell called, and I was ready to answer.
 
-"The clock I bought from you last week. The brass one with the mark on the back."
-
-"The broken one," he said.
-
-"Yes."
-
-He was silent a moment. "I didn't buy that clock from a house," he said. "I bought it from a man."
-
-"Who?"
-
-"I don't know his name. He came to my stall two months ago, sold me a bundle of old things — the clock, the brass cup, a few other pieces. Said they'd been in his family for years and he wanted them gone."
-
-"Did he say where they came from?"
-
-Theo shook his head. "He didn't say. But I remember him." He looked at me. "He asked a strange thing. He asked whether I knew of a man who bought objects no one else wanted. He said if such a man existed, he'd be back."
-
-I stood very still.
-
-"He said," Theo said, "that the man would know what to do with the clock."
-
-I could not tell for certain what to say.
-
-I bought nothing more from Theo that day. I walked away with the clock in my coat, and the words of the unknown seller in my mind.
-
-The man had known. The man had known that someone would come for the clock. The man had known that the someone would know what to do with it.
-
-I had no way of knowing what to do with it.
-
-But I knew that I had been expected.
-
----
-
-I left the market square and turned down the narrow lane that ran behind the chandler's shop, toward the river.
-
-I had not walked this lane in months. It was empty, as it usually was — a service lane, used by carts and deliveries, with a few doors opening onto it from the backs of shops.
-
-A figure was standing at the end of the lane.
-
-A woman.
-
-She stood in the shadow of the wall, in a coat that had seen weather, and she was looking at me.
-
-I stopped.
-
-I could not say her. I had never seen her before. She was not old, but she was not young — her age was hard to place, somewhere in the middle, made uncertain by the shadow and the stillness.
-
-She did not move.
-
-She looked at me for a long moment, and then she looked down, at my coat, at the place where the clock lay against my chest.
-
-I felt the weight of the clock.
-
-I could not tell for certain what she was going to say.
-
-She said:
-
-"I thought that object was lost long ago."
-
-Her voice was quiet, level, without surprise. As if she had known I would be here, and known what I was carrying, and had been waiting only to confirm it.
-
-I stood in the lane, and I did not speak.
-
-She did not wait for an answer. She turned, and she walked away, down the lane, toward the river, and she did not look back.
-
-I stood at the end of the lane for a long time after she was gone.
-
-The clock was in my coat.
-
-The first sign was on its back.
-
-And somewhere in Ashford, there was a woman who had thought that object was lost long ago.
-
-I had no way of knowing who she was. I could not say how she had known I was carrying it. I could not tell for certain why she had said what she had said.
-
-But I knew that I had not found the clock by accident.
-
-I knew that I had been expected.
-
-And I knew that the keeping was not over.
-
-The account was full. The boundary was stable. The door was closed.
-
-But the first sign was still out there. On a broken clock. In a market. Waiting for someone to find it.
-
-I had found it.
-
-And someone had been waiting for me to find it.
-
-I walked home through the dark streets, with the clock in my coat, and I did not write in the red book that night.
-
-I had no way of knowing what to write.
-
-I only knew that the searching had begun.
-
+I stood, and I walked home through the silver fields, and the summer went on around me, warm and gold and unchanged, and I understood that the beginning had been waiting all along. Not in the records. Not in the vestry. In the stones I had walked past every week for a year, in the signs I had carried without reading, in the hand of the keeper who had gone before me and the hand of the one who would come after. The beginning was not behind me. It was beneath my feet. And I was still learning to walk on it.

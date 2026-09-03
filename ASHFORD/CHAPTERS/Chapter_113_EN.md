@@ -1,184 +1,198 @@
-﻿CHAPTER 113 â€” THE OBJECT AND THE COUNT
+CHAPTER 113 â€” THE TALLY
 
-I had not carried the object in months — not the second one, the one from Bellweather House, but the one I had carried all my life, the one that had come to me in the wooden box before I could remember. The one that had warmed at the keeper's sign in the first year, and at the first sign on the wall of the common house, and at the door beneath the mill.
+I did not see Adeline Brume for two weeks after the night in the reading room.
 
-It lay in the drawer, with the gear, and the red book, and the agreement, and the key to the reading room. I had not worn it since the winter of my first year, when I had carried it to the chamber beneath Bellweather House and set it in the first sign on the floor.
+I did not expect to. I had kept the book. I had refused to give it to the society. And I could not tell for certain what that meant — whether I had passed a test by keeping it, as I had half-believed in the moment, or whether I had set myself against the society by refusing to hand it over. Adeline had given me no answer. She had given me only a sentence about the tally, and the warning that the society would not stop looking, and the knowledge that I had told her something I had meant to keep to myself.
 
-I took it out now.
+I could not yet tell what the society would do next. I could not say whether they would ask more of me, or whether they would leave me be, or whether the working relationship had ended before it had truly begun.
 
-It lay in my hand, cold, the first sign on its face â€” the circle, the three lines, the dot. The mark of the maker. The same mark that was on every stone of the wall, at the base, hidden where the earth covered it.
+I kept the account. I walked the boundary. I kept the Tokens and the gear in the drawer, where they had lain since the winter. I wrote in the red book.
 
-I held it up, and I looked at it, and I thought about the count.
+And I read the book of the first keeper.
 
-The stones had the first sign at their base. The object had the first sign on its face. The tally was in the hand of the first keeper. The boundary was set to mark the count.
+I read it slowly, a page at a time, in the evenings, and I did not rush it. The book was not long, but it was the account of a life, and I read it as a life should be read â€” carefully, without hurry.
 
-I could not yet tell what the stones were counting.
+The first keeper had set the boundary. He had carved the sign. He had built the house. He had made the agreement. He had kept the tally.
 
-But I knew that the first sign was the language of the count.
+And at the end of the book, on the last page, he had written the sentence I had already read: *I have kept my word. I have kept the keeping. I have erased myself so that the keeping will be kept for its own sake, and not for mine.*
 
-And the object was the first sign made manifest.
+I read the sentence many times.
 
-I put the cord around my neck. I carried the object against my chest, the way I had worn it in the years before, when I had carried it without knowing what it was.
-
-I wore it to the boundary.
+And I began to count the tally.
 
 ---
 
-I walked the line of stones, with the object warm against my chest.
+The tally was the page of marks I had seen on the first page â€” small marks, like tally-marks, running in rows across the page.
 
-The object had always warmed near the keeper's sign, near the door, near the stones. I had tested it, in the first year, and it had warmed at the keeper's sign in the earth, and at the first sign on the wall of the house, and at the door.
+I had looked at them once, and I had not understood them. I had turned the page, and I had read the words, and I had not gone back to the marks.
 
-I walked the boundary now, and I watched the object.
+Now I went back.
 
-It warmed at the first stone.
+I took the book, and I opened it to the first page, and I looked at the tally, and I counted.
 
-It warmed at the second.
+The marks ran in rows. Each row had a certain number of marks. The rows were arranged in groups.
 
-It warmed at the third, and the fourth, and the fifth.
+I counted the marks.
 
-It warmed at every stone.
+There were more than I had expected. Many more than the years of the keeping as I knew it â€” more than the fifty years of Vale, more than the twenty years of the keeper before him, more than the years of Aurelius.
 
-I stood at the end of the wall, and I looked at the object, and I understood.
+I counted again.
 
-The object warmed at every stone â€” because every stone carried the first sign.
+The tally was not a count of the years of the keeping as I knew it.
 
-The first sign on the object was the same as the first sign on the stones.
+It was a count of something older.
 
-And the object was warm.
+And there was a thing about it that troubled me more than the size of the number. The first keeper had written, in his own hand, that the tally was the count of the years — that he had kept it since the first year, one mark for each year. He had written it plainly, without doubt. But a man's life has a measure to it. A man who sets a boundary, and carves a sign, and builds a house, and makes an agreement — such a man has forty years, sixty years, at most the years of a long life. He does not have the years that stood in this tally. I had counted more marks than a man could have set in a lifetime of keeping, even if he had begun as a child and marked without ceasing until he died.
 
-I did not know what that meant.
+Either the first keeper had not been a man of ordinary years, or he had not begun counting at his own beginning, or the marks were not years at all — and the first keeper, who had written so carefully that they were, had been wrong about the thing he had kept longest.
 
-But I knew that the object was connected to the stones â€” to every stone, not just to the boundary as a whole.
+I could not tell which. The book gave no answer. But I understood that the tally was a contradiction made of marks — a count that the man who kept it had named, and a count that could not have been kept by the man who named it — and that the contradiction was not a flaw in the record. It was the record.
 
-The object was the first sign.
+I looked at the marks, and I understood that I did not know how to read them. I did not know what the first keeper was counting. I could not say whether the marks were years, or months, or something else entirely.
 
-The stones were the first sign.
+I set the book down.
 
-The count was the record of the first sign.
+I sat in the dark, and I thought about the tally.
 
-I stood at the end of the wall, with the warm object against my chest, and I understood that I had been carrying the key to the count all my life.
+The first keeper had written that the tally was the count of the years. He had written: "I have kept it since the first year, one mark for each year, so that the keeper who comes after will know how long the keeping has stood."
 
-The object.
+And I had counted the marks, and the marks were more than the years of the keeping as I knew it.
 
-The first sign.
+I could not tell for certain what that meant.
 
-I had carried it without knowing what it was.
+I had no way of knowing whether the tally was longer than the keeping I knew, or whether the keeping was older than I had believed, or whether I had counted wrong.
 
-Now I was beginning to understand.
+I opened the book again. I counted the marks again.
 
----
+The count was the same.
 
-I went to the chamber beneath Bellweather House.
+I sat in the stillness, with the book before me, and I understood that the tally was not a thing I could read â€” not yet.
 
-I had not been there since the winter. I had not needed to go. The chamber was there, and the first sign was on the floor, and I had set the object in it once, and I had felt the place beneath.
+I had read the words. I had understood the account of the first keeper's life.
 
-I went now.
+But the tally â€” the count of the years â€” was a language I did not yet speak.
 
-I entered the house at the end of the lane. I crossed the bare room. I knelt at the trapdoor and opened it.
+I put the book in the drawer, beside the red book.
 
-I went down into the passage.
+I could not say what the tally counted.
 
-The first signs marked the way â€” the circle, the three lines, the dot, carved into the stone at intervals.
-
-I walked the passage, with the object warm against my chest, and I came to the chamber.
-
-The first sign was on the floor.
-
-I knelt.
-
-I took out the object. I set it in the first sign on the floor, the way I had set it in the winter.
-
-The stone warmed.
-
-I put my hand to the floor, beside the object. The warmth rose through the stone, into my hand.
-
-The place beneath.
-
-I knelt there, with the object set in the first sign, and I did not take it away.
-
-I stayed.
-
-I did not know how long I stayed.
-
-And then I understood.
-
-The first sign on the floor of the chamber was the same as the first sign on every stone of the wall.
-
-The chamber was not separate from the boundary. The chamber was part of it.
-
-The first sign on the floor was the centre of the count.
-
-And the object, set in the first sign, was the counter.
-
-I could not say what the count was counting.
-
-But I understood that I was part of it.
-
-The keeper, and the object, and the first sign, and the stones.
-
-All of it, one count.
+But I knew that I would learn.
 
 ---
 
-I took the object from the floor.
+I went to see Ysabel the following day.
 
-I stood.
+She was at her house near the river, and she let me in, and I set the book on her table.
 
-I left the chamber. I walked back along the passage, past the first signs, up the ladder, and out of the house.
+"The book of the first keeper," I said. "I have read it. It is the account of his life â€” the boundary, the sign, the house, the agreement, the tally."
 
-I walked home through the streets, with the object warm against my chest, and I sat at my desk, and I opened the red book, and I wrote:
+"The tally," Ysabel said.
 
-*The object warms at every stone. The stones carry the first sign at their base. The chamber carries the first sign on its floor. The object is the first sign.*
+"There is a page of marks at the beginning," I said. "A tally. He writes that it is the count of the years â€” one mark for each year, kept since the first year."
 
-*The boundary is a count. The stones are counters. The chamber is the centre of the count. The object is the counter.*
+"And you have counted them."
 
-*I do not know what the count is counting.*
+"I have counted them," I said. "And the count is more than the years of the keeping as I know it. More than Vale's fifty years, more than the keeper before him, more than Aurelius."
 
-*But I know that I am part of it.*
+Ysabel was silent a moment.
 
-*The keeper, and the object, and the first sign, and the stones.*
+"More than the years of the keeping as you know it," she repeated.
 
-*All of it, one count.*
+"Yes."
 
-I closed the red book.
+"Then either the tally is not a count of years," she said, "or the keeping is older than you have believed, or the tally is counting something else."
 
-I sat in the dark, with the warm Token against my chest, and I understood that the count was not only a number in a book. It was a thing that responded — a thing that knew the first sign when it was brought near, and that answered the setting of the object in the chamber floor with a warmth that rose through the stone. The count was alive in the way a thing is alive that has been kept for a long time by a hand that does not forget.
+I looked at her.
 
-I did not know who had set the first sign on the chamber floor. I did not know who had carved the first sign into every stone of the wall. I did not know who had added the hairline mark to the fourth stone, or whether the mark on the fourth stone and the mark at the centre of the chamber floor were the same kind of mark, added by the same hand.
+"That is what I thought," I said. "I do not know which."
 
-But I understood that I was not the only one keeping the count.
+She looked at the book. She did not open it.
 
-There were others — the man who had bought the empty box at the auction, the stranger who had come to Ashford in my first year and told me the count was running out, whoever had added the mark to the fourth stone. I did not know who they were, or how many of them there were, or whether they were watchers or keepers or something else. But I knew that they were there, and that the count was a thing more than one person was watching, and that the warmth of the object against my chest was not the first time the count had responded to a keeper's hand.
+"The first keeper wrote that the keeping is the thing, and the man is not," she said. "If that is true, then the tally is not the count of one man's years. It is the count of the keeping's years â€” the years the keeping has stood, whoever kept it."
 
-I did not know what the count was counting.
+I stood in her house, in the cold light, and I understood.
 
-But I knew that I was not alone in the keeping — and that the count was not waiting for me alone to finish it.
+The tally was not the count of the first keeper's life.
+
+It was the count of the keeping itself — the years the keeping had stood, from the first keeper to the present, from the setting of the boundary to the keeping of the account.
+
+And the count was more than I had believed.
+
+Because the keeping was older than the keepers I knew—older, perhaps, than the town itself, and certainly older than any record I could trust.
+
+I could not tell for certain how old.
+
+But I knew that I would find out.
+
+I looked at Ysabel. She had not touched the book. She had not opened it. She stood at her table, in the cold light, and there was something in her face that I had not seen before.
+
+"I hunted for twenty years," she said. "I found the second clock. I found the key's history. I found the name of the man who made the lock. I thought, when I found them, that I was close to the whole of it."
+
+"And you were not."
+
+"No." She looked at me. "You have been keeper for two years, and you have found the book of the first keeper, and the tally inside it is older than everything I spent twenty years learning. I do not know whether to be glad that the hunt is not over, or to be afraid of what it means that it has only just begun."
+
+I had no answer for her. I had no answer for myself.
+
+I went to the vestry that afternoon. The clerk was at his table, and I set the book of the first keeper before him — open to the page of marks.
+
+"Have you seen this number before?" I said.
+
+He looked at it for a long time. He did not touch the page.
+
+"I have seen the marks," he said. "In the margins of the wardens' book. But I have never counted them. The book of the wall is the book of the wall — I do not ask what the marks mean."
+
+"And if I told you the number?"
+
+He looked at me. "The number is not written in any book I keep, Mr. Ashcroft. It is not in the vestry records, or the parish register, or the census. It is not a number this town has ever recorded in the ordinary way." He paused. "The clerk before me used to say that the number was not ours to know — that it belonged to the keeping, and that the keeping was not the town's business. I did not understand him then. I am beginning to understand him now."
+
+I closed the book. I thanked him. I left the vestry.
+
+The number belonged to the keeping. It was not in any record the town kept. The clerks had known it was there, and they had let it be, generation after generation, without counting it, without asking what it meant. That was the weight of it — not that the number was hidden, but that it had been visible for so long that no one had looked at it.
 
 ---
 
-I went to see Ysabel the following evening.
+I did not open the book again that week.
 
-I set the object on her table. It was warm from the walk, warm against my chest, warm in my hand as I set it down. "It warms at every stone," I said. "I walked the boundary, and it warmed at every stone, and it warmed in the chamber when I set it in the first sign on the floor."
+I walked the boundary. I stood at the eastern marker. I looked at the first sign, carved into the stone, worn smooth by years.
 
-Ysabel looked at it. She did not touch it.
+The first sign. The mark of the maker. The mark that was on the object, and on the clocks, and on the box, and on the bell, and on the door.
 
-"Show me," she said.
+I had carried the object all my life. I had found the clocks, and the key, and the lock. I had read the letter of Aurelius. I had read the book of the first keeper.
 
-I took it up and held it out to her. She reached for it — and I saw her hesitate, the way a person hesitates before touching a thing they are not certain they should touch. She took it in her hand.
+And now I had found the tally â€” the count of the keeping's years.
 
-It lay in her palm, cold.
+I had no way of knowing what the count was.
 
-She held it a long moment. It did not warm. She looked at it, and then she looked at me, and I saw something pass across her face — not envy, but a kind of recognition, the recognition of a woman who had spent twenty years hunting and had never once been answered.
+But I knew that it was longer than the keeping I knew.
 
-"It does not warm for me," she said.
+And I knew that the keeping was older than the keepers I knew.
 
-"No."
+I stood at the eastern marker, in the grey light, and I understood that the mystery had not begun with Aurelius, and had not begun with Vale, and had not begun with the first keeper.
 
-"It does not warm for anyone I have ever known," she said. "I have held the second clock. I have held the key. I have held things that carried the first sign, and none of them ever warmed in my hand." She set the object back on the table between us. "It is answering you."
+It had begun before them â€” before the boundary, before the sign, before the house, before the agreement.
 
-I did not know what to say. I had thought the object warmed at the signs — that it was the place, not the hand, that called the warmth. But Ysabel held it at the same table, in the same house, and it stayed cold.
+And the tally was the count of those years.
 
-"It has answered you since the first year," she said. "The keeper's sign in the earth. The wall of the common house. The door beneath the mill. And now every stone of the wall." She looked at me. "It is not the count that is calling you, Mr. Ashcroft. It is the count that knows you are here. And I do not know whether that is a comfort, or a warning."
+I walked home through the fields, and I sat at my desk, and I opened the red book, and I wrote:
 
-I took the object from the table. It warmed in my hand again, the way it had warmed for years, and I understood that I had been given something that answered no one else — and that whatever the count was counting, it was counting it through me, and I did not yet know what it would do when the counting was done.
+*I have read the book of the first keeper. He kept a tally â€” one mark for each year, kept since the first year.*
+
+*I have counted the marks. The count is more than the years of the keeping as I know it.*
+
+*The tally is not the count of one man's years. It is the count of the keeping's years â€” the years the keeping has stood, whoever kept it.*
+
+*The keeping is older than the keepers I know.*
+
+*I do not know how old.*
+*But I will find out—whether the tally is older than the boundary, or the boundary is only a recent name for something that was never meant to be counted.*
+
+I closed the red book. I sat in the dark.
+
+The tally was too old to be one man's count. The first keeper had called it years, and the marks outran a man's years. Somewhere in that contradiction there was a truth I had not yet learned to read — a number that the keeping had carried before the boundary, before the first keeper's own beginning, and that I was only now beginning to carry myself.
+
+I did not know what the tally counted.
+
+But I knew that I would not rest until I did.
+
 

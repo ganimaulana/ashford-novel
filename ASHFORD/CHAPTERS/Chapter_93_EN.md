@@ -1,125 +1,167 @@
-﻿CHAPTER 93 — THE DARK COAT
+CHAPTER 93 — THE HARLOW CLOCK
 
-I began to ask about the woman in the dark coat.
+I went to the Harlow house the following morning.
 
-I asked at the market. I asked at the inns. I asked at the shops, and the vestry, and the lending library. I described her as best I could — the dark coat, the still way she stood, the quiet voice that had said the object was lost long ago.
+The house was at the northern edge of Ashford, where the road narrowed and the fields began. It was older than the Fenn house, its roof sagging, its garden overgrown. A house that had been lived in for a long time and had not been cared for in recent years. The gate hung crooked on its hinges. The path was wet. The whole place had the air of a thing that had been allowed to go its own way for so long that no one remembered how to stop it.
 
-Most people had not seen her. Some had. The descriptions were always the same: a woman, neither old nor young, who stood very still, and who asked about things that had been lost.
+I knocked.
 
-"She came to my shop," said Winifred Calder, who kept the bookshop. "Two years ago. She asked about a book. A journal, she said. She described it exactly."
+A man answered. He was in his forties, with the look of a man who had inherited a house he had not asked for. His clothes were good but carelessly worn. He looked at me without interest, as if I were a delivery that had come to the wrong door.
 
-"Did you have it?"
+"Mr. Harlow?" I said.
 
-"No. She knew I did not. She came to ask whether anyone else had asked about it."
+"Samuel Harlow." He did not open the door fully. "What do you want?"
 
-"Had they?"
+I asked about the clock.
 
-She was quiet a moment. "She was not the first," she said. "A man came before her. He asked the same question."
+He was quiet for a moment. Then he opened the door and let me in.
 
-I stood in the shop.
+The house was cluttered. Books, papers, old furniture — the kind of clutter that accumulates when a family has lived in the same house for generations and has not thrown anything away. Stacks of newspapers rose from the floor. Coats hung on the backs of chairs. The air was close and dry, thick with dust and the smell of old paper.
 
-A man. Asking about the same book, before the woman in the dark coat.
+He led me through it without apology. He did not explain the mess, and he did not seem to notice it. It was simply the shape his life had taken.
 
-"What kind of book?" I said.
+"The clock is still here," he said. "No one has asked about it in years. I had forgotten about it."
 
-"A journal. Old, she said. Bound in dark leather. She could not remember the title, but she knew the cover, and the colour of the pages, and the way the spine was cracked."
+He led me to a back room, where a mantelpiece held a collection of old objects — a tarnished jug, a stack of plates, a wooden box with the lid askew, a bundle of letters tied with string. Among them, at the end, was a clock.
 
-I could not yet tell what the book was. I could not say whether it was connected to the clocks. But I knew that there were others asking questions. And I knew that they had been asking for a long time.
+I picked it up. It was identical to mine — the same size, the same brass case, the same cracked face. The hands were frozen at an hour I could not read. I turned it over.
 
-"Did you tell her about the man?"
+The first sign was there. Worn, but visible. The circle. The three lines. The dot.
 
-"I did. She did not seem surprised. She asked when he had come, and what he had looked like, and whether he had bought anything. I told her what I could, and she listened, and she thanked me, and she left."
+I held it for a long moment. It had sat on this mantelpiece, I thought, for generations. It had been wound and set and looked at a thousand times by hands that had never once turned it over. The mark had been there the whole while, hidden in plain sight, waiting.
 
-I left the bookshop with the same sensation I had felt in the lane — the sense that I was following a trail that had been walked before, by people who had been walking it for years.
+"Can I buy it?" I said.
 
----
+He looked at me. "You came all the way here for a broken clock?"
 
-I followed the trail through the autumn.
+"Yes."
 
-I asked about the woman in the dark coat. I asked about the man who came before her. I asked about the clocks, and the journals, and the objects that had been lost.
+He named a price. It was small. He did not ask why I wanted it. He did not seem curious at all. Perhaps he was glad to be rid of it. Perhaps the house had so many things in it that one more leaving meant nothing. I paid, and I left, with the second clock in my coat.
 
-The trail led me through Ashford, and out of it, and back again. I spoke to people who had seen the woman years ago, and people who had seen her last week, and people who had seen neither but had heard of both. The autumn turned toward winter. The days grew short. The wind was cold. I walked the streets of Ashford, and I asked, and I listened, and I began to understand that there was a pattern.
+At the door he paused. "There was a woman," he said. "Some years ago. Asked about the clock."
 
-The woman in the dark coat appeared when something was found. She appeared at markets, and auctions, and the houses of families who had kept old things. She asked about objects that had been lost, or hidden, or forgotten. She asked, and she listened, and she left.
+I stopped.
 
-She was not a collector. She was not a buyer. She was a seeker, moving through the town like a ghost, touching the edges of things and moving on.
+"What did she look like?"
 
-I traced her movements through the years. She had been seen at the Fenn house, buying the clock. She had been seen at the bookshop, asking about the journal. She had been seen at the lane, watching me. She had been seen at the shop near the river, asking about a key.
+"I don't remember," he said. "A coat. Dark, I think. She stood at the door and asked if we had a clock that had been in the family a long time. My father said no. She did not argue. She left."
 
-She was looking for something.
+"She did not see it?"
 
-I did not know what. But I knew that the clocks were part of it. And I knew that she had one of them.
+"She did not come in." He looked at me. "She never came in. She stood at the door, and she asked, and she left."
 
-I had three clocks. She had the second.
+I nodded. I thanked him. I walked away down the path, with the second clock in my coat, and I thought about the woman who had stood at the Harlow door and asked the same question I had asked.
 
-I did not know whether she was looking for the clocks, or whether she was looking for something else, and the clocks were only a part of it. But I knew that I had to find her.
+She had been close. She had been one refusal away from this clock. And something — a closed door, a father's lie — had kept it from her.
 
----
+It had been meant to come to me. Or I had been meant to be faster.
 
-In November, I found someone who had seen her recently.
-
-A man who kept a shop near the river, selling old tools and bits of metal. His name was I did not ask. His shop was a narrow place, dark and crowded, the shelves filled with things that had been taken apart and not put back together.
-
-He told me that a woman in a dark coat had come to his shop a week earlier.
-
-"She asked about a key," he said. "A key, old, iron, with a mark on it. She described it exactly. She said it had been lost for many years."
-
-"Did you have it?"
-
-"No. I told her I did not. She looked at me for a long time, and then she left. She did not ask again. She did not bargain. She simply looked at me, and she knew that I was telling the truth, and she left."
-
-"A key," I said.
-
-"With a mark," he said. "A circle, and three lines, and a dot. I remember because it was strange. She said it had been lost for many years, and she was trying to find it. She said it was important."
-
-I stood in the shop. The first sign. On a key.
-
-The woman in the dark coat was looking for a key. A key with the first sign on it.
-
-"Did she say anything else?"
-
-He thought. "She said the key was not a key to a door. She said it was a key to something else. She did not say what."
-
-I could not say whether the key was connected to the clocks. I could not tell for certain whether it was connected to the door, or the chamber, or the place beneath. But I knew that the first sign was on it. And I knew that the woman in the dark coat was looking for it.
-
-I thanked the man. I left the shop. I walked home through the cold streets, and I thought about the key.
-
-A key with the first sign. Lost for many years. Sought by the woman in the dark coat. A key not to a door, but to something else.
-
-I had three clocks. She had the fourth. Now I knew that she was looking for a key as well.
-
-I had no way of knowing what the key opened. I could not say where it was. But I knew that I had to find it before she did.
-
-The key was another piece of the same puzzle. The clocks, the key, the object, the door — they were all connected, and I did not yet know how. But I knew that the woman in the dark coat was ahead of me. She had been hunting longer. She knew about the key. She had seen the clock in my coat and known it for what it was.
-
-I had to find the key before she did.
+I could not tell which.
 
 ---
 
-I sat at my desk that night.
+I had two clocks.
 
-The three clocks were on the desk. The object was beside them. The first sign was on all of them.
+The Fenn clock had been sold to a woman in a dark coat years ago. The Harlow clock was now in my coat. The Wintour and Langford clocks were still missing.
 
-I thought about the woman in the dark coat. She had been looking for the clocks for years. She had found the second. She was looking for a key now. She had been seen at the Fenn house, the bookshop, the lane, the tool shop. She moved through Ashford the way a shadow moves through a room — present, then gone, leaving no trace except the memory of having been seen.
+I could not yet tell where to look for them. The families had disappeared from the records. The clocks had disappeared with them.
 
-I could not tell for certain who she was. I had no way of knowing what she wanted. I could not say whether she was an enemy, or a rival, or something else. She had not tried to take the clock from me. She had not threatened me. She had stood in the lane and spoken a single sentence, and she had walked away.
+I sat at my desk, with both clocks before me. They were identical. The same size. The same tarnished brass. The same first sign on the back.
 
-But I knew that she was ahead of me.
+I opened the Harlow clock. The mechanism was the same as the first. Inside the case, there was a mark I had not noticed before — a small mark, scratched into the brass, too faint to be seen without a direct light.
 
-She had the second clock. She knew about the key. She had been hunting longer than I had. She had been looking for Aurelius Ashcroft's leavings while I was still learning that the keeping had a history.
+A number.
 
-I opened the red book. I wrote:
+III.
 
-*The woman in the dark coat is looking for a key with the first sign on it. She has the second clock. She has been hunting longer than I have.*
+I picked up the first clock. I opened it. I looked inside the case. There was the same mark, in the same place.
 
-*I have three clocks. I do not have the key.*
+I.
 
-*I do not know what the key opens. But I know that the first sign is on it. And I know that I have to find it before she does.*
+I sat very still.
 
-I closed the book. I put it back in the drawer.
+The clocks were numbered.
 
-I was a keeper. I was a hunter. And the hunt was leading me somewhere I had not expected.
+I had the first and the third. The second was with the woman in the dark coat. The fourth was still out there.
 
-I could not tell for certain where the key was. I had no way of knowing what it opened. I could not say who the woman in the dark coat was. But I knew that I would find out.
+I did not know what the numbers meant. I did not know whether they were the order of manufacture, or the order of something else. I set the two clocks side by side and looked from one number to the other. I, III. They had been scratched into the brass with the same hand, I thought — the same pressure, the same spacing, the same deliberate care.
 
-The hunt continued. And I would follow the thread to its end.
+Whoever had numbered them had not wanted the numbers to be seen. They were hidden inside the cases, where only someone who opened the clock would find them. The mark on the back was for the world. The number inside was for the one who opened.
+
+That meant the clocks were meant to be opened.
+
+That meant the numbers were meant to be read.
+
+But I knew that I was missing two clocks.
+
+And I knew that I had to find the fourth before the woman in the dark coat found it.
+
+---
+
+I returned to the library.
+
+Marianne was there. I set both clocks on the table before her.
+
+"The Fenn clock was sold to a woman years ago," I said. "The Harlow clock was still with the family. I have it now."
+
+She looked at the two clocks. "You have two."
+
+"I need to find the fourth."
+
+"The Wintour and Langford families are gone," she said. "If the clocks are still with the families, they are not in Ashford."
+
+"Then where?"
+
+She was quiet a moment. "There is a record of the Wintour family moving north, toward Darlington, in the 1820s. The Langford family disappeared from the records entirely — no death records, no property transfers, nothing. They are the harder one."
+
+"Darlington," I said.
+
+"It is a long way."
+
+"Then I will go."
+
+She looked at me. "You are serious."
+
+"I have found two clocks with the first sign on them. There are two more. I will find them."
+
+She did not argue. She wrote down the details she had found about the Wintour family — the last known address, the names of the family members, the date of the move.
+
+I folded the paper and put it in my coat.
+
+"Thank you," I said.
+
+She nodded. She did not ask what I would do with the clocks. She did not ask why I was searching. She simply watched me leave.
+
+At the door I stopped. "Marianne. The woman who bought the Fenn clock. The man who sold my clock to Theo. There is someone in this town who knows about the clocks."
+
+"I know," she said. "I have known for a long time that there are more questions than answers in Ashford. That is why I keep the records."
+
+I left the library, and I walked home through the gathering dusk, and I thought about the road north.
+
+---
+
+I did not go to Darlington that week.
+
+I prepared. I wrote in the red book. I checked the boundary. I walked the stones. I made sure that the door was closed, and the bell was silent, and the houses were kept.
+
+The keeping was still my duty. I could not leave it unattended. The boundary did not care that I had found two clocks. The bell did not care that I was becoming something else. The stones stood where they had always stood, and they would stand whether I was there or not, but it was my hand that was supposed to know them.
+
+I walked the line on the third day, in the rain. I touched each stone. I spoke the words, or did not speak them, as the need took me. I stood at the end of the line and looked back at the way I had come, and I thought about the way north that I would take.
+
+But I knew that I would go.
+
+I had found two clocks. The fourth was out there, somewhere to the north. The woman in the dark coat knew about the clocks. The woman in the lane had thought the clock was lost.
+
+I could not say who she was. I could not tell for certain whether she was the same woman who had bought the Fenn clock.
+
+But I knew that I had to find the fourth clock before she did.
+
+I had become a keeper. I was becoming a hunter.
+
+And the hunt was leading me north.
+
+I stood at my desk, with the two clocks before me, and I thought about the road to Darlington, and the fourth clock, and the woman in the dark coat, and the woman in the lane, and the first sign that had led me to all of them.
+
+I had not been looking for the clock. But I had found it. And I would find the next one.
+
+I had no way of knowing where the road would lead. But I knew that I would walk it.
