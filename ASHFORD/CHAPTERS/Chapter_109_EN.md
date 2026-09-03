@@ -6,7 +6,7 @@ I did not expect to. I had kept the book. I had refused to give it to the societ
 
 I could not yet tell what the society would do next. I could not say whether they would ask more of me, or whether they would leave me be, or whether the working relationship had ended before it had truly begun.
 
-I kept the account. I walked the boundary. I kept the medallions and the gear in the drawer, where they had lain since the winter. I wrote in the red book.
+I kept the account. I walked the boundary. I kept the Tokens and the gear in the drawer, where they had lain since the winter. I wrote in the red book.
 
 And I read the book of the first keeper.
 

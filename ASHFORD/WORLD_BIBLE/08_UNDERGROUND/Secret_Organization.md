@@ -1,8 +1,8 @@
-# Secret Organization — The Hidden Circle (Working Title)
+# Secret Organization — The Hidden Circle (Working Title) — SUPERSEDED
 
-**Status:** 📘 WORKING CANON
-**Version:** 2.0
-**Last Updated:** 2026-08-28
+**Status:** 📘 SUPERSEDED / OBSOLETE WORKING CANON (2026-09-02)
+**Version:** 2.0 (LAST)
+**Superseded by:** `ORGANIZATIONAL_AFFILIATION_LEDGER.md` (2026-09-02)
 
 ---
 
@@ -182,3 +182,12 @@ See `LEON_LAYER_ARCHITECTURE.md` for the complete specification.
 ---
 
 **Version:** 2.0 | **Status:** 📘 WORKING CANON | **Last Updated:** 2026-08-28
+---
+
+## SUPERSESSION NOTICE (2026-09-02)
+
+This document was WORKING CANON. Per the Organizational Canon update (2026-09-02), it is SUPERSEDED.
+
+The Hidden Circle is treated as an obsolete working-canon concept. It is NOT merged with Constable. It is NOT merged with the Order of Severence. Leon's active organization is CONSTABLE (see ORGANIZATIONAL_AFFILIATION_LEDGER.md).
+
+Any references to the Hidden Circle in older files are superseded by the new organizational structure.

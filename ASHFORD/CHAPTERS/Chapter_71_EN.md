@@ -64,17 +64,17 @@ I stood in the yard, with the dog watching me, and the grey sky overhead, and th
 
 I thought of the man who had stayed. Goding had heard the bell, and he had known what it meant, and he had not gone after the keeper — not because he was afraid, or not only because he was afraid, but because his part was to stay. Someone had to stay. Someone had to remember the account of the Thursday of the bell, and carry it, and tell it to the next keeper when he came to ask the right question. I had come. I had asked. And he had told me. The keeper goes. The keeper's man stays. The man who stays is the one who tells the tale to the one who goes.
 
-I had the gear. I had the key to the tower. I had the medallions. I was the keeper. I could not yet tell whether I would go into the passage. I could not say whether I would open the door. But I knew that the bell had rung once, and that the keeper had not come back. And I knew that the bell was the keeper's bell.
+I had the gear. I had the key to the tower. I had the Tokens. I was the keeper. I could not yet tell whether I would go into the passage. I could not say whether I would open the door. But I knew that the bell had rung once, and that the keeper had not come back. And I knew that the bell was the keeper's bell.
 
 I thanked Goding. I walked home through the wet fields. I sat at my desk. I took out the red book. I wrote:
 
 Goding was the keeper's man. The keeper before Vale opened the door. The bell rang. The keeper went into the passage. He did not come back. Vale kept the door closed after that. The bell has not rung since.
 
-I have the gear. I have the medallions. I have the key to the tower. I am the keeper. I did not know what I would do. But I knew that the bell was the keeper's bell. And I knew that if it rang again, I would go into the passage. And I knew that I might not come back.
+I have the gear. I have the Tokens. I have the key to the tower. I am the keeper. I did not know what I would do. But I knew that the bell was the keeper's bell. And I knew that if it rang again, I would go into the passage. And I knew that I might not come back.
 
-I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the medallions away. I left them on the desk. And I sat in the dark, and I thought about the keeper before Vale, and about the bell that had rung, and about the passage, and about the door.
+I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the Tokens away. I left them on the desk. And I sat in the dark, and I thought about the keeper before Vale, and about the bell that had rung, and about the passage, and about the door.
 
-The keeper before Vale had opened it. He had not come back. Vale had kept it closed. I was the keeper now. And I did not know what I would do. The bell was the keeper's bell. The first sign was on its rim. The medallions warmed at it. And I held the key to the tower.
+The keeper before Vale had opened it. He had not come back. Vale had kept it closed. I was the keeper now. And I did not know what I would do. The bell was the keeper's bell. The first sign was on its rim. The Tokens warmed at it. And I held the key to the tower.
 
 I sat in the stillness, and I thought about the Thursday of the bell, and about the keeper who had not come back, and about the passage that had taken him. I could not say what I would do. But I knew that the bell was the keeper's bell. And I knew that the keeper's bell had rung once. And I knew that if it rang again, I would answer it.
 

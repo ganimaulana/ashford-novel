@@ -16,7 +16,7 @@ The winter was hard that year. The snow lay long on the fields, and the boundary
 
 On a night in January I went to the reading room.
 
-I had not been there since the autumn. I had not been called. The society had not asked anything of me since the book, and I had not asked anything of them, and the key to the reading room had lain in my drawer, between the medallions and the gear, and I had not used it.
+I had not been there since the autumn. I had not been called. The society had not asked anything of me since the book, and I had not asked anything of them, and the key to the reading room had lain in my drawer, between the Tokens and the gear, and I had not used it.
 
 I went because I wanted to think.
 

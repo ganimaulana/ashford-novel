@@ -1,6 +1,6 @@
 ﻿CHAPTER 78 — THE CHOICE
 
-I did not sleep for three nights. I sat at my desk, with the red book open, and the agreement in the drawer, and the medallions on the desk, and I did not sleep. The town slept; I heard it through my window — the last carts, the shutting of doors, the lamplighter's footsteps — and then the deep silence of the small hours, the first birds, the grey light, and still I sat at the desk, and I did not sleep. I was the keeper of the forgetting. I was the keeper of the remembering. And I could not yet tell what to do with them.
+I did not sleep for three nights. I sat at my desk, with the red book open, and the agreement in the drawer, and the Tokens on the desk, and I did not sleep. The town slept; I heard it through my window — the last carts, the shutting of doors, the lamplighter's footsteps — and then the deep silence of the small hours, the first birds, the grey light, and still I sat at the desk, and I did not sleep. I was the keeper of the forgetting. I was the keeper of the remembering. And I could not yet tell what to do with them.
 
 I had understood that the agreement was the forgetting — the town's choice to see nothing, to speak of nothing, to forget the door and the sign and the bell and the place beneath. I had understood that the account was the remembering — the record I was writing, the record of what the town had agreed to forget. And I was the keeper of both.
 
@@ -26,7 +26,7 @@ On the third night, Crowe came to my rooms. I had not seen him since the autumn 
 
 "I have been thinking."
 
-"I know." He came in. He looked at the desk — the red book, the medallions, the drawer closed over the agreement — and his look took in all of it and gave none of it back. "I have been watching. I have seen you at the vestry, and at the bakery, and at the church. I have seen you walk the streets, looking at the town as if you are the only one who knows something."
+"I know." He came in. He looked at the desk — the red book, the Tokens, the drawer closed over the agreement — and his look took in all of it and gave none of it back. "I have been watching. I have seen you at the vestry, and at the bakery, and at the church. I have seen you walk the streets, looking at the town as if you are the only one who knows something."
 
 I was silent.
 
@@ -86,4 +86,4 @@ That was the difficulty I could not resolve. The account would not tell the town
 
 I thought about Crowe, after he had gone. I had not asked him how he knew what he knew. I had not asked him how a man of the town had come to speak of the keepers and the keeping as if he had walked among them. I had not asked him what he wanted of me, or of the town, or of the door. He had told me the choice was the town's, and he had left, and I had sat in the dark, and I had not known whether he had come to help me or to watch me choose. He was an ally, I thought, or he was not. He was a friend of the keeping, or he was a man who had been waiting, like the rest of them, and who had chosen to wait close.
 
-I sat in the dark until the lamp burned low, with the drawer closed and the medallions warm on the desk, and I understood that the keeping would not give me an answer. It would give me only the question, held carefully, until the town was ready to ask it for itself. And I would hold it. I would hold it the way the clerk held his blanks, the way the keepers had held the margins, the way the agreement had been held since Aurelius Ashcroft put his name to it. I would hold the question, and I would not answer it for the town, and I would wait to see whether the town ever came to ask.
+I sat in the dark until the lamp burned low, with the drawer closed and the Tokens warm on the desk, and I understood that the keeping would not give me an answer. It would give me only the question, held carefully, until the town was ready to ask it for itself. And I would hold it. I would hold it the way the clerk held his blanks, the way the keepers had held the margins, the way the agreement had been held since Aurelius Ashcroft put his name to it. I would hold the question, and I would not answer it for the town, and I would wait to see whether the town ever came to ask.

@@ -12,7 +12,7 @@ I crossed the clearing.
 
 I did not know what I would find inside. I did not know whether the house was connected to the count, or to the keeping, or to something else entirely. But I knew that I had to enter.
 
-The medallions were warm against my chest. They had been warm since I entered the marsh, and the warmth had grown as I approached the house. Now they were hot — not uncomfortably so, but noticeably, a heat that I could feel through the cloth of my shirt.
+The Tokens were warm against my chest. They had been warm since I entered the marsh, and the warmth had grown as I approached the house. Now they were hot — not uncomfortably so, but noticeably, a heat that I could feel through the cloth of my shirt.
 
 I reached the door. I put my hand on the latch. It was not locked. I pushed it open.
 
@@ -38,7 +38,7 @@ The first sign.
 
 I stood in the empty room, in the cold air, and I looked at the first sign on the wall. It was cut into the plaster, deep and clean, as if it had been made yesterday. The edges were sharp. The lines were straight. The circle was perfect.
 
-I had seen this mark before. I had seen it on the medallion I had carried all my life. I had seen it on the stones of the boundary in Ashford. I had seen it on the floor of the chamber beneath the common. I had seen it on the bell, and the clocks, and the key, and the box.
+I had seen this mark before. I had seen it on the Token I had carried all my life. I had seen it on the stones of the boundary in Ashford. I had seen it on the floor of the chamber beneath the common. I had seen it on the bell, and the clocks, and the key, and the box.
 
 The first sign. The mark of the maker.
 
@@ -64,7 +64,7 @@ There was nothing in the house but the first sign on the wall.
 
 I stood in the back room, in the dark, and I thought about the first sign.
 
-The first sign was on the medallion I had carried all my life. It was on the stones of the boundary. It was on the floor of the chamber. It was on the bell, and the clocks, and the key, and the box. And now it was on the wall of a house in the marsh.
+The first sign was on the Token I had carried all my life. It was on the stones of the boundary. It was on the floor of the chamber. It was on the bell, and the clocks, and the key, and the box. And now it was on the wall of a house in the marsh.
 
 I did not know what it meant. But I knew that I had been led here.
 
@@ -98,7 +98,7 @@ And I would keep it, too, until I understood it — or until I understood that I
 
 I sat in the clearing. The grey light settled over the marsh. The reeds stood still. The water was flat and dark. The house stood at the centre of it all, patient and silent, waiting.
 
-I thought about the first sign. The circle. The three lines. The dot. I had seen it in the vestry book, in the pages of the first keeper. I had seen it on the medallion, on the stones, on the floor of the chamber. And now I had seen it on the wall of this house, in the middle of a marsh that was not on any map.
+I thought about the first sign. The circle. The three lines. The dot. I had seen it in the vestry book, in the pages of the first keeper. I had seen it on the Token, on the stones, on the floor of the chamber. And now I had seen it on the wall of this house, in the middle of a marsh that was not on any map.
 
 The first sign was everywhere. It was in the beginning, and it was in the end. It was on the bell, and on the clocks, and on the key. It was the mark of the maker, and it was the mark of the keeper.
 

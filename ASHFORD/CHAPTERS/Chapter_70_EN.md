@@ -46,7 +46,7 @@ I walked around it. The bell was plain. No engraving, no inscription, no mark â
 
 A circle. Three lines through it. A single dot. The first sign. Cut into the rim of the keeper's bell.
 
-I stood in the bell chamber, in the grey light, and I looked at the first sign on the bell. The first sign was on the medallions. The first sign was on the wall of the common house. The first sign was on the bell.
+I stood in the bell chamber, in the grey light, and I looked at the first sign on the bell. The first sign was on the Tokens. The first sign was on the wall of the common house. The first sign was on the bell.
 
 I took the object from my coat. I held it up to the mark on the bell. The object was warm. I felt the warmth through the metal, the same warmth I had felt at the common, at the keeper's sign, at the door.
 
@@ -68,9 +68,9 @@ The bell is the third sign. The gear is the Order's sign. The bell is the keeper
 
 I have the keeper's key. Vale never took it. I did not ring the bell. I do not know what would happen if it rang.
 
-I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the medallions away. I left them on the desk. I left the keeper's key on the desk, beside them.
+I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the Tokens away. I left them on the desk. I left the keeper's key on the desk, beside them.
 
-And I sat in the dark, and I thought about the bell, and about the first sign on its rim, and about the medallions that warmed at it, and about the house at the end of the lane, and the house that appears, and the door, and the signs.
+And I sat in the dark, and I thought about the bell, and about the first sign on its rim, and about the Tokens that warmed at it, and about the house at the end of the lane, and the house that appears, and the door, and the signs.
 
 The bell was the third sign. The keeper's bell. The bell that does not ring. I could not tell for certain what it was for. But I knew that it had been waiting. And I knew that I would find out.
 

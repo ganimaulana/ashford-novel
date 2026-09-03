@@ -559,7 +559,7 @@ ASHFORD — 12 NOVEMBER 1816
 
 19:42 — arrived at the stop.
 
-19:58 — arrived at the house, Bellweather Lane (no number).
+19:58 — arrived at the house, Bellweather Lane (no number given; the plate above the door bears a symbol, not a number).
 
 Helen received me. Said I had "come earlier than expected."
 
@@ -573,7 +573,7 @@ The "key found" notice — November 1798.
 
 I stopped.
 
-I was indeed accustomed to noting the things that caught my attention, but tonight the notes felt different. The small details that usually remained mere fragments of atmosphere seemed to begin forming a pattern: the symbol appearing in several places, the house without a number, the notice that had survived for eighteen years, and the way Helen looked at me as if she already knew me before I had introduced myself.
+I was indeed accustomed to noting the things that caught my attention, but tonight the notes felt different. The small details that usually remained mere fragments of atmosphere seemed to begin forming a pattern: the symbol appearing in several places, the house whose number was not given, the notice that had survived for eighteen years, and the way Helen looked at me as if she already knew me before I had introduced myself.
 
 If Helen were only waiting for a new tenant, there was no reason to say I had come early.
 
@@ -799,7 +799,7 @@ Beyond it opened the town's wider space.
 
 Market Square.
 
-A Tuesday.
+A Wednesday.
 
 The market stalls were beginning to be set up.
 

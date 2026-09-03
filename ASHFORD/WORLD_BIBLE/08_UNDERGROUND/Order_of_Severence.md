@@ -21,7 +21,7 @@ The previous medical/research/Power-User framing (Version 1.0, 2026-08-31) is **
 **First chapter appearance:** Ch 41
 
 ### Historical Nature
-A secret society operating in and around Ashford, concerned with preservation of the boundary established in older times and with the Agreement that bound certain families to a custodial role. The Order is NOT automatically allied with or hostile toward Leon's organization (per `Secret_Organization.md` and per Phase 3H D7).
+A secret society operating in and around Ashford, concerned with preservation of the boundary established in older times and with the Agreement that bound certain families to a custodial role. The Order is NOT automatically allied with or hostile toward the **Constable** organization (Leon's organization) — per `ORGANIZATIONAL_AFFILIATION_LEDGER.md` (2026-09-02) and per Phase 3H D7. Constable ≠ Order of Severence.
 
 ### Objective
 Maintain and interpret the Agreement. Observe the boundary. Watch the keeper(s). Resolve disputes among members about how the boundary and Agreement should be treated (some seek preservation, some seek severance, some seek understanding before either).
@@ -78,7 +78,7 @@ Per Phase 3H D7: The medical/Power-User framing is superseded. The Order's curre
 
 | Character | Title | Role | File |
 |-----------|-------|------|------|
-| Thomas Vale | The Old Constable | Former constable, keeper of the Agreement (until Ch 47) | `../04_CHARACTERS/characters/Thomas_Vale.md` |
+| Thomas Vale | The Old Constable | Former constable, keeper of the Agreement (until Ch 47). **Affiliation NOTE (2026-09-02): the manuscript does not establish Vale as an Order member. Per `ORGANIZATIONAL_AFFILIATION_LEDGER.md`, his Order affiliation is UNRESOLVED. He is listed here only as a name/existence roster entry, not as confirmed membership.** | `../04_CHARACTERS/characters/Thomas_Vale.md` |
 | Silas Crowe | The Field Man | Order member; appears Ch 41, Ch 44, Ch 47 | `../04_CHARACTERS/characters/Silas_Crowe.md` |
 | Eleanor Shaw | The Archivist | Order member; appears Ch 41 | `../04_CHARACTERS/characters/Eleanor_Shaw.md` |
 | Nathaniel Graves | The Purist | Order member; appears Ch 44 (the "Graves" of Ch 44) | `../04_CHARACTERS/characters/Nathaniel_Graves.md` |
@@ -88,9 +88,9 @@ Per Phase 3H D7: The medical/Power-User framing is superseded. The Order's curre
 
 ---
 
-## Relationship with Leon's Organization
+## Relationship with the Constable Organization
 
-[CANON per Phase 3H D7] — The Order of Severence is not automatically allied with or hostile toward Leon's organization (`Secret_Organization.md`). The relationship should remain nuanced.
+[CANON per Phase 3H D7 and 2026-09-02] — The Order of Severence is not automatically allied with or hostile toward the Constable organization (Leon's organization). The relationship should remain nuanced. Constable ≠ Order of Severence.
 
 Possible areas:
 - Ideological disagreement
@@ -98,6 +98,7 @@ Possible areas:
 - Intelligence exchange
 - Disagreement over the Agreement's interpretation
 - Disagreement over Keeper succession
+- Infiltration / informants within the Constable watch (infiltration ≠ membership)
 
 ---
 

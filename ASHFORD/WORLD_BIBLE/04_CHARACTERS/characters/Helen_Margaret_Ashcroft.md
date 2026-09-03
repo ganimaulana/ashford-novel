@@ -15,17 +15,34 @@
 - **First appearance:** Chapter 1
 - **Current story status:** Living in the house; secretive; observing Leon
 
-## Physical Presence
-- **Build:** UNRESOLVED
-- **Posture:** UNRESOLVED
-- **Face:** UNRESOLVED
-- **Hair:** UNRESOLVED
-- **Eyes:** UNRESOLVED
-- **Clothing:** Dresses modestly; practical
-- **Hands:** UNRESOLVED
-- **Movement:** UNRESOLVED
-- **Voice:** UNRESOLVED
-- **Habitual physical behavior:** Often found in the house, sometimes watching from windows
+## Physical Presence / Visual Canon
+**Status:** PROPOSED — awaiting author approval
+
+| Element | Value |
+|---------|-------|
+| Age | 45–55 (proposed) |
+| Build | Spare, capable — not frail |
+| Height | Average |
+| Complexion | Pale, fine lines at the eyes and mouth |
+| Face | Composed, narrow, economical |
+| Hair | Grey-streaked brown, pulled back under a white cap |
+| Eyes | Dark, steady — meets a speaker's gaze without flinching |
+| Clothing | Plain dark wool dress, high-collared, long-sleeved; muslin apron, always clean; white cap; practical low-heeled shoes |
+| Hands | Always occupied — pouring tea, folding linen, closing a drawer |
+| Behavioral signature | Answers after a small pause, weighing words; moves quietly, does not announce herself; has things ready before being asked — the fire lit, the tea poured |
+| Historical note | 1816. Household manager — grounded, composed, watchful. No "eyes that see too much" cliché. Her watchfulness is demonstrated through readiness, not mystical knowledge. |
+| Design principle | MEMORABLE THROUGH READINESS — the woman who has things ready before being asked; composed, not mysterious |
+
+- **Build:** Spare, capable (PROPOSED)
+- **Posture:** Composed, still
+- **Face:** Narrow, composed, economical (PROPOSED)
+- **Hair:** Grey-streaked brown, under a white cap (PROPOSED)
+- **Eyes:** Dark, steady (PROPOSED)
+- **Clothing:** Plain dark wool dress, apron, cap (PROPOSED)
+- **Hands:** Always occupied (PROPOSED)
+- **Movement:** Quiet, unhurried
+- **Voice:** Soft, measured
+- **Habitual physical behavior:** Has things ready before being asked; quiet presence; answers after a pause
 
 ## Personality
 - **Dominant traits:** Reserved, watchful, private

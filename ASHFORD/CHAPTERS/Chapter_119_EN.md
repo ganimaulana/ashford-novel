@@ -36,13 +36,13 @@ The boundary was not only a boundary. It was a tally. The stones themselves were
 
 I went to the chamber beneath Bellweather House.
 
-I had not been there since the winter. I had not needed to go — the medallion was in its place, the passage was sealed, the keeping of the house went on above without me. But I went now, with the realization cold in my chest, and I knelt at the trapdoor in the floor of the empty room and worked it open.
+I had not been there since the winter. I had not needed to go — the Token was in its place, the passage was sealed, the keeping of the house went on above without me. But I went now, with the realization cold in my chest, and I knelt at the trapdoor in the floor of the empty room and worked it open.
 
 The passage was dark and smelled of old earth and stone. The first signs marked the way along the wall, one after another, leading down, and I walked past them slowly, holding the lamp before me, until the passage opened into the chamber.
 
-I had stood in this chamber before. I had set the medallion in the first sign on the floor, and I had felt the warmth of the place beneath my hands, and I had left without looking closely at the thing I was standing in. I knelt now.
+I had stood in this chamber before. I had set the Token in the first sign on the floor, and I had felt the warmth of the place beneath my hands, and I had left without looking closely at the thing I was standing in. I knelt now.
 
-The first sign was cut into the floor at the centre of the chamber. The circle. The three lines. The dot. It was the same sign as the sign at the base of every boundary stone, the sign the whole keeping was built around — and I had knelt in it, and set the medallion in it, and felt the warmth of it, and I had never once looked at its centre.
+The first sign was cut into the floor at the centre of the chamber. The circle. The three lines. The dot. It was the same sign as the sign at the base of every boundary stone, the sign the whole keeping was built around — and I had knelt in it, and set the Token in it, and felt the warmth of it, and I had never once looked at its centre.
 
 I looked now.
 
@@ -50,7 +50,7 @@ At the centre of the sign, where the three lines crossed, there was a mark. A sm
 
 I knelt there in the lamplight, in the silence of the chamber, and I understood.
 
-The chamber was the centre of the count. I had known it was important — the medallion, the warmth, the place beneath — but I had not understood that the chamber itself was the tally, and that the first sign on its floor was the page on which the marks were being written. Someone came here. Someone had cut this mark into the floor of the chamber, and someone had cut the mark into the fourth stone, and the tally was being kept, one mark at a time, by a hand I had never seen.
+The chamber was the centre of the count. I had known it was important — the Token, the warmth, the place beneath — but I had not understood that the chamber itself was the tally, and that the first sign on its floor was the page on which the marks were being written. Someone came here. Someone had cut this mark into the floor of the chamber, and someone had cut the mark into the fourth stone, and the tally was being kept, one mark at a time, by a hand I had never seen.
 
 I did not know how many marks had been made. I did not know how many were left. But I knew that I was part of it. The keeper is part of the count. And the count was being kept under my keeping, in the dark, without my ever hearing it.
 

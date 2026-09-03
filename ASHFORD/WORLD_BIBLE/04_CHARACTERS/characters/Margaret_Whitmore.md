@@ -6,7 +6,7 @@
 ## Basic Identity
 - **Full name:** Margaret [UNRESOLVED — surname unknown; Whitmore is proposed]
 - **Public name:** Margaret
-- **Age:** Middle-aged (exact not established)
+- **Age:** 30 (AUTHOR APPROVED — set 2026-09-03)
 - **Gender:** Female
 - **Occupation:** Tearoom/coffee shop owner at Margaret's
 - **Social position:** Respectable merchant class
@@ -15,17 +15,34 @@
 - **First appearance:** Chapter 2
 - **Current story status:** Active; local gossip and source of information
 
-## Physical Presence
-- **Build:** UNRESOLVED
-- **Posture:** UNRESOLVED
-- **Face:** UNRESOLVED
-- **Hair:** UNRESOLVED
-- **Eyes:** UNRESOLVED
-- **Clothing:** Practical, clean
-- **Hands:** UNRESOLVED
+## Physical Presence / Visual Canon
+**Status:** PROPOSED — awaiting author approval
+
+| Element | Value |
+|---------|-------|
+| Age | 30 (AUTHOR APPROVED 2026-09-03) |
+| Build | Sturdy, capable — a working woman of the shop |
+| Height | Average |
+| Complexion | Ruddy, warm, flushed from the oven |
+| Face | Round, strong jaw, open and pleasant |
+| Hair | Brown, pulled back under a white cap, strands escaping at the temples — NOT grey |
+| Eyes | Warm, frank; direct and lively |
+| Clothing | Plain wool dress with sleeves rolled, heavy linen apron dusted with flour, white cap, sturdy leather shoes |
+| Hands | Broad, strong, flour-dusted forearms |
+| Behavioral signature | Wipes her hands on her apron before speaking; stands with arms folded when she means what she says; voice carries over market noise |
+| Historical note | 1816. A young working shopkeeper — grounded, warm, practical. NOT a "mysterious old woman," NOT occult. |
+| Design principle | MEMORABLE THROUGH WARMTH — the living, ordinary heart of the town |
+
+- **Build:** Sturdy, capable
+- **Posture:** Efficient, busy
+- **Face:** Round, strong jaw, open and pleasant (PROPOSED)
+- **Hair:** Brown, under a white cap; strands at temples (PROPOSED)
+- **Eyes:** Warm, frank, lively (PROPOSED)
+- **Clothing:** Practical, clean; wool dress, linen apron, cap (PROPOSED)
+- **Hands:** Broad, strong (PROPOSED)
 - **Movement:** Efficient, busy
 - **Voice:** Firm, friendly
-- **Habitual physical behavior:** Wipes counters, arranges tables
+- **Habitual physical behavior:** Wipes counters, arranges tables; wipes hands on apron before speaking
 
 ## Personality
 - **Dominant traits:** Sociable, gossipy, shrewd, practical

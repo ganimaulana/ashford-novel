@@ -760,6 +760,8 @@ He came with me to Bellweather Lane. At the front door he paused, then walked sl
 
 Back at his office he drew out a drawer of old reports. "Because I could not name it myself," he said, "I looked for those who came before me." The records were thin and old, but they agreed: the disturbance returned on the same dates, year after year — from the thirteenth to the twenty-first of November. After the twenty-first it ceased, and Ashford went back to itself. No one had been harmed who simply waited it out and did not go looking for it.
 
+He paused, and looked at me levelly. "That is what the records say. They were kept by men who waited it out. I have never been able to tell you whether it is the whole truth — whether it ceases because it is over, or because it has found no one to go looking for it. The reports only ever watched the dates. They never once watched the watchers."
+
 I thought of Helen's face when she looked at the portrait. Of the dream that had come on the thirteenth and would not leave. "And the public does not know."
 
 "The public is better not knowing," Calloway said. "Some things are kept only by being left unspoken."

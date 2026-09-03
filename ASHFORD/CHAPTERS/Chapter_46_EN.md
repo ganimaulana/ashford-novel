@@ -144,21 +144,11 @@ Inside was a folded piece of cloth.
 
 He removed it carefully.
 
-The gear lay beneath.
+The cloth was empty.
 
-I had seen it before.
+"This is where it was kept," Vale said. "For fifty years. And then, when the time came, it was set where a thing must be found and not given. You found it at the mill."
 
-But this time it looked different.
-
-Perhaps because I knew what it had done near the stones.
-
-Perhaps because of what he had just told me.
-
-I reached toward it.
-
-"Wait."
-
-I stopped.
+I understood. What I carried in my pocket and what the box had held were not two gears. They were one. The gear had left the box the day it was set beneath the clock, and it had passed to me the night I knelt in the mill and picked it up. I took it out and set it on the table between us.
 
 The old constable looked at me.
 
@@ -204,7 +194,7 @@ He nodded.
 
 "Words become unreliable when people write about things they don't understand."
 
-I picked up the gear.
+I picked up the gear from the table.
 
 It was cold.
 

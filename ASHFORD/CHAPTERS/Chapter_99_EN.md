@@ -100,7 +100,7 @@ I put it in the red book, between the pages, where it would be kept with the acc
 
 The paper was old, and the book was old, and they had been waiting for each other. I did not fold the letter again. I laid it flat, and I closed the book over it, and I understood that I had joined two keepings — the one Aurelius had written, and the one I had written — and that from now on they would be read together.
 
-I put the clocks in the drawer, with the medallions, and the key.
+I put the clocks in the drawer, with the Tokens, and the key.
 
 I sat at the desk, and I opened the red book, and I wrote:
 

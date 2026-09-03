@@ -8,4 +8,5 @@
 
 ## Existing Canon
 - `08_UNDERGROUND/Order_of_Severence.md` — CANON, v2.0, boundary/severance faction
-- `08_UNDERGROUND/Secret_Organization.md` — CANON, Leon's Core secret society
+- `08_UNDERGROUND/Secret_Organization.md` — SUPERSEDED (2026-09-02). See `ORGANIZATIONAL_AFFILIATION_LEDGER.md` for current canon.
+- `08_UNDERGROUND/ORGANIZATIONAL_AFFILIATION_LEDGER.md` — CANON, 2026-09-02. Constable = Leon's organization. Order of Severence = separate secret org.

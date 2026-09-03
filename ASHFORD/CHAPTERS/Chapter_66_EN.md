@@ -40,13 +40,13 @@ I opened it. The lid was not locked. It lifted easily, on old hinges, with a sou
 
 I reached in and lifted it out. It was cold. I held it in my hand, and I turned it over, and I looked at its face. It bore the first sign. The circle, the three lines, the dot. The same sign as my object.
 
-I looked at my object on the table. I looked at the object in my hand. Two medallions. Two first signs. Two medallions, both bearing the same mark, both kept in wooden boxes, both kept hidden â€” one carried all my life, one kept in a house at the end of a forgotten lane.
+I looked at my object on the table. I looked at the object in my hand. Two Tokens. Two first signs. Two Tokens, both bearing the same mark, both kept in wooden boxes, both kept hidden â€” one carried all my life, one kept in a house at the end of a forgotten lane.
 
 I stood in the windowless room, with the second object in my hand, and I understood that the first sign had not been lost. It had been kept. Kept twice. Kept in a box that had been carried, and kept in a box that had been hidden. And I had been carrying one of them all my life, without knowing that there was another.
 
 ---
 
-I sat on the floor of the windowless room. I set both medallions on the table before me. I looked at them.
+I sat on the floor of the windowless room. I set both Tokens on the table before me. I looked at them.
 
 They were identical. The same size. The same tarnished metal. The same cord. The same first sign â€” the circle, the three lines, the dot.
 
@@ -54,19 +54,19 @@ I picked up the second object. It was cold. I held it in my hand, and I waited f
 
 I set it down. I picked up my own object. It was warm. I had not thought about it before â€” I had not compared them. I had not known there were two.
 
-I set my object down. I looked at the two medallions, side by side, one warm and one cold. And I understood. They were not the same. They looked the same, but they were not the same. One was warm. One was cold. One had been carried. One had been kept. One had answered the keeper's sign. One had not.
+I set my object down. I looked at the two Tokens, side by side, one warm and one cold. And I understood. They were not the same. They looked the same, but they were not the same. One was warm. One was cold. One had been carried. One had been kept. One had answered the keeper's sign. One had not.
 
 I could not yet tell what the difference meant. But I knew that there was a difference.
 
 I took the second object from the table. I held it in my hand. It was cold. I put it in my coat, beside my own.
 
-Two medallions. Two first signs. One carried. One kept.
+Two Tokens. Two first signs. One carried. One kept.
 
-I left the windowless room. I left the house at the end of Bellweather Lane. I closed the door behind me, and I walked the length of the lane, past Vale's house, back toward the town, with the two medallions against my chest.
+I left the windowless room. I left the house at the end of Bellweather Lane. I closed the door behind me, and I walked the length of the lane, past Vale's house, back toward the town, with the two Tokens against my chest.
 
 ---
 
-I sat at my desk. I took out both medallions. I set them side by side. My own object â€” warm. The second object â€” cold.
+I sat at my desk. I took out both Tokens. I set them side by side. My own object â€” warm. The second object â€” cold.
 
 I looked at them for a long time. They were identical. The same mark. The same metal. The same age. But one was warm, and one was cold.
 
@@ -82,18 +82,18 @@ I have carried one object all my life. The other was kept. I do not know which i
 
 I have come to the end of the lane. I have found the kept house. I have found the second object. And I have understood, for the first time, that I do not know what I have been carrying.
 
-I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the medallions away. I left them on the desk.
+I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the Tokens away. I left them on the desk.
 
-Two medallions. One warm. One cold.
+Two Tokens. One warm. One cold.
 
 I sat in the dark, and I looked at them, and I thought about the house at the end of Bellweather Lane, and about the box on the table, and about the second object that had been kept while the first had been carried.
 
-I had thought the mystery was about the door. I had thought it was about the signs. I had thought it was about the keeper's sign, and the Order's sign, and the first sign. I had not understood that there were two first signs. Two medallions. Two markers. One carried. One kept.
+I had thought the mystery was about the door. I had thought it was about the signs. I had thought it was about the keeper's sign, and the Order's sign, and the first sign. I had not understood that there were two first signs. Two Tokens. Two markers. One carried. One kept.
 
 And I had carried one all my life, without knowing what it was. I did not know what the second was for. I could not say why it had been kept.
 
 But I knew that I had found it. And I knew that the keeping â€” the long, silent keeping of the house at the end of Bellweather Lane â€” had been waiting for me.
 
-I had entered the kept house. I had found the second object. And I had understood that the mystery was not about the door. It was about the medallions. And I was the keeper of both. Two of thirteen—and the remaining eleven would reveal themselves as the count turned toward 00:00.
+I had entered the kept house. I had found the second object. And I had understood that the mystery was not about the door. It was about the Tokens. And I was the keeper of both. Two of the thirteen—and the remaining signs would reveal themselves as the count turned toward 00:00.
 
 

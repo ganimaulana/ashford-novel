@@ -6,7 +6,7 @@ I did not go to the lending library. I did not go to the house on the edge of As
 
 A working relationship with a society that had no name.
 
-I had been a keeper for two years. I had kept the agreement. I had kept the account. I had kept the boundary, the door, the bell, the houses, the medallions, the gear.
+I had been a keeper for two years. I had kept the agreement. I had kept the account. I had kept the boundary, the door, the bell, the houses, the Tokens, the gear.
 
 I had been a hunter since the clock in the market — a finder of things that were meant to stay hidden.
 
@@ -64,7 +64,7 @@ She looked at me.
 
 I stood at her door, in the cold.
 
-"The account," I said. "The boundary. The door. The bell. The houses. The medallions. The gear. The place beneath."
+"The account," I said. "The boundary. The door. The bell. The houses. The Tokens. The gear. The place beneath."
 
 "And what is the account for?"
 
@@ -150,7 +150,7 @@ I stood in the room, by the fire, with the key in my hand, and I understood that
 
 I had not joined the society. I had not bound myself to it. But I had taken a key, and I had accepted a place, and I had begun to work with others who kept the same kind of thing.
 
-The keeping was still mine. The account was still mine. The boundary, and the door, and the bell, and the houses, and the medallions, and the gear — they were all still mine.
+The keeping was still mine. The account was still mine. The boundary, and the door, and the bell, and the houses, and the Tokens, and the gear — they were all still mine.
 
 But I was not alone anymore.
 

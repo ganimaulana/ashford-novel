@@ -76,7 +76,7 @@ And at the end, there was a name. Not the name of the first keeper. The name of 
 
 *The house of the keeper who waits.*
 
-I read the words. The house of the bell that does not ring. I had not thought of a bell. I had not thought of the bell â€” the bell that had been missing in the winter, the bell that Goding had known about, the bell that had been at the centre of the mystery before I had found the gear and the door and the signs. The bell. I had not thought of it. I had been so deep in the passage, and the signs, and the medallions, that I had forgotten the bell.
+I read the words. The house of the bell that does not ring. I had not thought of a bell. I had not thought of the bell â€” the bell that had been missing in the winter, the bell that Goding had known about, the bell that had been at the centre of the mystery before I had found the gear and the door and the signs. The bell. I had not thought of it. I had been so deep in the passage, and the signs, and the Tokens, that I had forgotten the bell.
 
 I looked at the book. *The house of the bell that does not ring.*
 
@@ -102,7 +102,7 @@ I have carried the first sign all my life. I have returned it to the house at th
 
 And the bell â€” the bell that does not ring â€” is the third sign. The third sign is not the gear. The third sign is the bell. The gear is the Order's sign. The bell is the keeper's bell. The bell of the keeper who waits.
 
-I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the medallions away. I left them on the desk, both warm.
+I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the Tokens away. I left them on the desk, both warm.
 
 I had returned the first sign to Bellweather House. I had learned that the bell is the keeper's bell. And I had understood that the mystery was not about the door at all. It was about the keeping. The keeping of the first sign, the keeper's sign, the Order's sign, and the bell.
 
@@ -112,9 +112,9 @@ I had not known that the bell was part of it. I had not known that the bell was 
 
 I had returned it. I had carried the first sign all my life, and I had returned it to the house that had been waiting for it, and I had not known what I was doing. But I had done it. And the house had answered. And the bell â€” the bell that does not ring â€” was the keeper's bell.
 
-I did not know what it meant. But I knew that the bell was part of the keeping. And I knew that I would find out. I sat in the stillness until the lamp burned down. The two medallions lay on the desk, warm in the dark. The first sign, returned. And the bell — the keeper's bell — waiting.
+I did not know what it meant. But I knew that the bell was part of the keeping. And I knew that I would find out. I sat in the stillness until the lamp burned down. The two Tokens lay on the desk, warm in the dark. The first sign, returned. And the bell — the keeper's bell — waiting.
 
-I would go to the tower. I would find the bell. And I would learn what the keeper's bell was for. I had carried the first sign all my life without knowing it, and I had returned it to the house that had been waiting for it, and the house had answered, and the medallions had warmed, and I understood that the keeping had not begun with me and would not end with me. I was one hand in a line of hands that reached back beyond the first keeper, and the bell had been waiting at the end of that line, patient, silent, for me to find it.
+I would go to the tower. I would find the bell. And I would learn what the keeper's bell was for. I had carried the first sign all my life without knowing it, and I had returned it to the house that had been waiting for it, and the house had answered, and the Tokens had warmed, and I understood that the keeping had not begun with me and would not end with me. I was one hand in a line of hands that reached back beyond the first keeper, and the bell had been waiting at the end of that line, patient, silent, for me to find it.
 
 I did not yet know what I would find when I climbed the tower. I only knew that I would climb it — and that whatever the keeper's bell was for, it had been waiting a long time to be understood.
 

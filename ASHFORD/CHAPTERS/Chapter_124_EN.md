@@ -2,7 +2,7 @@
 
 I began to prepare the account in the autumn of the same year.
 
-The red book was full. I had filled it over the years of my keeping — the account of what I had found, what I had felt, what I had lost and kept and learned. It was the record of my own keeping, the thing I had written for myself, and it could not be given to another keeper the way it was. The keeper who came after me would need more than the account of one man's years. He would need to understand the keeping itself — the boundary, the sign, the house, the agreement, the door, the bell, the medallions, the gear, the count. He would need to know what I had learned, not only what I had done.
+The red book was full. I had filled it over the years of my keeping — the account of what I had found, what I had felt, what I had lost and kept and learned. It was the record of my own keeping, the thing I had written for myself, and it could not be given to another keeper the way it was. The keeper who came after me would need more than the account of one man's years. He would need to understand the keeping itself — the boundary, the sign, the house, the agreement, the door, the bell, the Tokens, the gear, the count. He would need to know what I had learned, not only what I had done.
 
 I began to write a new book.
 
@@ -54,9 +54,9 @@ I wrote the last page of the book of the keeping on a night in the spring, when 
 
 I sat at my desk, with the book before me, and I wrote:
 
-To the keeper who comes after: I have written this book so that you will not have to begin from nothing. It is the account of the keeping as I have understood it — the boundary, the sign, the house, the agreement, the door, the bell, the medallions, the gear, the count. I did not understand all of it. I do not think any keeper understands all of it. But I have written what I know, and I have kept what I could, and I have trusted the count to bring you here. The keeping is the thing. The keeper is not. You are the keeper now. The count has brought you. The tally is yours to keep. Keep the account. Keep the boundary. Keep the door. Keep the bell. Keep the medallions. Keep the gear. Keep the count. And when you have kept as long as you are meant to keep, write your own account, and leave it for the keeper who comes after you. That is the whole of the keeping.
+To the keeper who comes after: I have written this book so that you will not have to begin from nothing. It is the account of the keeping as I have understood it — the boundary, the sign, the house, the agreement, the door, the bell, the Tokens, the gear, the count. I did not understand all of it. I do not think any keeper understands all of it. But I have written what I know, and I have kept what I could, and I have trusted the count to bring you here. The keeping is the thing. The keeper is not. You are the keeper now. The count has brought you. The tally is yours to keep. Keep the account. Keep the boundary. Keep the door. Keep the bell. Keep the Tokens. Keep the gear. Keep the count. And when you have kept as long as you are meant to keep, write your own account, and leave it for the keeper who comes after you. That is the whole of the keeping.
 
-I set down the pen. I closed the book. I put it in the drawer, beside the red book, and the agreement, and the gear, and the medallions, and the key to the reading room.
+I set down the pen. I closed the book. I put it in the drawer, beside the red book, and the agreement, and the gear, and the Tokens, and the key to the reading room.
 
 I sat in the dark.
 

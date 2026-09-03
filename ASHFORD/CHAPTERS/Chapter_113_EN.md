@@ -142,7 +142,7 @@ I walked home through the streets, with the object warm against my chest, and I 
 
 I closed the red book.
 
-I sat in the dark, with the warm medallion against my chest, and I understood that the count was not only a number in a book. It was a thing that responded — a thing that knew the first sign when it was brought near, and that answered the setting of the object in the chamber floor with a warmth that rose through the stone. The count was alive in the way a thing is alive that has been kept for a long time by a hand that does not forget.
+I sat in the dark, with the warm Token against my chest, and I understood that the count was not only a number in a book. It was a thing that responded — a thing that knew the first sign when it was brought near, and that answered the setting of the object in the chamber floor with a warmth that rose through the stone. The count was alive in the way a thing is alive that has been kept for a long time by a hand that does not forget.
 
 I did not know who had set the first sign on the chamber floor. I did not know who had carved the first sign into every stone of the wall. I did not know who had added the hairline mark to the fourth stone, or whether the mark on the fourth stone and the mark at the centre of the chamber floor were the same kind of mark, added by the same hand.
 

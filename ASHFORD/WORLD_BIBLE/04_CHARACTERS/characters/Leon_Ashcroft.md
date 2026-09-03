@@ -16,16 +16,16 @@
 - **Current story status:** Actively investigating the history of Aurelius Ashcroft and Bellweather House
 
 ## Physical Presence
-- **Build:** Average, not described in detail
-- **Posture:** Observant, often seen writing or reading
-- **Face:** UNRESOLVED — DO NOT INVENT DURING CHAPTER WRITING
-- **Hair:** UNRESOLVED
-- **Eyes:** UNRESOLVED
-- **Clothing:** Wears a coat, vest, and carries a notebook; dresses practically for walking
-- **Hands:** UNRESOLVED
-- **Movement:** UNRESOLVED
+- **Build:** Slender, elegant build of middling height (PROPOSED)
+- **Posture:** Observant, often seen writing or reading; composed and upright
+- **Face:** Distinctive but not extravagant — refined oval, clean jawline, defined cheekbones, straight nose, composed mouth (PROPOSED)
+- **Hair:** Dark brown, naturally slightly untidy, cut in a period-plausible 1816 style (PROPOSED)
+- **Eyes:** Hazel, intelligent, observant, quietly alert (PROPOSED)
+- **Clothing:** Dark wool frock/travelling coat, buff layered waistcoat, plain white period shirt, neatly tied cravat, dark wool trousers, leather walking boots; carries a small notebook and pencil (PROPOSED)
+- **Hands:** Ink-marked fingertips from constant note-taking (PROPOSED)
+- **Movement:** Composed; weight evenly set; stops to write mid-walk
 - **Voice:** UNRESOLVED
-- **Habitual physical behavior:** Often carries a notebook and pencil; habit of recording details
+- **Habitual physical behavior:** Often carries a notebook and pencil; habit of recording details; eyes scan rooms and streets even in conversation
 
 ## Personality
 - **Dominant traits:** Observant, methodical, patient, cautious
@@ -71,12 +71,11 @@
 - He has found a locked door and an old key
 - He has received anonymous envelopes
 
-### Layer 3 (Circle Member — Known to Circle Only)
-- The Hidden Circle exists and is active in Ashford
-- He has been initiated as "Leon Ashcroft"
-- Circle members are observing and testing him
-- He has access to Circle archives and correspondents
-- He is being positioned as an heir to Aurelius's legacy
+### Layer 3 (Constable — Public/Operational Identity)
+- Constable is Leon's active organization (see `ORGANIZATIONAL_AFFILIATION_LEDGER.md`)
+- He operates within the watch/constabulary network of Ashford
+- His primary affiliation is CONSTABLE, not the Order of Severence
+- The "Hidden Circle" organizational concept is SUPERSEDED (2026-09-02). Leon is NOT a member of any "Hidden Circle" or "secret organization" as a primary affiliation. The nameless preservation society (Ch 100–108) is a working relationship, not membership.
 
 ### Layer 4 (Aurelius Legacy — Known to Inner Circle Only)
 - NOT YET REACHED

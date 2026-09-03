@@ -1,4 +1,4 @@
-# Chapter 10 — A Name on a Sheet
+﻿# Chapter 10 — A Name on a Sheet
 
 The letter to Pembroke & Clarke took me the better part of a morning, partly because I wrote it twice and partly because I wanted it to do two things without appearing to ask for either.
 
@@ -52,7 +52,7 @@ There was a hand-bill on the church door, and I did not know the thing until I w
 
 It called upon the respectable householders to enroll themselves in a voluntary association for the preservation of order in Ashford, and to give their names to the constable within the week, and to be steady men, and not to be led by designs to bring the peace, so lately preserved by Providence, into hazard.
 
-I stood in the fog a long time looking at it; the verger's church door and the magistrate's sheet, with a crowd going by it, which is the fate of all notices in the market of a Tuesday.
+I stood in the fog a long time looking at it; the verger's church door and the magistrate's sheet, with a crowd going by it, which is the fate of all notices in the market of a Wednesday.
 
 "They want the names against the price," said the woman at the pump by the steps, without looking up from the water, when no one had spoken to her — or perhaps about the weather, since the people about pumps speak to whatever is there. But it's what we do in a year that sees wheat sold at eight shillings the strike: "the price against them, and them against the price; and the sheet's for the price."
 

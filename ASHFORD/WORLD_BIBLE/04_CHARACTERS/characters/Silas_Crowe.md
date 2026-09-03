@@ -38,7 +38,29 @@ To be developed canonically in later chapters.
 
 ---
 
+## Visual Canon
+
+**Status:** PROPOSED — awaiting author approval
+
+| Element | Value |
+|---------|-------|
+| Age | Late 40s |
+| Build | Thin, not tall |
+| Height | Middling to slightly below average |
+| Complexion | Ordinary — NOT sallow, NOT pale-dramatic |
+| Face | Narrow, unremarkable; forgettable by design |
+| Hair | Dark, receding at temples, combed plainly without fuss |
+| Eyes | Dark, still; watches the mouth of the speaker rather than the eyes |
+| Distinctive feature | Total stillness of posture; mouth-directed gaze |
+| Clothing | Drab grey-brown coat, plain neckcloth, unremarkable contrast waistcoat, quiet boots; NO hat in company |
+| Accessories | None — deliberately unremarkable |
+| Behavioral signature | Lets himself into rooms without knocking; pauses before answering; does not gesture when speaking |
+| Historical note | 1816. Dressed to be overlooked. NO Order of Severence visual coding. |
+| Design principle | MEMORABLE THROUGH RESTRAINT — the inverse of Leon. Unease from stillness, never costume. |
+
+---
+
 **Status:** 📗 CANON
 **Version:** 2.0
-**Last Updated:** 2026-09-01
+**Last Updated:** 2026-09-03
 **Superseded version:** v1.0 (Field Commander / Bone Density / Power-User framing) archived at `ARCHIVE/SUPERSEDED_PROFILES/` — see related archived character profiles.

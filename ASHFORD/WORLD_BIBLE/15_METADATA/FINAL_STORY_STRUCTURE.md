@@ -42,6 +42,14 @@ Leon walks north to the marsh (the first ring), keeps the marsh house, receives 
 
 ---
 
+## ARC 1 STATUS & FUTURE ARCS
+
+**Chapters 1–137 constitute ARC 1 — BELLWEATHER.** It is COMPLETED and LOCKED.
+
+Future narrative development begins with **ARC 2 — FIRST CONTACT**. Arc boundaries after Arc 1 are intentionally undefined and must be determined organically during development. The full long-term planning framework is in `LONG_TERM_ARC_ROADMAP.md` (planning only; does not modify the manuscript).
+
+---
+
 ## MAJOR SETUP/PAYOFF CHAINS
 | Setup | Payoff |
 |-------|--------|

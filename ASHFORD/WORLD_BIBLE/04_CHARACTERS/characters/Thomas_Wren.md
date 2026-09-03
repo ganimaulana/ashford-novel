@@ -15,14 +15,31 @@
 - **First appearance:** Chapter 9 (mentioned), Chapter 10 (meeting), Chapter 11 (death)
 - **Current story status:** Deceased
 
-## Physical Presence
-- **Build:** UNRESOLVED
+## Physical Presence / Visual Canon
+**Status:** PROPOSED — awaiting author approval
+
+| Element | Value |
+|---------|-------|
+| Age | Elderly (died in Chapter 11) |
+| Build | Frail, elderly |
+| Height | Average |
+| Complexion | Pale |
+| Face | Frail, lined, elderly |
+| Hair | Grey or white, thin |
+| Eyes | Soft, tired, kind |
+| Distinctive feature | Notebook always at hand (kept a record) |
+| Clothing | Plain, elderly, worn — modest 1816 clothing |
+| Behavioral signature | Slow, unsteady movement; weak, labored voice; kept a notebook |
+| Historical note | 1816. A frail, elderly man near the end of his life — brief appearance (Ch 9–11). |
+| Design principle | MEMORABLE THROUGH FRAGILITY — a keeper of memories, dying |
+
+- **Build:** Frail, elderly
 - **Posture:** Frail, elderly
-- **Face:** UNRESOLVED
-- **Hair:** UNRESOLVED
-- **Eyes:** UNRESOLVED
-- **Clothing:** UNRESOLVED
-- **Hands:** UNRESOLVED
+- **Face:** Frail, lined (PROPOSED)
+- **Hair:** Grey or white, thin (PROPOSED)
+- **Eyes:** Soft, tired (PROPOSED)
+- **Clothing:** Plain, elderly, worn (PROPOSED)
+- **Hands:** Frail; keeps a notebook at hand (PROPOSED)
 - **Movement:** Slow, unsteady
 - **Voice:** Weak, labored
 - **Habitual physical behavior:** Possibly kept a notebook always at hand

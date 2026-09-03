@@ -8,7 +8,7 @@ Now I walked north.
 
 I could not yet tell where the road would take me. I could not say what I was looking for. I only knew that I had to walk, and that the walking was part of something I did not yet understand.
 
-I carried the medallions — the one I had carried all my life, and the one from the kept house — and the key to the reading room. I did not carry the gear; I had passed it to Daniel, with the book of the keeping and the agreement. I did not carry the red book — I had left it with Daniel, in the drawer.
+I carried the Tokens — the one I had carried all my life, and the one from the kept house — and the key to the reading room. I did not carry the gear; I had passed it to Daniel, with the book of the keeping and the agreement. I did not carry the red book — I had left it with Daniel, in the drawer.
 
 The account was his now.
 
@@ -84,9 +84,9 @@ I walked for hours.
 
 The marsh was quiet. The wind moved through the reeds. The water lay still. There were no birds, no animals, no sign of life but the marsh itself.
 
-The medallions were warm.
+The Tokens were warm.
 
-I had not noticed it at first. The warmth was subtle, a low heat against my chest, like the warmth of a body that had been lying in the sun. I had carried the medallions for years, and they had always been cool to the touch. But now they were warm.
+I had not noticed it at first. The warmth was subtle, a low heat against my chest, like the warmth of a body that had been lying in the sun. I had carried the Tokens for years, and they had always been cool to the touch. But now they were warm.
 
 I walked, and the warmth grew.
 
@@ -104,7 +104,7 @@ I stood in the reeds, in the grey light, and I looked at the house.
 
 And I felt it.
 
-Not the warmth of the medallions. Not the cold of the key. A different thing — a stillness, a waiting, the sense of a place that had been kept for a long time.
+Not the warmth of the Tokens. Not the cold of the key. A different thing — a stillness, a waiting, the sense of a place that had been kept for a long time.
 
 I had felt such things before.
 
@@ -132,7 +132,7 @@ But the feeling was the same.
 
 The same stillness. The same patience. The sense that the house had been waiting for something, and that it had been waiting for a very long time.
 
-I stood in the clearing. The medallions were warm against my chest. The key was cold in my pocket. The house stood before me, dark and silent, its door closed, its windows empty.
+I stood in the clearing. The Tokens were warm against my chest. The key was cold in my pocket. The house stood before me, dark and silent, its door closed, its windows empty.
 
 I did not know what I would find inside. I did not know whether it would be a door, or a sign, or a marker, or a chamber like the one beneath the common. But I knew that it had been waiting for me — the way the house at the end of the lane had waited, the way the chamber beneath the common had waited, the way the book of the first keeper had waited in Elias Marr's keeping.
 
@@ -166,7 +166,7 @@ The first sign.
 
 I stood in the empty room, in the cold air, and I looked at the first sign on the wall.
 
-The same mark that was on the medallion. The same mark that was on the stones of the boundary. The same mark that was on the floor of the chamber, and on the bell, and on the clocks, and on the key.
+The same mark that was on the Token. The same mark that was on the stones of the boundary. The same mark that was on the floor of the chamber, and on the bell, and on the clocks, and on the key.
 
 I had found it in the marsh.
 

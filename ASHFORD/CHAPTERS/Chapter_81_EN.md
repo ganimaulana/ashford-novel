@@ -1,6 +1,6 @@
 CHAPTER 81 — THE YEAR TURNS
 
-The spring came again to Ashford. I had been keeper for a year. I had kept the forgetting. I had kept the remembering. I had written the account. I had kept the houses, the bell, the medallions, the sign, the passage, the chamber, the place beneath. I had kept everything. And the spring came, and the snow melted, and the town woke from its winter sleep, and I was still the keeper.
+The spring came again to Ashford. I had been keeper for a year. I had kept the forgetting. I had kept the remembering. I had written the account. I had kept the houses, the bell, the Tokens, the sign, the passage, the chamber, the place beneath. I had kept everything. And the spring came, and the snow melted, and the town woke from its winter sleep, and I was still the keeper.
 
 I could not say what I had expected. I had expected the keeping to end, perhaps. I had expected the bell to ring again, or the house to appear, or the keeper before Vale to return. None of it had happened. The spring came, and the town went about its business, and I kept the account. The year had turned, and nothing had been taken from me, and nothing given. I had only been allowed to go on keeping. And I had begun to understand that this was the keeping — not an event, not a single night, but a long patience with no visible end.
 
@@ -90,11 +90,11 @@ I am the keeper. I have kept the forgetting. I have kept the remembering. I have
 
 But as I set down the pen, I understood that the sentence was not entirely true. I would pass on the account, yes. But the keeping — the keeping was not a thing that could be passed. It was a thing that had to be taken up. And I did not know whether the keeper who came after me would take it up, or whether it would take him.
 
-I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the medallions away. I left them on the desk, and I sat in the dark, and I was content. The account would outlast me. That was all I needed to do — except that the questions were still there, in the dark with me.
+I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the Tokens away. I left them on the desk, and I sat in the dark, and I was content. The account would outlast me. That was all I needed to do — except that the questions were still there, in the dark with me.
 
 The year had turned. I had turned with it. And I was still the keeper. That, at least, I could say with certainty — even if the certainty was all I had.
 
-I stood at the window in the grey light, and I looked at the town waking beneath the first warmth of the year. The snow was gone from the fields. The lamplighter moved along the High Street. The bakery was open, and I could smell the bread. It was an ordinary morning, and I was the keeper of the forgetting and the remembering, and no one knew it. Margaret had asked what I was watching. The clerk had told me that the keeper was the keeping's. And I carried both of those with me the way I carried the medallions — warm, and mine, and not mine.
+I stood at the window in the grey light, and I looked at the town waking beneath the first warmth of the year. The snow was gone from the fields. The lamplighter moved along the High Street. The bakery was open, and I could smell the bread. It was an ordinary morning, and I was the keeper of the forgetting and the remembering, and no one knew it. Margaret had asked what I was watching. The clerk had told me that the keeper was the keeping's. And I carried both of those with me the way I carried the Tokens — warm, and mine, and not mine.
 
 I did not know how long the keeping would hold me, or when the bell would ring again, or whether the house would appear. But I knew that I would keep the account, and that I would pass it on, and that the keeping would continue after me — not because I had made it strong, but because it had been strong before I was born.
 
