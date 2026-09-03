@@ -940,3 +940,199 @@ no exaggerated frailty
 - No occult symbols, glowing eyes, magical aura, or elder-wizard robes?
 - No secret-society costume or villain framing?
 - Does Graves look like an elderly, scholarly 1816 man who is unforgettable because of his dated deliberation?
+
+---
+
+# JAMES CALLOWAY — V2 GENERATION PACKAGE
+
+**Design principle:** MEMORABLE THROUGH GROUNDEDNESS.
+
+Calloway is the fourth note in the Ashford visual triad — the ordinary man against whom the supernatural reads. Where Leon is presence, Crowe is stillness, and Graves is deliberation, Calloway is GROUNDEDNESS: a solid, sun-beaten parish official who reads as instantly believable and reliably ordinary. He is memorable precisely because he belongs to the town — a local man who keeps the peace, not a uniformed officer, not a figure of mystery.
+
+He must NOT look like: a modern police officer, a Victorian constable from a later period, a sinister official, a fantasy guard, a heroic figure, an occult-adjacent functionary. He is the reader's ground truth: ordinary, solid, cautious, human.
+
+## 1. Canon Identity Lock
+
+| Element | Value | Status |
+|---------|-------|--------|
+| Age | Early 50s | PROPOSED |
+| Sex | Male | CONFIRMED |
+| Eye colour | Pale, measuring | PROPOSED |
+| Hair | Grey, thinning, cut short | PROPOSED |
+| Complexion | Sun-beaten, weathered | PROPOSED |
+| Build | Solid, not heavy | PROPOSED |
+| Height impression | Average to slightly above | PROPOSED |
+| Distinctive feature | Rubs jaw when thinking; planted stance | PROPOSED |
+| Recurring prop | None (no uniform, no truncheon emphasised) | PROPOSED |
+| Clothing identity | Plain dark coat, waistcoat, boots, round hat | PROPOSED |
+| Era | 1816 Britain | CONFIRMED |
+
+## 2. Shared Visual Identity (used verbatim in all four prompts)
+
+> A solid, weathered English man in his early 50s, year 1816. Broad face, heavy brow, strong jaw, deep weathering lines from outdoor life. Short grey, thinning hair. Pale, measuring eyes that weigh the viewer slowly. Solid, not heavy build; weight spread, feet planted — the posture of a man who walks and works. He wears a plain dark coat with useful pockets, a waistcoat not fully buttoned, a plain neckcloth, practical boots, and a round hat. The overall impression: a grounded, cautious, unhurried parish official — a local man who keeps the peace, not a uniformed officer.
+
+### Facial Construction
+
+- **Face shape:** broad, heavy brow, strong jaw
+- **Jawline:** strong, square, weathered
+- **Cheek structure:** broad, sun-beaten, deep lines
+- **Brow structure:** heavy, pronounced
+- **Nose:** solid, ordinary, weather-reddened
+- **Mouth:** set, careful; slow to commit
+- **Eye shape:** pale, measuring, hooded by weathered lids
+- **Eyelid structure:** creased from outdoor life
+- **Hairline:** thinning, grey, cut short
+- **Overall impression:** an ordinary, solid face of a man who has spent his life outdoors — believable, reliable, unhurried
+
+## 3. Anime Portrait Prompt
+
+> Sophisticated mature historical seinen anime portrait of a solid, weathered English man in his early 50s, year 1816. Waist-up framing. Refined anime facial construction with realistic human proportions: a broad face, heavy brow, strong square jaw, broad sun-beaten cheeks with deep weathering lines. Grey, thinning hair cut short, period-plausible for 1816. Pale, measuring eyes — restrained, NOT oversized — that weigh the viewer slowly. He wears a plain dark coat over a waistcoat not fully buttoned and a plain neckcloth. Cautious, unhurried expression — not threatening. Natural muted daylight, plain period interior, muted colour palette, cinematic composition, painterly / cel-shaded rendering with refined linework and detailed wool fabric texture. Restrained Gothic atmosphere, grounded realism. The character is unmistakably Calloway: the solid planted bearing, the jaw-rubbing thoughtfulness, the ordinary reliability. No uniform, no police styling, no occult coding.
+
+## 4. Anime Full Body Prompt
+
+> Sophisticated mature historical seinen anime full-body reference of a solid, weathered English man in his early 50s, year 1816. Full figure visible from head to feet, three-quarter view, neutral standing pose. Refined anime facial construction with realistic proportions: broad weathered face, heavy brow, grey thinning hair. Solid, not heavy build of average to slightly above height; weight spread, feet planted, hands at his sides — the posture of a man who walks and works. He wears a plain dark coat with useful pockets, a waistcoat not fully buttoned, a plain neckcloth, practical boots, and a round hat. Muted English town background (market square, brick and stone, overcast daylight), muted palette, cinematic composition, painterly / cel-shaded rendering with refined linework and detailed wool fabric texture. Full body visible — no cropped feet, no distorted hands, no excessive coat movement. Grounded, ordinary, reliable.
+
+## 5. Realism Portrait Prompt
+
+> Photorealistic historical portrait of a solid, weathered English man in his early 50s, year 1816. Waist-up framing. Realistic facial anatomy: broad face, heavy brow, strong square jaw, broad sun-beaten cheeks with deep weathering lines. Grey, thinning hair cut short, physically plausible and period-correct for 1816. Pale, measuring eyes with realistic detail that weigh the viewer slowly. He wears a plain dark coat over a waistcoat not fully buttoned and a plain neckcloth. Cautious, unhurried expression — not threatening. Natural muted daylight, plain period interior, restrained composition, subtle Gothic atmosphere. Realistic wool fabric texture, natural skin texture with weathering, no beauty filters. The character is unmistakably Calloway: the solid planted bearing, the jaw-rubbing thoughtfulness. No uniform, no police styling.
+
+## 6. Realism Full Body Prompt
+
+> Photorealistic historical full-body reference of a solid, weathered English man in his early 50s, year 1816. Full figure visible head to feet, three-quarter view, neutral standing pose. Realistic facial anatomy: broad weathered face, heavy brow, strong square jaw, grey thinning hair. Solid, not heavy build of average to slightly above height; weight spread, feet planted, hands at his sides. He wears a plain dark coat with useful pockets, a waistcoat not fully buttoned, a plain neckcloth, practical boots, and a round hat. Muted English town background (market square, brick and stone, overcast daylight), restrained composition, subtle Gothic atmosphere. Realistic wool fabric texture, natural skin and hair texture. Full body visible — no cropped feet, no distorted hands, no excessive coat movement. Grounded, ordinary, reliable.
+
+## 7. Shared Negative Constraints
+
+```
+no police uniform
+no Victorian constable styling
+no modern clothing
+no fantasy elements
+no occult symbols
+no supernatural aura
+no sinister villain framing
+no dramatic lighting
+no heroic posturing
+no exaggerated age or frailty
+no generic model appearance
+no post-1816 Victorian styling
+no steampunk
+no modern hairstyle
+no modern accessories
+no military uniform
+```
+
+## 8. Anime Negative Constraints
+
+```
+no chibi
+no childish appearance
+no oversized eyes
+no exaggerated proportions
+no bishounen exaggeration
+no neon colours
+no magical aura
+no fantasy anime armor
+no modern anime fashion
+no action-hero pose
+no dramatic villain lighting
+no anime spikes
+```
+
+## 9. Realism Negative Constraints
+
+```
+no plastic skin
+no fashion-model appearance
+no beauty-filter skin
+no modern haircut
+no modern tailoring
+no superhero physique
+no fantasy realism
+no excessive cinematic effects
+no glamour pose
+no police-uniform styling
+```
+
+## 10. Generation Notes
+
+- Calloway's "factor" is groundedness: the solid planted stance, the jaw-rubbing thoughtfulness, the ordinary reliability. Every prompt must carry these.
+- He is the reader's ground truth — believable, cautious, human. Not a figure of mystery.
+- He is a 1816 parish constable: a local tradesman/farmer who keeps the peace, NOT a uniformed metropolitan officer. No uniform, no truncheon emphasis.
+- Pale measuring eyes, grey thinning hair, broad weathered face are the stable identity elements.
+- Anime mode: mature seinen, muted palette, overcast light, grounded ordinariness.
+- Realism mode: photorealistic, natural weathered texture, the same reliable bearing.
+- No supernatural, occult, or fantasy coding in any version.
+- Model-agnostic: do not reference any specific artist, model, or existing character.
+
+## 11. Identity Consistency Checklist
+
+- [ ] Same approximate age (early 50s) in all four
+- [ ] Same facial structure (broad, heavy brow, strong jaw, weathered)
+- [ ] Same hair (grey, thinning, cut short)
+- [ ] Same eyes (pale, measuring)
+- [ ] Same build (solid, not heavy)
+- [ ] Same clothing (plain dark coat, waistcoat, plain neckcloth, boots, round hat)
+- [ ] Same planted stance
+- [ ] Same jaw-rubbing thoughtfulness
+- [ ] Same silhouette — recognizable by solidity and ordinariness
+- [ ] 1816 historical constraint respected in all four
+
+## 12. Approval Checklist
+
+- [ ] The four images look like the same person
+- [ ] Pale measuring eyes consistent
+- [ ] Grey thinning hair consistent
+- [ ] Plain dark coat + round hat consistent
+- [ ] No police/uniform styling in any version
+- [ ] No occult, supernatural, or fantasy coding
+- [ ] Calloway is grounded and believable — the ordinary man
+- [ ] No PROPOSED detail became CONFIRMED canon
+- [ ] Anime version is mature seinen (not action hero)
+- [ ] Realism version is photorealistic (not sinister or generic)
+
+## 13. Image Review Criteria — James Calloway
+
+### A. Identity Consistency
+- Is the character recognizably Calloway without context?
+- Are the broad weathered face, heavy brow, grey thinning hair, and pale measuring eyes intact?
+- Is the facial structure the same across Anime ↔ Realism?
+
+### B. Historical Accuracy
+- Is the plain dark clothing plausibly 1816?
+- Are the coat, waistcoat, neckcloth, boots, and round hat period-correct?
+- Is the hairstyle historically plausible?
+
+### C. Silhouette
+- Is Calloway's silhouette recognizable by its solidity and ordinariness?
+- Is it the same between Anime and Realism?
+
+### D. Facial Distinctiveness
+- Is the face weathered, solid, and ordinary without being sinister or heroic?
+- Are the pale measuring eyes the memorable element (cautious, weighing)?
+- No police, military, or fantasy features?
+
+### E. Clothing
+- Is the plain dark coat present with useful pockets?
+- Is the waistcoat not fully buttoned?
+- Is the round hat present?
+- Does NO item signal police/uniform or the supernatural?
+
+### F. Character Presence
+- Does the image convey groundedness, caution, and unhurried reliability?
+- Is the stance planted and solid?
+- Does Calloway read as the reader's ground truth — ordinary and human?
+
+### G. Anime / Realism Correspondence
+- Do the Anime and Realism versions depict the SAME person?
+- Is the Anime version mature seinen (not action hero)?
+- Is the Realism version photorealistic (not sinister or generic)?
+
+### H. Absence of Unintended Supernatural Cues
+- No occult symbols, glowing eyes, magical aura, or supernatural elements?
+- No police/military uniform or hero styling?
+- Does Calloway look like a believable 1816 parish official — the ordinary man against whom the strange is measured?
+
+---
+
+**Status:** V2 — JAMES CALLOWAY GENERATION PACKAGE + IMAGE REVIEW CRITERIA — DRAFT / PROPOSED (not APPROVED)
+**Last Updated:** 2026-09-03

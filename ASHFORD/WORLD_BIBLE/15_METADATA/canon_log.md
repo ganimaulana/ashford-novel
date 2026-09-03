@@ -34,6 +34,26 @@ This separation ensures that:
 
 ---
 
+## 2026-09-03: James Calloway Visual Generation Package V2
+
+**Event**: Added production-ready dual-mode generation package for James Calloway (Anime Portrait, Anime Full Body, Realism Portrait, Realism Full Body) to `CHARACTER_IMAGE_PROMPTS.md`.
+
+**Actions**:
+- Added `# JAMES CALLOWAY — V2 GENERATION PACKAGE` section after the Graves V2 package
+- Design principle: MEMORABLE THROUGH GROUNDEDNESS (fourth note in the Ashford visual triad: Leon=presence, Crowe=stillness, Graves=deliberation, Calloway=groundedness)
+- Contains: Canon Identity Lock, Shared Visual Identity, facial construction, 4 production prompts, 3 negative constraint sets, generation notes, identity consistency checklist, approval checklist, image review criteria
+- Calloway is the reader's ground truth — a believable 1816 parish constable, NOT a uniformed officer
+- No police/military styling; no occult or supernatural coding
+- No canon changed; no PROPOSED detail became CONFIRMED; no images generated
+- No manuscript files modified
+
+**Master Index Entry**:
+> JAMES CALLOWAY V2 generation package added. Four prompts share one Identity Lock. Memorable through groundedness. Broad weathered face + grey thinning hair + pale measuring eyes + plain dark coat + round hat. No uniform. No occult coding.
+
+**Status**: V2 — DRAFT / PROPOSED. No images generated.
+
+---
+
 ## 2026-09-03: Nathaniel Graves Visual Generation Package V2
 
 **Event**: Added production-ready dual-mode generation package for Nathaniel Graves (Anime Portrait, Anime Full Body, Realism Portrait, Realism Full Body) to `CHARACTER_IMAGE_PROMPTS.md`.
