@@ -1,702 +1,614 @@
-﻿CHAPTER 43 — THE FIRST TEST
+CHAPTER 43 — THE WATCHMAN
 
-My first assignment arrived without warning.
+The Order did not recruit me immediately.
 
-There was no letter.
+They watched.
 
-No meeting.
+At first, I was not certain of that.
 
-No formal instruction.
+Ashford was a small town. The same faces appeared everywhere. A man could pass you in the morning, stand behind you in the market at noon, and sit three tables away in an inn that evening without there being anything unusual about it.
 
-Calloway simply stopped me outside the records office one morning and said:
+I had spent enough time in the town to know that coincidence was common.
 
-"Go to the mill."
+So I did not call it observation.
 
-I waited.
+Not at first.
 
-He did not continue.
+Then I began noticing the repetitions.
 
-"What am I looking for?"
+A man I had seen near the library appeared outside the church two days later.
 
-"A boundary stone."
+A woman who had once stood beside Eleanor at the market was suddenly interested in the records office.
 
-"Which one?"
+Someone began asking Margaret questions about when I came into town.
 
-"The eastern marker."
+Nothing was ever direct.
 
-I looked at him.
+No one approached me.
 
-"Has something happened to it?"
+No one threatened me.
 
-"Go and see."
+No one even mentioned the Order.
 
-That was all.
+That was what made it difficult.
 
-He walked away before I could ask another question.
+If they wanted me to know I was being watched, they were very good at it.
 
-I stood outside the records office for a moment, watching him disappear into the morning crowd.
+If they wanted me not to know, they were even better.
 
-The instruction was simple.
+I began watching them in return.
 
-The reason was not.
+I changed the route I took home.
 
-I wrote it down anyway.
+Sometimes I stayed longer at the library.
 
-Eastern boundary marker. Mill.
+Sometimes I left through the rear entrance.
 
-Then I went.
+Once, I spent almost an hour sitting in a coffee room simply to see whether anyone would come looking for me.
 
-The old mill looked different in winter.
+Nobody did.
 
-The trees around it had lost most of their leaves, leaving the structure exposed against the grey sky.
+That annoyed me more than it should have.
 
-The path was frozen hard beneath my boots.
-
-Nothing seemed disturbed.
-
-No broken branches.
-
-No fresh tracks that I could immediately identify.
-
-The eastern marker stood beyond the collapsed wall.
-
-I had seen it before.
-
-A squat stone half buried in the ground, its surface worn smooth by weather.
-
-I approached it slowly.
-
-Something was wrong.
-
-Not with the stone itself.
-
-With the ground around it.
-
-The frost had been disturbed.
-
-Someone had dug there.
-
-I crouched.
-
-The soil beneath the frost was darker.
-
-Recent.
-
-I brushed away the loose earth with my glove.
-
-The stone had been moved.
-
-Not far.
-
-Perhaps a foot.
-
-But enough.
-
-I stood.
-
-For several minutes I simply looked at it.
-
-The old boundary line ran several yards away.
-
-The stone no longer sat directly upon it.
-
-I took out my notebook.
-
-Eastern marker displaced. Approx. one foot. Ground recently disturbed.
-
-I almost added deliberately.
-
-I stopped.
-
-I had not seen anyone move it.
-
-I crossed the word out before writing it.
-
-That was becoming a habit.
-
-I walked around the stone.
-
-There were footprints nearby.
-
-One set.
-
-Boots.
-
-The impressions were already hardening in the frost.
-
-They led toward the mill.
-
-I followed.
-
-I found the man behind the old structure.
-
-He was standing beside the wall with his back toward me.
-
-He was younger than I expected.
-
-Perhaps thirty.
-
-His coat was plain.
-
-His boots were muddy.
-
-There was dirt beneath his fingernails.
-
-He heard me approach.
-
-He did not turn immediately.
-
-"You've come to put it back."
-
-I stopped.
-
-"Did you move it?"
-
-He looked over his shoulder.
-
-"Does it matter?"
-
-"It usually does."
-
-He smiled faintly.
-
-"You are the new Watchman."
-
-The title sounded strange in his mouth.
-
-"Who told you?"
-
-"No one."
-
-"Then how do you know?"
-
-"I know what happens in this town."
-
-He turned fully toward me.
-
-His expression was calm.
-
-Not frightened.
-
-Not aggressive.
-
-That bothered me more than either would have.
-
-I looked toward the stone.
-
-"You moved it."
-
-"Yes."
-
-"Why?"
-
-"Because it was in the wrong place."
-
-I glanced at the marker.
-
-"It has been there for years."
-
-"That doesn't make it right."
-
-"According to whom?"
-
-He smiled.
-
-"You're learning to ask better questions."
-
-I did not like the answer.
-
-"Did you move any of the other stones?"
-
-"No."
-
-"Why only this one?"
-
-"Because this one was enough."
-
-"Enough for what?"
-
-He said nothing.
-
-I waited.
-
-He looked past me toward the mill.
-
-There was something in his expression then.
-
-Not fear.
-
-Recognition.
-
-As though he expected me to notice something I could not yet see.
-
-I followed his gaze.
-
-The mill stood silent.
-
-Its upper windows were broken.
-
-The old wall beside it leaned inward.
-
-Nothing moved.
-
-When I looked back, he was watching me.
-
-"You've been there before," he said.
-
-"Yes."
-
-"Then you know what it is."
-
-"No."
-
-He seemed almost pleased by that answer.
-
-"Good."
-
-I frowned.
-
-"What exactly are you doing?"
-
-"Moving a stone."
-
-"That's not an answer."
-
-"It's the truth."
-
-"Then give me the rest of it."
-
-He shook his head.
-
-"You still think every action has a single reason."
-
-"I think actions have consequences."
-
-"Better."
-
-He walked toward the stone.
-
-I followed.
-
-He stopped several feet away from it.
-
-"You were told to put it back."
-
-I had not told him that.
-
-I said nothing.
-
-He watched my face.
-
-Then smiled.
-
-"I was right."
-
-"Who told you?"
-
-"Does it matter?"
-
-"Yes."
-
-"Why?"
-
-"Because I need to know whether you're acting alone."
-
-"I am."
-
-"Who are you?"
-
-He hesitated.
-
-Only for a moment.
-
-Long enough for me to notice.
-
-"Someone who doesn't believe old promises should decide what people are allowed to know."
-
-The sentence was carefully chosen.
-
-Too carefully.
-
-"What promise?"
-
-He looked at me.
-
-"You know the word already."
-
-I felt the first real tension in the conversation.
-
-Not because he had threatened me.
-
-Because he had confirmed something I had not mentioned.
-
-I had never told him about the agreement.
-
-I took a step closer.
-
-"How do you know about it?"
-
-He looked toward the town.
-
-"Everyone knows something."
-
-"That's not what I asked."
-
-"No."
-
-He looked back at me.
-
-"It isn't."
-
-For several seconds neither of us spoke.
-
-Then he crouched beside the displaced stone.
-
-"You could put it back."
-
-I looked at the marker.
-
-"I could."
-
-"Then do it."
-
-The simplicity of the suggestion made me suspicious.
-
-"Why?"
-
-"Because that's your assignment."
-
-"Who gave it to you?"
-
-"No one."
-
-"Then why are you telling me to do it?"
-
-"Because I want to see what you choose."
-
-There it was.
-
-Not an answer.
-
-Another question disguised as one.
-
-I looked at the stone again.
-
-The obvious thing was to put it back.
-
-A boundary marker had been moved.
-
-My instruction was to investigate it.
-
-But I had not been instructed to restore it.
-
-And I still did not know why it had been moved.
-
-That distinction mattered.
-
-I crouched beside the stone.
-
-There was something beneath it.
-
-A narrow strip of darker soil.
-
-Not a foundation.
-
-Not a buried object.
-
-Just soil that had not frozen.
-
-I touched it with my glove.
-
-The man watched.
-
-"What is it?" he asked.
-
-"I don't know."
-
-He smiled.
-
-"Good."
-
-I looked at him.
-
-"You keep saying that."
-
-"Because you keep refusing to pretend."
-
-I stood.
-
-The stone remained where it was.
-
-"You expect me to move it."
-
-"I expect nothing."
-
-"Then why are you here?"
-
-"To see whether you would."
-
-I understood then that whatever this encounter was, the stone was only part of it.
-
-But I still did not know whose side he was on.
-
-Perhaps he had moved it for a reason.
-
-Perhaps he had moved it simply to see what would happen.
-
-Perhaps both were true.
-
-I could not prove any of them.
-
-So I made the only decision I could defend.
-
-"I won't move it."
-
-He nodded.
-
-"Why?"
-
-"Because I don't know enough."
-
-His expression changed slightly.
-
-Not disappointment.
-
-Something closer to approval.
-
-"Then you are different."
-
-"From whom?"
-
-He turned away.
-
-"From the people who came before you."
-
-I stepped forward.
-
-"Who came before me?"
-
-He did not answer.
-
-He started walking.
-
-"Wait."
-
-He stopped.
-
-"Are you part of the Order?"
-
-A long silence followed.
-
-Then he looked back.
-
-"That depends on what you mean by part."
-
-Before I could respond, he continued down the path.
-
-I watched him disappear between the trees.
-
-I could have followed.
-
-I didn't.
-
-Not because I trusted him.
-
-Because I did not know what I would be following him into.
-
-I returned to the stone.
-
-I spent another hour examining the marker.
-
-There was no obvious inscription.
-
-No hidden compartment.
-
-No mechanism.
-
-Nothing beneath the surrounding soil except roots and frozen earth.
-
-Eventually I measured its position.
-
-Then I measured the distance to the next marker.
-
-The numbers were different from the measurements I had taken previously.
-
-Not enough to prove anything.
-
-Enough to make me uncomfortable.
-
-I left the stone where it was.
-
-Before returning to town, I wrote one final note.
-
-Marker displaced by approximately one foot. Reason unknown. Individual responsible identified but not confirmed as affiliated with any organisation. Restoration not performed.
-
-I stared at the last sentence.
+I wrote the observation in my notebook.
 
 Then added:
 
-Further observation required.
+Observation is not proof.
 
-Calloway was waiting when I returned.
+I underlined it.
 
-He was sitting alone in his office.
+I had begun to distrust conclusions that arrived too easily.
 
-He did not look up when I entered.
+The Order, whatever else it was, seemed to understand that better than I did.
 
-"Did you find it?"
+They gave me nothing.
+
+No invitation.
+
+No explanation.
+
+No instruction.
+
+Only time.
+
+Several weeks passed.
+
+Then Crowe appeared.
+
+It was late afternoon when I found him outside the old bookseller's shop.
+
+He was leaning against the opposite wall, reading a newspaper.
+
+He lowered it when I approached.
+
+"You've been avoiding certain streets."
+
+"So you've noticed."
+
+"I notice many things."
+
+"Do you also know whether the Order is following me?"
+
+He folded the newspaper.
+
+"Does it matter?"
 
 "Yes."
-
-"Was it moved?"
-
-"Yes."
-
-"Did you put it back?"
-
-"No."
-
-The room became quiet.
-
-Calloway finally raised his eyes.
 
 "Why?"
 
-"Because I didn't know why it had been moved."
+"Because if someone is watching me, I'd like to know why."
 
-"You were instructed to investigate."
+Crowe considered that.
 
-"I investigated."
+"Suppose I told you."
 
-"Not to restore it?"
+"I'd listen."
 
-"No."
+"And suppose the answer raised three more questions."
 
-He leaned back.
+"It probably would."
 
-"And the man?"
+"Then you'd still know more than you did before."
 
-I watched him carefully.
+"That's generally how answers work."
 
-"You knew there was a man."
+He smiled.
 
-"I suspected."
+"Not always."
 
-"He knew about the assignment."
+He reached into his coat.
 
-Calloway's expression did not change.
+For a moment I thought he was going to produce another document.
 
-"Did he?"
+Instead, he held out a coin.
 
-"Yes."
+It was dark with age.
 
-"Did he identify himself?"
+Not silver.
 
-"No."
+Not copper either.
 
-"Did he tell you why he moved the stone?"
+The metal was difficult to identify beneath the wear.
 
-"No."
+One side was nearly smooth.
 
-Calloway nodded slowly.
+The other carried a shallow mark.
 
-"Anything else?"
+A circle crossed by a short line.
 
-"He mentioned the agreement."
+The same symbol I had seen elsewhere.
 
-For the first time, Calloway looked away.
+I did not take it immediately.
 
-Only briefly.
+"What is it?"
 
-But I noticed.
+"A coin."
 
-"Did he say anything specific?"
+"I can see that."
 
-"No."
+"Then we have made progress."
 
-"Then leave it there."
+I looked at him.
 
-I frowned.
+He extended his hand again.
 
-"The stone?"
+"Carry it."
 
-"The matter."
+"For how long?"
 
-I waited.
+"Seven days."
 
-"Is that an order?"
+"Why?"
 
-Calloway looked at me.
+"You will learn."
 
-"No."
+That answer should have irritated me.
 
-That answer was unexpected.
+Instead, it made me curious.
 
-"What is it, then?"
+I took the coin.
 
-"Advice."
+It was colder than I expected.
 
-He returned his attention to the papers on his desk.
+Crowe turned away.
 
-I turned toward the door.
+"Don't lose it."
 
-"Mr. Ashcroft."
+"That's the entire instruction?"
+
+"For now."
+
+He walked away.
+
+I watched him until he disappeared around the corner.
+
+Then I looked down at the coin.
+
+Nothing happened.
+
+That was the first thing I noticed.
+
+No warmth.
+
+No vibration.
+
+No change in the air.
+
+Nothing.
+
+I put it into my pocket.
+
+The first day passed without incident.
+
+I carried it in the same pocket as my notebook.
+
+Nothing changed.
+
+That evening I placed it on my desk.
+
+Nothing.
+
+I moved it beside the lamp.
+
+Nothing.
+
+I held it in my hand for several minutes.
+
+Nothing.
+
+The second day was the same.
+
+By the third, I had begun to suspect that the test was not the coin.
+
+It was me.
+
+That possibility was inconvenient.
+
+I tried several things.
+
+I carried it openly.
+
+Then concealed it.
+
+I left it at home for an hour before returning for it.
+
+I changed which pocket held it.
+
+I placed it beside the gear.
+
+The gear remained cold.
+
+The coin remained cold.
+
+Neither reacted.
+
+I wrote down the results.
+
+No measurable response.
+
+Then:
+
+No apparent external effect.
+
+I almost wrote nothing happened.
 
 I stopped.
 
-"Next time," he said, "if you don't understand an instruction, ask before acting."
+That phrase was too careless.
 
-I looked back at him.
+Something could happen without my noticing it.
 
-"I asked."
+I crossed it out.
 
-"No."
+The fourth day passed.
 
-He shook his head.
+Then the fifth.
 
-"You chose."
+Nothing.
 
-Neither of us spoke.
+The sixth was no different.
 
-Then I left.
+By then, the coin had become irritating precisely because it refused to become interesting.
 
-Outside, the afternoon had already begun to darken.
+It was only a piece of metal.
 
-I walked home slowly.
+Or it wanted me to believe that.
 
-The stone remained displaced.
+On the seventh evening, I sat at my desk and turned it between my fingers.
 
-The man remained unidentified.
+I thought about Crowe's instruction.
 
-And my first assignment remained unfinished in the simplest possible sense.
+Carry it.
 
-But perhaps that was not the same as failing.
+Nothing more.
 
-I took out my notebook while walking and added one final line.
+He had not told me what to look for.
 
-A Watchman may be expected to obey.
+He had not told me what would happen if I failed.
 
-I paused.
+He had not even told me what passing meant.
 
-Then wrote:
+That bothered me.
 
-But he must first decide what he is watching.
+A test without a stated measure was not a test in the ordinary sense.
+
+Unless the uncertainty itself was part of it.
+
+I wrote:
+
+Possible purpose: obedience.
+
+I stared at the words.
+
+Then added:
+
+Possible purpose: patience.
+
+Then:
+
+Possible purpose: observation.
+
+I looked at the three possibilities.
+
+None could be proven.
 
 I closed the notebook.
 
-For the first time since receiving the name, I understood why it had been given to me.
+For once, I was glad I had not reached a conclusion.
 
-Not because I was supposed to guard a door.
+Eleanor met me beneath the mill the following evening.
 
-Not because I was supposed to protect an agreement.
+She stood beside the old wall with her hands inside her coat.
 
-And not because someone needed another obedient hand.
+"You passed."
 
-At least, I hoped not.
+I stopped several feet away.
 
-A Watchman was useful only if he could distinguish between what he knew, what he had been told, and what someone wanted him to believe.
+"Passed what?"
 
-I still did not know which of those three had brought me to the mill.
+"The test."
 
-That was enough reason to keep watching.
+"What was the test?"
 
+She looked at me.
+
+"That is the question you should have been asking."
+
+"I was asking it."
+
+"Not aloud."
+
+"I didn't know anyone was listening."
+
+A faint smile appeared.
+
+"There are many things you don't know."
+
+I took the coin from my pocket.
+
+"This?"
+
+"Yes."
+
+"What does it do?"
+
+"Nothing."
+
+I waited.
+
+"That's not very satisfying."
+
+"It wasn't designed to satisfy you."
+
+"Then what was it designed to do?"
+
+Eleanor looked toward the mill.
+
+"To see what you would do when given something you didn't understand."
+
+I thought about the seven days.
+
+"You wanted me to obey."
+
+"Did you?"
+
+"You told me to carry it."
+
+"And you did."
+
+"That doesn't make me obedient."
+
+"No."
+
+She looked at me carefully.
+
+"It makes you willing to follow an instruction without being given its purpose."
+
+"That's obedience."
+
+"Sometimes."
+
+"And the other times?"
+
+"Discipline."
+
+I did not like the distinction.
+
+"What's the difference?"
+
+"Obedience asks you to trust the person giving the order."
+
+She paused.
+
+"Discipline asks you to control yourself while you decide whether the order deserves your trust."
+
+I said nothing.
+
+The distinction stayed with me.
+
+Perhaps that was the real test.
+
+Not whether I would obey.
+
+Whether I could resist the temptation to decide too quickly what obedience meant.
+
+Eleanor held out her hand.
+
+I gave her the coin.
+
+She looked at it once.
+
+Then returned it.
+
+"You kept it."
+
+"I was told to."
+
+"You could have thrown it into the river."
+
+"I considered it."
+
+"Why didn't you?"
+
+"I didn't know what would happen."
+
+She smiled.
+
+"Good."
+
+I frowned.
+
+"Good?"
+
+"You didn't pretend to know."
+
+That answer stayed with me.
+
+She walked toward the mill.
+
+I followed.
+
+The light was fading.
+
+For a while neither of us spoke.
+
+Then she said:
+
+"You've been given a choice."
+
+"What choice?"
+
+"A name."
+
+I looked at her.
+
+"Why?"
+
+"Because a Watchman is not simply a member."
+
+"What is he, then?"
+
+"Someone who watches."
+
+"That's not much of a definition."
+
+"It is enough."
+
+"For what?"
+
+"For the beginning."
+
+We stopped near the old wall.
+
+I thought about the past few weeks.
+
+The people who had watched me.
+
+The records.
+
+The stones.
+
+The door beneath the mill.
+
+The agreement I still did not understand.
+
+All of it seemed to lead toward something.
+
+But I still could not see what.
+
+"What names are available?"
+
+Eleanor shook her head.
+
+"You choose."
+
+"Any name?"
+
+"One that you can carry."
+
+That sounded more serious than it should have.
+
+I looked at the mill.
+
+Then at the town beyond it.
+
+Ashford had always seemed like a place that watched without admitting that it watched.
+
+People remembered things.
+
+Buildings kept their histories.
+
+Old boundaries survived beneath new ones.
+
+Perhaps the town did not need someone who could explain everything.
+
+Perhaps it needed someone who would notice when something changed.
+
+I looked back at Eleanor.
+
+"The Watchman."
+
+She studied me.
+
+"Why?"
+
+"Because someone should notice."
+
+She nodded.
+
+"Then you shall keep watch."
+
+The words sounded different from an ordinary introduction.
+
+Not a title.
+
+Not quite an oath.
+
+Something between the two.
+
+I took the coin back.
+
+For a moment, I considered refusing.
+
+Not the name.
+
+The Order itself.
+
+I still did not understand their beliefs.
+
+I did not trust Crowe.
+
+I did not know whether Eleanor had told me everything she knew.
+
+And I certainly did not intend to surrender my judgment simply because someone had given me a name.
+
+But there was another truth.
+
+I had already been watching.
+
+The name only gave that act a shape.
+
+I put the coin away.
+
+"I'll use it."
+
+Eleanor nodded.
+
+She did not ask me to swear anything.
+
+That was perhaps the most important part.
+
+I left the mill alone.
+
+On the walk home, I passed three people I had seen before.
+
+None spoke to me.
+
+None stopped me.
+
+But for the first time, I wondered whether they had heard the name already.
+
+Watchman.
+
+I did not know.
+
+I did not turn around to find out.
+
+I had learned something during those seven days.
+
+Being watched did not always mean someone wanted to control you.
+
+Sometimes they were simply waiting to see what you would do.
+
+And sometimes the only way to remain free was to keep watching back.
+
+I had accepted the name.
+
+I had not accepted the Order.
+
+Not completely.
+
+That distinction would matter later.
+:::

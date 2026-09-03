@@ -1,101 +1,57 @@
-CHAPTER 77 — THE TOWN
+CHAPTER 77 — THE FIRST WARMTH
 
-I began to walk the town differently. It had always been a habit of mine — walking the streets, watching the town, reading the faces and the windows and the doors. I had done it as a watchman, before the spring, when my duty had been to note what I saw and to report it. I walked the town differently now. I did not watch for signs of disturbance. I did not watch for the ordinary business of the town. I watched for forgetting.
+A week passed, and the bell did not ring.
 
-It is a strange thing to walk a town and watch for forgetting. One does not see it the way one sees a broken shutter or a flooded yard. One sees it in what is not there — in the way no one looks up at Bellweather House as they pass the end of the lane, in the way no one speaks of the tower bell, in the way the common is just grass to everyone but me. I walked the High Street, and I looked at the people — the bakers, the clerks, the shopkeepers, the farmers come in from the fields — and I saw that they did not know. They did not know about the bell. They did not know about Bellweather House. They did not know about the passage, or the signs, or the Tokens, or the place beneath. They had forgotten. They had agreed to forget. And I was the only one who remembered.
+I went to the tower each day. I climbed the stairs, I stood in the bell chamber, I looked at the bell — the keeper's bell, the first sign on its rim — and I waited. It did not ring. The silence hung in the stone the way dust hangs in a room that has been closed for a long time. I had prepared. I had written the account. I had told Crowe where it was. I had accepted that I might go into the passage and not come back. But the bell did not ring.
 
-I walked the streets, and I understood that the town had not forgotten because it was careless. It had forgotten because it had chosen. The agreement — the town's agreement — was the choosing. The town had agreed to see nothing, and to speak of nothing, and to forget. And the town had kept its agreement. It had forgotten.
+The bell chamber was the same each day. The grey light fell through the narrow windows, and the dust turned in it, and the bell hung from its beam, dark and still, and the first sign on its rim was a small mark in the iron, worn smooth by years I could not count. I stood before it, and I held the Tokens, and I looked at the sign on the bell and the sign on the metal in my hand, and the two first signs were the same, and neither of them spoke.
 
-I had the agreement. The agreement signed by Aurelius Ashcroft. And I understood that the agreement was not the document I kept in my drawer. The agreement was the town. The town was the agreement — the living agreement, the forgetting made flesh, the choice made over and over, every day, in every street, in every face that did not know.
+I did not know whether the silence meant I had been wrong — whether the bell would not ring for me, whether it was not my time, whether I was meant to wait longer. The bell's silence was not a certainty, only a silence. I had thought, when I took the keeper's key, that the bell would speak when it was ready. I had not understood that the waiting was part of the keeping — that a bell that rings on command is a bell that has been tamed, and the keeper's bell would ring only when it chose.
 
-I walked the town, and I was the keeper of the remembering, and I walked among the forgetting.
+I went down the stairs each day and locked the door behind me, and I walked home through the same streets, and the town was the same town, and the account waited in the drawer, and the Tokens lay on the desk, and the days passed. The bell had rung once for the keeper before Vale. I did not know whether it would ring for me. I did not know whether the bell was the kind of thing that rang only once, or whether it would ring for each keeper, or whether it would ring only when the passage was ready to receive whoever stood at its head. I had no way of knowing. I could only wait.
 
-The forgetting had its own geography. I mapped it as I walked. The end house at the corner of the lane, where the lamp was lit at nine each night by a hand no one saw — the people passed it without looking, and the lamp was lit, and no one said anything, and that was the forgetting. The woman at the gate of the lower pasture, who had told me once, years ago, that she had seen a light move through an empty house — I stopped at her gate one afternoon, and she came out to meet me, and she remembered me.
+On the eighth day, I felt the warmth.
 
-"You were the watchman," she said. "You walked at night."
+I was at my desk, writing in the red book, when I felt it — the warmth of the Tokens, against my chest, both of them, at once. It was not the gradual warmth of a thing carried close. It was the warmth of a thing that had been touched from outside, a warmth that had risen in the metal as if something beneath the town had stirred and the Tokens had felt it first.
 
-"I did."
+I set down my pen. I took out the Tokens. They were warm. Both of them. I had not felt them both warm at the same time before — not like this, not together, not strongly. The metal was warm in a way that was not my own heat. It was a heat that had come up from below, through the floor of the room, through the stone of the town, and had found the metal and entered it. I held them in my hands, and the warmth was steady, and I knew.
 
-"You asked me once about a light."
+I stood. I looked at the window. The light had failed. The town was settling into its evening stillness. The lamps were being lit along the High Street, one by one, and I could hear the lamplighter's pole clicking against the glass, and the ordinary sounds of the town going about its ordinary evening. I felt the warmth of the Tokens in my hands, and I knew that the bell was about to ring.
 
-"I did," I said. "You told me you had seen a light move through an empty house."
+I did not know how I knew. There was no sound. There was no sign. The warmth was the sign. The Tokens had felt the bell before it had spoken, had felt it moving through the earth toward the moment of its ringing, and they had warmed to tell me that the time was here.
 
-She nodded. "I saw it," she said. "I saw it move from window to window, and there was no one in the house, and it was winter, and I told you, and you wrote it in your book."
+I put the Tokens in my coat. I took the gear. I took the keeper's key. I went out. I walked through the dark streets of Ashford, past the shuttered houses, past the silent shops, past the church with its tower dark against the sky. I did not go to the church. I did not go to the common. I went to the end of Bellweather Lane.
 
-"And you never wondered what it was?"
+I walked the length of the lane, past Vale's house, to the place where the lane narrowed and turned and ran out into the fields. Bellweather House stood where it had always stood. Empty. Dark. Forgotten. And the Tokens were warm against my chest.
 
-She looked at me. "It was a light in a house," she said. "There is a light in a house. That is what it was."
+I stood before the house. I did not open the door. I stood in the dark, in the lane, with the warm Tokens against my chest, and I waited. The lane was empty. The fields were dark. The sky above the town held no light. I stood there, and I felt the warmth of the Tokens, and I knew that whatever was coming was coming because I had come to this house, to this lane, to this place.
 
-She had not said it as a mystery. She had said it as a fact of the town, the way one says that it rains in winter. And I understood, standing at her gate, that even the ones who saw the strangeness of Ashford did not see it — that they had agreed, without knowing they had agreed, to let the strangeness be ordinary, and to let the ordinary be enough.
+And then I heard it. The bell. It rang once. The keeper's bell. It rang once, in the dark, from the tower of the church — a single note, low and long, that I felt more than heard. It was not a sound that travelled through the air. It travelled through the ground, through the stone of the lane, through the walls of the house at the end of the lane, and I felt it in my chest, in the bones of my feet, in the metal of the Tokens against my skin. The note rose and held and faded, and the dark returned, and the bell was silent again.
 
-That was the deepest part of the forgetting. Not that the town did not know. But that the town had made the unknown into a fact of daily life — a lamp that moved, a house that appeared, a bell that did not ring — and had decided, over generations, that these things were not questions. They were weather. And weather was not asked about.
+I stood in the lane, before Bellweather House, and I felt the note fade into the earth, into the stones, into the walls of the house at the end of the lane. The bell had rung. The Thursday of the bell. It had rung once, as it had rung for the keeper before Vale. And I knew what I had to do.
 
-I was the keeper of the remembering. And I walked among a town that had made the mystery into weather.
+I did not go to the church. I did not go to the common. I went to the house at the end of the lane. I opened the door. I crossed the bare room. I knelt, and I lifted the edge of the front mat, and I pulled the iron ring. The trapdoor was not there.
 
----
+I had expected it to be there — the trapdoor in the common house, the passage, the door. But I was not in the common house. I was in Bellweather House, the kept house, and the floor was bare, and there was no trapdoor, and there was no passage. The candle I had lit cast a small circle of light on the floorboards, and the floorboards were solid, and the ring was not in them.
 
-I went to the bakery. The heat of it met me at the door, and with it the smell of bread and flour and the faint sharpness of the fire. Margaret was there, as she always was, behind the counter, her sleeves rolled, a film of flour on her arms. She looked at me when I came in, and her look was not the look of a woman surprised to see a customer. It was the look of a woman who had been watching the street and had seen me coming.
+I stood in the bare room. The bell had rung. I had come to Bellweather House. And there was no trapdoor.
 
-"You are thin," she said. "You have not been eating."
+I heard a sound. Not the bell. Not the knocking. A sound from the far wall — from the wall where I had found the box, the second Token, the wall of the windowless room. It was not a loud sound. It was the sound of something settling, or of air moving in a space that had been closed and had just opened. I crossed the room. I entered the windowless room. The box was gone. The table was gone. The room was bare.
 
-"I have been busy."
+I stood in the empty room, in the dark, and I did not understand. The bell had rung. I had come to Bellweather House. The box was gone. The Tokens were warm. I stood there, and then I felt it — the warmth of the Tokens, stronger, pulling, toward the back wall of the windowless room.
 
-"Busy." She set down the cloth she was holding. "You have been to the church. You have been to the lane. You have been to Goding's farm. You have been busy."
+I put my hand to the wall. It was cold. I moved my hand across it. The Tokens grew warmer as I moved toward the corner. I stopped at the corner. The Tokens were warmest there. I looked at the wall. There was no door. There was no seam. But the Tokens were warm.
 
-I looked at her. "How do you know?"
+I pressed my hand against the wall, at the corner, where the Tokens were warmest. And I felt it. A draft. A cold draft, from beneath the wall, from the corner, from the place where the floor met the wall.
 
-"I know." She came around the counter. "I have known you since you came to Ashford, Leon. I have watched you. I saw you the winter, when you were asking about the bell. I saw you in the spring, when you were asking about the stones. I see you now, walking the streets, looking at people as if you are the only one who knows something."
+I knelt. I felt along the floor. There was a ring. An iron ring, set flush with the boards, the same as the ring in the common house. I pulled. The boards lifted. A trapdoor. A passage. Beneath Bellweather House.
 
-I was silent. She had come to stand close, and the flour was on her apron, and the heat of the ovens was on her, and she looked at me the way she had looked at me for years — as if I were a loaf that would not rise, and she had decided to be patient with it.
+I stood in the windowless room, in the dark, with the warm Tokens against my chest, and I looked down into the passage. The same stone walls. The same worn floor. The same smell of earth and stone and old iron. The passage beneath Bellweather House. The passage of the kept house. The bell had rung. The passage was open.
 
-"What is it?" she said. "What have you found?"
+I did not know what I would find. But I knew that I had to go down. The bell had rung once, for the keeper before Vale. It had rung for me. And I was the keeper.
 
-I did not answer. I could not tell her. She was the town. She was the agreement. She had forgotten, as the town had forgotten, and I could not tell her what she had agreed to forget.
+I stood at the top of the ladder a long moment. The warmth of the Tokens was steady against my chest, and the dark rose from the passage like breath, and I understood that I was doing what the keeper before Vale had done — answering the bell, going down into the passage, trusting that the way would show itself or would not, and that either way I had chosen to go.
 
-"I cannot tell you," I said.
+I lit a candle. I went down.
 
-"Why not?"
-
-"Because you agreed not to know."
-
-She looked at me a long moment. The patience in her face did not leave it, but something else came into it — something I could not name, that was not anger and not curiosity, but older than both. "I agreed to nothing," she said. "I have not agreed to anything. I am a baker. I make bread. I have never agreed to forget anything."
-
-I stood in the bakery. She had not agreed. She did not know she had agreed. The agreement was not a document she had signed. It was a forgetting she had inherited. And I could not tell her, because the telling would be the beginning of the remembering — and I could not yet tell whether the town was ready to remember.
-
-"I have to go," I said. I left the bakery. The heat fell away from me at the door, and the cold took me, and I walked the streets, and I understood that Margaret was the town — the town that had not agreed, because it did not know it had agreed, because the agreement was older than any of them. The agreement was the forgetting. And the forgetting was the town.
-
-I was the keeper of the remembering. And I did not know whether the town was ready to remember.
-
----
-
-I went to the vestry. The clerk was there, among his ledgers, his pen dry in its stand, the lamplight falling on the open book before him. He had kept these books for forty years. He had told me so, and I had not known how to answer, and I had thought of him ever since as a man who had spent his life writing down the town and had left the signs blank. I had come to ask him something I had not asked before.
-
-"The town," I said. "The agreement. The town agreed to see nothing, and to speak of nothing, and to forget. Who made that agreement?"
-
-The clerk was silent. "The agreement," he said slowly, "is not written. It is kept. It is kept the way the signs are kept — in the margins, in the hands of those who do not know what they are keeping."
-
-"Then who keeps it?"
-
-"You did," he said. "Before you, Vale kept it. Before Vale, the keeper before him. The agreement is kept by the keeper."
-
-I stood in the vestry. The agreement was kept by the keeper. I was the keeper. I had been keeping the agreement without knowing that the agreement was the forgetting.
-
-"I am the keeper," I said. "I keep the agreement. I keep the forgetting."
-
-"You are the keeper," he said. "You keep what the keeper keeps."
-
-"And the account?" I said. "The remembering? Who keeps that?"
-
-The clerk was silent a long moment. He looked down at the open ledger, at the blank place where, I understood, a sign would never be written. "The account is yours," he said. "The keeping of the remembering is the keeper's own. It is not the agreement. It is not the town. It is the keeper's."
-
-I stood in the vestry. The agreement was the forgetting. The account was the remembering. And both were kept by the keeper. I had been keeping the agreement — the forgetting — without knowing. And I had been writing the account — the remembering — without knowing what it was.
-
-I understood, standing in the vestry, that I was the keeper of both. The forgetting, and the remembering. The agreement, and the account. And I understood that I had to choose. Not between them. But what to do with them. I was the keeper of the place beneath. I was the keeper of the forgetting. I was the keeper of the remembering. And I did not know what the keeping was for.
-
-I went home. I sat at my desk. I opened the red book. I wrote:
-
-The agreement is the forgetting. It is kept by the keeper. The account is the remembering. It is written by the keeper. I keep both. I do not know what the keeping is for. But I know that I am the keeper. And I know that the town has forgotten, and that I remember. I do not know what I will do. But I will keep the account. I will remember.
-
-I closed the red book but did not return it to the drawer. Margaret's objection had made the danger plain: a town was not an agreement in the abstract, but people who could neither recall nor consent to what had been withheld from them. I left the book open beside the Tokens, uncertain whether my silence protected Ashford or merely made me comfortable with deciding for it.
-
-The town slept above the chamber. The lamp at the end house was lit, and no one looked at it, and the woman at the gate of the lower pasture had seen a light move through an empty house and had called it weather. I was the keeper of the remembering, and I walked among them, and I held their forgetting for them, and I did not know whether I held it to protect them or to spare myself. And I wondered whether the town would ever ask — whether there would come a day when a face in the street turned to me and said, What do you know, and I would have to answer, and the answer would begin the remembering.
+The passage led deeper than the passage beneath the common, and the signs on its walls were not the keeper's signs — they were the first signs, the circle and the three lines and the dot, carved at intervals, marking a way that had been cut before the town had a name. I walked, and the Tokens grew warmer as I went, and the air grew colder, and the smell of the earth rose around me, and I understood that I was walking toward the place where the keeping had its centre — the place where the bell's single note had been born, and where the first sign waited for the hand that had been carrying it all my life without knowing what it carried.

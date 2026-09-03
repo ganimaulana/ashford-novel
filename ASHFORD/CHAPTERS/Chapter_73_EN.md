@@ -1,57 +1,120 @@
-﻿CHAPTER 73 — THE FIRST WARMTH
+CHAPTER 73 â€” THE BELLWEATHER NAME
 
-A week passed, and the bell did not ring.
+I had not known the name of the house at the end of Bellweather Lane.
 
-I went to the tower each day. I climbed the stairs, I stood in the bell chamber, I looked at the bell — the keeper's bell, the first sign on its rim — and I waited. It did not ring. The silence hung in the stone the way dust hangs in a room that has been closed for a long time. I had prepared. I had written the account. I had told Crowe where it was. I had accepted that I might go into the passage and not come back. But the bell did not ring.
+I had called it the kept house, in my notebook, in the red book. I had not asked what it was called. I had not asked who had built it, or who had owned it, or why it had been kept empty.
 
-The bell chamber was the same each day. The grey light fell through the narrow windows, and the dust turned in it, and the bell hung from its beam, dark and still, and the first sign on its rim was a small mark in the iron, worn smooth by years I could not count. I stood before it, and I held the Tokens, and I looked at the sign on the bell and the sign on the metal in my hand, and the two first signs were the same, and neither of them spoke.
+I had entered it. I had found the second object. I had left without asking its name.
 
-I did not know whether the silence meant I had been wrong — whether the bell would not ring for me, whether it was not my time, whether I was meant to wait longer. The bell's silence was not a certainty, only a silence. I had thought, when I took the keeper's key, that the bell would speak when it was ready. I had not understood that the waiting was part of the keeping — that a bell that rings on command is a bell that has been tamed, and the keeper's bell would ring only when it chose.
+On the day after the second object warmed at the kept house, I went to the vestry. The clerk was there.
 
-I went down the stairs each day and locked the door behind me, and I walked home through the same streets, and the town was the same town, and the account waited in the drawer, and the Tokens lay on the desk, and the days passed. The bell had rung once for the keeper before Vale. I did not know whether it would ring for me. I did not know whether the bell was the kind of thing that rang only once, or whether it would ring for each keeper, or whether it would ring only when the passage was ready to receive whoever stood at its head. I had no way of knowing. I could only wait.
+"The house at the end of Bellweather Lane," I said. "The empty house, beyond Vale's house, where the lane meets the fields. What is its name?"
 
-On the eighth day, I felt the warmth.
+The clerk looked at me.
 
-I was at my desk, writing in the red book, when I felt it — the warmth of the Tokens, against my chest, both of them, at once. It was not the gradual warmth of a thing carried close. It was the warmth of a thing that had been touched from outside, a warmth that had risen in the metal as if something beneath the town had stirred and the Tokens had felt it first.
+"You have been inside," he said.
 
-I set down my pen. I took out the Tokens. They were warm. Both of them. I had not felt them both warm at the same time before — not like this, not together, not strongly. The metal was warm in a way that was not my own heat. It was a heat that had come up from below, through the floor of the room, through the stone of the town, and had found the metal and entered it. I held them in my hands, and the warmth was steady, and I knew.
+"I have."
 
-I stood. I looked at the window. The light had failed. The town was settling into its evening stillness. The lamps were being lit along the High Street, one by one, and I could hear the lamplighter's pole clicking against the glass, and the ordinary sounds of the town going about its ordinary evening. I felt the warmth of the Tokens in my hands, and I knew that the bell was about to ring.
+"Then you know what it is."
 
-I did not know how I knew. There was no sound. There was no sign. The warmth was the sign. The Tokens had felt the bell before it had spoken, had felt it moving through the earth toward the moment of its ringing, and they had warmed to tell me that the time was here.
+"I know it is the house of the first sign. I know it held the second object. I do not know its name."
 
-I put the Tokens in my coat. I took the gear. I took the keeper's key. I went out. I walked through the dark streets of Ashford, past the shuttered houses, past the silent shops, past the church with its tower dark against the sky. I did not go to the church. I did not go to the common. I went to the end of Bellweather Lane.
+The clerk was silent a moment.
 
-I walked the length of the lane, past Vale's house, to the place where the lane narrowed and turned and ran out into the fields. Bellweather House stood where it had always stood. Empty. Dark. Forgotten. And the Tokens were warm against my chest.
+"It is called Bellweather House," he said.
 
-I stood before the house. I did not open the door. I stood in the dark, in the lane, with the warm Tokens against my chest, and I waited. The lane was empty. The fields were dark. The sky above the town held no light. I stood there, and I felt the warmth of the Tokens, and I knew that whatever was coming was coming because I had come to this house, to this lane, to this place.
+I heard the name. Bellweather. I had heard it before â€” in the spring, when I had first come to Ashford, when I had walked the streets and learned the names of the lanes. Bellweather Lane. Bellweather House. I had not thought about it. I had not asked what it meant.
 
-And then I heard it. The bell. It rang once. The keeper's bell. It rang once, in the dark, from the tower of the church — a single note, low and long, that I felt more than heard. It was not a sound that travelled through the air. It travelled through the ground, through the stone of the lane, through the walls of the house at the end of the lane, and I felt it in my chest, in the bones of my feet, in the metal of the Tokens against my skin. The note rose and held and faded, and the dark returned, and the bell was silent again.
+"Bellweather," I said.
 
-I stood in the lane, before Bellweather House, and I felt the note fade into the earth, into the stones, into the walls of the house at the end of the lane. The bell had rung. The Thursday of the bell. It had rung once, as it had rung for the keeper before Vale. And I knew what I had to do.
+"The house gave the lane its name," the clerk said. "The lane was named after the house, not the other way. It has stood at the end of the lane for longer than anyone can remember. It has been empty for as long as I have been here."
 
-I did not go to the church. I did not go to the common. I went to the house at the end of the lane. I opened the door. I crossed the bare room. I knelt, and I lifted the edge of the front mat, and I pulled the iron ring. The trapdoor was not there.
+"And before?"
 
-I had expected it to be there — the trapdoor in the common house, the passage, the door. But I was not in the common house. I was in Bellweather House, the kept house, and the floor was bare, and there was no trapdoor, and there was no passage. The candle I had lit cast a small circle of light on the floorboards, and the floorboards were solid, and the ring was not in them.
+"Before that, I do not know. There are records, but they are old, and they are incomplete."
 
-I stood in the bare room. The bell had rung. I had come to Bellweather House. And there was no trapdoor.
+"Show me."
 
-I heard a sound. Not the bell. Not the knocking. A sound from the far wall — from the wall where I had found the box, the second Token, the wall of the windowless room. It was not a loud sound. It was the sound of something settling, or of air moving in a space that had been closed and had just opened. I crossed the room. I entered the windowless room. The box was gone. The table was gone. The room was bare.
+He looked at me a long moment. Then he turned to the shelf, and he took down a book â€” a book I had not seen before, bound in black leather, its spine cracked and its pages yellow.
 
-I stood in the empty room, in the dark, and I did not understand. The bell had rung. I had come to Bellweather House. The box was gone. The Tokens were warm. I stood there, and then I felt it — the warmth of the Tokens, stronger, pulling, toward the back wall of the windowless room.
+"The record of Bellweather," he said. "I have kept it for forty years, and I have not shown it to anyone, because I could not yet tell who to show it to."
 
-I put my hand to the wall. It was cold. I moved my hand across it. The Tokens grew warmer as I moved toward the corner. I stopped at the corner. The Tokens were warmest there. I looked at the wall. There was no door. There was no seam. But the Tokens were warm.
+He opened it. The pages were filled with the same small hand I had seen in the vestry book, the book of the wall, the red book â€” the same hand, the same ink, the same careful letters.
 
-I pressed my hand against the wall, at the corner, where the Tokens were warmest. And I felt it. A draft. A cold draft, from beneath the wall, from the corner, from the place where the floor met the wall.
+I read the first page.
 
-I knelt. I felt along the floor. There was a ring. An iron ring, set flush with the boards, the same as the ring in the common house. I pulled. The boards lifted. A trapdoor. A passage. Beneath Bellweather House.
+*Bellweather House. Set at the end of the lane. Built by the first keeper of the first sign. Kept empty after the first sign was carried away. Kept empty so that the first sign would have a place to return to.*
 
-I stood in the windowless room, in the dark, with the warm Tokens against my chest, and I looked down into the passage. The same stone walls. The same worn floor. The same smell of earth and stone and old iron. The passage beneath Bellweather House. The passage of the kept house. The bell had rung. The passage was open.
+I looked up. The clerk was watching me.
 
-I did not know what I would find. But I knew that I had to go down. The bell had rung once, for the keeper before Vale. It had rung for me. And I was the keeper.
+"The first keeper of the first sign," I said.
 
-I stood at the top of the ladder a long moment. The warmth of the Tokens was steady against my chest, and the dark rose from the passage like breath, and I understood that I was doing what the keeper before Vale had done — answering the bell, going down into the passage, trusting that the way would show itself or would not, and that either way I had chosen to go.
+"The first keeper," he said. "Before the Order. Before the wall. Before the boundary. The keeper who kept the first sign, and who built the house at the end of the lane, and who kept it empty after the first sign was carried away."
 
-I lit a candle. I went down.
+I read on.
 
-The passage led deeper than the passage beneath the common, and the signs on its walls were not the keeper's signs — they were the first signs, the circle and the three lines and the dot, carved at intervals, marking a way that had been cut before the town had a name. I walked, and the Tokens grew warmer as I went, and the air grew colder, and the smell of the earth rose around me, and I understood that I was walking toward the place where the keeping had its centre — the place where the bell's single note had been born, and where the first sign waited for the hand that had been carrying it all my life without knowing what it carried.
+*The first keeper built the house. The first keeper kept the first sign. The first sign was carried away by a hand that did not know what it was carrying. The house was kept empty, waiting for the first sign to return.*
+
+I stood in the vestry, with the book in my hands. The first keeper. The first sign. Carried away by a hand that did not know what it was carrying.
+
+I had carried the first sign all my life. I had not known what it was. I had been the hand that did not know what it was carrying. And the house â€” Bellweather House â€” had been kept empty, waiting for the first sign to return.
+
+I had returned. The first sign had returned. I had carried it back to the house at the end of the lane, and the second object had warmed, and the house had answered. I had not known what I was doing. I had not known that I was returning the first sign to the house that had been waiting for it.
+
+---
+
+I read the rest of the book in the vestry. It was not long. The book contained the record of Bellweather House â€” the building of it, the keeping of it, the carrying away of the first sign, the years of waiting.
+
+And at the end, there was a name. Not the name of the first keeper. The name of the house.
+
+*Bellweather.*
+
+*The house of the bell that does not ring.*
+
+*The house of the weather that does not change.*
+
+*The house of the keeper who waits.*
+
+I read the words. The house of the bell that does not ring. I had not thought of a bell. I had not thought of the bell â€” the bell that had been missing in the winter, the bell that Goding had known about, the bell that had been at the centre of the mystery before I had found the gear and the door and the signs. The bell. I had not thought of it. I had been so deep in the passage, and the signs, and the Tokens, that I had forgotten the bell.
+
+I looked at the book. *The house of the bell that does not ring.*
+
+I closed the book. I looked at the clerk. "Bellweather," I said. "The bell. There is a bell in Ashford. A bell that does not ring."
+
+The clerk was silent. "There is a bell," he said. "It has not rung in living memory. It is kept in the tower of the church, but it does not ring. It is not a bell for the town. It is a bell for the keeper."
+
+I stood in the vestry. A bell for the keeper. The keeper's bell. The bell that does not ring. I had thought the bell was a mystery of the winter â€” the Thursday of the bell, the Goding thread, the thing the town had not wanted to speak of. I had not known it was a keeper's bell. I had not known it was connected to Bellweather House. I had not known that the bell was the third sign.
+
+---
+
+I went to the church. I had not been to the church in months. I had not needed to go. The bell was in the tower, and I had not thought about it. I stood at the door of the tower. It was locked. I had not expected it to be open.
+
+I stood at the locked door, and I thought about the bell, and about the house at the end of the lane, and about the name â€” Bellweather â€” and about the words in the book. *The house of the bell that does not ring.*
+
+I had carried the first sign all my life. I had been given the third sign by Vale. I had learned the second sign from the wall. And I had not known that the bell was the third sign. I had carried the first. I had been given the third. I had learned the second. And the bell â€” the third sign â€” was the bell that does not ring.
+
+I stood at the locked door of the tower. I did not try to open it. I turned. I walked home through the streets of Ashford, and I sat at my desk, and I opened the red book, and I wrote:
+
+Bellweather House is the house of the first keeper. It was built to keep the first sign. The first sign was carried away by a hand that did not know what it was carrying. I was that hand.
+
+I have carried the first sign all my life. I have returned it to the house at the end of the lane. The second object warmed at the house. The house was waiting.
+
+And the bell â€” the bell that does not ring â€” is the third sign. The third sign is not the gear. The third sign is the bell. The gear is the Order's sign. The bell is the keeper's bell. The bell of the keeper who waits.
+
+I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the Tokens away. I left them on the desk, both warm.
+
+I had returned the first sign to Bellweather House. I had learned that the bell is the keeper's bell. And I had understood that the mystery was not about the door at all. It was about the keeping. The keeping of the first sign, the keeper's sign, the Order's sign, and the bell.
+
+I sat in the dark, and I thought about the bell, and about the house at the end of the lane, and about the first keeper, and about the first sign, and about everything I had been carrying all my life.
+
+I had not known that the bell was part of it. I had not known that the bell was the keeper's bell. I had not known that the house at the end of the lane was waiting for the first sign to return.
+
+I had returned it. I had carried the first sign all my life, and I had returned it to the house that had been waiting for it, and I had not known what I was doing. But I had done it. And the house had answered. And the bell â€” the bell that does not ring â€” was the keeper's bell.
+
+I did not know what it meant. But I knew that the bell was part of the keeping. And I knew that I would find out. I sat in the stillness until the lamp burned down. The two Tokens lay on the desk, warm in the dark. The first sign, returned. And the bell — the keeper's bell — waiting.
+
+I would go to the tower. I would find the bell. And I would learn what the keeper's bell was for. I had carried the first sign all my life without knowing it, and I had returned it to the house that had been waiting for it, and the house had answered, and the Tokens had warmed, and I understood that the keeping had not begun with me and would not end with me. I was one hand in a line of hands that reached back beyond the first keeper, and the bell had been waiting at the end of that line, patient, silent, for me to find it.
+
+I did not yet know what I would find when I climbed the tower. I only knew that I would climb it — and that whatever the keeper's bell was for, it had been waiting a long time to be understood.
+

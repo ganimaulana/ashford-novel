@@ -1,107 +1,125 @@
-﻿CHAPTER 48 — THE FIRST DUTY
+CHAPTER 48 — THE THINGS WE KEEP
 
-We buried him on the third day.
+He was worse in the first week of August.
 
-The town had already moved past his death by the second morning. A constable is remembered in proportion to how recently he stopped someone's cart, and Vale had stopped no carts in years. He had become, in the town's memory, an old man who kept to himself at the end of a quiet lane.
+He did not tell me. The Hartley girl told me, at the pump, without particularly meaning to — she said the doctor had been twice in four days, and then she looked at my face and said she supposed I would know that already.
 
-Still, I gave him what the town would give any man. The burying ground behind St. Bartholomew's. A grave beside the hedge, where the yew trees kept their dark shade. Rain the night before, and the ground soft underfoot, so that the sexton's boots left deep prints beside the open grave.
+I did not know that already.
 
-Calloway came.
+I went that afternoon. He was in the chair with the blanket to his chest and the fire lit in weather that did not need it, and he said, "You are early," which was not true, and was his way of telling me that he had noticed I had not come for three days.
 
-He stood at the back, hat in hand, and said nothing through the whole service. I had never seen him uncertain before. He stood now at the edge of the burying ground, in his dark coat, and he did not approach the grave, and he did not leave.
+"I did not know about the doctor."
 
-Perhaps he was the only man in Ashford who remembered what Vale had been — a constable, once, before Calloway himself. Perhaps he was remembering the same thing I was remembering: that Vale had spent fifty years guarding something he could not fully explain.
+"There is nothing to know about the doctor. He comes, he says what men of his profession say, he goes. He has been correct once, which was the first time, and has been repeating it since."
 
-Afterward, the small crowd dispersed. They had bread to buy. Work. Gossip. The burying ground emptied, and I remained.
+I sat down.
 
-I looked at the fresh earth. No stone was raised. No one had ordered one.
+"What did he say the first time?"
 
-I thought of the fifty years.
+"He said it would not be long." Vale adjusted the blanket. "I told him I had reached that conclusion without assistance. He was offended. Doctors like to be the first to a thing."
 
-The agreement was in my room. I read it again that evening. It told me what the door was for. It did not tell me what lay behind it. It told me who had signed it. It did not tell me why.
+---
 
-The gear was in my coat. I took it out. It was a thing of iron, dark and heavy, its shape worn by use I had never seen, the band of letters running round its face where it had always run. A circle, and a short line through it — the mark that was on the stones, and on the door, and on the gear. The same mark. I had stopped being surprised by the sameness of things. I had begun instead to wonder whether the mark meant the same thing on all of them — or whether the sameness was a trick of my own seeing.
+We did not talk about the door that day. I want that in the record.
 
-That was the question I could not answer.
+We talked about a horse.
 
-I had held the gear for three days. I had buried the man who had held it before me. I had read the agreement. I had carried the gear. I had not yet done anything with it beyond the silence of a room that had become a tomb.
+He had had a horse, once, in the service — a bad-tempered grey with a mouth like iron, which had thrown him twice and then, on a day when he had needed it to, had stood absolutely still in a road for two hours while something happened that he did not describe. He talked about the animal for a long time, with more feeling than I had heard him give to any person, and at the end of it he said, "It had to be put down in the end. Its legs went. I did it myself. It was owed that."
 
-On the fifth day I walked to the end of Bellweather Lane. The house was quiet. I let myself in. The door was unlocked. The chair was where it had been. The cold fireplace. The blanket, folded now on the seat, as I had left it when I had pulled it from his knees.
+He did not say where the road was.
 
-I had closed the window that morning. I had done it myself, standing at the sill, watching the leaves of the rosemary move in the air. I had latched it.
+I noticed he did not say. I did not ask.
 
-The window was open now.
+Then he said, "Bring the press open. The bottom of it."
 
-The sash raised two inches. Exactly two inches — not a careless push, but a deliberate setting.
+---
 
-I had closed it. No one had reason to open it. Vale had died in the chair. No one had entered since. Except me. And Crowe.
+The box was under a folded blanket at the bottom of the press.
 
-Crowe had come that evening. He had walked past the chair. He had stood at the cold fireplace. He had looked at the empty room and asked whether I understood what I had taken on. He had not touched the window.
+Wooden. The size of a case for documents. The hinges had been repaired more than once, badly the first time and properly the second. It was heavier than it looked when I lifted it, and it did not rattle, which meant it had been packed rather than filled.
 
-I closed the window. I latched it. Then I stood for a long time with my hand on the sill, trying to decide whether I was being careful or foolish. I could not decide.
+I set it on the table between us.
 
-I went through the house slowly. The rooms were spare. A bed. A press. A few coats that smelled of rain and old tobacco. I did not take anything. I did not know what belonged to the duty and what belonged to the man. Perhaps there was no difference. Perhaps that was the trouble.
+"Open it."
 
-Two things I noticed and did not understand until much later. The press was ordered — not tidily, but systematically, the shirts in one place and the coats in another and the third space left empty and clean, as though something had been kept there and removed. And the bed had been made in a manner I had seen only in men who had learned it somewhere they were not permitted to do it badly.
+I opened it.
 
-I read the journal that night, in order, as he had told me.
+Papers, folded and refolded until the creases had gone soft. A bundle of letters tied with tape, the tape gone brown. A service journal in dark leather, the spine broken, the edges of the pages dirty in the way paper goes dirty in a coat pocket over years. A district map, not of Ashford, marked in ink in more than one shade. Two small bottles, stoppered, labelled in a hand I did not know. A brass button, military, worn smooth on the face. A woman's ring, too small for any finger of his.
 
-The first entries were not what I expected. No boundary. No door. No stones. A young man's account of a wet spring in a garrison town — the price of bread, a sergeant he disliked, a horse that had to be destroyed. A name that appeared four times and then stopped appearing, with no explanation given.
+And a folded square of cloth at the bottom, empty, with a shape pressed into it that I recognised.
 
-I read a long way before I found the word Ashford, and when I found it, it was not the beginning of anything. It was written the way a man writes down a posting he has been given and does not want.
+I did not say anything about the cloth.
 
-*To Ashford. The reason offered is establishment. I have read the order twice. It is correctly worded. That is what troubles me.*
+"These are mine," he said.
 
-There was nothing after it for several pages. Then the parish accounts began, and the weather, and the boundary walk, and the ordinary business of a country constable — as though a door had closed on the earlier man and the later one had agreed not to mention him.
+"Yours."
 
-I turned back and read the entry again. *It is correctly worded. That is what troubles me.* I did not know what to do with that sentence. I copied it into my own book and left it there.
+"Mine. Not the parish's. Not the Order's. Mine." He was watching me and not the box. "There is a difference between a thing a man was given to keep and a thing that is his, and every institution I have ever served has made a profession of confusing the two."
 
-I returned to the mill before dark. The stones were where they had been. I checked the first. Then the second. Then the third. The cracks were the cracks — no wider, no narrower than they had been on the night of the vigil.
+"What is in it?"
 
-Then I checked the fourth.
+"What you have seen."
 
-I knelt again. There was a line in the stone. Thin. Almost invisible in the failing light. It ran the width of the stone, faint as a hair. I put my finger to it. It was smooth — not a crack, but a mark, cut into the surface, worn by years of weather.
+"That is not an answer."
 
-I did not know whether it had been there before. I had looked. I had been careful. But the stone was old, and the light had been poor, and a man can look at a thing and not see it, and call himself careful.
+"No."
 
-I took out my notebook. I wrote: Fourth stone. Hairline mark. Origin unknown. Time of appearance unknown.
+He let me look for a while. I turned the button over. I did not open the letters. I put my hand on the journal and did not lift it.
 
-I walked on to the mill. The door was closed. I knelt beside the mechanism. The depression was empty. I had never put the gear in it. I had held the gear over it, once, and I had felt the shape of the thing, and I had not put it in.
+"Some of it is nothing," he said. "The button is nothing. The ring is not nothing, but it is nothing to you, and you may leave it where it is. The map I could have burned thirty years ago and did not, and I have never been able to give myself a reason. Some of it I have never understood, and I have had fifty years to try. I cannot tell you which is which."
 
-I looked at the ground around it. The ground was soft there. Rain had fallen, and the soft ground held marks. There were my own marks from the night of the vigil — the deep prints where I had knelt, the drag of my heel where I had turned.
+"Then how am I to know?"
 
-And there was another. A heel. Not mine. My boots leave a wider print. This was narrower, newer, pressed into the soft earth as if the one who made it had stood for a time, looking at the door, before turning away.
+"You will not," he said. "Not for a long time."
 
-I could not say when. I could not tell for certain who. I knew only that while I had been standing at a grave, or folding a blanket, or closing a window, someone else had stood where one who holds the gear stands. And they had not held the gear.
+---
 
-I wrote it down. I did not write it in the town's book. I wrote it in my own.
+"May I read this?"
 
-I turned away from the mill. I walked back toward town as the light failed. The lamps were being lit. The lamplighter moved along the road with his long pole, and the windows took light one by one.
+"You will read it whether I say yes or no." He did not sound displeased. "Read it in order. Not the end first. A man who reads the end first learns what happened and never learns why."
 
-I passed the end of the common. I stopped.
+"Is there something in it you do not want me to find?"
 
-There, at the edge of the common, where the grass met the lower pasture — the house. It was there. I had seen it twice before. Once from a distance, when it had faded before I could reach it. Once in the spring, when I had gone inside and found the clock stopped at 00:00 and heard the knocking from beneath the floor — three knocks, slow, patient, as if someone beneath the boards had been waiting for me to return.
+"There is a great deal in it I did not want anyone to find. That is why it is in a box and not in an office."
 
-A Watchman would have noted it. He would have written the time, the weather, the position. He would have walked to the edge of the common to confirm what he saw. And then he would have reported it, and the report would have gone into the town's book, and the town would have decided it meant nothing.
+I looked at the box.
 
-I did not approach. I stood at the road and looked at the house for a long time.
+"Why me?"
 
-I could have gone to the constable. I could have gone to Crowe. I could have written the house's appearance into the town's book, and let the town decide it meant nothing.
+He did not answer that.
 
-I did none of those things. I went home. I sat at my desk. I opened my notebook. I wrote: The house appeared at the edge of the common. Door open. I did not enter.
+I asked again, later, differently — I said, "You must have had someone. Fifty years."
 
-Then I wrote: I have decided not to tell anyone about the stones. Or the door. Or the house.
+"I had a great many people. I did not have anyone I would give a box to."
 
-I looked at the sentence. It was a small sentence. It did not look like a decision. But it was the first decision I had made as the one who holds the gear.
+"That is not the same question."
 
-A Watchman reports. One who holds the gear — I do not yet know what one who holds the gear does. But I know what one who holds the gear does not do. One who holds the gear does not let the town decide that a door means nothing. One who holds the gear does not let the Order decide when it opens.
+"It is the answer to it, though." He closed his eyes for a moment. "You came back. That is the whole of it and you will want it to be more than that, and it is not. Men came to that door for fifty years wanting something. They got it or they did not and then they did not come back. You got what you came for in April and you came back in May with a corrected sentence in a notebook."
 
-I closed the book. I put it with the agreement, in the drawer, beneath the parish account.
+"That is not a reason."
 
-Then I took the gear from my coat and placed it on the desk where I could see it — the circle, the short line, the worn metal that had been carried for fifty years by a man who had never explained it to anyone. I had no way of knowing what the mark meant. I knew only that it would not be put into that door by accident — not by me, not yet.
+"It is the only one I have that I can stand behind." He opened his eyes. "You ask before you take. I have watched how you handle things. I am not going to make it more than that, because if I make it more than that you will start behaving like a man who was chosen, and men who believe they were chosen stop checking their own work."
 
-Whatever was behind the door would wait. And whoever had stood at the mechanism in the soft ground would come again.
+I have gone back to that afternoon more times than to any other, and I still cannot get further into it than he let me.
 
-When he did, he would find the door closed. He would find the one who holds the gear. He would find me — standing on the side of a door I had not yet decided to understand.
+---
 
-The clock in the house had stopped at 00:00. I had written the time in my notebook and I had not understood it, and I did not understand it now. But I had begun to suspect that it was not an accident — that it was a time that meant something, a time the house kept the way it kept the door, and that I would learn what it meant only when I had earned it. The bell in the tower had not rung since Vale died. I could not say whether it would ring again, or for whom, or what it would mean if it did. Those were questions I had not earned answers to yet — and the gear I carried was a poor payment for an answer I had not yet learned to ask.
+He asked me to put the box in the press again before I left.
+
+"Not with you?"
+
+"Not yet. I am not dead. It is an unpleasant habit, giving things away while you are still using them." He waved a hand at the press. "It will be there. You know where it is now. That is the part that mattered."
+
+I put it back under the blanket.
+
+At the door he said, "If anyone comes here asking about my effects — the parish, or the Order, or a man with a letter — you have not seen a box."
+
+"And if they ask directly?"
+
+"Then you will say you have seen a great many boxes in a great many houses and you do not itemise the furniture of dying men." He almost smiled. "Do not lie if you can avoid it. Refuse. A lie has to be maintained. A refusal only has to be repeated."
+
+I said I understood.
+
+I did not, entirely.
+
+I walked home down the lane, and the evening was warm, and I remember being conscious of the box behind me in the house the way you are conscious of a lit window when you have turned a corner.

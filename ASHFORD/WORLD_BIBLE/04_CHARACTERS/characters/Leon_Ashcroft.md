@@ -75,7 +75,7 @@
 - Constable is Leon's active organization (see `ORGANIZATIONAL_AFFILIATION_LEDGER.md`)
 - He operates within the watch/constabulary network of Ashford
 - His primary affiliation is CONSTABLE, not the Order of Severence
-- The "Hidden Circle" organizational concept is SUPERSEDED (2026-09-02). Leon is NOT a member of any "Hidden Circle" or "secret organization" as a primary affiliation. The nameless preservation society (Ch 100–108) is a working relationship, not membership.
+- The "Hidden Circle" organizational concept is SUPERSEDED (2026-09-02). Leon is NOT a member of any "Hidden Circle" or "secret organization" as a primary affiliation. The nameless preservation society (Ch 104–108) is a working relationship, not membership.
 
 ### Layer 4 (Aurelius Legacy — Known to Inner Circle Only)
 - NOT YET REACHED
@@ -176,10 +176,10 @@ Leon operates on **four compartmentalized layers**. See `LEON_LAYER_ARCHITECTURE
 **Current layer (End of Ch 8):** Layer 1 → transitioning to Layer 2.
 
 **Civic Watchman role (added 2026-09-01 per Phase 3H D4):**
-Distinct from the layer architecture. Established Ch 10–35 as a parish-watch enrollment. The Ch 42 line "Then you shall keep watch" applies a transitional civic-framed phrase; it does not replace any layer and does not confer a hidden-organization identity. The Watchman role remains a public, civic identity.
+Distinct from the layer architecture. Established Ch 10–35 as a parish-watch enrollment. The Ch 43 line "Then you shall keep watch" applies a transitional civic-framed phrase; it does not replace any layer and does not confer a hidden-organization identity. The Watchman role remains a public, civic identity.
 
 **Keeper guardianship (added 2026-09-01 per Phase 3H D4):**
-At the end of Ch 47, with the death of Thomas Vale, Leon becomes the formal Keeper under the Agreement. This is a guardianship title external to the layer architecture, but it interacts with Layer 3/4 because the Keeper role is one element of what the Order of Severence watches. The Keeper role is therefore layered:
+At the end of Ch 51, with the death of Thomas Vale, Leon becomes the formal Keeper under the Agreement. This is a guardianship title external to the layer architecture, but it interacts with Layer 3/4 because the Keeper role is one element of what the Order of Severence watches. The Keeper role is therefore layered:
 
 - Publicly: Leon is a former civic Watchman.
 - Privately (Layer 3): Leon is a member of the secret organization.

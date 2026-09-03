@@ -1,168 +1,146 @@
-﻿CHAPTER 111 — THE COUNT
+CHAPTER 111 — THE BOOK OF ORIGINS
 
-I could not yet tell what the count was counting.
+Elias Marr lit the lamp.
 
-I carried the two pages of marks with me, in my notebook — the tally from the book of the first keeper, and the marks from the oldest book of the Academy. I looked at them together, and I counted them, and I did not know what they meant.
+It was the same lamp I had seen from the mill-yard corner — a small lamp, old, with a glass that had been mended once. He set it on the table, beside the book, and the light fell on the pages, and I saw what the book was.
 
-The count was a number. I had counted it many times. It was the same number each time.
+It was a ledger, bound in black leather, its spine cracked with age. The pages were filled with a hand I had seen before — in the margins of the vestry book, in the pages of the wardens' ledger, in the letter of Aurelius Ashcroft.
 
-But I did not know what it was counting.
+The same hand.
 
-I sat at my desk, with the two pages before me, and I thought about the keeping — the boundary, the sign, the house, the agreement, the door, the bell. I thought about the keepers — the first keeper, Aurelius, the keeper before Vale, Vale, and me. I thought about the years — the fifty years of Vale, the years of the keeper before him, the years of Aurelius.
+I looked at Elias.
 
-The count was more than all of them.
+"You know this hand," he said.
 
-I could not say what the count was counting.
+"I know it."
 
-I went to see Ysabel.
+"It is the hand of the man who erased the origins," he said. "The man who collected these objects, and who removed their histories, and who left them in this town for others to find."
 
-She was at her house near the river, and I set my notebook on her table, and I showed her the two pages of marks.
+I looked at the book. The hand of the man who had erased the origins.
 
-"The tally from the book of the first keeper," I said. "And the marks from the oldest book of the Academy. The same hand. The same count."
+"It is the hand of Aurelius Ashcroft," I said.
 
-Ysabel looked at them for a long time.
+Elias was silent a moment.
 
-"The first keeper wrote that the tally is the count of the years," she said. "One mark for each year, kept since the first year."
+"No," he said. "It is the hand of the man who came before him."
 
-"Yes."
+I stood very still.
 
-"And the oldest book of the Academy records the boundary as it was first set."
+"The man who came before Aurelius Ashcroft," I said.
 
-"Yes."
+"The keeper before the keeper," Elias said. "The man who built the first sign, and who carved it into the stone, and who set the boundary, and who made the first agreement. The man whose name is not in any record."
 
-"And the marks are the same, in the same hand, the same count."
+I looked at the book. The hand of the man who had come before Aurelius.
 
-"Yes."
+"His name is not known," Elias said. "He was the first keeper. He built Bellweather House. He set the boundary. He carved the first sign—and the twelve that followed. And then he erased his own history — not because he was afraid, but because he wanted the keeping to be about the thing, and not about the man."
 
-Ysabel was silent a moment.
+I stood in the lamplight, among the objects without history, and I understood.
 
-"Then either the first keeper made the tally twice," she said, "or the boundary was not the first thing he set."
+The objects in Elias Marr's collection had not been scrubbed by someone else. They had been scrubbed by the first keeper — the man who had come before Aurelius, who had built the first sign, and who had erased his own history so that the keeping would be about the thing, and not about the man.
 
-I looked at her.
+"This book," Elias said, "is the record of what he erased. It is the account of the origins — the origins of the objects, the origins of the signs, the origins of the keeping. It is the only record that remains."
 
-"The boundary was not the first thing he set?"
+I looked at the room — the coins without years, the books without authors, the paintings without signatures. "Why do you collect them?" I said. "The erased things."
 
-"The count was made before the boundary," Ysabel said. "You have said so yourself. The same hand made the same count in two books — one the tally of the keeping, one the record of the boundary. If the count is the same, and the hand is the same, then the count was made at the same time in both books."
+He was silent a moment. "Because someone must keep them," he said. "The man who erased them did not destroy them. He scattered them, so they would be found. If no one kept them, the erasure would be complete. I keep them so the erasure is not complete."
 
-"And?"
+"Even if you do not know what they are?"
 
-"And the count was made before the boundary," she said. "Or the count was made for the boundary."
+"Even then." He looked at me. "The keeping is the thing. The man is not."
 
-I stood in her house, in the cold light, and I did not understand.
+He said it the way a man says a thing he has repeated many times, until it has become the shape of his life. I had written the same words in the red book. I had read them in the book of the first keeper. And now I heard them spoken by a man who collected the things that had been erased, in a house full of objects without history, and I understood that the keeping was not a single thing. It was a thread that ran through all of us — the first keeper, Vale, the keeper before Vale, Ysabel, Elias Marr, and me — and we were all of us holding it in different hands.
 
-"The count was made for the boundary," I said.
+I looked at the book.
 
-"The count is a number," Ysabel said. "A number of things. The first keeper made the count, and then he set the boundary. Perhaps the boundary was set to mark the count."
+"And you have been keeping it," I said.
 
-"To mark the count?"
+"I have been keeping it," Elias said. "I have been keeping it for years, waiting for the keeper who would understand it."
 
-"Perhaps," she said, "the boundary does not mark a place. Perhaps it marks a number."
+I looked at him.
 
-I looked at her.
+"Waiting for me."
 
-"A number of what?"
+"Waiting for you," he said. "I have been watching you since you found the clock in the market. I have been watching you since you found the key, and the lock, and the letter. I have been watching you since you accepted the key to the reading room."
 
-"I do not know," she said. "But if the boundary marks a number, then the stones are not markers of a boundary — they are counters. And the tally is not a count of years — it is the record of what the boundary is counting."
+He was silent a moment.
 
-I stood in her house, and I understood that I had been reading the boundary wrong.
+"I am not a member of the society," he said. "I am a collector. I collect the things that have been erased. And I have been holding this book until the keeper came."
 
-I had read it as a line — a boundary drawn between one place and another, meant to keep something in or out. I had read the stones as markers of that line.
+I stood in the room, with the book before me, and I understood.
 
-But there was a thing I had noticed and set aside without understanding it. I had walked the wall from the eastern marker to the corner where it turned, and the wall had ended there. It had not continued around the town. It had not enclosed the fields, or the common, or the houses. It had run a length and turned and stopped — as if its purpose was not to surround anything but to record something, the way a line on a page records a count.
+The society had not sent me to steal the book. They had sent me to find it — to find the man who was holding it, and to receive it from him.
 
-If the boundary marked a number, then the stones were counters — and the line was not a line at all.
+Because they had known that Elias Marr would not sell it, and would not show it, and would not give it to anyone — except the keeper.
 
-The line was a count.
+I looked at Elias.
 
-I stood in her house, and I did not speak for a long time. Ysabel stood at the table, with the two pages of marks before her, and she did not speak either.
+"You have been holding it for me," I said.
 
-"You have been afraid of it," I said at last.
+"For you," he said. "Take it. It is yours."
 
-She looked at me.
+I reached out. I took the book.
 
-"The count," I said. "You have been hunting the clocks for twenty years, and you have read the books, and you have followed the trails. You could have found the tally before I did. You could have counted the marks in the Academy book, or read the wardens' ledger, or asked the clerk. But you did not."
+"How did it come to you?" I said.
 
-She was silent a long moment.
+He did not answer at once. He looked at the book in my hands, and I saw something move behind his eyes — not reluctance, but the weighing of how much to say.
 
-"I was afraid," she said, "that if I found the number, I would have to know what it meant. And I was not ready to know what it meant." She looked at me. "I do not know whether I am ready now."
+"It came to me the way the others came," he said. "A man brought it, years ago, and would not say where he had found it. He said only that it had been kept for a very long time, and that it was looking for its keeper, and that I was to hold it until the keeper came."
 
-I had no answer for her. I had no answer for myself. The number was there, and it was older than the boundary, and it was not counting years, and I did not know what it was counting. But I understood that Ysabel had been carrying her own keeping — the keeping of a question she had been afraid to ask — and that she had been carrying it longer than I had been carrying mine.
+"And you believed him."
 
----
+"I believed the book." He looked at me. "It was the only object I ever kept that was not erased. It was the record of the erasure itself. Whatever man carried it, he knew what he was carrying."
 
-I went to the boundary the following morning.
+He did not say the man's name. He did not say where the man had come from, or where he had gone. I did not ask again. Some questions, in Ashford, are not answered so much as carried.
 
-I had walked the line of stones many times. I had counted them — more than a hundred, from the eastern marker to the corner where the wall turned. I had studied them. I did not count them again. I walked them instead, slowly, looking at each stone as I passed, thinking about what Ysabel had said.
+The book was heavy in my hands. The leather was cracked, the pages yellow, the ink brown with age. The hand of the first keeper was on every page.
 
-The tally was a number. The stones were a number. The two numbers were not the same.
+I did not open it then.
 
-I knelt at the fourth stone, where the hairline mark ran across its face. I looked at the first sign, cut into the base of the stone, hidden where the earth covered it.
+I stood in the lamplight, with the book in my hands, and I understood that I had been given something that had been waiting for me for a very long time.
 
-The first sign. The mark of the maker.
+The account of the origins.
 
-The tally was in the hand of the first keeper.
+The record of what the first keeper had erased.
 
-The stones were set by the first keeper.
-
-The boundary was set to mark something that had been counted before.
-
-I sat back on my heels, and I looked at the stone, and I understood that I was reading the boundary wrong.
-
-I had read it as a line. I had read the stones as markers of the line.
-
-But the stones were not markers of a line. They were counters. Each stone counted something — one thing for each stone, or some number of things for each stone.
-
-And the tally was the record of what they counted.
-
-I stood.
-
-I walked the line of stones again, and I looked for the pattern — the pattern of the count, the pattern that the boundary was marking.
-
-I did not find it that morning.
-
-But I understood that the boundary was not a line.
-
-It was a count.
-
-And the tally was the record of the count.
+The book of the first sign.
 
 ---
 
-I went home.
+I carried the book home through the dark streets.
 
-I sat at my desk. I opened the red book. I wrote:
+I set it on the desk, beside the red book, and I sat and looked at it.
 
-*The boundary is not a line. It is a count.*
+The account of the origins.
 
-*The stones are not markers of a line. They are counters. Each stone counts something.*
+The hand of the first keeper.
 
-*The tally in the book of the first keeper is the record of the count. The same count stands in the oldest book of the Academy, beside the record of the boundary.*
+The man who had set the boundary, and carved the first sign, and built Bellweather House, and erased his own history so that the keeping would be about the thing, and not about the man.
 
-*I do not know what the stones are counting.*
+I did not open it that night.
 
-*But I know that the boundary was set to mark the count.*
+I sat in the dark, with the book before me, and I understood that I had been given something that I was not ready to read.
 
-*And I know that the count is older than the boundary.*
+The account of the origins was not a book of answers. It was a book of beginnings — the beginning of the keeping, the beginning of the signs, the beginning of the boundary.
 
-*I will learn what the stones are counting.*
+And I was not ready to read it.
 
-*I will learn the count.*
+I was still learning what the keeping was.
 
-I closed the red book.
+I would open the book when I was ready.
 
-I sat in the dark.
+I put it in the drawer, beside the red book, and the agreement, and the key to the reading room.
+
+I sat in the stillness.
 
 I was the keeper. I was a hunter. I was a man who worked with a society that had no name.
 
-And I had found the count.
+And I had been given the book of the first keeper.
 
-I had no way of knowing what it was counting.
+I could not yet tell what was in it.
 
-But I knew that I would learn.
+But I knew that I would open it, when the time was right.
 
-The hunt had led me to the boundary.
+The hunt had led me to the book. The society had led me to Elias Marr, and Elias Marr had led me to the first keeper's own account, and the man who had brought the book to Ashford — the man who had said it was looking for its keeper — had vanished without a name. I did not know who he was. I did not know whether he was one of the society, or the keeper before Vale, or something else entirely. I only knew that the book had been waiting for me, and that I had been led to it by a chain of hands I could not see.
 
-And the boundary was leading me to the count.
-
-I had not yet learned what the count was counting. But I had learned that it was older than the boundary, and that the boundary had been set to mark it, and that I was the keeper of a thing that had been counted before the town had a name. The question was no longer where the count was. It was what the count was for — and what would happen when it reached its end. I did not know whether I was walking toward an answer or toward the thing that would ask me the question.
+The book was not the end of the hunt. It was the beginning of something new — an origin that would not stay buried, and a keeper who could no longer claim to have started from nothing.
 

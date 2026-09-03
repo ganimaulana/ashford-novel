@@ -1,71 +1,71 @@
-﻿CHAPTER 123 — THE SUCCESSOR
+CHAPTER 123 — THE REALIZATION
 
-I did not know who would keep after me.
+I did not sleep that night.
 
-The keeper of the tally had said there would be keepers to come — keepers after me, marks to be added, the count not yet complete. He had said it plainly, the way a man says a thing he has known for a long time, and I had believed him. But he had not told me who they were. He had not told me how many. He had not told me when the next one would come.
+I lay in the dark with the number in my mind — the fixed number, the count that did not change, the count the boundary was set to mark — and with Ysabel's words turning over and over behind it. A count that does not change is not counting the years. It is counting something that has no seasons. I could not let the thought go. It was not the sort of thought that lets a man go.
 
-I sat at my desk in the evenings, and I thought about it.
+The stones did not change. The count did not change. The boundary held. And the hairline mark on the fourth stone did not change. I had watched that mark appear in my first year of the keeping. I had gone to the boundary in those early months the way a new keeper goes — often, and with too much to prove — and I had found the line on the stone one grey afternoon, running across its face, too straight to be anything natural. I had written it in the red book as a crack. I had told myself the frost had taken it, or the settling of the old wall had put a strain on the stone. A crack. It had not grown. It had not widened or wandered the way cracks do. It had simply been there, one day, and it had stayed.
 
-I had no family. I had no child. I had no one to pass the keeping to, no one to whom I could say, when the time came, that this was the boundary, and this was the sign, and this was the door, and this was the bell, and this was the account I had written in the red book. I had the red book itself, and the agreement, and the gear, and the Tokens, and the key to the reading room. I had the account of the keeping. I had the book of instruction I had begun to think about, though I had not yet written a word of it. But I did not have a successor.
+I sat up in the dark.
 
-I did not know whether the keeper of the tally would choose one, or whether the keeping would find one, or whether I was meant to find one myself. I did not know whether the next keeper would come in my time or after I was gone. The not-knowing had become part of the keeping — a new silence in the account, a question I had not yet learned to write down.
+A crack appears because something is giving way. It grows, or it does not, but it is always a response — a break, a fault, an accident of strain. It has no hand behind it. It is the stone surrendering to the years.
 
-I went to see Ysabel in the autumn of the fourth year, when the leaves had gone from the trees and the river ran cold and black between the reeds.
+What if the mark on the fourth stone was not a crack at all?
 
-She was at her house near the river, and she had a fire going, and the room was warm in a way that made the world outside seem farther away than it was. She let me in without a word, and I sat by her fire, and I told her what had been living in my mind.
+What if it was a mark?
 
-"I have been thinking about the keeping," I said. "About who will keep it after me."
+A single mark. One mark, cut or pressed into the stone, the way a tally-mark is cut into a page. I had never allowed myself to think it, because a mark needs a maker, and a maker would have had to come to my boundary in the night and set a hand to my stone, and I did not want to think about that. But I thought about it now, in the dark, and the thought would not let go. The hairline mark had appeared. It had not grown. It had not changed. A tally-mark is not supposed to change. It is added, and then it stays, and then another is added beside it, and the count goes on.
 
-Ysabel looked at me. She was not a woman who offered comfort easily, but she did not look away.
+I stood. I lit the lamp.
 
-"You have no successor," she said.
+I took out the book of the first keeper and opened it to the first page. The tally lay there in its patient rows — the groups of marks, the running count that had never changed and would never change until it was complete. I looked at it, and then I looked past it, and I understood what I had been unable to see before. The tally in the book was not the whole of the keeping. It was the record of it. And on my boundary, in my keeping, marks had been appearing — one in my first year, cut into the stone of the fourth pillar. Marks. Tally-marks. A count being kept in the open, where anyone with eyes could see it, and no one had looked.
 
-"No."
+I dressed and went out before first light.
 
-"And you do not know who will keep after you."
+The cold had the town in its fist, and my boots rang on the frozen lane, and there was no one abroad. I walked to the boundary with the lantern throwing a small pool of light ahead of me, and I knelt at the fourth stone in the dark.
 
-"No."
+I put my finger to the hairline mark.
 
-She was silent a moment. The fire moved, and the light changed on her face, and I waited.
+It was smooth. It ran across the face of the stone in a single clean stroke, and where I pressed my fingertip to it I could feel the slight channel of it, cut deeper than frost could ever manage, with a finish that was not the finish of weather. A crack is rough at its edges and wanders as it goes. This line did not wander. It was straight, and it was finished, and it had been made.
 
-"The keeping found you," she said. "You did not choose it. Vale did not choose you — the keeping did. It found you the way it found Vale, and the way it found the keepers before him. You were not the one who decided that you would be keeper. The decision was made before you knew there was a decision to be made."
+I stood, and I walked the whole line of stones in the grey light, and I looked at every one of them.
 
-"The keeper of the tally," I said. "He keeps the count. He knows the keepers."
+The stones were old. They were worn by the years — the cracks of a hundred winters, the stains of weather, the round smoothness of time passing over them. Each carried the first sign at its base, the circle and the three lines and the dot, cut by the first keeper and worn smooth since. And there, on the fourth stone, a mark that had not been made by weather, that had not grown, that had been set there like a single stroke in a ledger.
 
-"And he will know the keeper who comes after you."
+The boundary was not only a boundary. It was a tally. The stones themselves were the tally, and the marks were being kept in it, and I had walked past them for years without knowing what I was walking past.
 
-I looked at her. "How?"
+I went to the chamber beneath Bellweather House.
 
-"Because he has kept the count since the first keeper," she said. "And the count is not complete. There are marks to be added. The keeper who comes after you is already known to him — already counted, though the mark has not yet been made."
+I had not been there since the winter. I had not needed to go — the Token was in its place, the passage was sealed, the keeping of the house went on above without me. But I went now, with the realization cold in my chest, and I knelt at the trapdoor in the floor of the empty room and worked it open.
 
-I sat by her fire, and the words settled into me the way all her words settled — slowly, and with weight, because she never spoke a thing she had not thought through.
+The passage was dark and smelled of old earth and stone. The first signs marked the way along the wall, one after another, leading down, and I walked past them slowly, holding the lamp before me, until the passage opened into the chamber.
 
-"The keeper who comes after me," I said. "Is already counted."
+I had stood in this chamber before. I had set the Token in the first sign on the floor, and I had felt the warmth of the place beneath my hands, and I had left without looking closely at the thing I was standing in. I knelt now.
 
-"Already counted," she said. "The tally is the record of the keepers, and the signs they must find. The keeper who comes after you is one of them. His mark is in the tally, though he has not yet kept. He will find the signs that remain, and the bell will toll when the count is whole."
+The first sign was cut into the floor at the centre of the chamber. The circle. The three lines. The dot. It was the same sign as the sign at the base of every boundary stone, the sign the whole keeping was built around — and I had knelt in it, and set the Token in it, and felt the warmth of it, and I had never once looked at its centre.
 
-I did not know what to say. The keeper who would come after me. Already counted. Already in the tally, though he had not yet kept a single day of the keeping. I did not know who he was. I did not know when he would come. I did not know whether I would meet him, or whether he would come after I was gone, or whether he would ever know that I had been the one who kept before him. But I knew that he existed. The tally held him. The count had a place for him. And when the time came, the keeping would pass to him, as it had passed to me, as it had passed to Vale, as it had passed to the keepers before him, through all the years of the uncounted count.
+I looked now.
 
-"His mark is already in the tally," I said. "Before he has kept anything."
+At the centre of the sign, where the three lines crossed, there was a mark. A small mark. A single tally-mark, cut into the stone, deeper than the sign itself, with the same clean finish as the line on the fourth stone. It had not been there when the chamber was made — or it had, and no one had noticed, and it had waited here in the dark for someone to look. It was the same kind of mark as the hairline mark on the fourth stone. A tally-mark. One stroke. A count being kept.
 
-"Yes."
+I knelt there in the lamplight, in the silence of the chamber, and I understood.
 
-"Then he is already the keeper. He has not been born yet — or he is alive, and he does not know it. But he is already the keeper."
+The chamber was the centre of the count. I had known it was important — the Token, the warmth, the place beneath — but I had not understood that the chamber itself was the tally, and that the first sign on its floor was the page on which the marks were being written. Someone came here. Someone had cut this mark into the floor of the chamber, and someone had cut the mark into the fourth stone, and the tally was being kept, one mark at a time, by a hand I had never seen.
 
-Ysabel looked at me, and there was something in her face that I had not seen before — not the look of a hunter, and not the look of a woman who had been finding things for twenty years. It was the look of a woman who had seen the shape of something she could not hold in her hands.
+I did not know how many marks had been made. I did not know how many were left. But I knew that I was part of it. The keeper is part of the count. And the count was being kept under my keeping, in the dark, without my ever hearing it.
 
-"Yes," she said. "He is already the keeper. And you will prepare for him, the way Vale prepared for you, without knowing it was you he was preparing for."
+I did not touch the mark. I did not try to add to it. I knelt there for a long time in the lamplight, listening to the silence of the place, and I could not tell whether the silence was empty or whether it was the silence of something waiting.
 
-I walked home through the dark streets, and the cold had the town in its grip, and the stars were hard and bright above the rooftops. I sat at my desk, and I opened the red book, and I wrote:
+I stood. I left the chamber. I walked back along the passage, up the ladder, and out of the house, and the morning was fully grey by the time I reached the street. I walked home through the waking town, and I sat at my desk, and I opened the red book, and I wrote:
 
-The keeper who comes after me is already counted. His mark is in the tally, though he has not yet kept. I do not know who he is. I do not know when he will come. I do not know whether I will meet him. But I know that he exists. And I know that the keeping will pass to him. I have no successor. I have no family. I have no one to pass the keeping to. But the keeping has a successor. The keeper who comes after me is already counted. I will prepare for him. I will leave the account so that he may read it. I will keep the keeping so that he may take it up. And I will trust the keeper of the tally to bring him, when the time is right.
+The hairline mark on the fourth stone is not a crack. It is a mark — a tally-mark. There is a mark at the centre of the first sign on the floor of the chamber. The same kind of mark. The boundary is not only a count. It is a tally — a tally of the signs, kept in the open, where no one has looked. And the tally is being kept. I do not know who is keeping it. I do not know how many marks have been made. I do not know how many are left. But I know that I am part of it. The keeper is part of the count. And the count is being kept, mark by mark, in the dark, waiting for the last of it to be set down.
 
-I closed the red book, and I sat in the dark, and the thought that had been sitting behind all my words came forward.
+I closed the red book, and I sat in the dark, and the strangest part of it settled over me slowly, the way cold settles into a house that has been left too long.
 
-Preparing for a successor was not the same as knowing him. I could write the book. I could keep the boundary. I could walk the stones. I could leave the gear and the Tokens and the key in the drawer, and I could write the account of everything I had learned, and I could set it all in order for the hands that would find it. But I could not make the keeper who came after me understand the keeping. Not by writing it, not by showing it, not by explaining it. He would have to understand it the way I had understood it — by keeping it, by walking the boundary in the dark, by learning the silence of the passage, by carrying the gear and not knowing what it was for, by kneeling in the chamber and finding his own mark in the stone at the centre of the first sign. And I could not give him that. I could only give him the chance to earn it.
+It was not that a mark had been cut into my stone. It was not that a mark had been cut into the floor of my chamber. It was that whoever had cut them had come and gone without my knowing — had passed through the same dark I passed through, had knelt in the same chamber, had set a hand to the same stone, and I had been somewhere in the town, asleep, or writing, or walking the very boundary I thought I was keeping. The keeping was supposed to be mine. The boundary was supposed to be watched. And all the while someone else had been keeping a count inside my keeping, and I had not heard a single sound.
 
-The passing of the keeping was not a handing over. It was a leaving alone — a leaving of the account and the gear and the Tokens in a drawer, a leaving of the boundary and the door and the bell, a leaving of everything, so that the keeper who came after me would have to find it all for himself. That was the keeping. And I was beginning to understand that it was the hardest part of all.
+I sat in the stillness and thought about the hand that made those marks — the hand that had set them into the stone, that had not rushed, that had made each stroke clean and finished, the way a man makes a stroke when he knows exactly what it is for.
 
-I stood at the window and looked out at the dark town. The roofs lay below me, and the lights of the houses were going out one by one, and the tower stood black against the sky. Somewhere in those houses, in one of the rooms I could not see, there was a man who did not yet know he would be the keeper. A boy, perhaps. A man my age. A stranger whose name I had not heard. He did not know that his mark was already in the tally, that his place in the count had been waiting for him since before the first keeper set the boundary. He did not know that the keeping was coming for him, the way it had come for me, the way it had come for all the keepers before me.
+I did not know the hand. But I knew it would come again.
 
-I did not know his name. I did not know his face. But I knew that he was there, in the dark, breathing the same air I breathed, waiting for the keeping to find him. And I knew that I would be ready for him when it did.
+The tally was not finished. The count was not complete. And if I wanted to learn the hand that was keeping it, I would have to do the one thing the count itself was waiting for me to do. I would have to watch.

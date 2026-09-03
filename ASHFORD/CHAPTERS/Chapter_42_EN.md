@@ -1,614 +1,823 @@
-CHAPTER 42 — THE WATCHMAN
+# CHAPTER 42 — THE ORDER OF SEVERENCE
 
-The Order did not recruit me immediately.
+The first sign of the Order was not a meeting.
 
-They watched.
+It was a phrase.
 
-At first, I was not certain of that.
+I found it three days after the old constable showed me the agreement.
 
-Ashford was a small town. The same faces appeared everywhere. A man could pass you in the morning, stand behind you in the market at noon, and sit three tables away in an inn that evening without there being anything unusual about it.
+Finch had brought a bundle of papers from the lower shelves of the parish records. Most were unremarkable: property disputes, burial registers, notices concerning roads that no longer existed.
 
-I had spent enough time in the town to know that coincidence was common.
+One page had been folded twice and placed between two unrelated documents.
 
-So I did not call it observation.
+There was no title.
 
-Not at first.
+No date.
 
-Then I began noticing the repetitions.
+No signature.
 
-A man I had seen near the library appeared outside the church two days later.
+Only six words written across the middle of the page.
 
-A woman who had once stood beside Eleanor at the market was suddenly interested in the records office.
+**Sever what was bound.**
 
-Someone began asking Margaret questions about when I came into town.
+I read them twice.
 
-Nothing was ever direct.
+Then a third time.
 
-No one approached me.
+The handwriting was narrow and deliberate. Whoever had written it had pressed hard enough that the impression remained on the paper beneath.
 
-No one threatened me.
+I turned the page over.
 
-No one even mentioned the Order.
+Nothing.
 
-That was what made it difficult.
+I held it toward the window.
 
-If they wanted me to know I was being watched, they were very good at it.
+Nothing.
 
-If they wanted me not to know, they were even better.
+It was not a letter.
 
-I began watching them in return.
+It was not a prayer.
 
-I changed the route I took home.
+It was not even clear that it was meant for anyone.
 
-Sometimes I stayed longer at the library.
+I put it aside.
 
-Sometimes I left through the rear entrance.
+Ten minutes later, I picked it up again.
 
-Once, I spent almost an hour sitting in a coffee room simply to see whether anyone would come looking for me.
+That annoyed me.
 
-Nobody did.
+A phrase without context should have meant nothing.
 
-That annoyed me more than it should have.
+Instead, it had the unpleasant quality of something overheard.
 
-I wrote the observation in my notebook.
+I took it to Calloway.
 
-Then added:
+He was in his office, going through reports when I placed the page on his desk.
 
-Observation is not proof.
+He looked at it.
 
-I underlined it.
+For several seconds, he did not move.
 
-I had begun to distrust conclusions that arrived too easily.
+Then he folded the paper along its existing crease.
 
-The Order, whatever else it was, seemed to understand that better than I did.
+"Where did you find this?"
 
-They gave me nothing.
+"Finch's records."
 
-No invitation.
+"Which records?"
 
-No explanation.
+"Parish archives."
 
-No instruction.
+He looked at me.
 
-Only time.
-
-Several weeks passed.
-
-Then Crowe appeared.
-
-It was late afternoon when I found him outside the old bookseller's shop.
-
-He was leaning against the opposite wall, reading a newspaper.
-
-He lowered it when I approached.
-
-"You've been avoiding certain streets."
-
-"So you've noticed."
-
-"I notice many things."
-
-"Do you also know whether the Order is following me?"
-
-He folded the newspaper.
-
-"Does it matter?"
-
-"Yes."
+"You shouldn't have brought it here."
 
 "Why?"
 
-"Because if someone is watching me, I'd like to know why."
-
-Crowe considered that.
-
-"Suppose I told you."
-
-"I'd listen."
-
-"And suppose the answer raised three more questions."
-
-"It probably would."
-
-"Then you'd still know more than you did before."
-
-"That's generally how answers work."
-
-He smiled.
-
-"Not always."
-
-He reached into his coat.
-
-For a moment I thought he was going to produce another document.
-
-Instead, he held out a coin.
-
-It was dark with age.
-
-Not silver.
-
-Not copper either.
-
-The metal was difficult to identify beneath the wear.
-
-One side was nearly smooth.
-
-The other carried a shallow mark.
-
-A circle crossed by a short line.
-
-The same symbol I had seen elsewhere.
-
-I did not take it immediately.
-
-"What is it?"
-
-"A coin."
-
-"I can see that."
-
-"Then we have made progress."
-
-I looked at him.
-
-He extended his hand again.
-
-"Carry it."
-
-"For how long?"
-
-"Seven days."
-
-"Why?"
-
-"You will learn."
-
-That answer should have irritated me.
-
-Instead, it made me curious.
-
-I took the coin.
-
-It was colder than I expected.
-
-Crowe turned away.
-
-"Don't lose it."
-
-"That's the entire instruction?"
-
-"For now."
-
-He walked away.
-
-I watched him until he disappeared around the corner.
-
-Then I looked down at the coin.
-
-Nothing happened.
-
-That was the first thing I noticed.
-
-No warmth.
-
-No vibration.
-
-No change in the air.
-
-Nothing.
-
-I put it into my pocket.
-
-The first day passed without incident.
-
-I carried it in the same pocket as my notebook.
-
-Nothing changed.
-
-That evening I placed it on my desk.
-
-Nothing.
-
-I moved it beside the lamp.
-
-Nothing.
-
-I held it in my hand for several minutes.
-
-Nothing.
-
-The second day was the same.
-
-By the third, I had begun to suspect that the test was not the coin.
-
-It was me.
-
-That possibility was inconvenient.
-
-I tried several things.
-
-I carried it openly.
-
-Then concealed it.
-
-I left it at home for an hour before returning for it.
-
-I changed which pocket held it.
-
-I placed it beside the gear.
-
-The gear remained cold.
-
-The coin remained cold.
-
-Neither reacted.
-
-I wrote down the results.
-
-No measurable response.
-
-Then:
-
-No apparent external effect.
-
-I almost wrote nothing happened.
-
-I stopped.
-
-That phrase was too careless.
-
-Something could happen without my noticing it.
-
-I crossed it out.
-
-The fourth day passed.
-
-Then the fifth.
-
-Nothing.
-
-The sixth was no different.
-
-By then, the coin had become irritating precisely because it refused to become interesting.
-
-It was only a piece of metal.
-
-Or it wanted me to believe that.
-
-On the seventh evening, I sat at my desk and turned it between my fingers.
-
-I thought about Crowe's instruction.
-
-Carry it.
-
-Nothing more.
-
-He had not told me what to look for.
-
-He had not told me what would happen if I failed.
-
-He had not even told me what passing meant.
-
-That bothered me.
-
-A test without a stated measure was not a test in the ordinary sense.
-
-Unless the uncertainty itself was part of it.
-
-I wrote:
-
-Possible purpose: obedience.
-
-I stared at the words.
-
-Then added:
-
-Possible purpose: patience.
-
-Then:
-
-Possible purpose: observation.
-
-I looked at the three possibilities.
-
-None could be proven.
-
-I closed the notebook.
-
-For once, I was glad I had not reached a conclusion.
-
-Eleanor met me beneath the mill the following evening.
-
-She stood beside the old wall with her hands inside her coat.
-
-"You passed."
-
-I stopped several feet away.
-
-"Passed what?"
-
-"The test."
-
-"What was the test?"
-
-She looked at me.
-
-"That is the question you should have been asking."
-
-"I was asking it."
-
-"Not aloud."
-
-"I didn't know anyone was listening."
-
-A faint smile appeared.
-
-"There are many things you don't know."
-
-I took the coin from my pocket.
-
-"This?"
-
-"Yes."
-
-"What does it do?"
-
-"Nothing."
+"Because now I have to tell you what it is."
 
 I waited.
 
-"That's not very satisfying."
+He sighed.
 
-"It wasn't designed to satisfy you."
+"An old phrase."
 
-"Then what was it designed to do?"
+"Whose?"
 
-Eleanor looked toward the mill.
+"That's harder to say."
 
-"To see what you would do when given something you didn't understand."
+"Try."
 
-I thought about the seven days.
+Calloway leaned back.
 
-"You wanted me to obey."
+"The Order of Severence."
 
-"Did you?"
+The name meant nothing to me.
 
-"You told me to carry it."
-
-"And you did."
-
-"That doesn't make me obedient."
+"Religious?"
 
 "No."
 
-She looked at me carefully.
+"Political?"
 
-"It makes you willing to follow an instruction without being given its purpose."
+"Not exactly."
 
-"That's obedience."
+"Criminal?"
 
-"Sometimes."
+He almost smiled.
 
-"And the other times?"
+"No."
 
-"Discipline."
+"Then what are they?"
 
-I did not like the distinction.
+"People."
 
-"What's the difference?"
+"That's not very helpful."
 
-"Obedience asks you to trust the person giving the order."
+"It is when you understand how they operate."
 
-She paused.
+He returned the paper.
 
-"Discipline asks you to control yourself while you decide whether the order deserves your trust."
+"They don't announce themselves. They don't hold public meetings. They don't recruit in taverns. They don't leave lists of members behind."
+
+"How do you know they exist?"
+
+"Because Ashford is old."
+
+That was his answer.
+
+I waited for more.
+
+It did not come.
+
+"How long?"
+
+"Longer than anyone remembers clearly."
+
+"And what do they believe?"
+
+Calloway looked toward the window.
+
+Rain had begun against the glass.
+
+"That depends on which member you ask."
+
+"Then give me the common part."
+
+He was silent for a moment.
+
+"They believe some things were bound that should not have been."
+
+I thought of the agreement.
+
+Of the door beneath the mill.
+
+Of the gear sitting in my desk drawer.
+
+I kept my expression still.
+
+"Bound how?"
+
+"That's the problem."
+
+"What problem?"
+
+"They don't always mean the same thing."
+
+He picked up another report.
+
+The conversation was over.
+
+I took the page.
+
+At the door, I stopped.
+
+"Calloway."
+
+He looked up.
+
+"Are they dangerous?"
+
+He considered the question.
+
+"Anyone who thinks they understand something other people fear can be dangerous."
+
+That was all.
+
+---
+
+I spent the afternoon looking through the records again.
+
+Not for the Order.
+
+For the phrase.
+
+I found it twice.
+
+The first occurrence was nearly forty years old.
+
+The second was older.
+
+Neither document explained it.
+
+The words appeared in margins, beside corrections, or beneath passages that had later been crossed out.
+
+I began to notice something else.
+
+The phrase was never accompanied by a name.
+
+Not once.
+
+That made it difficult to decide whether I was looking at the work of one person or several.
+
+I wrote the occurrences in my notebook.
+
+Then I wrote a question beneath them.
+
+**Sever what was bound.**
+
+What was bound?
+
+And who had decided that it should be severed?
+
+I closed the notebook.
+
+There was no answer.
+
+Only another question.
+
+---
+
+The next morning I went to the market.
+
+I had no particular reason to be there.
+
+At least, that was what I told myself.
+
+Ashford's market occupied the same stretch of square it had occupied for generations. Fishmongers argued over space. Farmers complained about the weather. Women moved between stalls carrying baskets. Somewhere nearby, a horse objected loudly to being harnessed.
+
+Nothing looked unusual.
+
+That was one of the things I had begun to distrust about the town.
+
+It was very good at looking ordinary.
+
+I noticed her near the bookstall.
+
+A woman in a dark coat stood with her back to the road, examining a collection of old pamphlets.
+
+She was not dressed unusually.
+
+She was not watching me.
+
+At least, I did not think she was.
+
+I passed her once.
+
+Then again.
+
+On the third pass, she spoke without looking up.
+
+"You are carrying something."
+
+I stopped.
+
+"Everyone carries something."
+
+She turned.
+
+Her eyes moved briefly to my coat.
+
+"Yours is metal."
 
 I said nothing.
 
-The distinction stayed with me.
+She closed the pamphlet.
 
-Perhaps that was the real test.
+For the first time, she looked directly at me.
 
-Not whether I would obey.
+There was no fear in her expression.
 
-Whether I could resist the temptation to decide too quickly what obedience meant.
+No excitement either.
 
-Eleanor held out her hand.
+Only calculation.
 
-I gave her the coin.
+"You're Leon Ashcroft."
 
-She looked at it once.
+It was not a question.
 
-Then returned it.
+"Who are you?"
 
-"You kept it."
+She glanced toward the market.
 
-"I was told to."
+"Not here."
 
-"You could have thrown it into the river."
+She walked away.
 
-"I considered it."
+I followed at a distance.
 
-"Why didn't you?"
+Not because I trusted her.
 
-"I didn't know what would happen."
+Because I wanted to know whether she knew what she was talking about.
 
-She smiled.
+She crossed the square, passed the church, and stopped near the river.
+
+The market noise faded behind us.
+
+She rested one hand against the stone railing.
+
+"You shouldn't follow strangers."
+
+"You told me not to stay."
+
+"I didn't tell you to follow me."
+
+"You knew I would."
+
+A faint smile appeared.
+
+"Perhaps."
+
+"Who are you?"
+
+"Eleanor Shaw."
+
+The name meant nothing to me.
+
+"Are you part of the Order?"
+
+She looked at me.
+
+"Who told you that name?"
+
+"Calloway."
+
+That was not entirely true.
+
+She seemed to know it.
+
+"Calloway tells very little."
+
+"Usually."
+
+She looked at the river.
+
+"Then you know more than most."
+
+"I know there is an Order."
+
+"And what else?"
+
+"That they believe some things should be severed."
+
+Her expression changed slightly.
+
+Not surprise.
+
+Recognition.
+
+"That is one interpretation."
+
+"What is yours?"
+
+She did not answer.
+
+Instead, she asked:
+
+"Do you believe a promise should be kept if the person who made it no longer understands why it was made?"
+
+I thought of the agreement.
+
+"I don't know."
 
 "Good."
 
-I frowned.
+"Why?"
 
-"Good?"
+"Because certainty is usually the first mistake."
 
-"You didn't pretend to know."
+The river moved slowly beneath us.
 
-That answer stayed with me.
+I studied her.
 
-She walked toward the mill.
+"Are you trying to recruit me?"
 
-I followed.
+"No."
 
-The light was fading.
+"Then what do you want?"
 
-For a while neither of us spoke.
+"To know whether you intend to keep a promise you don't understand."
+
+I did not answer immediately.
+
+She watched me.
+
+"The agreement," she said.
+
+I kept my face still.
+
+"You know about it."
+
+"I know that there is one."
+
+"Who told you?"
+
+"No one."
+
+That answer was less reassuring than it should have been.
+
+"How much do you know?"
+
+"Enough to know that people have died protecting things they could not explain."
+
+"And the Order?"
+
+"The Order believes that fear is not the same as wisdom."
+
+"Do you?"
+
+She looked toward the opposite bank.
+
+"Sometimes."
+
+"That's not an answer."
+
+"No."
+
+She smiled faintly.
+
+"But it is an honest one."
+
+I thought about the phrase.
+
+"Sever what was bound."
+
+Eleanor's eyes returned to me.
+
+"Where did you see that?"
+
+"In the records."
+
+She was quiet.
 
 Then she said:
 
-"You've been given a choice."
-
-"What choice?"
-
-"A name."
-
-I looked at her.
+"People have been using those words for a very long time."
 
 "Why?"
 
-"Because a Watchman is not simply a member."
+"Because they are simple."
 
-"What is he, then?"
+"Simple isn't an explanation."
 
-"Someone who watches."
+"No."
 
-"That's not much of a definition."
+She looked at me for another moment.
 
-"It is enough."
+"That is why they're dangerous."
 
-"For what?"
+I waited.
 
-"For the beginning."
+She continued.
 
-We stopped near the old wall.
+"The Order is not made up of people who agree about everything. Some believe the old boundaries are mistakes. Some believe the agreements were made by frightened men. Some believe the things beneath Ashford were never meant to remain hidden."
 
-I thought about the past few weeks.
+"Beneath Ashford?"
 
-The people who had watched me.
+She paused.
 
-The records.
+I knew immediately that I had caught something she had not intended to say.
 
-The stones.
+"What do they believe is beneath it?"
 
-The door beneath the mill.
+"I didn't say they were right."
 
-The agreement I still did not understand.
+"But they believe something is."
 
-All of it seemed to lead toward something.
+"Some of them."
 
-But I still could not see what.
+"Do you?"
 
-"What names are available?"
+Eleanor looked at the river again.
 
-Eleanor shook her head.
+"No."
 
-"You choose."
+The answer came quickly.
 
-"Any name?"
+I believed her.
 
-"One that you can carry."
+That was what unsettled me.
 
-That sounded more serious than it should have.
+"Then why stay with them?"
 
-I looked at the mill.
+"I didn't say I was with them."
 
-Then at the town beyond it.
+"You aren't?"
 
-Ashford had always seemed like a place that watched without admitting that it watched.
+"I said I know them."
 
-People remembered things.
+"That's different."
 
-Buildings kept their histories.
+"Very."
 
-Old boundaries survived beneath new ones.
+She pushed herself away from the railing.
 
-Perhaps the town did not need someone who could explain everything.
+"Ask yourself a better question."
 
-Perhaps it needed someone who would notice when something changed.
+"What?"
 
-I looked back at Eleanor.
+"Why did your family agree to keep something sealed?"
 
-"The Watchman."
+I said nothing.
 
-She studied me.
+She started walking.
 
-"Why?"
+I followed for two steps.
 
-"Because someone should notice."
+Then stopped.
 
-She nodded.
+She looked back.
 
-"Then you shall keep watch."
+"Do you know what the Order wants?"
 
-The words sounded different from an ordinary introduction.
+"To open the door?"
 
-Not a title.
+"Some of them."
 
-Not quite an oath.
+"And the others?"
 
-Something between the two.
+"To understand the door first."
 
-I took the coin back.
+She left before I could ask which group she belonged to.
 
-For a moment, I considered refusing.
+I stood beside the river until the market noise returned.
 
-Not the name.
+---
 
-The Order itself.
+That evening I went back to the records.
 
-I still did not understand their beliefs.
+I found three names that had appeared beside the phrase over the years.
 
-I did not trust Crowe.
+None belonged to members of an organisation.
 
-I did not know whether Eleanor had told me everything she knew.
+One was a schoolmaster.
 
-And I certainly did not intend to surrender my judgment simply because someone had given me a name.
+One was a cooper.
 
-But there was another truth.
+One had been listed as a solicitor.
 
-I had already been watching.
+The names had nothing obvious in common.
 
-The name only gave that act a shape.
+But each had been connected to property disputes involving old boundary lines.
 
-I put the coin away.
+I wrote that down.
 
-"I'll use it."
+Then crossed it out.
 
-Eleanor nodded.
+A coincidence was not evidence.
 
-She did not ask me to swear anything.
+I had begun to understand that much.
 
-That was perhaps the most important part.
+I turned another page.
 
-I left the mill alone.
+A note had been written in the margin.
 
-On the walk home, I passed three people I had seen before.
+**The boundary is not the prison.**
 
-None spoke to me.
+I stared at it.
 
-None stopped me.
+There was no signature.
 
-But for the first time, I wondered whether they had heard the name already.
+No date.
 
-Watchman.
+I read it again.
+
+Then I wrote beneath it:
+
+**If so, what is?**
+
+I did not find an answer.
+
+---
+
+I met Silas Crowe two days later.
+
+He approached me outside the library.
+
+I had seen him once before.
+
+A tall man in a dark coat, perhaps forty, perhaps a little older. His appearance was unremarkable enough that I had almost forgotten him.
+
+Almost.
+
+He stopped several feet away.
+
+"Mr. Ashcroft."
+
+"Mr. Crowe."
+
+He smiled.
+
+"So you know my name."
+
+"People talk."
+
+"Usually when they have something to say."
+
+"Usually."
+
+Neither of us moved.
+
+He looked toward the library doors.
+
+"You've been reading old records."
+
+"That's allowed."
+
+"I didn't say it wasn't."
+
+"Then why mention it?"
+
+"Because records have a habit of making dead arguments look simple."
+
+I watched him.
+
+"What argument?"
+
+"The old one."
+
+"That's not specific."
+
+"No."
+
+He seemed amused.
+
+"The old arguments rarely are."
+
+He walked past me.
+
+I turned.
+
+"Mr. Crowe."
+
+He stopped.
+
+"You know about the agreement."
+
+He looked over his shoulder.
+
+"I know there was one."
+
+"You've seen it?"
+
+"No."
+
+"Then what do you know?"
+
+"Enough."
+
+"That's the second time someone has said that to me."
+
+"Perhaps you should stop asking the wrong people."
+
+I almost smiled.
+
+"Then tell me who the right people are."
+
+Crowe turned fully toward me.
+
+"The right person is usually the one who admits he doesn't know."
+
+"That's Eleanor's answer."
+
+"Then Eleanor has learned something."
+
+He continued walking.
+
+I followed.
+
+Not closely.
+
+"Do you belong to the Order?"
+
+He stopped again.
+
+"No."
+
+I waited.
+
+"Do you support them?"
+
+"Sometimes."
+
+"Do you oppose them?"
+
+"Sometimes."
+
+"That isn't very useful."
+
+"Neither is choosing a side before you understand the dispute."
+
+We had reached the end of the street.
+
+The evening was becoming colder.
+
+Crowe looked toward the dark line of the river.
+
+Then he said:
+
+"You have been looking at a locked door."
+
+I said nothing.
+
+"And?"
+
+"Eventually," he continued, "you will have to decide whether a locked door is protection or imprisonment."
+
+The words were simple.
+
+Too simple.
+
+I thought of Eleanor.
+
+Of Calloway.
+
+Of the agreement.
+
+Of the phrase in the records.
+
+Sever what was bound.
+
+"What would you call it?"
+
+Crowe looked at me.
+
+"That depends on what is on the other side."
+
+"Do you know?"
+
+A pause.
+
+Then:
+
+"I know enough to be interested."
+
+That was not an answer.
+
+But it was probably the most honest thing he had said.
+
+He turned away.
+
+I did not follow.
+
+I watched him disappear into the evening traffic.
+
+---
+
+That night I opened my notebook.
+
+I wrote down everything I knew about the Order.
+
+It was not much.
+
+They had existed in Ashford for decades.
+
+They had no obvious headquarters.
+
+Their members did not share a single profession.
+
+They believed some boundaries were prisons.
+
+They disagreed about what should be done with them.
+
+Eleanor Shaw knew about the agreement but claimed not to know its purpose.
+
+Silas Crowe knew about the locked door.
+
+Calloway knew more than he wanted to say.
+
+And someone, years ago, had written:
+
+**Sever what was bound.**
+
+I stared at the list.
+
+Then I added one final line.
+
+**None of them appears to know the whole truth.**
+
+I left the notebook open.
+
+For the first time since I had begun looking into the strange things around Ashford, that possibility felt less like a weakness and more like a clue.
+
+Perhaps there was no single person who knew everything.
+
+Perhaps the knowledge had been divided.
+
+Passed from one generation to another.
+
+Broken into pieces.
+
+A phrase here.
+
+A name there.
+
+A warning without its reason.
+
+An agreement without its history.
+
+A door without a key.
+
+I closed the notebook.
+
+Outside, the town had gone quiet.
+
+I thought of Crowe's question.
+
+Protection or imprisonment.
 
 I did not know.
 
-I did not turn around to find out.
+But I was beginning to understand that the people asking me to choose already had their answers.
 
-I had learned something during those seven days.
-
-Being watched did not always mean someone wanted to control you.
-
-Sometimes they were simply waiting to see what you would do.
-
-And sometimes the only way to remain free was to keep watching back.
-
-I had accepted the name.
-
-I had not accepted the Order.
-
-Not completely.
-
-That distinction would matter later.
-:::
+And that frightened me more than the locked door itself.

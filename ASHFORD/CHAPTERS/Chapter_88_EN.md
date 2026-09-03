@@ -1,137 +1,89 @@
-﻿CHAPTER 88 — THE FOUR CLOCKS
+CHAPTER 88 — THE HARVEST
 
-I did not return to the market for a week.
+The harvest came, and the town gathered in the fields. I walked among them, not as a keeper, but as a man who had once been a watchman, and who was now something else. The town did not know I was the keeper. It did not know about the bell, or the houses, or the signs, or the place beneath. It knew only that I was a man who lived on the High Street, who kept to himself, who walked the boundary fields, who had been a watchman before the spring.
 
-I did not go to the library. I did not go to the vestry. I stayed in my rooms, with the broken clock on my desk, and I looked at it.
+The fields were pale gold in the long light, and the air was full of chaff and dust, and the men moved through the wheat in a slow line, cutting, binding, leaving the sheaves standing behind them like a crowd that had stopped to listen. The women followed, gathering, and the children ran at the edges, and the carts creaked up the lane to the ricks, and the whole town was in the fields, and the town did not know what was beneath them.
 
-The first sign was on its back. The mark I had carried all my life. The mark that was on the object, and on the wall of the common house, and on the door that was not a door.
+I walked through the town at harvest, and I looked at the people. They were binding sheaves, repairing carts, calling to one another across the stubble. They were ordinary. They were alive. And they did not know that the ground beneath their feet had been counted, marked, and kept. I was the only one who remembered. I was the only one who knew. I kept the account. I wrote in the red book each evening, after the harvest work was done, and I added the days, and I kept the record.
 
-I had not expected to find it again.
+I helped where I could. I was not one of them, and I knew it, and they knew it, but at harvest the town would take any hand that was offered. I carried sheaves. I mended a cart-wheel with the smith. I drank from the same jug of water that was passed along the line, and I ate bread from the same cloth, and I was part of the harvest, and I was not part of it. I was the man who kept the count beneath the bread, and I stood in the gold field, in the middle of the town, and no one knew.
 
-I had expected the keeping to be quiet. I had expected the account to be complete. I had expected the boundary to hold, and the bell to remain silent, and the first sign to stay where it had been kept — in the object, in the house, in the chamber beneath the common.
+But I also walked the boundary. I checked the stones. I stood at the fourth stone, where the hairline mark still lay across its face, unchanged. I stood at the eastern marker, where the first sign was cut into the base. The count was still there. The count had not changed. The harvest rose from the ground that the keeper had counted, and the keeper stood in the middle of it, and the two things had never seemed so far apart, or so near.
 
-I had not expected to find it on a broken clock, in a market, under a blanket, for five pence.
-
-I picked up the clock. I turned it over in my hands. The mark was worn, almost invisible, but it was there. The same circle. The same three lines. The same dot. The first sign.
-
-Marianne had said the clock was one of four. Four clocks, made by a man named Hollis, unaccounted for since the 1790s. The mark had been cut into the case after the clock was made. Someone had added it, in the 1780s or 1790s, and then the clock had disappeared from the records.
-
-I could not yet tell what that meant. But I knew that three other clocks existed, somewhere, carrying the same mark. I knew that I had to find them.
-
-I set the clock down. I walked to the window. The street was empty. The autumn light was thin. I stood there for a long time, and I thought about the four families whose names Marianne had given me — the Fenns, the Harlows, the Wintours, the Langfords. They had been ordinary families once. They had bought clocks from a clockmaker, in the ordinary way of things, and they had taken them home and set them on mantelpieces, and they had wound them each night, and they had watched them measure the hours of lives that had long since ended.
-
-And then, sometime in the 1780s or 1790s, someone had come to those four families. Someone had taken their clocks from their mantelpieces, had cut a mark into the backs, had numbered them, and had given them back. The families had kept them. They had passed them down. They had hidden them, perhaps, or forgotten them, or simply held on to them without knowing what they held.
-
-And now one of those clocks was on my desk.
-
-I turned away from the window. I picked up the clock again. I held it in my palm, and I felt the weight of it, and I understood that I was holding something that had been meant to be found.
+I had been keeper for a year and a half. The harvest was the second I had seen. The first harvest had been a confusion of new duties — the gear, the agreement, the half-understood boundary, the weight of a thing I could not name. This harvest was different. I walked the stubble fields the way I walked the boundary, reading the land the way I read the stones, and I understood that the town and the keeping were the same earth. The town grew its bread on the ground that had been counted. The keeper kept the count beneath the bread. The harvest was the forgetting made into food — the proof that the town could live on what it did not know.
 
 ---
 
-On the eighth day, I went to the lending library.
+The evenings of September were long and still. The heat had gone out of the day, and the light came in low and amber through the windows, and the town was quiet with the particular quiet of a place that has finished its work. I sat at my desk in the evenings, and I wrote in the red book, and I kept the record. I wrote about the harvest. I wrote about the ricks, and the fairs, and the weather, and the small events of the town. I wrote the account of the keeping, and I did not know what the keeping was for, and I kept it anyway.
 
-Marianne was at her table. She did not look up when I came in.
+In September, the stranger returned.
 
-"I need to find the other three clocks," I said.
+I had not seen him since the spring, since the night he had come to the common, since he had told me that the count was running out. I had thought of him, over the summer, the way a man thinks of a debt he has not paid — a thing that waits, that will be called in. And in September, in the amber evening, it was called in.
 
-She set down her pen. "I wondered how long it would take you to say that."
+He came to my rooms as the light was going. I opened the door, and he stood on the step, older than I remembered, with the same bag at his feet and the same mark on his coat, turned toward me. He had not come through the town. He had come the way he always came, the way the count came — from somewhere I could not see, arriving at a door I had not watched.
 
-"Can you help?"
+"You are still the keeper," he said.
 
-She looked at me. "I can tell you where to look. I cannot tell you what you will find."
+"I am."
 
-She opened a drawer and took out a sheet of paper. It was a list, written in her neat hand — the names of the four families who had bought the clocks from Hollis, in the 1770s.
+"I did not think you would be." He looked at me. "I thought you would open the door. I thought you would end the keeping. I thought the count would run out, and you would open the door."
 
-"These are the original buyers," she said. "The records don't say what happened to the clocks after that. But two of the families still live in or near Ashford. The other two have disappeared from the records entirely."
+I stood in the doorway. I did not ask him in. He did not ask to come in. We stood on either side of the threshold, the way we had stood on either side of the count.
 
-I took the list.
+"The count was not a count," I said. "The signs were not a count of years. They were a record. A record of the keeping."
 
-"The Fenn family," I read. "The Harlow family. The Wintour family. The Langford family."
+He was silent. He looked past me, into the room, at the desk where the Tokens lay, at the drawer where the red book was kept.
 
-"Fenn and Harlow still have descendants in the town," she said. "Wintour and Langford are gone — moved away or died out. If the clocks still exist, they are likely with the Fenns or the Harlows."
+"I have read the account," he said. "I have read what you have written."
 
-"Or they were sold," I said.
+"You have read the red book?"
 
-"Or they were sold," she agreed. "But the man who sold your clock to Theo Marsh — he said it had been in his family for years. It is likely, then, that the other clocks stayed with the families as well."
+"I have." He looked at me. "I have been watching you since the spring. I have been reading what you write. I know about the bell, and the houses, and the Tokens, and the chamber, and the place beneath."
 
-I looked at the list. Fenn. Harlow. Wintour. Langford. Four names. Four clocks. Four chances to find the first sign.
+I stood in the room. The stranger had read the account. The stranger knew everything. He had stood in my room, or he had come when I was gone, and he had opened the drawer, and he had read the red book — the account I had written for the keeper who would come after me, the account I had kept locked in the dark, and he had read it as easily as the lamplighter reads his rounds.
 
-I folded the list and put it in my coat.
+"Then you know what I am keeping," I said.
 
-"Thank you," I said.
+"I know."
 
-She nodded. She did not ask what I would do with the information. She did not ask why I was looking. She simply watched me leave, and I knew that she was curious, and I knew that she would wait.
+"And you know that the count was not running out."
 
-I walked down the narrow stairs from the library room. The chandler's shop below was busy. I passed through it without seeing anyone. The list was in my coat. The first name was Fenn.
+"I know." He was silent a moment. "I was wrong. I came to Ashford believing the count was running out, believing the door had to be opened, believing the keeping had to end. I was wrong."
 
----
+"Then why have you come?"
 
-The Fenn family lived in a house on the western edge of Ashford, near the old toll road. I went there the following morning.
+"To tell you that you are right," he said. "The count was not a count. The signs were a record. The door was not a door. The keeping was not meant to end."
 
-The house was small, well-kept, with a garden in front and a low wall of mossy stone. An old woman answered the door. She was small and thin, with hands that had worked for many years, and she looked at me with the wariness of someone who had learned not to trust strangers.
+He stood in the doorway. The light had gone out of the street behind him, and his face was in shadow, and the mark on his coat caught the last of it.
 
-I asked about the clock.
+"The account is kept," he said. "The keeping is whole. I came to tell you that."
 
-She looked at me for a long moment before she answered. I could see her deciding whether to close the door. Then she stepped back, and I followed her inside.
+"And what will you do?"
 
-The house was neat. The furniture was old but cared for. There was a fire in the grate, and the room was warm. I sat where she gestured, and I waited.
+"I will go," he said. "I came to Ashford believing I was meant to end the keeping. I have learned that I was meant to see it kept."
 
-"The clock," she said slowly. "Yes. There was a clock. My grandfather had it. It sat on the mantelpiece for as long as I can remember."
+He turned.
 
-"Where is it now?"
+"The account is yours," he said. "The keeping is yours. I will not trouble you again."
 
-She was quiet. I could see her deciding how much to tell me.
+He went out.
 
-"It was sold," she said. "Many years ago. My father sold it to a collector. A woman. She came to the house, looked at it, and offered him a price he could not refuse."
-
-I felt a stillness settle over me.
-
-"A woman. Do you remember what she looked like?"
-
-"She was not young," the old woman said. "She wore a dark coat. She did not give her name. She looked at the clock for a long time, and she paid what my father asked, and she left."
-
-"Did she say anything about the clock?"
-
-The old woman was quiet a moment. She looked at the empty mantelpiece, as if she could still see the clock there.
-
-"She said something strange," she said. "She said the clock was one of four. She said she had been looking for them for a long time."
-
-I stood at the door. The woman in the dark coat. The woman who had been looking for the clocks. The woman who had been to the Fenn house, years ago, and had bought the clock.
-
-I did not know whether it was the same woman I had seen in the lane. But I knew that there was someone in Ashford — or someone who passed through Ashford — who knew about the clocks.
-
-I thanked the old woman. I left the house. I walked back through the streets of Ashford, and I thought about the four clocks, and the woman in the dark coat, and the mark on the back of the clock on my desk.
-
-I had found one clock. Someone else had found the second. I did not know who. I could not say where the clock was now. But I knew that I had to find the remaining two before someone else did.
+I stood in the room. The stranger had come. The stranger had read the account. The stranger had said I was right. I did not know whether to believe him. But I had kept the account. And the account had told him what the keeping was.
 
 ---
 
-I did not go to the Harlow house that day.
+I sat at my desk. I opened the red book. I wrote: The stranger returned today. He had read the account. He said I was right. He said the keeping was not meant to end. He has gone. I am the keeper. I have kept the account. The keeping is whole.
 
-I went home. I sat at my desk. I took out the broken clock, and I looked at the first sign on its back.
+But I did not write what I was thinking: that the stranger's admission had not changed the weight of the gear. I had not needed his confirmation. I had needed to know whether the keeping was mine alone, or whether it was shared. Now I knew. The keeping was mine. The account was mine. The count was still there, waiting, unchanged.
 
-The first sign. The mark of the maker. The mark that was older than the Order, older than the boundary, older than the wall. I had thought it was a single thing. A single mark, on a single object, in a single chamber. But it was not. It was a signature that had been placed on many things, across many years, and I had only just begun to see how many there were.
+I closed the red book. I put it in the drawer. I sat in the stillness, and I thought about the stranger's admission. He had come to end the keeping, but he had seen that the account itself was the continuation. I was the keeper, but the account was not mine to withhold. It would be read by another, and another after that. The bell was silent, the house was kept, and the account was no longer a record — it was a seed, and the seed would be carried by whatever hand found it next.
 
-The clock was one of four. The second was with the woman in the dark coat. The third and fourth were still out there. I could not tell for certain what the clocks were for. I had no way of knowing why the first sign was on them. I could not say who had added the mark, or why, or when.
+But as I sat in the dark, I found myself thinking not of the seed, but of the hands that had already held the book. The stranger had read it. He had stood in my room, or he had come when I was gone, and he had opened the drawer, and he had turned the pages of the account, and I had not known. I had believed the account was safe — locked in the drawer, in the dark, in my keeping. It had never been safe. A book that is kept is a book that can be found, and a keeper who believes his keeping is hidden is only a keeper who has not looked at his own door.
 
-But I knew that I had to find them.
+I went to the drawer and I took out the red book, and I turned it over in my hands. It was the same book. The pages were the same pages. But I found, in the middle of it, a crease that I did not remember — a page that lay differently from the others, as if it had been held open and read slowly, and closed again with care. The stranger had been careful. He had not torn the pages. He had not taken anything. He had only read, the way a man reads a thing he has been looking for, and he had put it back the way he had found it, and he had gone.
 
-I opened the drawer. I took out the red book. I had not written in it since the autumn. The account was full.
+I put the book back in the drawer. I did not sleep well that night. I lay in the dark, and I thought about the crease, and about the man who had made it, and about the other hands that would find the book after mine — the keeper who would take it up, and the readers who would come before him, and the ones I would never know. The account was mine to write. It was never mine alone. I had known that in the spring, when I had written that the keeping was not a thing that could be passed, but a thing that had to be taken up. I had not known that it could also be taken — that a book kept in the dark could be read in the dark, and returned to the dark, and that the reading would leave a mark no one had asked for.
 
-I opened it to a new page.
+I rose in the grey morning and I walked to the boundary, and I stood at the eastern marker, where the first sign was cut into the base. I put my hand on it. The stranger had read my account, and he had said I was right, and he had gone, and I did not know whether he would keep his promise not to trouble me again. The count was still there, waiting, unchanged. But the account was no longer a secret, and I understood that a keeper who is seen is a keeper who is watched — and that I had spent a year believing I kept the forgetting, when I had only kept it from the town, and never from the ones who already knew.
 
-I wrote:
-
-*I have found a broken clock with the first sign on its back. It is one of four. The second was bought by a woman in a dark coat, years ago, from the Fenn family. The third and fourth are still out there.*
-
-*I do not know what the clocks are for. But I know that the first sign is on them. And I know that I am meant to find them.*
-
-I closed the red book. I put it back in the drawer.
-
-I sat in the dark. The clock was on the desk before me. The first sign was on its back. I had been a keeper of the boundary, of the houses, of the bell. I had kept the account. I had kept the record. But the keeping had not ended. It had only changed shape.
-
-I had found one clock. I would find the others. I could not tell for certain whether the Harlow clock remained in Ashford, or whether the woman in the dark coat had reached it first. I only knew that an object could be hidden in plain sight for generations and still draw the attention of the wrong hands. In the morning I would go to the Harlow house — not because the answer was waiting there, but because leaving the question unanswered had become its own kind of risk.
-
-I lay down, but I did not sleep. I lay in the dark, and I listened to the silence of the house, and I thought about the four families, and the four clocks, and the woman in the dark coat, and the first sign that was no longer a single mark in a single place.
-
-It was a thread. And I had begun to follow it.
+The stranger had come to end the keeping, and he had gone away seeing it kept. But the crease in the book was still there. Someone had held the account in his hands, and read it slowly, and I did not know what he had taken from it — or what he had left behind in it. The keeping was whole. But it had been touched. And I stood at the eastern marker, with my hand on the first sign, and I understood that the touching was part of the keeping now, and that I would carry it the way I carried the crease in the page — hidden, and mine, and not mine.

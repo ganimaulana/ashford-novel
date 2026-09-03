@@ -16,7 +16,7 @@
 
 ## LEON KNOWS vs. READER KNOWS vs. ACTUAL TRUTH
 
-### The Three Signs (established Ch 48–62, reinforced to 137)
+### The Three Signs (established Ch 52–62, reinforced to 137)
 | Sign | Shape | Where it appears | Who knows |
 |------|-------|------------------|-----------|
 | **First sign / maker's sign** | circle + three lines + dot | The object/medallions, the bell's rim, the four clocks, the key, the iron box, **base of every boundary stone** (Ch51/55 reconciled → Ch112/118/119), chamber floor, marsh ring, house-on-hill box | Leon (gradually), Ysabel, keeper before first keeper (Miriam's line) |

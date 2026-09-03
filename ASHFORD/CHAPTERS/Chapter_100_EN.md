@@ -1,164 +1,187 @@
-﻿CHAPTER 100 — THE INVITATION
+CHAPTER 100 — THE WOMAN AT THE DOOR
 
-The letter came on a Tuesday, at the end of October, and it was not of the lane's hand.
+I did not find the lock.
 
-I knew that before I opened it, the way I had come to know such things. The lane's hand came in the evening, by the office, or was placed under the stone by the step; and this was placed in the morning, on the hall table, where anyone could have left it and no one had seen who.
+I carried the key with me for weeks. I tried it in every old lock I found — in the church, in the vestry, in the houses I visited, in the market. It fit none of them.
 
-It was a good paper. Not the paper of a shop. The kind of paper a man writes on when he expects the writing to be kept.
+I began to think that the lock was not in Ashford. That the key had been made for a door that had been destroyed, or moved, or sealed so long ago that no one remembered where it was.
 
-I opened it.
+I kept the key in my coat, beside the object, and I kept the clocks in the drawer, and I kept the account.
 
-*Mr. Ashcroft,*
+The winter settled over the town, and the town settled into its keeping, and I settled into the rhythm of it — the same rooms, the same circuits, the same questions asked and not answered. The key stayed cold against my chest. The clocks stayed in the drawer. The account stayed open.
 
-*There is a room in this town which has remained locked for seventeen years. Three men have entered it, in those seventeen years. None of them agree on what they saw.*
+And then, one evening, she came to my door.
 
-*Determine which of them was telling the truth.*
+I was at my desk when I heard the knock. It was not a knock I knew. It was not Theo's, or Marianne's, or the clerk's. It was a knock I had heard once before, in a lane behind the market.
 
-*If you succeed, come to the address below before midnight on Thursday. Your time will not be wasted.*
+I opened the door.
 
-There was no name. There was no town. There was no signature.
+She stood in the doorway, in the dark coat, her face half in shadow. Ysabel Nott.
 
-At the foot of the page, in the same hand, an address: the reading room above the chandler's shop, on the night of Thursday, before midnight.
+She did not speak. She looked at me, and I looked at her, and neither of us moved.
 
-I sat at the desk with the letter in my hand, and I could not yet tell what to make of it.
+"I have been looking for you," I said.
 
-It was not a threat. It was not a summons of the kind the bench sent. It was a request — a strange request, from an unknown hand, about a room that had remained locked for seventeen years and three men who did not agree on what they had seen.
+"I know."
 
-I had been a keeper for two years. I had been a hunter since the clock in the market. I had learned to distrust the things that arrived unasked at my door.
-
-And yet.
-
-The letter was not addressed to the keeper. It was not addressed to the heir of Aurelius Ashcroft. It was addressed to *Mr. Ashcroft*, as if the writer knew the name and nothing else about it. That precision unsettled me more than any threat could have.
-
-I turned it over. There was nothing on the back.
-
-I put it in the drawer, with the red book and the agreement, and I did not decide anything about it that day.
-
----
-
-The room was the reading room above the chandler's shop.
-
-I had not known the chandler's shop had a reading room above it. I had known the lending library was in the room above the chandler's shop — the room where Marianne Loxley kept her tables and her ledgers. I had not known there was another room above that.
-
-I went to see Marianne that afternoon.
-
-She was at her table, as she always was, with the lamp burning low though it was mid-afternoon, and she looked up when I came in with the letter in my hand.
-
-"You have come about something," she said.
-
-"I have." I set the letter on the table before her. "Read it."
-
-She read it. She read it slowly, the way she read everything, and when she had finished she set it down and looked at me.
-
-"There is a room above this one," she said. "It has been locked as long as I have kept the library. I have never asked what is in it. The shop below is the chandler's, and the chandler keeps the key, and the chandler has kept the key longer than I have kept the library."
-
-"Three men have entered it," I said. "In seventeen years."
-
-"So the letter says." She looked at me. "I do not know the three men. I do not know the room. I have never asked, because the keeping of this town is the keeping of this town, and a room above a chandler's shop that stays locked is a room that is kept."
-
-"Do you think I should go?"
+"You have the second clock."
 
 She was silent a moment.
 
-"I think," she said, "that a man who sends such a letter knows something about the room. I think he knows what the three men saw. And I think he wants to know whether you can find it out for yourself."
+"I have the second clock."
 
-"That is what I thought."
+"I have the others."
 
-"Then you will go," she said.
+"I know."
 
-"I have not decided."
+She looked past me, into the room, at the desk where the clocks were not. Her eyes moved over the room the way they must have moved over a hundred rooms in twenty years — cataloguing, comparing, weighing what was present against what was absent.
 
-"You have decided," she said. "You are only waiting to admit it."
+"I know you have three clocks. I know you have the key. I know you have been looking for the lock."
 
----
+I stood in the doorway.
 
-The address on the letter was the reading room above the chandler's shop.
+"How do you know?"
 
-I went on the Thursday, before midnight, as the letter directed.
+"Because I have been looking for them for longer than you have," she said. "And I have been watching you since you found the first one."
 
-The shop was closed. The street was dark. The town had settled into its evening, and the lamps were out along the High Street, and the chandler's shop stood dark behind its shutters.
+I could not say what to say.
 
-I went round to the side, where a narrow stair led up to the room above the shop — the room Marianne had said she had never entered.
+She was silent a moment. Then she reached into her coat and took out a clock.
 
-The stair was unlit. I climbed it by the light of a match, and at the top there was a door, and the door was not locked.
+The second clock.
 
-I pushed it open.
+She held it out to me.
 
-The room beyond was lit by a single lamp, set on a table in the middle of the floor.
+I did not take it.
 
-The room was bare. No furniture but the table and a chair. No papers. No books. Nothing but the lamp, and the table, and — on the table — three sheets of paper, laid side by side.
+"Why?" I said.
 
-I crossed the room. I looked at the three sheets.
+"Because you have the others," she said. "And because I have been looking for them for twenty years, and I have not found what they are for."
 
-They were statements. Three accounts of the same room — the room I stood in — written by three hands.
+I took the clock.
 
-The first was in the hand of a clerk. It described the room as it stood: bare, with a single lamp, a table, a chair. It described the room as ordinary.
+It was the second clock. I did not need to open it. I knew the number inside was II.
 
-The second was in the hand of a younger man. It described the room as he had seen it: the same bare room, but with a door at the far end that he had not opened, and a sound, once, like something moving beyond it.
+"Why are you giving it to me?" I said.
 
-The third was in the hand of an older man. It described the room as he had seen it — the same bare room, but with no door at the far end at all, and no sound, and nothing beyond the walls but the dark.
+"Because you found the other three," she said. "Because you found the key. Because you are looking for something, and I do not know what it is."
 
-Three men. Three accounts of the same room. None of them agreed on what they had seen.
+I looked at her.
 
-I stood at the table, in the lamplight, and I looked at the three sheets, and I understood that I was being tested.
+"Who are you?" I said.
 
-The letter had said: *Determine which of them was telling the truth.*
+She was silent a long moment.
 
-But the room was bare. There was no door at the far end. There was no sound. There was nothing to verify any of the three accounts against.
+"My name is Ysabel Nott," she said. "I have been looking for the four clocks since I was a young woman. I have been looking for the key since I learned it existed. I have been looking for the lock since I understood that the key and the clocks were part of the same thing."
 
-I looked at the room. I looked at the three sheets. I looked at the lamp.
+"And you have not found it."
 
-And I understood.
+"No."
 
-The room was not the test. The three accounts were the test.
+She looked at me.
 
-The first man said the room was ordinary. The second said there was a door and a sound. The third said there was neither.
+"I have been looking for twenty years," she said. "I have found the second clock. I have found the key's history. I have found the name of the man who made the lock. But I have not found the lock."
 
-None of them could be proved from the room itself. The room gave no evidence.
+"Who made the lock?"
 
-And that was the answer.
+She was silent a moment.
 
-The letter had asked which of them was telling the truth. But the truth was that none of them could be trusted — not because any of them lied, but because all of them could be believed, and the room could not decide between them.
-
-I stood in the room, in the lamplight, and I understood that the correct answer was not one of the three men.
-
-The correct answer was: *I cannot determine which of them was telling the truth.*
+"Aurelius Ashcroft."
 
 ---
 
-I did not write an answer.
+I stood very still.
 
-I left the room, and I went down the stair, and I walked home through the dark streets, and I sat at my desk, and I opened the red book, and I wrote:
+The lock was made by Aurelius Ashcroft.
 
-*A room above the chandler's shop. Locked seventeen years. Three men have entered it. None agree on what they saw.*
+The key opened a lock made by Aurelius Ashcroft.
 
-*I entered it tonight. The room is bare. There is no door at the far end. There is no sound. There is nothing to decide between the three accounts.*
+The clocks were marked with the first sign, and the key was marked with the first sign, and the lock was made by the man who had signed the Agreement.
 
-*I cannot determine which of them was telling the truth.*
+I had been looking for the lock. I had not known that the lock was connected to Aurelius.
 
-*I am not certain that is the answer they want.*
+The name came to me the way it had always come — from the margins, from the edges, from the places where a man's name is written when the records refuse to hold it. Aurelius Ashcroft. The man who had made the Agreement. The man who had made the wall. The man whose blood, I had been told, ran in my own veins.
 
-*But it is the only answer the evidence supports.*
+"Where is the lock?" I said.
 
-I closed the red book. I put it in the drawer, with the agreement.
+"I do not know," she said. "But I know that it is in Ashford. I know that it has been hidden for a hundred years. And I know that the man who hid it was the same man who made the Agreement."
 
-I did not decide whether I would go back.
+She looked at me.
 
-But I knew, sitting in the dark, that the letter had begun something. A test. A trial. A selection of some kind — I did not know what.
+"You are the keeper," she said. "You have the clocks. You have the key. You have the first sign. And you have the blood of Aurelius Ashcroft in your veins."
 
-I only knew that a man who sends such a letter, and who locks a room for seventeen years, and who sends three men into it to see three different things — that man is not looking for someone who will give him an easy answer.
+She was silent.
 
-He is looking for someone who will tell him the truth, even when the truth is that the answer cannot be known. And perhaps that room was one of thirteen, each holding a fragment of the same mystery, waiting for the hour when the bell would call.
+"If anyone can find the lock, it is you."
 
-I did not know who had sent the letter.
+---
 
-I could not say what would come of it.
+I stood in the doorway, with the second clock in my hand, and I did not know what to say.
 
-But I knew that I had been asked a question, and that I had answered it — not to the letter, not to anyone, but to myself, in the red book.
+I had been looking for the lock. I had not known that the lock was made by Aurelius. I had not known that the key and the clocks were part of the same thing.
 
-And I knew that the answer would be found out.
+I had been hunting for months. I had found the clocks. I had found the key. I had found Ysabel Nott. And now I knew that the lock was made by Aurelius Ashcroft.
 
-The hunt had begun again.
+I did not know where it was.
 
-And this time, I could not tell for certain whether I was the hunter, or the hunted.
+But I knew that I would find it.
 
+I looked at Ysabel.
+
+"Will you help me?" I said.
+
+She was silent a moment.
+
+"I have been waiting twenty years for someone to ask me that."
+
+She stepped inside.
+
+The door closed behind her. The cold came in with her and stayed, and I understood that the room had changed — that the keeping had changed — that I was no longer a man holding questions alone.
+
+The hunt was not over. It had only just begun. And the lock, I knew, would be the next piece of the count of thirteen signs — the piece that would lead me toward the hour when the bell would call at 00:00.
+
+---
+
+But as she stepped inside, I understood that I had not found an ally so much as I had found a witness.
+
+Ysabel had been looking for twenty years. She had found the second clock, and the key's history, and the name of the man who made the lock. But she had not found the lock.
+
+And I — I had found the other three clocks, and the key, and the first sign. I had found them quickly, in months, the way a thing is found when it has been waiting to be found.
+
+Together, we knew more than either of us had known alone.
+
+But we still did not know where the lock was, or what it held, or why Aurelius had made it.
+
+I set the second clock on the desk beside the drawer. I did not open it. I did not need to. I knew the number inside was II, and I knew that it belonged with the others, and I knew that the sequence — whatever the sequence was for — had been made whole in my keeping for the first time in a hundred years.
+
+She watched me do it. She did not speak. She had given the clock into my keeping, and she was watching to see what I would make of it, the way she must have watched a hundred men in twenty years and found none of them worth the giving.
+
+The count of thirteen signs was not complete. And the bell had not called.
+
+But it would, at 00:00, when the count was ready. And we would be there — the keeper and the hunter, the woman who had waited and the man who had been found — ready to answer, ready to open the lock, ready to see what Aurelius had hidden.
+
+I did not know what we would find.
+
+I did not know whether the hour would ever come.
+
+But the clock was in the drawer now, with the others, and the key was cold against my chest, and Ysabel Nott was sitting in my room by the lamp, and I understood that the hunt had taken its next step.
+
+I sat at my desk.
+
+I opened the red book.
+
+I wrote:
+
+Ysabel Nott has given me the second clock. She has hunted for twenty years. She knows the name of the man who made the lock.
+
+The lock was made by Aurelius Ashcroft.
+
+I did not know that the lock was connected to him. I did not know that the key and the clocks were part of the same thing.
+
+Now I know.
+
+I have four clocks. I have the key. I have the name of the maker of the lock.
+
+I will find the lock.
+
+I closed the book, and the second clock was in the drawer, and the count had moved one step closer to its end — and I could not say whether that was the hour I was waiting for, or the hour that was waiting for me.

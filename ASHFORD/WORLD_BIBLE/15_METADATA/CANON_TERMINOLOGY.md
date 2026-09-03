@@ -1,7 +1,7 @@
 # CANON TERMINOLOGY — ASHFORD
 
 **Status:** PROVISIONAL CANON / TERMINOLOGY LOCK (updated 2026-09-02)
-**Scope:** Future manuscript migration target. Chapters 1–137 still contain legacy terminology. This document does NOT modify any chapter file.
+**Scope:** Future manuscript migration target. Chapters 1–141 still contain legacy terminology. This document does NOT modify any chapter file.
 
 **Migration rule:** Every legacy occurrence must be evaluated in context. No blind global replacement. See § Migration Rules below.
 

@@ -1,113 +1,197 @@
-﻿CHAPTER 112 — THE WALL OF STONES
+CHAPTER 112 — THE OPENING
 
-I returned to the boundary the following day, and the day after, and the day after that.
+I kept the book of the first keeper for three days without opening it.
 
-I walked the line of stones from the eastern marker to the corner where the wall turned, and I counted them as I had counted them before — more than a hundred, running along the wall in their patient ranks. I counted them again. The number was the same. And the number was not the tally.
+I could not yet tell why I waited. I had been given the book, and the book was the account of the origins, and the account was what I had been seeking — the beginning of the keeping, the beginning of the signs, the beginning of the boundary.
 
-I did not know what to make of that. I had begun to believe that the boundary was a count — that the stones were counters, and that the tally was the record of what they counted. But if the stones were counters, their number should have been the count. It was not.
+But I did not open it.
 
-I went to the first stone. I knelt. I cleared the earth from its base with my hands, and I looked at the sign cut into the stone where the ground had hidden it — the first sign, the circle, the three lines, the dot, the mark of the maker.
+I set it on the desk each evening. I looked at it. I did not open it.
 
-I moved to the second stone. The same sign, at the base, hidden. The third. The fourth. The fifth.
+The red book lay beside it — the account I had written, the account of my own keeping. And the book of the first keeper lay beside the red book, and I looked at them together, and I understood that one was the beginning and one was the keeping, and I did not know whether I was ready to read the beginning.
 
-Every stone had the first sign at its base. Every stone carried the mark of the maker.
+On the third evening, I opened it.
 
-I walked the whole length of the wall that afternoon, and I knelt at each stone in turn, and I looked at the sign at the base of each one, and I did not find a single stone without it. The marks were old. They had been cut deep and worn smooth by years — by the weather, and by the passing of hands that no longer remembered whose they were.
+---
 
-More than a hundred stones. More than a hundred first signs. And a tally that was not the number of the stones.
+The first page was not a page of words. It was a page of marks.
 
-I knelt at the first stone again. I looked at the sign — the circle, the three lines, the dot. The mark was worn, but not uniformly. The edges of the circle were softened by years of weather, and the lines were deeper in some places than others, as if they had been recut by different hands across different centuries. I put my finger to the deepest line. It was sharp. It had been cut more recently than the rest — not in my time, but not in the first keeper's time either. Someone had come after the first keeper, and had tended the signs, keeping them readable, keeping them from being worn away.
+Not the first sign. Not the keeper's sign. Not the circle and the line. A page of marks I had never seen — small marks, like a tally, running in rows across the page, hundreds of them, in the hand of the first keeper.
 
-I moved to the second stone. The same pattern — the sign worn, but recut in places, by hands that had known what they were doing even if they had not known why.
+I looked at them for a long time.
 
-I did not check every stone. I understood what I was seeing. The wall had been kept. The signs had been maintained. The first keeper had set them, and the keepers who came after him — men and women whose names were in no record — had kept the signs from fading. They had not known what the signs meant, any more than I knew. But they had known that the signs must not be lost.
+The rows were dense. They filled the page and ran over it, and I understood without counting that there were more marks here than any one man's life could account for — more than the years I had lived, more than the years Vale had kept the door closed, more than the years this town had called itself Ashford, if the marks were years. I did not know what they meant. I could not say whether they were a count, or a record, or a language, or a pattern.
 
-I went to the vestry.
+I turned the page.
 
-The clerk was there, at his table, with the books and the keys. He looked up when I came in.
+The second page was words — the hand of the first keeper, in the same careful hand I had seen in the letter of Aurelius, but older, harder, written by a hand that had not yet learned the gentleness of the later hand.
 
-"The wall," I said. "The stones. Every stone has the first sign at its base."
+I read it.
 
-"Yes."
+*I have set the boundary. I have carved the sign. I have built the house. I have made the agreement.*
 
-"Every stone is marked."
+*I have done these things because I was asked to do them, and because I believed they were necessary, and because I could not tell for certain what else to do.*
 
-"Yes."
+*I do not know what lies beneath the boundary. I do not know what the sign marks. I do not know what the house keeps.*
 
-I stood in the vestry.
+*I know only that I was asked, and that I said yes, and that I have kept my word.*
 
-"Then the stones are not the count," I said. "They are the counters. Each stone is a counter, and the tally is the record of what they count."
+I turned the page.
 
-The clerk was silent.
+*The tally is the count of the years. I have kept it since the first year, one mark for each year, so that the keeper who comes after will know how long the keeping has stood.*
 
-"The tally is a number," he said. "The stones are a number. The number of stones is not the tally. So the stones are not counting themselves."
+*I do not know how many years the keeping will stand. I do not know who will keep it after me. I do not know whether the keeper who comes after will understand what I have done.*
 
-"Then what are they counting?"
+*But I know that I have kept my word, and that the keeping is the thing, and that the man is not.*
 
-The clerk was silent a long moment.
+I read it twice.
 
-"I do not know," he said. "I have kept the books for forty years, and I have not known what the stones are counting."
+*The keeping is the thing, and the man is not.*
 
-I left the vestry. I walked back to the boundary.
+I had written the same words, in my own way, in the red book. I had not known that the first keeper had written them too.
 
-I did not count the stones this time. I looked at them — looked at the stones themselves, not the number of them. They were old. They were worn. They had stood here longer than the town had a name, and they would stand here after the town had forgotten its own name, and they carried the first sign at their base, hidden, patient, waiting.
+I turned the pages.
 
-I knelt at the fourth stone, where the hairline mark ran across its face.
+The book was not long. It was the account of a life — the life of the first keeper, who had set the boundary, and carved the sign, and built the house, and made the agreement, and kept the tally, and erased his own history so that the keeping would be about the thing, and not about the man.
 
-The first sign at the base. The hairline mark across the face. Two marks on the same stone.
+There was no name in the book. There was no record of where he came from, or who he was, or what he had been before he became the keeper.
 
-I had watched the hairline mark appear, in my first year. I had gone to the boundary one morning, and the mark had been there — thin, straight, too straight to be natural, running across the stone the way a crack would run, but not a crack. I had written it in the red book as a crack. I had watched it through the years, and it had not grown, and it had not changed, and I had not known what it meant.
+Only the account of the keeping.
 
-I put my finger to it now. It was smooth. It was not a crack.
+And at the end of the book, on the last page, there was a single line, in a hand that had grown tired with years:
 
-I did not know what it was.
+*I have kept my word. I have kept the keeping. I have erased myself so that the keeping will be kept for its own sake, and not for mine. Let the keeper who comes after know that the keeping is the thing, and the man is not.*
 
-I looked at the first sign at the base of the stone. The mark of the maker. And the hairline mark across the face. Two marks on the same stone — one set, one added. I did not know what the second was. I did not know who had added it. I did not know whether it had been set there by a hand, or whether it had come to be the way the house came to be on the common — without a cause I could name.
+I closed the book.
 
-I sat back on my heels and looked at the wall.
+I sat in the dark, with the book before me, and I understood.
 
-The stones were counters. The tally was the record. But the number of the stones was not the tally, and I could not tell what the stones were counting — or what the count was for.
+The first keeper had not been a man of power. He had been a man who had been asked to keep something, and who had said yes, and who had kept it for his whole life, and who had erased himself so that the keeping would be kept for its own sake.
 
-That was the question I had not asked.
+The boundary. The sign. The house. The agreement. The tally.
 
-I had been asking what the stones were counting. I had counted them, and studied them, and looked for the pattern of the count, and I had not found it. But sitting at the fourth stone, with the mark across its face and the sign at its base, I understood that I had been asking the wrong question.
+All of it, kept by a man whose name was not in any record.
 
-The stones were not a record of what had happened. The stones were a preparation for what was going to happen.
+And I had been given the account of what he had done.
 
-The wall was not a record. It was a countdown.
+I sat in the stillness, and I understood that I was not reading the beginning of a mystery.
 
-I stood.
+I was reading the beginning of a life.
 
-I walked the line of stones again, and I looked at them as I passed — the first sign at the base of each, the patient waiting, the marks worn smooth by centuries. And I understood that they had been set not to mark what had been done, but to mark what was going to be done. The crossing of thresholds. The gathering of signs. The ringing of a bell that had not rung in living memory.
+A life that had been given to the keeping.
 
-And the hairline mark on the fourth stone — a mark that had appeared once, in my first year, and had not grown — was part of it. A thing that appears once is a thing that is being added to. Someone, or something, was keeping a tally on the wall.
+And I understood, sitting in the dark, that I had been given the same life.
 
-I did not know who.
+---
 
-I did not know what they were counting.
+I did not tell the society what was in the book.
 
-But I knew that the wall was not finished. And I knew that I was part of it — the keeper of the preparation, the keeper of the stones, the keeper of a wall that was not a record of the past but the beginning of the future.
+I did not tell Adeline. I did not tell the old man. I did not tell Ysabel.
 
-I walked home through the fields, and I sat at my desk, and I opened the red book, and I wrote:
+I sat at my desk, with the book of the first keeper before me, and I understood that I had been given something that was not for the society.
 
-*Every stone has the first sign at its base. Every stone is a counter. The tally is the record of what they count.*
+The society wanted the book. The society had asked me to find out what was in it. But the book was not a thing to be given to a society.
 
-*I do not know what the stones are counting.*
+The book was the account of the first keeper's life.
 
-*But I have asked the wrong question. I have asked what the stones are counting. I should have asked what the count is for.*
+And the account was the keeping.
 
-*The boundary is not a record of the past. It is a preparation for the future. The stones were set not to mark what has been done, but to mark what will be done.*
+I put the book in the drawer, beside the red book, and the agreement, and the key to the reading room.
 
-*The wall is a countdown. And the count is not over.*
+I had no way of knowing what I would tell the society.
+
+I could not say whether I would tell them anything.
+
+But I knew that the book was not mine to give, and not theirs to take.
+
+The book was the account of the keeping.
+
+And the account was the thing that was kept.
+
+---
+
+I went to the reading room the following evening.
+
+Adeline was there, at the table, with the lamp burning.
+
+"Did you find the book?" she said.
+
+"I found it."
+
+"And what is in it?"
+
+I was silent a moment. I had decided, on the walk to the chandler's shop, how much I would say. I had decided to say only what could be seen and not what had been given. "It is the account of the first keeper," I said. "The man who set the boundary, and carved the sign, and built the house, and made the agreement. He wrote the account of the keeping, and he erased his own history so that the keeping would be kept for its own sake."
+
+Adeline was silent.
+
+"The first keeper," she said slowly. "There are those who believed he was only a name — a story the Order told to give itself a beginning."
+
+"He was a man," I said. "And he left an account."
+
+"And the book?" she said.
+
+"I have it," I said. "I am keeping it."
+
+She looked at me. "The society asked you to find out what was in it. Not to keep it."
+
+"The society asked me to find out what was in it," I agreed. "And I have found out. It is the account of the first keeper's life. And I am keeping it, because it is the account of the keeping, and the account is the thing that is kept."
+
+Adeline was silent a long moment. I watched her, and I could not tell whether the silence was surprise, or disappointment, or something else I could not name.
+
+"You have changed," she said at last. "Since you came to the room above the chandler's shop."
+
+"I have understood," I said.
+
+"Understood what?"
+
+"That the society does not own what it finds," I said. "That a keeper keeps what is given to him, and does not give it to another. And that the book of the first keeper was not given to me to pass on — it was given to me to keep."
+
+I looked at her.
+
+"I will work with you," I said. "I will help you preserve what would otherwise be lost. But I will not give you the book."
+
+Adeline looked at me for a long time.
+
+"You said he kept a tally," she said.
+
+I went still.
+
+"Of the years," she said. "You said he kept a tally of the years."
+
+I had said it. I had said it without thinking, in the same breath as the account and the erasure, and now the words sat between us on the table. I could not take them back.
+
+"The book records a count," I said. "I have not yet understood what it counts."
+
+"Bring it to me," she said, "when you do."
+
+It was not a demand. It was not quite a request. It was the kind of sentence a person says when they are telling you where the door will be, and leaving it open, and letting you walk through it on your own.
+
+I said nothing.
+
+Adeline stood. She went to the stair.
+
+"Keep the book, Mr. Ashcroft," she said. "I did not ask you to give it to me, and I will not ask again. But the society has spent a long time looking for the first keeper's account, and it will not stop looking simply because it has found it."
+
+She went down the stair.
+
+I stood in the reading room, in the lamplight, with the key in my pocket and the book in my drawer, and I did not know whether I had passed a test or set a trap. Adeline had not told me I had passed. She had not told me the book was the final test, and that by keeping it I had earned the society's trust. She had told me only that she would not ask for the book again, and that the society would not stop looking.
+
+And I had told her about the tally.
+
+I walked home through the dark streets, and I sat at my desk, and I opened the red book, and I wrote:
+
+*I have read the book of the first keeper. It is the account of his life. He set the boundary, and carved the sign, and built the house, and made the agreement, and kept a tally, and erased himself so that the keeping would be kept for its own sake.*
+
+*The keeping is the thing, and the man is not.*
+
+*I have kept the book. I will not give it to the society.*
+
+*But I have told Adeline that the first keeper kept a tally. I do not know whether that was wisdom or a mistake. The society has been looking for the first keeper's account for a long time. If it is the tally they want, and not the book, then I have told them where to look.*
 
 I closed the red book. I sat in the dark.
 
-The hairline mark on the fourth stone had appeared once, in my first year, and had not grown. I did not know what it was. I did not know who had set it there.
+I had kept the book. I had refused to give it up. But I had given away something else — the knowledge that the book contained a count, a number, a thing that could be read. And I understood, sitting in the dark, that the three tests had not ended. They had changed shape. The first test was the room. The second was the box. The third was the name. And the fourth — the test I had not seen coming — was the book, and what I chose to do with what it contained.
 
-But I understood that I was not the only one keeping the count.
+I did not know yet whether I would pass it.
 
-And I understood that the wall, and the tally, and the stones, and the mark on the fourth stone were all the same thing — a count that was being kept, one mark at a time, by a hand I had not yet seen.
 
-I did not know when the next mark would come.
-
-But I knew that I would be watching.

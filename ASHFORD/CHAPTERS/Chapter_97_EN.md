@@ -1,179 +1,125 @@
-﻿CHAPTER 97 — THE SEQUENCE
+CHAPTER 97 — THE DARK COAT
 
-Ysabel Nott sat in my room, by the lamp, and I set the four clocks on the desk before us.
+I began to ask about the woman in the dark coat.
 
-The first. The second. The third. The fourth.
+I asked at the market. I asked at the inns. I asked at the shops, and the vestry, and the lending library. I described her as best I could — the dark coat, the still way she stood, the quiet voice that had said the object was lost long ago.
 
-All four, together, for the first time in — I could not yet tell how long.
+Most people had not seen her. Some had. The descriptions were always the same: a woman, neither old nor young, who stood very still, and who asked about things that had been lost.
 
-I had taken them from the drawer one by one. I had set them in a row, the way a man sets out the tools of a trade, and I had stepped back, and I had looked at them, and I had felt the room change.
+"She came to my shop," said Winifred Calder, who kept the bookshop. "Two years ago. She asked about a book. A journal, she said. She described it exactly."
 
-Four clocks. The same brass. The same cracked faces. The same worn cases. The first sign on each back.
+"Did you have it?"
 
-They had been apart for so long that to see them together was like seeing a sentence that had been broken into words and scattered, and now, for the first time, the words were back in their order.
+"No. She knew I did not. She came to ask whether anyone else had asked about it."
 
-I set them in order. I, II, III, IV. They were identical. The same brass. The same cracked faces. The same first sign on the backs.
+"Had they?"
 
-I opened each one. I showed her the numbers inside the cases.
+She was quiet a moment. "She was not the first," she said. "A man came before her. He asked the same question."
 
-She looked at them for a long time.
+I stood in the shop.
 
-I watched her look. Twenty years of hunting had gone into that look — into the way her eyes moved from clock to clock, taking each one in, comparing, confirming, filing it away against the long accumulation of what she had learned and what she had only suspected.
+A man. Asking about the same book, before the woman in the dark coat.
 
-"I have wondered," she said slowly, "what the numbers meant. I found the second clock, and I opened it, and I saw the number two. I did not know what it meant."
+"What kind of book?" I said.
 
-"I thought they were the order of manufacture," I said.
+"A journal. Old, she said. Bound in dark leather. She could not remember the title, but she knew the cover, and the colour of the pages, and the way the spine was cracked."
 
-"They are not." She looked at me. "The clocks were made by Hollis, all in the same year. The numbers were added later, with the mark."
+I could not yet tell what the book was. I could not say whether it was connected to the clocks. But I knew that there were others asking questions. And I knew that they had been asking for a long time.
 
-"Then what do they mean?"
+"Did you tell her about the man?"
 
-She was quiet a moment.
+"I did. She did not seem surprised. She asked when he had come, and what he had looked like, and whether he had bought anything. I told her what I could, and she listened, and she thanked me, and she left."
 
-"I think they are a sequence," she said. "Not the order they were made. The order they must be used."
-
-"Used how?"
-
-"I do not know." She looked at the clocks. "But I know that the key is part of it. The key opens the lock. The lock was made by Aurelius Ashcroft. And the clocks — I think they are the answer to the lock."
-
-"The answer?"
-
-She picked up the first clock. She turned it over in her hands.
-
-"The mark on the back," she said. "The first sign. It is the same on all four clocks. But the numbers are different. I, II, III, IV."
-
-I looked at the clocks.
-
-A sequence. I, II, III, IV.
-
-I did not know what it meant. But I understood that the clocks were not four separate objects. They were four parts of one thing.
-
-Four clocks. Four numbers. One lock. I sensed that they were only four of thirteen, the rest scattered so that no single keeper could complete the count alone.
-
-The thought came to me unbidden, and I did not know whether it was a certainty or a fear. Four of thirteen. The rest out there, in houses and vaults and drawers like mine, held by keepers who did not know what they held, or by families who had forgotten why the keeping had been given to them.
-
-I could not say what the clocks had to do with the lock. But I knew that they were connected.
+I left the bookshop with the same sensation I had felt in the lane — the sense that I was following a trail that had been walked before, by people who had been walking it for years.
 
 ---
 
-Ysabel told me what she knew of Aurelius.
+I followed the trail through the autumn.
 
-"His name appears in records you would not expect," she said. "He is not in the history of Ashford. He is not in the parish records. But his name appears in the margins, in the letters, in the ledgers of the families who kept the old ways."
+I asked about the woman in the dark coat. I asked about the man who came before her. I asked about the clocks, and the journals, and the objects that had been lost.
 
-She spoke the way a woman speaks who has read the same pages a hundred times, and has found a new thing each time, and has stopped being surprised by it.
+The trail led me through Ashford, and out of it, and back again. I spoke to people who had seen the woman years ago, and people who had seen her last week, and people who had seen neither but had heard of both. The autumn turned toward winter. The days grew short. The wind was cold. I walked the streets of Ashford, and I asked, and I listened, and I began to understand that there was a pattern.
 
-"He signed the Agreement," I said.
+The woman in the dark coat appeared when something was found. She appeared at markets, and auctions, and the houses of families who had kept old things. She asked about objects that had been lost, or hidden, or forgotten. She asked, and she listened, and she left.
 
-"Yes." She looked at me. "I have seen a copy of the Agreement. It is the only document with his full signature. Every other mention of him is in a hand that does not name him directly."
+She was not a collector. She was not a buyer. She was a seeker, moving through the town like a ghost, touching the edges of things and moving on.
 
-I thought about the Agreement, folded in my drawer, the only full-signed document in the keeping. A man who signed his name once, in full, and spent the rest of his life in the margins. It was as though he had decided, in one stroke, where he would stand in the record of his own town — and then had kept every other door closed.
+I traced her movements through the years. She had been seen at the Fenn house, buying the clock. She had been seen at the bookshop, asking about the journal. She had been seen at the lane, watching me. She had been seen at the shop near the river, asking about a key.
 
-"What does he have to do with the clocks?"
+She was looking for something.
 
-"I do not know." She looked at the clocks. "But I know that the clocks were made in 1770. And I know that the mark was added to them in the 1780s or 1790s. And I know that Aurelius Ashcroft was alive in Ashford in those years."
+I did not know what. But I knew that the clocks were part of it. And I knew that she had one of them.
 
-"How do you know?"
+I had three clocks. She had the second.
 
-She was silent a moment. "I have been looking for him for twenty years," she said. "I have not found his grave. I have not found his house. I have not found any record of his death. But I have found his name in the margins, in the years when the mark was added to the clocks."
-
-I stood in the room.
-
-Aurelius Ashcroft. The man who signed the Agreement. The man who built the wall. The man whose name was in the margins of the books.
-
-He had added the mark to the clocks. He had made the lock. He had hidden something, and the clocks were part of it.
-
-I could not tell for certain what.
-
-But I knew that I had to find out.
+I did not know whether she was looking for the clocks, or whether she was looking for something else, and the clocks were only a part of it. But I knew that I had to find her.
 
 ---
 
-We looked at the clocks together.
+In November, I found someone who had seen her recently.
 
-Ysabel knew more than I did. She had been looking for twenty years. She had followed the trail of the clocks, and the key, and the lock.
+A man who kept a shop near the river, selling old tools and bits of metal. His name was I did not ask. His shop was a narrow place, dark and crowded, the shelves filled with things that had been taken apart and not put back together.
 
-She told me what she had found.
+He told me that a woman in a dark coat had come to his shop a week earlier.
 
-The clocks had been made by Hollis, a clockmaker in Ashford, in the 1770s. He had made twelve clocks. Four of them had been given the first sign and the numbers.
+"She asked about a key," he said. "A key, old, iron, with a mark on it. She described it exactly. She said it had been lost for many years."
 
-The four clocks had been distributed to four families: Fenn, Harlow, Wintour, Langford.
+"Did you have it?"
 
-The same four families that had, years later, been connected to the boundary, and the wall, and the Agreement.
+"No. I told her I did not. She looked at me for a long time, and then she left. She did not ask again. She did not bargain. She simply looked at me, and she knew that I was telling the truth, and she left."
 
-"It was not an accident," she said. "The families were chosen. They were the families of the keepers."
+"A key," I said.
 
-I stood very still.
+"With a mark," he said. "A circle, and three lines, and a dot. I remember because it was strange. She said it had been lost for many years, and she was trying to find it. She said it was important."
 
-The families of the keepers.
+I stood in the shop. The first sign. On a key.
 
-The Fenns. The Harlows. The Wintours. The Langfords.
+The woman in the dark coat was looking for a key. A key with the first sign on it.
 
-They were not ordinary families. They were the families of the keepers — the men who had kept the boundary before the Order, before the Agreement, before the wall.
+"Did she say anything else?"
 
-The words landed in me the way such words always landed — not as news, but as recognition. I had known the families were connected. I had known the clocks were not ordinary. To hear it said plainly, in a lit room, by a woman who had spent twenty years earning the right to say it, was to feel the keeping close around me like a door fitting into its frame.
+He thought. "She said the key was not a key to a door. She said it was a key to something else. She did not say what."
 
-And each family had been given a clock.
+I could not say whether the key was connected to the clocks. I could not tell for certain whether it was connected to the door, or the chamber, or the place beneath. But I knew that the first sign was on it. And I knew that the woman in the dark coat was looking for it.
 
-I had no way of knowing what the clocks were for. But I understood that they were not clocks. They were records. Records kept by the families of the keepers, marked with the first sign, numbered in sequence.
+I thanked the man. I left the shop. I walked home through the cold streets, and I thought about the key.
 
-Four clocks. Four keeper families. One lock.
+A key with the first sign. Lost for many years. Sought by the woman in the dark coat. A key not to a door, but to something else.
 
-I looked at Ysabel.
+I had three clocks. She had the fourth. Now I knew that she was looking for a key as well.
 
-"The lock," I said. "What does it open?"
+I had no way of knowing what the key opened. I could not say where it was. But I knew that I had to find it before she did.
 
-She was silent a long moment.
+The key was another piece of the same puzzle. The clocks, the key, the object, the door — they were all connected, and I did not yet know how. But I knew that the woman in the dark coat was ahead of me. She had been hunting longer. She knew about the key. She had seen the clock in my coat and known it for what it was.
 
-"I do not know," she said. "But I know that the four clocks are the key to it. And I know that Aurelius Ashcroft made it to hold something."
-
-"Hold what?"
-
-"I do not know." She looked at me. "But I know that whatever it holds, it was meant to be opened by the keeper."
-
-I stood in the room.
-
-I was the keeper.
-
-I had the four clocks. I had the key. I had the first sign.
-
-And I had been given all of them — by a market stall, by a library, by an old woman, by a woman in a dark coat.
-
-The thought troubled me, and I could not say why. Four things, found by four different roads, all arriving in my keeping in a single season. It could have been luck. It could have been the natural gathering of what was meant to be gathered. Or it could have been that the keeping had been waiting for a keeper who would gather it, and had arranged itself accordingly.
-
-I could not say what the lock opened.
-
-But I knew that I had to find it.
-
-The hunt was not over.
-
-It was leading me to the lock. And the lock was made by Aurelius Ashcroft.
-
-I was the keeper. I was a hunter.
-
-And I was about to find out what the keepers had been keeping.
+I had to find the key before she did.
 
 ---
 
-The lamp burned low. The four clocks sat in their row on the desk, and I looked at them, and I understood that I had been wrong about them from the beginning.
+I sat at my desk that night.
 
-I had thought them broken clocks. Old things, worth five pence, carrying a mark that should not have been there.
+The three clocks were on the desk. The object was beside them. The first sign was on all of them.
 
-They were not broken. They were waiting.
+I thought about the woman in the dark coat. She had been looking for the clocks for years. She had found the second. She was looking for a key now. She had been seen at the Fenn house, the bookshop, the lane, the tool shop. She moved through Ashford the way a shadow moves through a room — present, then gone, leaving no trace except the memory of having been seen.
 
-A clock that has stopped is not broken; it has simply finished telling the time it was set to tell. These clocks had told their time, and stopped, and been put aside, and the numbers inside them had waited — I, II, III, IV — for someone to read them in the right order.
+I could not tell for certain who she was. I had no way of knowing what she wanted. I could not say whether she was an enemy, or a rival, or something else. She had not tried to take the clock from me. She had not threatened me. She had stood in the lane and spoken a single sentence, and she had walked away.
 
-Ysabel was watching me.
+But I knew that she was ahead of me.
 
-"You have understood something," she said.
+She had the second clock. She knew about the key. She had been hunting longer than I had. She had been looking for Aurelius Ashcroft's leavings while I was still learning that the keeping had a history.
 
-"I have understood that the clocks were never the question," I said. "They are the answer. And I do not yet know the question."
+I opened the red book. I wrote:
 
-She nodded. She did not ask me to explain. She had hunted long enough to know that an understanding, once it begins to form, will finish forming in its own time.
+*The woman in the dark coat is looking for a key with the first sign on it. She has the second clock. She has been hunting longer than I have.*
 
-I put the clocks back in the drawer, one by one, in their order.
+*I have three clocks. I do not have the key.*
 
-I, II, III, IV.
+*I do not know what the key opens. But I know that the first sign is on it. And I know that I have to find it before she does.*
 
-The sequence was whole in my keeping.
+I closed the book. I put it back in the drawer.
 
-And the lock, wherever it was, was waiting for the answer to begin.
+I was a keeper. I was a hunter. And the hunt was leading me somewhere I had not expected.
+
+I could not tell for certain where the key was. I had no way of knowing what it opened. I could not say who the woman in the dark coat was. But I knew that I would find out.
+
+The hunt continued. And I would follow the thread to its end.

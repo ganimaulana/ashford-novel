@@ -1,204 +1,101 @@
-﻿CHAPTER 125 — THE NEXT KEEPER
+CHAPTER 125 — THE WATCHER
 
-The spring came again to Ashford.
+I searched for the keeper of the tally through the winter and into the spring.
 
-I had been keeper for five years. I had written the account of the keeping. I had prepared the book for the keeper who came after me. I had recorded the objects with Elias, and walked the boundary with Ysabel, and kept the count with the tally.
+I walked the boundary every night, from the eastern marker to the corner where the wall turned, and I walked it again in the grey hours before dawn. I stood in the chamber beneath Bellweather House, in the dark, with the lamp cold in my hand, and I listened. I stood in the reading room, and in the tower, and at the house at the end of the lane — the places where the keeping had been kept, the places where the marks might be written. I watched the stones. I watched the marks. I watched the shadows.
 
-I had done what I could.
+Nothing changed. The marks did not grow. The count did not move. The silence held.
 
-Now I waited.
+I began to think that I had been wrong. The marks had appeared, and they had been made, and the hand that had made them had moved on, and nothing more would come. The tally was what it was. The count was fixed. And I had been looking for a maker who had finished his work and left.
 
-I could not yet tell what I was waiting for. I could not say whether the keeper who came after me would come in my time, or after I was gone. I could not determine whether I would meet him, or whether he would find the book in the drawer after I had left it.
+Then, on a night in April, the full moon rose over the town.
 
-But I waited.
+The moon was bright enough to read by, and the boundary lay in silver light, and I went to the eastern marker because I had nowhere else to go. I had been walking the boundary for months, and the stones had become familiar to me in a way they had not been before — the shape of each, the feel of the first sign at the base, the slight tilt of the fourth stone where the hairline mark ran across it. I knew them now. And I knew that they were waiting for something.
 
----
+I knelt at the eastern marker, and I looked at the first sign at its base, and I heard it.
 
-On a day in June, a visitor came to my door.
+A sound. Small. The sound of a mark being made.
 
-I knew the face. He was younger than I remembered, but I knew him — Daniel, who had shown me the oldest book in the Academy, who had counted the marks with me and not known what they counted. He had grown in the years since, but the face was the same.
+It was not loud. It was the sound of stone meeting stone, or of metal drawn once across the surface of a rock, a single clean stroke. It came from the far end of the line of stones, from the corner where the wall turned, and it was so quiet that in the daylight I would have taken it for the creak of a branch or the settling of the frost.
 
-He stood at my door, in the afternoon light, with a bag at his feet and a look of a man who had come a long way.
+I looked up.
 
-"Mr. Ashcroft?" he said.
+A figure stood at the corner.
+
+It was dark against the lighter dark of the wall, and I could not make out the shape of it clearly. It stood still, with its hand on the stone at the corner, and it did not move when I rose to my feet. I did not call out. I walked toward it along the line of stones, and the figure did not move, and the only sound was the sound of my own boots on the frozen ground.
+
+I came closer, and the figure resolved into a man.
+
+He wore a dark coat, and he stood at the corner of the wall with his hand on the stone, and he was not young and he was not old. His face in the moonlight was lined, but not with the deep lines of age — with the lines of a man who had been watching for a long time, and who had not spoken of most of what he had seen. His eyes were steady, and they met mine without surprise, as if he had been expecting me to come walking along the line of stones in the April moonlight.
+
+I stopped a few paces from him.
+
+"Who are you?" I said.
+
+He did not answer. He looked at me for a long moment, and then he took his hand from the stone, and I saw that the stone at the corner had a new mark on it — a single clean stroke, cut into the face of the stone, the same kind of mark as the hairline mark on the fourth stone, the same as the mark at the centre of the chamber floor.
+
+"You are the keeper," he said.
 
 "I am."
 
-He looked at me a long moment.
+"I have been waiting for you."
 
-"My name is Daniel," he said. "Daniel Wren. I am the son of the clerk. I have come to ask you about the keeping."
+I stood in the moonlight, at the corner of the wall, and I looked at the man who had been waiting for me. I had been searching for him for months. I had been watching the stones, and the chamber, and the dark places of the town, and all the while he had been waiting for me to come to this corner and find him.
+
+"You have been keeping the tally," I said.
+
+"I have been keeping the tally," he said. "I have been keeping it for a long time."
+
+"How long?"
+
+He did not answer. He looked at me with the steady eyes of a man who had heard the same question many times and had never answered it, and I understood that he would not answer it now.
+
+"The count," I said. "What is it counting?"
+
+He was silent a moment. The moonlight lay on the stones, and the wall ran away into the dark, and the line of the boundary stood between the town and the open country as it had stood since the first keeper set it.
+
+"The count is counting the keepers," he said. "One mark for each keeper, since the first keeper set the boundary. The tally is the record of the keepers, and the thirteen signs are the markers of the count. Each keeper must find the signs. Each keeper must keep the account. And each keeper receives a mark in the tally."
 
 I stood very still.
 
-The son of the clerk. The son of the man who kept the books.
+"The count is counting the keepers," I said.
 
-"I have been told," he said, "that you are the keeper. I have been told that you keep the account, and the boundary, and the door, and the bell. I have been told that you have written a book for the keeper who comes after you."
+"The count is counting the keepers," he said. "You are the current mark. But you are not the last. When the bell rings at the hour of nothing, the count will be complete."
 
-I looked at him.
+I looked at him. "There have been many keepers."
 
-"Who told you?"
+"There have been many keepers," he said. "More than you know. More than the records show. The tally is the record of them all."
 
-"The keeper of the tally," he said.
+"And me?"
 
-I stood in the doorway.
+"You are a keeper," he said. "Your mark is in the tally."
 
-The keeper of the tally had sent him.
+I stood in the moonlight, and I understood. The tally was not a count of years. It was a count of the keepers. One mark for each keeper, cut into the stones of the boundary, cut into the floor of the chamber, kept by the man in the dark coat since the first keeper had set the boundary — kept since before the boundary, perhaps, since before the town, since before the keeping had a name. And my mark was in it. The hairline mark on the fourth stone, the mark that had appeared in my first year, the mark I had called a crack and tried to ignore — it was my own. The tally had been kept, and I had been counted.
 
-The keeper who kept the count had brought the keeper who would come after me.
+"Then the tally is complete," I said. "When the last keeper has kept, the tally is complete."
 
----
+He looked at me. "The tally is not complete," he said. "The keeping is not finished. There are marks to be added. There are keepers to come. Keepers after you."
 
-I let him in.
+"How many?"
 
-I sat him at the desk. I opened the drawer. I took out the book of the keeping — the book I had written for the keeper who would come after me.
+He did not answer. He looked at me without expression, and I understood that he would not tell me. The count was the count. The number was fixed. And I was not meant to know my place in it.
 
-I set it on the desk before him.
+"Who are you?" I said.
 
-"The account of the keeping," I said. "I wrote it for you."
+He was silent a moment. The moonlight caught the edge of his face, and I saw that the lines on it were not the lines of age but the lines of a man who had been standing in the same place for a very long time, watching the same thing, keeping the same count.
 
-He looked at the book. He did not open it.
+"I am the one who keeps the tally," he said. "I have kept it since the first keeper. I will keep it until the last."
 
-"The keeper of the tally told me that I would find it here," he said. "He told me that you had written it, and that you had been waiting for me."
+He turned. He walked along the line of stones, into the dark, and I did not follow. I stood at the corner of the wall, in the moonlight, and I watched him go. He walked without hurry, the way a man walks when he has nowhere else to be, and he was gone before I could think of another question to ask him.
 
-I sat in the room.
+I walked home through the fields, and the moon was high and white, and the town lay quiet below me. I sat at my desk, and I opened the red book, and I wrote:
 
-I had been waiting for him. I had not known who he was. I had not known when he would come. But I had been waiting.
+I saw the keeper of the tally tonight. He has kept the count since the first keeper. He will keep it until the last. The count is counting the keepers — and the thirteen signs that each keeper must find. One mark for each keeper, since the first keeper set the boundary. My mark is in the tally. The keeping is not finished. There are keepers to come. I am not the last keeper. But I am a keeper. And my mark is in the count. When the bell rings at 00:00, the count will be complete.
 
-"I have been waiting," I said.
+I set down the pen, and I sat in the dark, and I understood that the keeper of the tally had not told me everything. He had told me that the count was counting the keepers. He had told me that my mark was in the tally. But he had not told me how many marks there were, or how many keepers had come before me, or how many would come after. He had not told me what the count was for, or what the bell was waiting to announce, or whether the bell would ring in my time or in the time of the keeper after me.
 
-I opened the drawer again. I took out the gear — the gear I had found beneath the stopped clock at the mill, in my first winter, before I had understood a single thing about the keeping. It was wrapped in the square of cloth I had carried it in for five years. I unwrapped it and set it beside the book, and it lay there filling the width of my hand, dark and cold and heavier than it looked.
+And I understood that the keeper of the tally was not my ally and not my enemy. He was a record. A keeper of the count. He would keep it regardless of what I did, and he would go on keeping it after I was gone, and the tally would be the same with or without my understanding. I was a mark among marks. A keeper among keepers. And the count would continue, fixed and unchanging, until the last of it was written.
 
-"This is the gear," I said. "Vale kept it for fifty years, in a box, among his letters and his papers, and then he put it where I would find it and never told me why. I have carried it for five. Now you will carry it."
+I went back to the boundary before dawn. I stood at the corner where the wall turned, and I looked at the new mark on the stone. The moonlight had gone, and the grey light was beginning to come up over the common, and the mark was clean and straight and fresh. I did not know whose it was. I did not know whether it was a mark for a keeper who had already come, or a mark for a keeper who was yet to come, or whether it was the mark of a keeper I would never meet. I only knew that it was in the tally now, and that the tally would hold it, as it held all the others, and that the count would not move until the last of its marks was set down.
 
-He bent over it, and I saw him find the letters — the band of them cut round the face, worn at the crests, still legible after however many hands had held it.
-
-"There are words on it," he said.
-
-"There are."
-
-He read them. He was the clerk's son; he read them easily, the way he read everything.
-
-"What does it mean?"
-
-"I do not know," I said.
-
-He looked up at me to see whether that was the whole answer.
-
-"Vale did not know either," I said. "He read it for fifty years. I have read it for five. Neither of us could tell you whether it is an instruction, or a warning, or a description of something that is not the gear at all. Write it in the book. Read it when you have nothing else to do. And do not decide what it means because you are tired of not knowing."
-
-That was true, and it was not the whole of the truth. I did not tell him where the depression was, or that there was more than one door that would take it, or what I had felt in the passage with my hand on it and the candle burning down, or that the sentence had begun to sound to me less like a maker's motto than like one half of an exchange. I told him what he could carry: that it was old, that it had been kept by men who did not understand it, and that it was not to be set into any stone until he understood what the stone was.
-
-I did not tell him it was his. I told him he would carry it. There is a difference, and Vale had known it, and had said nothing to me either.
-
-I had another reason, and I did not give him that one either. A thing that is asked after is a thing that is followed. A man had come a long way to ask about the gear in my first year, and I had never learned his name. And I had begun to understand that I would not always be in that room.
-
-He looked at the gear. He did not touch it.
-
-I took out the agreement — the folded paper, yellow with age, signed by Aurelius Ashcroft. I set it beside the gear.
-
-"And this is the agreement," I said. "It is the document of the keeping. It has been kept by the keepers since Aurelius signed it. It is yours now."
-
-He looked at the three things on the desk — the book, the gear, the agreement.
-
-"I am not ready," he said.
-
-"Neither was I," I said. "No one is ready for the keeping. The keeping finds you, and you keep it, and you learn as you keep."
-
-He looked at the book.
-
-"I am the son of a clerk," he said. "I know the books. I know the records. I do not know the keeping."
-
-"The keeping is not in the records," I said. "It is in the boundary, and the stones, and the sign, and the account. And it is in the book I have written for you."
-
-He looked at the book a long time.
-
-Then he reached out, and he took it.
-
-I wrapped the gear again while he held the book, and I set it in the bag at his feet, because he had not asked for it and would not have known how to ask. The bag settled when I let it go. He watched me do it and said nothing, and I understood that he did not know what he had been given — only that it was old, and that it was his now, and that it had been carried by men whose names he would never learn.
-
-I sat in the room, and I watched him hold the book of the keeping.
-
-The keeper who would come after me.
-
-He was young. He was not ready. He did not know the keeping.
-
-But the keeper of the tally had brought him to me.
-
-And the count had brought him.
-
-I did not know what he would do with the keeping. I did not know whether he would keep it well, or whether he would keep it long.
-
-But I knew that he was the one.
-
-I had written the book for him.
-
-And he had taken it.
-
----
-
-I walked with him to the boundary that evening.
-
-The light was long and gold, the way it is in June, and the town was settling into its evening — the lamplighter beginning his rounds, the smell of bread from the bakery, children calling in the lanes. Daniel walked beside me, carrying the book I had given him, and he did not speak. I did not speak either. There are walks that are not meant to be filled with words, and this was one of them.
-
-I showed him the stones. I showed him the first sign at the base of each stone. I showed him the fourth stone, where the hairline mark ran across its face.
-
-"The tally," I said. "The count of the keepers. Your mark will be in it."
-
-He looked at the stones.
-
-"I do not understand," he said.
-
-"Neither did I," I said. "I have been keeper for five years, and I do not understand all of it. But I have kept it, and I have written the account, and I have passed it to you."
-
-I looked at him.
-
-"You will understand, in time. The keeping will teach you. The stones will teach you. The account will teach you. And when you do not understand, you will write it down — because the writing is how the keeping is passed, and a keeper who does not write leaves nothing for the keeper who comes after."
-
-He looked at the book in his hands, and I saw him understand, for the first time, what he had been given — not a book of answers, but a book of questions, kept so that the questions would not be lost.
-
-We stood at the boundary, in the evening light, and I looked at the stones, and I understood that I was no longer the keeper.
-
-I was the keeper who had passed the keeping.
-
-The count had brought the next keeper.
-
-And I had done my part.
-
-I stood at the boundary, with the young man beside me, and I looked at the stones, and I understood that the keeping would continue. The count would go on. And I had been part of it.
-
-I did not tell him that it would cost him. I did not tell him that there would be nights when the keeping was the only thing between him and the dark, or that the town would never know what he did, or that he would carry the forgetting and the remembering both, and that no one would thank him for either. He would learn those things himself, the way I had learned them, the way every keeper had learned them. It was not mine to spare him. It was mine to have made the road a little straighter for him than it had been for me.
-
-I went home.
-
-I sat at my desk.
-
-I opened the red book. I wrote:
-
-*The keeper who comes after me came today. His name is Daniel Wren. He is the son of the clerk. The keeper of the tally brought him to me.*
-
-*I have given him the book of the keeping.*
-
-*I have shown him the boundary.*
-
-*I have passed the keeping.*
-
-*The count will continue.*
-
-*I have done my part.*
-
-*The keeping is the thing. The keeper is not.*
-
-*I have been a keeper.*
-
-*And I have passed the keeping.*
-
-I closed the red book. I stood in the stillness of the room. The drawer was empty of them now — the book of the keeping, the gear, the agreement, all of them gone in a young man's bag. The boundary was waiting. Daniel was at the Academy, reading the account I had written, beginning the long work of learning what the keeping was. I had done what I had set out to do. I had kept the account, and I had passed it, and the keeping would continue after me, as it had continued before me, and the count would go on being counted, and the bell would ring at 00:00 when the count was ready, and I would not be there to hear it. And that was as it should be.
-
-I left the rooms. I walked to the boundary. The stones were waiting in their patient line, and I stood at the eastern marker, where the first sign was cut into the stone, and I did not kneel. I had knelt enough. The wall was not mine to keep anymore. It was Daniel's.
-
-I walked home. I sat at my desk. I did not open the red book.
-
-The keeping was the thing. The keeper was not.
-
-I had been a keeper. Now I was something else — a man who had passed the keeping, and who was waiting for the next thing, whatever it was, to call him north.
-
+I touched the mark once, with my fingertip, and I walked home through the dawn.

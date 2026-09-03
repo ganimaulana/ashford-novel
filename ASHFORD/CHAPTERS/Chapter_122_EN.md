@@ -1,63 +1,79 @@
-﻿CHAPTER 122 — THE NUMBER OF KEEPERS
+CHAPTER 122 — THE NUMBER
 
-I did not tell anyone about the keeper of the tally.
+The autumn of my fourth year as keeper came in early and cold. By the middle of October frost stood in the grass at the lane's edge each morning, and the river ran low and dark between the reeds, the way water runs when the year has begun to give up its days.
 
-I did not tell Ysabel. I did not tell Calloway. I did not tell the society. The knowledge sat inside me the way a swallowed stone sits inside a man — small, and heavy, and impossible to bring up. I had seen him. I had spoken to him. I had stood at the corner of the wall in the April moonlight and heard the man who kept the count tell me that the count was counting the keepers, and that my mark was already in it. And I had told no one, because I did not yet know what to do with it.
+I brought the three books together on the night of the first hard frost.
 
-I sat at my desk with the number in my mind.
+I carried them to my desk one by one and set them in a row, close enough to touch, as though the nearness of their covers might persuade them to speak to one another. To the left lay the book of the first keeper, its binding dark and soft with age, its pages the colour of old bone, and the page of marks sat at its front, where it had sat for longer than the town had a name for itself. Beside it I set the oldest book of the Academy, heavier than the others, its boards scarred by generations of hands, the page of copied rows lying open where Daniel had once turned to it for me. And at the end of the row, Ferrand's notebook — small, plain, bound in leather that had gone almost black, the notebook that had lain unopened in the box of the constables until Calloway set it on his desk and told me he had never dared to open it.
 
-I had counted the marks in the three tallies. I had written the number in the red book. I had not understood it. Now I understood it. The number was the number of the keepers — one mark for each, since the first keeper set the boundary, each keeper tied to the signs he was meant to find. The tally was the record of them all. And the number was the count of them, fixed and unchanging, waiting for the last of its marks to be set down.
+Three books. Three tallies. One number.
 
-I went to the chamber beneath Bellweather House.
+I had read each of them alone before, and I had counted each alone, and the counts had agreed, and I had told myself the agreement was habit, or chance, or the ordinary way of such records. Now, side by side, they did not look like three records at all. They looked like one record written out three times by the same patient hand — once for the keeper, once for the town, once for the keeping of the watch — so that the thing itself could never be lost. The marks ran in the same rows. The grouping was the same. The hand was the same, though the books were separated by more years than I could measure. It was not three men agreeing. It was one man, or one thing, speaking through three mouths, and saying the same word in all of them.
 
-It was not the same visit as the others. I had been there in the winter, when I had found the mark at the centre of the first sign and had not known what it was. I had been there since, in the spring, when I had knelt in it with the watcher's words still cold in my mind. Now I went again, and I knew what I was looking for, and the knowing changed the shape of everything.
+I lit the lamp and I counted again.
 
-I knelt at the trapdoor and worked it open. I went down into the passage, and the first signs marked the way along the wall, and I walked past them to the chamber. The first sign was on the floor. The circle. The three lines. The dot. And at the centre of the sign, where the lines crossed, the mark.
+I went slowly, one mark at a time, the way I had learned to go, and the number came up the same as it had come every time before. I had written it in the red book months earlier, in my own hand, and I knew it by then the way I knew the number of my own years. It did not waver under my counting. It did not grow while I slept. It sat in my mind the way a stone sits in a field — fixed, patient, indifferent to the weather that passes over it.
 
-I knelt and I looked at it for a long time.
+A number is a strange thing to keep. Numbers are meant to move. A man's age moves. A harvest is counted and then it is done. Even the population of a town creeps up and down across the years like a slow tide. But this number did not move. It had not moved in Ferrand's time, and Ferrand had kept it for fifteen years, watching it the way a man watches a locked door, waiting for it to do something. I had read his note so often that I could raise it in the dark of my own mind: The stones do not move. The count does not change. The boundary holds. He had written it as a comfort, and I did not think it had comforted him.
 
-It was a small mark. A single tally-mark, cut into the stone, deeper than the sign itself, with the same clean finish as every other mark the watcher had ever made. I had looked at it in the spring and thought it was a mark of the count — a stroke in a ledger being kept by a hand I did not know. I had not understood that it was mine.
+I could not sit with the three books any longer. I closed them, and I went to see Ysabel.
 
-The mark of the keeper who had come.
+She was at her house near the river, and the cold had driven her indoors, and she had a fire going that filled the room with the smell of birch smoke. I set the three books on her table, side by side, the way I had set them on my own, and I opened each to its page of marks.
 
-I had been in the keeping for four years. I had kept the account. I had kept the boundary. I had kept the door, and the bell, and the Tokens, and the gear, and the agreement. And all that time, in the dark beneath Bellweather House, my mark had been lying in the stone at the centre of the first sign — cut before I had kept anything, waiting for me to come and kneel and finally see what it was.
+"Three tallies," I said. "The book of the first keeper. The oldest book of the Academy. Ferrand's notebook."
 
-It was a strange thing, to look at one's own mark and not to have made it.
+She did not touch them. She looked at them for a long time, the way she looked at a clock she meant to understand without taking it apart.
 
-The hairline mark on the fourth stone had appeared in my first year, and I had called it a crack, and I had not understood it. This mark was different. I did not know when it had been made. I did not know whether it had been cut on the night I took up the keeping, or in the days before, or in the days after, while I was still learning the shape of the boundary. But I understood now that it had been made for me — that the watcher had known I was coming before I had known it myself, that he had counted me before I had kept anything, that my place in the tally had been prepared for me the way the gear had been prepared, and the agreement, and the account that would one day be written.
+"The first keeper made the tally," she said at last. "The boundary was set by his hand, and the Academy book records the boundary as it was first set, and Ferrand kept the same count for fifteen years without understanding it."
 
-I was not the first keeper, and I would not be the last. But I had a mark. And the mark was in the tally, in the stone at the centre of the chamber, at the centre of the count, and it had been there before I had understood anything at all.
+"Yes."
 
-I knelt in the chamber in the lamplight, and I thought about the keepers who had come before me.
+"There is a number," she said. "A number that every keeper has kept, from the first to the present. A number that has not changed in Ferrand's time. A number the boundary itself is set to mark."
 
-The first keeper, who had set the boundary and carved the sign and made the tally, and who had erased himself so that the keeping would be kept for its own sake. Aurelius, who had signed the agreement and given his name to the keeping. The keeper before Vale, who had opened the door and stayed in the passage, and whom I had found in the records only as a absence. Vale, who had kept the door closed for fifty years, and who had passed the gear to me without telling me what it was for. And the keepers I did not know — the keepers whose marks were in the tally, whose names were in no record, who had kept the boundary before the town had a name, and who had passed the keeping down to the hands that had passed it to mine.
+"Yes."
 
-I did not know where I stood in the count. I did not know how many marks had come before mine, or how many would come after. I had counted the number, and I had written it in the red book, and I did not want to count it again. The number was large. Larger than I had expected. There had been many keepers, and there would be many more, and I was one of them — a single mark in a tally that had been kept since before the boundary, and that would be kept until the last of it was written.
+She was silent. Outside, the river went by, and the sound of it filled the room, and I understood that she was doing what she had always done — taking the thing apart in her mind before she would say a word about it.
 
-I went to the reading room that night.
+"Then it is not a count of years," she said. "A count of years would grow. Ferrand wrote that it had not changed in his time. A count that does not change is not counting the years. It is counting something that has no seasons."
 
-I sat in the chair by the lamp, and I thought about the keeper of the tally. He had kept the count since the first keeper. He would keep it until the last. He was not a keeper himself. He was the one who kept the record of the keepers — the one who cut the marks, who watched the boundary, who had waited for me at the corner of the wall in the April moonlight and had told me, without surprise, that I had been counted before I had kept anything.
+"A count of what, then?"
 
-I did not know who he was. I did not know where he came from. I did not know how long he had been keeping the count, or whether the count had ever been kept by anyone else, or whether he had always been there, standing at the corner of the wall, waiting for each keeper to come and ask the questions I had asked.
+"I do not know." She looked up at me, and there was something almost gentle in her face. "But think what it means, Leon. A count that does not change is not a record of the past. The past is always growing — every hour adds to it. A count that stays still can only be counting one of two things. Either it counts something that is already finished, and needs no more marks — or it counts something that has not finished yet, and will not move until the last mark is made."
 
-But I knew that he was real. I had seen him. I had spoken to him. He had told me that the count was counting the keepers, and that my mark was in the tally. And I knew that there were things about the keeping that I would never fully understand — the keeper of the tally, the count of the keepers, the marks on the stones, the signs each keeper was meant to find. Things that were older than the town, and larger than the town, and that would continue after the town was gone.
+I looked at the three pages of marks. I had thought, when I carried them through the town, that I was carrying the answer to something. I had not understood that I was carrying a question so large it would not fit in any book.
 
-I went home. I sat at my desk. I opened the red book, and I wrote:
+"I have been thinking of it as a count of what has happened," I said.
 
-The count is counting the keepers. The number I counted is the number of the keepers — and the number of signs kept across the ages. There have been many keepers. More than I know. More than the records show. My mark is in the tally. It was made before I kept anything. The keeping will continue after me. I am a keeper among many. But I am a keeper. And my mark is in the count.
+"And it may be," she said. "But a count of what has happened would happen to someone. It would grow. It would have grown in Ferrand's fifteen years, and in my twenty, and in yours. It has not grown. So I do not think it is counting what has happened. I think it is counting what is owed."
 
-I closed the red book, and I sat in the dark, and the strangest of all the things I had learned settled over me slowly.
+I stood in her house with the river going by outside and the word settling into me like a stone dropped into still water. Owed.
 
-The mark had been made before I had kept anything. I had been counted before I had begun. Somewhere in the years before my first walk along the boundary, a hand I had never seen had cut my mark into the stone at the centre of the chamber, and the tally had held it, and the count had gone on being fixed and whole with my mark already inside it. I had thought, when I took up the keeping, that I was entering a story that was already in progress. I had not understood that I had been in it before I was born — that my place in the count had been waiting for me the way the boundary had been waiting, the way the bell had been waiting, the way the town itself had been waiting for a keeper it had not yet met.
+I walked to the boundary in the grey afternoon, and I went slowly along the line of stones, from the eastern marker to the corner where the wall turned and ran on into the trees. The frost had not left the shadow of the wall all day, and my breath went before me in the cold. I stopped at the fourth stone and knelt in the dead grass.
 
-I sat in the stillness and let the thought stand.
+The first sign was at its base, cut into the stone, worn smooth by the years — the circle, the three lines, the dot. I had knelt at this sign a hundred times. It was the mark of the maker, the mark the boundary was built around, and it was at the base of every stone in the line. And above it, across the face of the stone, ran the hairline mark — too straight to be a crack, too deliberate to be weather. It had appeared in my first year. It had not grown since. I put my finger to it and felt the smoothness of it, and I thought about what Ysabel had said.
 
-The count did not need me to understand it. It had gone on before me, and it would go on after me, and my mark was in it either way. But understanding changed the keeping for me. I had kept the boundary because I had been given it. Now I knew I would keep it because I was part of it — because my mark was in the stone at the centre of the chamber, and because the mark meant that I had been chosen, counted, expected.
+A count that does not change is not counting the years.
 
-I knelt in the chamber once more before I slept, and I looked at the mark that was mine, and I understood that a mark in a tally is not a name. It is a place. And the place was mine.
+I looked along the line of stones, and the wall ran away from me into the cold light, and the stones stood in their patient order, and not one of them had moved since the boundary was set. The boundary did not move because it had been finished. It had been made, and it was whole, and it would stand until it was not needed. And I understood, kneeling there, that the boundary and the count were the same kind of thing. The stones were not waiting to change. They were waiting to be complete.
 
-Somewhere, in some stone I had not yet seen, in some corner of the boundary I had not yet walked, the mark of the keeper who would come after me was already waiting — cut before that keeper was born, held in the tally, counted in the number that never changed. I did not know who he was. I did not know when he would come.
+I went home in the dark and lit the lamp and opened the red book, and I wrote:
 
-But I knew that he was already in the count.
+The tally does not change. Ferrand wrote that the count had not changed in his time. The stones do not change. The boundary holds. The hairline mark does not change. The count is not a count of years. It is a count of something fixed — something that has always been the same number, and will always be the same number. I do not know what it is counting. But I know that it is fixed. And I know that I am part of it. The count is fixed. The boundary is fixed. The stones are fixed. And I am part of it. I do not know what the count is counting. But I would learn. The hunt had led me to the number. And the number was leading me somewhere.
 
-And I knew that I would keep the keeping in such a way that the mark I had been given would be worthy of the tally it stood in.
+I set down the pen, and I sat in the dark, and the thought that had been waiting behind all my counting finally came forward.
+
+I had been reading the number as a record of the past — as the sum of everything that had already been kept. But a number that never changes is not a sum. A sum grows with every added part. The only numbers that stand perfectly still are the numbers that are not finished — the numbers waiting for their last term, the sums of things that have not all arrived yet. The count was fixed because the thing it was counting was not yet complete. It was not counting what had been done. It was counting what remained to be done, and it would not move, would not change by a single mark, until the whole of it stood finished before whoever was keeping it.
+
+Not a record of the past, then. A promise of the future.
+
+I stood and went to the window. The town lay dark below, the roofs holding the last of the light, and beyond them the tower stood black against the stars. The bell hung in it, silent, and it had been silent all the nights of my keeping. I had listened for it in my first year, and in my second, and I had stopped listening somewhere in the third, the way a man stops listening for a door that never opens. But I listened now.
+
+Midnight came, and went, and the bell did not ring.
+
+I did not know what would make it ring. I did not know whether it would be struck by a hand or would sound of itself, whether I would hear it awake or asleep or not at all, whether it would come in my lifetime or in the lifetime of the keeper after me. The bell at the hour of nothing — the hour that belonged to no day — and the count standing still beneath it, waiting for its last mark. Ysabel had said the number might be counting what was owed.
+
+Standing at the window in the cold, I thought she was right. Something was owed, and the tally was the record of the debt, and the bell would ring when the debt was paid. I did not know to whom the debt was owed, or for what, or by whom. I only knew that I was part of the keeping of it — that my own keeping stood somewhere inside that fixed and patient number, the way a single held breath stands inside a longer silence.
+
+The frost was thick on the glass. I did not wipe it away.
+
+I was the keeper of a count that had never changed and would not change until the last of it arrived. And whatever the bell was waiting to announce, I had begun to understand that it was not an ending I was keeping toward. It was a completion. And the two are not the same thing at all.

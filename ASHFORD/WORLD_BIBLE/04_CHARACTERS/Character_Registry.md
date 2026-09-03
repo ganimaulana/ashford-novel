@@ -26,17 +26,17 @@
 | **Military Teacher** | `characters/Military_Teacher.md` | DRAFT — NOT CANON | (Potential) | Not yet introduced | Not applicable |
 | **Dr. Elias Mercer** | ~~`characters/Elias_Mercer.md`~~ — SUPERSEDED 2026-09-01; see ARCHIVE/SUPERSEDED_PROFILES/ | SUPERSEDED | (Obsolete) | Not yet introduced | Not applicable |
 | **Thomas Vale** | `characters/Thomas_Vale.md` | CANON | Hidden World | Chapter 40 | High — former constable, keeper of the Agreement; veteran + senior Constable intelligence/counter-intelligence background (CONFIRMED 2026-09-03) |
-| **Silas Crowe** | `characters/Silas_Crowe.md` | CANON | Hidden World | Chapter 41 | High — Order member (the Silas Crowe of Ch 41 is canonically this profile) |
+| **Silas Crowe** | `characters/Silas_Crowe.md` | CANON | Hidden World | Chapter 41 | High — Order member (the Silas Crowe of Ch 42 is canonically this profile) |
 | **Clara Bell** | ~~`characters/Clara_Bell.md`~~ — SUPERSEDED 2026-09-01; see ARCHIVE/SUPERSEDED_PROFILES/ | SUPERSEDED | (Obsolete) | Not yet introduced | Not applicable |
 | **Adrian Locke** | ~~`characters/Adrian_Locke.md`~~ — SUPERSEDED 2026-09-01; see ARCHIVE/SUPERSEDED_PROFILES/ | SUPERSEDED | (Obsolete) | Not yet introduced | Not applicable |
-| **Eleanor Shaw** | `characters/Eleanor_Shaw.md` | CANON | Hidden World | Chapter 41 | High — records/intelligence (the Eleanor Shaw of Ch 41 is canonically this profile) |
-| **Nathaniel Graves** | `characters/Nathaniel_Graves.md` | CANON | Hidden World | Chapter 44 | High — ideological leadership; the "Graves" of Ch 44 is canonically Nathaniel Graves (per Phase 3H D2) |
+| **Eleanor Shaw** | `characters/Eleanor_Shaw.md` | CANON | Hidden World | Chapter 41 | High — records/intelligence (the Eleanor Shaw of Ch 42 is canonically this profile) |
+| **Nathaniel Graves** | `characters/Nathaniel_Graves.md` | CANON | Hidden World | Chapter 44 | High — ideological leadership; the "Graves" of Ch 46 is canonically Nathaniel Graves (per Phase 3H D2) |
 | **Beatrice Holloway** | ~~`characters/Beatrice_Holloway.md`~~ — SUPERSEDED 2026-09-01; see ARCHIVE/SUPERSEDED_PROFILES/ | SUPERSEDED | (Obsolete) | Not yet introduced | Not applicable |
 | **Jonathan Reed** | ~~`characters/Jonathan_Reed.md`~~ — SUPERSEDED 2026-09-01; see ARCHIVE/SUPERSEDED_PROFILES/ | SUPERSEDED | (Obsolete) | Not yet introduced | Not applicable |
 | **Rose Whitmore** | ~~`characters/Rose_Whitmore.md`~~ — SUPERSEDED 2026-09-01; see ARCHIVE/SUPERSEDED_PROFILES/ | SUPERSEDED | (Obsolete) | Not yet introduced | Not applicable |
 | **Samuel Graves** | `characters/Samuel_Graves.md` | PROPOSED — [CANDIDATE] | Ordinary | Not yet introduced | Low — military experience only |
 | **Dr. Samuel Blackwood** | `characters/Samuel_Blackwood.md` | PROPOSED — [CANDIDATE] | Interesting | Not yet introduced | Moderate — natural philosophy |
-| **Thomas Finch** | `characters/Thomas_Finch.md` | CANON | Ordinary | Chapter 41 | Low — records and patterns; the Ch 41 records-bearer Finch is canonically Thomas Finch and is NOT the same person as the Greyhound innkeeper Finch of Ch 36 (per Phase 3H D3) |
+| **Thomas Finch** | `characters/Thomas_Finch.md` | CANON | Ordinary | Chapter 41 | Low — records and patterns; the Ch 42 records-bearer Finch is canonically Thomas Finch and is NOT the same person as the Greyhound innkeeper Finch of Ch 36 (per Phase 3H D3) |
 | **Henry Marlow** | `characters/Henry_Marlow.md` | PROPOSED — [CANDIDATE] | Ordinary | Not yet introduced | Low — navigation and observation |
 | **Clara Hart** | `characters/Clara_Hart.md` | PROPOSED — [CANDIDATE] | Ordinary | Not yet introduced | Low — apothecary/informant |
 

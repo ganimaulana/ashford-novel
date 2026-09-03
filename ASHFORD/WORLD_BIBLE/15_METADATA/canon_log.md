@@ -4,6 +4,42 @@ This file tracks major changes to the official release canon.
 
 ---
 
+## 2026-09-03: MANUSCRIPT — Vale Deepening Arc (4 new chapters, full renumbering 137 → 141)
+
+**Event**: Four new numbered chapters inserted into the main timeline to deepen Thomas Vale before his death. Not a flashback arc, not lettered inserts — real chapters in sequence, with all following chapters renumbered.
+
+**New chapters**:
+- **Ch41 — The Old Man's Table** (late Feb 1817). Leon returns to verify a transcription; the errand ends in four minutes and neither man leaves. Vale corrects a paraphrase ("It is the same meaning. It is not the same sentence"). Bread, butter, "There is no such thing" as a substantial tea. Leon's orphanhood established indirectly: both parents dead within a year, Leon was seven, six years in a paid household. Vale offers no pity — "People who grow up alone learn to carry everything themselves. It is a useful skill. It is not a virtue." / "I manage." / "I know." Closes: "Then come again, for that reason."
+- **Ch45 — A Second Copy** (Apr 1817). Leon files a one-copy report and loses control of it. Vale: "Then there is no copy." Teaches map-reading, then the distinction that becomes Leon's method — "What I saw. What I was told. What I concluded. Keep them apart." Also: never read the end first; the man with nothing to hide; four roads. Asks the same question twice twenty minutes apart and says "Good" of the answerer, not the answer. Refuses to say where he learned any of it, and names the refusal as a refusal.
+- **Ch48 — The Things We Keep** (first week Aug 1817). The box first shown, then returned to the press ("I am not dead. It is an unpleasant habit, giving things away while you are still using them"). Full contents itemised. "These are mine. Not the parish's. Not the Order's. Mine." Leon sees the empty cloth and says nothing. "Why me?" unanswered; the nearest offers are "You came back" and "You ask before you take," with an explicit refusal to make it more. Concealment instruction: "you have not seen a box… Do not lie if you can avoid it. Refuse."
+- **Ch50 — The Last Visit** (a Tuesday in mid-Oct 1817). Leon comes with nothing to ask for the first time; Vale declines to ask why. Soup, a hedge dispute, twice out of breath. "You have been coming here eight months." Then: "You do not owe the dead your life… do not become their unfinished business." Asked whether that is what he did: "I asked. Late." The coat refused. "Come Thursday." Leon's four-line notebook entry, one line of it about a coat.
+
+**Renumbering (calculated per insertion point, not a global shift)**:
+| old | new |
+|---|---|
+| 41–43 | 42–44 |
+| 44–45 | 46–47 |
+| 46 | 49 |
+| 47–137 | 51–141 |
+New: 41, 45, 48, 50. Total 137 → **141**. All 141 filenames renamed via `git mv`, all internal headings resynced, sequence and duplicate-title audits clean.
+
+**Duration — CONFIRMED**: Leon knew Vale approximately **eight months**, February to October 1817. Vale states it in Ch50. Previously the acquaintance was compressed into roughly Feb–May/Jun; Vale's death moves to **October 1817** to accommodate the four visits. Ch51's "one winter" corrected to "eight months."
+
+**Existing chapters revised for the new continuity**:
+- `Ch49` (old 46) — box handover reframed as the **second** showing; already out of the press when Leon arrives; "I told you that in August. I am telling you again because you will be told otherwise"; "Look at it again. I want you to have looked at it twice"; the read-in-order instruction now a repetition; "Why me?" refused a second time.
+- `Ch51` (old 47) — "He had told me to come Thursday. It was Thursday." The half-finished cup, the coat still on the press. Notebook: "He asked whether I had eaten. He asked it every time. I did not notice that he asked it every time until there was no one to ask it."
+- `Ch52` (old 48) — Leon takes the heavier coat on the fifth day. The destroyed horse cross-checks against Ch48's spoken account, with the road omitted in both. Copying the transfer entry, he registers that he has just made a second copy, and where he learned why.
+
+**Posthumous payoff discipline**: most of Vale's advice remains ordinary wisdom. Confirmed echoes so far are three — the coat, the second copy, and "he asked whether I had eaten." Ratio to be preserved; no statement retrofitted into prophecy.
+
+**World Bible updated**: `chapter_status.md` (rows 41–51 rewritten, mapping note added; rows 52–141 pending regeneration) · `Ashford_Timeline.md` (Ch 1–51 rules, eight-month duration, October death) · `Thomas_Vale.md` **v4.0** (eight months, two-stage box, teaching set with six maxims, per-visit behavioural observations, three new open questions) · `FINAL_CONTINUITY_LEDGER.md` · `FINAL_MYSTERY_LEDGER.md` · `Leon_Ashcroft.md` · `Character_Registry.md` · `Open_Questions.md` · `Order_of_Severence.md` · `ANONYMOUS_TOKEN_NETWORK.md` · `DOOR_GEAR_SYSTEM.md` · `GEAR_STORY_ARCHITECTURE.md` · `GEAR_EXPERIMENTATION_AND_RESONANCE.md` · `MASTER_GEAR_BLUEPRINT.md` · `ESOTERIC_RECORD_CLASSIFICATION.md` · `CANON_TERMINOLOGY.md`.
+
+**Preserved**: Gear discovered by Leon at the mill in Ch36, never given by Vale · Gear not in the box at discovery · custody ≠ ownership · Vale never says the Gear is Leon's · no grandson/son declaration anywhere · Vale not omniscient and not a supernatural authority · Door, inscription, Order infiltration, and the reason for the transfer all still unexplained · no prophecy or chosen-one framing · no new Gear mechanics.
+
+**AUTHOR REVIEW REQUIRED (unchanged)**: the Ch66 (old Ch62) warmth statement — citation renumbered, prose untouched as instructed. The "Father Lucien Vale" naming question. `chapter_status.md` rows 52–141.
+
+---
+
 ## 2026-09-03: CANON — Thomas Vale's Background (Veteran → Constable Intelligence → Demotion → Ashford)
 
 **Event**: Established Vale's author-approved background and seeded it through the manuscript as gradual revelation. **Chapter files modified.**

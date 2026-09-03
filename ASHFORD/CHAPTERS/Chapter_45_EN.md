@@ -1,565 +1,151 @@
-CHAPTER 45 — THE CRACKS
+CHAPTER 45 — A SECOND COPY
 
-Spring came and went quietly. The first stone cracked in May.
+The Order gave me an assignment in the second week of April and I did it badly.
 
-I noticed it because the line was too straight.
+Not the work. The work was simple — I was to establish whether a man named Pell had been in Ashford on a particular night in February, and he had not, and I established it in two days from the ledger of the coaching inn and the memory of a stableman.
 
-Natural fractures rarely bothered to announce themselves. They spread according to pressure, weather, roots, and time. This one began near the base of the eastern marker and ran upward for several inches before disappearing beneath a patch of lichen.
+What I did badly was the report.
 
-I crouched beside it.
+I wrote it in one copy, on a single sheet, in my own hand, and I gave it to Crowe at the brewery, and Crowe read it and folded it and put it in his coat, and I walked home understanding that I no longer had any record of what I had told them.
 
-The stone had not moved.
+If Crowe said next month that I had written something else, I could not contradict him.
 
-At least, not visibly.
+I sat with that for three days.
 
-I took out my notebook.
+Then I walked to Bellweather Lane.
 
-Eastern marker — new fracture.
+---
 
-I added the date.
+He was awake, which was not always the case by then. There was a fire, which was rarer still.
 
-Then the weather.
+"You have brought a face with you," he said.
 
-Cold morning. Light rain during the night.
+"I made a mistake."
 
-I ran a finger over the crack.
+"Sit down and make it slowly."
 
-The surface was dry.
+I told him. I did not tell him who the report was for, and he did not ask, which at the time I took for indifference.
 
-I removed my glove and touched it again.
+When I had finished he was quiet.
 
-Nothing.
+"How many copies," he said.
 
-I waited.
+"One."
 
-Still nothing.
+"Then there is no copy."
 
-Then the gear in my coat became warm.
+"There is one."
 
-I stopped.
+"You do not have it. He has it." He shifted in the chair. "A record that exists in one hand is not a record. It is that man's word about what you said. You have given him the sentence and kept the memory, and memory loses to paper in every room I have ever been in."
 
-For several seconds I did not move.
+"I could have written it twice."
 
-The warmth was faint.
+"You could have written it twice. In the same sitting, in the same ink, with the same wording, and put the second one where nobody would think to look for it. Not hidden. Filed. Hidden things are found by people looking for hidden things. Ordinary things are not looked at."
 
-Not enough to burn.
+"That sounds like a great deal of trouble for a report about a man who was not in Ashford."
 
-Not enough even to be uncomfortable.
+"It is a great deal of trouble," he said. "It is also the difference between having done a thing and being able to prove you did it."
 
-But unmistakable.
+He said it flatly. Not as advice. As a measurement, the way he had said *that is early* about the age of seven.
 
-I took the gear out.
+---
 
-It was warmer than it had been when I left home.
+That was the afternoon he taught me to read a map, though he would not have called it teaching.
 
-I held it several inches from the stone.
+He sent me to the press for a roll of paper and I brought back four, and he spread out the second one — a district map, not of Ashford, the linen backing gone soft at the folds.
 
-The warmth remained.
+"Where is the church," he said.
 
-I moved farther away.
+I found it.
 
-It cooled.
+"Where is the road from the church to the river."
 
-I returned to the stone.
+I found it.
 
-It warmed again.
+"Now show me where a man would stand to see both the church door and the river road without being seen from either."
 
-I repeated the test three times.
+I looked for a long time. I put my finger on a place where the contour lines gathered behind a stand of trees.
 
-The result was the same.
+"Why there."
 
-That was interesting.
+"Because the ground is higher and there is cover."
 
-It was not proof.
+"How do you know there is cover."
 
-I wrote:
+"The map shows trees."
 
-Gear becomes warmer near fractured stone.
+"The map shows trees that were there when the map was drawn." He tapped the sheet once. "You have told me what the map says. You have not told me what is there. Those are two different reports and you have given me the wrong one."
 
-Then, beneath it:
+"Then how am I supposed to answer?"
 
-Possible correlation. Cause unknown.
+"By saying: *the map shows trees; I have not seen the ground.*" He sat back. "That sentence will save you more trouble than any other sentence you learn this year. Say what you saw. Say what you were told. Say what you concluded. Keep the three of them apart on the page and no one can make you responsible for a conclusion you did not draw."
 
-I put the gear away.
+I wrote that down that night, in my own book, in the form he gave it to me:
 
-I did not touch the stone again.
+*What I saw. What I was told. What I concluded. Keep them apart.*
 
-Two days later, another crack appeared.
+I thought I was writing down the habit of a careful old constable.
 
-Not on the eastern marker.
+---
 
-The second stone stood farther along the old line, partly hidden behind a low wall.
+There were other things, that spring, said in the same tone and taken the same way.
 
-I had not visited it since the first fracture.
+He told me not to read the end of a document first. I said that the end was usually where the conclusion was, and he said, "Yes. That is why. A man who reads the conclusion first will find the evidence agrees with it. He will find that every time. He will be wrong perhaps once in five, and he will never discover which once."
 
-The crack was smaller.
+He told me, when I mentioned in passing that Graves had been very willing to explain himself, that a man who tells you he has nothing to hide has told you the one thing about himself he wanted you to know.
 
-A hairline running diagonally across the upper face.
+He told me not to walk the same road to the mill twice running. I laughed at that. He did not.
 
-I examined it carefully.
+"There are four roads," he said. "Use four."
 
-There was no sign that anyone had struck the stone.
+"Who would be counting?"
 
-No fresh damage.
+"Nobody. Probably nobody." He looked at the fire. "It costs you nothing to use four roads. It costs you a great deal to be wrong about whether anybody is counting. Set the cost of each against the other and stop asking me why."
 
-No displaced earth.
+I used four roads after that. I told myself it was to humour him.
 
-I measured the fracture.
+---
 
-Then I took out the gear.
+Once, near the end of the afternoon, he asked me where I had first got the gear.
 
-It warmed.
+I told him. Beneath the clock at the mill, on the floor, in the dust.
 
-Not immediately.
+He nodded and went on to something else.
 
-That mattered.
+Twenty minutes later, in the middle of a matter about the hedges on the eastern boundary, he said: "The clock at the mill. Was the gear on the floor or in the case?"
 
-The first time, I had wondered whether the warmth might have been caused by my own body heat.
+"On the floor. Beneath it."
 
-So I placed the gear on the ground.
+"Beneath the clock, or beneath the case of the clock?"
 
-I stepped away.
+"Beneath the case. On the boards."
 
-Waited.
+He nodded again, and this time something in him settled, and he said, "Good," and returned to the hedges.
 
-The metal cooled.
+I did not understand until much later that I had been asked the same question twice by a man who wanted to know whether I would give the same answer, and that the second asking had been buried twenty minutes deep on purpose. Nor that *good* had not been a comment on the gear.
 
-I returned to the stone.
+It had been a comment on me.
 
-The warmth returned.
+---
 
-I repeated the experiment.
+I asked him once that spring what he had done before Ashford.
 
-Again.
+"I was a constable."
 
-And again.
+"Before that."
 
-The result remained uncertain, but it was no longer something I could dismiss as imagination.
+"A soldier."
 
-I wrote:
+"And between."
 
-Second fractured marker produces similar response.
+He looked at me with the pale, sudden clarity that came over him sometimes, the look of a man who is entirely present in a body that has mostly stopped attending.
 
-I stared at the sentence.
+"Between," he said, "I learned most of what I have been telling you. And I am not going to tell you where, because a man who knows where a thing was learned starts to think he understands why it was learned, and he is generally wrong, and then he stops listening."
 
-Then added:
+"That is not an answer."
 
-Relationship appears repeatable.
+"No," he agreed. "It is a refusal. There is a difference, and you should learn to hear it. Most men give you a refusal shaped like an answer and you go away satisfied."
 
-I almost wrote connected.
+I went away unsatisfied.
 
-I didn't.
-
-That word carried too much certainty.
-
-A shape appeared at the edge of the common that evening.
-
-I saw it from the road.
-
-At first I thought it was the same trick of distance that had fooled me before.
-
-A shape between the trees.
-
-A dark roof.
-
-A pale wall.
-
-I stopped walking.
-
-The shape remained.
-
-It stood where the common met the lower pasture, well away from Bellweather Lane.
-
-This time, it was not fading.
-
-It stood exactly where the eye expected it to be.
-
-The windows were dark.
-
-The front door was open.
-
-I looked behind me.
-
-The road was empty.
-
-I waited for someone to emerge.
-
-Nobody did.
-
-The sensible decision would have been to return to town.
-
-Instead, I walked toward it.
-
-Not quickly.
-
-Every few steps I stopped and looked at the shape again.
-
-It remained.
-
-That was already different.
-
-The first time I had seen it, it had disappeared before I could reach it.
-
-Now it seemed almost ordinary.
-
-That made it worse.
-
-I reached the front door.
-
-The air inside was colder.
-
-Not dramatically.
-
-Just enough for me to notice the difference against my face.
-
-I stood there for several seconds.
-
-Then entered.
-
-The hallway was not what I had expected.
-
-It was bare.
-
-No furniture.
-
-No pictures on the wall.
-
-No coat hanging beside the stairs.
-
-Only a single clock on the far wall.
-
-It had stopped at 00:00.
-
-I approached it.
-
-The face was old.
-
-The glass cracked across one corner.
-
-I did not touch it.
-
-I looked at the hands.
-
-00:00.
-
-I wrote it down.
-
-Then I heard something.
-
-A dull sound beneath my feet.
-
-I froze.
-
-Nothing followed.
-
-I waited.
-
-Another sound came.
-
-Three seconds later.
-
-Not a knock.
-
-Not exactly.
-
-More like something striking wood from below.
-
-I looked toward the floor.
-
-The boards were old.
-
-There was no visible trapdoor.
-
-I crouched.
-
-The sound came again.
-
-This time I heard it clearly.
-
-Three knocks.
-
-Slow.
-
-Deliberate.
-
-I remained still.
-
-Three more seconds.
-
-Nothing.
-
-I looked toward the stairs.
-
-There were no stairs.
-
-I could go down only by the cellar hatch beneath the front mat, which I had not seen when I entered.
-
-I did not.
-
-I had no reason to believe that whatever was beneath the floor wanted me to investigate.
-
-That was enough.
-
-I stood.
-
-Before leaving, I looked at the stopped clock again.
-
-00:00.
-
-I did not know whether that meant anything.
-
-So I wrote:
-
-Clock stopped at 00:00. Three sounds heard beneath floor. Source unknown.
-
-I left the house.
-
-I closed the door behind me.
-
-The cold air outside felt warmer than the interior.
-
-I returned to the eastern marker the following morning.
-
-The crack had changed.
-
-Only slightly.
-
-But enough.
-
-It had extended another inch.
-
-I measured it.
-
-Then checked the second marker.
-
-Its crack had widened as well.
-
-I stood between the two stones.
-
-The gear was in my coat.
-
-I did not take it out.
-
-I wanted to know whether I was expecting the reaction now.
-
-Expectation was dangerous.
-
-It could make a person interpret everything as confirmation.
-
-So I walked away from the markers.
-
-The gear cooled.
-
-I stopped.
-
-Waited.
-
-Then returned.
-
-The gear warmed.
-
-I repeated the process twice.
-
-The result remained consistent.
-
-I could no longer dismiss the correlation.
-
-But I still could not explain it.
-
-I returned home and compared the notes.
-
-First stone.
-
-Second stone.
-
-The house.
-
-The clock.
-
-The sounds beneath the floor.
-
-Nothing connected them conclusively.
-
-Yet the timing bothered me.
-
-I drew a line between the dates.
-
-The first crack.
-
-The second crack.
-
-The appearance of the house.
-
-I stared at the page.
-
-Then turned it around.
-
-Sometimes patterns became easier to see when you stopped looking for them.
-
-Nothing changed.
-
-I wrote one sentence.
-
-Something is changing around the old boundary.
-
-I paused.
-
-Then added:
-
-I do not yet know whether the boundary itself is changing.
-
-That distinction mattered.
-
-The third stone cracked four days later.
-
-This one was different.
-
-The fracture appeared across the entire front face.
-
-It had not broken apart.
-
-But the stone looked as though something inside it had pulled against the surface.
-
-I crouched beside it.
-
-There was no fresh soil.
-
-No footprints.
-
-No tool marks.
-
-I took out the gear.
-
-It warmed almost immediately.
-
-I held it beside the fracture.
-
-The metal became noticeably warmer.
-
-I moved it away.
-
-It cooled.
-
-I brought it back.
-
-Warm again.
-
-I put the gear on the ground.
-
-The stone remained silent.
-
-The gear remained warm for several seconds.
-
-Then it cooled.
-
-I waited.
-
-Nothing.
-
-I picked it up.
-
-Warmth returned.
-
-I stared at it.
-
-For the first time, I wondered whether the object was reacting to the stones or whether the stones were somehow reacting to it.
-
-I wrote both possibilities down.
-
-Then added a third.
-
-Unknown common cause.
-
-That was the only one I could defend.
-
-I looked along the old boundary.
-
-The stones disappeared into the distance.
-
-Some were hidden by walls.
-
-Others by vegetation.
-
-I had counted four before.
-
-Now I wondered how many there had originally been.
-
-That question led to another.
-
-If three had changed, what about the others?
-
-I did not have the answer.
-
-Not yet.
-
-That night I returned to the common.
-
-The shape was gone.
-
-Only the flattened grass remained.
-
-I stood where the doorway should have been.
-
-Nothing.
-
-No foundation.
-
-No footprints.
-
-No sign that anyone had lived there.
-
-I took out my notebook.
-
-I read the previous entry.
-
-Shape present.
-
-Then:
-
-Shape absent.
-
-The two statements sat beside each other.
-
-Neither explained the other.
-
-I looked toward the trees.
-
-The road was empty.
-
-For a moment I thought I heard the same three knocks.
-
-I waited.
-
-Nothing came.
-
-I almost laughed.
-
-Then I remembered that the sound had been real.
-
-At least, I believed it had been.
-
-That was the problem.
-
-Belief was beginning to become another variable.
-
-I closed the notebook.
-
-On the way home, I decided to make one rule.
-
-Until I had evidence strong enough to survive another explanation, I would describe what happened—not what I thought it meant.
-
-The stone had cracked.
-
-The gear had warmed.
-
-The house had appeared.
-
-The house had disappeared.
-
-Something had struck the floor three times.
-
-Those were facts.
-
-Everything else was a question.
-
-And for now, questions were safer.
+I have thought since that this was also deliberate.

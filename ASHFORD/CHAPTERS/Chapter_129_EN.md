@@ -1,141 +1,204 @@
-﻿CHAPTER 129 — THE MARK OF THE MAKER
+CHAPTER 129 — THE NEXT KEEPER
 
-I did not leave the house in the marsh that night.
+The spring came again to Ashford.
 
-I built a small fire in the clearing, and I sat by it, and I looked at the house, and I thought about the first sign on the wall.
+I had been keeper for five years. I had written the account of the keeping. I had prepared the book for the keeper who came after me. I had recorded the objects with Elias, and walked the boundary with Ysabel, and kept the count with the tally.
 
-The first sign was the mark of the maker. I had read that in the vestry book, years ago. The first sign was the sign of the maker, the sign that was set before the wall, before the boundary, before the Order.
+I had done what I could.
 
-I had carried the Token all my life. I had found the first sign on the stones of the boundary, and on the floor of the chamber, and on the bell, and on the clocks, and on the key, and on the box. And now I had found it on the wall of a house in the marsh.
+Now I waited.
 
-I did not know what it meant. But I knew that the first sign was everywhere. And I knew that it was connected.
+I could not yet tell what I was waiting for. I could not say whether the keeper who came after me would come in my time, or after I was gone. I could not determine whether I would meet him, or whether he would find the book in the drawer after I had left it.
 
-The fire burned low. The marsh was dark. The reeds stood black against the sky. The house was a deeper darkness, a shape in the night that I could not quite see.
-
-I sat by the fire, and I thought about the boundary in Ashford. The stones. The first sign at the base of each stone. The count of the keepers, marked in the tally.
-
-I had walked that boundary for five years. I had known every stone, every sign, every mark. I had thought that the boundary was the whole of it — the keeping, the count, the sign.
-
-But the boundary in Ashford was not the only boundary.
-
-There was a boundary here, in the marsh. I could feel it. I could sense it in the way the ground rose, in the way the reeds fell back, in the way the house stood at the centre of the clearing.
-
-I did not know what the boundary marked. I did not know who had set it. But I knew that it was there.
+But I waited.
 
 ---
 
-In the morning, I searched the marsh.
+On a day in June, a visitor came to my door.
 
-I walked out from the house, through the reeds, across the water, and I looked for other signs of the maker — other marks, other houses, other places where the first sign had been set.
+I knew the face. He was younger than I remembered, but I knew him — Daniel, who had shown me the oldest book in the Academy, who had counted the marks with me and not known what they counted. He had grown in the years since, but the face was the same.
 
-I walked for hours.
+He stood at my door, in the afternoon light, with a bag at his feet and a look of a man who had come a long way.
 
-The marsh was empty. The reeds stretched to the horizon. The water lay flat and grey. There was no sign of the maker anywhere but in the house.
+"Mr. Ashcroft?" he said.
 
-I came back to the house at midday. I stood in the clearing, and I looked at the house, and I understood that I had been wrong.
+"I am."
 
-The first sign was not the only thing the house had held.
+He looked at me a long moment.
 
-I had searched the house. I had found nothing but the mark on the wall. But I had not looked beneath the house.
+"My name is Daniel," he said. "Daniel Wren. I am the son of the clerk. I have come to ask you about the keeping."
 
-The house stood on a patch of higher ground, in the centre of the clearing. The ground was packed earth and stone. It was the only firm ground in the marsh for as far as I could see.
+I stood very still.
 
-I looked at the ground. I looked at the clearing. I looked at the way the reeds grew around the edge of the high ground, forming a circle.
+The son of the clerk. The son of the man who kept the books.
 
-I had not noticed it before.
+"I have been told," he said, "that you are the keeper. I have been told that you keep the account, and the boundary, and the door, and the bell. I have been told that you have written a book for the keeper who comes after you."
 
-A circle. A circle of reeds, around the house.
+I looked at him.
 
-I walked to the edge of the clearing. I pushed through the reeds. And I found the stones.
+"Who told you?"
 
-They were old. They were worn. They were set in the ground, in a pattern I had not noticed before. A circle. A circle of stones, around the house.
+"The keeper of the tally," he said.
 
-I stood. I looked at the circle of stones.
+I stood in the doorway.
 
-The house stood in the centre of it. The stones were set in a ring, around the house, hidden by the reeds and the grass. I had walked past them a dozen times and not seen them.
+The keeper of the tally had sent him.
 
-I counted them.
-
-There were more than a hundred stones in the ring.
-
-The same number as the boundary in Ashford.
-
-I stood in the clearing, in the grey light, and I understood that I had not found a house in the marsh. I had found the beginning of the boundary.
+The keeper who kept the count had brought the keeper who would come after me.
 
 ---
 
-I knelt at the nearest stone.
+I let him in.
 
-I cleared the grass from its base. The moss came away in my hands, and the stone was dark and wet beneath it.
+I sat him at the desk. I opened the drawer. I took out the book of the keeping — the book I had written for the keeper who would come after me.
 
-The first sign was there.
+I set it on the desk before him.
 
-The same mark. The same circle, three lines, dot. Cut into the base of the stone, hidden where the grass covered it.
+"The account of the keeping," I said. "I wrote it for you."
 
-I moved to the next stone. The same sign.
+He looked at the book. He did not open it.
 
-The next. The next. The next.
+"The keeper of the tally told me that I would find it here," he said. "He told me that you had written it, and that you had been waiting for me."
 
-Every stone in the ring carried the first sign at its base.
+I sat in the room.
 
-The same as the boundary in Ashford. The same marks. The same signs. The same number of stones.
+I had been waiting for him. I had not known who he was. I had not known when he would come. But I had been waiting.
 
-I stood in the centre of the ring, beside the house, and I understood.
+"I have been waiting," I said.
 
-The boundary in Ashford was not the only boundary.
+I opened the drawer again. I took out the gear — the gear I had found beneath the stopped clock at the mill, in my first winter, before I had understood a single thing about the keeping. It was wrapped in the square of cloth I had carried it in for five years. I unwrapped it and set it beside the book, and it lay there filling the width of my hand, dark and cold and heavier than it looked.
 
-There was a boundary here, in the marsh, older than the one in Ashford. And the house stood at its centre.
+"This is the gear," I said. "Vale kept it for fifty years, in a box, among his letters and his papers, and then he put it where I would find it and never told me why. I have carried it for five. Now you will carry it."
 
-I did not know what the house was. I did not know what the marsh boundary marked. I did not know why I had been led here.
+He bent over it, and I saw him find the letters — the band of them cut round the face, worn at the crests, still legible after however many hands had held it.
 
-But I knew that I had found something.
+"There are words on it," he said.
 
-The beginning of the boundary. The first sign. The mark of the maker.
+"There are."
 
-I stood in the ring of stones, in the grey light, and I understood that the hunt was not over. The count had called me north. And the count had led me to the beginning.
+He read them. He was the clerk's son; he read them easily, the way he read everything.
+
+"What does it mean?"
+
+"I do not know," I said.
+
+He looked up at me to see whether that was the whole answer.
+
+"Vale did not know either," I said. "He read it for fifty years. I have read it for five. Neither of us could tell you whether it is an instruction, or a warning, or a description of something that is not the gear at all. Write it in the book. Read it when you have nothing else to do. And do not decide what it means because you are tired of not knowing."
+
+That was true, and it was not the whole of the truth. I did not tell him where the depression was, or that there was more than one door that would take it, or what I had felt in the passage with my hand on it and the candle burning down, or that the sentence had begun to sound to me less like a maker's motto than like one half of an exchange. I told him what he could carry: that it was old, that it had been kept by men who did not understand it, and that it was not to be set into any stone until he understood what the stone was.
+
+I did not tell him it was his. I told him he would carry it. There is a difference, and Vale had known it, and had said nothing to me either.
+
+I had another reason, and I did not give him that one either. A thing that is asked after is a thing that is followed. A man had come a long way to ask about the gear in my first year, and I had never learned his name. And I had begun to understand that I would not always be in that room.
+
+He looked at the gear. He did not touch it.
+
+I took out the agreement — the folded paper, yellow with age, signed by Aurelius Ashcroft. I set it beside the gear.
+
+"And this is the agreement," I said. "It is the document of the keeping. It has been kept by the keepers since Aurelius signed it. It is yours now."
+
+He looked at the three things on the desk — the book, the gear, the agreement.
+
+"I am not ready," he said.
+
+"Neither was I," I said. "No one is ready for the keeping. The keeping finds you, and you keep it, and you learn as you keep."
+
+He looked at the book.
+
+"I am the son of a clerk," he said. "I know the books. I know the records. I do not know the keeping."
+
+"The keeping is not in the records," I said. "It is in the boundary, and the stones, and the sign, and the account. And it is in the book I have written for you."
+
+He looked at the book a long time.
+
+Then he reached out, and he took it.
+
+I wrapped the gear again while he held the book, and I set it in the bag at his feet, because he had not asked for it and would not have known how to ask. The bag settled when I let it go. He watched me do it and said nothing, and I understood that he did not know what he had been given — only that it was old, and that it was his now, and that it had been carried by men whose names he would never learn.
+
+I sat in the room, and I watched him hold the book of the keeping.
+
+The keeper who would come after me.
+
+He was young. He was not ready. He did not know the keeping.
+
+But the keeper of the tally had brought him to me.
+
+And the count had brought him.
+
+I did not know what he would do with the keeping. I did not know whether he would keep it well, or whether he would keep it long.
+
+But I knew that he was the one.
+
+I had written the book for him.
+
+And he had taken it.
 
 ---
 
-I did not leave the marsh.
+I walked with him to the boundary that evening.
 
-I built a shelter beside the house, and I stayed, and I searched. I walked the ring of stones. I counted them again. I looked at the first sign on each one, confirming what I had seen.
+The light was long and gold, the way it is in June, and the town was settling into its evening — the lamplighter beginning his rounds, the smell of bread from the bakery, children calling in the lanes. Daniel walked beside me, carrying the book I had given him, and he did not speak. I did not speak either. There are walks that are not meant to be filled with words, and this was one of them.
 
-One hundred and eight stones. The same as the boundary.
+I showed him the stones. I showed him the first sign at the base of each stone. I showed him the fourth stone, where the hairline mark ran across its face.
 
-I searched the marsh beyond the ring. I looked for other signs, other houses, other marks of the maker. I found nothing. The ring of stones was the only sign of the maker in the marsh.
+"The tally," I said. "The count of the keepers. Your mark will be in it."
 
-The house stood at its centre. The first sign was on its wall. The ring of stones circled it, each one carrying the first sign at its base. And the count of the stones was the same as the count of the boundary.
+He looked at the stones.
 
-I did not know what it meant. But I knew that it was the beginning.
+"I do not understand," he said.
 
-I sat by my fire, in the evenings, and I thought about the boundary in Ashford. The stones. The tally. The count of the keepers. I had thought that the boundary was the whole of the keeping. But the boundary was not the whole. It was only one threshold.
+"Neither did I," I said. "I have been keeper for five years, and I do not understand all of it. But I have kept it, and I have written the account, and I have passed it to you."
 
-The marsh was another. And there were more.
+I looked at him.
 
-I did not know how many. The innkeeper had said there were places that used to be, and places that might be. The marsh people had said that the house had been there before the village, before the marsh people came.
+"You will understand, in time. The keeping will teach you. The stones will teach you. The account will teach you. And when you do not understand, you will write it down — because the writing is how the keeping is passed, and a keeper who does not write leaves nothing for the keeper who comes after."
 
-I thought about the count of the stones. One hundred and eight. The same as the boundary. And I thought about the thirteen signs. The signs that were scattered, hidden, waiting.
+He looked at the book in his hands, and I saw him understand, for the first time, what he had been given — not a book of answers, but a book of questions, kept so that the questions would not be lost.
 
-Perhaps there were as many as thirteen such rings. Perhaps each ring was a threshold, a place where the first sign had been set, a place where the count was kept. Perhaps the marsh was only one of them.
+We stood at the boundary, in the evening light, and I looked at the stones, and I understood that I was no longer the keeper.
 
-I did not know. I could not know. But I understood that the count was larger than I had thought. Larger than Ashford. Larger than the boundary. Larger than the keeping I had known.
+I was the keeper who had passed the keeping.
 
-I sat by the fire, and I wrote in my book:
+The count had brought the next keeper.
 
-*The count has led me north. I have found a house in the marsh, with the first sign on its wall, and a ring of stones around it, each carrying the first sign at its base. The count of the stones is the same as the count of the boundary in Ashford. This is the beginning of the boundary. This is where the first keeper set the first sign.*
+And I had done my part.
 
-*I do not know what it means. But I know that I have found it.*
+I stood at the boundary, with the young man beside me, and I looked at the stones, and I understood that the keeping would continue. The count would go on. And I had been part of it.
 
-*The hunt is not over. The count has led me to the beginning.*
+I did not tell him that it would cost him. I did not tell him that there would be nights when the keeping was the only thing between him and the dark, or that the town would never know what he did, or that he would carry the forgetting and the remembering both, and that no one would thank him for either. He would learn those things himself, the way I had learned them, the way every keeper had learned them. It was not mine to spare him. It was mine to have made the road a little straighter for him than it had been for me.
 
-I closed the book. I sat by the fire. The marsh was dark around me. The house stood at the centre of the ring, patient and silent, waiting.
+I went home.
 
-I had found the beginning. But the beginning was not the end. The count was still counting. The signs were still scattered. The bell had not tolled.
+I sat at my desk.
 
-And I was still following the calling, north, into the unknown, toward the next threshold, and the next, until the count was complete.
+I opened the red book. I wrote:
 
-I did not know how many thresholds there were. I did not know how many rings of stones I would find. I did not know where the journey would end.
+*The keeper who comes after me came today. His name is Daniel Wren. He is the son of the clerk. The keeper of the tally brought him to me.*
 
-But I knew that I was on it.
+*I have given him the book of the keeping.*
 
-And I knew that the marsh was only the first.
+*I have shown him the boundary.*
+
+*I have passed the keeping.*
+
+*The count will continue.*
+
+*I have done my part.*
+
+*The keeping is the thing. The keeper is not.*
+
+*I have been a keeper.*
+
+*And I have passed the keeping.*
+
+I closed the red book. I stood in the stillness of the room. The drawer was empty of them now — the book of the keeping, the gear, the agreement, all of them gone in a young man's bag. The boundary was waiting. Daniel was at the Academy, reading the account I had written, beginning the long work of learning what the keeping was. I had done what I had set out to do. I had kept the account, and I had passed it, and the keeping would continue after me, as it had continued before me, and the count would go on being counted, and the bell would ring at 00:00 when the count was ready, and I would not be there to hear it. And that was as it should be.
+
+I left the rooms. I walked to the boundary. The stones were waiting in their patient line, and I stood at the eastern marker, where the first sign was cut into the stone, and I did not kneel. I had knelt enough. The wall was not mine to keep anymore. It was Daniel's.
+
+I walked home. I sat at my desk. I did not open the red book.
+
+The keeping was the thing. The keeper was not.
+
+I had been a keeper. Now I was something else — a man who had passed the keeping, and who was waiting for the next thing, whatever it was, to call him north.
+

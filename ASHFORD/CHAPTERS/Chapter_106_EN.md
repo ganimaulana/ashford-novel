@@ -1,216 +1,204 @@
-﻿CHAPTER 106 — THE FIRST TASK
+CHAPTER 106 â€” THE ITEM
 
-The key to the reading room opened the door at the top of the stair above the chandler's shop.
+The paper Adeline Brume gave me described an item coming to auction.
 
-I went there on the first day of my working relationship, in the evening, when the shop below was shut and the stair was dark. I climbed to the top, and I put the key in the lock, and the door opened.
+It was a small box, she said â€” a box of dark wood, no larger than a man's hand, with a lid that fitted closely and a clasp of old brass. It had been in the possession of a family for a hundred years, passed down without remark, and they did not know what it was. They thought it was worth nothing.
 
-The room was as I had left it — bare, with a single lamp on a table in the middle of the floor. The three sheets of paper were gone. In their place, on the table, lay a single sheet, folded once, in a hand I was beginning to know.
+The auction was in three weeks.
 
-I crossed the room. I opened the paper.
+I had three weeks to determine what the box was worth.
 
-*Mr. Ashcroft,*
+I took the paper home. I set it on the desk beside the red book. I read it twice.
 
-*There is a book in the possession of a man named Elias Marr, of this town. He keeps it among a collection of objects that have no history — objects from which the origin has been deliberately removed.*
+It said nothing about the box beyond its size and its age. It gave no description of the wood, the clasp, the lid. It gave no history of the family, no name, no place.
 
-*We have been trying to acquire this book for some time. The owner will not sell it. He will not show it. He will not say where he obtained it.*
+Only that the box was coming to auction, and that Adeline Brume wanted to know what it was worth.
 
-*We do not ask you to steal it. We do not ask you to take it by force. We ask you to find out what is in it — and, if you can, to learn how it came into his possession.*
+I could not yet tell whether she wanted me to estimate its monetary value, or its true value, or something else entirely.
 
-*Your discretion is assumed.*
-
-There was no signature.
-
-I read the paper twice. Then I folded it and put it in my coat.
-
-Elias Marr.
-
-I had heard the name — from Ysabel, in the weeks after the clock, when she had spoken of a collector who kept objects without history. Coins with no year. Books with no author. Paintings with no signature. She had said: "Someone deliberately erased their origin."
-
-Elias Marr was that collector.
-
-And he had a book that the society wanted.
-
-I could not yet tell what was in the book. I could not say how it had come into his possession. I could not determine why the society wanted it.
-
-But I had been asked to find out.
-
-There was a thing that troubled me, though I could not at first name it. The society had watched me for two years. The society knew of the clock, the key, the lock, the letter. The society had men and women in many towns, and it preserved histories and objects and knowledge, and it could not have lacked for ways to learn what was in a single book in a single house in Ashford. If it wanted to know, it had only to ask — or to send one of its own.
-
-It had sent me instead.
-
-Either the society could not touch Elias Marr, or it would not, or it was not the book it wanted to see me carry out of that house. I did not know which. I folded the paper and put it in my coat, and I told myself the task was simple, and I did not believe it.
-
-This was the first task of my working relationship.
-
-I would see it through.
+I had learned, in two years of keeping, that the worth of a thing in Ashford was rarely the price a man would pay for it.
 
 ---
 
-I did not go directly to Elias Marr.
+I began with the family.
 
-I had learned, in two years of keeping, that the direct approach was the approach that failed. I went to the market first, and I asked, where I could ask without drawing attention, about a collector who kept objects without history.
+The paper named no family. But the auction, Adeline had said, was in three weeks, and the item had been in the family for a hundred years, and a hundred years in one family was a keeping â€” and in Ashford, keepings left records.
 
-The market knew of him. The town knew of him, in the way a town knows of a man who keeps to himself and collects strange things.
+I went to the vestry. I went to the library. I went to Arthur's shop, where the old papers were kept that no one else thought to keep.
 
-"He is not from the town," said a woman at the cloth stall. "He came, years ago. He bought the old house on the lane past the mill. He has not left it since, that anyone has seen."
+I asked about a family that had kept a small dark box for a hundred years.
 
-"He is a collector," said a man at the tool stall. "He buys things — old things, strange things — and he does not tell anyone where they come from. He has a house full of them."
+It took me four days.
 
-"What does he collect?" I asked.
+I found the family through a record of a sale â€” a sale of a house, forty years ago, in which the inventory listed "one small box, dark wood, brass clasp, no value." The box had been kept, not sold, and the note "kept by the family" stood beside it.
 
-"Things with no history," the man said. "That is what they say. Coins with no year. Books with no author. He is the man that buys the things that have been scrubbed of their origin."
+The family name was Mercer.
 
-I thanked them. I went home.
+I had not heard the name before. I went back to the records. The Mercers had been in Ashford for generations â€” small people, tradesmen, one branch of them millers, another branch of them clerks. They had kept a shop on the High Street, and they had sold it, and they had kept a house, and they had kept the box.
 
-Elias Marr had a house on the lane past the mill. He collected objects without history. He had not left the house in years, that anyone had seen.
+No one remembered the box. No one remembered why it had been kept.
 
-And he had a book that the society wanted.
+I went to the house.
 
-I did not know how I would get to see it.
+It stood on a quiet street, small, well-kept, with a garden in front and a low wall. An old woman answered the door.
 
-But I had learned, in two years of keeping, that a man who keeps a house and does not leave it is a man who can be watched — and that a man who can be watched can be understood.
+I asked about the box.
 
----
+She looked at me for a long moment before she answered.
 
-I watched the house for a week.
+"The box," she said slowly. "Yes. There is a box. My grandmother had it. It sat on the shelf in the parlour, and no one was to touch it, and no one knew why."
 
-It stood on the lane past the mill, set back from the road, behind a wall of old stone. The windows were dark. No one came in or out that I saw, and no one left, and the house sat in its silence the way a house sits when it has been kept for a long time.
+"Where is it now?"
 
-I did not approach it. I watched from the lane, and from the fields beyond, and from the mill-yard corner, where I had a reason to be, and I learned the house's habits.
+"It is in the press, in the parlour." She looked at me. "It is going to auction. My son has decided it is worth nothing, and he would have the shelf for other things."
 
-There were none.
+"May I see it?"
 
-The house gave no sign of life. No lamp in the evening. No smoke from the chimney. No movement at the windows. It was as if the house were empty — and yet I knew it was not, because the society had told me Elias Marr kept it, and because the town said he had not left it in years.
-
-On the seventh day, I saw him.
-
-I was at the mill-yard corner, at dusk, and a light appeared in the upper window of the house — a small light, the kind of light a man lights when he is reading. It burned for an hour, and then it was carried through the house, from room to room, the way the lamp in the end house was carried, and then it went out.
-
-I watched the light go out, and I understood something.
-
-Elias Marr was in the house. He read at night. He carried his light through the rooms, the way a keeper carries a lamp, and then he put it out.
-
-He was a keeper of sorts.
-
-A keeper of objects that had been scrubbed of their history.
-
-And he had a book that the society wanted.
-
-I went home, and I wrote it in the red book, and I understood that I had been given a task that would require more than watching.
-
-It would require entering.
+She was silent a moment. Then she stepped back and let me in.
 
 ---
 
-I went to see Ysabel.
+The box sat on the shelf in the parlour, exactly as she had said.
 
-She was at her house near the river, and she let me in, and I told her about the task.
+It was small, of dark wood, no larger than a man's hand. The lid fitted closely. The clasp was of old brass, tarnished with age.
 
-"Elias Marr," she said slowly. "The collector of objects without history."
+I did not touch it at first.
 
-"You know him."
+I stood before it, in the parlour, in the afternoon light, and I looked at it.
 
-"I have heard of him." She looked at me. "He is not easy to approach. He does not receive visitors. He does not sell. He does not show."
+And I felt it.
 
-"The society wants a book he has," I said.
+Not the warmth of the object. Not the cold of the key. A different thing â€” a stillness, a weight, the sense of a thing that had been kept for a long time and was not done with being kept.
 
-"And they have asked you to find out what is in it."
+I had felt such things before. I had learned to trust the feeling, and to verify it.
 
-"Yes."
+"Do you know what is in it?" I said.
 
-Ysabel was silent a moment.
+"Nothing," the old woman said. "It is empty. It has always been empty. My grandmother said so, and her mother before her. It was kept because it was kept, not because there was anything in it."
 
-"I will tell you what I know," she said. "Elias Marr believes that the objects in his collection have one thing in common: that someone deliberately erased their origin. He believes they were scrubbed — that their histories were removed, on purpose, so that they could not be traced."
+I reached out. I lifted the box.
 
-"Why would anyone do that?"
+It was light. It was empty. I could feel that through the wood â€” the absence of weight, the hollowness.
 
-"That is what he is trying to find out," Ysabel said. "He has spent years collecting the objects, and years trying to understand why their origins were erased. He believes there is a pattern."
+I turned it over.
 
-"A pattern of what?"
+There was a mark on the underside.
 
-"I do not know." She looked at me. "But if there is a book in his collection that the society wants, it may be the book that explains the pattern."
+A small mark, worn almost smooth, nearly invisible against the dark wood.
 
-I stood in her house, in the cold light, and I understood.
+A circle.
 
-The book was not just a book. It was a key — a key to the pattern that Elias Marr had spent years trying to understand.
+Three lines through it.
 
-And the society wanted it.
+A single dot.
 
-I did not know what I would do.
+The first sign.
 
-But I knew that I would enter the house.
+I held it very still.
 
-I would find the book.
+The box was empty. The box was worth nothing. The family had kept it for a hundred years, not knowing what it was, not knowing why.
 
-And I would learn what was in it.
+And the first sign was on its underside.
+
+I did not take the box. I set it back on the shelf, carefully, in its place.
+
+"May I know the auction?" I said.
+
+The old woman gave me the name of the house and the date. It was the auction Adeline Brume had named.
+
+I thanked her. I left the house.
+
+I walked home through the streets of Ashford, with the mark of the first sign in my mind, and I understood that I had found what the box was worth.
+
+It was not worth nothing.
+
+It was worth more than anything the auction would ask for it.
+
+Because the first sign was on it.
+
+And the first sign was never without meaning.
 
 ---
 
-I went to the house on the eighth night.
+I went to see Adeline Brume on the day before the auction.
 
-I did not approach by the lane. I came across the fields, in the dark, the way a man comes when he does not want to be seen, and I came to the wall of old stone, and I found the gate, and the gate was not locked.
+She was at the lending library, at her table, as if she had been waiting for me.
 
-I stood at the gate a long moment.
+"You have found it," she said.
 
-I could not say whether I was doing the right thing. I had been asked to find out what was in the book, not to steal it. But I could not tell for certain how to find out what was in a book without opening it.
+"I have found it."
 
-I pushed the gate open. I crossed the garden. I came to the door of the house.
+"And what is it worth?"
 
-It was not locked.
+I was silent a moment.
 
-I stood at the door a long moment, with my hand on the latch. I had not broken in anywhere in two years. I had entered the common house, and the kept house, and the chamber — but those were mine to enter, places that had been waiting for the keeper. This was a man's house, and I had been sent to it, and the door was not locked, and I understood that the unlocked door was itself a message. A man who locks nothing is a man who expects someone.
+"The box is empty," I said. "It has been kept by a family for a hundred years, and it is empty, and they do not know what it is."
 
-I pushed it open.
+Adeline waited.
 
-The house was dark, and cold, and filled with objects.
+"It is worth nothing," I said. "At auction, it will fetch a few shillings, if that."
 
-I stood in the doorway, in the dark, and I looked at the room — and I understood that I had entered the collection of Elias Marr.
+"And yet you have come."
 
-Coins without years. Books without authors. Paintings without signatures. Clocks without mechanisms. Photographs without faces. Everywhere, objects that had been scrubbed of their origin.
+"And yet I have come." I looked at her. "Because there is a mark on the underside of the box. A circle, and three lines, and a dot. The first sign."
 
-And at the back of the room, on a table, under a lamp that was not lit, there was a book.
+Adeline was silent a long moment.
 
-I crossed the room. I did not touch the objects as I passed. I walked between them the way a man walks through a graveyard, careful not to disturb the dead. These things had been kept for a long time, and I understood, without being told, that the keeping mattered more to the man who lived here than the things themselves.
+"The first sign," she said.
 
-I reached for the book.
+"You know it."
 
-And a voice spoke from the dark.
+"I know it." She looked at me. "I have been looking for the first sign for twenty years. I have been looking for the things that bear it. And you have found another."
 
-"I wondered when you would come," said Elias Marr.
+I stood at the table.
 
-I turned.
+"The box is worth nothing," I said. "And it is worth everything. It is empty, and it has been kept. It bears the first sign, and no one has known it for a hundred years."
 
-He stood in the shadow of the stair, in a dark coat, with his hands at his sides. He was neither old nor young. His eyes were the eyes of a man who had waited a long time for a door to be opened.
-
-"You are the keeper," he said. "You are the man who found the clock, and the key, and the lock, and the letter of Aurelius Ashcroft."
-
-I did not deny it.
-
-"And you have come for my book," he said.
+"And what will you do?" Adeline asked.
 
 I was silent.
 
-He looked at me a long moment. Then he smiled — a small smile, tired and knowing.
+"I will not buy it," I said. "If I buy it, the family will know it is worth something, and the auction will be watched."
 
-"Then you are the man I have been waiting for," he said. "Sit down. I will show you what is in it."
+"Then what will you do?"
 
-I did not sit.
+I looked at her.
 
-"I have been asked to find out what is in the book," I said. "And how it came to you."
+"I will let it go to auction," I said. "I will let it sell for nothing. And I will follow it, and I will see who buys it â€” because the man who buys an empty box for nothing, at an auction where no one wants it, is the man who knows what the box is."
 
-He looked at me a long moment. "I know who asked you," he said. "The society has sent men to me before. They do not come to my door. They come through the fields, at night, the way you came." He paused. "I have refused them all. Do you know why I will not refuse you?"
+Adeline was silent a long moment. Then she smiled.
 
-"No."
+"That," she said, "is the correct answer."
 
-"Because you have come to find out what the book is," he said. "The others came to take it. There is a difference, and I have waited a long time to see whether a man who understood the difference would come." He looked at me, and his eyes were tired. "Sit down. I will show you what is in it. And in return, you will tell me what it is — what it means. I have kept it for years without knowing. I am tired of keeping a thing I do not understand."
+---
 
-I stood in the dark room, among the objects without history, and I understood that I had not broken into Elias Marr's house.
+The auction was on the following Tuesday.
 
-I had walked into a room that had been waiting for me.
+The box went up, and it sold for a few shillings, as I had said it would. The room was half empty. No one bid against the man in the dark coat at the back.
 
-And the book was the reason—but not the only one. The man himself had been waiting, and that waiting was a message I had not yet decoded. He had said he would show me what was in the book. He had not said how the book had come to him, and I had not yet asked, and I understood that the answer to that question might matter more than anything the pages contained. Somewhere in this town there had once been a hand that had scrubbed the origins from a hundred objects and then let them go. That hand had left this book in Elias Marr's keeping, and no one in the society had thought to tell me why.
+I watched him pay. I watched him take the box. I watched him leave.
 
-I followed him to the table.
+I did not follow him then. I sat in the auction room until the crowd had gone, and then I went out into the street, and I did not know what I had done â€” whether I had passed a test, or set a trap, or begun something I did not understand.
 
-And I sat down.
+But I knew that the man in the dark coat had the box now.
 
+And I knew that he had known what the box was.
+
+I walked home through the streets, and I wrote it all in the red book.
+
+And I understood that the tests were not over.
+
+The first test had been a room and three accounts.
+
+The second test had been a box and a mark.
+
+And the third test â€” I did not know what it would be.
+
+But I knew that it would come.
+
+The hunt had begun again.
+
+And I was in it, with no certainty that my method would hold. I had let the box go to follow the buyer; now I had to wait for the trail to lead somewhere, or to prove that I had been outmaneuvered.
+
+
+The hour 00:00 drew nearer, and with it the count of thirteen signs.

@@ -1,103 +1,101 @@
-CHAPTER 81 — THE YEAR TURNS
+CHAPTER 81 — THE TOWN
 
-The spring came again to Ashford. I had been keeper for a year. I had kept the forgetting. I had kept the remembering. I had written the account. I had kept the houses, the bell, the Tokens, the sign, the passage, the chamber, the place beneath. I had kept everything. And the spring came, and the snow melted, and the town woke from its winter sleep, and I was still the keeper.
+I began to walk the town differently. It had always been a habit of mine — walking the streets, watching the town, reading the faces and the windows and the doors. I had done it as a watchman, before the spring, when my duty had been to note what I saw and to report it. I walked the town differently now. I did not watch for signs of disturbance. I did not watch for the ordinary business of the town. I watched for forgetting.
 
-I could not say what I had expected. I had expected the keeping to end, perhaps. I had expected the bell to ring again, or the house to appear, or the keeper before Vale to return. None of it had happened. The spring came, and the town went about its business, and I kept the account. The year had turned, and nothing had been taken from me, and nothing given. I had only been allowed to go on keeping. And I had begun to understand that this was the keeping — not an event, not a single night, but a long patience with no visible end.
+It is a strange thing to walk a town and watch for forgetting. One does not see it the way one sees a broken shutter or a flooded yard. One sees it in what is not there — in the way no one looks up at Bellweather House as they pass the end of the lane, in the way no one speaks of the tower bell, in the way the common is just grass to everyone but me. I walked the High Street, and I looked at the people — the bakers, the clerks, the shopkeepers, the farmers come in from the fields — and I saw that they did not know. They did not know about the bell. They did not know about Bellweather House. They did not know about the passage, or the signs, or the Tokens, or the place beneath. They had forgotten. They had agreed to forget. And I was the only one who remembered.
 
-The snow went first from the fields, then from the lanes, then from the shadowed corners of the churchyard. The water ran in the gutters for a week. The lamplighter shortened his rounds as the evenings stretched, and the light came earlier each morning, grey at first, then pale gold. The town smelled of wet earth and tar and bread, and I walked through it all, and I was the keeper, and no one knew.
+I walked the streets, and I understood that the town had not forgotten because it was careless. It had forgotten because it had chosen. The agreement — the town's agreement — was the choosing. The town had agreed to see nothing, and to speak of nothing, and to forget. And the town had kept its agreement. It had forgotten.
 
-I had written the red book full in the winter. I had written everything I had learned. And I had begun to understand that the account was not finished and would never be finished; the keeping would continue, and the account would continue with it. A book that is full is not a finished book; it is only a book that has reached the edge of its pages, and the keeping flows past the edge the way the thaw flows past the gutters, finding its own way onward.
+I had the agreement. The agreement signed by Aurelius Ashcroft. And I understood that the agreement was not the document I kept in my drawer. The agreement was the town. The town was the agreement — the living agreement, the forgetting made flesh, the choice made over and over, every day, in every street, in every face that did not know.
 
----
+I walked the town, and I was the keeper of the remembering, and I walked among the forgetting.
 
-That spring, for the first time, I did not merely walk the boundary. I walked it as a surveyor walks a line he intends to map — slowly, deliberately, reading every stone as if it were a word in a sentence I had not yet learned to parse. I began at the eastern marker, where the first sign was cut into the base, and I knelt in the wet grass and looked at it for a long time. The circle. The three lines. The dot. The mark had not faded in the year since I had first understood it. It had been cut before writing, and it would outlast the hand that held it and the town that had agreed to forget what it meant.
+The forgetting had its own geography. I mapped it as I walked. The end house at the corner of the lane, where the lamp was lit at nine each night by a hand no one saw — the people passed it without looking, and the lamp was lit, and no one said anything, and that was the forgetting. The woman at the gate of the lower pasture, who had told me once, years ago, that she had seen a light move through an empty house — I stopped at her gate one afternoon, and she came out to meet me, and she remembered me.
 
-I walked the whole line that day, from the eastern marker to the river, from the river to the far wood, and back again. The fourth stone stood where it had always stood, and the hairline mark still lay across its face, unchanged. I put my hand flat against the stone, and I felt the cold of it, and the faint warmth of my own palm, and nothing else. The wall held. And yet I could not shake the sense that the boundary was not a thing that held the town in; it was a thing that held something else out, and that the two acts were not the same.
+"You were the watchman," she said. "You walked at night."
 
-I stood at the fourth stone for a long time, and I thought about the difference. A wall that holds a town in keeps the town together. A wall that holds something else out keeps the town separate. I had walked the boundary for a year believing it was the first, and I had begun to suspect it was the second, and I did not know which of the two the keeping required.
+"I did."
 
-I began to write in the red book not just what I had learned, but what I suspected. I wrote: The boundary holds. But I do not know what it holds against. The stones do not change. But I have begun to wonder whether that is because they are strong, or because they are waiting.
+"You asked me once about a light."
 
-I did not know the answer. I only knew that the question had become part of the keeping.
+"I did," I said. "You told me you had seen a light move through an empty house."
 
----
+She nodded. "I saw it," she said. "I saw it move from window to window, and there was no one in the house, and it was winter, and I told you, and you wrote it in your book."
 
-I went to the vestry, on a day in early spring, and I spoke to the clerk. The vestry was cold, and the clerk was at his desk, with the books he had kept for forty years arranged around him, the light coming in at the high window in a single pale shaft.
+"And you never wondered what it was?"
 
-"The account," I said. "I have written it. I have written everything I have learned."
+She looked at me. "It was a light in a house," she said. "There is a light in a house. That is what it was."
 
-The clerk looked at me. "You have written the account of the keeping."
+She had not said it as a mystery. She had said it as a fact of the town, the way one says that it rains in winter. And I understood, standing at her gate, that even the ones who saw the strangeness of Ashford did not see it — that they had agreed, without knowing they had agreed, to let the strangeness be ordinary, and to let the ordinary be enough.
 
-"I have."
+That was the deepest part of the forgetting. Not that the town did not know. But that the town had made the unknown into a fact of daily life — a lamp that moved, a house that appeared, a bell that did not ring — and had decided, over generations, that these things were not questions. They were weather. And weather was not asked about.
 
-"And you will keep it."
-
-"I will keep it," I said. "And I will pass it on."
-
-He was silent. "To whom?"
-
-"I do not know," I said. "To the keeper who comes after me."
-
-"The keeper who comes after you." He looked at me. "You do not know who that will be."
-
-"I do not know. But I know that the account will be kept."
-
-I looked at the books on his desk. "You have kept these for forty years," I said. "Did you know who would keep them after you?"
-
-The clerk was silent a long moment. "I knew there would be someone," he said. "I did not need to know his name. The vestry does not end because a clerk grows old. It is kept, and the keeping passes. I have never seen the hand that will hold these books when I am gone. I have never needed to." He looked at me. "The keeping is not the keeper's. The keeper is the keeping's."
-
-I stood in the vestry, and the words settled into me the way the thaw settles into the ground. I had believed I held the account, that it would pass through my hands to a hand I would never see. The clerk was telling me that the account held me — that I was a page in it, a line, a keeper's mark, and that the book would go on without me the way it had gone on without the first keeper.
-
-He nodded. "Then the keeping is whole," he said. "The forgetting is kept. The remembering is kept. The account is written."
-
-I stood in the vestry. The clerk had said the same words as the keeper before Vale. The keeping is whole. I had not known, until that moment, that I had been waiting for someone to say that to me. But I was not certain I believed it. The account was whole, yes — but only because I had written what I knew. What I suspected, what I feared — those were not in the book. They could not be, not yet. To write a suspicion as if it were a fact would be to make the account a lie. And the account was the one thing I could not lie in, because the account was the remembering, and a remembering that lies is a forgetting wearing a good coat.
-
-I left the vestry. I walked through the streets of Ashford, in the spring light, and I understood that the keeping was not a thing I had to do. It was a thing I was. I was the keeper. And I walked among them with the knowledge the way a man carries a lit lamp in the middle of the day — visible only to himself, and all the brighter for it.
+I was the keeper of the remembering. And I walked among a town that had made the mystery into weather.
 
 ---
 
-I went to the bakery that afternoon. Margaret was behind the counter, and the shop smelled of the first warm bread of the season.
+I went to the bakery. The heat of it met me at the door, and with it the smell of bread and flour and the faint sharpness of the fire. Margaret was there, as she always was, behind the counter, her sleeves rolled, a film of flour on her arms. She looked at me when I came in, and her look was not the look of a woman surprised to see a customer. It was the look of a woman who had been watching the street and had seen me coming.
 
-"You have been to the fields again," she said. "Your boots are wet."
+"You are thin," she said. "You have not been eating."
 
-"I have been walking."
+"I have been busy."
 
-"Walking." She set a loaf in front of me. "You walked the fields all winter. You walk them all spring. You will walk them all summer. And you will tell me nothing about why."
+"Busy." She set down the cloth she was holding. "You have been to the church. You have been to the lane. You have been to Goding's farm. You have been busy."
 
-I looked at her. "There is nothing to tell."
+I looked at her. "How do you know?"
 
-"There is always something to tell," she said. "A man does not walk the same fields week after week because there is nothing to tell. He walks them because there is something he is watching, and he does not want to be watched watching it."
+"I know." She came around the counter. "I have known you since you came to Ashford, Leon. I have watched you. I saw you the winter, when you were asking about the bell. I saw you in the spring, when you were asking about the stones. I see you now, walking the streets, looking at people as if you are the only one who knows something."
 
-I was silent. She was the town. She was the agreement, and I could not tell her what she had agreed to forget. But she was also Margaret, who had known me since I had come to Ashford, and who saw more than the forgetting allowed.
+I was silent. She had come to stand close, and the flour was on her apron, and the heat of the ovens was on her, and she looked at me the way she had looked at me for years — as if I were a loaf that would not rise, and she had decided to be patient with it.
 
-"I am watching the boundary," I said. It was not a lie, and it was not the truth.
+"What is it?" she said. "What have you found?"
 
-"The boundary," she said. "The stones. The wall. The same stones and the same wall for a hundred years. What is there to watch?"
+I did not answer. I could not tell her. She was the town. She was the agreement. She had forgotten, as the town had forgotten, and I could not tell her what she had agreed to forget.
 
-"That is what I am trying to find out," I said.
+"I cannot tell you," I said.
 
-She looked at me a long moment. Then she wrapped the loaf, and she took my coins, and she said, "When you find out, Leon, I hope you will still know how to eat bread."
+"Why not?"
 
-I took the loaf, and I walked home, and I thought about what she had said. The town had made the mystery into weather, and weather was not asked about. But Margaret had asked. She had asked about the man, and the walking, and the silence. The forgetting was not complete. It could not be.
+"Because you agreed not to know."
+
+She looked at me a long moment. The patience in her face did not leave it, but something else came into it — something I could not name, that was not anger and not curiosity, but older than both. "I agreed to nothing," she said. "I have not agreed to anything. I am a baker. I make bread. I have never agreed to forget anything."
+
+I stood in the bakery. She had not agreed. She did not know she had agreed. The agreement was not a document she had signed. It was a forgetting she had inherited. And I could not tell her, because the telling would be the beginning of the remembering — and I could not yet tell whether the town was ready to remember.
+
+"I have to go," I said. I left the bakery. The heat fell away from me at the door, and the cold took me, and I walked the streets, and I understood that Margaret was the town — the town that had not agreed, because it did not know it had agreed, because the agreement was older than any of them. The agreement was the forgetting. And the forgetting was the town.
+
+I was the keeper of the remembering. And I did not know whether the town was ready to remember.
 
 ---
 
-I did not put the red book in the drawer that night. I left it on the desk, open to the last page. I had written about the snow, and the spring, and the keeper before Vale, and the account. I had not written about the passing — about what I would do when I was no longer the keeper, because I had not yet learned to imagine that day.
+I went to the vestry. The clerk was there, among his ledgers, his pen dry in its stand, the lamplight falling on the open book before him. He had kept these books for forty years. He had told me so, and I had not known how to answer, and I had thought of him ever since as a man who had spent his life writing down the town and had left the signs blank. I had come to ask him something I had not asked before.
 
-I sat at the desk, and I took up my pen, and I wrote:
+"The town," I said. "The agreement. The town agreed to see nothing, and to speak of nothing, and to forget. Who made that agreement?"
 
-I am the keeper. I have kept the forgetting. I have kept the remembering. I have written the account. I will pass it on. The keeping is whole.
+The clerk was silent. "The agreement," he said slowly, "is not written. It is kept. It is kept the way the signs are kept — in the margins, in the hands of those who do not know what they are keeping."
 
-But as I set down the pen, I understood that the sentence was not entirely true. I would pass on the account, yes. But the keeping — the keeping was not a thing that could be passed. It was a thing that had to be taken up. And I did not know whether the keeper who came after me would take it up, or whether it would take him.
+"Then who keeps it?"
 
-I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the Tokens away. I left them on the desk, and I sat in the dark, and I was content. The account would outlast me. That was all I needed to do — except that the questions were still there, in the dark with me.
+"You did," he said. "Before you, Vale kept it. Before Vale, the keeper before him. The agreement is kept by the keeper."
 
-The year had turned. I had turned with it. And I was still the keeper. That, at least, I could say with certainty — even if the certainty was all I had.
+I stood in the vestry. The agreement was kept by the keeper. I was the keeper. I had been keeping the agreement without knowing that the agreement was the forgetting.
 
-I stood at the window in the grey light, and I looked at the town waking beneath the first warmth of the year. The snow was gone from the fields. The lamplighter moved along the High Street. The bakery was open, and I could smell the bread. It was an ordinary morning, and I was the keeper of the forgetting and the remembering, and no one knew it. Margaret had asked what I was watching. The clerk had told me that the keeper was the keeping's. And I carried both of those with me the way I carried the Tokens — warm, and mine, and not mine.
+"I am the keeper," I said. "I keep the agreement. I keep the forgetting."
 
-I did not know how long the keeping would hold me, or when the bell would ring again, or whether the house would appear. But I knew that I would keep the account, and that I would pass it on, and that the keeping would continue after me — not because I had made it strong, but because it had been strong before I was born.
+"You are the keeper," he said. "You keep what the keeper keeps."
 
-I closed the window. I went back to my desk. I opened the red book to a fresh page, and I wrote the date, and I began the account of the second year. The page was blank, and the blankness was the first thing the second year had given me. I set down the pen, and I understood that I was not writing for myself but for the hand that would hold the book when mine was gone — the keeper I could not name, the one the keeping would take up next. And I wondered whether that keeper would find in these pages a man or only a duty.
+"And the account?" I said. "The remembering? Who keeps that?"
 
-I did not know. I had begun the account of the second year, and the answer was not in the book yet. It was still being kept.
+The clerk was silent a long moment. He looked down at the open ledger, at the blank place where, I understood, a sign would never be written. "The account is yours," he said. "The keeping of the remembering is the keeper's own. It is not the agreement. It is not the town. It is the keeper's."
+
+I stood in the vestry. The agreement was the forgetting. The account was the remembering. And both were kept by the keeper. I had been keeping the agreement — the forgetting — without knowing. And I had been writing the account — the remembering — without knowing what it was.
+
+I understood, standing in the vestry, that I was the keeper of both. The forgetting, and the remembering. The agreement, and the account. And I understood that I had to choose. Not between them. But what to do with them. I was the keeper of the place beneath. I was the keeper of the forgetting. I was the keeper of the remembering. And I did not know what the keeping was for.
+
+I went home. I sat at my desk. I opened the red book. I wrote:
+
+The agreement is the forgetting. It is kept by the keeper. The account is the remembering. It is written by the keeper. I keep both. I do not know what the keeping is for. But I know that I am the keeper. And I know that the town has forgotten, and that I remember. I do not know what I will do. But I will keep the account. I will remember.
+
+I closed the red book but did not return it to the drawer. Margaret's objection had made the danger plain: a town was not an agreement in the abstract, but people who could neither recall nor consent to what had been withheld from them. I left the book open beside the Tokens, uncertain whether my silence protected Ashford or merely made me comfortable with deciding for it.
+
+The town slept above the chamber. The lamp at the end house was lit, and no one looked at it, and the woman at the gate of the lower pasture had seen a light move through an empty house and had called it weather. I was the keeper of the remembering, and I walked among them, and I held their forgetting for them, and I did not know whether I held it to protect them or to spare myself. And I wondered whether the town would ever ask — whether there would come a day when a face in the street turned to me and said, What do you know, and I would have to answer, and the answer would begin the remembering.

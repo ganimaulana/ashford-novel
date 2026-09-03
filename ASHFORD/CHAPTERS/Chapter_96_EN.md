@@ -1,187 +1,135 @@
-﻿CHAPTER 96 — THE WOMAN AT THE DOOR
+CHAPTER 96 — THE THREE CLOCKS
 
-I did not find the lock.
+I had three clocks.
 
-I carried the key with me for weeks. I tried it in every old lock I found — in the church, in the vestry, in the houses I visited, in the market. It fit none of them.
+I set them on the desk, side by side, in the order of their numbers. I, III, IV. The second was missing. Somewhere in Ashford, or beyond it, the woman in the dark coat had the second clock. She had bought it from the Fenn family years ago, and she had not been seen since.
 
-I began to think that the lock was not in Ashford. That the key had been made for a door that had been destroyed, or moved, or sealed so long ago that no one remembered where it was.
+I could not yet tell where she was. I could not say how to find her.
 
-I kept the key in my coat, beside the object, and I kept the clocks in the drawer, and I kept the account.
+But I had three clocks. And I had the first sign on all of them.
 
-The winter settled over the town, and the town settled into its keeping, and I settled into the rhythm of it — the same rooms, the same circuits, the same questions asked and not answered. The key stayed cold against my chest. The clocks stayed in the drawer. The account stayed open.
+I took out the object. I set it beside the clocks. The same mark. The same circle. The same three lines. The same dot.
 
-And then, one evening, she came to my door.
+The first sign was on the object. The first sign was on the clocks. The first sign was on the wall of the common house, and on the door that was not a door, and in the chamber beneath Bellweather House.
 
-I was at my desk when I heard the knock. It was not a knock I knew. It was not Theo's, or Marianne's, or the clerk's. It was a knock I had heard once before, in a lane behind the market.
+I had thought the first sign was a single thing. One mark. One meaning. One mystery.
 
-I opened the door.
+I had been wrong.
 
-She stood in the doorway, in the dark coat, her face half in shadow. Ysabel Nott.
+The first sign was not a single thing. It was a signature — a signature that appeared on objects that had been kept, or hidden, or marked for a purpose I did not yet understand. It was the hand of someone who had passed through Ashford and left his mark where he had been, the way a man signs a letter he means to be read, or a receipt he means to be honoured.
 
-She did not speak. She looked at me, and I looked at her, and neither of us moved.
+The object. The clocks. The wall of the common house. The door.
 
-"I have been looking for you," I said.
+I did not know what connected them. But I knew that they were connected.
 
-"I know."
+I sat at the desk until the lamp burned low. I turned each clock over in turn. The marks were the same on all three, but they were not quite the same, either. On the first clock the mark was worn almost smooth, as if it had been handled for years. On the third the lines were deeper, cut with more force. On the fourth they were fainter, as if the hand had tired, or the metal had resisted.
 
-"You have the second clock."
+Three marks. One hand. I was certain of that now — the same hand had cut all three. I could not say how I knew. But I knew, the way you know a familiar handwriting when you see it again, even after years, even in a different pen.
 
-She was silent a moment.
+The same hand that had signed the object had marked the clocks.
 
-"I have the second clock."
-
-"I have the others."
-
-"I know."
-
-She looked past me, into the room, at the desk where the clocks were not. Her eyes moved over the room the way they must have moved over a hundred rooms in twenty years — cataloguing, comparing, weighing what was present against what was absent.
-
-"I know you have three clocks. I know you have the key. I know you have been looking for the lock."
-
-I stood in the doorway.
-
-"How do you know?"
-
-"Because I have been looking for them for longer than you have," she said. "And I have been watching you since you found the first one."
-
-I could not say what to say.
-
-She was silent a moment. Then she reached into her coat and took out a clock.
-
-The second clock.
-
-She held it out to me.
-
-I did not take it.
-
-"Why?" I said.
-
-"Because you have the others," she said. "And because I have been looking for them for twenty years, and I have not found what they are for."
-
-I took the clock.
-
-It was the second clock. I did not need to open it. I knew the number inside was II.
-
-"Why are you giving it to me?" I said.
-
-"Because you found the other three," she said. "Because you found the key. Because you are looking for something, and I do not know what it is."
-
-I looked at her.
-
-"Who are you?" I said.
-
-She was silent a long moment.
-
-"My name is Ysabel Nott," she said. "I have been looking for the four clocks since I was a young woman. I have been looking for the key since I learned it existed. I have been looking for the lock since I understood that the key and the clocks were part of the same thing."
-
-"And you have not found it."
-
-"No."
-
-She looked at me.
-
-"I have been looking for twenty years," she said. "I have found the second clock. I have found the key's history. I have found the name of the man who made the lock. But I have not found the lock."
-
-"Who made the lock?"
-
-She was silent a moment.
-
-"Aurelius Ashcroft."
+And I had no way of knowing where that hand had gone.
 
 ---
 
-I stood very still.
+I examined the three clocks more carefully.
 
-The lock was made by Aurelius Ashcroft.
+I opened each one. I looked at the mechanisms. They were identical — the same make, the same period, the same maker. Hollis, the clockmaker from the 1770s. The wheels and springs and gears lay open before me, three copies of the same small world, stopped at different hours. One was stopped near noon. One near the middle of the night. One at an hour I could not read, the hands fallen loose.
 
-The key opened a lock made by Aurelius Ashcroft.
+I looked at the numbers inside the cases. I, III, IV. Scratched into the brass, faint but deliberate. I held them to the lamplight, tilting each case until the scratched line caught the glow. The same hand had made them. The same angle. The same pressure.
 
-The clocks were marked with the first sign, and the key was marked with the first sign, and the lock was made by the man who had signed the Agreement.
+I did not know what the numbers meant. But I knew that they were not the order of manufacture. Hollis had made twelve clocks. Only four bore the first sign. The numbers were something else. Something added later, by the hand that had cut the mark, at the same time and for the same reason.
 
-I had been looking for the lock. I had not known that the lock was connected to Aurelius.
+I looked at the marks on the backs. The first sign, worn smooth on each one. The same circle. The same three lines. The same dot.
 
-The name came to me the way it had always come — from the margins, from the edges, from the places where a man's name is written when the records refuse to hold it. Aurelius Ashcroft. The man who had made the Agreement. The man who had made the wall. The man whose blood, I had been told, ran in my own veins.
+I had thought the first sign was the sign of the maker.
 
-"Where is the lock?" I said.
+But the clocks were made by Hollis, not by the maker of the first sign. The mark had been added after the clocks were built. Someone had taken four clocks, and had added the first sign to them, and had numbered them, and had sent them out into the world — one to the Fenns, one to the Harlows, one to the Wintours, one to the Langfords.
 
-"I do not know," she said. "But I know that it is in Ashford. I know that it has been hidden for a hundred years. And I know that the man who hid it was the same man who made the Agreement."
+I could not say who.
 
-She looked at me.
+I could not tell for certain why.
 
-"You are the keeper," she said. "You have the clocks. You have the key. You have the first sign. And you have the blood of Aurelius Ashcroft in your veins."
+But I knew that the four clocks were meant to be found. Not by anyone. By someone. The numbers were not for the families who kept the clocks. The families never opened them. The numbers were for whoever came after — whoever opened the cases and found the marks inside.
 
-She was silent.
+And I had found three of them.
 
-"If anyone can find the lock, it is you."
+Three clocks. Three numbers. Three signs.
 
----
-
-I stood in the doorway, with the second clock in my hand, and I did not know what to say.
-
-I had been looking for the lock. I had not known that the lock was made by Aurelius. I had not known that the key and the clocks were part of the same thing.
-
-I had been hunting for months. I had found the clocks. I had found the key. I had found Ysabel Nott. And now I knew that the lock was made by Aurelius Ashcroft.
-
-I did not know where it was.
-
-But I knew that I would find it.
-
-I looked at Ysabel.
-
-"Will you help me?" I said.
-
-She was silent a moment.
-
-"I have been waiting twenty years for someone to ask me that."
-
-She stepped inside.
-
-The door closed behind her. The cold came in with her and stayed, and I understood that the room had changed — that the keeping had changed — that I was no longer a man holding questions alone.
-
-The hunt was not over. It had only just begun. And the lock, I knew, would be the next piece of the count of thirteen signs — the piece that would lead me toward the hour when the bell would call at 00:00.
+I set them in a row again. I, III, IV. I left a space where the second should have been. The four clocks were a sequence, I thought, and the sequence was broken, and I did not know what it was counting toward.
 
 ---
 
-But as she stepped inside, I understood that I had not found an ally so much as I had found a witness.
+I went to the church that evening.
 
-Ysabel had been looking for twenty years. She had found the second clock, and the key's history, and the name of the man who made the lock. But she had not found the lock.
+I had not been to the tower since the bell had rung. I had not needed to. The bell was silent. The key was in my drawer.
 
-And I — I had found the other three clocks, and the key, and the first sign. I had found them quickly, in months, the way a thing is found when it has been waiting to be found.
+The church was dark. The door to the tower was unlocked, as it had always been for the keeper. I climbed the stairs. The steps were worn. The air grew colder as I rose, and the sound of the town below faded until there was nothing but my breath and the scuff of my boots on the stone.
 
-Together, we knew more than either of us had known alone.
+I stood in the bell chamber. The bell hung in the dark, silent, the first sign on its rim.
 
-But we still did not know where the lock was, or what it held, or why Aurelius had made it.
+I took out the object. I held it up to the mark on the bell.
 
-I set the second clock on the desk beside the drawer. I did not open it. I did not need to. I knew the number inside was II, and I knew that it belonged with the others, and I knew that the sequence — whatever the sequence was for — had been made whole in my keeping for the first time in a hundred years.
+The object was warm.
 
-She watched me do it. She did not speak. She had given the clock into my keeping, and she was watching to see what I would make of it, the way she must have watched a hundred men in twenty years and found none of them worth the giving.
+I had not held it to the bell since the winter. I had not needed to. The bell was the keeper's bell. The object was the first sign. They were connected. I had known that.
 
-The count of thirteen signs was not complete. And the bell had not called.
+I held the object against the first sign on the bell, and I thought about the clocks.
 
-But it would, at 00:00, when the count was ready. And we would be there — the keeper and the hunter, the woman who had waited and the man who had been found — ready to answer, ready to open the lock, ready to see what Aurelius had hidden.
+The first sign was on the bell. The first sign was on the object. The first sign was on the clocks.
 
-I did not know what we would find.
+The bell had rung once, in the winter, and I had not known why. I had thought it was the boundary, or the houses, or the door. But perhaps it had not been any of those. Perhaps the bell had rung because the keeping was not finished. Perhaps it had rung because there was something I had not yet been given — and the clocks were the giving of it.
 
-I did not know whether the hour would ever come.
+I had no way of knowing what the bell had to do with the clocks. I could not say whether it had anything to do with them at all.
 
-But the clock was in the drawer now, with the others, and the key was cold against my chest, and Ysabel Nott was sitting in my room by the lamp, and I understood that the hunt had taken its next step.
+But I stood in the bell chamber, with the warm object in my hand, and I understood that the first sign was not a single mystery. It was a thread. A thread that ran through the object, and the bell, and the clocks, and the houses, and the chamber, and the place beneath.
 
-I sat at my desk.
+I had found three clocks. I had found the first sign on each of them.
 
-I opened the red book.
+I could not tell for certain what it meant.
 
-I wrote:
+But I knew that I was following the thread.
 
-Ysabel Nott has given me the second clock. She has hunted for twenty years. She knows the name of the man who made the lock.
+And I knew that the thread would lead somewhere.
 
-The lock was made by Aurelius Ashcroft.
+---
 
-I did not know that the lock was connected to him. I did not know that the key and the clocks were part of the same thing.
+I did not sleep that night.
 
-Now I know.
+I sat at my desk, with the three clocks before me, and I thought about the second clock. The woman in the dark coat had taken it, years ago. She had been looking for the clocks. She had known about them long before I had. She had stood at the door of the Fenn house and paid for the clock, and she had stood at the end of a lane and looked at the clock in my coat, and she had said that the object was lost long ago.
 
-I have four clocks. I have the key. I have the name of the maker of the lock.
+I had no way of knowing who she was. I could not say where she was. I could not tell for certain whether she was still looking.
 
-I will find the lock.
+But I knew that I had to find her.
 
-I closed the book, and the second clock was in the drawer, and the count had moved one step closer to its end — and I could not say whether that was the hour I was waiting for, or the hour that was waiting for me.
+Not because she was the enemy. I did not know that she was. She had been hunting the clocks for longer than I had, and she had one of them, and if the four clocks were a sequence, then the sequence could not be completed without her.
+
+I opened the drawer. I took out the red book. I wrote:
+
+*I have three clocks. The second is missing. The woman in the dark coat took it. I do not know who she is.*
+
+*But I have three clocks. I have the first sign on all of them.*
+
+*I do not know what they are for. But I know that they are connected. And I know that I am meant to find the second.*
+
+*I will find her.*
+
+*I will find the second clock.*
+
+*And I will learn what the four clocks are for.*
+
+I closed the red book. I put it back in the drawer.
+
+I looked at the three clocks on the desk. The first sign was on all of them. The numbers were inside them. I, III, IV. The second was a space on my desk, and a clock in the hands of a woman I could not find.
+
+I was a keeper. I was a hunter.
+
+And the hunt was not over.
+
+I had no way of knowing where the thread would lead. But I would follow it.
+
+I had three clocks.
+
+I would find the fourth — I had found the fourth; I meant the second. I would find the second clock. And I would find the woman in the dark coat.
+
+The three clocks sat together, and their three first signs were the map of something larger than any single keeper. The hunt was no longer mine alone.

@@ -1,829 +1,753 @@
-CHAPTER 46 — THE RENEWAL
+CHAPTER 46 — THE WATCHER'S BURDEN
 
-The old constable was dying.
+Graves returned three nights after the stone was moved.
 
-He did not use the word himself.
+I recognized him before he spoke.
 
-He did not need to.
+He was standing beneath the awning of a closed shop on High Street, where the rain had gathered in shallow pools along the pavement. Most people had already gone home.
 
-The first time I visited him that week, he was sitting beside the window with a blanket over his knees. The fire had been lit, but the room was still cold.
+He did not appear to be waiting for anyone.
 
-He looked smaller than he had before.
+Perhaps that was deliberate.
 
-Not older.
-
-Smaller.
-
-As though something had been taken from him gradually and he had only recently noticed.
-
-"You came," he said.
-
-"You asked me to."
+"You left the stone where it was," he said.
 
 "I did."
 
-His voice was weaker than usual.
-
-I pulled the chair closer.
-
-For a while neither of us spoke.
-
-Rain moved softly against the glass.
-
-Then he said:
-
-"How many stones have cracked?"
-
-"Three."
-
-His eyes closed.
-
-"Only three?"
-
-"So far."
-
-He opened them again.
-
-"That is not good."
-
-"You know why?"
+"You were told to move it."
 
 "No."
 
-The answer came without hesitation.
+His eyes narrowed slightly.
 
-I studied him.
+"Then you chose not to."
 
-"You've spent fifty years watching them."
+"I chose not to move something I didn't understand."
 
-"Watching is not understanding."
+"That's becoming your habit."
 
-I almost smiled.
+"Perhaps it should be."
 
-"You've said that before."
+For a moment, he said nothing.
 
-"I was hoping you would remember."
+Then he stepped away from the wall.
 
-He reached for the glass of water beside him.
+"You should know something."
 
-His hand trembled.
+"I've heard that before."
 
-I took it and gave it to him.
+"The agreement is incomplete."
 
-After drinking, he placed it back on the table.
+The words were simple.
 
-"The time has come."
+I watched his face.
 
-"For what?"
+"How do you know?"
 
-He looked toward the window.
+"I've seen the original."
 
-"The renewal."
+"Where?"
 
-I waited.
+"That isn't important."
 
-He did not explain.
+"It is if you expect me to believe you."
 
-"What does that mean?"
+He smiled.
 
-"It means what it has always meant."
+"You shouldn't."
 
-"That's not enough."
+That answer stopped me.
 
-"No."
+Most people who wanted to persuade you began by asking for your trust.
 
-He seemed almost amused.
+Graves seemed almost offended by the idea.
 
-"You've become impatient."
+"What exactly is incomplete?"
 
-"I've become tired of being given half an answer."
+"Something was omitted."
 
-"Good."
+"By whom?"
 
-He coughed.
+"Aurelius."
 
-The sound lasted longer than I expected.
+I felt the name settle between us.
 
-When it passed, he remained still for several seconds.
+I had heard it before.
 
-Then he said:
+My family name.
 
-"I kept the agreement for fifty years."
+The name attached to the old document.
 
-I looked at him.
+The name that had appeared where I least wanted to find it.
 
-"And now?"
+"What did he omit?"
 
-His eyes met mine.
+Graves looked toward the dark end of the street.
 
-"Now someone else must keep it."
+"That depends on which version you believe."
 
-I knew what he meant before he said my name.
+"Give me yours."
 
-"You."
+He hesitated.
 
-He did not send me away.
+Then said:
 
-Instead, he asked me to close the curtains.
+"He didn't simply leave something beneath Ashford."
 
-I did.
+"What did he do?"
 
-The room became darker.
+"He left something that belonged to your family."
 
-He reached beneath the table and brought out a wooden box.
+I stared at him.
 
-It was old.
-
-The hinges had been repaired more than once.
-
-It was the size of a case for documents, and heavier than its size suggested when he pushed it across the table.
-
-He placed it between us.
-
-"Open it."
-
-Inside was the accumulation of a long life lived in one room.
-
-Papers, folded and refolded until the creases had gone soft.
-
-A bundle of letters tied with tape, the tape gone brown.
-
-Beneath them, a service journal — dark leather, the spine broken, the edges of the pages dirty from years of a coat pocket.
-
-A district map, not of Ashford. The kind of map a constabulary prints and does not sell. There were marks on it in ink, small and regular, in more than one shade, as though they had been added over a long stretch of years.
-
-Two small bottles, stoppered, labelled in a hand I did not know.
-
-A brass button, military, worn smooth on the face.
-
-A woman's ring, too small for any finger of his.
-
-And at the bottom, beneath all of it, a folded piece of cloth.
-
-He removed it carefully.
-
-The cloth was empty.
-
-"This is where it was kept," Vale said. "For fifty years. And then, when the time came, it was set where a thing must be found and not given. You found it at the mill."
-
-I understood. What I had carried in my coat and what the box had held were not two gears. They were one. The gear had left the box the day it was set beneath the clock, and it had passed to me the night I knelt in the mill and picked it up. I took it out, unwrapped my own cloth, and set it on the table between us.
-
-He looked at it for a while.
-
-Then he looked at the box.
-
-"These are mine," he said. "Not the parish's. Not the Order's. Mine."
-
-"I know."
-
-"There is no one to leave them to."
-
-He said it the way a man states a measurement.
-
-"Keep the box."
-
-"What is in it?"
-
-"What you have seen."
-
-"That is not an answer."
-
-"No."
-
-He closed his eyes for a moment.
-
-"Some of it is nothing. A button. A ring. A map I could have burned thirty years ago. Some of it I have never understood, and I have had fifty years to try. I cannot tell you which is which."
-
-"Then how am I to know?"
-
-"You will not," he said. "Not for a long time."
-
-I put my hand on the journal.
-
-"May I read this?"
-
-"You will read it whether I say yes or no." He did not sound displeased. "Read it in order. Not the end first. A man who reads the end first learns what happened and never learns why."
-
-"Is there something in it you do not want me to find?"
-
-"There is a great deal in it I did not want anyone to find. That is why it is in a box and not in an office."
-
-I looked at the box.
-
-"Why me?"
-
-He did not answer that.
-
-He looked at the gear on the table instead — the one thing I had brought to the room rather than found in it.
-
-"Do you know what this is?"
-
-"A gear."
-
-He gave a faint smile.
+"That's a very different claim."
 
 "Yes."
 
-"Do you know what it does?"
+"What is it?"
 
-"No."
+"I don't know."
 
-"Good."
+"Then how can you say it belonged to my family?"
 
-I frowned.
+"Because that's what the record says."
 
-"You've just spent fifty years guarding it."
-
-"Guarding is not the same as knowing."
-
-He touched the edge of the cloth.
-
-"This object has been used before."
-
-"By Aurelius?"
-
-"Perhaps."
-
-"Perhaps?"
-
-"I wasn't there."
-
-"But you know it was used."
-
-"I know that the old records describe something that behaves like this."
-
-"Something?"
-
-He nodded.
-
-"Words become unreliable when people write about things they don't understand."
-
-I turned the gear so the band of letters caught the light.
-
-"There are words on it."
-
-"I know what is on it."
-
-"Do you know who cut them?"
-
-"No."
-
-"Do you know what they mean?"
-
-He was quiet long enough that I heard the fire settle.
-
-"I have read that sentence for fifty years," he said. "I can tell you it has not changed. I can tell you it is not a name, and not a date, and not a maker's mark. I cannot tell you what it is for."
-
-"Then it says nothing."
-
-"It says exactly what it says," he said. "That is the difficulty. A thing that says nothing can be set aside. A thing that says something and will not say more must be carried."
-
-I picked up the gear from the table.
-
-It was cold.
-
-For several seconds, nothing happened.
-
-Then warmth slowly spread through the metal.
-
-The old constable watched my face.
-
-"You've felt it before."
-
-"Near the stones."
-
-"Only the stones?"
-
-I thought about the house.
-
-The mill.
-
-The door.
-
-"Near the boundary."
-
-He nodded.
-
-"Then you know enough."
-
-"Enough for what?"
-
-He looked toward the closed curtains.
-
-"To decide whether you are willing."
-
-"Willing to do what?"
+"What record?"
 
 He did not answer.
 
-He closed the box and pushed it the last inch across the table, so that it stood on my side of it and not on his.
+Instead, he asked:
 
-"Take it with you when you go."
+"Do you know what an inheritance is?"
 
-The weight of expectation was already on me.
+"Property passed from one generation to another."
 
-"And the mill?"
+"Sometimes."
 
-"You know where."
+"And sometimes?"
 
-"Tonight?"
+"Sometimes it is a debt."
 
-He nodded.
+The rain struck the awning above us.
 
-I carried the box home under my coat. It was awkward rather than heavy, and I had to change my grip twice on the road, and I remember thinking that a man's whole private life had turned out to be a thing you could carry badly with two hands.
+I thought about the agreement.
 
-I set it on my desk and did not open it again that night.
+The boundary.
 
-I returned after midnight.
+The objects that were not supposed to be moved.
 
-The town was quiet.
+The door beneath the mill.
 
-The road to the mill was wet from the evening rain, and my boots sank slightly into the soft ground.
+None of them sounded like property.
 
-I carried no lantern.
+"You're suggesting the thing beneath Ashford is an inheritance."
 
-I knew the path well enough.
+"I'm suggesting someone wanted it treated as one."
 
-The old wall appeared through the darkness.
+"Those aren't the same."
 
-Beyond it, the mill stood against the sky.
+"No."
 
-Nothing moved.
+He looked at me.
 
-I stopped before entering.
+"That's why I came back."
 
-For several seconds I listened.
+"What do you want from me?"
 
-Wind.
+"Nothing."
 
-Water.
+I almost laughed.
 
-The distant sound of a dog.
+"You have gone to considerable trouble to tell me something you claim to know nothing about."
 
-Nothing else.
+"I want to see what you do with it."
 
-I went in.
+There was that phrase again.
 
-The collapsed wall was where I had left it.
+What you do.
 
-The stone door remained beneath the rubble.
+Not what you believe.
 
-I cleared enough of the ground to expose the frame.
+Not what you accept.
 
-The symbol was still there.
+What you do.
 
-A circle crossed by a short line.
+I had heard it from the man at the mill.
 
-I took out the gear.
+I had heard versions of it from Eleanor.
 
-It was warm.
-
-I did not touch the door with it.
-
-Not yet.
-
-Instead, I stood there and looked at the depression in the stone.
-
-It was exactly the right shape.
-
-That did not mean it had been made for the gear.
-
-It only meant that the two fit together.
-
-There was a difference.
-
-I held the gear near the depression.
-
-The warmth increased.
-
-I moved it away.
-
-The warmth faded.
-
-Again.
-
-The same result.
-
-I wrote the observation down.
-
-Then stopped.
-
-I had brought the notebook with me.
-
-I almost laughed at myself.
-
-Even here, I was still recording things.
-
-Perhaps that was the only reason I had come this far without making a worse mistake.
-
-I put the notebook away.
-
-Then I placed the gear into the depression.
-
-Nothing happened.
-
-For several seconds.
-
-Then I felt a vibration.
-
-Very slight.
-
-The stone beneath my fingers seemed to shift.
-
-The gear moved.
-
-Not by itself.
-
-It turned when I applied pressure.
-
-I stopped.
-
-The mechanism had not moved before.
-
-I had assumed it would.
-
-That assumption had been wrong.
-
-I tried again.
-
-This time the gear turned.
-
-Something deep within the stone answered.
-
-A dull movement.
-
-A click.
-
-Then another.
-
-The sound traveled through the door.
-
-I froze.
-
-The gear remained in my hand.
-
-The depression had accepted it.
-
-That was all I could say.
-
-Then the door moved.
-
-Only an inch.
-
-Perhaps less.
-
-Darkness appeared beyond it.
-
-Not an empty blackness.
-
-A space.
-
-A passage.
-
-I could not see how far it went.
-
-Cold air came through the opening.
-
-It carried a smell I could not identify.
-
-Damp stone, perhaps.
-
-Something older.
-
-I leaned closer.
-
-Then stopped.
-
-There was another sound.
-
-Very faint.
-
-I listened.
-
-Nothing.
-
-I waited.
-
-The sound came again.
-
-A low movement somewhere beyond the door.
-
-I could not tell whether it was wind.
-
-Water.
-
-Stone.
-
-Or something else.
-
-I remained where I was.
-
-The opening was still there.
-
-I could have turned the gear again.
-
-The door might have opened farther.
-
-I knew that.
-
-That was precisely why I did not.
-
-I thought about the old constable.
-
-Now someone else must keep it.
-
-I thought about Graves.
-
-An inheritance.
-
-I thought about Crowe.
-
-A locked door can be protection or imprisonment.
-
-I thought about Calloway.
-
-Decide.
-
-None of them were standing beside me.
-
-None of them could tell me what was correct.
-
-That was the first thing that made the decision mine.
-
-I looked into the darkness.
-
-For years, the door had been something I could investigate from the outside.
-
-Now, for the first time, it offered me a choice.
-
-Open it.
-
-Or leave it closed.
-
-Curiosity wanted the first.
-
-Experience suggested the second.
-
-I turned the gear in the opposite direction.
-
-The mechanism resisted.
-
-I applied slightly more pressure.
-
-The door began to close.
-
-The sound from beyond it stopped.
-
-I paused.
-
-For one moment, I considered opening it again.
-
-Then the gap narrowed.
-
-The darkness disappeared.
-
-The stone settled into place.
-
-The vibration beneath my hand faded.
-
-Silence returned.
-
-I removed the gear.
-
-The door did not move.
-
-I waited.
-
-Nothing.
-
-I checked the depression.
-
-There was no visible change.
-
-No second inscription cut into the stone to answer the one on the gear.
-
-No hidden message.
-
-No proof that I had done anything more than move an old piece of machinery.
-
-I stood there for a long time.
-
-Then I wrapped the gear again and put it inside my coat.
-
-On the way home, I stopped beside the first boundary stone.
-
-The crack was still there.
-
-I took out the gear.
-
-It remained cold.
-
-I held it closer.
-
-Nothing.
-
-I touched the stone.
-
-Nothing.
+Now Graves was saying it too.
 
 That bothered me.
 
-If the gear had been part of some mechanism, perhaps its reaction near the stones should have changed.
+"Are you working for the Order?"
 
-But it hadn't.
+He shook his head.
 
-I wrote:
+"Not in the way you mean."
 
-After the door was closed, gear showed no unusual response at eastern marker.
+"That isn't an answer."
 
-I stared at the sentence.
+"It is the only honest one."
 
-Then added:
+He stepped into the rain.
 
-Insufficient evidence to determine whether this is significant.
+Before walking away, he said:
 
-I closed the notebook.
+"Ask the old constable what Aurelius was afraid of."
 
-The town was still asleep.
+Then he disappeared around the corner.
 
-For once, I was glad of it.
+I remained beneath the awning.
 
-The old constable was awake when I returned.
+I did not follow him.
 
-The fire had burned low.
+The old constable lived farther from the town centre than I remembered.
 
-He looked at me from his chair.
+His house stood behind a low wall covered in moss.
 
-"You went."
+When I knocked, there was no answer.
 
-"Yes."
+I knocked again.
 
-"And?"
+Eventually I heard footsteps.
 
-I took off my coat.
+The door opened only a few inches.
 
-"The door moved."
+His eyes appeared in the gap.
+
+"You."
+
+"I need to ask you something."
+
+"You always do."
+
+"About Aurelius."
 
 His expression changed.
 
 Only slightly.
 
-"How far?"
+Enough.
 
-"Not far."
+"Come in."
 
-"Did you open it?"
+The house was colder than the street.
 
-"Enough to see darkness."
+He closed the door behind me and remained standing for a moment, one hand resting against it.
 
-He closed his eyes.
+"What has he told you?"
 
-For a moment I thought he might fall asleep.
+"Graves?"
 
-Then he asked:
+The old man's face tightened.
 
-"Did you hear anything?"
+"So he found you."
 
-I hesitated.
+"He found me."
 
-"Something."
+"Of course he did."
 
-He nodded.
+I watched him.
 
-He did not ask what.
+"You know him."
+
+"I know of him."
+
+"That's not the same thing."
+
+"No."
+
+He moved slowly toward the fireplace.
+
+There was no fire.
+
+He sat.
+
+I remained standing.
+
+"Graves says the agreement is incomplete."
+
+The old constable looked at the floor.
+
+"Perhaps."
+
+"He says Aurelius omitted something."
+
+"Perhaps."
+
+"He says what lies beneath Ashford was an inheritance."
+
+The old man finally looked up.
+
+"Did he say that?"
+
+"Yes."
+
+"And you believed him?"
+
+"No."
+
+The answer seemed to ease something in his face.
+
+"Good."
+
+"Then tell me what he got wrong."
+
+He was silent.
+
+"Or tell me what he got right."
+
+Still nothing.
 
 I sat opposite him.
 
-"I closed it."
+"What did Aurelius know?"
 
-His eyes opened.
+The old man's fingers tightened around the arm of the chair.
 
-"Why?"
+"Enough."
 
-"Because I didn't know what was on the other side."
+"Enough for what?"
+
+"To be afraid."
+
+"Afraid of what?"
+
+His eyes moved toward the hallway.
+
+The house had gone completely quiet.
+
+"Not everything that is dangerous announces itself."
+
+"I didn't ask whether it was dangerous."
+
+"No."
+
+He swallowed.
+
+"You asked what he feared."
+
+"Yes."
 
 The old man looked at me for a long time.
 
-Then he smiled.
+Then he said:
 
-Not happily.
+"Of himself."
 
-Relieved.
+I said nothing.
 
-"You understand now."
+He looked almost relieved that I didn't immediately ask another question.
 
-"No."
+But I did.
 
-He laughed softly.
+"What does that mean?"
 
-"You understand more than you think."
+"I don't know."
 
-I shook my head.
+"You must have some idea."
 
-"Did I renew the agreement?"
+"I have guesses."
 
-He looked toward the fire.
+"Then tell me."
 
-After a long silence, he said:
+He shook his head.
 
-"The door is closed."
+"Guesses become facts very quickly in Ashford."
 
-"That's not what I asked."
+I remembered my own notebook.
 
-"No."
+Observation is not proof.
 
-His answer was quiet.
+He noticed my expression.
 
-"But it is the answer I can give you."
+"You've started writing things down."
 
-I wanted to press him.
+"How did you know?"
 
-I didn't.
+"Because you look at people differently now."
 
-There were some questions for which another answer did not necessarily mean a better one.
+I did not answer.
 
-The old constable leaned back.
+He leaned back.
 
-His eyes closed.
+"Aurelius was not the first keeper."
 
-"You did what I did."
+"But he was my ancestor."
 
-"What did you do?"
+"Yes."
 
-He took a slow breath.
+"And he made the agreement."
 
-"Stopped before knowing."
+"Yes."
 
-I remained silent.
+"Then why would he fear himself?"
 
-After a while, his breathing became steadier.
+The old man closed his eyes.
 
-I thought he had fallen asleep.
+"When a man spends enough years guarding something, he eventually begins to wonder whether he is protecting it from the world..."
 
-Perhaps he had.
+He paused.
 
-I stood and moved toward the door.
-
-Before I left, he spoke once more.
-
-"Leon."
-
-I turned.
-
-He did not open his eyes.
-
-"Don't mistake a closed door for an empty room."
+"...or the world from it."
 
 I waited.
 
-He said nothing else.
+He did not continue.
 
-Outside, the night was clear.
+"Which was it?"
 
-I looked toward the distant outline of the mill.
+"I never knew."
 
-Nothing moved.
+"Then why did you stay?"
 
-Nothing called to me.
+His eyes opened.
 
-The town seemed exactly as it had been the day before.
+"Because someone had to."
 
-That was almost comforting.
+I left his house after dark.
 
-Almost.
+The rain had stopped.
 
-I unwrapped the gear.
+The streets were almost empty.
 
-It was cold now.
+Graves's words followed me.
 
-Ordinary.
+An inheritance.
 
-I turned it over in my hand.
+The old constable's followed them.
 
-For the first time, I understood why the old constable had never tried to explain what lay beneath Ashford.
+Of himself.
 
-Perhaps he hadn't known.
+Neither explained anything.
 
-Perhaps knowing was never the purpose.
+That was becoming familiar.
 
-Perhaps the agreement had survived for so long not because every keeper understood what they were protecting, but because each one had been willing to stop at the same point.
+I went to the mill.
 
-At the edge of certainty.
+I did not enter.
 
-I put the gear away.
+I stood beyond the old wall and looked toward the place where the boundary stone had been moved.
 
-I had not seen what was behind the door.
+It remained exactly where I had left it.
 
-I had not learned what Aurelius knew.
+The disturbed earth had begun to harden.
 
-I had not proved Graves right.
+Nothing else appeared different.
 
-I had not proved Crowe wrong.
+I waited.
 
-But the door had opened.
+Nothing happened.
 
-And I had chosen to close it.
+That should have reassured me.
 
-Whether that was wisdom or fear, I could not yet say.
+Instead, I found myself wondering whether I had expected something.
 
-For now, it was enough that the choice had been mine.
+I disliked that thought.
+
+Expectations had a way of turning observations into evidence.
+
+I turned away.
+
+"You're thinking too much."
+
+Crowe's voice came from behind me.
+
+I did not startle.
+
+At least, I hoped he hadn't noticed if I did.
+
+"You have a habit of appearing at inconvenient times."
+
+"Perhaps you have a habit of being in inconvenient places."
+
+He came to stand beside me.
+
+For a while, he looked at the mill.
+
+"Graves spoke to you."
+
+"Yes."
+
+"What did he tell you?"
+
+"That the agreement is incomplete."
+
+Crowe nodded.
+
+"Is it?"
+
+"Do you know?"
+
+"Enough to ask better questions."
+
+I looked at him.
+
+"You all seem fond of that answer."
+
+"We?"
+
+"Eleanor. Graves. You."
+
+He smiled faintly.
+
+"You've been paying attention."
+
+"I try to."
+
+Crowe looked at the displaced stone.
+
+"Do you still believe the agreement should remain untouched?"
+
+"I don't know."
+
+"Good."
+
+"You're not going to tell me what I should believe?"
+
+"No."
+
+"Why?"
+
+"Because belief is the easiest thing to borrow."
+
+He turned toward me.
+
+"Understanding is harder."
+
+"And opening the door?"
+
+His expression changed.
+
+Only for a moment.
+
+"Who told you I wanted it opened?"
+
+I said nothing.
+
+He smiled.
+
+"That's what I thought."
+
+He walked away.
+
+I watched him go.
+
+I had expected him to deny it.
+
+He hadn't.
+
+But he hadn't confirmed it either.
+
+I wrote that down later.
+
+Crowe did not deny interest in the door.
+
+Then I added:
+
+This is not proof of intention.
+
+The next morning I went to Calloway.
+
+He was reading reports when I entered.
+
+He looked up.
+
+"You've spoken to Graves."
+
+"Yes."
+
+"And the old constable."
+
+"Yes."
+
+He closed the folder.
+
+"What did you learn?"
+
+I considered telling him everything.
+
+Instead, I gave him the facts I could defend.
+
+"Graves claims the agreement is incomplete."
+
+Calloway waited.
+
+"He says Aurelius omitted something."
+
+Another pause.
+
+"He also says what lies beneath Ashford may have been treated as an inheritance."
+
+Calloway's face remained still.
+
+"May have been?"
+
+"That's his word."
+
+"And yours?"
+
+"I don't know."
+
+Calloway nodded.
+
+"What did the old constable say?"
+
+"That Aurelius was afraid."
+
+"Of what?"
+
+"Of himself."
+
+For the first time, Calloway looked tired.
+
+Not surprised.
+
+Tired.
+
+"You believe that?"
+
+"No."
+
+"Do you believe Graves?"
+
+"No."
+
+"Do you believe the old constable?"
+
+"I don't know."
+
+Calloway leaned back.
+
+"Then you're doing your job."
+
+I looked at him.
+
+"What exactly is my job?"
+
+He was quiet for a moment.
+
+"To notice."
+
+"And after that?"
+
+"Decide."
+
+"Without knowing everything?"
+
+"Most decisions are made that way."
+
+I thought about the stone.
+
+The door.
+
+The coin.
+
+The Order.
+
+Everyone seemed to want something from the same mystery.
+
+Yet none of them seemed willing to place the whole thing in my hands.
+
+Perhaps that was deliberate.
+
+Perhaps no one actually possessed the whole answer.
+
+Calloway returned to his papers.
+
+I stood.
+
+"One more thing."
+
+He looked up.
+
+"If I decide differently from you?"
+
+He held my gaze.
+
+"Then you'll have to live with your decision."
+
+There was no threat in his voice.
+
+That made it heavier.
+
+I left without another word.
+
+That evening I opened my notebook.
+
+I wrote the names first.
+
+Graves.
+
+Old Constable.
+
+Crowe.
+
+Calloway.
+
+Then beneath them:
+
+Four men. Four positions. No certainty.
+
+I stopped.
+
+There was something else.
+
+Something I had only begun to understand.
+
+Being a keeper was not the same as possessing knowledge.
+
+A keeper could inherit a duty without inheriting its meaning.
+
+He could protect something without knowing whether it deserved protection.
+
+He could open a door believing he was freeing what was inside.
+
+Or close it believing he was saving everyone outside.
+
+Either choice could be wrong.
+
+I looked at the final page.
+
+Then wrote:
+
+The burden is not knowing the answer.
+
+I considered crossing it out.
+
+Instead, I continued.
+
+The burden is choosing when there may not be one.
+
+I closed the notebook.
+
+Outside, somewhere beyond the houses, the town clock marked the hour.
+
+Once.
+
+Then silence.
+
+I sat in the dark and listened.
+
+For the first time since I had come to Ashford, I understood that watching was not passive.
+
+It meant remembering what had happened.
+
+It meant questioning what I was told.
+
+And sometimes, most importantly, it meant having the strength to leave something untouched when every voice around you demanded that you choose.
+
+I did not know what waited beneath the town.
+
+I did not know whether Graves was lying.
+
+I did not know what Aurelius had feared.
+
+And I did not know whether the Order wanted the door opened or merely wanted me to believe that they did.
+
+But I knew one thing.
+
+I was no longer simply watching the mystery.
+
+The mystery was watching me back.

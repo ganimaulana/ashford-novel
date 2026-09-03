@@ -1,99 +1,128 @@
-﻿CHAPTER 66 â€” THE KEPT HOUSE
+CHAPTER 66 â€” THE RESPONSE
 
-I entered the house at the end of Bellweather Lane the following morning.
+I carried the object for three days before I understood why I had taken it from the box.
 
-I went early, before the town was awake, when the lane was empty and the light was grey. I took the object, and I took the gear, and I took the red book, and I walked the length of Bellweather Lane, past Vale's house, to the place where the lane narrowed and turned and ran out into the fields.
+I had not planned to carry it. I had taken it out to look at it, to compare it with the gear, to write in my notebook about the three signs. But when I had finished, I had not put it back in the box. I had put it in my coat, against my chest, where it lay flat and cold and unnoticed, and I had gone about my days without thinking of it.
 
-The house stood where it had stood the day before. Empty. Dark. Forgotten.
+On the third day, I went to the common.
 
-I stood before it, and I looked at it, and I understood that I was about to enter a house that had been kept closed for a very long time.
+I had not gone to the common in weeks. I had gone to the eastern marker, and to the passage, and to the brewery, and I had stayed away from the common, because I could not yet tell what I would find there, and because I had told the Order that the door was not a door, and because I had needed to believe it.
 
-The door was closed. I reached for the latch. It was not locked. I had not expected it to be. The house was kept by being forgotten, not by being locked. No one had ever needed to lock it, because no one had ever come this far down the lane.
+I went to the common in the evening.
 
-I opened the door. The air inside was cold. Not the cold of the common house â€” not the cold of a place that did not exist. This was the cold of a place that had been closed for a long time, the cold of still air and dark rooms and years that had passed without disturbance.
+The house was not there. I had not expected it to be. I stood at the edge of the grass, in the failing light, and I looked at the pressed shape of the floor, and I thought about the house that appeared and disappeared, and about the passage beneath it, and about the door that opened from both sides.
 
-I stepped inside. The house was bare. The rooms were empty â€” no furniture, no curtains, no pictures, no sign that anyone had ever lived here.
+I did not cross the grass. I stood at the edge, and I was about to turn away, when I felt it.
 
-I stood in the hallway, in the grey light from the open door, and I looked around. It was the same as the common house in one way: it was empty. But it was different in another: it was real.
+A warmth. Not the warmth of the evening air. Not the warmth of my own body. A warmth against my chest, where the object lay â€” a warmth that had not been there a moment before.
 
-The floors were worn. The walls were plastered, and the plaster was cracked with age. The staircase rose into the dark of the upper floor, and the rooms opened off the hallway, and everything was bare, and everything was old, and everything was real.
+I stopped. I put my hand to my coat.
 
-I walked through the lower rooms. The kitchen, with its cold hearth and its empty shelves. The parlour, with its bare walls and its dark floor. The rooms were empty. But they were not forgotten. I could feel it â€” the sense that this house had been kept, deliberately, for a purpose I had not yet understood.
+The object was warm. It had never been warm. I had held it many times, in the years I had kept it in the box, and it had always been cold â€” the cold of old metal, the cold of a thing that had lain untouched for a long time. I had never felt it warm.
 
-I stopped in the parlour. There was a door at the back of the room. A door I had almost missed â€” a door set into the wall, painted the same colour as the plaster, so that it was nearly invisible.
+I took it out. The metal was warm in my hand. It was not hot. It was warm â€” the warmth of a thing that had been held, or the warmth of a thing that had been near something warm.
 
-I crossed the room. I opened the door. Beyond it was a small room â€” a room with no windows, a room lit only by the light from the door. And in the middle of the room, on a table, there was a box.
+I looked at the common. The house was not there. The grass was pressed in the shape of the floor, and the keeper's sign was bent into the earth at its centre, and the light was failing, and there was nothing else.
 
-A wooden box. The same size as my box. The same dark wood. The same plain surface, worn by years of handling.
+But the object was warm. And it had not been warm when I entered the common.
 
-I stood in the doorway, looking at the box. I had a box like it. The box in the bottom of my press, the box that held the object.
+I stood at the edge of the grass, with the warm object in my hand, and I understood that the object had responded to something â€” to the common, to the pressed shape of the house, to the keeper's sign in the earth, to the passage beneath.
 
-I crossed the room. I set my own box â€” no, I had not brought it. I had brought the object. I took the object from my coat. I set it on the table, beside the box. The object was warm. I had not felt it warm in the house at the end of Bellweather Lane before â€” I had not entered before. Now it was warm, warmer than it had been at the common, warmer than it had been at the door.
-
-I looked at the box. I did not open it at first. I stood in the windowless room, in the light from the open door, with the warm object on the table beside the box, and I understood that I had come to the end of a journey I had not known I was making.
-
-I had carried the object all my life. I had carried it without knowing what it was. I had brought it here, to the house at the end of Bellweather Lane, to the house of the first sign, to the house that had been kept empty and closed and forgotten for longer than anyone could remember.
-
-And the box on the table was waiting.
-
-I opened it. The lid was not locked. It lifted easily, on old hinges, with a sound of wood moving against wood. Inside, there was a second object. A object like mine, of tarnished metal, on a length of cord.
-
-I reached in and lifted it out. It was cold. I held it in my hand, and I turned it over, and I looked at its face. It bore the first sign. The circle, the three lines, the dot. The same sign as my object.
-
-I looked at my object on the table. I looked at the object in my hand. Two Tokens. Two first signs. Two Tokens, both bearing the same mark, both kept in wooden boxes, both kept hidden â€” one carried all my life, one kept in a house at the end of a forgotten lane.
-
-I stood in the windowless room, with the second object in my hand, and I understood that the first sign had not been lost. It had been kept. Kept twice. Kept in a box that had been carried, and kept in a box that had been hidden. And I had been carrying one of them all my life, without knowing that there was another.
+The first sign had responded. And I did not know to what.
 
 ---
 
-I sat on the floor of the windowless room. I set both Tokens on the table before me. I looked at them.
+I did not go home.
 
-They were identical. The same size. The same tarnished metal. The same cord. The same first sign â€” the circle, the three lines, the dot.
+I walked the length of the common, slowly, with the object in my hand, and I watched it.
 
-I picked up the second object. It was cold. I held it in my hand, and I waited for it to warm. It did not. It stayed cold.
+It did not warm at the edge of the common. It did not warm at the place where the road crossed the grass. It warmed at the place where the house had stood. It grew warm as I approached the pressed shape of the floor, and it grew warmest at the centre, where the keeper's sign was bent into the earth.
 
-I set it down. I picked up my own object. It was warm. I had not thought about it before â€” I had not compared them. I had not known there were two.
+I knelt at the centre. I held the object over the keeper's sign. The metal was warm. I lowered it until it touched the grass.
 
-I set my object down. I looked at the two Tokens, side by side, one warm and one cold. And I understood. They were not the same. They looked the same, but they were not the same. One was warm. One was cold. One had been carried. One had been kept. One had answered the keeper's sign. One had not.
+Nothing happened. No light. No sound. No movement of the earth. Only the warmth â€” the warmth of the object, held over the keeper's sign, where the house had stood.
 
-I could not yet tell what the difference meant. But I knew that there was a difference.
+I sat back on my heels and looked at the object. The first sign. The circle, the three lines, the dot.
 
-I took the second object from the table. I held it in my hand. It was cold. I put it in my coat, beside my own.
+I had carried it all my life. I had not known it was the first sign. I had not known it would respond to the keeper's sign. I had not known that the signs were connected â€” that the maker's sign would warm at the place where the keeper's sign was set.
 
-Two Tokens. Two first signs. One carried. One kept.
+I stood. I put the object back in my coat. I walked home through the dark streets, and I sat at my desk, and I did not write in my notebook.
 
-I left the windowless room. I left the house at the end of Bellweather Lane. I closed the door behind me, and I walked the length of the lane, past Vale's house, back toward the town, with the two Tokens against my chest.
+I took out the object, and I took out the gear, and I set them side by side, and I looked at them.
+
+The object had warmed at the keeper's sign. The gear had never warmed â€” not in the passage, not at the door, not at the eastern marker.
+
+The object was different. The object was the first sign. And it had responded to the second.
 
 ---
 
-I sat at my desk. I took out both Tokens. I set them side by side. My own object â€” warm. The second object â€” cold.
+The next morning, I went to the vestry.
 
-I looked at them for a long time. They were identical. The same mark. The same metal. The same age. But one was warm, and one was cold.
+The clerk was there. I placed the object on the table before him.
 
-I did not know what the warmth meant. I had thought it meant the first sign recognized the keeper's sign â€” that my object was the first sign, and that it answered the house and the door and the keeper's sign at the common. Now I was not certain. If the object was the first sign, then the second object was also the first sign. And the second object did not warm.
+"It warmed," I said. "At the common. At the place where the house appears. At the keeper's sign in the earth."
 
-I opened the red book. I wrote:
+The clerk looked at me. He did not speak at once.
 
-I have found a second object. It is identical to mine. It bears the same first sign. It was kept in a box, in a house at the end of Bellweather Lane, a house that has been kept empty and forgotten.
+"The first sign," he said slowly, "is the sign of the maker. The keeper's sign is the sign of the keeper. The Order's sign is the sign of the Order."
 
-My object is warm. The second is cold. I do not know what this means.
+"I know. You told me."
 
-I have carried one object all my life. The other was kept. I do not know which is the first sign. I do not know whether they are both the first sign, or whether only one is, or whether the warmth means something I have not understood.
+"The signs are not separate," he said. "They are one sign, divided. The maker's sign was set first. The keeper's sign was set to keep it. The Order's sign was taken from it, and the Order believes it is the whole."
 
-I have come to the end of the lane. I have found the kept house. I have found the second object. And I have understood, for the first time, that I do not know what I have been carrying.
+I waited.
 
-I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the Tokens away. I left them on the desk.
+"The maker's sign responds to the keeper's sign," he said. "It is meant to. The keeper's sign is the keeper's, and the keeper's sign keeps the maker's sign, and the maker's sign remembers the keeper."
 
-Two Tokens. One warm. One cold.
+I stood in the vestry. The clerk had spoken as if he had known this all along.
 
-I sat in the dark, and I looked at them, and I thought about the house at the end of Bellweather Lane, and about the box on the table, and about the second object that had been kept while the first had been carried.
+"Why did you not tell me before?" I said.
 
-I had thought the mystery was about the door. I had thought it was about the signs. I had thought it was about the keeper's sign, and the Order's sign, and the first sign. I had not understood that there were two first signs. Two Tokens. Two markers. One carried. One kept.
+"Because I did not know you had the first sign." He looked at the object. "I could not say it was in Ashford. I could not tell for certain it had been kept. I believed the first sign was lost â€” that the maker's sign had been carried away from Ashford long ago, and would never return."
 
-And I had carried one all my life, without knowing what it was. I did not know what the second was for. I could not say why it had been kept.
+"It has been mine all my life."
 
-But I knew that I had found it. And I knew that the keeping â€” the long, silent keeping of the house at the end of Bellweather Lane â€” had been waiting for me.
+"Then it was kept," he said. "Kept, and carried, and brought back â€” brought back by a hand that did not know what it was carrying. That is how the signs are kept. They are not kept by those who understand them. They are kept by those who carry them, and who do not forget."
 
-I had entered the kept house. I had found the second object. And I had understood that the mystery was not about the door. It was about the Tokens. And I was the keeper of both. Two of the thirteen—and the remaining signs would reveal themselves as the count turned toward 00:00.
+I stood in the vestry, in the cold light, with the object on the table between us.
 
+I had carried the first sign all my life. I had not known what it was. I had not known it was the maker's sign. I had not known it would respond to the keeper's sign at the common.
+
+But I had carried it. And I had not forgotten it. And now it had warmed, at the keeper's sign, where the house appeared, where the passage led to the door that was not a door.
+
+And I understood that I had been carrying the answer all my life, without knowing.
+
+---
+
+I did not go to the common that night.
+
+I sat at my desk, with the object before me, and the gear beside it, and I thought about the three signs.
+
+The first sign â€” the maker's â€” the circle, the three lines, the dot. The second sign â€” the keeper's â€” the line, the three strokes. The third sign â€” the Order's â€” the circle, the short line.
+
+I had carried the first all my life. I had been given the third by Vale. I had learned the second from the wall, the passage, the map.
+
+And the first had warmed at the second. I had no way of knowing what the third would do. I could not say whether the gear would respond to anything, or whether it was only a key to a door that was not a door, or whether it had a purpose I had not yet understood.
+
+I opened my notebook, and I wrote:
+
+The object warmed at the keeper's sign. The clerk says the maker's sign responds to the keeper's sign â€” that they are one sign, divided.
+
+I have carried the first sign all my life. I have been given the third. I have learned the second.
+
+Three signs. One sign, divided.
+
+I do not know what the third is for. But I know that the first responds to the second. And I know that the second is the keeper's. And I am the keeper.
+
+I closed the book. I put it in the drawer, with the agreement, and the map.
+
+I did not put the object away. I left it on the desk, beside the gear.
+
+And I sat in the dark, and I thought about the house that appeared at the edge of the common, and about the passage beneath it, and about the door that was not a door, and about the maker's sign, and the keeper's sign, and the Order's sign, and about everything that had been carried and kept and forgotten for longer than the town had a name.
+
+The first sign had warmed at the second. The keeper's sign kept the maker's sign. And I was the keeper.
+
+I could not tell for certain what I was keeping. But I had carried the first sign all my life, and it had answered me at the common, and I understood that the keeping had not begun with Vale, and had not begun with me. It had begun with the maker's sign, and it had never stopped being kept.
+
+And the house — the house that appeared and disappeared at the edge of the common — was part of it. I had no way of knowing how. But I would find out. I sat in the dark, with the object warm on the desk, and I understood that I was not at the end of the mystery. I was at the beginning of it.
 

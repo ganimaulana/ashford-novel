@@ -81,7 +81,7 @@ Specific Token behavior remains PROPOSED until supported by the supernatural sys
 
 ## G. ANONYMOUS CORRESPONDENCE (Proposed)
 
-Leon does NOT personally introduce himself, openly recruit, or initially meet her face-to-face (see OPEN QUESTION in Eleanor's profile re: prior Ch 57 acquaintance).
+Leon does NOT personally introduce himself, openly recruit, or initially meet her face-to-face (see OPEN QUESTION in Eleanor's profile re: prior Ch 61 acquaintance).
 
 Historically plausible 1816 delivery methods (no modern drops):
 - Letter slot
@@ -203,7 +203,7 @@ Keep this asymmetric.
 10. Does the network become an organization at all?
 11. What relationship does the network eventually have with the Constable?
 12. Could another hidden faction discover the network?
-13. **How is anonymity maintained given Eleanor and Leon already met in Ch 57?** (Design tension requiring authorial decision)
+13. **How is anonymity maintained given Eleanor and Leon already met in Ch 61?** (Design tension requiring authorial decision)
 
 ---
 

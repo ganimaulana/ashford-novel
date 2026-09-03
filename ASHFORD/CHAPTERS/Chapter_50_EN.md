@@ -1,107 +1,117 @@
-CHAPTER 50 — THE SECOND MARK
+CHAPTER 50 — THE LAST VISIT
 
-I returned to the fourth stone before first light.
+I went up the lane on a Tuesday in the middle of October with nothing to ask him.
 
-The mark in the earth was gone. Not faded. Not disturbed by weather. The rain had not come again, and the wind had not been strong enough to smooth the scored earth. I had left it there, a line and three strokes, fresh and deliberate, and I had come back to read it again in the morning light — and it was gone.
+That was the first time I had done it, and I was conscious of it the whole way. I had no corrected sentence, no report, no stone with a new crack in it. I had walked out of my rooms after dinner and turned north instead of south, and by the time I understood where I was going I was already at the turn by the wall.
 
-Erased. Smoothed over by a hand that had taken care to leave no trace of its own.
+It was October. The lane was mud from the rain of the week before, and the wall at the end had the smell walls get in autumn, of wet stone and dead nettle.
 
-I knelt and put my fingers to the ground. The earth was soft, recently pressed. Whoever had erased the mark had done so after I had left the mill the night before, and after the meeting at the brewery, and after I had sat at my desk writing the account that I had not yet shown to anyone.
+The lamp was lit in his window.
 
-They had come in the dark, while I was writing. They had knelt where I had knelt. They had smoothed the earth, and then they had gone, and I had not heard them, and I had not seen them, and I had not known.
+---
 
-I stood. I looked at the lane. The mill. The wall. The grey light of the approaching morning.
+"You have nothing with you," he said.
 
-There was a line of footprints in the soft ground beside the wall, leading away from the fourth stone, toward the mill-yard gate. Not the narrow heel I had seen before. A different print — wider, deeper, the print of a man who had stood in one place for some time before turning back.
+"No."
 
-I followed them. They led to the mill-yard gate, where the earth was packed hard and the prints stopped. I opened the gate — I had not opened it in weeks, had not needed to, had not wanted to — and I walked into the mill-yard.
+He looked at me for a moment longer than the remark deserved.
 
-The mill stood where it had always stood. Silent. Empty. The door was closed.
+"Sit down, then."
 
-I had told Crowe I had not shown him the mark. I had told him I trusted no one. I had told the room above the brewery that I carried the gear, and I had come out of that room understanding that I had told them more than I meant to tell, and now there was a man who had followed me from the brewery to the mill and erased my mark before I could read it again.
+That was all he said about it. He did not ask why I had come. I have thought since that it was the only time he declined to ask a question, and that the declining was deliberate, and was the nearest thing to a kindness he was willing to be caught at.
 
-Not Crowe. I did not know whose print it was, but I knew it was not Crowe's. Crowe's boot was narrower. I had seen it often enough, in the mud at the door, in the dust at Vale's house, in the lane behind the brewery when he had walked ahead of me into the dark.
+---
 
-This was a different man. And he had followed me.
+There was soup, which I did not expect. The Hartley girl had brought it, and it had gone lukewarm on the hob, and he made me heat it and eat most of it while he had a cup of the broth off the top of it and left the rest.
 
-I stood in the mill-yard, in the grey light, and I understood that I had been watched from the moment I had left the meeting.
+We talked about the soup. Then about the Hartley girl's mother, who was a Coles from the far side of the river and had opinions about it. Then about a dispute over a boundary hedge on the Bellweather side that had been running since before I came to Ashford and would run after I left it, and he took the part of the man he thought was wrong, on the grounds that the man who was right had been insufferable about it.
 
-I did not go to Crowe. I did not go to the house on Bellweather Lane, though I had thought of it, had thought of the open window and the rosemary and the folded blanket, and had wondered whether whoever had followed me from the brewery had also been the one to raise the sash two inches on the morning after Vale died.
+None of it mattered. I want that written down. We spent the better part of an hour on a hedge.
 
-I went to the vestry instead. Before the sun was fully up, before the town had begun its ordinary movement, before the clerk had unlocked the door, I was standing at the steps of St. Bartholomew's, waiting for the man who had shown me the parish records in the weeks after I had first found the boundary stones.
+Twice he stopped in the middle of a sentence and waited, and went on. I did not remark on it. The second time he said, "It is only the breath," as though I had asked.
 
-He came at half past seven, as he always came, with his keys in his hand and his coat collar turned up against a cold that had not yet left the morning air. He saw me. He stopped.
+---
 
-"You are early, Mr. Ashcroft."
+Near the end he said, "You have been coming here eight months."
 
-"I am."
+"Have I?"
 
-"The records are not kept for early men."
+"February. You came in February with the notebook and the three lines in it, and you have been coming since." He turned the cup on the arm of the chair. "It is not a criticism."
 
-"They are kept for men who have questions," I said. "I have a question."
+"I did not take it for one."
 
-He looked at me a long moment. Then he unlocked the door, and I followed him inside.
+"Good."
 
-The vestry was cold. The clerk lit a lamp and set it on the table where the parish books were kept, and he stood with his hand on the spine of the ledger as if he expected me to ask for something he could not give.
+He was quiet for a while. Then he said something I did not understand at the time.
 
-"The boundary," I said. "The old boundary. The line that does not follow the roads or the river. You showed me the survey, in the spring."
+"You do not owe the dead your life."
 
-"I remember."
+I looked up.
 
-"I need to see it again. And I need to see anything else that records the marks on the stones."
+"What?"
 
-The clerk did not move. "There is a mark," he said slowly. "On the old stones. A circle with a line through it. The surveyors noted it, in the year they made the map. They did not know what it was, and they did not ask, and they drew it the way they saw it, and they left it."
+"You heard it."
 
-"I know that mark."
+"I heard it. I do not know what it is doing in a conversation about a hedge."
 
-"Then why do you need to see it again?"
+"It has been waiting behind the hedge for an hour." He set the cup down. "You are a man who takes things up. It is the best thing about you and it is the thing that will finish you. You took up the watch. You took up the agreement. You will take up the rest of it, and there will be men in it who are dead, and you will begin to feel that you are answerable to them."
 
-"Because I have found another mark," I said. "A line and three strokes. On the same stones. On the same door. I need to know whether it is in the survey. I need to know whether it has been seen before."
+"Aurelius."
 
-The clerk was silent. "There is a mark," he said at last, "that the surveyors did not draw. They drew the circle and the line. They left the other — if there was another — out of the record. I do not know whether they did not see it, or whether they chose not to draw it."
+"Aurelius, and others, and me in due course." He said it without weight, the way he said everything. "Remember them. Learn from them. But do not become their unfinished business. A man can spend forty years finishing another man's work and never once ask whether the work was worth finishing."
 
-"Then you know of it."
+"Is that what you did?"
 
-"I know of it." He turned to the shelf behind him, where the oldest books were kept, bound in leather cracked with age. He took one down, not the survey, a smaller book, its spine held together with thread. "This is the vestry book from the year the boundary was last moved. The year the new stones were set. There is a page in it that the clerk who kept it did not show to the surveyors."
+He was quiet for a long moment.
 
-He opened it. The pages were yellow, the ink brown with age. He turned to a page near the end, where the writing was smaller, pressed into the margins, as if the clerk had written it in haste and without permission.
+"I asked," he said. "Late."
 
-I read it. It was not a mark. It was a note. A line, and three strokes. The same line, the same strokes, drawn in the margin beside a list of names. And beneath it, in the same small hand:
+That was all. He did not tell me what the work had been, or whose, or what answer he had arrived at, and when I tried to come at it from the side he turned the conversation back to the hedge with the ease of a man who had spent a professional lifetime declining to be led.
 
-*The keeper's sign. The one that is not spoken. The one that is older than the circle.*
+---
 
-I looked up. The clerk was watching me.
+I stood up somewhere after ten.
 
-"Your predecessor," he said quietly, "came to me once, many years ago. He asked me the same question. He asked whether the survey showed the second mark. I showed him this page. He looked at it for a long time, and then he told me never to speak of it again."
+"Take the other coat," he said.
 
-"Vale."
+"I have a coat."
 
-"Vale." The clerk closed the book. "He said it was not a mark for the Order to know. He said it was older than the Order, and that the Order had been built on top of it, and that the men in the room above the brewery would not understand it if they saw it. He asked me to keep the book hidden, and I have kept it hidden, and I have shown it to no one until now."
+"You have a thing with a hole in the shoulder that was a coat when Bonaparte was in Egypt. There is a heavier one on the back of the press. Take it."
 
-"Why are you showing it to me?"
+"I am not cold."
 
-"Because he is dead," the clerk said. "And you have come to ask the same question. That means the mark has appeared again. And if it has appeared, then the thing Vale was waiting for has begun."
+"You always say that."
 
-I left the vestry with the image of the note in my mind — a line, three strokes, and the words: *the keeper's sign. The one that is older than the circle.* The circle was the mark on the gear. The circle was the mark I had been shown. The circle was what the Order knew, what the Order watched, what the Order had built its understanding of the boundary around.
+He said it without looking up, and it was not shaped like affection, and I did not take the coat.
 
-And the line and three strokes — the second mark, the one erased from the earth, the one worn smooth on the door beneath the seal — that was older. That was the keeper's sign. That was what Vale had known and never told. That was what the clerk had kept hidden for him, and what the Order had never been shown, and what the man who had followed me from the brewery had been trying to erase before I could read it.
+I have thought about that a great deal since.
 
-I did not know why. I did not know who. But I knew now that there were two marks — two signatures — and that the one I had been watching was not the one that mattered.
+At the door he said, "Come Thursday. Not tomorrow. Thursday. I am tired, and you are tedious when you have something to report."
 
-I went to the common. It was still early, the sun not yet high enough to burn the mist from the grass. The common was empty. The edge of it, where the grass met the lower pasture, was empty too. The house was not there. I had not expected it to be.
+"Thursday."
 
-I stood at the edge of the common, in the wet grass, and I looked at the place where the house had stood. The grass was flattened — not in a square, but in a shape I had not noticed before. The shape of a door. A door, lying flat on the earth, pressed into the grass, as if the house had stood on it and the weight of the house had driven the shape of a door into the ground.
+"And Leon —"
 
-I knelt. The grass was not crushed. It was pressed, the way grass is pressed when something heavy has stood on it for a long time. The shape of the door was clear — a rectangle, narrow, the width of a man's shoulders. I put my hand to it. The grass was cool and damp. It had been pressed for some time.
+He almost never used my name. I turned round.
 
-I looked at the common. I looked at the lane. I looked at the mill, visible in the distance beyond the wall. The shape of the door pointed toward the mill.
+"Read that journal in order," he said. "When you get to it."
 
-I did not tell anyone what I had found. I went back to my rooms, sat at my desk, and opened my notebook. I wrote:
+I said I would.
 
-The second mark is older than the circle. It is the keeper's sign. Vale knew it. The clerk kept the record. The Order does not know it. The grass where the house stood is pressed into the shape of a door. The door points toward the mill. I have been watching the mark the Order watches. I will watch the other now, and see what it shows me. I do not know what it opens — or whether it opens anything at all. But it is older than the Order, and older than the Agreement. And I am the keeper.
+Then I went out, and the door closed behind me, and I walked down the lane in the wet dark with a hole in the shoulder of my coat, thinking about nothing in particular.
 
-I closed the notebook. I took the gear from my coat and held it in my hand. I looked at the mark — the circle, the short line — and I understood that I had been carrying it for the wrong reason. Not because the gear was wrong. But because I had thought it was the only thing.
+---
 
-The circle was the lock. The line and three strokes — the keeper's sign — was what the lock was built to contain. I did not know what that meant. But Vale had known, and he had kept it from the Order, and he had died with it still unspoken. Whoever had followed me from the brewery, whoever had erased the mark from the earth, whoever had been watching me from the dark — they knew it too.
+I have the record of that night in my own book. I wrote four lines when I got home.
 
-The question was not what the mark was. The question was why they did not want me to see it. And the bell — silent, waiting — held its own answer.
+*Went to V's with no reason. Ate. He is much weaker — twice out of breath mid-sentence, says it is only the breath.*
+
+*He said: you do not owe the dead your life. Do not know what prompted it.*
+
+*Says come Thursday.*
+
+*Cold walk. Should have taken the coat.*
+
+That is the whole of it. Four lines, and one of them about a coat.
+
+I went on the Thursday.

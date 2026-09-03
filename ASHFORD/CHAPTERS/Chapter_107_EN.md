@@ -1,146 +1,179 @@
-﻿CHAPTER 107 — THE BOOK OF ORIGINS
+CHAPTER 107 — THE THIRD TEST
 
-Elias Marr lit the lamp.
+The third test came in the winter.
 
-It was the same lamp I had seen from the mill-yard corner — a small lamp, old, with a glass that had been mended once. He set it on the table, beside the book, and the light fell on the pages, and I saw what the book was.
+I had not heard from Adeline Brume since the auction. I had gone to the lending library, and she had not been there. I had asked at the auction house, and no one had seen her — the man in the office had looked at me as if I had named a door that did not exist. I had walked the boundary, and I had kept the account, and I had waited, and as the weeks went by I had begun to think that the tests were over, and that I had passed or failed without ever being told which.
 
-It was a ledger, bound in black leather, its spine cracked with age. The pages were filled with a hand I had seen before — in the margins of the vestry book, in the pages of the wardens' ledger, in the letter of Aurelius Ashcroft.
+I was wrong.
 
-The same hand.
+The third test came in the form of a name — a name I could not yet say aloud, written on a piece of paper, placed under the stone by the step, in the morning, the way the first letter had been placed on the hall table. I found the stone lifted when I went out at first light. Under it lay the paper, folded once, dry against the frost.
 
-I looked at Elias.
+I brought it in. I opened it.
 
-"You know this hand," he said.
+*Marcus Ferrand.*
 
-"I know it."
+I did not know the name.
 
-"It is the hand of the man who erased the origins," he said. "The man who collected these objects, and who removed their histories, and who left them in this town for others to find."
+I turned the paper over. There was nothing else. No address. No date. No instruction. Only the name, in the same hand as the letters, as if the writing itself had grown tired of explaining.
 
-I looked at the book. The hand of the man who had erased the origins.
+I stood at the desk, with the paper in my hand, and I did not know what the test was. I had been given a name and nothing else. I was to find the man, I supposed, or to find something about him, or to find what he had to do with the room and the box and the gold and the woman who had watched me for two years. I could not say.
 
-"It is the hand of Aurelius Ashcroft," I said.
-
-Elias was silent a moment.
-
-"No," he said. "It is the hand of the man who came before him."
-
-I stood very still.
-
-"The man who came before Aurelius Ashcroft," I said.
-
-"The keeper before the keeper," Elias said. "The man who built the first sign, and who carved it into the stone, and who set the boundary, and who made the first agreement. The man whose name is not in any record."
-
-I looked at the book. The hand of the man who had come before Aurelius.
-
-"His name is not known," Elias said. "He was the first keeper. He built Bellweather House. He set the boundary. He carved the first sign—and the twelve that followed. And then he erased his own history — not because he was afraid, but because he wanted the keeping to be about the thing, and not about the man."
-
-I stood in the lamplight, among the objects without history, and I understood.
-
-The objects in Elias Marr's collection had not been scrubbed by someone else. They had been scrubbed by the first keeper — the man who had come before Aurelius, who had built the first sign, and who had erased his own history so that the keeping would be about the thing, and not about the man.
-
-"This book," Elias said, "is the record of what he erased. It is the account of the origins — the origins of the objects, the origins of the signs, the origins of the keeping. It is the only record that remains."
-
-I looked at the room — the coins without years, the books without authors, the paintings without signatures. "Why do you collect them?" I said. "The erased things."
-
-He was silent a moment. "Because someone must keep them," he said. "The man who erased them did not destroy them. He scattered them, so they would be found. If no one kept them, the erasure would be complete. I keep them so the erasure is not complete."
-
-"Even if you do not know what they are?"
-
-"Even then." He looked at me. "The keeping is the thing. The man is not."
-
-He said it the way a man says a thing he has repeated many times, until it has become the shape of his life. I had written the same words in the red book. I had read them in the book of the first keeper. And now I heard them spoken by a man who collected the things that had been erased, in a house full of objects without history, and I understood that the keeping was not a single thing. It was a thread that ran through all of us — the first keeper, Vale, the keeper before Vale, Ysabel, Elias Marr, and me — and we were all of us holding it in different hands.
-
-I looked at the book.
-
-"And you have been keeping it," I said.
-
-"I have been keeping it," Elias said. "I have been keeping it for years, waiting for the keeper who would understand it."
-
-I looked at him.
-
-"Waiting for me."
-
-"Waiting for you," he said. "I have been watching you since you found the clock in the market. I have been watching you since you found the key, and the lock, and the letter. I have been watching you since you accepted the key to the reading room."
-
-He was silent a moment.
-
-"I am not a member of the society," he said. "I am a collector. I collect the things that have been erased. And I have been holding this book until the keeper came."
-
-I stood in the room, with the book before me, and I understood.
-
-The society had not sent me to steal the book. They had sent me to find it — to find the man who was holding it, and to receive it from him.
-
-Because they had known that Elias Marr would not sell it, and would not show it, and would not give it to anyone — except the keeper.
-
-I looked at Elias.
-
-"You have been holding it for me," I said.
-
-"For you," he said. "Take it. It is yours."
-
-I reached out. I took the book.
-
-"How did it come to you?" I said.
-
-He did not answer at once. He looked at the book in my hands, and I saw something move behind his eyes — not reluctance, but the weighing of how much to say.
-
-"It came to me the way the others came," he said. "A man brought it, years ago, and would not say where he had found it. He said only that it had been kept for a very long time, and that it was looking for its keeper, and that I was to hold it until the keeper came."
-
-"And you believed him."
-
-"I believed the book." He looked at me. "It was the only object I ever kept that was not erased. It was the record of the erasure itself. Whatever man carried it, he knew what he was carrying."
-
-He did not say the man's name. He did not say where the man had come from, or where he had gone. I did not ask again. Some questions, in Ashford, are not answered so much as carried.
-
-The book was heavy in my hands. The leather was cracked, the pages yellow, the ink brown with age. The hand of the first keeper was on every page.
-
-I did not open it then.
-
-I stood in the lamplight, with the book in my hands, and I understood that I had been given something that had been waiting for me for a very long time.
-
-The account of the origins.
-
-The record of what the first keeper had erased.
-
-The book of the first sign.
+But I had been given a name, and I had learned that in Ashford a name is a thing that can be followed. Names in this town leave marks the way water leaves marks on stone — slow, and old, and cut deeper than the things written over them.
 
 ---
 
-I carried the book home through the dark streets.
+I began with the records.
 
-I set it on the desk, beside the red book, and I sat and looked at it.
+I went to the vestry first, because the vestry keeps what the town has tried to forget, and I asked the clerk for the name. He was at his table, in the cold room, and he looked at me over his spectacles the way he looked at everything — as if the world were a ledger he was not certain balanced.
 
-The account of the origins.
+"Marcus Ferrand," he said, and he said it as if testing the weight of it. "That is not a name I have been asked for in my time at this table."
 
-The hand of the first keeper.
+He went to his shelves and brought down the old books, and he did not find much, and what he did find he gave me without comment, and I understood that he was doing what the clerk always did with names that troubled the town — he was letting them be found without helping them, and letting them be lost without denying them.
 
-The man who had set the boundary, and carved the first sign, and built Bellweather House, and erased his own history so that the keeping would be about the thing, and not about the man.
+I went to the library. I went to Arthur's shop, where the old papers were kept that no one else thought to keep. I asked about the name wherever records were kept and hands had been steady.
 
-I did not open it that night.
+It took me a week.
 
-I sat in the dark, with the book before me, and I understood that I had been given something that I was not ready to read.
+I found him in the records of the constable — old records, from before Calloway's time, bound in leather gone soft with handling. Marcus Ferrand had been a constable, once, in Ashford. He had been the constable before Vale, and he had kept the town for fifteen years, and he had retired, and he had disappeared from the records, the way a man disappears when no one writes down where he went.
 
-The account of the origins was not a book of answers. It was a book of beginnings — the beginning of the keeping, the beginning of the signs, the beginning of the boundary.
+I found him in the register of the church — a marriage, forty years ago, to a woman named Mary; a birth, thirty-eight years ago, of a daughter named Elizabeth. Two entries, a man's life compressed into a line of ink each. He had existed. He had married. He had had a child. And then the ink stopped.
 
-And I was not ready to read it.
+I found him in the records of the poor-house — a note, twenty years ago, that a man named Marcus Ferrand had been taken in, and had stayed a year, and had left. The note gave no explanation for either the staying or the leaving.
 
-I was still learning what the keeping was.
+I found him nowhere else.
 
-I would open the book when I was ready.
+I could not tell for certain whether he was alive or dead, or where he lived. I had a name, and a history in pieces, and nothing more, and I could not say what the test was asking of me — whether it was asking me to find the man, or to find the truth about him, or to find the thing that had been taken out of the records in his name.
 
-I put it in the drawer, beside the red book, and the agreement, and the key to the reading room.
+---
 
-I sat in the stillness.
+I went to see Calloway.
 
-I was the keeper. I was a hunter. I was a man who worked with a society that had no name.
+He was in his office, at his desk, the way he had been when I had first come to him, years ago, with the gear and the clock and the questions. The lamp was burning against the winter dark, and the street beyond the window had the flat grey of winter.
 
-And I had been given the book of the first keeper.
+He looked up when I came in.
 
-I could not yet tell what was in it.
+"You have not been to see me in a while," he said.
 
-But I knew that I would open it, when the time was right.
+"I have been busy."
 
-The hunt had led me to the book. The society had led me to Elias Marr, and Elias Marr had led me to the first keeper's own account, and the man who had brought the book to Ashford — the man who had said it was looking for its keeper — had vanished without a name. I did not know who he was. I did not know whether he was one of the society, or the keeper before Vale, or something else entirely. I only knew that the book had been waiting for me, and that I had been led to it by a chain of hands I could not see.
+"Busy." He looked at me. "I have heard. The auction. The room above the chandler's shop. The woman Brume."
 
-The book was not the end of the hunt. It was the beginning of something new — an origin that would not stay buried, and a keeper who could no longer claim to have started from nothing.
+I was not surprised that he knew. In Ashford, the constable knows everything, sooner or later.
 
+"I need to ask you about a name," I said.
+
+"What name."
+
+"Marcus Ferrand."
+
+Calloway was silent a long moment. I saw something change in his face — the set of his jaw, the stillness of his hands on the desk. It was not surprise. It was the particular wariness of a man who has been waiting to be asked a question he hoped he would not be asked.
+
+"Where did you hear that name?"
+
+"I was given it."
+
+"By whom?"
+
+"I do not know."
+
+He looked at me for a long time. Then he stood, and he went to the cabinet at the back of the office, and he took out a file — a thin file, yellow with age, the kind of file that is kept because it cannot be thrown away and cannot be acted upon. He set it on the desk, but he did not open it.
+
+"Marcus Ferrand," he said, "was the constable before Vale. He was constable for fifteen years. He was a good man, they said. He kept the town well."
+
+"And then?"
+
+"And then he retired," Calloway said. "He retired, and he went to live with his daughter, and he was not heard of again."
+
+"Not heard of?"
+
+"Not heard of," Calloway said. "There is no record of his death. There is no record of his leaving. There is no record of anything after the year of his retirement. He simply — stopped being in the records."
+
+He tapped the file with one finger.
+
+"I have had this file since I took the office from Vale," he said. "Vale had it from Ferrand's successor, and no one has ever written a single line to go inside it. A man who keeps a file empty for that long has made a decision about it. I never asked what the decision was."
+
+He turned the file a little on the desk, squaring it, the way a man does when he is deciding how much to say.
+
+"I will tell you one thing about Vale, since you have asked me about the man before him. Vale did not keep files. He kept copies. Twice in my first year I sent a report up and had it come back altered — small things, a date, a word — and both times Vale had the original in his own hand and showed it to me without a word of comment, as if it were the most ordinary thing in the world to have kept it. I asked him once why he bothered. He said that a man who has only one copy of a thing does not own it."
+
+"That is a strange lesson for a country constable."
+
+"It is," Calloway said. "I have thought so for twenty years."
+
+I stood in the office. The lamp burned. The file lay unopened between us, and I understood that Calloway had given me something — not the contents, but the permission, or the warning, that there was a thing in Ashford that had been deliberately left blank.
+
+Marcus Ferrand had been the constable before Vale. He had retired. He had disappeared from the records. And I had been given his name, with no instruction, no explanation, no clue.
+
+I could not tell for certain what the test was.
+
+But I knew that it was not a test of my ability to find information.
+
+It was a test of my ability to find a man who had been lost.
+
+---
+
+I looked for Marcus Ferrand for two weeks.
+
+I followed the trail of his daughter — Elizabeth, who had married a man named Harlow, and had moved north, and had not been heard of in thirty years. I followed the trail of the house where they had lived — a small house on the edge of Ashford, long since sold, long since changed hands, its rooms occupied now by people who had never heard the name.
+
+I followed the trail of the man himself. I went to the places a man goes when he does not want to be found, and then to the places a man goes when he wants to be forgotten, and I found nothing in either.
+
+I found no trace of Marcus Ferrand, living or dead. No grave, no letter, no mention of him after the year of his retirement. The town had simply closed around the space where he had been, the way water closes over a stone.
+
+I had been given a name, and the name had led to nothing.
+
+I had no way of knowing whether that was the correct answer — the answer the test was looking for — or whether I had failed. It occurred to me, standing in the cold outside the vestry on the last day of the search, that the test might be one that could not be failed in the ordinary way, because the man it asked me to find had been removed with such care that finding him was not the point. The point was what I would do when I could not find him.
+
+I went to the lending library, and I found Adeline Brume at her table, as if she had been waiting for me.
+
+"Marcus Ferrand," I said. "I have looked for him. I have found nothing. He is not in the records. He is not in the town. He is not anywhere that I can find."
+
+Adeline looked at me.
+
+"And what do you conclude from that?"
+
+I was silent a moment. The lamp burned between us. I had carried the name for two weeks, and I had carried it as a question, and now she was asking me to lay it down as an answer.
+
+"I conclude that he does not want to be found," I said. "I conclude that he has been deliberately removed from the records. And I conclude that the person who gave me his name wanted me to find that out — not to find him."
+
+Adeline was silent.
+
+"You have passed the third test," she said.
+
+I looked at her.
+
+"Three tests," she said. "The first tested your ability to see what was not there. The second tested your ability to see what was hidden. The third tested your ability to see when to stop."
+
+She stood. The lamp made her shadow on the wall.
+
+"You have passed all three, Mr. Ashcroft. There is one more thing."
+
+She set a paper on the table.
+
+"An address," she said. "A house, on the edge of Ashford. Tomorrow evening, at eight. Come alone."
+
+I looked at the paper.
+
+"The fourth test?" I said.
+
+"No," she said. "The end of the tests."
+
+She smiled — a small, worn smile.
+
+"Someone wants to meet you."
+
+---
+
+I did not sleep that night.
+
+I sat at the desk, with the address before me, and I thought about the three tests. The room and the three accounts. The box and the first sign. The name that led nowhere. I had passed all three. After the first test I had been given a choice, to continue or to stop, and I had continued, and I had not stopped since, and I understood now that the choice had never really been mine to make — that the man who had been watching me for two years had known, before I did, which way I would choose.
+
+I could not say who it was I was going to meet. I could not say whether I was walking into a meeting, or a trap, or something else entirely — a door, a room, the end of the road I had been walking since the clock in the market. I only knew that I had been asked three questions, and that I had answered them, and that the answers had led me here, to this address and the woman who had told me someone wanted to meet me.
+
+I thought about Marcus Ferrand, retired, gone to live with his daughter, not heard of again. I thought about how a man removes himself from a town — carefully, deliberately, leaving nothing. And I thought about the reverse of it: how a town removes a man, and what it does with the empty space.
+
+I knew that I would go in the morning.
+
+I knew that I would go alone.
+
+And I knew that whatever was at the end of the road would be wearing a face I had not yet learned to name.

@@ -1,142 +1,154 @@
-﻿CHAPTER 63 â€” THE INSIDE
+CHAPTER 63 — THE RECKONING
 
-The house appeared that evening.
+I did not go to the Order. I did not go to the common. I did not go to the eastern marker.
 
-I was not at the common. I was at my desk, with the object and the gear before me, when I felt the warmth â€” the same warmth I had felt at the edge of the common, the warmth of the object responding to something it knew.
+I stayed in my rooms for two days, and I did not leave them, and I did not light the lamp, and I did not write in my notebook.
 
-I looked at the object. It was warm.
+I sat at my desk in the dark, with the gear in the drawer, and the map in the drawer, and the agreement in the drawer, and I thought about what it meant to remember.
 
-I looked at the window. The light had failed. The street outside was dark. The town had settled into its evening stillness.
+I had been a keeper for a month.
 
-I did not wait. I put the object in my coat, and I put the gear in my coat, and I went out.
+I had been given the gear, and the agreement, and the account of the boundary. I had been told that the door was beneath the mill, and that the door was beneath the common, and that the door was at the eastern marker.
 
-I walked to the common. The house was there.
+I had been told that the door was a seal, and that the door was a key, and that the door was a memory.
 
-It stood at the edge of the grass, where the grass met the lower pasture, its windows dark, its front door open. It had not been there when I had looked from my window. It had appeared, as it always appeared, without sound, without warning, without a reason I could name.
+I had been told so many things that I had not known what to keep.
 
-I crossed the common. The object grew warm against my chest. I stepped over the threshold.
+And I had forgotten the sign. The keeper's sign. The line and three strokes. The sign that was older than the circle, older than the Order, older than the wall. The sign that was not a key, and not a lock, and not a door. The sign that was a memory.
 
-The room was the same â€” the bare hallway, the clock stopped at 00:00, the chair that had not been there before, facing the door.
+I had forgotten it. I had been so busy watching the door, and counting the signs, and following the path, that I had forgotten what the sign was for.
 
-I stood in the middle of the room. The object was warm. It had been warm at the edge of the common, and warm at the keeper's sign in the earth, and it was warm now, inside the house, warmer than it had been outside.
+The sign was not a path. The sign was the thing that was kept.
 
-I took it out. I held it in my hand. It was warm â€” not hot, but warm, the warmth of a thing that had been near something it knew.
-
-I looked at the room. The clock. The chair. The bare walls.
-
-I had been here before. I had found the paper on the chair, the drawing of the two marks, the sentence on the back. I had found the trapdoor, and the passage, and the door that opened from both sides. I had not understood the room. I had not understood the house.
-
-I had treated it as a mystery to be entered and left â€” a place to find a clue and carry it out. I had not stopped to ask what the house was.
-
-I held the object up. I moved it slowly across the room, the way I had moved it across the common.
-
-It grew warmer as I moved toward the back wall. It grew cooler as I moved away. I followed the warmth.
-
-It led me past the clock, past the chair, to the back wall of the room â€” the wall opposite the door, where I had not looked, because there was nothing there, because the room was bare.
-
-I stopped at the wall. The object was warmest there. I put my hand to the wall.
-
-It was wood â€” the same dark wood as the floor, the same wood as the door. I ran my hand across it, and there was nothing â€” no seam, no panel, no door.
-
-But the object was warm. I held it against the wall. Nothing happened.
-
-I moved it up. I moved it down. The warmth was strongest at a height just above my heart.
-
-I held the object there, against the wood, and I felt the warmth through my hand.
-
-And then I saw it. A mark. Faint, almost invisible in the dark â€” a mark on the wood, at the height where the object rested.
-
-A circle. Three lines through it. A single dot.
-
-The first sign. Carved into the back wall of the house, faint and worn, so faint that I had not seen it in my two visits, so faint that it could only be seen in the dark, only when the eye was looking for it, only when the object was held against it.
-
-I stood in the bare room, with the object against the first sign on the wall, and I understood that the house was not a door. The house was a keeper. A keeper that had kept the first sign, carved into its wall, hidden where only the maker's sign could find it.
-
-I lowered the object. I did not remove it. I held it against the first sign, and I felt the warmth pass between them â€” the object and the wall, the first sign and the first sign, the maker's sign and the maker's sign.
-
-And beneath the warmth, I heard it. The sound I had heard in the spring. The knocking.
-
-Three knocks. Slow. Deliberate. From beneath the floor.
+And I had kept everything except the one thing I was meant to keep.
 
 ---
 
-I stood very still.
+On the third day, Crowe came to my rooms.
 
-The knocking had come from beneath the floor in the spring, and I had not found the source of it, and I had not found the trapdoor until I had looked beneath the mat, and I had not gone down.
+I let him in.
 
-I had gone down since. I had walked the passage. I had counted the signs. I had found the door that was not a door.
+He stood in the doorway, as he had stood before, and he looked at me, and he did not speak.
 
-The knocking came again. Three knocks. From beneath the floor, directly beneath where I stood â€” directly beneath the first sign on the wall, directly beneath the object.
+"Have you come to warn me again?" I said.
 
-I did not move. I held the object against the wall, and I listened, and the knocking came again â€” three knocks, slow, deliberate, patient.
+"No."
 
-It was not a threat. It was not a summons. It was a reply.
+"Have you come to ask about the gear?"
 
-The object had touched the first sign, and the house had answered, and the answer had come from beneath the floor, from the passage, from the door that was not a door.
+"No."
 
-I lowered my hand. The object was still warm. I put it back in my coat. I knelt. I lifted the edge of the front mat. The ring was there.
+"Then why have you come?"
 
-I put my finger through it and pulled. The trapdoor opened. The darkness rose. The smell of earth and stone and old iron.
+He was silent a moment.
 
-I lit a candle. I went down.
+"The Order has decided," he said. "They have decided that you are not the keeper. They have decided that Vale did not mean to name you, and that the gear should be taken, and that the door should be opened by someone who understands it."
+
+I looked at him.
+
+"Who decided?"
+
+"Graves," he said. "And the woman with the ledger. And the others. They met last night, without me, and they decided."
+
+"And you?"
+
+"I refused." He was very still. "I told them you were the keeper. I told them Vale had named you. I told them the gear was yours. They did not listen."
+
+I stood in the room.
+
+The Order had decided. They had decided that I was not the keeper. They had decided that the gear should be taken. They had decided that the door should be opened.
+
+I thought of the eastern marker, and of the sign at its base, and of the words in the margin of the map. *Here the door is not opened but remembered.*
+
+The Order wanted to open it. The Order had decided that the door was a door, and that it should be opened, and that I was not the keeper.
+
+And I understood, standing in the room, that I had a choice.
+
+I could tell them. I could tell them that the door was not a door. I could show them the map, and the sign, and the words in the margin. I could tell them that the wall was not built to keep anything out, and that the keeper's sign was older than the Order, and that the door was a memory that could not be opened.
+
+Or I could let them decide. I could let them take the gear. I could let them go to the eastern marker, and open the door that was not a door, and find nothing, and tear down the wall looking for what they thought was there.
+
+I could not yet tell which was the right choice. I could not say whether telling them would make them stop, or whether it would make them worse.
+
+I looked at Crowe.
+
+"I will not give them the gear," I said.
+
+"I did not think you would."
+
+"I will not give them the map."
+
+"I did not know there was a map." He looked at me. "But I did not think you would give them anything."
+
+I stood in the room.
+
+The Order had decided. I had chosen.
 
 ---
 
-The passage was as I had left it. The stone walls. The worn floor. The keeper's signs cut into the stone at intervals, one after another, marking the way.
+That night, I went to the common.
 
-I walked the passage with the object warm against my chest, and I counted the signs by the candlelight.
+The house was there. I had not expected it to be, but it was there, standing at the edge of the grass, its windows dark, its front door open.
 
-One. Seven. Twelve. Eighteen. Nineteen.
+I crossed the common. I did not stop at the threshold. I did not look at the clock. I knelt, lifted the mat, and pulled the iron ring.
 
-I stopped at the nineteenth sign. The line, the three strokes, the middle stroke extended, crossing the line, the small circle at the crossing.
+The trapdoor opened. I did not light a candle. I went down the ladder into the dark, and I walked the passage without light, my hand on the wall, counting the signs by touch.
 
-I held the candle close. The object was warm â€” warmer here, in the passage, at the nineteenth sign, than it had been anywhere else.
+The signs were there. The keeper's sign — the line and three strokes — cut into the stone, one after another, marking the way.
 
-I took the object out. I held it against the nineteenth sign. The first sign against the keeper's sign. The maker's sign against the sign that kept it.
+I counted them. One. Seven. Twelve. I did not lose count. Eighteen.
 
-I held them together, the warm metal against the cold stone, and I felt the warmth pass between them â€” the same warmth I had felt at the common, at the keeper's sign in the earth, at the first sign on the wall of the house.
+I stopped at the nineteenth sign. I put my hand to it in the dark — the line, the three strokes, the middle stroke extended, crossing the line, and the small circle at the crossing.
 
-The two signs recognized each other. I could not yet tell what that meant. But I knew that it was the same thing that had happened at the common, and at the wall of the house, and that it was happening here, at the nineteenth sign, at the place where the keeper's sign crossed the circle.
+I did not need to see it. I knew it by touch. I had found it on the wall. I had found it at the eastern marker. I had found it in the passage. I had found it everywhere, and I had not understood that it was the same sign, everywhere, marking the same thing — the place where the keeper's sign crossed the circle, the place where the door was not opened but remembered.
 
-I lowered the object. I walked on. I reached the door.
+I walked on. I reached the door.
 
-The door was as I had left it â€” sealed, with the depression for the gear, the keeper's sign above it, the circle below it. I did not put the gear in the depression. I held the object against the door. I felt the warmth.
+I stood in the dark, with my hand on the stone, and I felt the depression for the gear, and the keeper's sign above it, and the circle below it.
 
-And the knocking came again â€” three knocks, slow, deliberate, from the other side of the door. From the door that was not a door. From the place where the first sign had been kept, before it had been carried away, before it had come to me, before I had known what I was carrying.
+I put the gear in the depression.
 
-I stood in the passage, with the object against the door, and the knocking came again â€” three knocks, patient, waiting â€” and I understood that the door was answering the object.
+I had not planned to. I had not brought the gear with the intention of using it. I had brought it because I had been carrying it for weeks, and I had not known what it was for, and I had come to the passage to understand.
 
-The first sign was at the door. The door knew the first sign. And the door was waiting for the keeper to remember it.
+I put the gear in the depression. It fit.
+
+I did not turn it. I stood in the dark, with the gear in the depression, and I felt the shape of it, and I understood that I could turn it — that I could turn it, and open the door, and see what was behind it, and end the mystery.
+
+The Order wanted me to open it. The stranger wanted me to open it. The map said the door was not opened but remembered.
+
+I did not turn the gear. I took it out. I put it back in my coat.
+
+I stood in the dark, with my hand on the stone, and I thought about the sign. The keeper's sign. The line and three strokes. The sign that was older than the circle. The sign that was not a key, and not a lock, and not a door. The sign that was a memory.
+
+I had remembered. I had not opened the door. But I had remembered.
+
+And remembering, I understood, was the whole of what I was meant to do.
 
 ---
 
-I did not open the door.
+I climbed the ladder. I closed the trapdoor. I replaced the mat.
 
-I took the object away from the door, and I put it back in my coat, and I climbed the ladder, and I closed the trapdoor, and I replaced the mat.
+I crossed the common, and the house was still there, standing at the edge of the grass, and I did not look back.
 
-The house was still there. I crossed the common. I walked home through the dark streets, and I sat at my desk, and I opened my notebook, and I wrote:
+I walked home through the streets of Ashford, and I sat at my desk, and I opened my notebook, and I wrote:
 
-The house is a keeper. It has kept the first sign carved into its wall, hidden where only the object could find it.
+The Order has decided I am not the keeper. They will take the gear if they can. I have chosen not to give it to them.
 
-The object warmed at the first sign on the wall. The house answered. Three knocks, from beneath the floor, from the passage, from the door.
+I went to the passage tonight. I put the gear in the depression. I did not turn it.
 
-I held the object against the nineteenth sign. The signs recognized each other. I held the object against the door. The door answered. Three knocks, patient, waiting.
+I have remembered. I will not forget again.
 
-The door knows the first sign. The first sign was kept at the door, before it was carried away, before it came to me. I do not know who carried it away. I do not know why it was brought back.
+I closed the book. I put it in the drawer, with the agreement, and the map, beneath the parish account.
 
-But I know that the house keeps the first sign, and that the door remembers it, and that I have been carrying the key to the whole of it, all my life, in a wooden box, in the bottom of a press.
+I did not hide the gear. I left it on the desk, where I could see it.
 
-I closed the book. I put it in the drawer, with the agreement, and the map. I did not put the object away. I left it on the desk.
+The Order wanted the gear. The Order wanted the door opened. The Order had decided that I was not the keeper.
 
-I sat in the dark, and I looked at it, and I thought about the house that was a keeper, and the door that remembered the first sign, and the knocking that came from beneath the floor, patient, waiting.
+But I was the keeper. I had the gear. I had the map. I had the sign. And I had remembered.
 
-The object had warmed at the keeper's sign. The object had warmed at the first sign on the wall. The object had warmed at the nineteenth sign. The object had warmed at the door.
+The door was not opened. But the door was not forgotten.
 
-The first sign was connected to everything â€” to the house, to the passage, to the door, to the keeper's sign. And I had carried it all my life.
+And I wondered, sitting in the dark, whether the time for keeping the door closed had passed — or whether it had not yet come. The Order wanted it opened; the stranger wanted it opened; but neither of them had spent a month at the stones, watching the marks, learning the silence of the passage. I had done that. I could not yet say what it had taught me, but I knew it had not taught me to open the door.
 
-I did not know what it was for. But I knew that the house knew it. And I knew that the door was waiting for it. And I knew that I was the keeper of the first sign â€” the sign of the maker â€” and that I had been carrying it, all my life, without knowing what I carried.
-
-I sat in the stillness until the lamp burned down. The object lay on the desk, catching the last of the light.
-
-The first sign. The circle, the three lines, the dot. I did not know what it meant. But I knew that the house had answered it. And I knew that I would go back. And I knew that the next time the house appeared, I would hold the object against the first sign on the wall, and I would listen to the knocking, and I would not leave until I understood what it was telling me. The knocking was a language I had not yet learned to read. I did not yet know whether it was the count's voice, or the door's, or something older than both — only that it was a language, and that it had been waiting for me to learn it, and that I would not rest until I did.
+And I would keep it, as long as I was keeper.
 

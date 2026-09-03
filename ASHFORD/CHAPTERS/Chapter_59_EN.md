@@ -1,154 +1,128 @@
-﻿CHAPTER 59 — THE RECKONING
+CHAPTER 59 — THE COUNT
 
-I did not go to the Order. I did not go to the common. I did not go to the eastern marker.
+I went to the mill the next morning to test the stranger's words.
 
-I stayed in my rooms for two days, and I did not leave them, and I did not light the lamp, and I did not write in my notebook.
+Not to the door — not yet. I went to the wall where the boundary stones stood, where the fourth stone carried the hairline mark across its face, and I knelt, and I looked at the stone as I had looked at it every morning for weeks.
 
-I sat at my desk in the dark, with the gear in the drawer, and the map in the drawer, and the agreement in the drawer, and I thought about what it meant to remember.
+I had been looking at the crack. I had been watching it for signs of growth, for signs of failure, for signs that the boundary was giving way.
 
-I had been a keeper for a month.
+I had not been counting.
 
-I had been given the gear, and the agreement, and the account of the boundary. I had been told that the door was beneath the mill, and that the door was beneath the common, and that the door was at the eastern marker.
+I moved along the wall, stone by stone, from the eastern marker to the corner where the wall turned, and I looked at each stone as I had never looked at them before — not for the circle, not for the crack, but for the first sign.
 
-I had been told that the door was a seal, and that the door was a key, and that the door was a memory.
+It was there. At the base of the first stone, hidden where the earth met the stone, a circle, and three lines, and a dot, cut deep and worn smooth by age. At the second. At the third. At every stone along the wall.
 
-I had been told so many things that I had not known what to keep.
+I knelt at each one and cleared the earth from its base and looked, and the sign was there — the first sign, carved into the stone, one at each stone, worn smooth by weather and time.
 
-And I had forgotten the sign. The keeper's sign. The line and three strokes. The sign that was older than the circle, older than the Order, older than the wall. The sign that was not a key, and not a lock, and not a door. The sign that was a memory.
+Not fifty. I counted the stones along the wall. There were not fifty. There were more than a hundred, running from the eastern marker to the corner where the wall turned, each one carrying the first sign at its base, each one older than the Order, older than the Agreement, older than anything in the town that had a name.
 
-I had forgotten it. I had been so busy watching the door, and counting the signs, and following the path, that I had forgotten what the sign was for.
+The stranger had told me the signs were a count. Fifty signs. Fifty years.
 
-The sign was not a path. The sign was the thing that was kept.
+I had walked the passage beneath the common, counting the signs in the candlelight, losing count around nineteen, believing they were fresh.
 
-And I had kept everything except the one thing I was meant to keep.
+They were not the only signs. There were signs on every stone along the wall.
 
----
-
-On the third day, Crowe came to my rooms.
-
-I let him in.
-
-He stood in the doorway, as he had stood before, and he looked at me, and he did not speak.
-
-"Have you come to warn me again?" I said.
-
-"No."
-
-"Have you come to ask about the gear?"
-
-"No."
-
-"Then why have you come?"
-
-He was silent a moment.
-
-"The Order has decided," he said. "They have decided that you are not the keeper. They have decided that Vale did not mean to name you, and that the gear should be taken, and that the door should be opened by someone who understands it."
-
-I looked at him.
-
-"Who decided?"
-
-"Graves," he said. "And the woman with the ledger. And the others. They met last night, without me, and they decided."
-
-"And you?"
-
-"I refused." He was very still. "I told them you were the keeper. I told them Vale had named you. I told them the gear was yours. They did not listen."
-
-I stood in the room.
-
-The Order had decided. They had decided that I was not the keeper. They had decided that the gear should be taken. They had decided that the door should be opened.
-
-I thought of the eastern marker, and of the sign at its base, and of the words in the margin of the map. *Here the door is not opened but remembered.*
-
-The Order wanted to open it. The Order had decided that the door was a door, and that it should be opened, and that I was not the keeper.
-
-And I understood, standing in the room, that I had a choice.
-
-I could tell them. I could tell them that the door was not a door. I could show them the map, and the sign, and the words in the margin. I could tell them that the wall was not built to keep anything out, and that the keeper's sign was older than the Order, and that the door was a memory that could not be opened.
-
-Or I could let them decide. I could let them take the gear. I could let them go to the eastern marker, and open the door that was not a door, and find nothing, and tear down the wall looking for what they thought was there.
-
-I could not yet tell which was the right choice. I could not say whether telling them would make them stop, or whether it would make them worse.
-
-I looked at Crowe.
-
-"I will not give them the gear," I said.
-
-"I did not think you would."
-
-"I will not give them the map."
-
-"I did not know there was a map." He looked at me. "But I did not think you would give them anything."
-
-I stood in the room.
-
-The Order had decided. I had chosen.
+The stranger had not told me the truth. Or he had told me a part of the truth, and the part he had left out was the part that mattered.
 
 ---
 
-That night, I went to the common.
+I went to the vestry.
 
-The house was there. I had not expected it to be, but it was there, standing at the edge of the grass, its windows dark, its front door open.
+The clerk was there, as he always was, at his table, with the ledgers and the keys.
 
-I crossed the common. I did not stop at the threshold. I did not look at the clock. I knelt, lifted the mat, and pulled the iron ring.
+He saw me, and he did not speak, and I did not speak. I waited until the room was empty.
 
-The trapdoor opened. I did not light a candle. I went down the ladder into the dark, and I walked the passage without light, my hand on the wall, counting the signs by touch.
+"The signs on the wall," I said. "The first sign, at the base of the stones. How many are there?"
 
-The signs were there. The keeper's sign — the line and three strokes — cut into the stone, one after another, marking the way.
+The clerk was silent a long moment.
 
-I counted them. One. Seven. Twelve. I did not lose count. Eighteen.
+"I do not know," he said.
 
-I stopped at the nineteenth sign. I put my hand to it in the dark — the line, the three strokes, the middle stroke extended, crossing the line, and the small circle at the crossing.
+"You have kept the vestry book for forty years. You showed me the page with the sign. You know more than you have told me."
 
-I did not need to see it. I knew it by touch. I had found it on the wall. I had found it at the eastern marker. I had found it in the passage. I had found it everywhere, and I had not understood that it was the same sign, everywhere, marking the same thing — the place where the keeper's sign crossed the circle, the place where the door was not opened but remembered.
+"I know what I have been shown." He looked at me. "I know that the signs are older than the record. I know that the surveyors did not draw them, and that the clerk who kept the book before me did not know what they were, and that the keeper who came to me — Vale — asked me to keep the page hidden. I do not know how many there are."
 
-I walked on. I reached the door.
+"Then find out."
 
-I stood in the dark, with my hand on the stone, and I felt the depression for the gear, and the keeper's sign above it, and the circle below it.
+He looked at me a long moment. Then he turned to the shelf, and he took down a book I had not seen before — a ledger, bound in the same cracked leather, its spine held with thread.
 
-I put the gear in the depression.
+"This is the book of the wall," he said. "It was kept by the wardens, in the years after the boundary was moved. It records the stones — the setting of them, the repair of them, the names of the masons who worked on them."
 
-I had not planned to. I had not brought the gear with the intention of using it. I had brought it because I had been carrying it for weeks, and I had not known what it was for, and I had come to the passage to understand.
+He opened it. The pages were filled with the careful hand of the wardens, recording the work of the wall.
 
-I put the gear in the depression. It fit.
+And in the margins, in a different hand, smaller and older, there were the marks. The keeper's sign. One at the foot of each page where a stone was recorded.
 
-I did not turn it. I stood in the dark, with the gear in the depression, and I felt the shape of it, and I understood that I could turn it — that I could turn it, and open the door, and see what was behind it, and end the mystery.
+I turned the pages. The signs ran along the margins, one after another, in the same small hand, and I began to count them.
 
-The Order wanted me to open it. The stranger wanted me to open it. The map said the door was not opened but remembered.
+The clerk watched me. I did not count aloud.
 
-I did not turn the gear. I took it out. I put it back in my coat.
+I turned page after page, and the signs ran on, and the hand that had written them never changed, and the number of them grew beyond counting, and I understood, before I reached the end of the book, that they were not a count of years.
 
-I stood in the dark, with my hand on the stone, and I thought about the sign. The keeper's sign. The line and three strokes. The sign that was older than the circle. The sign that was not a key, and not a lock, and not a door. The sign that was a memory.
+They were a record. A record kept by a hand that had watched the wall for a very long time, marking each stone, marking each repair, marking the work of the wardens and the masons and the men who did not know what they were building.
 
-I had remembered. I had not opened the door. But I had remembered.
+A count — but not of years. A count of stones. A count of everything that had been done to the wall, by every hand, in every year, so that no one could change it without the record showing.
 
-And remembering, I understood, was the whole of what I was meant to do.
+I closed the book. I looked at the clerk.
+
+"Who kept this record?" I said.
+
+"I do not know." He shook his head slowly. "It was old when I came to the vestry. The wardens did not know whose hand it was. They said it had always been there — that the signs appeared in the margins, and that no one added them, and that they were there because they had always been there."
+
+I stood in the vestry, in the cold light, with the book closed on the table.
+
+The stranger had told me the signs were a count of years, running out.
+
+The book said they were a record — a record kept by no one, added to by no one, present in every page, so that no one could change the wall without the signs showing. Or so I interpreted it. The clerk did not confirm my interpretation; he only said the signs had always been there. I could not tell whether he was telling me what he knew, or what he had been told to say.
+
+I could not yet tell which was true. I could not say whether they were both true — a count of years, and a record of the wall, kept by the same hand for reasons I could not see.
+
+But I knew that the stranger had come to Ashford and told me the count was running out. And I knew that the book in front of me said the count had never stopped being kept.
 
 ---
 
-I climbed the ladder. I closed the trapdoor. I replaced the mat.
+I walked from the vestry to the common.
 
-I crossed the common, and the house was still there, standing at the edge of the grass, and I did not look back.
+The house was not there. I had not expected it to be.
 
-I walked home through the streets of Ashford, and I sat at my desk, and I opened my notebook, and I wrote:
+I stood at the edge of the grass, in the afternoon light, and I looked at the pressed shape of the floor, and I thought about the passage beneath it, and about the signs in the passage, and about the signs on the wall, and about the signs in the margins of the book.
 
-The Order has decided I am not the keeper. They will take the gear if they can. I have chosen not to give it to them.
+I had thought, when the stranger spoke, that the signs were fresh. I had thought that someone had been carving them recently, preparing the way. I had thought that the count was running out.
 
-I went to the passage tonight. I put the gear in the depression. I did not turn it.
+I had been wrong.
 
-I have remembered. I will not forget again.
+The signs were old. The signs were everywhere. The signs had been kept — by Vale, by the wardens, by the clerks, by a hand that no one could name — for longer than the Order had existed, longer than the Agreement, longer than the town.
 
-I closed the book. I put it in the drawer, with the agreement, and the map, beneath the parish account.
+And the stranger had told me they were running out.
 
-I did not hide the gear. I left it on the desk, where I could see it.
+I did not know why he had lied. I did not know whether he had lied.
 
-The Order wanted the gear. The Order wanted the door opened. The Order had decided that I was not the keeper.
+But I knew that I could not trust what he had told me, and I knew that I could not trust the Order, and I knew that I could not trust the vestry — because the clerk had kept the book of the wall hidden for years, and Vale had asked him to keep the page hidden, and no one had ever told me that the signs were everywhere.
 
-But I was the keeper. I had the gear. I had the map. I had the sign. And I had remembered.
+At home, I sat at my desk. I opened my notebook, and I wrote:
 
-The door was not opened. But the door was not forgotten.
+The signs are on every stone of the wall. They are in the margins of the wardens' book. They are in the passage beneath the common. They are not fresh. They have been kept for longer than anyone can name.
 
-And I wondered, sitting in the dark, whether the time for keeping the door closed had passed — or whether it had not yet come. The Order wanted it opened; the stranger wanted it opened; but neither of them had spent a month at the stones, watching the marks, learning the silence of the passage. I had done that. I could not yet say what it had taught me, but I knew it had not taught me to open the door.
+The stranger told me the signs were a count of years, running out.
 
-And I would keep it, as long as I was keeper.
+The book says they are a record of everything done to the wall, kept so that nothing can be changed without the signs showing.
+
+I do not know which is true.
+
+But I know that the stranger lied, or that he was told a lie, or that he told me a truth that I have not yet understood.
+
+I have been keeper for a month. I have been watching the door. I have not been watching the signs.
+
+I closed the book. I put it in the drawer, with the agreement, beneath the parish account.
+
+Then I took the gear from my coat and placed it on the desk, and I looked at it, and I thought about the man who had come a long way to tell me the count was running out, and about the signs that were everywhere, and about the door that opened from both sides, and about the house that appeared when the door needed to be opened.
+
+I could not say who the stranger was. I could not tell for certain what the signs were for. I had no way of knowing whether the count was running out.
+
+But I knew that I had to find out.
+
+And I knew that the only way to find out was to go back down into the passage, and to walk the signs again, and to count them properly this time — not losing count, not trusting the candlelight, not believing what I had been told.
+
+I would count them myself. I would walk the whole length of the passage.
+
+And I would find out what the signs were counting, before the stranger — or the Order — or the door itself — decided for me.
 

@@ -1,105 +1,87 @@
-﻿CHAPTER 72 — THE PREPARATION
+CHAPTER 72 â€” THE KEPT RESPONSE
 
-I did not go to the passage for three days.
+I carried both Tokens for a week.
 
-I told myself it was because the house would not appear. I told myself the passage was only there when the house was there. I told myself I was waiting for the right time. The truth was that I was preparing.
+I did not go to the common. I did not go to the mill. I did not go to the eastern marker. I carried the two Tokens — one warm, one cold — and I went about my days, and I waited.
 
-I had learned that the keeper before Vale had opened the door, and that the bell had rung, and that the keeper had gone into the passage, and that he had not come back. I had learned that the bell was the keeper's bell, and that the first sign was on its rim, and that the Tokens warmed at it. I had learned that there were two houses, and two Tokens, and three signs. I had learned that the door was not a door. And I had learned that I was the keeper.
+It was harder than the waiting before the house appeared, because I did not know what I was waiting for. In the spring I had waited for the house at the edge of the common, and I had believed that if I waited rightly it would come. This was different. I had taken the second object from the house at the end of Bellweather Lane, and I had carried it, and I had tested it at the keeper's sign, and it had not answered. I had not tested it anywhere else. I had not taken it back to the house at the end of the lane. I had not taken it to Vale's house. I had not taken it to the house that appears at the edge of the common.
 
-I had been the keeper for two months. I had been keeping the account. I had been keeping the sign. I had been keeping the Tokens. I had been keeping the gear. I had not been keeping the door. I did not know whether I would open it. But I knew that if the bell rang, I would go into the passage. And I knew that I had to be ready.
+I carried both Tokens, and I felt them against my chest the way a man feels a debt — one warm, familiar, a beat I had grown up with; one cold, a stranger's weight, reminding me at every turn that I did not understand what I had taken on. At night I set them side by side on the desk and looked at them. My own object, warm. The second, cold. The lamplight falling on two identical first signs. I would put my hand over my own and feel the warmth rise; I would put my hand over the second and feel nothing, and the room would seem colder for it, and I would put them both away and not sleep well.
 
-The knowledge sat in me the way a stone sits in a field — not heavy all the time, but there, under everything, making the ground different. I walked the streets and saw the ordinary town, the ordinary lives, and I thought: the man who kept this door for fifty years is dead, and the man before him went down into the passage and did not come back, and the man before him built the house that does not change, and the line runs back and back, and I am the hand on it now. No one else in Ashford knew that the line had reached me. I did not know, myself, what the line would ask.
+The days themselves were ordinary. I bought bread. I kept my rooms. I answered the few greetings that came my way in the street and returned to the Tokens before the evening was out, as if they were a door I could not stop standing before. Crowe did not come. No one came. The town went about its business, and I went about mine, and the cold lay against my chest and asked nothing of me, and that was the worst of it — the silence of the thing.
 
-I prepared in the way I knew how. I wrote. I wrote in the red book, and in my notebook, and I wrote everything I had learned — the signs, the houses, the Tokens, the bell, the keeper before Vale, the Thursday of the bell, the passage, the door.
+And on the eighth day, I went back to the house at the end of Bellweather Lane.
 
-I wrote it all down. I wrote it so that if I did not come back, someone would find it. I did not know who. But I wrote it. I wrote the account of the boundary, and the signs, and the houses, and the bell, and the Tokens, and I put it all in the red book, and I put the red book in the drawer, with the agreement, and the map, and my notebook. I wrote until I had written everything I knew. And then I waited.
+I did not know why I went. I had taken the second object from that house. I had not expected to return. I had not expected the house to matter again. And yet that morning, when I woke, I knew I would walk the lane. It was not a decision. It was the end of a held breath. I dressed, I took my coat, I went out before the town was properly awake, and I walked.
 
-The writing did not make me ready. That was the thing I learned in those three days. I had thought that if I could set it all down — if I could turn the keeping into pages, into ink, into words I could read back — that I would understand it, and that understanding would be the readiness. It was not. The words lay on the page the way the signs lay on the stone. They pointed. They did not open. I read the account back in the candlelight, and I saw the shape of it, and I saw the hole in the middle of it, and the hole was the passage, and the words stopped at its edge. I closed the book. I had written everything I knew, and it was not enough, and I knew it would not be enough, and I wrote it anyway, because writing it was the only way I had of holding it.
+The lane was empty. The hedges were bare, and the light was grey, and past Vale's house the lane narrowed and turned and ran out into the fields, and the house stood where it had stood. Empty. Dark. Forgotten. It had not changed. It never changed — that was the nature of the house, though I did not have the word for it then. It stood at the end of the lane, and the fields lay beyond it, and nothing about it had moved since I had last closed its door.
 
-On the third day, Crowe came to my rooms. I had not seen him since the reckoning. I had told him I would keep the sign alone, and I had meant it, and he had let me be.
+I stood before it. I did not open the door. I took the second object from my coat, and I held it in my hand, and I stood before the house. It was cold. It had been cold for a week. I had carried it against my skin, and it had stayed cold, and I had begun to think it would never warm.
 
-He stood in the doorway. His coat was wet at the shoulders. The rain had begun again, the slow autumn rain that fell on the town and did not stop.
+I stood before the house at the end of Bellweather Lane, with the cold object in my hand, and I waited.
 
-"I have heard," he said, "that you have the key to the tower."
+And then it warmed.
 
-I did not deny it.
+Not slowly. Not gradually. It warmed as if it had been waiting — as if the house had reached out and touched it, and it had remembered. One moment the metal was cold in my palm, the cold of the drawer and the week and the box before it. The next, the warmth was there, rising through the metal as water rises through sand, until the object was warm in my hand, warm as my own object had ever been, warm as if it had been carried all its life and had only now been brought home.
 
-"I have heard," he said, "that you have been to the church, and that you have seen the bell, and that you have the Tokens, and that you have been to Goding's farm."
+I stood very still. The object was warm in my hand. It had not warmed at the keeper's sign at the common. It had not warmed at the door. It had not warmed anywhere I had carried it. It warmed here, before the house at the end of Bellweather Lane, the house where it had been kept, the house where it had waited, the house that had held it in a windowless room, in a box, for longer than anyone could remember.
 
-"You hear a great deal."
+I held the warm object in my hand, and I looked at the house. It was the same house. Empty. Dark. Forgotten. But the object was warm. And it had warmed for this house, and for no other.
 
-"It is what I do." He looked at me. "And I have heard that you are preparing to go into the passage."
+I put the object back in my coat. I stood before the house for a long time. I had carried the second object for a week, and it had stayed cold. I had brought it back to the house where it had been kept, and it had warmed. I did not know what that meant. But I knew that it was not an accident.
 
-I was silent.
+---
 
-"I have heard," he said, "about the keeper before Vale."
+I walked home slowly. I sat at my desk. I took out both Tokens. My own object — warm. The second object — warm. Both warm now.
 
-"Who told you?"
+I looked at them a long time. They lay on the desk as they had lain every night for a week, side by side, two first signs, and for the first time there was no cold between them. My object had warmed at the common, at the keeper's sign, at the house that appears, at the door. The second object had warmed at the house at the end of Bellweather Lane, at the house that had been kept, at the house that had held it.
 
-"Goding," he said. "I went to see him, after you did. He told me what he told you. The bell rang. The keeper went down. He did not come back."
+Two Tokens. Two houses. My object — the carried one — answered the house that appears. The second object — the kept one — answered the house that is kept.
 
-I stood in the room. Crowe knew. I had not told him. I had not told anyone. And yet he stood in my doorway with the rain on his coat and the whole of it in his mouth, and I understood that the keeping did not happen only in the passage. It happened in the telling. Goding had told Crowe, the way he had told me. The account passed from hand to hand, and the hands chose themselves.
+I understood, for the first time, that there were two houses, and two Tokens, and two first signs — and that I had been wrong to think they were the same. I had carried one Token all my life and had believed it was the whole of the first sign. It was not the whole. It was the half. My object was the first sign of the house that appears. The second object was the first sign of the house that is kept. The first sign had been kept twice — once carried, once hidden — because the keeping itself was doubled. There was the house that comes when it is needed, and there was the house that never changes, and each had its Token, and each Token knew its house.
 
-"The Order does not know," he said. "They do not know about the keeper before Vale. They do not know the bell has rung. They do not know about the two houses, or the Tokens, or the first sign. They know the gear, and the circle, and the door — and they believe that is the whole."
+Two houses. Two signs. Two Tokens. And I was the keeper of both.
 
-"And you?"
+I opened the red book. I wrote:
 
-"I am not the Order," he said. "I told you that at the brewery. I want to know what the door is for. I have wanted to know since before you came to Ashford."
+The second object warms at the house at the end of Bellweather Lane — the kept house. It does not warm anywhere else.
 
-"Then you want to know what I am preparing to do."
+My object warms at the common — at the house that appears — and at the keeper's sign, and at the door.
 
-"Yes."
+Two Tokens. Two houses. The carried object answers the house that appears. The kept object answers the house that is kept. I am the keeper of both.
 
-I was silent a long moment. "I do not know what I am preparing to do," I said. "I know that the bell rang once, and that the keeper went into the passage, and that he did not come back. I know that Vale kept the door closed after that. I know that I am the keeper now."
+I do not know what the two houses are. I do not know why there are two Tokens. But I know that they answer different houses. And I know that both have answered me.
 
-"And?"
+I closed the red book. I put it in the drawer. I did not put the Tokens away. I left them on the desk, both warm. Two Tokens, side by side. The first sign, twice.
 
-"And I know that I cannot keep a door closed that I do not understand."
+And I sat in the dark, and I thought about the two houses — the house that appears and the house that is kept — and about the two Tokens that answered them, and about the door, and the signs, and everything I had been carrying all my life.
 
-Crowe was silent. "You will go into the passage," he said.
+I had not known there were two. I had carried one object, and I had thought it was the whole. I had found the second, and I had thought it was the same. It was not the same. It was the other half. The house that appears was the keeper's house — the house of the keeper's sign. The house that is kept was the maker's house — the house of the first sign. And I had two Tokens, two signs, two houses. I was the keeper of both.
 
-"If the bell rings."
+I could not say what it meant. But I knew that I would find out. And I knew that the two houses were not two mysteries. They were one mystery, divided. And I was the keeper of the whole.
 
-"If the bell rings," he repeated. "You will go into the passage, and you will open the door, and you will not come back — like the keeper before you."
+---
 
-"Perhaps."
+The next morning, I went to the common before the light was fully up. I took both Tokens. I knelt at the edge of the grass, where the keeper's sign was pressed into the earth. I held my object over it. It warmed.
 
-"And you are preparing for that."
+I held the second object over it. It stayed cold. I had expected it to stay cold. It had stayed cold at the keeper's sign before. It warmed only at the house at the end of the lane. The cold came back into the metal almost at once, and I watched it return, and I did not read any failure into it. It was not meant for this sign. It had been made for the other house, the kept house, and it knew its own, the way my object knew the common and the door and the line pressed into the earth.
 
-"I am writing," I said. "I am writing everything down, so that if I do not come back, the account is kept."
+I put both Tokens back in my coat. I stood at the edge of the common, in the grey morning light, and I thought about the two houses, and the two Tokens, and the two first signs.
 
-Crowe looked at me a long moment. The rain sounded on the window. I could hear it, and I could hear the town beyond it, going about its evening in the wet, and none of it knowing what was being said in my room.
+The house that appears. The house that is kept. One appears when the keeper needs it. One is kept so that the maker is not forgotten. Two houses, one mystery. Two Tokens, one sign, divided.
 
-"Then I will keep it for you," he said.
+I walked home. I sat at my desk. I took out the red book, and I wrote:
 
-I looked at him.
+Two houses. Two Tokens. Two first signs. One house appears. One house is kept.
 
-"If you do not come back," he said, "I will take the red book from the drawer. I will keep it. I will make sure it is not lost."
+My object answers the house that appears. The second object answers the house that is kept. I am the keeper of both.
 
-"You would do that?"
+I do not know what the two houses are for. But I know that they are the same mystery, divided in two. And I know that I was given the object that answers the house that appears, and that I found the object that answers the house that is kept.
 
-"I would." He met my eyes. "I told you at the brewery that there is a difference between wanting to open a door and wanting to know what the door is for. I want to know. And if the account is the thing that is kept, then I will keep the account."
+I was not given one. I was given both. I have been carrying the whole, all my life, without knowing that there was a whole.
 
-I stood in the room. Crowe had offered to keep the account. He had offered to keep it if I did not come back. I did not know whether to trust him. But I had been alone, and he had come, and he had offered. There was a kind of arithmetic to it. Goding had been the keeper's man, the one who stays, the one who tells the next keeper what the last keeper did not come back to tell. I did not know if Crowe was that man. But he had put himself in the place of it, standing in my doorway in the rain, and I did not turn him away.
+I shut the book. I put it in the drawer. I left both Tokens on the desk. And I sat in the stillness, and I looked at them, and I understood that the mystery had never been about the door. It had never been about the signs. It had been about the two houses, and the two Tokens, and the keeping of both.
 
-"That is what I will do," he said. "When you go into the passage. I will be at the house at the end of the lane. I will wait. And if you do not come back, I will keep the account."
+And I was the keeper of both. The house that appears. The house that is kept. I would go to both. I would learn both. And I would keep the whole — the whole of what had been divided, whatever it was, whatever it became.
 
-"And if I do come back?"
-
-"Then you will keep it yourself." He turned to go. "And you will tell me what is behind the door."
-
-He went out. I heard his boots on the stairs, and the door of the house below open and close, and then there was only the rain again.
-
-I stood in the room. I did not know whether I trusted him. But I had told him where the account was. And I had accepted his offer. I did not know whether that was the right thing. But I was preparing to go into the passage, and I did not know whether I would come back, and it was something to know that the account would be kept.
-
-That night, I went to the common. The house was not there. I had not expected it to be. I knelt at the edge of the grass, where the keeper's sign was pressed into the earth, and I took out both Tokens. They were warm. Both of them. My Token, and the second Token. They had been warm since I had returned the first sign to Bellweather House.
-
-The rain had stopped. The common was dark and still, and the grass was wet, and the water came through my trousers at the knees as it had on other nights. The keeper's sign lay under my hand, the line and the three strokes, worn into the earth by the keeping of years. I held the Tokens over it, one in each hand, and they were warm, and the warmth was the only warmth in the dark, and I understood that I was kneeling at the place where the keeping had begun for me — the place where I had first brought the sign and felt it answer — and that I might be kneeling there for the last time.
-
-I did not know what I would do when the bell rang. I did not know whether I would open the door. But I knew that I was preparing. And I knew that the preparation was the keeping. I put the Tokens back in my coat. I walked home. I sat at my desk. I opened the red book. I wrote:
-
-I am preparing. I have written everything I think I know. If I do not come back, the account is in the red book, in the drawer, and Crowe has agreed to keep it. Whether he will keep his word, I cannot know. But the keeping is the thing, or so I tell myself. The bell may ring. I may go into the passage. I may not come back. The account will be kept, if anyone is there to keep it.
-
-I closed the red book. I put it in the drawer, with the agreement, and the map, and my notebook. I did not put the Tokens away. I left them on the desk. And I sat in the dark, and I waited.
-
-The bell was the keeper's bell. I held the key to the tower. I was the keeper. And I was ready — for I did not know what, but I was ready. The drawer was closed on the account, and the account was as complete as I could make it, and the hole in the middle of it was the passage, and I had written around the edge of the hole, and I had done all that writing could do. What remained was not a matter of pages. It was a matter of the bell, and the passage, and the door, and the thing beneath the door, whatever it was, and whether I would come back through the dark with the answer or stay in it with the question. I sat with the Tokens on the desk before me, both warm, and I did not know how much longer I would be sitting in this room, in this town, on this side of the ground. The keeping had asked nothing of me yet, by bell or by sign or by door. It had only waited. I had learned, in the passage and the houses and the vestry, that the waiting was not the peace. It was the space before the asking. And I was standing in it, ready — as ready as a man can be who does not know what he is ready for.
+In the evening I stood at my window and looked toward the end of the lane, and I thought about the kept house out there in the falling dark — empty and patient, holding its place at the edge of the fields while the town forgot it. The second Token lay on the desk behind me. It had cooled again. It would warm when I brought it near its house and cool when I carried it away, and I understood that I would spend the rest of the keeping learning where I stood by the heat of the metal against my chest — whether I was walking toward the house that appears or toward the house that is kept. The cold object had answered its house at last, and I was the keeper of both, but I could not yet say what the kept house was waiting for, or what it would ask of me when I stood before it again. I only knew that it had asked already — in the only way it could ask — and that I had heard.
