@@ -1136,3 +1136,198 @@ no police-uniform styling
 
 **Status:** V2 — JAMES CALLOWAY GENERATION PACKAGE + IMAGE REVIEW CRITERIA — DRAFT / PROPOSED (not APPROVED)
 **Last Updated:** 2026-09-03
+
+---
+
+# THOMAS VALE — V2 GENERATION PACKAGE
+
+**Design principle:** MEMORABLE THROUGH QUIET GRAVITY.
+
+Vale is the fifth and final note in the Ashford visual set — the oldest, the last keeper of the Agreement, the dying man who keeps a secret. Where Leon is presence, Crowe is stillness, Graves is deliberation, and Calloway is groundedness, Vale is QUIET GRAVITY: a shrunken, mended old man whose only vigorous element is his eyes — unexpectedly clear and steady when they focus — and whose folded packet of papers is never far from his hand. He is withholding, not venerable; a man ending a long keeping, not a wise ancient.
+
+He must NOT look like: a stereotypical ancient occult wizard, a fantasy elder with robes and staff, a sinister old man, a "wise mentor" archetype, a figure of supernatural power. His unresolved affiliation (constable? keeper? Order?) must NEVER be resolved by costume.
+
+## 1. Canon Identity Lock
+
+| Element | Value | Status |
+|---------|-------|--------|
+| Age | Very old (80s+) | PROPOSED |
+| Sex | Male | CONFIRMED |
+| Eye colour | Pale; unexpectedly clear and steady when he focuses | PROPOSED |
+| Hair | White, scant | PROPOSED |
+| Complexion | Pale, papery | PROPOSED |
+| Build | Thin, shrunken; would have been taller | PROPOSED |
+| Height impression | Would have been tall; now bent and diminished | PROPOSED |
+| Distinctive feature | Vigorous clear eyes; folded packet within reach | PROPOSED |
+| Recurring prop | Folded packet (the Agreement) | CONFIRMED (Agreement kept close) |
+| Clothing identity | Old mended brown coat, loose collar, blanket/shawl when seated, walking stick from habit | PROPOSED |
+| Era | 1816 Britain | CONFIRMED |
+
+## 2. Shared Visual Identity (used verbatim in all four prompts)
+
+> A very old English man, 80 or beyond, year 1816. Thin, shrunken figure that would once have been taller; gaunt, deeply lined face. White, scant hair. Pale, papery skin. Eyes pale yet unexpectedly clear and steady when they focus — the only vigorous thing about him. He wears an old, much-mended brown coat and a shirt with a collar too large for his neck; a shawl or blanket about his shoulders when seated; a walking stick carried from habit. A folded packet of papers is always within reach. The overall impression: a withholding, guarded dying man who keeps a secret — not a wise ancient, not sinister.
+
+### Facial Construction
+
+- **Face shape:** gaunt, deeply lined, weathered by age
+- **Jawline:** prominent, showing through thin skin
+- **Cheek structure:** cheekbones prominent under papery skin
+- **Brow structure:** deeply lined; heavy lids
+- **Nose:** prominent, age-worn
+- **Mouth:** thin, sunken, held carefully
+- **Eye shape:** pale, creased at the corners; clear and steady when focusing
+- **Eyelid structure:** heavy, hooded, deeply lined
+- **Hairline:** white, scant, thin
+- **Overall impression:** a face worn down to the essential by age — the only life in it is the eyes, and the care with which he holds the folded packet
+
+## 3. Anime Portrait Prompt
+
+> Sophisticated mature historical seinen anime portrait of a very old English man, 80 or beyond, year 1816. Waist-up framing. Refined anime facial construction with realistic human proportions: a gaunt, deeply lined face, prominent jaw and cheekbones showing through papery skin, deeply lined brow, prominent age-worn nose, thin sunken mouth. Pale, papery skin rendered naturally. White, scant hair. Pale eyes — restrained, NOT oversized, no supernatural glow — unexpectedly clear and steady when they focus. He wears an old, much-mended brown coat and a shirt with a collar too large for his neck. Warm muted light, simple period room, muted palette, cinematic composition, painterly / cel-shaded rendering with refined linework and detailed mended-wool fabric texture. Restrained, guarded expression — withholding, not venerable. The character is unmistakably Vale: the clear steady eyes, the folded packet just visible within reach, the deliberate minimal motion. No ancient-wizard coding, no occult styling.
+
+## 4. Anime Full Body Prompt
+
+> Sophisticated mature historical seinen anime full-body reference of a very old, thin, shrunken English man, 80 or beyond, year 1816. Full figure visible from head to feet, three-quarter view, seated or standing bent. Refined anime facial construction with realistic proportions: gaunt deeply lined face, white scant hair, pale clear steady eyes (not oversized). Thin, shrunken build that would once have been taller. He wears an old, much-mended brown coat and a shirt with a loose collar; a shawl or blanket about the shoulders when seated; a walking stick carried from habit. A folded packet of papers within reach. Muted 1816 English interior (a cottage or lane-end house), warm muted light, muted palette, cinematic composition, painterly / cel-shaded rendering with refined linework and detailed mended-fabric texture. Full body visible — no cropped feet, no distorted hands, no excessive coat movement. Deliberate, minimal motion; withholding, not sinister.
+
+## 5. Realism Portrait Prompt
+
+> Photorealistic historical portrait of a very old English man, 80 or beyond, year 1816. Waist-up framing. Realistic facial anatomy: gaunt, deeply lined face, prominent jaw and cheekbones, deeply lined brow, prominent age-worn nose, thin sunken mouth. Pale, papery skin with realistic age texture. White, scant hair, physically plausible. Pale eyes with realistic detail — unexpectedly clear and steady when they focus, no supernatural glow. He wears an old, much-mended brown coat and a shirt with a collar too large for his neck. Warm muted natural light, simple period room, restrained composition, subtle Gothic atmosphere. Realistic mended-wool and linen fabric texture, natural aged skin texture, no beauty filters. Restrained, guarded expression — withholding, not venerable. The character is unmistakably Vale: the clear steady eyes, the folded packet within reach. No ancient-wizard coding, no occult styling.
+
+## 6. Realism Full Body Prompt
+
+> Photorealistic historical full-body reference of a very old, thin, shrunken English man, 80 or beyond, year 1816. Full figure visible head to feet, three-quarter view, seated or standing bent. Realistic facial anatomy: gaunt deeply lined face, white scant hair, pale clear steady eyes with realistic detail. Thin, shrunken build that would once have been taller. He wears an old, much-mended brown coat and a shirt with a loose collar; a shawl or blanket about the shoulders when seated; a walking stick carried from habit. A folded packet of papers within reach. Muted 1816 English interior (a cottage or lane-end house), warm muted natural light, restrained composition, subtle Gothic atmosphere. Realistic mended-fabric texture, natural aged skin and hair texture. Full body visible — no cropped feet, no distorted hands, no excessive coat movement. Deliberate, minimal motion; withholding, not sinister.
+
+## 7. Shared Negative Constraints
+
+```
+no stereotypical ancient-wizard robes
+no occult sigils or symbols
+no glowing eyes
+no fantasy staff
+no revelation of unresolved Order affiliation through costume
+no supernatural aura
+no sinister framing
+no heroic or mystic grandeur
+no exaggerated frail caricature
+no modern clothing
+no post-1816 Victorian styling
+no steampunk
+no fantasy elements
+no wise-mentor archetype
+no dramatic elder lighting
+```
+
+## 8. Anime Negative Constraints
+
+```
+no chibi
+no childish appearance
+no oversized eyes
+no exaggerated proportions
+no bishounen exaggeration
+no neon colours
+no magical aura
+no fantasy anime armor
+no modern anime fashion
+no wise-old-sage archetype
+no fantasy staff or robes
+no anime spikes
+```
+
+## 9. Realism Negative Constraints
+
+```
+no plastic skin
+no fashion-model appearance
+no beauty-filter skin
+no modern haircut
+no modern tailoring
+no superhero physique
+no fantasy realism
+no excessive cinematic effects
+no glamour pose
+no exaggerated frail caricature
+```
+
+## 10. Generation Notes
+
+- Vale's "factor" is quiet gravity: the clear steady eyes, the folded packet within reach, the deliberate minimal motion, the withholding guardedness. Every prompt must carry these.
+- He is a dying man who keeps a secret — not a "wise ancient." Avoid visual grandeur and mentor-archetype framing.
+- His ambiguity (constable? keeper? Order?) must NOT be resolved by costume — no constable badge, no keeper symbol, no Order insignia.
+- The clear steady eyes and the folded packet (the Agreement) are his signature — keep them.
+- Anime mode: mature seinen, warm muted palette, quiet room light, deliberate minimal motion.
+- Realism mode: photorealistic, realistic aged texture, the same quiet gravity.
+- No supernatural, occult, or fantasy coding in any version.
+- Model-agnostic: do not reference any specific artist, model, or existing character.
+
+## 11. Identity Consistency Checklist
+
+- [ ] Same approximate age (80s+) in all four
+- [ ] Same facial structure (gaunt, deeply lined, prominent jaw and cheekbones)
+- [ ] Same hair (white, scant)
+- [ ] Same eyes (pale, clear and steady when focusing — never glowing)
+- [ ] Same build (thin, shrunken)
+- [ ] Same clothing (old mended brown coat, loose collar, blanket/shawl, walking stick)
+- [ ] Same folded packet within reach
+- [ ] Same deliberate minimal motion
+- [ ] Same silhouette — recognizable by the mended coat and shrunken frame
+- [ ] 1816 historical constraint respected in all four
+
+## 12. Approval Checklist
+
+- [ ] The four images look like the same person
+- [ ] Pale clear steady eyes consistent; no glowing effect
+- [ ] White scant hair consistent
+- [ ] Old mended brown coat consistent
+- [ ] Folded packet present as the recurring anchor
+- [ ] No ancient-wizard, occult, or wise-mentor styling
+- [ ] Ambiguity preserved — no constable/keeper/Order costume cues
+- [ ] No PROPOSED detail became CONFIRMED canon
+- [ ] Anime version is mature seinen (not fantasy sage)
+- [ ] Realism version is photorealistic (not sinister or venerable-grand)
+
+## 13. Image Review Criteria — Thomas Vale
+
+### A. Identity Consistency
+- Is the character recognizably Vale without context?
+- Are the gaunt deeply lined face, white scant hair, pale clear steady eyes, and shrunken build intact?
+- Is the facial structure the same across Anime ↔ Realism?
+
+### B. Historical Accuracy
+- Is the old mended brown coat plausibly 1816?
+- Are the loose collar, blanket/shawl, and walking stick period-correct?
+- Is the hairstyle historically plausible?
+
+### C. Silhouette
+- Is Vale's silhouette recognizable by the mended coat and shrunken, bent frame?
+- Is it the same between Anime and Realism?
+
+### D. Facial Distinctiveness
+- Is the face gaunt and weathered without being sinister or venerable-grand?
+- Are the clear steady eyes the memorable element (the only vigorous thing about him)?
+- No occult, wizard, or wise-mentor features?
+
+### E. Clothing
+- Is the old much-mended brown coat present?
+- Is the collar loose (too large for his neck)?
+- Is the folded packet within reach?
+- Does NO item resolve his unresolved affiliation (no constable/keeper/Order cues)?
+
+### F. Character Presence
+- Does the image convey quiet gravity, withholding guardedness?
+- Is the motion deliberate and minimal?
+- Is Vale a dying man who keeps a secret — not a wise ancient?
+
+### G. Anime / Realism Correspondence
+- Do the Anime and Realism versions depict the SAME person?
+- Is the Anime version mature seinen (not fantasy sage)?
+- Is the Realism version photorealistic (not sinister or venerable-grand)?
+
+### H. Absence of Unintended Supernatural Cues
+- No occult symbols, glowing eyes, magical aura, or fantasy staff/robes?
+- No constable/keeper/Order costume cues that resolve his ambiguity?
+- Does Vale look like a very old, guarded 1816 man — quiet gravity, secret kept?
+
+---
+
+**Status:** V2 — THOMAS VALE GENERATION PACKAGE + IMAGE REVIEW CRITERIA — DRAFT / PROPOSED (not APPROVED)
+**Last Updated:** 2026-09-03

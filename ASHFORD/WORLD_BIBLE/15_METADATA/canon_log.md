@@ -34,6 +34,26 @@ This separation ensures that:
 
 ---
 
+## 2026-09-03: Thomas Vale Visual Generation Package V2
+
+**Event**: Added production-ready dual-mode generation package for Thomas Vale (Anime Portrait, Anime Full Body, Realism Portrait, Realism Full Body) to `CHARACTER_IMAGE_PROMPTS.md`.
+
+**Actions**:
+- Added `# THOMAS VALE — V2 GENERATION PACKAGE` section after the Calloway V2 package
+- Design principle: MEMORABLE THROUGH QUIET GRAVITY (fifth and final note in the Ashford visual set: Leon=presence, Crowe=stillness, Graves=deliberation, Calloway=groundedness, Vale=quiet gravity)
+- Contains: Canon Identity Lock, Shared Visual Identity, facial construction, 4 production prompts, 3 negative constraint sets, generation notes, identity consistency checklist, approval checklist, image review criteria
+- Vale is a withholding dying man who keeps a secret — NOT a wise ancient, NOT sinister
+- Ambiguity preserved — no constable/keeper/Order costume cues
+- No canon changed; no PROPOSED detail became CONFIRMED; no images generated
+- No manuscript files modified
+
+**Master Index Entry**:
+> THOMAS VALE V2 generation package added (completes the 5-character V2 set: Leon, Crowe, Graves, Calloway, Vale). Four prompts share one Identity Lock. Memorable through quiet gravity. Gaunt face + white scant hair + clear steady eyes + mended brown coat + folded packet. No ancient-wizard or occult coding.
+
+**Status**: V2 — DRAFT / PROPOSED. No images generated.
+
+---
+
 ## 2026-09-03: James Calloway Visual Generation Package V2
 
 **Event**: Added production-ready dual-mode generation package for James Calloway (Anime Portrait, Anime Full Body, Realism Portrait, Realism Full Body) to `CHARACTER_IMAGE_PROMPTS.md`.
