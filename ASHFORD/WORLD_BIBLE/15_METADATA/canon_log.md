@@ -34,6 +34,25 @@ This separation ensures that:
 
 ---
 
+## 2026-09-03: Visual Canon Added — Bell, Ysabel, Marr, Adeline, Wren
+
+**Event**: Visual Canon sections added or files created for 5 more characters.
+
+**Actions**:
+- Updated `04_CHARACTERS/characters/Arthur_Edmund_Bell.md` — Visual Canon added (stooped bookseller, wire spectacles, ink-stained fingertips, grey thin hair)
+- Updated `04_CHARACTERS/characters/Thomas_Wren.md` — Visual Canon added (frail elderly, grey/white thin hair, notebook at hand)
+- Created `04_CHARACTERS/characters/Ysabel_Nott.md` — new file with Visual Canon (dark streaked-grey hair, weathered, long mended dark coat, many pockets)
+- Created `04_CHARACTERS/characters/Elias_Marr.md` — new file with Visual Canon (white uncut hair, averted gaze, oversized coat, misbuttoned waistcoat)
+- Created `04_CHARACTERS/characters/Adeline_Brume.md` — new file with Visual Canon (brown greying hair, assessing eyes, well-cut coat, watches bidders not lots)
+- No manuscript files modified
+
+**Master Index Entry**:
+> Visual Canon added for Arthur Bell, Thomas Wren, Ysabel Nott, Elias Marr, Adeline Brume. All PROPOSED — awaiting author approval.
+
+**Status**: PROPOSED — awaiting author approval.
+
+---
+
 ## 2026-09-03: Visual Canon Synced to Character Files + Margaret Age Set to 30
 
 **Event**: Visual Canon sections added or Physical Presence updated in 8 character files. Margaret's age AUTHOR-APPROVED to 30.

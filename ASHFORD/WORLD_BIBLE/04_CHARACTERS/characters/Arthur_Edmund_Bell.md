@@ -15,17 +15,34 @@
 - **First appearance:** Chapter 2 (mentioned), Chapter 4 (appears)
 - **Current story status:** Active; mentor figure
 
-## Physical Presence
-- **Build:** UNRESOLVED
+## Physical Presence / Visual Canon
+**Status:** PROPOSED — awaiting author approval
+
+| Element | Value |
+|---------|-------|
+| Age | 50s–60s |
+| Build | Stooped (from books) — CONFIRMED |
+| Height | Average |
+| Complexion | Indoor, pale but not infirm |
+| Face | Narrow; spectacles sit on a narrow nose |
+| Hair | Grey, thin, untidy |
+| Eyes | Sharp, observant — CONFIRMED |
+| Distinctive feature | Ink-stained fingertips (CONFIRMED by trade); habit of adjusting spectacles before answering; tilts his head when listening |
+| Clothing | Worn coat with dust on the sleeves; leather apron over waistcoat when working; wire spectacles; waistcoat usually unbuttoned at the top |
+| Behavioral signature | Touches the spine of a book when he mentions it; speaks in a measured, scholarly tone; head-tilt when weighing a question |
+| Historical note | 1816. An antiquarian bookseller — dusty, scholarly, observant. NOT a wizard or occult figure. |
+| Design principle | MEMORABLE THROUGH BOOKS — ink-stained, stooped, sharp-eyed, always adjusting his spectacles |
+
+- **Build:** Stooped from handling books
 - **Posture:** Stooped from handling books
-- **Face:** UNRESOLVED
-- **Hair:** UNRESOLVED
+- **Face:** Narrow; spectacles sit on a narrow nose (PROPOSED)
+- **Hair:** Grey, thin, untidy (PROPOSED)
 - **Eyes:** Sharp, observant
-- **Clothing:** Practical, with apron or spectacles
-- **Hands:** Often handling books and maps
+- **Clothing:** Practical, with apron or spectacles; worn coat, leather apron, wire spectacles (PROPOSED)
+- **Hands:** Often handling books and maps; ink-stained fingertips (PROPOSED)
 - **Movement:** Deliberate
 - **Voice:** Soft, measured
-- **Habitual physical behavior:** Adjusts his spectacles
+- **Habitual physical behavior:** Adjusts his spectacles; tilts his head when listening
 
 ## Personality
 - **Dominant traits:** Knowledgeable, reserved, cautious
