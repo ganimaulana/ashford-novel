@@ -746,3 +746,197 @@ no glamour pose
 
 **Status:** V2 — SILAS CROWE GENERATION PACKAGE + IMAGE REVIEW CRITERIA — DRAFT / PROPOSED (not APPROVED)
 **Last Updated:** 2026-09-02
+
+---
+
+# NATHANIEL GRAVES — V2 GENERATION PACKAGE
+
+**Design principle:** MEMORABLE THROUGH DELIBERATION.
+
+Graves is the third note in the Ashford visual triad: where Leon is memorable through refined presence and Crowe through stillness, Graves is memorable through AGE AND DELIBERATION — the dated coat that signals a man who trusts the old order, the habit of removing and polishing his spectacles before speaking, the slight left-hand tremor when tired. He is an intellectual, physically strained, and unmistakably distinct from Crowe.
+
+He must NOT look like: an occult patriarch, a fantasy elder wizard, a secret-society grandmaster, a sinister old man in dark robes, a "cold scholar" villain, a supernatural power user. His Order of Severence affiliation must NEVER be readable from clothing or appearance.
+
+## 1. Canon Identity Lock
+
+| Element | Value | Status |
+|---------|-------|--------|
+| Age | Early 60s | PROPOSED |
+| Sex | Male | CONFIRMED |
+| Eye colour | Plain; attention shown by removing spectacles | PROPOSED |
+| Hair | Thin white, combed across a balding crown | PROPOSED |
+| Complexion | Pale | PROPOSED |
+| Build | Spare, slightly stooped | PROPOSED |
+| Height impression | Average; diminished by stoop | PROPOSED |
+| Distinctive feature | Spectacle-polishing habit; slight left-hand tremor when tired; clasped hands | PROPOSED |
+| Recurring prop | Wire spectacles; pocket watch on chain | PROPOSED |
+| Clothing identity | Dated dark coat, high collar, carefully tied cravat, watch chain | PROPOSED |
+| Era | 1816 Britain | CONFIRMED |
+
+## 2. Shared Visual Identity (used verbatim in all four prompts)
+
+> An elderly English man in his early 60s, year 1816. Long, deeply lined face with a prominent nose; spare and slightly stooped. Thin white hair combed across a balding crown. Pale skin. Wire spectacles on the nose; a habit of removing and polishing them before speaking. A slight left-hand tremor when tired. He wears a dark coat cut in a fashion ten years out of date, a high collar, a carefully tied cravat, and a pocket watch on a chain across the waistcoat. The overall impression: a man accustomed to being listened to — deliberate, scholarly, human, physically strained but not frail or sinister.
+
+### Facial Construction
+
+- **Face shape:** long, narrow, lined
+- **Jawline:** lean, aged, with loose skin at the jaw
+- **Cheek structure:** prominent cheekbones that show through thin skin
+- **Brow structure:** furrowed with age and thought; a serious brow
+- **Nose:** prominent, characteristic
+- **Mouth:** thin, composed; set before speaking
+- **Eye shape:** plain, aged, with heavy lids; attention shown by removing spectacles
+- **Eyelid structure:** heavy, creased
+- **Hairline:** balding crown; thin white hair combed across
+- **Overall impression:** a long, lined, intelligent face of an old man who values the old order — the dated coat, the spectacles, the deliberate speech
+
+## 3. Anime Portrait Prompt
+
+> Sophisticated mature historical seinen anime portrait of an elderly English man in his early 60s, year 1816. Waist-up framing. Refined anime facial construction with realistic human proportions: a long, narrow, deeply lined face, prominent nose, prominent cheekbones, serious furrowed brow, thin composed mouth. Pale skin rendered naturally. Thin white hair combed across a balding crown, period-plausible for 1816. Wire spectacles on the nose; one hand raised toward the spectacles, suggesting the habit of removing and polishing them before speaking. He wears a dated dark coat (cut a decade out of fashion), a high collar, and a carefully tied cravat; a pocket watch chain crosses the waistcoat. Deliberate, scholarly expression — a man accustomed to being listened to. Muted overcast light, subdued palette, cinematic composition, painterly / cel-shaded rendering with refined linework and detailed wool fabric texture. Restrained Gothic atmosphere, grounded realism. The character is unmistakably Graves: the spectacles-polishing habit, the slight tremor, the deliberate bearing — visually distinct from Crowe. NO Order of Severence visual coding, no occult patriarch styling.
+
+## 4. Anime Full Body Prompt
+
+> Sophisticated mature historical seinen anime full-body reference of an elderly English man in his early 60s, year 1816. Full figure visible from head to feet, three-quarter view, standing with hands clasped behind his back. Refined anime facial construction with realistic proportions: long lined face, prominent nose, wire spectacles, thin white hair combed across a balding crown. Spare, slightly stooped build of average height; deliberate, elderly posture — not frail, not sinister. He wears a dated dark coat (a decade out of fashion), a high collar, a carefully tied cravat, dark period trousers, and period shoes; a pocket watch chain crosses the waistcoat. Muted overcast light, subdued palette, cinematic composition, painterly / cel-shaded rendering with refined linework and detailed wool fabric texture. Full body visible — no cropped feet, no distorted hands, no excessive coat movement. Deliberate, scholarly, human.
+
+## 5. Realism Portrait Prompt
+
+> Photorealistic historical portrait of an elderly English man in his early 60s, year 1816. Waist-up framing. Realistic facial anatomy: long, narrow, deeply lined face with a prominent nose, prominent cheekbones, serious furrowed brow, thin composed mouth. Pale aged skin with natural texture. Thin white hair combed across a balding crown, physically plausible and period-correct for 1816. Wire spectacles on the nose; the hand near the spectacles suggests the habit of removing and polishing them before speaking. He wears a dated dark coat (cut a decade out of fashion), a high collar, a carefully tied cravat; a pocket watch chain crosses the waistcoat. Deliberate, scholarly expression — a man accustomed to being listened to. Natural muted daylight, plain period interior, restrained composition, subtle Gothic atmosphere. Realistic wool and cravat fabric texture, natural skin texture, no beauty filters. The character is unmistakably Graves: the spectacles, the tremor, the dated coat. NO Order of Severence visual coding, no occult patriarch styling.
+
+## 6. Realism Full Body Prompt
+
+> Photorealistic historical full-body reference of an elderly English man in his early 60s, year 1816. Full figure visible head to feet, three-quarter view, standing with hands clasped behind his back. Realistic facial anatomy: long lined face, prominent nose, wire spectacles, thin white hair combed across a balding crown. Spare, slightly stooped build of average height; deliberate, elderly posture — not frail, not sinister. He wears a dated dark coat (a decade out of fashion), a high collar, a carefully tied cravat, dark period trousers, and period shoes; a pocket watch chain crosses the waistcoat. Natural muted daylight, plain period interior (a study or meeting room), restrained composition, subtle Gothic atmosphere. Realistic wool and cravat fabric texture, natural skin and hair texture. Full body visible — no cropped feet, no distorted hands, no excessive coat movement. Deliberate, scholarly, human.
+
+## 7. Shared Negative Constraints
+
+```
+no occult patriarch styling
+no fantasy elder robes
+no glowing or ominous eyes
+no power-user framing
+no supernatural aura
+no secret-society costume
+no sinister lighting
+no exaggerated frailty
+no generic ancient-wizard aesthetic
+no modern clothing
+no post-1816 Victorian styling
+no steampunk
+no modern hairstyle
+no modern accessories
+no villain styling
+no dramatic shadowed elder face
+no "cold scholar" villain coding
+```
+
+## 8. Anime Negative Constraints
+
+```
+no chibi
+no childish appearance
+no oversized eyes
+no exaggerated proportions
+no bishounen exaggeration
+no neon colours
+no magical aura
+no fantasy anime armor
+no modern anime fashion
+no evil-elder villain expression
+no dramatic villain lighting
+no anime spikes
+no young-man-in-old-man-costume
+```
+
+## 9. Realism Negative Constraints
+
+```
+no plastic skin
+no fashion-model appearance
+no beauty-filter skin
+no modern haircut
+no modern tailoring
+no superhero physique
+no fantasy realism
+no excessive cinematic effects
+no glamour pose
+no exaggerated frailty
+```
+
+## 10. Generation Notes
+
+- Graves's "factor" is deliberation: the dated coat, the spectacles-polishing habit, the slight left-hand tremor when tired. Every prompt must carry these.
+- He is the oldest of the Order members depicted — old, pale, deliberate, bookish. Visually distinct from Crowe (thin, drab, still, middle-aged).
+- The dated coat (a decade out of fashion) signals a man who values the old order. Keep it.
+- Left-hand tremor only when tired — do not make it constant or exaggerated.
+- His Order of Severence affiliation is NEVER visible in clothing, posture, or symbols.
+- Anime mode: mature seinen, subdued palette, overcast light, scholarly stillness.
+- Realism mode: photorealistic, aged natural texture, the same deliberate bearing.
+- No supernatural, occult, or power-user coding in any version.
+- Model-agnostic: do not reference any specific artist, model, or existing character.
+
+## 11. Identity Consistency Checklist
+
+- [ ] Same approximate age (early 60s) in all four
+- [ ] Same facial structure (long, lined, prominent nose, prominent cheekbones)
+- [ ] Same hair (thin white, combed across a balding crown)
+- [ ] Same eyes/spectacles (wire spectacles; plain aged eyes)
+- [ ] Same build (spare, slightly stooped)
+- [ ] Same clothing (dated dark coat, high collar, cravat, watch chain)
+- [ ] Same spectacle-polishing habit implied
+- [ ] Same deliberate scholarly posture
+- [ ] Same silhouette — recognizable by the dated coat and stoop
+- [ ] 1816 historical constraint respected in all four
+
+## 12. Approval Checklist
+
+- [ ] The four images look like the same person
+- [ ] Wire spectacles consistent; polishing habit implied
+- [ ] Thin white hair consistent
+- [ ] Dated dark coat consistent
+- [ ] No Order of Severence visual coding in any version
+- [ ] No occult patriarch, elder-wizard, or villain styling
+- [ ] Graves is clearly distinct from Crowe
+- [ ] No PROPOSED detail became CONFIRMED canon
+- [ ] Anime version is mature seinen (not fantasy elder)
+- [ ] Realism version is photorealistic (not sinister or generic)
+
+## 13. Image Review Criteria — Nathaniel Graves
+
+### A. Identity Consistency
+- Is the character recognizably Graves without context?
+- Are the long lined face, prominent nose, wire spectacles, and thin white hair intact?
+- Is the facial structure the same across Anime ↔ Realism?
+
+### B. Historical Accuracy
+- Is the dated dark coat plausibly 1816?
+- Are the high collar, cravat, watch chain, and period trousers correct?
+- Is the hairstyle historically plausible?
+
+### C. Silhouette
+- Is Graves's silhouette recognizable by the dated coat and slight stoop?
+- Is it the same between Anime and Realism?
+
+### D. Facial Distinctiveness
+- Is the face old, lined, and intelligent without being sinister?
+- Are the spectacles the memorable element (with the polishing habit)?
+- No occult, power-user, or "cold scholar" villain features?
+
+### E. Clothing
+- Is the dated dark coat present (a decade out of fashion)?
+- Is the cravat carefully tied?
+- Is the pocket watch chain present?
+- Does NO item signal the Order of Severence?
+
+### F. Character Presence
+- Does the image convey deliberation and scholarly bearing?
+- Does the slight tremor read as human, not sinister?
+- Is Graves distinct from Crowe at a glance?
+
+### G. Anime / Realism Correspondence
+- Do the Anime and Realism versions depict the SAME person?
+- Is the Anime version mature seinen (not fantasy elder)?
+- Is the Realism version photorealistic (not sinister or generic)?
+
+### H. Absence of Unintended Supernatural Cues
+- No occult symbols, glowing eyes, magical aura, or elder-wizard robes?
+- No secret-society costume or villain framing?
+- Does Graves look like an elderly, scholarly 1816 man who is unforgettable because of his dated deliberation?

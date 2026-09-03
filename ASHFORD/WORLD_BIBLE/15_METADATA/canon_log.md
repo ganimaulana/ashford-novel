@@ -34,6 +34,26 @@ This separation ensures that:
 
 ---
 
+## 2026-09-03: Nathaniel Graves Visual Generation Package V2
+
+**Event**: Added production-ready dual-mode generation package for Nathaniel Graves (Anime Portrait, Anime Full Body, Realism Portrait, Realism Full Body) to `CHARACTER_IMAGE_PROMPTS.md`.
+
+**Actions**:
+- Added `# NATHANIEL GRAVES — V2 GENERATION PACKAGE` section after the Crowe V2 package
+- Design principle: MEMORABLE THROUGH DELIBERATION (third note in the Ashford visual triad: Leon=presence, Crowe=stillness, Graves=age+deliberation)
+- Contains: Canon Identity Lock, Shared Visual Identity, facial construction, 4 production prompts, 3 negative constraint sets, generation notes, identity consistency checklist, approval checklist, image review criteria
+- Graves visually distinct from Crowe (old, pale, bookish, dated coat vs thin, drab, still, middle-aged)
+- No Order of Severence visual coding; no occult patriarch / elder-wizard styling
+- No canon changed; no PROPOSED detail became CONFIRMED; no images generated
+- No manuscript files modified
+
+**Master Index Entry**:
+> NATHANIEL GRAVES V2 generation package added. Four prompts share one Identity Lock. Memorable through deliberation. Dated dark coat + wire spectacles + polishing habit + slight tremor. Distinct from Crowe. No Order of Severence visual coding.
+
+**Status**: V2 — DRAFT / PROPOSED. No images generated.
+
+---
+
 ## 2026-09-03: Silas Crowe Visual Generation Package V2
 
 **Event**: Added production-ready dual-mode generation package for Silas Crowe (Anime Portrait, Anime Full Body, Realism Portrait, Realism Full Body) to `CHARACTER_IMAGE_PROMPTS.md`.
