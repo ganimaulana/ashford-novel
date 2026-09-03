@@ -64,7 +64,7 @@ Do NOT automatically classify such a person as a full member of both organizatio
 | James Calloway | Constable | Constable | None confirmed | CONFIRMED |
 | Silas Crowe | Order of Severence | UNRESOLVED (interacts with Constable/watch operations; does not imply Constable membership) | Order of Severence | CONFIRMED |
 | Nathaniel Graves | Order of Severence | Order of Severence | Order of Severence | CONFIRMED |
-| Thomas Vale | UNRESOLVED | Constable-related (former constable; keeper of the Agreement) | UNRESOLVED | REVIEW |
+| Thomas Vale | UNRESOLVED | Constable-related (former constable; senior Constable intelligence/counter-intelligence background CONFIRMED 2026-09-03; keeper of the Agreement) | UNRESOLVED — Order membership now actively unlikely: his fall is tied to investigating Order infiltration of the Constable | REVIEW |
 | Arthur Edmund Bell | UNRESOLVED | Constable-related (participates in the watch) | UNRESOLVED | REVIEW |
 | The vestry clerk | Constable | Constable (local official) | UNRESOLVED | PROBABLE |
 | The verger | Constable | Constable (church/watch-affiliated) | UNRESOLVED | PROBABLE |

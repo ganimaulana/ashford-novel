@@ -42,14 +42,62 @@ The scope is intentionally broad.
 
 ## 4. DESIGNATION FORMAT
 
+An ERC identifier identifies a RECORD, not the supernatural subject itself. The canonical presentation format is:
+
 ```
-ERC-001
-ERC-002
-ERC-008 — The Returning Coin
-...
+ERC-ID: TITLE [SUBJECT TYPE]
 ```
 
-Do NOT use `ARC-001`, `ARC-008`, `ARC-014` for the new classification system.
+Examples:
+
+```
+ERC-008: The Returning Coin [OBJECT]
+ERC-013: The Thirteenth Key [OBJECT]
+ERC-021: The Bellweather Clock [OBJECT]
+```
+
+- ERC-008 = record identifier
+- The Returning Coin = subject documented by that record
+- [OBJECT] = subject taxonomy/category of the documented subject
+
+The taxonomy suffix is MANDATORY and must not be removed from existing records.
+
+Do NOT use `ARC-001`, `ARC-008`, `ARC-014` for the current classification system.
+
+### SEMANTIC LOCK
+
+> ERC identifies records, not subjects.
+>
+> The taxonomy [OBJECT], [PHENOMENON], [LOCATION], [ENTITY], [EVENT], [DOCUMENT], [RITUAL], [MECHANISM], and [UNKNOWN] identifies the type of subject documented by the record.
+>
+> Not every supernatural object receives an ERC designation.
+>
+> Gear and Token remain outside ERC classification unless a future author decision explicitly establishes otherwise.
+
+The ERC designation belongs to the RECORD. The subject described by that record does not become an ERC.
+
+- CORRECT: "ERC-008: The Returning Coin [OBJECT]"
+- CORRECT: "An ERC record documents the Returning Coin."
+- INCORRECT: "The Returning Coin is an ERC." / "The Returning Coin is an ERC object." / "ERC is a type of supernatural object."
+
+### ERC MASTER RECORD FORMAT
+
+An authoritative ERC record contains (Subject Type mandatory):
+
+```
+ERC-ID:            ERC-XXX
+TITLE:             [Name]
+SUBJECT TYPE:      OBJECT / PHENOMENON / LOCATION / ENTITY / EVENT /
+                   DOCUMENT / RITUAL / MECHANISM / UNKNOWN  (mandatory)
+DESCRIPTION:       ...
+KNOWN PROPERTIES:  ...
+KNOWN LIMITATIONS: ...
+SOURCE / DISCOVERY: ...
+CURRENT STATUS:    PROPOSED / CONFIRMED / UNRESOLVED / SUPERSEDED
+KNOWLEDGE BOUNDARY: who knows what; who misunderstands
+RELATED RECORDS:   cross-references
+CONFIDENCE / RELIABILITY: where appropriate
+```
 
 ## 5. SUBJECT TYPES (initial taxonomy)
 
@@ -129,32 +177,35 @@ ERC must NEVER become a power hierarchy.
 
 Origin, creator, age, original purpose, and full methodology of ERC remain **MYSTERIOUS / UNRESOLVED**. Possible connection to the vanished ancient organization: STRONG STORY HYPOTHESIS / PROPOSED — not confirmed.
 
-## 14. KNOWN / PROPOSED ENTRIES (migrated from ARC development material)
+## 14. KNOWN / PROPOSED ENTRIES (migrated from legacy ARC development material)
 
-| ERC | Title | Type | Status |
-|-----|-------|------|--------|
-| ERC-001 | The Ashen Bell | OBJECT / PHENOMENON | PROPOSED (was ARC-001) |
-| ERC-002 | The Empty Portrait | OBJECT | PROPOSED (was ARC-002) |
-| ERC-003 | The Black Book | DOCUMENT / OBJECT | PROPOSED (was ARC-003) |
-| ERC-004 | The House Beneath Bellweather | LOCATION | PROPOSED (was ARC-004) |
-| ERC-005 | The Mourning Key | OBJECT | PROPOSED (was ARC-005) |
-| ERC-006 | The Man in the Rain | ENTITY / EVENT | PROPOSED (was ARC-006) |
-| ERC-007 | The Clock Without Hands | OBJECT | PROPOSED (was ARC-007) |
-| ERC-008 | The Returning Coin | OBJECT | PROPOSED (was ARC-008) |
-| ERC-009 | The Pale Candle | OBJECT | PROPOSED (was ARC-009) |
-| ERC-010 | The Forgotten Name | DOCUMENT / INFORMATION | PROPOSED (was ARC-010) |
-| ERC-011 | The Glass Saint | OBJECT / ENTITY | PROPOSED (was ARC-011) |
-| ERC-012 | The Red Letter | DOCUMENT / EVENT | PROPOSED (was ARC-012) |
-| ERC-013 | The Thirteenth Key | OBJECT | PROPOSED (was ARC-013) |
-| ERC-014 | The Borrowed Shadow | PHENOMENON | PROPOSED (was ARC-014) |
-| ERC-015 | The Pale Doctor | ENTITY | PROPOSED (was ARC-015) |
-| ERC-016 | The Bookshop After Midnight | LOCATION | PROPOSED (was ARC-016) |
-| ERC-017 | The Last Photograph | OBJECT | PROPOSED (was ARC-017) |
-| ERC-018 | The Waking Dream | PHENOMENON | PROPOSED (was ARC-018) |
-| ERC-019 | The Man Who Wasn't There | ENTITY / DOCUMENT | PROPOSED (was ARC-019) |
-| ERC-020 | The Ashford Door | LOCATION / CORE MYSTERY | PROPOSED (was ARC-020) |
-| ERC-021 | The Bellweather Clock | OBJECT | PROPOSED (was ARC-021) |
-| ERC-[TBD] (record) | Record concerning a direction-finding relic — "The Pale Compass" (working name, PROPOSED) | MECHANISM | PROPOSED — the relic itself is an Artifact, NOT an ERC |
+Canonical format: `ERC-ID: Title [SUBJECT TYPE]`. Migration preserved numerical identifiers (terminology migration, NOT renumbering).
+
+| Canonical designation | Subject Type | Status |
+|-----------------------|--------------|--------|
+| ERC-001: The Ashen Bell | OBJECT / PHENOMENON | PROPOSED (was ARC-001) |
+| ERC-002: The Empty Portrait | OBJECT | PROPOSED (was ARC-002) |
+| ERC-003: The Black Book | DOCUMENT / OBJECT | PROPOSED (was ARC-003) |
+| ERC-004: The House Beneath Bellweather | LOCATION | PROPOSED (was ARC-004) |
+| ERC-005: The Mourning Key | OBJECT | PROPOSED (was ARC-005) |
+| ERC-006: The Man in the Rain | ENTITY / EVENT | PROPOSED (was ARC-006) |
+| ERC-007: The Clock Without Hands | OBJECT | PROPOSED (was ARC-007) |
+| ERC-008: The Returning Coin | OBJECT | PROPOSED (was ARC-008) |
+| ERC-009: The Pale Candle | OBJECT | PROPOSED (was ARC-009) |
+| ERC-010: The Forgotten Name | DOCUMENT | PROPOSED (was ARC-010) |
+| ERC-011: The Glass Saint | OBJECT / ENTITY | PROPOSED (was ARC-011) |
+| ERC-012: The Red Letter | DOCUMENT / EVENT | PROPOSED (was ARC-012) |
+| ERC-013: The Thirteenth Key | OBJECT | PROPOSED (was ARC-013) |
+| ERC-014: The Borrowed Shadow | PHENOMENON | PROPOSED (was ARC-014) |
+| ERC-015: The Pale Doctor | ENTITY | PROPOSED (was ARC-015) |
+| ERC-016: The Bookshop After Midnight | LOCATION | PROPOSED (was ARC-016) |
+| ERC-017: The Last Photograph | OBJECT | PROPOSED (was ARC-017) |
+| ERC-018: The Waking Dream | PHENOMENON | PROPOSED (was ARC-018) |
+| ERC-019: The Man Who Wasn't There | ENTITY / DOCUMENT | PROPOSED (was ARC-019) |
+| ERC-020: The Ashford Door | LOCATION | PROPOSED (was ARC-020) |
+| ERC-021: The Bellweather Clock | OBJECT | PROPOSED (was ARC-021; legacy draft additionally noted a LOCATION aspect — recorded here for future review) |
+
+No ERC number is assigned to the direction-finding relic (The Pale Compass, PROPOSED). The relic is an Artifact; an archival record concerning it may exist eventually, but no designation is assigned without explicit author approval.
 
 ## 15. THE DIRECTION-FINDING RELIC (PROPOSED)
 

@@ -4,6 +4,223 @@ This file tracks major changes to the official release canon.
 
 ---
 
+## 2026-09-03: CANON — Thomas Vale's Background (Veteran → Constable Intelligence → Demotion → Ashford)
+
+**Event**: Established Vale's author-approved background and seeded it through the manuscript as gradual revelation. **Chapter files modified.**
+
+**NAMING DISCREPANCY — AUTHOR REVIEW REQUIRED (not acted on)**: the task brief named him "Father Lucien Vale." Canon establishes **Thomas Vale** (Ch40, spoken twice) with **no clerical role anywhere**. The name and secular identity are load-bearing across ~50 chapters and every World Bible reference. The approved *background* was therefore applied to the established identity. A rename and/or clerical reclassification would require coordinated edits in ~50 chapters and cannot be done silently — flagged for decision.
+
+**CONFIRMED canon added**: veteran (military service first) · entered the Constable afterwards · recruited into Constable intelligence · rose to a genuinely senior intelligence position · field intelligence and counter-intelligence work · investigated internal compromise · found indications that Order members or associates had infiltrated or influenced parts of the Constable · became extremely careful about information, records, chains of custody, and trust · demoted/removed and transferred to Ashford · official reason bureaucratic and innocuous · then guarded the sealed door ~fifty years · fifty years produced **no** understanding of the Door · his expertise is investigative/institutional, never supernatural.
+
+**UNKNOWN (protected)**: exact rank · the incident · extent of infiltration · how he obtained the Gear · what he knew of the Door · the inscription · why Leon · whether he intended Leon to find the Gear · which caches survive · which box documents matter · whether Ashford was exile or the one place he could continue (Layer 6 — **undecided**).
+
+**Chapters modified (8)**:
+- `Chapter_40_EN.md` — "I was a soldier first. Most men my age were something first." Vale deflects the question about the years between. Added his assessment of Leon ("You ask questions in the right order. That is not a compliment…"), his records lecture ("lost, or taken, or copied wrongly on purpose… the three look identical after fifty years"), and the twenty-minute-later repeat question about where the Gear was found, treated as a matter settled — a verification technique.
+- `Chapter_46_EN.md` — box contents deepened: a **service journal** (dark leather, broken spine, pocket-worn) and a **district map, not of Ashford, of a kind constabularies print and do not sell**, marked in ink in several shades over years; the button is now military. Added his instruction to read the journal in order ("A man who reads the end first learns what happened and never learns why") and "There is a great deal in it I did not want anyone to find. That is why it is in a box and not in an office."
+- `Chapter_48_EN.md` — Leon notices the systematically ordered press with one space left empty and clean, and a bed made to a discipline learned elsewhere. First journal reading: garrison-town years, no supernatural content, a name appearing four times then never again, and the transfer entry — *"To Ashford. The reason offered is establishment. I have read the order twice. It is correctly worded. That is what troubles me."*
+- `Chapter_57_EN.md` — Eleanor Shaw: Vale vetted her with three questions about locks, keys, and her ledgers during illness before asking a favour; he never carried a paper through town in daylight, came at dusk, never twice by the same street; "I think he had been taught. Somewhere, by someone, a long time before Ashford."
+- `Chapter_79_EN.md` — the keeper before Vale: "They did not send us a country constable. They sent us a man who had been taken out of somewhere, and who behaved for fifty years like a man expecting to be searched." Independently corroborates the transfer answer: "He said the order had been correctly worded."
+- `Chapter_103_EN.md` — Calloway: reports came back altered twice in his first year and Vale produced the originals without comment; "a man who has only one copy of a thing does not own it"; "It is a strange lesson for a country constable. I have thought so for twenty years."
+- `Chapter_117_EN.md` — Calloway on the handover of the constables' box: shutters closed, Vale would not say a thing in a room with an open door or put a name in a letter, watched Calloway stow it, then asked for the key and returned it himself. "I have since wondered whether he wanted to be sure no one else was watching me learn it."
+- `Chapter_124_EN.md` — Leon to Elias: the journal exists but says nothing about the door; crossed-out names, unfamiliar towns, entries breaking off mid-matter and resuming years later. "He wrote what could be written and left the rest out on purpose." Elias: "Then he left you two things. The keeping, and the habit of a man who did not trust paper."
+
+**Foreshadowing discipline**: nothing names him an intelligence officer. All eleven insertions read on first pass as "old veteran / careful constable." The pattern is designed to resolve later.
+
+**Future-arc seed (PROPOSED, unresolved)**: the district map's multi-shade marks as a cache trail — mundane in appearance, meaning unstated, intended to become a reason for Leon to travel outside Ashford. Not paid off in the current arc. Some caches mundane, some empty, some already found, some fragmentary.
+
+**Constable/Order double reading (deliberately unresolved)**: institutional recovery of records vs one person's wish to learn what Vale retained.
+
+**World Bible updated**: `04_CHARACTERS/characters/Thomas_Vale.md` rewritten in place to v3.0 (Identity, Public Role, True Background, Military, Constable Career, Intelligence, Counter-Intelligence, Demotion/Transfer with the six revelation layers, Ashford Years, Guardianship, Sealed Door, Gear, Leon, Private Box, Diaries/Archive, Hidden Caches, Knowledge Boundaries, Personality, Secrets, Open Questions, Visual Canon, Canon Status) · `Character_Registry.md` · `Order_of_Severence.md` roster note · `ORGANIZATIONAL_AFFILIATION_LEDGER.md` · `MASTER_GEAR_BLUEPRINT.md` §III.
+
+**Preserved**: Ch36 Gear discovery and inscription untouched · Gear ≠ box · Vale did not give Leon the Gear · custody-not-ownership model · 14–15 cm scale and cloth wrapping · no prophecy, no chosen-one, no omniscient Vale, no ritual terminology, no Door explanation · no duplicate Vale profile created · BACKUP directories untouched.
+
+---
+
+## 2026-09-03: MANUSCRIPT REVISION — Vale's Personal Box / Gear Custody Model
+
+**Event**: Reconciled the Gear custody chain. Vale no longer hands Leon the Gear as "the keeper's key." Vale entrusts Leon with **one personal box** of miscellaneous private belongings; the Gear reaches Leon separately, at the mill. Custody replaces ownership as the governing concept.
+
+**Continuity problem solved**: Four passages made the Order's claim on the Gear too convenient by having Leon assert Vale-as-donor and keeper-equipment status ("Vale gave it to me before he died. It is mine now"; "It is the gear of the one who holds it"; "It is the keeper's key"). The Gear also arrived in Ch36 *before* any transfer scene, so "Vale gave me the gear" contradicted the discovery order.
+
+**Chapters modified (6)**:
+- `Chapter_46_EN.md` — "He did not give me the gear immediately" → "He did not send me away." Box expanded from a bare cloth to a document-case-sized box of private effects (folded papers, letters tied with browned tape, parish map with a corner missing, two stoppered bottles in an unknown hand, a brass button, a woman's ring, the empty cloth beneath). Added Vale's custody speech ("These are mine. Not the parish's. Not the Order's. Mine." / "There is no one to leave them to." / "Keep the box."), his admission that some contents are nothing and some he never understood, and his silence at "Why me?" The Gear is reframed as "the one thing I had brought to the room rather than found in it." Vale pushes the box to Leon's side of the table; Leon carries it home awkwardly under his coat.
+- `Chapter_47_EN.md` — Crowe: "You have the gear" → "You have his box… And the gear is in it." Leon: "The gear is mine. I found it at the mill." Crowe lets it pass without agreeing. "You inherited more than a document" now answered with "I inherited a box of a dead man's papers." Notebook gains: "I also do not know why a man leaves his letters and his wife's ring to a stranger he has known for one winter."
+- `Chapter_49_EN.md` — "You did not tell us the gear was given" → "had come to him"; Leon's reply now states he found it at the mill before he had heard the word keeper spoken, and that Vale left him a box and did not say which contents mattered.
+- `Chapter_53_EN.md` — "the gear that Vale had given me" → "the gear I had found beneath the stopped clock at the mill."
+- `Chapter_60_EN.md` — Order confrontation rebuilt on the custody distinction. Graves: "It was not given to you." Leon: found at the mill; what Vale gave was a box, letters, papers, two unreadable bottles. New Order line: "He had no right to place it where you would find it." Leon: "You say that because you want it… A thing you did not know of is not a thing you were keeping." Removed "It is the gear of the one who holds it."
+- `Chapter_125_EN.md` — "the gear that Vale had given me, the gear that had been carried by keepers since the first" → found beneath the stopped clock in his first winter. "It is the keeper's key… Now it is yours" → Vale kept it fifty years in a box among his letters, put it where Leon would find it, never said why; "Now you will carry it." Added: "I did not tell him it was his. I told him he would carry it. There is a difference, and Vale had known it, and had said nothing to me either."
+
+**Chapters checked and left unchanged**: Ch36 (discovery + inscription intact), Ch37–45, Ch48, Ch59, Ch62–63, Ch117 (the *constables'* box — Calloway→Vale→Ferrand — is a separate confirmed object and was not conflated), Ch70/73/80/114 (the "keeper's key" there is the **tower/bell key**, a different object, correctly untouched), Ch123–124.
+
+**CONFIRMED**: Vale possessed the Gear among his personal belongings · Vale entrusted a personal box of miscellaneous private effects to Leon · the Gear reached Leon at the mill, placed "where a thing must be found and not given" · Leon's custody originates in personal trust, not office · the Order/Constable never had title; their claim is doctrine · the Gear's importance was discovered by Leon afterwards · Daniel receives custody, not ownership, in Ch125.
+
+**UNKNOWN**: why Vale possessed the Gear · how he obtained it · whether he understood its function · why he chose Leon · whether he expected Leon to investigate it · the Gear's status beyond Vale's private ownership.
+
+**Preserved**: inscription "The mouth speaks before the ear receives." (CONFIRMED, unexplained) · 14–15 cm scale · cloth wrapping · one confirmed Gear · nine-Gear model PROPOSED · Door beneath the mill/chamber · Gear ≠ ERC · Gear ≠ Token · no ritual confirmed · no exposition dump · no modern legal language.
+
+**World Bible updated**: `MASTER_GEAR_BLUEPRINT.md` §III — full custody model, box contents, Order-claim distinction, Ch125 custody language, and the "keeper's key" retirement note (the surviving keeper's key is the tower/bell key).
+
+---
+
+## 2026-09-03: Gear Experimentation + Resonance Architecture (WORLD_BIBLE only)
+
+**Event**: Created `08_UNDERGROUND/GEAR_EXPERIMENTATION_AND_RESONANCE.md` — the focused subsystem document for how the confirmed Gear interacts with the stone mechanism, how perception occurs, and how Leon's investigation progresses. **No chapters were modified.**
+
+**Audit findings that corrected prior planning assumptions**:
+- The **first serious Gear experiment is Ch40**, not Ch53 — proximity warmth (repeatable ×3), contact, one tremor through the stone beneath Leon's hand, door unmoved, no marks left.
+- **Ch46 already contains a partial opening**: rotation under applied pressure → clicks in the stone → **one inch** of movement, cold air, an unclassifiable faint sound → Leon closes it deliberately. Door interaction **stages 1–4 are CONFIRMED canon**; Arc 2+ escalation must move toward perception, not further physical opening.
+- **Ch53 and Ch59 are refusal scenes**, not experiments. No new first-experiment scene is required.
+- **Ch46 (after closing): the Gear went cold and stopped responding near the boundary stone** — an unexploited thread suggesting the mechanism has states. The reader is ahead of Leon here.
+- Wall-contact perception is CONFIRMED with the **Token** (Ch75, hand flat on the chamber floor), and only partially with the Gear (vibration felt through stone, Ch40/46).
+
+**Architecture recorded (PROPOSED)**: resonance as the explanatory bridge (PHYSICAL CONTACT → MECHANICAL RESPONSE → RESONANCE → PERCEPTION → SUPERNATURAL RESPONSE); wall-contact as the perceptual channel; six inscription interpretation layers; Leon knowledge-progression table (Ch36 → Ch125); Door stages 5–9; nine plot-hole answers; forbidden-phrasing list; sixteen hard continuity rules.
+
+**Status locks**: INSCRIPTION = CONFIRMED · MEANING = UNKNOWN · FUNCTION = UNKNOWN · RESONANCE = PROPOSED/EMERGING · RITUAL = PROPOSED · FULL PROCEDURE = UNKNOWN. The nature of the Ch46 sound beyond the door remains UNKNOWN and must not be retroactively identified. No numerical/RPG resonance system permitted.
+
+**CONTINUITY CONFLICT — AUTHOR REVIEW REQUIRED (not resolved)**: `Chapter_62_EN.md:53` states "The gear had never warmed — not in the passage, not at the door, not at the eastern marker," contradicting Ch38, Ch40, Ch45, and Ch46. Three options documented in the subsystem file; recommendation is to narrow Ch62's claim to the keeper's sign specifically. **No edit applied.**
+
+**World Bible updated**: `MASTER_GEAR_BLUEPRINT.md` — hierarchy now includes the subsystem document; key experimentation findings and the Ch62 conflict cross-referenced.
+
+**Unchanged**: one confirmed Gear; nine-Gear model PROPOSED; 14–15 cm scale; cloth-in-coat carrying; inscription text; Door beneath the mill/chamber; Gear ≠ ERC; Gear ≠ Token; Pale Compass PROPOSED and deliberately excluded from this arc; Daniel holds the Gear after Ch125. **No manuscript files modified.**
+
+---
+
+## 2026-09-03: MANUSCRIPT REVISION — Gear Inscription Established from Ch36 (CONFIRMED)
+
+**Event**: The confirmed Gear now bears a cryptic inscription from its **first appearance in Chapter 36**. This supersedes the previous "no inscription in canon" finding logged earlier the same day.
+
+**Canonical inscription (CONFIRMED)**: *"The mouth speaks before the ear receives."*
+- **Meaning:** UNKNOWN
+- **Function:** UNKNOWN
+- **Ritual relationship:** PROPOSED (not established as ritual, instruction, or Door mechanic)
+- **Physical placement:** shallow, unusually precise archaic characters in a narrow band around the outer face, following the rim; worn at the crests, still legible; compatible with the 14–15 cm diameter
+- Applies to the **single confirmed Gear only**. No other Gear receives an inscription.
+
+**Chapters modified (5 in this pass)**:
+- `Chapter_36_EN.md` — discovery expanded: Leon first mistakes the marks for scoring/damage, recognises deliberate characters, reads the sentence, records it verbatim, and reasons that a gear does not carry a sentence (no supernatural or ritual interpretation offered). Second worn marking noted but left unresolved. Notebook Observed-column line added: "It carries a sentence cut around its face. Unresolved: why."
+- `Chapter_38_EN.md` — the previously "missed" edge mark is now the worn central marking from Ch36 resolved under lamplight as the circle-and-line; the letter band explicitly "adding nothing"
+- `Chapter_46_EN.md` — **"No inscription." removed**; replaced with "No second inscription cut into the stone to answer the one on the gear." Vale exchange added: the sentence is genuine, unchanged in fifty years, not a name/date/maker's mark; neither man knows its purpose ("A thing that says something and will not say more must be carried")
+- `Chapter_48_EN.md` — one continuity clause ("the band of letters running round its face where it had always run")
+- `Chapter_53_EN.md` — one interiority line at the depression: Leon cannot tell whether the words describe the object or instruct its holder
+- `Chapter_125_EN.md` — Daniel finds and reads the sentence; Leon states he does not know its meaning, that Vale did not either, and warns Daniel not to decide out of impatience; Leon withholds the depression, the second door, and his suspicion that the sentence is one half of an exchange
+
+**Superseded**: the earlier same-day log entry recording "no inscription exists in canon" and the corresponding `MASTER_GEAR_BLUEPRINT.md` §III line.
+
+**World Bible updated**: `MASTER_GEAR_BLUEPRINT.md` §III (inscription CONFIRMED, meaning/function UNKNOWN, ritual PROPOSED, placement, Ch46/Ch125 knowledge boundaries); `DOOR_GEAR_SYSTEM.md` (inscription example table + §XXIV note — text is now confirmed canon for this Gear, CALL association still PROPOSED, must not be reused for other Gears).
+
+**Unchanged**: Gear count (one confirmed); nine-Gear model PROPOSED; 14–15 cm scale; cloth-in-coat carrying; Door beneath the mill/chamber; Gear ≠ ERC; Gear ≠ Token; no ritual promoted to CONFIRMED; no in-fiction "Gear A/B" terminology; no chapters unrelated to the Gear touched.
+
+---
+
+## 2026-09-03: MANUSCRIPT REVISION — Gear Physical Scale + Ch125 Transfer Continuity
+
+**Event**: Corrected the Gear's physical scale and carrying logic across the manuscript, and gave the Ch125 transfer narrative justification. **This is the first task in this series that modified chapter files** — authorized explicitly by the task brief.
+
+**Canon decisions (CONFIRMED)**:
+- Gear diameter ≈ **14–15 cm** — broad as the flat of an adult hand, thicker than a plate, substantial mass. NOT pocket-sized, NOT a coin/medallion/Token-like object.
+- Gear carrying method: **wrapped in a square of cloth, carried inside the coat** (1816-plausible; echoes the folded cloth in Vale's box).
+- Gear temperature behaviour unchanged (cold; warms near fractured stones and the door depression).
+- One confirmed Gear only; Ch46 reconciliation intact.
+
+**Chapters modified (8)**:
+- `Chapter_36_EN.md` — "A small metallic object" → "A metallic object"; "Small enough to rest comfortably between two fingers." → "Broad as the flat of my hand, and thicker than a plate — heavy enough that it would not have gone unnoticed in any pocket."
+- `Chapter_38_EN.md` — established the cloth wrapping ("wrapped in the square of cloth I had taken to carrying it in"); two "took the gear from my pocket" → "unwrapped the gear"
+- `Chapter_40_EN.md` — "put the gear back in my pocket" → "wrapped the gear and put it back inside my coat"
+- `Chapter_45_EN.md` — "The gear was in my pocket." → "The gear was in my coat."
+- `Chapter_46_EN.md` — "What I carried in my pocket" → "What I had carried in my coat" + unwrapping beat; two further pocket references converted to wrapping/coat
+- `Chapter_48_EN.md` — "the gear in my pocket" → "the gear I carried"
+- `Chapter_49_EN.md` — "the coat on the hook where the gear rested in its pocket" → "the coat on the hook with the wrapped gear heavy in its lining"
+- `Chapter_125_EN.md` — transfer revised: Gear unwrapped and described at hand-width scale; Leon states a partial truth (custody, do not set it into any stone yet), withholds the depression's location and the stranger who asked after it; Gear wrapped again and placed in Daniel's bag; Daniel does not understand what he has been given; closing paragraph corrected (drawer no longer holds the gear/book/agreement)
+
+**Inscription finding**: Ch46 explicitly states "No inscription. No hidden message." **The confirmed Gear bears no inscription in canon.** No inscription was added. Recorded as MANUSCRIPT FUTURE INSERTION REQUIRED / PROPOSED for future Gears. "The mouth speaks before the ear receives." remains a PROPOSED design reference only.
+
+**World Bible updated**: `08_UNDERGROUND/MASTER_GEAR_BLUEPRINT.md` §III — physical scale, carrying logic, temperature behaviour, Ch125 transfer rationale, and the no-inscription finding recorded.
+
+**Unchanged**: nine-Gear model remains PROPOSED; Door remains beneath the mill/chamber; Gear ≠ ERC; Gear ≠ Token; no Door mechanics, Pale Compass, or ancient-organization material altered; no in-fiction "Gear A/B/I/II" terminology introduced; no chapters unrelated to the Gear were touched.
+
+---
+
+## 2026-09-03: MASTER_GEAR_BLUEPRINT — Canon-Safe Story Architecture
+
+**Event**: Created `MASTER_GEAR_BLUEPRINT.md` — the highest-level Gear story architecture document, building on the canon audit and reconciling the confirmed single Gear continuity.
+
+**Actions**:
+- Created `08_UNDERGROUND/MASTER_GEAR_BLUEPRINT.md`:
+  - Source-of-truth hierarchy (manuscript > confirmed bible > master blueprint > child documents)
+  - CONFIRMED canon: ONE Gear (Ch36), reconciled with Vale's empty box (Ch46), passed to Daniel (Ch125); Leon does not possess it.
+  - Nine-Gear model recorded as PROPOSED — NOT confirmed; position of confirmed Gear UNRESOLVED.
+  - Gear defined as specialized Artifact (not ERC, not Token, not Sign/Rank).
+  - Individual Gear design framework (25 fields per Gear), cryptic inscription system (5 layers), maker's motif.
+  - Gear discovery framework (varied acquisition mechanisms, unknowing owner concept).
+  - Pale Compass: Artifact (not Gear/Token/ERC), PROPOSED, limitations defined, transaction scenario.
+  - Gear → Door progression framework (9 stages, PROPOSED, anti-puzzle).
+  - Narrative engine loop (discovery → travel → new location → new character → new faction → Door interaction → new clue → new question).
+  - Geographic expansion engine; organization member integration; knowledge boundaries; reader reveal architecture.
+  - Ancient organization mystery (hypotheses, none confirmed); final assembly possibilities (A–G, Leon Does Not Know recommended).
+  - Failure/cost/consequence design; anti-gameification rules; continuity constraints; open questions; future chapter implementation rules.
+- Confirmed single Gear continuity explicitly established; any older "two gears" references marked as pre-reconciliation.
+- No manuscript files modified; no PROPOSED material promoted to CONFIRMED.
+
+**Master Index Entry**:
+> MASTER_GEAR_BLUEPRINT created: canonical-safe Gear story architecture. ONE confirmed Gear (Ch36/46/125; now with Daniel). Nine-Gear model PROPOSED. Gear = specialized Artifact; ≠ ERC/Token. Pale Compass = Artifact (PROPOSED). Door progression PROPOSED; final assembly UNRESOLVED. All PROPOSED — awaits author approval.
+
+**Status**: PROPOSED — ARC 2+. Not CONFIRMED. Not implemented in manuscript.
+
+---
+
+## 2026-09-03: PROPOSED Gear System — Final Story Architecture
+
+**Event**: Created `GEAR_STORY_ARCHITECTURE.md` — the overarching narrative-engine architecture for the Gear system (Arc 2+), built on a canon audit of Ch 36/53/75/125, FINAL_MYSTERY_LEDGER, and PRE_ARC2_FOUNDATION_AUDIT.
+
+**Actions**:
+- Created `08_UNDERGROUND/GEAR_STORY_ARCHITECTURE.md`:
+  - Canon audit (CONFIRMED / PROPOSED / UNRESOLVED / LEGACY) before any design
+  - Nine Gear count recorded as PROPOSED — NOT confirmed; compatible with confirmed keeper's gear (Ch 36) and Vale-box gear only if the confirmed gear occupies a position among the nine (UNRESOLVED)
+  - Door progression design framework (9 stages, NINTH unresolved); anti-puzzle rule
+  - Visual language + three-layer cryptic inscription rule; no in-fiction GEAR A/B/1/2 labels
+  - Discovery story-event rule; acquisition mechanism variety
+  - Geographic expansion engine; organization member involvement model
+  - Pale Compass: Artifact (not Gear/Token/ERC), PROPOSED name, defined limitations, transaction scenario
+  - Five final-assembly possibilities (A–E), E ("Leon does not know") recommended as narrative posture; NONE confirmed
+  - Gear separation hypotheses (10, none confirmed)
+  - Leon knowledge boundary template + Arc 2 opening state (gear held by Daniel, Ch 125 — built-in complication)
+  - Gear-by-gear table (internal identifiers; working names PROPOSED)
+  - MANUSCRIPT FUTURE INSERTION REQUIRED noted for keeper's-gear physical description — not implemented
+  - "Door at Leon's residence" concept checked against canon: Door is beneath the mill — architecture uses confirmed geography only (contradiction avoided)
+- Gear remains an Artifact; Gear ≠ ERC; Token separate; ERC semantic architecture untouched
+- No manuscript files modified; no PROPOSED material promoted to CONFIRMED
+
+**Master Index Entry**:
+> GEAR_STORY_ARCHITECTURE.md established: Gear as world-expansion engine (discovery→travel→acquisition→Door experiment→deeper mystery). Nine Gear PROPOSED. Final assembly intentionally unresolved (5 possibilities; E recommended). Leon begins Arc 2 WITHOUT the confirmed gear (Daniel holds it). All PROPOSED — awaits author approval.
+
+**Status**: PROPOSED — ARC 2+. Not CONFIRMED. Not implemented in manuscript.
+
+---
+
+## 2026-09-03: ERC SEMANTIC RESTORATION + LEGACY ARC AUDIT
+
+**Event**: Restored the authoritative ERC architecture after a semantic drift: canonical presentation format `ERC-ID: Title [SUBJECT TYPE]` reinstated; taxonomy suffixes mandatory; legacy ARC records audited and classified.
+
+**Actions**:
+- Updated `08_UNDERGROUND/ESOTERIC_RECORD_CLASSIFICATION.md`:
+  - §4 restored: ERC identifier = record identifier; subject = documented subject; `[SUBJECT TYPE]` suffix mandatory; canonical examples `ERC-008: The Returning Coin [OBJECT]`, `ERC-013: The Thirteenth Key [OBJECT]`, `ERC-021: The Bellweather Clock [OBJECT]`
+  - Prominent SEMANTIC LOCK added (ERC identifies records, not subjects; not every supernatural object receives an ERC designation; Gear/Token remain outside ERC classification)
+  - ERC MASTER RECORD FORMAT defined (ERC-ID, Title, Subject Type [mandatory], Description, Known Properties, Known Limitations, Source/Discovery, Current Status, Knowledge Boundary, Related Records, Confidence/Reliability)
+  - §14 entries restated in canonical `ERC-ID: Title [Type]` format; numerical identifiers preserved (migration, not renumbering); ERC-010 type corrected to DOCUMENT (legacy "INFORMATION" is not a taxonomy category); ERC-021 legacy LOCATION aspect noted for review; Pale Compass ERC designation REMOVED (no designation without author approval; relic remains an Artifact)
+- Updated `15_METADATA/CANON_SEMANTIC_TABLE.md` — table extended with TERM | MEANING | WHAT IT IS NOT columns (ERC, ERC Record, Subject Type, Artifact, Gear, Token, Sign, Rank, Door, Sanctuary, Arc/ARC); prominent semantic lock added
+- Updated `07_ANOMALIES/ARC_INDEX.md` — SUPERSEDED/LEGACY notice expanded (four-point explanation: previous terminology, current authority, numerical mapping, narrative Arc unchanged)
+- Added LEGACY DESIGNATION notices to `07_ANOMALIES/Draft/ARC-008_The_Returning_Coin.md`, `ARC-013_The_Thirteenth_Key.md`, `ARC-021_The_Bellweather_Clock.md` — files preserved as historical documentation, not rewritten
+- ARC occurrence classification: narrative Arc (Arc 1/2, LONG_TERM_ARC_ROADMAP, PRE_ARC2_FOUNDATION_AUDIT) = KEEP; legacy anomalous-record ARC-XXX = migrated to ERC; `09_MYSTERY/ARC_Item_System_Leon.md` "ARC items" = historical development documentation, preserved, flagged MANUSCRIPT FUTURE REVIEW
+- Record-vs-subject rule re-enforced: "The ERC designation belongs to the RECORD. The subject described by that record does not become an ERC."
+- No manuscript files modified; no PROPOSED material promoted to CONFIRMED
+
+**Master Index Entry**:
+> ERC semantic restoration: canonical format `ERC-ID: Title [SUBJECT TYPE]`; taxonomy suffix mandatory; ERC identifies records, not subjects; Gear/Token outside ERC classification; legacy ARC records mapped numerically (008/013/021 confirmed as [OBJECT]); narrative Arc untouched. Pale Compass has no ERC designation (Artifact only, PROPOSED).
+
+**Status**: CANON LOCK (semantic architecture). All record entries remain PROPOSED. Not implemented in manuscript.
+
+---
+
 ## 2026-09-03: CANON SEMANTIC SEPARATION — ERC / ARTIFACT / GEAR / TOKEN / SIGN / RANK / DOOR / SANCTUARY
 
 **Event**: Comprehensive semantic audit establishing strict conceptual separation between ERC (record/classification framework), Artifact (physical object category), Gear (specialized Artifact), Token (distinct Artifact), Sign, Rank, Door, Sanctuary, and narrative Arc.

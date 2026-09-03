@@ -194,7 +194,7 @@ He smiled faintly.
 
 I reached into my coat.
 
-The strange gear was still there.
+The strange gear was still there, wrapped in the square of cloth I had taken to carrying it in.
 
 I had brought it without entirely deciding why.
 
@@ -212,7 +212,7 @@ Marlow noticed.
 
 He looked at me.
 
-I took the gear from my pocket.
+I unwrapped the gear.
 
 It was warmer than before.
 
@@ -302,7 +302,7 @@ He did not touch it.
 
 Neither did I.
 
-I took the gear from my pocket once more.
+I unwrapped the gear once more.
 
 The warmth returned immediately.
 
@@ -354,9 +354,7 @@ The gear.
 
 I examined the object under the lamp.
 
-For the first time, I noticed something I had missed before.
-
-A tiny mark on one edge.
+The worn marking near its centre — the one I had noted at the mill and set aside as illegible — was not illegible.
 
 A circle.
 
@@ -364,9 +362,7 @@ And a line through it.
 
 The same symbol.
 
-I turned the gear over.
-
-Nothing else.
+I turned the gear over. The band of letters ran round the face as it had always run, saying what it had always said, and adding nothing.
 
 I wrote:
 

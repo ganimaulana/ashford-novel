@@ -20,7 +20,7 @@ I thought of the fifty years.
 
 The agreement was in my room. I read it again that evening. It told me what the door was for. It did not tell me what lay behind it. It told me who had signed it. It did not tell me why.
 
-The gear was in my coat. I took it out. It was a thing of iron, dark and heavy, its shape worn by use I had never seen. A circle, and a short line through it — the mark that was on the stones, and on the door, and on the gear. The same mark. I had stopped being surprised by the sameness of things. I had begun instead to wonder whether the mark meant the same thing on all of them — or whether the sameness was a trick of my own seeing.
+The gear was in my coat. I took it out. It was a thing of iron, dark and heavy, its shape worn by use I had never seen, the band of letters running round its face where it had always run. A circle, and a short line through it — the mark that was on the stones, and on the door, and on the gear. The same mark. I had stopped being surprised by the sameness of things. I had begun instead to wonder whether the mark meant the same thing on all of them — or whether the sameness was a trick of my own seeing.
 
 That was the question I could not answer.
 
@@ -41,6 +41,20 @@ Crowe had come that evening. He had walked past the chair. He had stood at the c
 I closed the window. I latched it. Then I stood for a long time with my hand on the sill, trying to decide whether I was being careful or foolish. I could not decide.
 
 I went through the house slowly. The rooms were spare. A bed. A press. A few coats that smelled of rain and old tobacco. I did not take anything. I did not know what belonged to the duty and what belonged to the man. Perhaps there was no difference. Perhaps that was the trouble.
+
+Two things I noticed and did not understand until much later. The press was ordered — not tidily, but systematically, the shirts in one place and the coats in another and the third space left empty and clean, as though something had been kept there and removed. And the bed had been made in a manner I had seen only in men who had learned it somewhere they were not permitted to do it badly.
+
+I read the journal that night, in order, as he had told me.
+
+The first entries were not what I expected. No boundary. No door. No stones. A young man's account of a wet spring in a garrison town — the price of bread, a sergeant he disliked, a horse that had to be destroyed. A name that appeared four times and then stopped appearing, with no explanation given.
+
+I read a long way before I found the word Ashford, and when I found it, it was not the beginning of anything. It was written the way a man writes down a posting he has been given and does not want.
+
+*To Ashford. The reason offered is establishment. I have read the order twice. It is correctly worded. That is what troubles me.*
+
+There was nothing after it for several pages. Then the parish accounts began, and the weather, and the boundary walk, and the ordinary business of a country constable — as though a door had closed on the earlier man and the later one had agreed not to mention him.
+
+I turned back and read the entry again. *It is correctly worded. That is what troubles me.* I did not know what to do with that sentence. I copied it into my own book and left it there.
 
 I returned to the mill before dark. The stones were where they had been. I checked the first. Then the second. Then the third. The cracks were the cracks — no wider, no narrower than they had been on the night of the vigil.
 
@@ -90,4 +104,4 @@ Whatever was behind the door would wait. And whoever had stood at the mechanism 
 
 When he did, he would find the door closed. He would find the one who holds the gear. He would find me — standing on the side of a door I had not yet decided to understand.
 
-The clock in the house had stopped at 00:00. I had written the time in my notebook and I had not understood it, and I did not understand it now. But I had begun to suspect that it was not an accident — that it was a time that meant something, a time the house kept the way it kept the door, and that I would learn what it meant only when I had earned it. The bell in the tower had not rung since Vale died. I could not say whether it would ring again, or for whom, or what it would mean if it did. Those were questions I had not earned answers to yet — and the gear in my pocket was a poor payment for an answer I had not yet learned to ask.
+The clock in the house had stopped at 00:00. I had written the time in my notebook and I had not understood it, and I did not understand it now. But I had begun to suspect that it was not an accident — that it was a time that meant something, a time the house kept the way it kept the door, and that I would learn what it meant only when I had earned it. The bell in the tower had not rung since Vale died. I could not say whether it would ring again, or for whom, or what it would mean if it did. Those were questions I had not earned answers to yet — and the gear I carried was a poor payment for an answer I had not yet learned to ask.

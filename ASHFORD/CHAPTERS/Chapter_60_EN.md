@@ -46,7 +46,11 @@ There was a silence.
 
 "It was not given to you."
 
-"It was given to me by Vale, before he died. It is mine. It is the gear of the one who holds it, and I hold it, and I will not give it to you."
+"I found it at the mill," I said. "What Vale gave me was a box, and his letters, and his papers, and two bottles I cannot read the labels of. He did not say the gear was in the keeping of anyone. He said the box was his, and that there was no one to leave it to."
+
+"He had no right to place it where you would find it."
+
+"You say that because you want it." I looked at her. "The Order did not know the gear existed until I stood in this room and said so. A thing you did not know of is not a thing you were keeping."
 
 "We have decided you are not the one who holds the gear."
 

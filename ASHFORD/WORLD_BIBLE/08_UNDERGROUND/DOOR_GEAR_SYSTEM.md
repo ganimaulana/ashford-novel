@@ -118,7 +118,7 @@ Each Gear may contain cryptic writing, inscriptions, markings, diagrams, or frag
 
 | Gear associated with... | Inscription | After installation |
 |--------------------------|-------------|--------------------|
-| Voice | "The mouth speaks before the ear receives." | Sound can travel through the Door (one-way). |
+| Voice | "The mouth speaks before the ear receives." — **CONFIRMED text on the single confirmed Gear (Ch36); meaning/function UNKNOWN.** The CALL association below is PROPOSED only. | Sound can travel through the Door (one-way). |
 | Conversation | "What is answered becomes a conversation." | Communication becomes two-way. |
 | Sight | "The eye follows where the voice cannot." | Visual perception becomes possible. |
 
@@ -466,7 +466,7 @@ Narrative principle:
 INSCRIPTION → INITIAL INTERPRETATION → OBSERVATION → ACTIVATION → FUNCTION REVEALED → INSCRIPTION REINTERPRETED
 ```
 
-The inscription must NOT simply explain the power. Mystery first. Existing example ("The mouth speaks before the ear receives") remains a design reference only — not canon unless explicitly approved.
+The inscription must NOT simply explain the power. Mystery first. **Canon note (2026-09-03):** "The mouth speaks before the ear receives." is now CONFIRMED as the inscription on the single confirmed Gear (Ch36) — its meaning and function remain UNKNOWN, and its ritual/CALL relationship remains PROPOSED. It must not be reused as the inscription of any other Gear.
 
 ---
 

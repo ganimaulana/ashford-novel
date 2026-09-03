@@ -166,9 +166,15 @@ Then at the cold fireplace.
 
 Crowe turned toward me.
 
-"You have the gear."
+"You have his box."
 
-"Yes."
+"I have it."
+
+"And the gear is in it."
+
+"The gear is mine. I found it at the mill."
+
+He let that pass without agreeing to it.
 
 "The agreement?"
 
@@ -198,7 +204,11 @@ After a moment, he said:
 
 "You inherited more than a document."
 
-"I know."
+"I inherited a box of a dead man's papers."
+
+"You know that is not what I said."
+
+He waited.
 
 "The choice."
 
@@ -433,6 +443,8 @@ I nearly crossed it out.
 Instead, I added:
 
 I still don't know what that means.
+
+I also do not know why a man leaves his letters and his wife's ring to a stranger he has known for one winter.
 
 I closed the book.
 

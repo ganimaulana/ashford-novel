@@ -336,7 +336,7 @@ Its crack had widened as well.
 
 I stood between the two stones.
 
-The gear was in my pocket.
+The gear was in my coat.
 
 I did not take it out.
 

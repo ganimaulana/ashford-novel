@@ -25,7 +25,7 @@
 | **Librarian** | `characters/Librarian.md` | UNNAMED SUPPORTING ROLE | Ordinary | Chapter 2 (mentioned) | Moderate — library resources |
 | **Military Teacher** | `characters/Military_Teacher.md` | DRAFT — NOT CANON | (Potential) | Not yet introduced | Not applicable |
 | **Dr. Elias Mercer** | ~~`characters/Elias_Mercer.md`~~ — SUPERSEDED 2026-09-01; see ARCHIVE/SUPERSEDED_PROFILES/ | SUPERSEDED | (Obsolete) | Not yet introduced | Not applicable |
-| **Thomas Vale** | `characters/Thomas_Vale.md` | CANON | Hidden World | Chapter 40 | High — former constable, keeper of the Agreement |
+| **Thomas Vale** | `characters/Thomas_Vale.md` | CANON | Hidden World | Chapter 40 | High — former constable, keeper of the Agreement; veteran + senior Constable intelligence/counter-intelligence background (CONFIRMED 2026-09-03) |
 | **Silas Crowe** | `characters/Silas_Crowe.md` | CANON | Hidden World | Chapter 41 | High — Order member (the Silas Crowe of Ch 41 is canonically this profile) |
 | **Clara Bell** | ~~`characters/Clara_Bell.md`~~ — SUPERSEDED 2026-09-01; see ARCHIVE/SUPERSEDED_PROFILES/ | SUPERSEDED | (Obsolete) | Not yet introduced | Not applicable |
 | **Adrian Locke** | ~~`characters/Adrian_Locke.md`~~ — SUPERSEDED 2026-09-01; see ARCHIVE/SUPERSEDED_PROFILES/ | SUPERSEDED | (Obsolete) | Not yet introduced | Not applicable |

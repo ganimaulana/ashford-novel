@@ -156,7 +156,7 @@ And the door I had been watching, the door beneath the mill, the door I had knel
 
 I had been standing on the outside of it. I was standing on the inside of it now.
 
-And the gear in my coat, the gear that Vale had given me, the gear with the circle and the short line — fit this depression.
+And the gear in my coat, the gear I had found beneath the stopped clock at the mill, the gear with the circle and the short line — fit this depression.
 
 I did not put it in.
 
@@ -171,6 +171,8 @@ I could not tell for certain what was behind the door. I had no way of knowing w
 I stood there for a long time.
 
 Then I took my hand off the gear. I did not put it in the depression.
+
+I had read the sentence on its face so often by then that I no longer had to look at it, and standing in the passage with the depression in front of me, I understood that I had never once been able to say whether the words were describing the thing I was holding or instructing the man who held it.
 
 I turned and walked back along the passage, past the keeper's signs, one after another, each one fresh, each one marking the way, and I climbed the ladder, and I closed the trapdoor, and I replaced the mat.
 

@@ -5,7 +5,13 @@
 **Navigation Document** for the ARC system.
 **Last Updated:** 2026-09-03
 
-> **SUPERSEDED (2026-09-03):** The use of "ARC-XXX" as a supernatural-object designation is DEPRECATED. Object/esoteric-subject designations now use **ERC — Esoteric Record Classification** (see `08_UNDERGROUND/ESOTERIC_RECORD_CLASSIFICATION.md`). All ARC-001…ARC-021 designations migrate numerically to ERC-001…ERC-021 (all PROPOSED). "Arc" remains reserved exclusively for narrative story arcs. The documents in this folder are retained as development history and are NOT to be cited as the active designation system. No manuscript changes were made.
+> **SUPERSEDED / LEGACY (2026-09-03):**
+> - "ARC" in this folder is the PREVIOUS anomalous-record classification terminology.
+> - **ERC — Esoteric Record Classification** (`08_UNDERGROUND/ESOTERIC_RECORD_CLASSIFICATION.md`) is the current authoritative record classification.
+> - An ERC identifier identifies a RECORD, not the subject; canonical format: `ERC-ID: Title [SUBJECT TYPE]`.
+> - Historical ARC identifiers map numerically to ERC where applicable (ARC-008 → ERC-008: The Returning Coin [OBJECT]; ARC-013 → ERC-013: The Thirteenth Key [OBJECT]; ARC-021 → ERC-021: The Bellweather Clock [OBJECT]; etc.). Migration is terminology/classification migration, NOT renumbering. All migrated entries remain PROPOSED.
+> - Narrative "Arc" terminology (Arc 1, Arc 2, LONG_TERM_ARC_ROADMAP, PRE_ARC2_FOUNDATION_AUDIT…) remains unchanged and is NOT part of this migration.
+> - The documents in this folder are retained as historical development documentation and are NOT to be cited as the active designation system. No manuscript changes were made.
 
 ---
 

@@ -1,5 +1,7 @@
 # ARC-008 — The Returning Coin
 
+> **LEGACY DESIGNATION (2026-09-03):** ARC-008 is the previous anomalous-record terminology. Current canonical designation: **ERC-008: The Returning Coin [OBJECT]** (see `08_UNDERGROUND/ESOTERIC_RECORD_CLASSIFICATION.md`). This file is retained as historical development documentation. Narrative "Arc" terminology is unaffected.
+
 ## Status
 **DRAFT / EXAMPLE CASE**
 

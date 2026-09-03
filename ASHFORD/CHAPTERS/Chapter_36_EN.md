@@ -1008,7 +1008,7 @@ Then I waited.
 
 I was preparing to leave when something caught the edge of the candlelight.
 
-A small metallic object lay beneath the clock.
+A metallic object lay beneath the clock.
 
 I stopped.
 
@@ -1022,7 +1022,7 @@ The object was dark.
 
 Circular.
 
-Small enough to rest comfortably between two fingers.
+Broad as the flat of my hand, and thicker than a plate — heavy enough that it would not have gone unnoticed in any pocket.
 
 It looked like a gear.
 
@@ -1073,6 +1073,48 @@ Gone.
 I repeated the test.
 
 The same result.
+
+I turned it over in the candlelight.
+
+The face was not plain.
+
+At first I took the marks for damage — the kind of scoring a thing collects inside a mechanism.
+
+Then I saw that they held to a line.
+
+They ran in a narrow band around the outer face, following the rim, spaced too evenly to be accident.
+
+Characters.
+
+Shallow, cut with more precision than the object seemed to deserve, worn at the crests but not lost.
+
+I turned it slowly and read them in order.
+
+*The mouth speaks before the ear receives.*
+
+I read it twice.
+
+The shapes of the letters were old. The words were words I knew.
+
+I wrote them in my notebook exactly as they stood.
+
+Then I sat back on my heels and considered what I had.
+
+A gear does not carry a sentence.
+
+A maker's name, sometimes. A number. A workshop mark.
+
+Not a sentence.
+
+And not that sentence.
+
+It did not describe the object. It did not name an owner. It did not say what the thing was for.
+
+It read like something said aloud, to a person, by someone who expected to be obeyed.
+
+There was a second marking, smaller, near the centre — worn almost flat. A circle, I thought, with something crossing it, though the candlelight would not hold still long enough to be certain.
+
+I noted its position and did not press it further.
 
 I looked at the clock.
 
@@ -1221,6 +1263,8 @@ Observed: an object I had not previously noticed was found beneath the clock.
 It was not the missing piece.
 
 Its temperature changed according to whether I held it.
+
+It carries a sentence cut around its face. Unresolved: why.
 
 I stopped writing.
 

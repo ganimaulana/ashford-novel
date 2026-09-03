@@ -26,6 +26,16 @@ Elias was silent a moment. He was a man who had spent his life with silence, and
 
 "Vale left no account. He left the document, and the gear, and the silence. He passed the keeping to you without a word of what it was, and you had to learn it for yourself."
 
+"He left a journal," I said.
+
+Elias looked at me for a moment.
+
+"And did it tell you what the keeping was?"
+
+"No. It told me what he had been before he came here. Some of it. The parts he was willing to set down." I thought about the pages I had read a dozen times and still could not place — the crossed-out names, the towns I had never heard of, the entries that stopped in the middle of a matter and resumed three years later as though nothing had been left unfinished. "He wrote a great deal, and he wrote nothing about the door. I have come to think that was a decision. He wrote what could be written and left the rest out on purpose."
+
+"Then he left you two things," Elias said. "The keeping, and the habit of a man who did not trust paper."
+
 "Yes."
 
 "And now you are writing for the keeper who comes after."
@@ -35,7 +45,6 @@ I stood in his house, among the erased objects, and I did not know what to say.
 "Then you are doing what no keeper has done," Elias said. "You are leaving more than the keeping. You are leaving the understanding."
 
 I looked at him. "The first keeper kept without understanding," he said. "Vale kept without understanding. You have understood — the boundary, the sign, the count, the keepers, the tally. And you are leaving that understanding for the one who comes after."
-
 I stood among the objects without history, and I understood that Elias had been waiting for this moment longer than I had. He had kept the book of the first keeper, and the objects that had been erased, and the knowledge of the tally, and he had been waiting for a keeper who would write it down.
 
 "Will you help me?" I said.

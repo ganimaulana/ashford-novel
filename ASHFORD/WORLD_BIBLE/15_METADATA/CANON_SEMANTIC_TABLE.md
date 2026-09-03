@@ -8,17 +8,19 @@
 
 ## AUTHORITATIVE TABLE
 
-| Term | Meaning | Category |
-|------|---------|----------|
-| **ERC** | E.R.C. = Esoteric Record Classification — a record/classificatory archival framework for documented esoteric subjects | Record / Classificatory Framework |
-| **Artifact** | A physical supernatural/esoteric object | Object Category |
-| **Gear** | Specialized Artifact associated with the Door and the ancient organization's disappearance | Artifact Subcategory |
-| **Token** | Distinct supernatural Artifact (access/connection/organizational) | Artifact Category |
-| **Sign** | Supernatural system element (XIII Signs) | Power System |
-| **Rank** | Supernatural progression hierarchy (Rank 9 = Marked … Rank 1 = Transcendent; Rank 0 does not exist) | Power System |
-| **Door** | Supernatural threshold/mechanism | Major Supernatural Concept |
-| **Sanctuary** | Supernatural space/location associated with connections | Major Supernatural Concept |
-| **Arc** | Narrative structure (Arc 1, Arc 2…) | Story Structure |
+| TERM | MEANING | WHAT IT IS NOT |
+|------|---------|----------------|
+| **ERC** | E.R.C. = Esoteric Record Classification; archival identifier/framework for documented esoteric subjects | NOT a supernatural object; NOT an artifact category; NOT a power system |
+| **ERC Record** | An individual archival record; canonical format `ERC-ID: Title [SUBJECT TYPE]` (e.g., `ERC-008: The Returning Coin [OBJECT]`) | NOT the supernatural subject itself |
+| **Subject Type** | OBJECT / PHENOMENON / LOCATION / ENTITY / EVENT / DOCUMENT / RITUAL / MECHANISM / UNKNOWN — the type of subject documented by an ERC record; mandatory field | NOT an ERC itself; NOT a power tier |
+| **Artifact** | Physical supernatural/esoteric object | NOT automatically ERC |
+| **Gear** | Specialized Artifact associated with the Door and the ancient organization mystery | NOT ERC; NOT Token |
+| **Token** | Distinct supernatural Artifact/system element (access/connection/organizational function) | NOT ERC; NOT Gear |
+| **Sign** | Supernatural system element (XIII Signs) | NOT ERC; NOT Artifact unless canon explicitly requires |
+| **Rank** | Supernatural progression hierarchy (Rank 9 = Marked … Rank 1 = Transcendent; Rank 0 does not exist) | NOT ERC; NOT artifact numbering |
+| **Door** | Supernatural threshold/mechanism | NOT ERC; NOT Artifact |
+| **Sanctuary** | Supernatural space/location associated with connections | NOT ERC; NOT Gear |
+| **Arc / ARC** | Narrative story structure (Arc 1, Arc 2…) — OR legacy anomalous-record terminology in historical development documents, depending on context | NOT automatically ERC; narrative Arc never migrates |
 
 ---
 
@@ -48,6 +50,20 @@ The record is ERC. The physical object is an Artifact. The specialized object ty
 ```
 
 ---
+
+## SEMANTIC LOCK (PROMINENT)
+
+> ERC identifies records, not subjects.
+>
+> The taxonomy [OBJECT], [PHENOMENON], [LOCATION], [ENTITY], [EVENT], [DOCUMENT], [RITUAL], [MECHANISM], and [UNKNOWN] identifies the type of subject documented by the record.
+>
+> Not every supernatural object receives an ERC designation. ERC is selective and archival.
+>
+> Gear and Token remain outside ERC classification unless a future author decision explicitly establishes otherwise.
+>
+> Gear → Artifact / specialized Gear system. Token → Token system / Artifact. Sign → XIII Signs system. Rank → Rank system. Door → Door system. Sanctuary → established supernatural/location framework. Do not force these systems into ERC.
+>
+> ERC does NOT sit above Gear or Token as a universal object taxonomy.
 
 ## THE RECORD vs SUBJECT RULE (ENFORCED)
 
