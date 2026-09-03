@@ -54,6 +54,16 @@ Calloway did not touch it.
 
 I looked at the notebook.
 
+"Did Vale tell you it was in there?"
+
+Calloway thought about it.
+
+"He told me the box held what could not be written down. He did not itemise it." He paused. "He was particular about that. I remember thinking it was an old man's fussiness. He would not say a thing in a room with a door open. He would not put a name in a letter. When he handed me this box he did it here, with the shutters closed, and he watched me put it in the drawer, and then he asked me for the key and gave it back to me himself."
+
+"Why?"
+
+"I assumed he wanted to be sure I knew where it was." Calloway looked at the box. "I have since wondered whether he wanted to be sure no one else was watching me learn it."
+
 I reached out. I took it.
 
 It was heavy in my hands — heavier than it should have been, the way a notebook is heavy when it holds more than a man's writing. I stood with it in my hands, in the lamp-lit office, and I understood that I was holding the last record of a man who had been removed from every other record in the town. The box of the constables had kept him the way the boundary stones kept the sign — by being a place where the ordinary records did not reach.

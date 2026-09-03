@@ -66,9 +66,31 @@ I had been waiting for him. I had not known who he was. I had not known when he 
 
 "I have been waiting," I said.
 
-I opened the drawer again. I took out the gear — the gear that Vale had given me, the gear that had been carried by keepers since the first. I set it beside the book.
+I opened the drawer again. I took out the gear — the gear I had found beneath the stopped clock at the mill, in my first winter, before I had understood a single thing about the keeping. It was wrapped in the square of cloth I had carried it in for five years. I unwrapped it and set it beside the book, and it lay there filling the width of my hand, dark and cold and heavier than it looked.
 
-"This is the gear," I said. "It is the keeper's key. I have carried it for five years. Now it is yours."
+"This is the gear," I said. "Vale kept it for fifty years, in a box, among his letters and his papers, and then he put it where I would find it and never told me why. I have carried it for five. Now you will carry it."
+
+He bent over it, and I saw him find the letters — the band of them cut round the face, worn at the crests, still legible after however many hands had held it.
+
+"There are words on it," he said.
+
+"There are."
+
+He read them. He was the clerk's son; he read them easily, the way he read everything.
+
+"What does it mean?"
+
+"I do not know," I said.
+
+He looked up at me to see whether that was the whole answer.
+
+"Vale did not know either," I said. "He read it for fifty years. I have read it for five. Neither of us could tell you whether it is an instruction, or a warning, or a description of something that is not the gear at all. Write it in the book. Read it when you have nothing else to do. And do not decide what it means because you are tired of not knowing."
+
+That was true, and it was not the whole of the truth. I did not tell him where the depression was, or that there was more than one door that would take it, or what I had felt in the passage with my hand on it and the candle burning down, or that the sentence had begun to sound to me less like a maker's motto than like one half of an exchange. I told him what he could carry: that it was old, that it had been kept by men who did not understand it, and that it was not to be set into any stone until he understood what the stone was.
+
+I did not tell him it was his. I told him he would carry it. There is a difference, and Vale had known it, and had said nothing to me either.
+
+I had another reason, and I did not give him that one either. A thing that is asked after is a thing that is followed. A man had come a long way to ask about the gear in my first year, and I had never learned his name. And I had begun to understand that I would not always be in that room.
 
 He looked at the gear. He did not touch it.
 
@@ -91,6 +113,8 @@ He looked at the book.
 He looked at the book a long time.
 
 Then he reached out, and he took it.
+
+I wrapped the gear again while he held the book, and I set it in the bag at his feet, because he had not asked for it and would not have known how to ask. The bag settled when I let it go. He watched me do it and said nothing, and I understood that he did not know what he had been given — only that it was old, and that it was his now, and that it had been carried by men whose names he would never learn.
 
 I sat in the room, and I watched him hold the book of the keeping.
 
@@ -168,7 +192,7 @@ I opened the red book. I wrote:
 
 *And I have passed the keeping.*
 
-I closed the red book. I stood in the stillness of the room. The book of the keeping was in the drawer beside the gear and the agreement. The boundary was waiting. Daniel was at the Academy, reading the account I had written, beginning the long work of learning what the keeping was. I had done what I had set out to do. I had kept the account, and I had passed it, and the keeping would continue after me, as it had continued before me, and the count would go on being counted, and the bell would ring at 00:00 when the count was ready, and I would not be there to hear it. And that was as it should be.
+I closed the red book. I stood in the stillness of the room. The drawer was empty of them now — the book of the keeping, the gear, the agreement, all of them gone in a young man's bag. The boundary was waiting. Daniel was at the Academy, reading the account I had written, beginning the long work of learning what the keeping was. I had done what I had set out to do. I had kept the account, and I had passed it, and the keeping would continue after me, as it had continued before me, and the count would go on being counted, and the bell would ring at 00:00 when the count was ready, and I would not be there to hear it. And that was as it should be.
 
 I left the rooms. I walked to the boundary. The stones were waiting in their patient line, and I stood at the eastern marker, where the first sign was cut into the stone, and I did not kneel. I had knelt enough. The wall was not mine to keep anymore. It was Daniel's.
 

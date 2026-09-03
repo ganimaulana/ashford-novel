@@ -40,6 +40,16 @@ I stood in the doorway. The keeper before Vale. He had not died. He had been in 
 
 "Vale kept the forgetting," he said. "He kept the agreement. He did not keep the account. He kept the door closed, and he kept the forgetting, but he did not keep the remembering."
 
+"He wrote a journal," I said. "He wrote pages of it. Towns I have never heard of, names crossed out, cases with no ending."
+
+The old man was quiet for a moment.
+
+"Then he wrote what he was permitted to write," he said. "That is a different thing from keeping the account. A man who has spent his life learning what happens to paper does not put the important thing on paper. He puts it where the paper points, and hopes the right reader comes."
+
+"You knew what he had been."
+
+"I knew what they sent us," he said. "They did not send us a country constable. They sent us a man who had been taken out of somewhere, and who behaved for fifty years like a man expecting to be searched." He looked at the room, and at the desk, and at the drawer. "I never learned what he had done to deserve Ashford. I asked him once. He said the order had been correctly worded."
+
 I stood in the doorway. The keeper before Vale had come back to write the account.
 
 "I have been waiting," he said, "for the keeper who would write the account. I have been waiting for you."

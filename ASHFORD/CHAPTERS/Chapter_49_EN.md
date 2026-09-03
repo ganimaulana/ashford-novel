@@ -76,7 +76,7 @@ He paused at the threshold. "The mark in the earth. Three strokes. Do not speak 
 
 He went out.
 
-I stood in the room a long time after the door closed, looking at the chair where he had sat, and at the drawer where the agreement lay, and at the coat on the hook where the gear rested in its pocket. I had not asked Crowe what he thought the mark was. I had not asked him why he had come to warn me. I had asked him nothing, and he had told me three things I could not verify, and one thing I already knew — that he drew a line between wanting to open the door and wanting to know what it was for. I did not know whether to believe the line.
+I stood in the room a long time after the door closed, looking at the chair where he had sat, and at the drawer where the agreement lay, and at the coat on the hook with the wrapped gear heavy in its lining. I had not asked Crowe what he thought the mark was. I had not asked him why he had come to warn me. I had asked him nothing, and he had told me three things I could not verify, and one thing I already knew — that he drew a line between wanting to open the door and wanting to know what it was for. I did not know whether to believe the line.
 
 I went to the mill that night. Not to the stones — I left the fourth stone untouched, the mark in the earth unread, as Crowe had advised and as my own distrust advised as well. I went to the mechanism, to the door, where the ground held its record.
 
@@ -128,9 +128,9 @@ The woman with the ledger spoke again. "There is a mark," she said. "A mark that
 
 "I have seen it," I said. "On the stones. On the door. On the gear."
 
-"On the gear," she repeated. She looked at Crowe. "You did not tell us the gear was given."
+"On the gear," she repeated. She looked at Crowe. "You did not tell us the gear had come to him."
 
-"It was given," I said. "Vale gave it to me before he died. It is mine now."
+"It came to me at the mill," I said. "I found it on the floor beneath a stopped clock, before I had heard the word keeper spoken in my hearing. Vale kept it before that. Vale left me his box, and his letters, and his wife's ring, and he did not tell me which of them mattered."
 
 "There was no gear," Graves said flatly, "before this spring."
 

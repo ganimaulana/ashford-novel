@@ -122,7 +122,7 @@ I knew what he meant before he said my name.
 
 "You."
 
-He did not give me the gear immediately.
+He did not send me away.
 
 Instead, he asked me to close the curtains.
 
@@ -130,17 +130,35 @@ I did.
 
 The room became darker.
 
-He reached beneath the table and brought out a small wooden box.
+He reached beneath the table and brought out a wooden box.
 
 It was old.
 
 The hinges had been repaired more than once.
 
+It was the size of a case for documents, and heavier than its size suggested when he pushed it across the table.
+
 He placed it between us.
 
 "Open it."
 
-Inside was a folded piece of cloth.
+Inside was the accumulation of a long life lived in one room.
+
+Papers, folded and refolded until the creases had gone soft.
+
+A bundle of letters tied with tape, the tape gone brown.
+
+Beneath them, a service journal — dark leather, the spine broken, the edges of the pages dirty from years of a coat pocket.
+
+A district map, not of Ashford. The kind of map a constabulary prints and does not sell. There were marks on it in ink, small and regular, in more than one shade, as though they had been added over a long stretch of years.
+
+Two small bottles, stoppered, labelled in a hand I did not know.
+
+A brass button, military, worn smooth on the face.
+
+A woman's ring, too small for any finger of his.
+
+And at the bottom, beneath all of it, a folded piece of cloth.
 
 He removed it carefully.
 
@@ -148,9 +166,55 @@ The cloth was empty.
 
 "This is where it was kept," Vale said. "For fifty years. And then, when the time came, it was set where a thing must be found and not given. You found it at the mill."
 
-I understood. What I carried in my pocket and what the box had held were not two gears. They were one. The gear had left the box the day it was set beneath the clock, and it had passed to me the night I knelt in the mill and picked it up. I took it out and set it on the table between us.
+I understood. What I had carried in my coat and what the box had held were not two gears. They were one. The gear had left the box the day it was set beneath the clock, and it had passed to me the night I knelt in the mill and picked it up. I took it out, unwrapped my own cloth, and set it on the table between us.
 
-The old constable looked at me.
+He looked at it for a while.
+
+Then he looked at the box.
+
+"These are mine," he said. "Not the parish's. Not the Order's. Mine."
+
+"I know."
+
+"There is no one to leave them to."
+
+He said it the way a man states a measurement.
+
+"Keep the box."
+
+"What is in it?"
+
+"What you have seen."
+
+"That is not an answer."
+
+"No."
+
+He closed his eyes for a moment.
+
+"Some of it is nothing. A button. A ring. A map I could have burned thirty years ago. Some of it I have never understood, and I have had fifty years to try. I cannot tell you which is which."
+
+"Then how am I to know?"
+
+"You will not," he said. "Not for a long time."
+
+I put my hand on the journal.
+
+"May I read this?"
+
+"You will read it whether I say yes or no." He did not sound displeased. "Read it in order. Not the end first. A man who reads the end first learns what happened and never learns why."
+
+"Is there something in it you do not want me to find?"
+
+"There is a great deal in it I did not want anyone to find. That is why it is in a box and not in an office."
+
+I looked at the box.
+
+"Why me?"
+
+He did not answer that.
+
+He looked at the gear on the table instead — the one thing I had brought to the room rather than found in it.
 
 "Do you know what this is?"
 
@@ -194,6 +258,26 @@ He nodded.
 
 "Words become unreliable when people write about things they don't understand."
 
+I turned the gear so the band of letters caught the light.
+
+"There are words on it."
+
+"I know what is on it."
+
+"Do you know who cut them?"
+
+"No."
+
+"Do you know what they mean?"
+
+He was quiet long enough that I heard the fire settle.
+
+"I have read that sentence for fifty years," he said. "I can tell you it has not changed. I can tell you it is not a name, and not a date, and not a maker's mark. I cannot tell you what it is for."
+
+"Then it says nothing."
+
+"It says exactly what it says," he said. "That is the difficulty. A thing that says nothing can be set aside. A thing that says something and will not say more must be carried."
+
 I picked up the gear from the table.
 
 It was cold.
@@ -232,21 +316,23 @@ He looked toward the closed curtains.
 
 He did not answer.
 
-He closed the box.
+He closed the box and pushed it the last inch across the table, so that it stood on my side of it and not on his.
 
-"You already have one," he said.
+"Take it with you when you go."
 
 The weight of expectation was already on me.
 
-"Where?"
+"And the mill?"
 
 "You know where."
 
-"The mill."
+"Tonight?"
 
 He nodded.
 
-"Tonight."
+I carried the box home under my coat. It was awkward rather than heavy, and I had to change my grip twice on the road, and I remember thinking that a man's whole private life had turned out to be a thing you could carry badly with two hands.
+
+I set it on my desk and did not open it again that night.
 
 I returned after midnight.
 
@@ -514,7 +600,7 @@ I checked the depression.
 
 There was no visible change.
 
-No inscription.
+No second inscription cut into the stone to answer the one on the gear.
 
 No hidden message.
 
@@ -522,7 +608,7 @@ No proof that I had done anything more than move an old piece of machinery.
 
 I stood there for a long time.
 
-Then I put the gear back into my pocket.
+Then I wrapped the gear again and put it inside my coat.
 
 On the way home, I stopped beside the first boundary stone.
 
@@ -706,7 +792,7 @@ That was almost comforting.
 
 Almost.
 
-I took the gear from my pocket.
+I unwrapped the gear.
 
 It was cold now.
 

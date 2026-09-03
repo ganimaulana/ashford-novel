@@ -1,5 +1,7 @@
 ﻿# ARC-021 — The Bellweather Clock
 
+> **LEGACY DESIGNATION (2026-09-03):** ARC-021 is the previous anomalous-record terminology. Current canonical designation: **ERC-021: The Bellweather Clock [OBJECT]** (legacy draft additionally noted a LOCATION aspect — recorded for future review; see `08_UNDERGROUND/ESOTERIC_RECORD_CLASSIFICATION.md`). This file is retained as historical development documentation. Narrative "Arc" terminology is unaffected.
+
 ## Status
 **DRAFT / EXAMPLE CASE**
 

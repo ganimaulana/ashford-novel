@@ -92,6 +92,14 @@ He tapped the file with one finger.
 
 "I have had this file since I took the office from Vale," he said. "Vale had it from Ferrand's successor, and no one has ever written a single line to go inside it. A man who keeps a file empty for that long has made a decision about it. I never asked what the decision was."
 
+He turned the file a little on the desk, squaring it, the way a man does when he is deciding how much to say.
+
+"I will tell you one thing about Vale, since you have asked me about the man before him. Vale did not keep files. He kept copies. Twice in my first year I sent a report up and had it come back altered — small things, a date, a word — and both times Vale had the original in his own hand and showed it to me without a word of comment, as if it were the most ordinary thing in the world to have kept it. I asked him once why he bothered. He said that a man who has only one copy of a thing does not own it."
+
+"That is a strange lesson for a country constable."
+
+"It is," Calloway said. "I have thought so for twenty years."
+
 I stood in the office. The lamp burned. The file lay unopened between us, and I understood that Calloway had given me something — not the contents, but the permission, or the warning, that there was a thing in Ashford that had been deliberately left blank.
 
 Marcus Ferrand had been the constable before Vale. He had retired. He had disappeared from the records. And I had been given his name, with no instruction, no explanation, no clue.

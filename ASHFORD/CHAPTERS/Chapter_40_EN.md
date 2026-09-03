@@ -60,6 +60,20 @@ I had not known the previous constable was still alive.
 
 "Long enough."
 
+"Were you always a constable?"
+
+He was quiet for a moment.
+
+"I was a soldier first. Most men my age were something first."
+
+"And between the two?"
+
+He looked at me.
+
+"You ask questions in the right order," he said. "That is not a compliment. It means you will be difficult to lie to, and men who are difficult to lie to are told nothing at all."
+
+He did not answer the question.
+
 "Why didn't Calloway mention you?"
 
 Vale looked toward the window.
@@ -362,6 +376,14 @@ Vale's expression hardened.
 
 "Missing."
 
+He said the word the way a man says the name of an old adversary.
+
+"Records do not go missing," he said. "They are lost, or they are taken, or they are copied wrongly on purpose and the wrong copy is the one that survives. The three look identical after fifty years. Remember that."
+
+"You sound as though you have seen it done."
+
+"I have seen a great many things done."
+
 The word reminded me of the house.
 
 The incomplete property record.
@@ -445,6 +467,8 @@ Vale's eyes went to it immediately.
 I told him.
 
 He did not touch it.
+
+He asked me where again, in different words, twenty minutes later, when we had been talking about something else. I gave the same answer. He nodded as though a matter had been settled, and I understood only afterwards that it had been.
 
 Instead he leaned closer.
 
@@ -542,7 +566,7 @@ Nothing.
 
 He said nothing.
 
-After several minutes I put the gear back in my pocket.
+After several minutes I wrapped the gear and put it back inside my coat.
 
 "You said it reacted."
 

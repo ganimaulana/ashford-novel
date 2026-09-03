@@ -1,5 +1,7 @@
 ﻿# ARC-013 — The Thirteenth Key
 
+> **LEGACY DESIGNATION (2026-09-03):** ARC-013 is the previous anomalous-record terminology. Current canonical designation: **ERC-013: The Thirteenth Key [OBJECT]** (see `08_UNDERGROUND/ESOTERIC_RECORD_CLASSIFICATION.md`). This file is retained as historical development documentation. Narrative "Arc" terminology is unaffected.
+
 ## Status
 **DRAFT / EXAMPLE CASE**
 

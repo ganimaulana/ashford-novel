@@ -36,6 +36,14 @@ I stood in the doorway of the room, in the smell of paper and dust and old ink, 
 
 I came into the room.
 
+"Why you?"
+
+"Because I am not the Order's archivist," she said. "I am the Order's archivist as far as they know. That is a different thing, and Vale was the only man in Ashford who ever noticed the difference." She turned another page. "He did not ask me to keep it. He asked me three questions about how the room was locked, and who else held a key, and what I did with the ledgers when I was ill. Then he asked me to keep it."
+
+"That is a strange way to ask a favour."
+
+"It is a very old way of asking one," she said. "I did not understand it either, at the time."
+
 "What record?"
 
 She looked at me then.
@@ -75,6 +83,14 @@ I waited.
 "From the Order?"
 
 "From everyone." She leaned back. "The sign is not a message for you. It is not a key. It is a warning — a warning carved into the stone by the men who built the wall, so that anyone who came after would know what they were standing over."
+
+"You speak as though you were certain of him."
+
+"I am certain of one thing about him," she said. "He did not trust the Order, and he did not trust the constabulary either, and I never learned which of the two he distrusted first. He would not carry a paper through the town in daylight. He came here at dusk, always, and never twice by the same street." She looked at the folded map in my hand. "I assumed it was age. Old men grow strange. I have had seven years to think about it, and I no longer think it was age."
+
+"What do you think it was?"
+
+"I think he had been taught," she said. "Somewhere, by someone, a long time before Ashford. And I think whatever he was taught, he had good reason to keep practising it in a town of two thousand people where nothing ever happens."
 
 "What are they standing over?"
 
