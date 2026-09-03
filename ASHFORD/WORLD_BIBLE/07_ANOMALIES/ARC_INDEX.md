@@ -3,7 +3,9 @@
 ## Status
 
 **Navigation Document** for the ARC system.
-**Last Updated:** 2026-08-31
+**Last Updated:** 2026-09-03
+
+> **SUPERSEDED (2026-09-03):** The use of "ARC-XXX" as a supernatural-object designation is DEPRECATED. Object/esoteric-subject designations now use **ERC — Esoteric Record Classification** (see `08_UNDERGROUND/ESOTERIC_RECORD_CLASSIFICATION.md`). All ARC-001…ARC-021 designations migrate numerically to ERC-001…ERC-021 (all PROPOSED). "Arc" remains reserved exclusively for narrative story arcs. The documents in this folder are retained as development history and are NOT to be cited as the active designation system. No manuscript changes were made.
 
 ---
 

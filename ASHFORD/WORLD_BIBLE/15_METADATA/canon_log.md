@@ -4,6 +4,55 @@ This file tracks major changes to the official release canon.
 
 ---
 
+## 2026-09-03: CANON SEMANTIC SEPARATION — ERC / ARTIFACT / GEAR / TOKEN / SIGN / RANK / DOOR / SANCTUARY
+
+**Event**: Comprehensive semantic audit establishing strict conceptual separation between ERC (record/classification framework), Artifact (physical object category), Gear (specialized Artifact), Token (distinct Artifact), Sign, Rank, Door, Sanctuary, and narrative Arc.
+
+**Actions**:
+- Created `15_METADATA/CANON_SEMANTIC_TABLE.md` — authoritative terminology table, Artifact taxonomy (Artifact → Gear / Token / Other), ERC subject taxonomy, Record-vs-Subject rule, forbidden conflations, knowledge-boundary preservation, anti-SCP constraint
+- Updated `08_UNDERGROUND/ESOTERIC_RECORD_CLASSIFICATION.md` — Record-vs-Subject rule made authoritative; Gear/Token sections rewritten (the RECORD carries the ERC designation, the object remains an Artifact); Pale Compass relic reclassified as Artifact with ERC record designation
+- Updated `08_UNDERGROUND/DOOR_GEAR_SYSTEM.md` §XXV — Gear-finding relic is an Artifact, NOT an ERC; legacy "ARC artifact" phrasing removed/corrected
+- Updated `08_UNDERGROUND/GEAR_COMPONENT_PROFILES.md` — Gear defined as specialized Artifact; "Associated ARC artifacts" → "Associated artifacts"
+- Key clarifications:
+  - ERC = record/classification framework; ERC ≠ Artifact, ≠ Gear, ≠ Token, ≠ Sign, ≠ Rank, ≠ Door
+  - Being supernatural does NOT automatically make something an ERC subject
+  - ERC numbering = archival, NOT power/danger/rarity; no ERC levels/tiers exist
+  - Arc = narrative structure remains valid and unchanged
+  - Legacy designation migration does NOT reclassify subjects (e.g., The Returning Coin's category follows its own case material)
+- `09_MYSTERY/ARC_Item_System_Leon.md` ("ARC items" in Leon's home-org context) preserved as development history — flagged MANUSCRIPT FUTURE REVIEW if terminology surfaces in prose
+- No manuscript files modified
+- No new speculative lore promoted to CONFIRMED
+
+**Master Index Entry**:
+> SEMANTIC LOCK: ERC = record/classification. Artifact = physical esoteric object. Gear = specialized Artifact (Door-related). Token = distinct Artifact. Sign/Rank = power system. Door/Sanctuary = major supernatural concepts. Arc = narrative. ERC never equals its subject; records document subjects. All preserved mysteries remain PROPOSED/UNRESOLVED.
+
+**Status**: CANON LOCK (semantic separation). No new lore confirmed. Not implemented in manuscript.
+
+---
+
+## 2026-09-03: PROPOSED E.R.C. — Esoteric Record Classification (replaces ARC object designation)
+
+**Event**: Revised the development-only "ARC-XXX" object/artifact designation concept into **E.R.C. = ESOTERIC RECORD CLASSIFICATION** — a broad, mysterious, archival classification framework covering objects, phenomena, locations, entities, events, documents, rituals, mechanisms, and unknown esoteric subjects.
+
+**Actions**:
+- Created `08_UNDERGROUND/ESOTERIC_RECORD_CLASSIFICATION.md` — definition, scope, designation format (ERC-001…), 9-category taxonomy, numbering rules (archival, NOT power-based), knowledge boundaries, relationships to Gear/Token/Sign/Door/Sanctuary, historical origin (UNRESOLVED), migrated entry table (ERC-001…ERC-021), direction-finding relic (ERC-[TBD], working name "The Pale Compass", PROPOSED), open questions, anti-SCP constraint, canon status
+- Updated `08_UNDERGROUND/DOOR_GEAR_SYSTEM.md` §XXV — "Gear-finding ARC artifact" → "Gear-finding relic (ERC entry)"; terminology note added
+- Updated `07_ANOMALIES/ARC_INDEX.md` — SUPERSEDED notice added (documents retained as development history; not deleted)
+- Migration: ARC-001…ARC-021 object designations → ERC-001…ERC-021 (numerical carry-over, all PROPOSED). The Returning Coin: ARC-008 → ERC-008.
+- Narrative "Arc" (Arc 1, Arc 2…) unchanged and remains exclusively available for story arcs
+- "Esoteric Relic Classification" never appeared in any file; no replacement needed
+- ERC is NOT a power system: numbers do not represent strength; ERC never replaces Gear, Token, Sign, or Rank
+- Gear remains a distinct concept; Gear count remains UNRESOLVED (nine = PROPOSED); assembly consequence remains UNKNOWN
+- No new supernatural facts confirmed by this terminology change
+- No manuscript files modified
+
+**Master Index Entry**:
+> ARC object designation deprecated → ERC (Esoteric Record Classification). ERC = archival designation framework for esoteric subjects (objects, phenomena, locations, entities, events, documents, rituals, mechanisms, unknown). Numbers are archival, not power-based. Narrative Arc unchanged. Gear/Token/Sign/Rank/Door untouched. All PROPOSED.
+
+**Status**: PROPOSED — terminology framework for Arc 2+ development. Not implemented in manuscript.
+
+---
+
 ## 2026-08-28: Workspace Reorganization
 
 **Event**: Initial separation of OFFICIAL vs EXPLORATION material
@@ -31,6 +80,67 @@ This separation ensures that:
 2. Exploration can proceed freely without risk of corrupting released chapters
 3. Clear distinction between what is canon vs what is development material
 4. Future auto-generation workflows can safely operate in ARCS without approval
+
+---
+
+## 2026-09-03: PROPOSED Door–Gear–Token System as Core Story Engine
+
+**Event**: Created `DOOR_GEAR_SYSTEM.md` — a major PROPOSED supernatural story engine for Arc 2+, establishing the Token–Gear–Door relationship as a foundational narrative architecture.
+
+**Actions**:
+- Created `08_UNDERGROUND/DOOR_GEAR_SYSTEM.md`:
+  - Core definition: Token = who, Gear = what, Door = where
+  - Gear design philosophy (activates Door functions, not generic powers)
+  - Gear inscription methodology (clues, not manuals)
+  - Proposed 9-function progression (CALL → REPLY → SIGHT → PRESENCE → PASSAGE → RECALL → THRESHOLD → ANCHOR → UNKNOWN)
+  - Cryptic inscription examples (design references only)
+  - Order of Severence knowledge boundary (partial, fragmented)
+  - Eleanor's complementary expertise role (records vs observation)
+  - Anonymous Token Network relationship
+  - Sanctuary relationship
+  - Dream target-discovery methodology
+  - Mystery-pacing rules, failure/limitation design space, conflict potential
+  - Open questions, forbidden assumptions, future development rules
+- All material labeled PROPOSED — ARC 2+
+- No existing confirmed canon overwritten
+- No manuscript files modified
+
+**Master Index Entry**:
+> PROPOSED DOOR–GEAR–TOKEN SYSTEM established as core story engine. Token = who may be connected. Gear = what may be done. Door = where the connection leads. 9 proposed Gear functions (CALL through ANCHOR, 9th unresolved). System must be revealed gradually. No existing canon overwritten.
+
+**Status**: PROPOSED — ARC 2+. Not implemented in manuscript.
+
+---
+
+## 2026-09-03: PROPOSED Supernatural Artifact Architecture — ARC / GEAR / TOKEN
+
+**Event**: Implemented the artifact architecture framework: three distinct categories (GEAR, ARC, TOKEN), nine-Gear proposed structure, Gear-finding ARC concept, world-expansion engine, information-arbitrage model, Ancient Organization mystery connection.
+
+**Actions**:
+- Updated `08_UNDERGROUND/DOOR_GEAR_SYSTEM.md` — added sections XXI–XXXV:
+  - Three-category distinction (Gear ≠ ARC ≠ Token) — CONFIRMED structural
+  - Source-of-truth hierarchy (manuscript > confirmed bible > proposed > framework > prompt)
+  - Nine-Gear PROPOSED structure; full assembly consequence = UNKNOWN / INTENTIONALLY UNRESOLVED
+  - 42-field Gear identity profile template
+  - Gear visual identity differentiation rules; images never establish canon
+  - Layered inscription methodology
+  - Gear-finding ARC artifact (PROPOSED; an ARC artifact, NOT a Gear; name TBD)
+  - World-expansion engine + world-expansion principle
+  - ARC red herrings; secondary artifact discovery; information arbitrage
+  - Token network × Gear investigations (distributed investigation, not adventuring party)
+  - Ancient Organization hypotheses (A–G, none confirmed)
+  - Faction knowledge layers; Order of Severence partial knowledge
+  - Leon's 8-phase knowledge progression; gradual revelation reader experience
+  - Anti-collect-a-thon hard story rule; canon status summary
+- Created `08_UNDERGROUND/GEAR_COMPONENT_PROFILES.md` — nine structured Gear placeholders (GEAR I–IX); GEAR IX function deliberately UNRESOLVED; no invented canon
+- ARC catalog conventions preserved (`07_ANOMALIES/ARC_INDEX.md` unchanged; ARC-021 numbering available for Gear-finding ARC when approved)
+- No manuscript files modified
+- No PROPOSED material promoted to CONFIRMED
+
+**Master Index Entry**:
+> Artifact architecture established: GEAR (Door components, PROPOSED count 9) ≠ ARC (artifact catalog) ≠ TOKEN (human connection). Full assembly consequence UNKNOWN. Gear-finding ARC proposed (ARC, not Gear). World-expansion engine, information arbitrage, Ancient Organization hypotheses (none confirmed). All PROPOSED except structural distinctions.
+
+**Status**: STRUCTURAL DISTINCTIONS = CONFIRMED framework; all Gear details, functions, identities, and the Gear-finding ARC = PROPOSED — ARC 2+. Not implemented in manuscript.
 
 ---
 
