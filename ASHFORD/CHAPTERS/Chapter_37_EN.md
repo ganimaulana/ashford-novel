@@ -1,4 +1,4 @@
-CHAPTER 37 — THE LINE BENEATH THE TOWN
+﻿CHAPTER 37 — THE LINE BENEATH THE TOWN
 
 The gear remained on my desk.
 
@@ -64,7 +64,7 @@ About the places.
 
 I took the map from beneath the notebook.
 
-It was a modest town map, printed several years earlier and already beginning to curl at the corners. Ashford occupied little enough of the page that I could see almost all of it without moving my hand.
+It was a modest town map, printed several years earlier and already beginning to curl at the corners. Alderwick occupied little enough of the page that I could see almost all of it without moving my hand.
 
 The river divided the lower part of town.
 
@@ -202,7 +202,7 @@ I spread the survey beside my modern map.
 
 The difference was immediately apparent.
 
-Ashford had not simply grown.
+Alderwick had not simply grown.
 
 It had been rearranged.
 

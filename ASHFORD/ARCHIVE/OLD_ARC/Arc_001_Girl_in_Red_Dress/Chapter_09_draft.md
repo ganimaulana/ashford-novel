@@ -1,4 +1,4 @@
-Chapter 9 — Nama di Dalam Catatan
+﻿Chapter 9 — Nama di Dalam Catatan
 Aku bangun lebih awal dari biasanya.
 Nama itu masih ada di pikiranku.
 Edwin Ashcroft.
@@ -17,7 +17,7 @@ Aku menutup buku.
 Hari ini aku akan mulai dari perpustakaan.
 🟨 Sebelum keluar, aku membuka tirai ruang makan.
 Pagi di Bellweather Lane masih tenang. Beberapa rumah sudah memiliki lampu yang menyala. Dari kejauhan terdengar suara kendaraan yang menuju pusat kota. Sebuah mobil berhenti sebentar di depan rumah tetangga, lalu pergi.
-Hari-hari di Ashford selalu dimulai dengan cara yang hampir sama.
+Hari-hari di Alderwick selalu dimulai dengan cara yang hampir sama.
 Toko membuka pintu.
 Bus mulai berjalan.
 Koran tiba.
@@ -34,7 +34,7 @@ Aku mulai dengan catatan properti.
 Nama Edwin Ashcroft muncul beberapa kali.
 Tidak banyak.
 Tetapi cukup untuk membuatku mengetahui beberapa hal.
-Edwin pernah tinggal di Ashford.
+Edwin pernah tinggal di Alderwick.
 Dia bukan akademisi.
 Bukan pejabat.
 Namanya muncul dalam catatan mengenai pelelangan properti dan estate.
@@ -48,7 +48,7 @@ Aku mulai memahami sesuatu.
 Seorang auctioneer tidak hanya mengetahui harga sebuah benda.
 Dia juga mengetahui dari mana benda itu datang dan ke mana benda itu pergi.
 Aku mencatatnya.
-🟨 Arsip-arsip itu memberi gambaran lain tentang Ashford yang tidak terlihat dari jalan.
+🟨 Arsip-arsip itu memberi gambaran lain tentang Alderwick yang tidak terlihat dari jalan.
 Kota ini tidak hanya terdiri dari rumah dan toko.
 Di belakangnya terdapat jaringan kepemilikan.
 Tanah berpindah tangan.
@@ -195,7 +195,7 @@ Seseorang datang membawa cerita.
 Seseorang lain menyebut nama.
 Orang ketiga membutuhkan bantuan.
 Dalam kota sebesar London, semua itu mungkin hilang di antara jutaan orang.
-Di Ashford, informasi kecil bisa bertahan cukup lama untuk ditemukan lagi bertahun-tahun kemudian.
+Di Alderwick, informasi kecil bisa bertahan cukup lama untuk ditemukan lagi bertahun-tahun kemudian.
 Mungkin itu juga yang membuat nama Edwin terasa familiar bagi Margaret.
 Dia mungkin pernah mendengarnya dari seseorang.
 Tetapi dia belum tahu dari siapa.
@@ -219,7 +219,7 @@ Dia hanya tahu cukup banyak untuk memahami apa yang mereka butuhkan.
 🟨 Pria itu meletakkan kotaknya di bawah meja.
 Aku sempat melihat tulisan kecil di sisi kardus.
 Nama sebuah perusahaan pengiriman.
-Ashford masih memiliki beberapa toko keluarga dan usaha lokal yang mengandalkan pengiriman barang secara langsung. Tidak semua urusan dilakukan melalui perusahaan besar.
+Alderwick masih memiliki beberapa toko keluarga dan usaha lokal yang mengandalkan pengiriman barang secara langsung. Tidak semua urusan dilakukan melalui perusahaan besar.
 Barang-barang kecil bisa berpindah dari toko ke rumah.
 Dari rumah ke gudang.
 Dari gudang ke toko lain.
@@ -260,7 +260,7 @@ Aku memang membutuhkan uang.
 Dan aku tidak ingin pekerjaan yang membuatku terkurung di satu tempat sepanjang hari.
 Mungkin Margaret benar.
 Mungkin aku bisa mencari sesuatu yang berhubungan dengan apa yang memang bisa kulakukan.
-🟨 Ashford memiliki cukup banyak pekerjaan yang tidak langsung terlihat dari luar.
+🟨 Alderwick memiliki cukup banyak pekerjaan yang tidak langsung terlihat dari luar.
 Toko keluarga membutuhkan orang.
 Perusahaan kecil membutuhkan administrasi.
 Kantor properti membutuhkan orang yang bisa menangani dokumen.
@@ -313,13 +313,13 @@ Referensi buku.
 Nomor halaman.
 Beberapa bagian diberi garis bawah.
 Aku tersenyum.
-Kampus Ashford tidak hanya membawa generasi muda ke kota ini.
+Kampus Alderwick tidak hanya membawa generasi muda ke kota ini.
 Ia juga membawa jenis kehidupan yang berbeda.
 Mahasiswa tinggal di rumah sewaan.
 Mereka menggunakan perpustakaan.
 Mereka memenuhi kafe.
 Mereka mencari pekerjaan paruh waktu.
-Dan sebagian dari mereka, seperti Daniel, mungkin akan tinggal di Ashford cukup lama untuk menjadi bagian dari kota.
+Dan sebagian dari mereka, seperti Daniel, mungkin akan tinggal di Alderwick cukup lama untuk menjadi bagian dari kota.
 Batas antara kota lama dan kawasan kampus ternyata tidak setegas yang terlihat di peta.
 🟨
 
@@ -382,7 +382,7 @@ Mr. Bell tertawa.
 Dia mengambil sebuah buku tua dari rak.
 "Namun..."
 Dia membukanya.
-"Edwin pernah menjual beberapa barang kepada kolektor di Ashford."
+"Edwin pernah menjual beberapa barang kepada kolektor di Alderwick."
 "Siapa?"
 Mr. Bell menunjukkan sebuah nama.
 Aku mencatatnya.
@@ -454,7 +454,7 @@ Beberapa lampu etalase masih menyala.
 Dari arah Market Square terdengar suara orang berbicara.
 Sebuah bus meninggalkan halte.
 Di salah satu toko, pemiliknya sedang menurunkan papan tanda dari luar.
-Ashford perlahan berubah dari kota siang menjadi kota sore.
+Alderwick perlahan berubah dari kota siang menjadi kota sore.
 Namun beberapa tempat tetap hidup lebih lama.
 Pub.
 Kafe.
@@ -491,7 +491,7 @@ aku bisa mengetahui apa yang sebenarnya terjadi pada rumah tersebut.
 Di bawah catatan tadi, aku menambahkan tiga nama yang diberikan Mr. Bell.
 Aku belum tahu siapa mereka.
 Aku belum tahu barang apa yang mereka beli.
-Dan aku belum tahu apakah salah satu dari mereka masih tinggal di Ashford.
+Dan aku belum tahu apakah salah satu dari mereka masih tinggal di Alderwick.
 Tetapi untuk pertama kalinya, aku memiliki sesuatu yang konkret untuk dicari besok.
 Nama.
 Bukan dugaan.
@@ -504,7 +504,7 @@ Aku memikirkan nama Edwin Ashcroft sekali lagi.
 Untuk saat ini, aku tidak akan bertanya apakah dia bagian dari keluargaku.
 Pertanyaan itu belum memiliki tempat.
 Aku hanya akan mencari tahu siapa dia.
-Dan apa yang pernah dia lakukan di Ashford.
+Dan apa yang pernah dia lakukan di Alderwick.
 Satu catatan.
 Satu nama.
 Satu benda pada satu waktu.

@@ -1,8 +1,8 @@
-# Canon Rules - Aturan Canon Ashford
+﻿# Canon Rules - Aturan Canon Alderwick
 
 ## Definisi Canon
 
-**Canon** adalah informasi yang **benar-benar terjadi** dalam dunia Ashford dan telah **dikonfirmasi** melalui chapter novel atau dokumen resmi project.
+**Canon** adalah informasi yang **benar-benar terjadi** dalam dunia Alderwick dan telah **dikonfirmasi** melalui chapter novel atau dokumen resmi project.
 
 ---
 
@@ -69,7 +69,7 @@ Informasi yang **memang tidak diketahui** karena merupakan bagian dari plot myst
 ### Tingkat 6: IDE NON-CANON
 **Sumber:** Brainstorming, ide untuk masa depan
 
-**Status:** Tidak boleh dianggap sebagai fakta dunia Ashford
+**Status:** Tidak boleh dianggap sebagai fakta dunia Alderwick
 
 **Label:** `[IDE NON-CANON]`
 

@@ -1,5 +1,5 @@
-Chapter 7 — Alamat yang Tidak Lengkap
-Ashford, 18 November 2006
+﻿Chapter 7 — Alamat yang Tidak Lengkap
+Alderwick, 18 November 2006
 Aku menatap amplop itu cukup lama.
 Nama di depanku jelas.
 Leon Ashcroft.
@@ -92,7 +92,7 @@ Di satu halaman seseorang mencari pekerjaan.
 Di halaman lain seseorang menjual rumah.
 Di halaman berikutnya ada pengumuman acara komunitas.
 Sementara di meja ini aku sedang mencoba memahami kenapa dua surat dengan namaku bisa muncul tanpa pengirim.
-Ashford tidak berhenti hanya karena aku memiliki pertanyaan.
+Alderwick tidak berhenti hanya karena aku memiliki pertanyaan.
 Tidak ada kota yang melakukannya.
 🟨
 
@@ -159,7 +159,7 @@ Untuk beberapa saat, ketegangan tadi hilang.
 Itulah yang kusukai dari tempat ini.
 Bahkan ketika ada sesuatu yang tidak masuk akal, seseorang masih bisa membuatnya terasa biasa.
 🟨 Kedekatan Margaret's dengan pusat kota membuat tempat ini seperti persimpangan kecil bagi berbagai jenis orang. Daniel datang dari arah kampus. Pekerja dari High Street mampir saat istirahat. Warga Bellweather Lane datang untuk sarapan atau sekadar membeli kopi.
-Orang-orang dari bagian Ashford yang berbeda bertemu di tempat yang sama tanpa perlu membuat janji.
+Orang-orang dari bagian Alderwick yang berbeda bertemu di tempat yang sama tanpa perlu membuat janji.
 Mungkin karena itu berita kecil mudah berpindah di sini.
 Seseorang mendengar sesuatu di toko.
 Membawanya ke kafe.
@@ -386,7 +386,7 @@ Lonceng kecil berbunyi di belakangku.
 Sebelum keluar, aku sempat melihat rak-rak di sekitar Arthur.
 Di antara buku-buku sejarah lokal terdapat beberapa map tua, peta kota, daftar properti, dan katalog bangunan.
 Semuanya terlihat seperti benda yang tidak akan menarik perhatian kebanyakan orang.
-Namun di kota tua seperti Ashford, dokumen semacam itu bisa menyimpan sesuatu yang tidak ada di peta modern.
+Namun di kota tua seperti Alderwick, dokumen semacam itu bisa menyimpan sesuatu yang tidak ada di peta modern.
 Nama jalan yang sudah berubah.
 Bangunan yang sudah dibongkar.
 Properti yang berganti pemilik.

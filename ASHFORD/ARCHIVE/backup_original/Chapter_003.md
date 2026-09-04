@@ -1,4 +1,4 @@
-Chapter 3 — Orang yang Terlalu Banyak Bicara
+﻿Chapter 3 — Orang yang Terlalu Banyak Bicara
 
 Aku mulai mengenali suara rumah itu. Bukan karena aku sudah lama tinggal di sana—hanya tiga hari—tetapi rumah tua memiliki kebiasaan sendiri. Papan lantai di lorong depan berbunyi ketika diinjak. Pipa di dapur mengeluarkan suara kecil beberapa saat setelah keran ditutup. Jendela ruang makan sedikit bergetar ketika angin datang dari arah timur. Hal-hal kecil. Tidak penting. Namun ketika tinggal di rumah yang belum sepenuhnya terasa seperti rumah, hal-hal kecil semacam itu mudah diperhatikan.
 
@@ -53,13 +53,13 @@ Aku tertawa.
 
 "Oh ya, kalau kau membutuhkan sesuatu, kabari saja."
 
-Di pagi hari, Bellweather Lane sudah berubah dari jalan sunyi yang kulihat pertama kali. Beberapa tirai terbuka. Seorang pria tua menyiram tanaman di depan rumah. Dua anak sekolah berjalan menuju halte sambil membawa tas yang hampir sebesar tubuh mereka. Sebuah van pengantar roti berhenti di depan toko kecil di ujung jalan. Aku mulai mengenali beberapa rumah. Bukan karena aku sengaja menghafalnya, hanya karena setelah beberapa hari berjalan kaki, bentuk-bentuk yang awalnya asing mulai memiliki tempat masing-masing dalam ingatan. Rumah dengan pagar putih. Rumah dengan pohon besar. Toko kelontong kecil. Halte bus. Persimpangan menuju High Street. Ashford mulai berubah dari peta menjadi tempat.
+Di pagi hari, Bellweather Lane sudah berubah dari jalan sunyi yang kulihat pertama kali. Beberapa tirai terbuka. Seorang pria tua menyiram tanaman di depan rumah. Dua anak sekolah berjalan menuju halte sambil membawa tas yang hampir sebesar tubuh mereka. Sebuah van pengantar roti berhenti di depan toko kecil di ujung jalan. Aku mulai mengenali beberapa rumah. Bukan karena aku sengaja menghafalnya, hanya karena setelah beberapa hari berjalan kaki, bentuk-bentuk yang awalnya asing mulai memiliki tempat masing-masing dalam ingatan. Rumah dengan pagar putih. Rumah dengan pohon besar. Toko kelontong kecil. Halte bus. Persimpangan menuju High Street. Alderwick mulai berubah dari peta menjadi tempat.
 
 Daniel menunjuk sebuah toko di seberang jalan. "Kalau kau mau meja murah, coba toko furnitur itu." Aku melihatnya. Papan nama toko terlihat sudah lama. "Sudah pernah beli di sana?" "Orang tuaku pernah." "Bagus?" "Mejanya masih ada." "Berarti bagus." "Atau mereka terlalu malas membuangnya." Aku tersenyum.
 
 Kami terus berjalan. Semakin dekat ke pusat kota, jalan semakin ramai. Toko-toko mulai membuka pintu. Lampu-lampu di balik kaca menyala meskipun matahari sudah cukup terang. Seorang tukang koran menyusun surat kabar pagi. Bus kota berhenti di halte. Beberapa mahasiswa turun.
 
-Aku mulai memperhatikan pola yang sebelumnya tidak terlalu kusadari. Pagi di Ashford memiliki suara sendiri. Suara bus mengerem. Pintu toko dibuka. Kotak-kotak barang diturunkan dari van. Radio terdengar dari toko yang baru buka. Sepatu orang berjalan di trotoar yang masih basah. Tidak ada lalu lintas yang benar-benar padat. Tidak ada gedung tinggi. Tetapi pusat kota tidak pernah benar-benar sepi. Ashford mungkin kecil dibandingkan kota tempatku tinggal sebelumnya, namun kecil bukan berarti kosong.
+Aku mulai memperhatikan pola yang sebelumnya tidak terlalu kusadari. Pagi di Alderwick memiliki suara sendiri. Suara bus mengerem. Pintu toko dibuka. Kotak-kotak barang diturunkan dari van. Radio terdengar dari toko yang baru buka. Sepatu orang berjalan di trotoar yang masih basah. Tidak ada lalu lintas yang benar-benar padat. Tidak ada gedung tinggi. Tetapi pusat kota tidak pernah benar-benar sepi. Alderwick mungkin kecil dibandingkan kota tempatku tinggal sebelumnya, namun kecil bukan berarti kosong.
 
 Margaret's sudah cukup ramai ketika kami tiba. Margaret melihat kami dari belakang kasir. "Dia membawa masalah lagi."
 Daniel menunjukku. "Dia yang mengajakku."
@@ -106,7 +106,7 @@ Untuk menunggu.
 Untuk bertukar kabar.
 Margaret tampaknya mengetahui siapa yang datang dan kenapa.
 Aku mulai mengerti kenapa Daniel menyebutnya sebagai pusat informasi tidak resmi.
-Kalau sesuatu terjadi di Ashford, kemungkinan besar seseorang akan membicarakannya di sini.
+Kalau sesuatu terjadi di Alderwick, kemungkinan besar seseorang akan membicarakannya di sini.
 
 
 Kami sarapan. Daniel membuka salah satu buku yang dibawanya. Aku mengenali sampulnya.
@@ -136,11 +136,11 @@ Dia membuka novelnya.
 "Aku akan berhenti."
 Aku mengangguk. Sederhana. Daniel memang memiliki rasa ingin tahu yang besar. Kadang-kadang terlalu besar.
 Aku melihat sekeliling lagi. Di dekat kasir terdapat sebuah rak kecil berisi koran dan majalah. Sebagian besar koran lokal.
-Aku mengambil satu. Judul besarnya membahas rapat dewan kota mengenai rencana perbaikan jalan di bagian utara Ashford.
+Aku mengambil satu. Judul besarnya membahas rapat dewan kota mengenai rencana perbaikan jalan di bagian utara Alderwick.
 Di halaman lain terdapat jadwal acara komunitas, pertandingan olahraga lokal, iklan rumah sewa, lowongan kerja, dan pengumuman pasar musim dingin.
 Hal-hal kecil.
 Tetapi semuanya memberi gambaran tentang kota.
-Ashford memiliki masalahnya sendiri.
+Alderwick memiliki masalahnya sendiri.
 Jalan yang perlu diperbaiki.
 Toko yang mencari pegawai.
 Orang yang mencari rumah.
@@ -230,7 +230,7 @@ Aku mengangguk.
 Aku melihat bangunan itu lagi.
 Tiga fungsi.
 Mungkin lebih.
-Ashford mulai terlihat seperti kota yang menyimpan lapisan di bawah setiap bangunan.
+Alderwick mulai terlihat seperti kota yang menyimpan lapisan di bawah setiap bangunan.
 
 Kami melanjutkan perjalanan.
 Daniel berbicara tentang sejarah kota.
@@ -279,7 +279,7 @@ Tidak ada kartu pos lama.
 Tidak ada peta tua.
 Tidak ada benda antik.
 Hanya buku-buku yang masih baru.
-Aku menyadari bahwa bahkan toko buku di Ashford memiliki karakter berbeda.
+Aku menyadari bahwa bahkan toko buku di Alderwick memiliki karakter berbeda.
 Bell's menjual masa lalu.
 Toko ini menjual sesuatu yang lebih dekat dengan masa kini.
 
@@ -320,11 +320,11 @@ Daniel ternyata cukup sering datang ke sini.
 Aku mulai melihat bagaimana toko Mr. Bell menjadi bagian lain dari kehidupan kota.
 Berbeda dari toko buku tadi, sebagian besar barang di sini tidak tampak seperti sesuatu yang baru.
 Buku-buku lama memenuhi rak.
-Di dinding tergantung peta Ashford dari beberapa periode berbeda.
+Di dinding tergantung peta Alderwick dari beberapa periode berbeda.
 Ada foto Market Square sebelum beberapa bangunan direnovasi.
 Ada kartu pos stasiun lama.
 Ada kotak berisi dokumen dan brosur yang mungkin dianggap tidak berharga oleh kebanyakan orang.
-Namun semuanya tampaknya memiliki hubungan dengan Ashford.
+Namun semuanya tampaknya memiliki hubungan dengan Alderwick.
 Mr. Bell tidak hanya menjual buku.
 Dia menjual potongan-potongan ingatan kota.
 Dan mungkin karena itu, orang-orang seperti Daniel sering datang.
@@ -344,7 +344,7 @@ Daniel menunjukku.
 "Sudah kubilang."
 Aku membuka halaman pertama.
 Judulnya:
-Ashford Before the Railway
+Alderwick Before the Railway
 Aku membaca beberapa baris.
 Menarik.
 Aku melihat harga di belakang.
@@ -361,7 +361,7 @@ Aku menatapnya.
 "Begitulah awalnya."
 Mr. Bell tertawa dari belakang.
 Aku membalik beberapa halaman lagi.
-Buku itu membahas Ashford sebelum stasiun kereta dibangun.
+Buku itu membahas Alderwick sebelum stasiun kereta dibangun.
 Jalan perdagangan.
 Pasar.
 Penginapan.
@@ -375,7 +375,7 @@ Tidak ada kawasan bangunan modern.
 Sebagian besar wilayah di sekitar pusat kota masih berupa lahan terbuka.
 Aku menatap peta itu cukup lama.
 Kota yang kulihat sekarang ternyata hanya versi terbaru dari sesuatu yang jauh lebih tua.
-Ketika kereta datang, Ashford berubah.
+Ketika kereta datang, Alderwick berubah.
 Ketika industri berkembang, kota berubah lagi.
 Ketika universitas tumbuh, perubahan berikutnya terjadi.
 Namun beberapa jalan tetap.
@@ -409,9 +409,9 @@ Stasiun.
 High Street.
 Market Square.
 University.
-North Ashford.
+North Alderwick.
 Jalur-jalur itu perlahan menjadi bagian dari peta mental di kepalaku.
-Ashford mulai memiliki arah.
+Alderwick mulai memiliki arah.
 
 
 Kami berhenti di sebuah bangku di dekat sungai.
@@ -456,7 +456,7 @@ Aku menggeleng.
 "Setidaknya kamu jujur."
 Sungai itu sendiri merupakan salah satu bagian kota yang sebelumnya tidak terlalu kuperhatikan.
 Airnya tidak lebar.
-Namun jalurnya memotong beberapa bagian Ashford dan menjadi batas alami antara pusat kota dan beberapa kawasan permukiman.
+Namun jalurnya memotong beberapa bagian Alderwick dan menjadi batas alami antara pusat kota dan beberapa kawasan permukiman.
 Di tepiannya terdapat jalan setapak.
 Beberapa bangku kayu.
 Pohon-pohon tua.
@@ -498,7 +498,7 @@ Daniel tertawa.
 "Tapi tidak untuk buku."
 Aku menyimpan informasi itu.
 Bukan karena penting.
-Hanya karena aku mulai menyadari bahwa setiap orang di Ashford memiliki cara berbeda dalam menilai orang lain.
+Hanya karena aku mulai menyadari bahwa setiap orang di Alderwick memiliki cara berbeda dalam menilai orang lain.
 Daniel berdasarkan pengetahuan.
 Margaret berdasarkan kebiasaan dan hubungan.
 Mr. Bell berdasarkan waktu.
@@ -513,7 +513,7 @@ Ada semacam arus manusia yang melewatinya sepanjang hari.
 Pagi untuk sarapan dan koran.
 Siang untuk pekerja dan mahasiswa.
 Sore untuk orang-orang yang ingin duduk sebentar sebelum pulang.
-Jika Ashford memiliki tempat untuk mendengar percakapan kota tanpa harus berdiri di tengah jalan, mungkin inilah salah satunya.
+Jika Alderwick memiliki tempat untuk mendengar percakapan kota tanpa harus berdiri di tengah jalan, mungkin inilah salah satunya.
 
 Daniel duduk di sebelahku.
 "Aku mau bertanya sesuatu."
@@ -521,7 +521,7 @@ Daniel duduk di sebelahku.
 "Kamu percaya semua yang diceritakan orang di sini?"
 Aku menatapnya.
 "Kenapa?"
-"Karena Ashford punya banyak cerita."
+"Karena Alderwick punya banyak cerita."
 "Semua kota punya."
 "Benar."
 Dia mengambil cangkirnya.
@@ -667,6 +667,6 @@ Aku memejamkan mata.
 Besok saja.
 Tidak semua hal harus memiliki jawaban hari ini.
 Dan tanpa kusadari, buku sejarah yang kutinggalkan di meja masih terbuka pada halaman yang sama.
-Di antara dua paragraf tentang sejarah lama Ashford...
+Di antara dua paragraf tentang sejarah lama Alderwick...
 simbol kecil itu tetap berada di sana.
 

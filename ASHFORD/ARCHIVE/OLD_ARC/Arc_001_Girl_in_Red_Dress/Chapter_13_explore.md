@@ -1,6 +1,6 @@
-# Chapter 13 — Into the Darkness
+﻿# Chapter 13 — Into the Darkness
 
-Ashford, 28 November 2006
+Alderwick, 28 November 2006
 
 Malam itu aku kembali ke stasiun.
 

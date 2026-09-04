@@ -1,6 +1,6 @@
-# Chapter 11 — A Round of the Watch
+﻿# Chapter 11 — A Round of the Watch
 
-The watch-list, being made up in haste and signed in a coffee-house, was posted on the church door by Monday and read out by the constable on Saturday morning — this latter circumstance being, I understood, because nothing about the watching of Ashford in 1816 would be hurried, and the constable had a right to be skeptical of a paper invented before it had been argued about twice.
+The watch-list, being made up in haste and signed in a coffee-house, was posted on the church door by Monday and read out by the constable on Saturday morning — this latter circumstance being, I understood, because nothing about the watching of Alderwick in 1816 would be hurried, and the constable had a right to be skeptical of a paper invented before it had been argued about twice.
 
 He was a square man of sixty, who kept one bobby, on loan from the parish by rotation for the market, and wore his staff like a tool he was embarrassed by. When he read the names, he read them as a clerk reads the rolls: aloud, evenly, and with a particular flatness on the names of men he was not obliged to arrest, which he had reason to remember. He read: "Bell weather lane — Ash-croft."
 

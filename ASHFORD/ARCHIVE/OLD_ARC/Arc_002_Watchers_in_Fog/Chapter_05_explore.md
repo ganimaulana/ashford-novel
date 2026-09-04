@@ -1,6 +1,6 @@
-# Chapter 05 — Father Michael's Warning
+﻿# Chapter 05 — Father Michael's Warning
 
-Ashford, 5 December 2006
+Alderwick, 5 December 2006
 
 Pagi ini aku pergi ke St. Mary's Church.
 
@@ -34,7 +34,7 @@ Tetapi senyumnya memudar ketika dia melihat ekspresi wajahku.
 
 "Leon. Kau terlihat... khawatir."
 
-"Saya butuh bicara dengan Anda, Father. Tentang Ashford. Tentang... lebih banyak hal."
+"Saya butuh bicara dengan Anda, Father. Tentang Alderwick. Tentang... lebih banyak hal."
 
 Dia mengangguk perlahan.
 
@@ -80,7 +80,7 @@ Aku menatapnya.
 
 "Anda sudah tahu?"
 
-"Tidak sedetail ini. Tetapi aku tahu Ashford... berbeda. Aku sudah pendeta di sini selama dua puluh tahun. Dan selama itu, aku melihat hal-hal yang tidak bisa dijelaskan. Mendengar cerita. Merasakan... kehadiran. Aku selalu berpikir ada sesuatu yang salah dengan kota ini. Sesuatu di bawah permukaan. Tetapi aku tidak pernah tahu seberapa dalam."
+"Tidak sedetail ini. Tetapi aku tahu Alderwick... berbeda. Aku sudah pendeta di sini selama dua puluh tahun. Dan selama itu, aku melihat hal-hal yang tidak bisa dijelaskan. Mendengar cerita. Merasakan... kehadiran. Aku selalu berpikir ada sesuatu yang salah dengan kota ini. Sesuatu di bawah permukaan. Tetapi aku tidak pernah tahu seberapa dalam."
 
 Dia melihat peta dengan lokasi yang kutandai.
 
@@ -96,7 +96,7 @@ Father Michael menggeleng.
 
 Dia menatapku dengan tatapan serius.
 
-"Ashford dibangun di atas tanah yang tidak seharusnya diganggu. Kuburan. Rawa. Tempat eksekusi. Hutan kuno. Semua tempat dengan energi spiritual yang kuat. Dan ketika manusia mengganggu tempat-tempat itu... batas antara dunia ini dan yang lain menjadi tipis."
+"Alderwick dibangun di atas tanah yang tidak seharusnya diganggu. Kuburan. Rawa. Tempat eksekusi. Hutan kuno. Semua tempat dengan energi spiritual yang kuat. Dan ketika manusia mengganggu tempat-tempat itu... batas antara dunia ini dan yang lain menjadi tipis."
 
 🟨
 
@@ -133,7 +133,7 @@ Dia menatapku dengan tatapan sedih.
 
 🟨
 
-"Tetapi jika saya berhenti," kataku, "siapa yang akan membantu Emily? Siapa yang akan menghentikan The Watchers? Siapa yang akan melindungi Ashford?"
+"Tetapi jika saya berhenti," kataku, "siapa yang akan membantu Emily? Siapa yang akan menghentikan The Watchers? Siapa yang akan melindungi Alderwick?"
 
 Father Michael tidak menjawab.
 
@@ -169,7 +169,7 @@ Sampul kulit.
 
 Tulisan emas yang pudar.
 
-"Ini catatan dari pendeta sebelumku. Father Thomas. Dia melayani di sini dari 1950 sampai 1980. Dia juga... merasakan sesuatu tentang Ashford. Dia menulis catatan tentang kejadian aneh. Lokasi. Fenomena. Mungkin ada petunjuk di dalamnya."
+"Ini catatan dari pendeta sebelumku. Father Thomas. Dia melayani di sini dari 1950 sampai 1980. Dia juga... merasakan sesuatu tentang Alderwick. Dia menulis catatan tentang kejadian aneh. Lokasi. Fenomena. Mungkin ada petunjuk di dalamnya."
 
 🟨
 
@@ -181,7 +181,7 @@ Aku menerima semua barang itu.
 
 Dia meletakkan tangan di bahuku.
 
-"Berhati-hatilah, Leon Ashcroft. Kau sedang memasuki perairan yang sangat berbahaya. Ada hal-hal di Ashford yang tidak seharusnya diketahui. Ada kekuatan yang tidak seharusnya ditantang. Tetapi jika kau bersikeras... maka semoga Tuhan melindungimu."
+"Berhati-hatilah, Leon Ashcroft. Kau sedang memasuki perairan yang sangat berbahaya. Ada hal-hal di Alderwick yang tidak seharusnya diketahui. Ada kekuatan yang tidak seharusnya ditantang. Tetapi jika kau bersikeras... maka semoga Tuhan melindungimu."
 
 🟨
 
@@ -202,12 +202,12 @@ Membuka buku catatan Father Thomas.
 Halaman pertama:
 
 > *Journal of Father Thomas Whitley*
-> *St. Mary's Church, Ashford*
+> *St. Mary's Church, Alderwick*
 > *1950 - 1980*
 > 
 > *This town is not what it seems. In my thirty years of service here, I have witnessed things that defy explanation. Heard confessions that speak of nightmares made real. Blessed homes that remain cursed. Buried the dead who do not rest.*
 > 
-> *I write this journal as a warning. To whoever comes after me. To whoever feels called to uncover the truth of Ashford.*
+> *I write this journal as a warning. To whoever comes after me. To whoever feels called to uncover the truth of Alderwick.*
 > 
 > *This town is built on darkness. And the darkness is waking.*
 
@@ -215,7 +215,7 @@ Aku merasa dingin membaca kata-kata itu.
 
 Father Thomas tahu.
 
-Tiga puluh tahun dia melayani di Ashford.
+Tiga puluh tahun dia melayani di Alderwick.
 
 Tiga puluh tahun dia mengamati.
 
@@ -237,7 +237,7 @@ Tentang orang tua yang menghilang tanpa jejak.
 
 Tentang rumah yang harus diberkati berkali-kali tetapi tetap "salah".
 
-Ashford sudah seperti ini sejak lama.
+Alderwick sudah seperti ini sejak lama.
 
 Mungkin sejak awal.
 
@@ -247,11 +247,11 @@ Kemudian aku menemukan sesuatu.
 
 Entry dari tahun 1973:
 
-> *I have finally found it. The center. The source of all darkness in Ashford. It lies beneath the old town. Beneath the market square. There is a structure there. Ancient. Pre-Christian. Perhaps pre-Roman. A circle of stones. Buried and forgotten. But still active. Still... calling.*
+> *I have finally found it. The center. The source of all darkness in Alderwick. It lies beneath the old town. Beneath the market square. There is a structure there. Ancient. Pre-Christian. Perhaps pre-Roman. A circle of stones. Buried and forgotten. But still active. Still... calling.*
 > 
 > *I went down there once. Through the old sewer tunnels. I saw it. Felt its power. And I knew I should not be there. I left immediately. But I dream of it now. Every night. The stones. The circle. And something in the center. Watching. Waiting.*
 > 
-> *I will not go back. I am too old. Too weak. But someone must. Someday. Someone must close that circle. Or Ashford will be consumed.*
+> *I will not go back. I am too old. Too weak. But someone must. Someday. Someone must close that circle. Or Alderwick will be consumed.*
 
 Market Square.
 

@@ -1,6 +1,6 @@
-# Chapter 10 — The Truth in the Darkness
+﻿# Chapter 10 — The Truth in the Darkness
 
-Ashford, 26 November 2006
+Alderwick, 26 November 2006
 
 "Kenapa kau di sini?"
 

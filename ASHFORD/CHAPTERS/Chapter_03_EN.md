@@ -1,4 +1,4 @@
-# Chapter 3 — The Man Who Talks Too Much
+﻿# Chapter 3 — The Man Who Talks Too Much
 
 I was beginning to recognise the sounds of the house. Not because I had lived there long—only three days—but an old house has its own habits. The floorboards in the front hallway creaked beneath certain steps. The kitchen pipe gave a faint hiss for a few moments after the tap was closed. The dining-room window trembled slightly when the wind came from the east. Small things. Trivial things. Yet when living alone in a house that had not yet truly begun to feel like home, such small things became hard to ignore.
 
@@ -48,13 +48,13 @@ I laughed.
 "Technically it still is."
 "Technically."
 
-That morning, Bellweather Lane had changed from the quiet street I had first seen. Some curtains were open. An old man was watering plants in front of his house. Two schoolchildren walked towards the stagecoach stop carrying bags almost as large as themselves. A baker's cart stopped in front of a small shop at the end of the road. I was beginning to recognise some of the houses. Not because I had intentionally memorised them, but because after a few days of walking, shapes that had once been unfamiliar were beginning to find their places in my memory. The house with the white fence. The house with the large tree. The small grocery. The stagecoach stop. The junction towards High Street. Ashford was beginning to transform from a map into a place.
+That morning, Bellweather Lane had changed from the quiet street I had first seen. Some curtains were open. An old man was watering plants in front of his house. Two schoolchildren walked towards the stagecoach stop carrying bags almost as large as themselves. A baker's cart stopped in front of a small shop at the end of the road. I was beginning to recognise some of the houses. Not because I had intentionally memorised them, but because after a few days of walking, shapes that had once been unfamiliar were beginning to find their places in my memory. The house with the white fence. The house with the large tree. The small grocery. The stagecoach stop. The junction towards High Street. Alderwick was beginning to transform from a map into a place.
 
 Daniel pointed to a shop across the road. "If you want a cheap desk, try that furniture shop." I looked. The shop's sign seemed old. "Ever bought anything there?" "My parents did." "Good?" "The desk is still there." "So it's good." "Or they're too lazy to throw it out." I smiled.
 
 We continued walking. The closer we came to the town centre, the busier the street became. Shops were opening their doors. Lamps behind the glass were lit even though the sun was already bright enough. A newsboy arranged the morning papers. A stagecoach stopped at the stand. A few Academy students alighted.
 
-I began to notice a pattern I had not fully realised before. Morning in Ashford had its own sound. The braking of a stagecoach. The opening of shop doors. Crates being unloaded from carts. Music from a newly opened shop. The footsteps of people on the still-damp pavement. There was no heavy traffic. No tall buildings. But the town centre was never truly quiet. Ashford might be small compared to the city where I had lived before, but small did not mean empty.
+I began to notice a pattern I had not fully realised before. Morning in Alderwick had its own sound. The braking of a stagecoach. The opening of shop doors. Crates being unloaded from carts. Music from a newly opened shop. The footsteps of people on the still-damp pavement. There was no heavy traffic. No tall buildings. But the town centre was never truly quiet. Alderwick might be small compared to the city where I had lived before, but small did not mean empty.
 
 Margaret's was already fairly busy when we arrived. Margaret saw us from behind the counter. "He's brought trouble again."
 Daniel pointed at me. "He invited me."
@@ -94,7 +94,7 @@ The old man near the window was still reading his newspaper.
 The two women I had seen before were talking while comparing shopping lists.
 A man in an office uniform sat alone for a few minutes, finishing his coffee, then left with his paper.
 At another table, two Academy students opened their notebooks and discussed before class.
-This place was more than just an eating-house. People came for breakfast, to read, to meet, to wait—to exchange news. Margaret knew who came and for what purpose. I was beginning to understand why Daniel called it the unofficial information hub. If something happened in Ashford, someone would talk about it here.
+This place was more than just an eating-house. People came for breakfast, to read, to meet, to wait—to exchange news. Margaret knew who came and for what purpose. I was beginning to understand why Daniel called it the unofficial information hub. If something happened in Alderwick, someone would talk about it here.
 
 
 We had breakfast. Daniel opened one of the books he had brought. I recognised the cover.
@@ -206,7 +206,7 @@ I nodded.
 I looked at the building again.
 Three functions.
 Perhaps more.
-Ashford was beginning to look like a town that kept layers beneath every building.
+Alderwick was beginning to look like a town that kept layers beneath every building.
 
 We continued walking.
 Daniel talked about the town's history.
@@ -255,7 +255,7 @@ No old postcards.
 No old maps.
 No antique objects.
 Only books that were still new.
-I realised that even the bookshops in Ashford had different characters.
+I realised that even the bookshops in Alderwick had different characters.
 Bell's sold the past.
 This shop sold something closer to the present.
 
@@ -296,11 +296,11 @@ Daniel, it turned out, came here quite often.
 I began to see how Mr. Bell's shop was another part of the town's life.
 Unlike the other bookshop, most of the items here did not appear new.
 Old books filled the shelves.
-Maps of Ashford from different periods hung on the walls.
+Maps of Alderwick from different periods hung on the walls.
 There were photographs of Market Square before some buildings were renovated.
 There were postcards of the old stop.
 There were boxes containing documents and brochures that most people would consider worthless.
-Yet all of them seemed to have some connection to Ashford.
+Yet all of them seemed to have some connection to Alderwick.
 Mr. Bell did not merely sell books.
 He sold pieces of the town's memory.
 And perhaps that was why people like Daniel often came.
@@ -320,7 +320,7 @@ Daniel pointed at me.
 "I told you."
 I opened the first page.
 The title read:
-*Ashford Before the Railway*
+*Alderwick Before the Railway*
 I read a few lines.
 Interesting.
 I looked at the price on the back.
@@ -337,7 +337,7 @@ I looked at him.
 "That's how it begins."
 Mr. Bell laughed from the back.
 I turned a few more pages.
-The book discussed Ashford before the stagecoach stop was built.
+The book discussed Alderwick before the stagecoach stop was built.
 Trade routes.
 Markets.
 Inns.
@@ -351,7 +351,7 @@ No modern building area.
 Most of the area around the centre was still open land.
 I looked at the map for a long time.
 The town I saw now was only the newest version of something far older.
-When the railway came, Ashford changed.
+When the railway came, Alderwick changed.
 When industry grew, the town changed again.
 When the Academy grew, the next change came.
 Yet some streets remained.
@@ -385,9 +385,9 @@ The stop.
 High Street.
 Market Square.
 The Academy.
-North Ashford.
+North Alderwick.
 Those routes were slowly becoming part of the mental map in my head.
-Ashford was beginning to have a direction.
+Alderwick was beginning to have a direction.
 
 
 We stopped at a bench near the river.
@@ -432,7 +432,7 @@ I shook my head.
 "At least you're honest."
 The river itself was one part of the town I had not paid much attention to before.
 Its water was not wide.
-Yet its course cut through several parts of Ashford and formed a natural boundary between the town centre and some residential areas.
+Yet its course cut through several parts of Alderwick and formed a natural boundary between the town centre and some residential areas.
 Along its banks ran a footpath.
 Some wooden benches.
 Old trees.
@@ -473,7 +473,7 @@ Daniel laughed.
 "But not for books."
 I filed that information away.
 Not because it was important.
-Only because I was beginning to notice that everyone in Ashford had a different way of judging others.
+Only because I was beginning to notice that everyone in Alderwick had a different way of judging others.
 Daniel by knowledge.
 Margaret by habit and relationships.
 Mr. Bell by time.
@@ -488,7 +488,7 @@ There was a kind of flow of people passing through it all day long.
 Morning for breakfast and the newspaper.
 Midday for workers and Academy students.
 Afternoon for those who wanted to sit a while before going home.
-If Ashford had a place to hear the town's conversations without having to stand in the middle of the street, this was probably one of them.
+If Alderwick had a place to hear the town's conversations without having to stand in the middle of the street, this was probably one of them.
 
 Daniel sat beside me.
 "I want to ask you something."
@@ -496,7 +496,7 @@ Daniel sat beside me.
 "Do you believe everything people tell you here?"
 I looked at him.
 "Why?"
-"Because Ashford has a lot of stories."
+"Because Alderwick has a lot of stories."
 "Every town does."
 "True."
 He took his cup.
@@ -596,7 +596,7 @@ I closed my eyes.
 Tomorrow, then.
 Not everything needed an answer today.
 And without my noticing, the history book I had left on the table was still open to the same page.
-Between two paragraphs about old Ashford's history…
+Between two paragraphs about old Alderwick's history…
 the small symbol remained there.
 
 ---

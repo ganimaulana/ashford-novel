@@ -1,4 +1,4 @@
-CHAPTER 50 — THE LAST VISIT
+﻿CHAPTER 50 — THE LAST VISIT
 
 I went up the lane on a Tuesday in the middle of October with nothing to ask him.
 
@@ -24,7 +24,7 @@ That was all he said about it. He did not ask why I had come. I have thought sin
 
 There was soup, which I did not expect. The Hartley girl had brought it, and it had gone lukewarm on the hob, and he made me heat it and eat most of it while he had a cup of the broth off the top of it and left the rest.
 
-We talked about the soup. Then about the Hartley girl's mother, who was a Coles from the far side of the river and had opinions about it. Then about a dispute over a boundary hedge on the Bellweather side that had been running since before I came to Ashford and would run after I left it, and he took the part of the man he thought was wrong, on the grounds that the man who was right had been insufferable about it.
+We talked about the soup. Then about the Hartley girl's mother, who was a Coles from the far side of the river and had opinions about it. Then about a dispute over a boundary hedge on the Bellweather side that had been running since before I came to Alderwick and would run after I left it, and he took the part of the man he thought was wrong, on the grounds that the man who was right had been insufferable about it.
 
 None of it mattered. I want that written down. We spent the better part of an hour on a hedge.
 

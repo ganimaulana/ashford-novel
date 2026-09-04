@@ -1,6 +1,6 @@
-# Chapter 01 — Morning Fog
+﻿# Chapter 01 — Morning Fog
 
-Ashford, 3 December 2006
+Alderwick, 3 December 2006
 
 Tiga hari telah berlalu sejak aku menyelesaikan Arc pertamaku dengan Emily.
 
@@ -16,7 +16,7 @@ Rutinitas.
 
 Tetapi aku tidak bisa berhenti memikirkan kata-kata terakhir Emily.
 
-"Ada sesuatu yang lebih besar di bawah Ashford."
+"Ada sesuatu yang lebih besar di bawah Alderwick."
 
 Sesuatu yang gelap.
 
@@ -32,7 +32,7 @@ Pukul enam.
 
 Masih gelap di luar.
 
-Desember di Ashford selalu dingin dan gelap.
+Desember di Alderwick selalu dingin dan gelap.
 
 Matahari baru terbit sekitar pukul delapan.
 
@@ -257,7 +257,7 @@ Aku tahu itu nyata.
 
 Sama seperti Emily nyata.
 
-Ada sesuatu di Ashford.
+Ada sesuatu di Alderwick.
 
 Sesuatu selain Emily.
 
@@ -285,7 +285,7 @@ Tentang kabut.
 
 Tentang sosok-sosok dalam kabut.
 
-Tentang fenomena paranormal di Ashford.
+Tentang fenomena paranormal di Alderwick.
 
 Apakah ada yang pernah melihat ini sebelumnya?
 
@@ -297,7 +297,7 @@ Atau sudah ada sejak lama?
 
 Aku menemukan beberapa artikel lokal.
 
-Forum diskusi Ashford.
+Forum diskusi Alderwick.
 
 Postingan lama dari tahun 2003.
 
@@ -331,7 +331,7 @@ Tetapi ini bukan alien.
 
 Ini sesuatu yang lain.
 
-Sesuatu yang terkait dengan Ashford.
+Sesuatu yang terkait dengan Alderwick.
 
 🟨
 
@@ -373,7 +373,7 @@ Post dari tahun 2005.
 
 Username: **TruthSeeker_Ash**
 
-> *"Aku sudah meneliti fenomena kabut Ashford selama 2 tahun. Aku punya bukti. Foto. Video. Catatan. Aku tahu apa mereka. Aku tahu apa yang mereka inginkan. Aku akan mengungkapnya. Tunggu updateku minggu depan."*
+> *"Aku sudah meneliti fenomena kabut Alderwick selama 2 tahun. Aku punya bukti. Foto. Video. Catatan. Aku tahu apa mereka. Aku tahu apa yang mereka inginkan. Aku akan mengungkapnya. Tunggu updateku minggu depan."*
 
 Aku mencari update dari user itu.
 

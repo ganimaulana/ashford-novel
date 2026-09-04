@@ -1,4 +1,4 @@
-# Chapter 2 — A Town I Did Not Know
+﻿# Chapter 2 — A Town I Did Not Know
 
 I woke before the morning bell sounded.
 
@@ -6,7 +6,7 @@ The room was still dark when I drew the curtain back a little, and grey morning 
 
 For a few moments I simply stood there, as though waiting for my body to remember where it was.
 
-Then I remembered. Ashford. The new house. The new town. And the work that was to begin in a few days' time.
+Then I remembered. Alderwick. The new house. The new town. And the work that was to begin in a few days' time.
 
 I bathed in water that was still warm, dressed, and went down to the kitchen. The pantry announced its reality to me: two eggs, a bottle of water, a little butter, and something in the corner of a shelf that should no longer be called cheese in front of other people. I closed its door gently.
 
@@ -20,7 +20,7 @@ The morning made Bellweather Lane look like a different street from the night be
 
 Nothing special. And that was exactly what made the place feel like a neighbourhood where people actually lived, not merely a location I occupied.
 
-At the end of the street stood a wooden notice board whose paint had gone dull, its surface layered with old handbills and a faded announcement about the annual market, and an old horse-drawn cart parked neatly beside the pavement. A white delivery cart had stopped in front of one of the houses. I began to notice something simple but fundamental: Ashford had not been built all at once. The town had grown little by little — new houses appearing among old ones, new windows replacing old, shops changing hands. Yet the buildings remained in the same places, refusing to truly change.
+At the end of the street stood a wooden notice board whose paint had gone dull, its surface layered with old handbills and a faded announcement about the annual market, and an old horse-drawn cart parked neatly beside the pavement. A white delivery cart had stopped in front of one of the houses. I began to notice something simple but fundamental: Alderwick had not been built all at once. The town had grown little by little — new houses appearing among old ones, new windows replacing old, shops changing hands. Yet the buildings remained in the same places, refusing to truly change.
 
 I tried to recall the route from the house to the town centre. I took one wrong turn; no matter — that was part of the way one memorised a place. I retraced the street I had just walked, found the junction I had missed before, and the second time I did not get it wrong. A reasonably good spatial memory is always useful in a new place, and I admit I took some small satisfaction in it.
 
@@ -30,7 +30,7 @@ The farther I walked, the closer together the houses stood on either side, and t
 
 Beside it stood a butcher's, an apothecary, a tailor, a flower shop, and a stationer's. Most of them did not look like part of any large concern; family names still hung over many of the boards. I stopped for a moment in front of a shop selling general goods — household wares, travel necessities, and small items crammed behind glass — accompanied by an old wall clock and a few leather-bound books fading on its lowest shelf.
 
-The closer I came to the town centre, the clearer it was that Ashford was not merely a collection of old houses. There was life here. People went to work, children set off for the academy, shops opened their doors, a stagecoach stopped at the coach stand, morning papers passed from hand to hand. The town had been running long before I arrived; I was only just beginning to see it.
+The closer I came to the town centre, the clearer it was that Alderwick was not merely a collection of old houses. There was life here. People went to work, children set off for the academy, shops opened their doors, a stagecoach stopped at the coach stand, morning papers passed from hand to hand. The town had been running long before I arrived; I was only just beginning to see it.
 
 I found a small tearoom whose signboard read *Margaret's*. Through the window I could see a warm room and rows of small tables; above the door, lettering preserved from a previous generation spelled out *TEAROOM & COFFEE SHOP*.
 
@@ -64,7 +64,7 @@ I chose a table near the window. The tearoom was not large — six or seven tabl
 
 I studied the room for a moment. Not because anything was suspicious; it was habit. A new place always gave me a great deal of information: the position of the tables, the entrance, the windows, where the till stood, the way to the privy, the shelves of tea. A useful habit when one is often moving from place to place.
 
-I also began to notice the way people here knew one another. The old man reading the paper greeted Margaret — that was the name on the board — without lifting his head. The two women at the corner table were clearly old acquaintances. A new customer came in, and Margaret at once named his order before the man could open his mouth. No one discussed Ashford as a small town; there was no need. From the way they exchanged news, I began to feel something visible on no map — a community. In a large city a man might live for years without knowing the person in the next house. Here, it seemed, almost no one was truly a stranger.
+I also began to notice the way people here knew one another. The old man reading the paper greeted Margaret — that was the name on the board — without lifting his head. The two women at the corner table were clearly old acquaintances. A new customer came in, and Margaret at once named his order before the man could open his mouth. No one discussed Alderwick as a small town; there was no need. From the way they exchanged news, I began to feel something visible on no map — a community. In a large city a man might live for years without knowing the person in the next house. Here, it seemed, almost no one was truly a stranger.
 
 I opened the newspaper I had bought at the kiosk.
 
@@ -110,7 +110,7 @@ I laughed quietly. "A very specific analysis."
 
 "I'm a history student. We live on small details."
 
-I pointed at the book he had slammed down — *A History of Ashford, Volume II*. "History?"
+I pointed at the book he had slammed down — *A History of Alderwick, Volume II*. "History?"
 
 He nodded. "The Academy."
 
@@ -118,7 +118,7 @@ He nodded. "The Academy."
 
 "History."
 
-"So you know a lot about Ashford."
+"So you know a lot about Alderwick."
 
 Daniel made an expression I found hard to read. "Depends."
 
@@ -138,7 +138,7 @@ He studied me a moment, then laughed. "All right. Maybe not that much." He patte
 
 Daniel then explained that the Academy was not far from the town centre. "On foot, about twenty minutes from here."
 
-"How big is it for Ashford?"
+"How big is it for Alderwick?"
 
 "Fairly." He shrugged. "The old part of the building was built long before I was born. Some new buildings recently."
 
@@ -152,13 +152,13 @@ Daniel then explained that the Academy was not far from the town centre. "On foo
 
 I glanced out at the pavement: young people with book-bags, a few wearing jackets bearing the Academy crest, one stopping at the coach stand to check the schedule. "That figures."
 
-Daniel reopened his book. "And if you want to see the other side of Ashford, wait until lunchtime."
+Daniel reopened his book. "And if you want to see the other side of Alderwick, wait until lunchtime."
 
 "Why?"
 
 "The students fill every cheap eating-house in the town centre."
 
-I smiled. Ashford, it turned out, had a younger life than its old houses suggested.
+I smiled. Alderwick, it turned out, had a younger life than its old houses suggested.
 
 Breakfast arrived. The woman from behind the till set a plate in front of me. "Well?"
 
@@ -228,7 +228,7 @@ I laughed. He pointed at me. "There. That's my trouble."
 
 He had a habit of talking too quickly when excited, leaping from one subject to another, and sometimes being too sure of his opinions. Yet he also readily admitted a mistake when the evidence before him was clear enough. He was not pretending to know; he merely wanted to know. There is a difference, and I liked it.
 
-"What made you move to Ashford?" he asked after a while.
+"What made you move to Alderwick?" he asked after a while.
 
 "Work."
 
@@ -262,7 +262,7 @@ I looked at the book I had brought. "Daniel."
 
 He had been finishing his drink and turned. "Hm?"
 
-I lifted my book a little. "If I wanted to read further about the history of Ashford, where should I begin?"
+I lifted my book a little. "If I wanted to read further about the history of Alderwick, where should I begin?"
 
 Daniel looked at the cover. "That's a general book."
 
@@ -276,7 +276,7 @@ Daniel tapped the tips of his fingers on the table. "For general history, that b
 
 "Which library?"
 
-"Ashford Library. Near Market Square."
+"Alderwick Library. Near Market Square."
 
 "Is the building old?"
 
@@ -304,7 +304,7 @@ Margaret, who was arranging cups at the till, broke in unasked. "When it comes t
 
 "I'm not exaggerating."
 
-I turned to Margaret. "Does he have many books about Ashford?"
+I turned to Margaret. "Does he have many books about Alderwick?"
 
 "Many," she answered. "And he knows exactly which are worth reading and which are only fit for propping a door open."
 
@@ -328,7 +328,7 @@ Daniel sighed. "I've only done that twice."
 
 I laughed. "I'll come."
 
-We walked along the main street. For the first time since arriving in Ashford, I did not walk alone. Daniel walked a little faster than I did, now and then pointing out the buildings we passed and explaining. It turned out that when he was not reading, he still talked a great deal — even more so.
+We walked along the main street. For the first time since arriving in Alderwick, I did not walk alone. Daniel walked a little faster than I did, now and then pointing out the buildings we passed and explaining. It turned out that when he was not reading, he still talked a great deal — even more so.
 
 "Over there used to be a shoe shop," he said, pointing at a building that now housed an insurance office. "My father bought his first pair of shoes there."
 
@@ -346,7 +346,7 @@ We walked along the main street. For the first time since arriving in Ashford, I
 
 I smiled. We passed along High Street, and this time I saw it up close: a row of old buildings that was anything but uniform, some with dark brick façades, some repainted, a number of upper floors let out as offices or apartments. In front of one shop hung a small chalkboard: **FRESH BREAD — TWOPENCE**. A music shop displayed a violin behind glass. A postman pushed a barrow past us. At the coach stand, a stagecoach stood with its route board at the front:
 
-**LONDON — HIGH STREET — MARKET SQUARE — THE ACADEMY — NORTH ASHFORD**
+**LONDON — HIGH STREET — MARKET SQUARE — THE ACADEMY — NORTH Alderwick**
 
 "This stagecoach goes to the academy?"
 
@@ -366,7 +366,7 @@ Daniel nodded. "That one? Yes."
 
 I laughed.
 
-A few minutes later we reached Market Square. That morning I had only glimpsed it; now the place was busy. A flower seller was arranging bouquets, a fruit seller was calling out prices in a loud voice, a man carried a wooden crate toward his stall. In the middle of the square stood an old stone structure complete with a small plaque telling its history. Around it, shops faced one another — a bakery, a butcher's, a clothier's, a coffee house, a bank, and an old pub trimmed with a wooden sign. On one side stood a large stone building whose signboard read **ASHFORD LIBRARY**.
+A few minutes later we reached Market Square. That morning I had only glimpsed it; now the place was busy. A flower seller was arranging bouquets, a fruit seller was calling out prices in a loud voice, a man carried a wooden crate toward his stall. In the middle of the square stood an old stone structure complete with a small plaque telling its history. Around it, shops faced one another — a bakery, a butcher's, a clothier's, a coffee house, a bank, and an old pub trimmed with a wooden sign. On one side stood a large stone building whose signboard read **Alderwick LIBRARY**.
 
 I slowed my step. "That's the library?"
 
@@ -378,7 +378,7 @@ The building was older than I had imagined — grey stone walls, tall windows, a
 
 "And the other versions?"
 
-Daniel smiled. "You'll learn in time that every old building in Ashford has at least three stories."
+Daniel smiled. "You'll learn in time that every old building in Alderwick has at least three stories."
 
 I looked at the library for a while. "Interesting."
 
@@ -388,19 +388,19 @@ I looked at the library for a while. "Interesting."
 
 "Because you haven't heard the most boring story yet."
 
-In one corner of the square stood the town notice board. Posters lay stacked over one another: a community theatre performance, a church announcement, an offer of work, a room to let, a residents' meeting, and an announcement of the Christmas market to come. Among them all hung a handbill about a lost cat. Nothing strange. Yet the board made me realise something: Ashford was not a town with only a past. There was life going on — people planning events, seeking work, letting rooms, losing pets, buying bread. The town did not stop merely because someone had once disappeared within it.
+In one corner of the square stood the town notice board. Posters lay stacked over one another: a community theatre performance, a church announcement, an offer of work, a room to let, a residents' meeting, and an announcement of the Christmas market to come. Among them all hung a handbill about a lost cat. Nothing strange. Yet the board made me realise something: Alderwick was not a town with only a past. There was life going on — people planning events, seeking work, letting rooms, losing pets, buying bread. The town did not stop merely because someone had once disappeared within it.
 
 After leaving Market Square, we had walked a little way along High Street before Daniel turned into a narrow alley at the side of one of the buildings. "A shortcut," he said, pointing upward. The alley climbed gently between rows of old houses, and through the gaps between the rooftops, toward the south, I saw the old brick chimney I had noticed the day before.
 
 "Is that the industrial district?"
 
-"Old Industrial Quarter," said Daniel, looking toward the chimney. "Part of it is still used for warehouses, workshops, and small firms. It used to be much larger — the industry moved out of Ashford." He pointed at a long building with dark brick walls in the distance. "That's the old textile mill."
+"Old Industrial Quarter," said Daniel, looking toward the chimney. "Part of it is still used for warehouses, workshops, and small firms. It used to be much larger — the industry moved out of Alderwick." He pointed at a long building with dark brick walls in the distance. "That's the old textile mill."
 
 "Still standing?"
 
 "The building. The machines have long gone."
 
-I looked at it once more. Ashford had a far larger past than High Street let on. But now we were climbing the gently rising alley toward the old town behind Market Square, leaving the bustle behind, and at the end of the turning lane stood a shop with an old signboard almost covered in ivy:
+I looked at it once more. Alderwick had a far larger past than High Street let on. But now we were climbing the gently rising alley toward the old town behind Market Square, leaving the bustle behind, and at the end of the turning lane stood a shop with an old signboard almost covered in ivy:
 
 **BELL'S BOOKS & ANTIQUITIES**
 
@@ -424,7 +424,7 @@ Then an old man appeared from behind a shelf. His hair had gone white, but he st
 
 Daniel nodded. "Only a few days."
 
-The old man looked at me a moment. "In that case, welcome to Ashford."
+The old man looked at me a moment. "In that case, welcome to Alderwick."
 
 "Thank you."
 
@@ -458,7 +458,7 @@ I smiled, holding back a laugh. Daniel pointed at the old man. "This is Mr. Bell
 
 The door closed behind him, and Mr. Bell and I stood among shelves filled with dust and the smell of old paper.
 
-The shelves did not hold only books. There were old postcards, rolled maps of Ashford, paintings of buildings whose shapes had since changed, theatre programmes, school yearbooks, even brochures for town festivals decades old. I picked up a postcard: a photograph of Market Square, taken several decades before. The buildings were almost the same; the shops were different. I compared it with the street I had just walked down. Ashford changed, but not quickly — a few places seemed to refuse to be replaced.
+The shelves did not hold only books. There were old postcards, rolled maps of Alderwick, paintings of buildings whose shapes had since changed, theatre programmes, school yearbooks, even brochures for town festivals decades old. I picked up a postcard: a photograph of Market Square, taken several decades before. The buildings were almost the same; the shops were different. I compared it with the street I had just walked down. Alderwick changed, but not quickly — a few places seemed to refuse to be replaced.
 
 I put the postcard back. "Do people still buy things like this?"
 
@@ -478,7 +478,7 @@ I spent nearly an hour in the shop. Mr. Bell, it turned out, was not as I had im
 
 I appreciated that. He did not fill the gaps with answers of his own invention.
 
-In the end he chose two books for me — one a history of Ashford's development, the other a collection of much older local records. I looked at the price of the second. "This one is dear."
+In the end he chose two books for me — one a history of Alderwick's development, the other a collection of much older local records. I looked at the price of the second. "This one is dear."
 
 "It is."
 
@@ -548,7 +548,7 @@ I nodded. "And now a stationer's."
 
 "Yes."
 
-I looked at the building again. Three functions. Perhaps more. Ashford was beginning to look like a town that kept layers beneath every building.
+I looked at the building again. Three functions. Perhaps more. Alderwick was beginning to look like a town that kept layers beneath every building.
 
 We walked on. Daniel talked about the town's history. I mostly listened. Sometimes he was right. Sometimes he was only guessing. Sometimes he quoted something he had once read. And when he was not sure, he usually said: "I don't know." That made him easier to trust.
 
@@ -714,7 +714,7 @@ The man stared at his envelope. "So you can't read it?"
 
 "You?" the man asked, uncertain.
 
-"The man who arrived in Ashford and can straight away see the difference in ink on an envelope."
+"The man who arrived in Alderwick and can straight away see the difference in ink on an envelope."
 
 That evening, after returning from Margaret's, I went back to the house on Bellweather Lane.
 
@@ -732,7 +732,7 @@ Not the note, either.
 
 I sat down because on the writing desk — which I had just prepared for the first time — lay the two books I had bought from Mr. Bell.
 
-One book held a general history of Ashford. The other held far older records.
+One book held a general history of Alderwick. The other held far older records.
 
 And in those records, something caught my attention.
 
@@ -760,33 +760,33 @@ The day ended without any incident I could relate again — except for those two
 
 Before I fell asleep, my mind returned to the symbol. I tried to remember where I had seen it — on the front door of this house, on the head of the room key, beneath the bell. I did not yet know what it meant. Tomorrow. Not everything had to have an answer today.
 
-And without my noticing, the history book I had left on the table was still open to the same page. Between two paragraphs about old Ashford's history, the small symbol remained there—the first sign of thirteen, waiting for the one who would learn to read it.
+And without my noticing, the history book I had left on the table was still open to the same page. Between two paragraphs about old Alderwick's history, the small symbol remained there—the first sign of thirteen, waiting for the one who would learn to read it.
 
 ---
 
 ## Continuity Notes (for development — not part of the narrative)
 
 **Leon's knowledge at the end of Chapter 2:**
-- Explored Ashford on foot from Bellweather Lane toward the town centre; passed Morris & Sons Bakers, the apothecary, tailor, flower shop, stationer's, and a general goods shop.
+- Explored Alderwick on foot from Bellweather Lane toward the town centre; passed Morris & Sons Bakers, the apothecary, tailor, flower shop, stationer's, and a general goods shop.
 - Took breakfast at Margaret's tearoom & coffee shop and met Margaret, its owner.
 - Met Daniel, a history student at the Academy; Daniel guided him to Bell's Books & Antiquities and on a walk through Market Square and the Old Industrial Quarter.
-- Bought two books from Mr. Bell: a general history of Ashford's development and a collection of much older local records.
-- Learned that Ashford Library is a subscription library housed in a former administrative building.
+- Bought two books from Mr. Bell: a general history of Alderwick's development and a collection of much older local records.
+- Learned that Alderwick Library is a subscription library housed in a former administrative building.
 - Observed the building that dates to 1798 — originally a small administration office, later enlarged into the post office, now a stationer's.
 - Demonstrated his observational skill by detecting altered ink on an envelope at Margaret's (the address had been written, erased, and written over).
 - Found the circle-three-lines-one-dot symbol printed in the older book — the same symbol from the front-door nameplate, the room key, and beneath the bell in Chapter 1.
 
 **Clues planted (for later payoff):**
 - The recurring symbol now appears in a printed source, lifting it from the house onto the page; Leon deliberately holds back from connecting it yet.
-- The 1798 building's three successive functions underscore Ashford's "layers beneath every building."
+- The 1798 building's three successive functions underscore Alderwick's "layers beneath every building."
 - Margaret's role as the town's informal listener and keeper of people's affairs; her remark that Leon "sees something I don't."
 - Mr. Bell's practiced reticence — "I don't know," "That's a different story," "You should read another source."
 
 **Era decisions:**
 - Year: 1816 (Regency era).
 - Terms: the Academy (not university); tutor (not professor); stagecoach (not bus, diligence); pocket watch (not wristwatch); coffee house (not café).
-- Ashford Library is a subscription library, not a modern public lending library.
-- Locations kept consistent: Bellweather Lane, Morris & Sons Bakers, High Street, Market Square, Ashford Library, the Old Industrial Quarter (former textile works), Bell's Books & Antiquities.
+- Alderwick Library is a subscription library, not a modern public lending library.
+- Locations kept consistent: Bellweather Lane, Morris & Sons Bakers, High Street, Market Square, Alderwick Library, the Old Industrial Quarter (former textile works), Bell's Books & Antiquities.
 
 ---
 

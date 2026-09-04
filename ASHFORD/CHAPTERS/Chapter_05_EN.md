@@ -1,4 +1,4 @@
-# Chapter 5 — The House That Was Not There
+﻿# Chapter 5 — The House That Was Not There
 
 That morning I did not go straight to the café.
 
@@ -18,7 +18,7 @@ About street names.
 
 About how people called a place by a different name from its official one.
 
-I took out the map of Ashford I had bought a few days earlier.
+I took out the map of Alderwick I had bought a few days earlier.
 
 I spread it open on the dining table.
 
@@ -44,7 +44,7 @@ I folded the map.
 
 Today I chose to walk to the café.
 
-After several days, I was beginning to understand that the map of Ashford I had bought was not merely a collection of lines and street names. The map showed the town as it ought to be recognised by a newcomer: the main streets, the residential districts, the stop, the town centre, and a few important buildings.
+After several days, I was beginning to understand that the map of Alderwick I had bought was not merely a collection of lines and street names. The map showed the town as it ought to be recognised by a newcomer: the main streets, the residential districts, the stop, the town centre, and a few important buildings.
 
 Yet the longer I stayed here, the clearer it became that the map did not tell everything.
 
@@ -148,7 +148,7 @@ Outside the window, High Street was slowly filling with the activity of morning.
 
 I was beginning to recognise the pattern.
 
-Ashford had its own clock.
+Alderwick had its own clock.
 
 Morning began with the shops opening their doors, the people going to work, those making for the Academy, and the residents who came to places like Margaret's for breakfast or to read the newspaper.
 
@@ -190,13 +190,13 @@ Who was looking for work.
 
 Who did not want to be disturbed.
 
-The café was like a place where the small pieces of Ashford's life came together.
+The café was like a place where the small pieces of Alderwick's life came together.
 
 I went back to reading the newspaper.
 
 Simon carried a folder that was rather thick, and several sheets of paper showed at its edges. From the way he opened it, I guessed he worked with documents or property affairs.
 
-That did not seem strange in Ashford.
+That did not seem strange in Alderwick.
 
 Old houses changed hands.
 
@@ -808,7 +808,7 @@ One name, again and again.
 
 One name I did not remember, but which seemed to connect everything.
 
-I held the letter. The letter from the solicitor which said that my name — Ashcroft, though not my first name — was entitled to this property. And I, who had come out of curiosity and a few other things I do not care to discuss here, found that the name Ashcroft seemed to cling to Ashford.
+I held the letter. The letter from the solicitor which said that my name — Ashcroft, though not my first name — was entitled to this property. And I, who had come out of curiosity and a few other things I do not care to discuss here, found that the name Ashcroft seemed to cling to Alderwick.
 
 Aurelius Ashcroft.
 

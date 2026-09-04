@@ -1,4 +1,4 @@
-Chapter 11 — Jam yang Berhenti
+﻿Chapter 11 — Jam yang Berhenti
 Pagi itu aku tidak langsung pergi ke kafe.
 Aku masih memikirkan jam dinding yang kulihat kemarin.
 Bukan karena bentuknya.
@@ -13,12 +13,12 @@ Cari catatan transaksi setelah pelelangan.
 Kemudian aku menambahkan:
 Tanyakan kepada Mr. Bell.
 Aku memasukkan buku ke dalam tas.
-🟨 Pagi di Ashford sudah mulai bergerak ketika aku keluar rumah. Udara November terasa dingin, dan jalan-jalan permukiman masih lebih tenang dibanding pusat kota.
+🟨 Pagi di Alderwick sudah mulai bergerak ketika aku keluar rumah. Udara November terasa dingin, dan jalan-jalan permukiman masih lebih tenang dibanding pusat kota.
 Beberapa rumah sudah membuka tirai.
 Seorang pria membawa koran dari depan pintunya.
 Di ujung jalan, sebuah mobil berhenti sebentar sebelum melanjutkan perjalanan menuju High Street.
 Aku mulai terbiasa dengan pemandangan seperti itu.
-Ashford tidak memiliki satu pusat kehidupan saja.
+Alderwick tidak memiliki satu pusat kehidupan saja.
 Ada High Street dengan toko-tokonya.
 Market Square dengan aktivitas hariannya.
 Stasiun dengan orang-orang yang datang dan pergi.
@@ -160,7 +160,7 @@ Hanya jejak bahwa perpindahan itu pernah terjadi.
 🟨
 Aku mencari nama Thomas Wren.
 Ada beberapa catatan lama.
-Dia pernah tinggal di Ashford.
+Dia pernah tinggal di Alderwick.
 Tidak jauh dari Bellweather Lane.
 Aku mencatat alamatnya.
 Kemudian mencari tahun kematiannya.
@@ -173,7 +173,7 @@ Aku berhenti.
 Aku membaca lagi.
 Margaret Wren.
 Nama yang cukup biasa.
-Aku tidak tahu apakah dia orang yang sama dengan seseorang yang sekarang tinggal di Ashford.
+Aku tidak tahu apakah dia orang yang sama dengan seseorang yang sekarang tinggal di Alderwick.
 Aku tidak akan menebak.
 Aku menutup arsip.
 🟨 Aku memandang layar komputer perpustakaan.

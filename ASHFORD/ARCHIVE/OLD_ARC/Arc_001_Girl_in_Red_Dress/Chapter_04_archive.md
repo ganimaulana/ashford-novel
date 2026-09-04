@@ -1,6 +1,6 @@
-# Chapter 04 — E.W.
+﻿# Chapter 04 — E.W.
 
-Ashford, 23 November 2006
+Alderwick, 23 November 2006
 
 Perpustakaan masih buka ketika aku tiba.
 
@@ -68,7 +68,7 @@ Kemudian aku menemukan sesuatu.
 
 Sebuah artikel koran tua.
 
-Ashford Chronicle, April 1889.
+Alderwick Chronicle, April 1889.
 
 Satu bulan setelah pembukaan stasiun.
 
@@ -80,9 +80,9 @@ Aku membacanya dengan seksama.
 
 Artikel itu singkat:
 
-> *"Authorities are investigating a peculiar incident at Ashford Station. On the evening of 15th April, a young woman was reportedly seen in the private waiting room reserved for first-class passengers. When station staff went to check, the room was found empty and locked from the inside. No explanation has been provided. The identity of the woman remains unknown."*
+> *"Authorities are investigating a peculiar incident at Alderwick Station. On the evening of 15th April, a young woman was reportedly seen in the private waiting room reserved for first-class passengers. When station staff went to check, the room was found empty and locked from the inside. No explanation has been provided. The identity of the woman remains unknown."*
 
-Insiden aneh di Ashford Station.
+Insiden aneh di Alderwick Station.
 
 Seorang perempuan muda terlihat di ruang tunggu pribadi.
 
@@ -262,7 +262,7 @@ Dia berpikir sejenak.
 
 "Mereka tinggal di Bellweather Lane. Akhir abad ke-19."
 
-"Coba periksa arsip keluarga. Ada catatan silsilah untuk beberapa keluarga lama di Ashford."
+"Coba periksa arsip keluarga. Ada catatan silsilah untuk beberapa keluarga lama di Alderwick."
 
 "Di mana arsipnya?"
 
@@ -282,7 +282,7 @@ Seorang wanita muda menulis sesuatu di buku catatan.
 
 Ruang referensi lokal ada di bagian belakang.
 
-Rak-rak berisi buku tentang sejarah Ashford.
+Rak-rak berisi buku tentang sejarah Alderwick.
 
 Biografi tokoh lokal.
 
@@ -319,7 +319,7 @@ Tidak banyak.
 
 Tetapi cukup.
 
-**Thomas Wren (1842-1901)** — Arsitek, pindah ke Ashford tahun 1875. Menikah dengan Margaret Eleanor Hartley tahun 1866. Merancang beberapa bangunan penting di Ashford, termasuk perpanjangan Town Hall dan beberapa rumah di Bellweather Lane.
+**Thomas Wren (1842-1901)** — Arsitek, pindah ke Alderwick tahun 1875. Menikah dengan Margaret Eleanor Hartley tahun 1866. Merancang beberapa bangunan penting di Alderwick, termasuk perpanjangan Town Hall dan beberapa rumah di Bellweather Lane.
 
 **Margaret Eleanor Wren (née Hartley) (1845-1920)** — Istri Thomas Wren. Tidak ada catatan pekerjaan.
 
@@ -415,7 +415,7 @@ Emily Wren.
 
 Bellweather Lane 11.
 
-Stasiun Ashford.
+Stasiun Alderwick.
 
 Ruang tunggu pribadi.
 

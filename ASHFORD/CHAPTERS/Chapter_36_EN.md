@@ -1,12 +1,12 @@
-Chapter 36 — The Constable's Offer and the First Cases
+﻿Chapter 36 — The Constable's Offer and the First Cases
 
-January had settled over Ashford without ceremony.
+January had settled over Alderwick without ceremony.
 
 I had kept the Saturday appointment; the account had shown nothing I had not already seen in the entry.
 
 The frost came at night and remained in the shaded corners of the streets long after the sun had risen. Cart wheels sounded harder against the road. The windows took longer to clear in the morning. Even the smoke from chimneys seemed reluctant to rise.
 
-Ashford had returned to its ordinary habits.
+Alderwick had returned to its ordinary habits.
 
 Or perhaps I had simply become better at noticing them.
 

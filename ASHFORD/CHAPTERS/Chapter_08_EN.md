@@ -1,4 +1,4 @@
-# Chapter 8 — Bellweather House
+﻿# Chapter 8 — Bellweather House
 
 That morning I did not go straight to the café.
 
@@ -76,7 +76,7 @@ An old man read a newspaper.
 
 Two people carried stacks of books toward a work table.
 
-The library was one of the places in Ashford where the past and daily life met without seeming strange.
+The library was one of the places in Alderwick where the past and daily life met without seeming strange.
 
 I went in and made my way straight to the local reference section.
 
@@ -116,7 +116,7 @@ Changes of street names.
 
 Most of it was not very interesting.
 
-But all of it gave a clearer picture of Ashford.
+But all of it gave a clearer picture of Alderwick.
 
 Bellweather Lane, it turned out, had existed far longer than I had thought.
 
@@ -128,7 +128,7 @@ There were a few buildings that had been demolished.
 
 And some that had been rebuilt.
 
-Among those documents I began to see how Ashford had changed slowly.
+Among those documents I began to see how Alderwick had changed slowly.
 
 A road that had once lain at the edge of town was now part of the residential district.
 
@@ -350,7 +350,7 @@ Two workers unloaded goods from a tradesman's cart.
 
 On the notice board near the road, a few new sheets had been pasted over the old notices.
 
-I was beginning to realise that the centre of Ashford held a kind of layer of time as well.
+I was beginning to realise that the centre of Alderwick held a kind of layer of time as well.
 
 An old poster was not always taken down at once.
 
@@ -462,7 +462,7 @@ No one seemed to care about Bellweather House.
 
 And perhaps there was indeed no reason for them to care.
 
-For most people in Ashford, an old house that had stood empty for a long while was only an old house that had stood empty for a long while.
+For most people in Alderwick, an old house that had stood empty for a long while was only an old house that had stood empty for a long while.
 
 A mystery only appeared when someone began to search for its history.
 
@@ -736,7 +736,7 @@ Not yet enough to form a story.
 
 I put out the lamp.
 
-Outside, a carriage passed along Bellweather Lane. Its light swept across the window of the room for a few seconds, then vanished. The house fell dark again. Ashford was quiet again.
+Outside, a carriage passed along Bellweather Lane. Its light swept across the window of the room for a few seconds, then vanished. The house fell dark again. Alderwick was quiet again.
 
 But the envelope on the table — an address with no name and no town, only "Bellweather House" — joined the rest of my list: the latch in the dark, the prints that vanished by morning, the silhouette at the window, the bolt drawn back by no hand I knew. And the dream, which now came to me on more than one night — the boy in the dark coat, saying the same words each time: *Don't be late again.* Each alone I could explain. Together they were no longer curiosity. Something had been coming to this house in the night, and now someone was writing to it as if it were mine.
 
@@ -758,7 +758,7 @@ He came with me to Bellweather Lane. At the front door he paused, then walked sl
 
 "It is here," he said at last, quietly. "Not in the walls. In the remembering. This house keeps what was done in it, and for a few nights each year it lets the keeping show."
 
-Back at his office he drew out a drawer of old reports. "Because I could not name it myself," he said, "I looked for those who came before me." The records were thin and old, but they agreed: the disturbance returned on the same dates, year after year — from the thirteenth to the twenty-first of November. After the twenty-first it ceased, and Ashford went back to itself. No one had been harmed who simply waited it out and did not go looking for it.
+Back at his office he drew out a drawer of old reports. "Because I could not name it myself," he said, "I looked for those who came before me." The records were thin and old, but they agreed: the disturbance returned on the same dates, year after year — from the thirteenth to the twenty-first of November. After the twenty-first it ceased, and Alderwick went back to itself. No one had been harmed who simply waited it out and did not go looking for it.
 
 He paused, and looked at me levelly. "That is what the records say. They were kept by men who waited it out. I have never been able to tell you whether it is the whole truth — whether it ceases because it is over, or because it has found no one to go looking for it. The reports only ever watched the dates. They never once watched the watchers."
 

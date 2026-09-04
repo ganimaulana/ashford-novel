@@ -1,10 +1,10 @@
-# ARCS — FUTURE ARC PLANNING NOTES
+﻿# ARCS — FUTURE ARC PLANNING NOTES
 
 **Status:** DEVELOPMENT / PROPOSED — NOT CANON
 **Source:** Author planning discussion (with AI assistant), 2026-09-01
-**Purpose:** Future arc ideas for ASHFORD. Nothing here is canon until approved and integrated through a canon-synchronization phase.
+**Purpose:** Future arc ideas for Alderwick. Nothing here is canon until approved and integrated through a canon-synchronization phase.
 
-> IMPORTANT: This is planning material only. Do NOT treat any content here as APPROVED CANON. Do NOT use these notes to justify changes to WORLD_BIBLE or chapter prose without explicit author approval. These notes may contradict, extend, or exist entirely separate from the existing canon (Order of Severence, the Agreement, Aurelius Ashcroft, the boundary, the gear, the mystery beneath Ashford).
+> IMPORTANT: This is planning material only. Do NOT treat any content here as APPROVED CANON. Do NOT use these notes to justify changes to WORLD_BIBLE or chapter prose without explicit author approval. These notes may contradict, extend, or exist entirely separate from the existing canon (Order of Severence, the Agreement, Aurelius Ashcroft, the boundary, the gear, the mystery beneath Alderwick).
 
 ---
 
@@ -47,7 +47,7 @@ Anonymous letter. No organization name. No threat. No mention of recruitment. Ju
 
 Example letter:
 > Mr. Ashcroft,
-> There is a room in Ashford which has remained locked for seventeen years.
+> There is a room in Alderwick which has remained locked for seventeen years.
 > Three men have entered it. None of them agree on what they saw.
 > Determine which of them was telling the truth.
 > If you succeed, come to the address below before midnight on Thursday.
@@ -168,7 +168,7 @@ Key principle:
 
 ## Marshland Arc (worked example)
 
-Leon travels to a marshland outside Ashford for a simple errand. No big mystery initially. Just: a small village, a marsh, bad weather, difficult roads, some missing people, a group of hunters, local guards.
+Leon travels to a marshland outside Alderwick for a simple errand. No big mystery initially. Just: a small village, a marsh, bad weather, difficult roads, some missing people, a group of hunters, local guards.
 
 Then a conflict occurs.
 
@@ -187,14 +187,14 @@ Leon may be weaker than his opponent, but he understands the terrain. He deliber
 - extinguishes light sources
 - moves through paths only locals know
 
-## Why This Matters for Ashford
+## Why This Matters for Alderwick
 
 Prevents the story from being only "mystery → clue → mystery → clue → supernatural revelation."
 
 Creates a rhythm of different arc types:
 > Mystery Arc → Character Arc → Location/Survival Arc → Investigation Arc → Political/Social Arc → Mystery Arc
 
-Gives readers a break from the main mystery. Proves Ashford is a living world with many layers, not one giant puzzle where everything leads to one organization.
+Gives readers a break from the main mystery. Proves Alderwick is a living world with many layers, not one giant puzzle where everything leads to one organization.
 
 These arcs can be completely SEPARATE from:
 - Order of Severence
@@ -208,7 +208,7 @@ These arcs can be completely SEPARATE from:
 
 ## Question: Is it strange for Leon to join many organizations at once?
 
-Answer: Not strange — potentially one of Ashford's greatest strengths. But one big risk:
+Answer: Not strange — potentially one of Alderwick's greatest strengths. But one big risk:
 > Leon must not look like he is "collecting organizations."
 
 If every few arcs Leon joins a new organization, readers may feel the organizations exist only to give the protagonist access to lore, characters, and abilities.
@@ -223,7 +223,7 @@ Each organization shows a different side of the world:
 - aristocratic society → politics, social class
 - trade group → economy, trade routes
 - secret organization → supernatural / hidden world
-- criminal group → the dark side of Ashford
+- criminal group → the dark side of Alderwick
 - military institution → strategy, conflict
 - antiquarian circle → artifacts and history
 
@@ -290,9 +290,9 @@ Instead:
 
 Then, when two organizations ARE actually connected, the reveal is far stronger.
 
-### 9. Makes Ashford feel like a real world
+### 9. Makes Alderwick feel like a real world
 Leon starts seeing:
-- Ashford = a small town
+- Alderwick = a small town
 - then: an academic society
 - then: religious circles
 - then: antiquarians
@@ -324,7 +324,7 @@ The first feels like a world-building mechanism. The second feels like a story.
 - Leon = full member of 8 organizations: NOT recommended
 - Leon = network of relationships with 8 organizations, full member of only 2–3: strongly recommended
 - Organizations must have their own life and purpose even when Leon is not inside them
-- If this principle is applied, Ashford gains a much wider world without constantly raising the scale of the town or the main mystery
+- If this principle is applied, Alderwick gains a much wider world without constantly raising the scale of the town or the main mystery
 
 ---
 
@@ -391,7 +391,7 @@ Scene becomes: a game of identifying who actually knows the item's value. Leon d
 Arc Items feel older than human understanding. Leon's Nen says "not dangerous." Leon still doesn't touch it. Because experience has taught him: an item that is not dangerous is not necessarily safe. Builds the sense that Arc Items have their own rules.
 
 ### 4. Item identification — Frieren
-In Frieren, magical items often have odd, non-combat functions. Ashford can do the same: Leon finds a "spoon that makes food slightly saltier." Useless in combat. Cheap. Leon buys it anyway. Why? Because it's a low-grade Arc Item once owned by someone from a certain organization, and it's a clue to that organization's history.
+In Frieren, magical items often have odd, non-combat functions. Alderwick can do the same: Leon finds a "spoon that makes food slightly saltier." Useless in combat. Cheap. Leon buys it anyway. Why? Because it's a low-grade Arc Item once owned by someone from a certain organization, and it's a clue to that organization's history.
 
 Arc Items don't have to be legendary swords or world-destroying rings. Absurd and mundane items make the world feel more alive.
 
@@ -407,7 +407,7 @@ Leon buys an old map. Everyone thinks it shows a treasure location. Leon realize
 Someone sells a family heirloom: "It's useless. Been in the attic for decades." Leon's Nen reacts. But not because the item is powerful. **The item recognizes Leon.** This opens a darker possibility: certain Arc Items don't just have functions. They have *relationships* with previous owners/users. The reader immediately thinks: Aurelius?
 
 ### 8. "Treasure hunt" where all participants are deceiving each other — Moriarty the Patriot / Detective Conan
-A rumour spreads: "An Arc Item belonging to a century-old sorcerer will be sold in Ashford." Five people come searching for it. Problem: the rumour was deliberately created by someone. Leon realizes: one person is looking for the item, one is looking for the buyer, one is looking for the thief, one is actually looking for the person who came looking for the item. The treasure hunt is an information war.
+A rumour spreads: "An Arc Item belonging to a century-old sorcerer will be sold in Alderwick." Five people come searching for it. Problem: the rumour was deliberately created by someone. Leon realizes: one person is looking for the item, one is looking for the buyer, one is looking for the thief, one is actually looking for the person who came looking for the item. The treasure hunt is an information war.
 
 ### 9. "Item that shouldn't exist in this era" — Steins;Gate
 Leon finds an object that is technologically or materially impossible for its supposed era. A clock with a component that shouldn't have been invented yet. He doesn't explain it. He just keeps it. Dozens of chapters later, the object turns out to be from an event that was believed never to have happened. Strong mystery novel potential.
@@ -429,7 +429,7 @@ Leon builds a private collection. Each Arc Item has a different reason for being
 
 Leon himself doesn't always know the actual function. This makes his collection a time bomb — an item that seems unimportant today could become critical 100 chapters later.
 
-### 12. "Treasure Hunting Loop" — the recurring pattern for Ashford
+### 12. "Treasure Hunting Loop" — the recurring pattern for Alderwick
 > Rumour → market/auction → observation → negotiation → purchase → identification → mystery → consequence
 
 Example:
@@ -451,7 +451,7 @@ Don't make Leon find valuable items every time. Out of 10 items bought:
 - 3 are interesting
 - 1 is truly extraordinary
 
-This lets the reader play along. Every time Leon enters a flea market, the reader thinks: "Which one this time?" And when Leon says "This one," the reader knows something is there. This could become a signature Ashford scene — like how Hunter × Hunter readers enjoy the *process* of the hunt, not just the result.
+This lets the reader play along. Every time Leon enters a flea market, the reader thinks: "Which one this time?" And when Leon says "This one," the reader knows something is there. This could become a signature Alderwick scene — like how Hunter × Hunter readers enjoy the *process* of the hunt, not just the result.
 
 ## Deeper Mystery Layer
 
@@ -467,7 +467,7 @@ This is a new mystery layer that could become very powerful.
 # CROSS-REFERENCE
 
 This idea connects to:
-- `ASHFORD_NARRATIVE_ENGINE\ARC_Item_System_Leon.md` — the Nen system governing Leon's ability to sense Arc Items
+- `Alderwick_NARRATIVE_ENGINE\ARC_Item_System_Leon.md` — the Nen system governing Leon's ability to sense Arc Items
 - Character development: Leon living an analogue of Aurelius's habits
 - World-building: flea markets, auctions, antique shops as recurring locations
 - Economic system: Arc Items as a resource and currency for Leon
@@ -524,7 +524,7 @@ Flea market example:
 Then Leon walks away with it. The reader discovers chapters later it's an Arc Item.
 
 ### Recurring location
-Make the flea market a recurring Ashford location — not just a shopping spot. Leon visits periodically. At first readers think "Leon just likes antiques." Then he buys several strange items. Then readers begin to wonder: Leon is looking for something. But what? A certain Arc Item? An Aurelius relic? A clue about the past? Or does Leon himself not yet know what he's seeking?
+Make the flea market a recurring Alderwick location — not just a shopping spot. Leon visits periodically. At first readers think "Leon just likes antiques." Then he buys several strange items. Then readers begin to wonder: Leon is looking for something. But what? A certain Arc Item? An Aurelius relic? A clue about the past? Or does Leon himself not yet know what he's seeking?
 
 One day, he finds an object even his Nen cannot read properly. That could be a major story beat.
 
@@ -540,7 +540,7 @@ One day, he finds an object even his Nen cannot read properly. That could be a m
 
 5. **Economic mechanic** — recurring but not too frequent; Leon gains resources; occasionally he's wrong (buys £5 junk and it's genuinely £5 junk) — keeps the ability from feeling like cheating, and adds humor/characterization.
 
-6. **Recurring location with escalating meaning** — flea market becomes a system for exploring Ashford lore + reinforcing the Leon–Aurelius thematic link.
+6. **Recurring location with escalating meaning** — flea market becomes a system for exploring Alderwick lore + reinforcing the Leon–Aurelius thematic link.
 
 ## Signature Scenes (from HxH and other anime/manga)
 
@@ -554,7 +554,7 @@ One day, he finds an object even his Nen cannot read properly. That could be a m
 Key: market price ≠ actual value.
 
 ### 2. Auction / secret auction — Hunter × Hunter
-Probably even more fitting for Ashford.
+Probably even more fitting for Alderwick.
 - A 17th-century manuscript is up for auction. Everyone thinks the manuscript is the prize.
 - Leon knows the manuscript isn't important — the ink used to write it is.
 - Problem: Leon isn't the only one who knows. Several mysterious bidders.
@@ -599,7 +599,7 @@ Leon's trait: he doesn't win conversations by talking a lot. He wins by making o
 - The reader immediately thinks: Aurelius?
 
 ### 8. "Treasure hunt where all participants are deceiving each other" — Moriarty the Patriot / Detective Conan
-- A rumour: "An Arc Item belonging to a century-old sorcerer will be sold in Ashford."
+- A rumour: "An Arc Item belonging to a century-old sorcerer will be sold in Alderwick."
 - Five people come looking for it.
 - The rumour was deliberately created by someone.
 - Leon realizes: one person seeks the item; one seeks the buyer; one seeks the thief; one is actually looking for the person who came seeking the item.
@@ -631,7 +631,7 @@ Leon has a private collection, each Arc Item kept for a different reason:
 
 Leon himself doesn't always know the true function. The collection becomes a time bomb — a seemingly unimportant object today could become vital 100 chapters later.
 
-### 12. "Treasure Hunting Loop" — recurring Ashford pattern
+### 12. "Treasure Hunting Loop" — recurring Alderwick pattern
 > Rumour → market/auction → observation → negotiation → purchase → identification → mystery → consequence
 
 Example:
@@ -649,7 +649,7 @@ The treasure hunt becomes the plot.
 ## Design Rules
 
 - Do NOT make Leon always find something valuable. Out of 10 items bought: 6 junk, 3 interesting, 1 truly extraordinary. The reader plays along: "Which one this time?" When Leon says "this one," the reader knows something is there.
-- Treasure hunting should be a signature Ashford scene — like how HxH readers enjoy the *process* of hunting, not just the result.
+- Treasure hunting should be a signature Alderwick scene — like how HxH readers enjoy the *process* of hunting, not just the result.
 
 ## Deeper Mystery Layer
 
@@ -666,7 +666,7 @@ That becomes a very strong mystery layer.
 
 ## Concept
 
-Borrowed from Hunter × Hunter and other anime/manga: activities that make the world feel vast and give characters a life outside the main plot. For Leon, these activities make Ashford feel alive and let him grow without every chapter being a battle or a main-plot beat.
+Borrowed from Hunter × Hunter and other anime/manga: activities that make the world feel vast and give characters a life outside the main plot. For Leon, these activities make Alderwick feel alive and let him grow without every chapter being a battle or a main-plot beat.
 
 ## Primary Activities (5 pillars)
 
@@ -700,9 +700,9 @@ Example: a secret club holds a card game. Leon joins not for money — the real 
 
 ## 3. Exploration
 
-A large part of Ashford's world. Leon visits: empty houses, old churches, graves, ruins, tunnels, libraries, old family mansions, closed mines, remote villages.
+A large part of Alderwick's world. Leon visits: empty houses, old churches, graves, ruins, tunnels, libraries, old family mansions, closed mines, remote villages.
 
-Key: each place has history. Exploration is NOT "dungeon → enter → fight monster." It's: "This place was used by someone 100 years ago. Why?" — much more fitting for Ashford's mystery tone.
+Key: each place has history. Exploration is NOT "dungeon → enter → fight monster." It's: "This place was used by someone 100 years ago. Why?" — much more fitting for Alderwick's mystery tone.
 
 ## 4. Investigating Missing Persons
 
@@ -710,11 +710,11 @@ Great for building Leon's detective side. Example: a student disappears. Police 
 
 ## 5. Monster / Beast Hunting
 
-If Ashford has supernatural creatures, this can be interesting — but NOT RPG-style. More interesting if every creature has rules. Example: the creature doesn't attack humans — but only attacks people who know its name. Leon must discover: rules → weakness → origin → how to confront it. Hunting remains a mystery.
+If Alderwick has supernatural creatures, this can be interesting — but NOT RPG-style. More interesting if every creature has rules. Example: the creature doesn't attack humans — but only attacks people who know its name. Leon must discover: rules → weakness → origin → how to confront it. Hunting remains a mystery.
 
 ## 6. Escort / Bodyguard
 
-Leon takes simple work: escorting someone from Ashford to another city. Seems ordinary at first. But along the way: someone follows; the client lies; the client's baggage is suspicious; a murder at the inn; someone turns out to be a Nen user. Expands the world beyond Ashford without requiring a huge arc.
+Leon takes simple work: escorting someone from Alderwick to another city. Seems ordinary at first. But along the way: someone follows; the client lies; the client's baggage is suspicious; a murder at the inn; someone turns out to be a Nen user. Expands the world beyond Alderwick without requiring a huge arc.
 
 ## 7. Ruins / Archaeology
 
@@ -755,7 +755,7 @@ All activities can connect:
 
 With this pattern, we don't force every chapter into combat. Leon can live, walk around, work, play, search for information, buy goods, run experiments — and without realizing it, all these activities slowly drag him closer to Aurelius's secret.
 
-This suits Ashford's identity far better than making Leon a protagonist who constantly moves from battle to battle.
+This suits Alderwick's identity far better than making Leon a protagonist who constantly moves from battle to battle.
 
 ---
 

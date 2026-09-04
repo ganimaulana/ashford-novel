@@ -1,6 +1,6 @@
-# Chapter 09 — Breaking In
+﻿# Chapter 09 — Breaking In
 
-Ashford, 26 November 2006
+Alderwick, 26 November 2006
 
 Malam datang lebih cepat di akhir November.
 

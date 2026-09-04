@@ -1,6 +1,6 @@
-# Chapter 03 — The Industrial District
+﻿# Chapter 03 — The Industrial District
 
-Ashford, 4 December 2006
+Alderwick, 4 December 2006
 
 Aku tidak tidur malam itu.
 
@@ -34,7 +34,7 @@ Aku tidak bisa berhenti.
 
 Tidak setelah Emily.
 
-Tidak setelah menemukan bahwa ada lebih banyak misteri di Ashford.
+Tidak setelah menemukan bahwa ada lebih banyak misteri di Alderwick.
 
 Aku harus tahu.
 
@@ -499,9 +499,9 @@ Menunggu.
 
 Mengambil orang yang terlalu dekat.
 
-Dan Ashford...
+Dan Alderwick...
 
-Ashford adalah tempat mereka masuk ke dunia kita.
+Alderwick adalah tempat mereka masuk ke dunia kita.
 
 🟨
 

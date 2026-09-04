@@ -1,4 +1,4 @@
-CHAPTER 46 — THE WATCHER'S BURDEN
+﻿CHAPTER 46 — THE WATCHER'S BURDEN
 
 Graves returned three nights after the stone was moved.
 
@@ -92,7 +92,7 @@ He hesitated.
 
 Then said:
 
-"He didn't simply leave something beneath Ashford."
+"He didn't simply leave something beneath Alderwick."
 
 "What did he do?"
 
@@ -140,7 +140,7 @@ The door beneath the mill.
 
 None of them sounded like property.
 
-"You're suggesting the thing beneath Ashford is an inheritance."
+"You're suggesting the thing beneath Alderwick is an inheritance."
 
 "I'm suggesting someone wanted it treated as one."
 
@@ -276,7 +276,7 @@ The old constable looked at the floor.
 
 "Perhaps."
 
-"He says what lies beneath Ashford was an inheritance."
+"He says what lies beneath Alderwick was an inheritance."
 
 The old man finally looked up.
 
@@ -354,7 +354,7 @@ But I did.
 
 He shook his head.
 
-"Guesses become facts very quickly in Ashford."
+"Guesses become facts very quickly in Alderwick."
 
 I remembered my own notebook.
 
@@ -578,7 +578,7 @@ Calloway waited.
 
 Another pause.
 
-"He also says what lies beneath Ashford may have been treated as an inheritance."
+"He also says what lies beneath Alderwick may have been treated as an inheritance."
 
 Calloway's face remained still.
 
@@ -730,7 +730,7 @@ Then silence.
 
 I sat in the dark and listened.
 
-For the first time since I had come to Ashford, I understood that watching was not passive.
+For the first time since I had come to Alderwick, I understood that watching was not passive.
 
 It meant remembering what had happened.
 

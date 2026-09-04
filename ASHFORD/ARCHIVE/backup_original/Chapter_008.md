@@ -1,4 +1,4 @@
-Chapter 8 — Bellweather House
+﻿Chapter 8 — Bellweather House
 Pagi itu aku tidak langsung pergi ke kafe.
 Aku duduk di ruang makan dengan dua amplop di atas meja.
 Keduanya masih tertutup.
@@ -33,7 +33,7 @@ Orang-orang datang dan pergi.
 Seorang anak duduk di dekat rak buku anak-anak.
 Seorang pria tua membaca koran.
 Dua mahasiswa membawa tumpukan buku menuju meja kerja.
-Perpustakaan adalah salah satu tempat di Ashford di mana masa lalu dan kehidupan sehari-hari bertemu tanpa terasa aneh.
+Perpustakaan adalah salah satu tempat di Alderwick di mana masa lalu dan kehidupan sehari-hari bertemu tanpa terasa aneh.
 
 Aku masuk dan langsung menuju bagian referensi lokal.
 Tidak banyak orang.
@@ -115,7 +115,7 @@ Mengambil daftar properti lengkap untuk periode yang sama.
 
 Aku ingin tahu apakah ini merupakan pola atau hanya satu pengecualian.
 
-Aku memeriksa beberapa jalan lain di Ashford yang tercatat pada periode yang sama.
+Aku memeriksa beberapa jalan lain di Alderwick yang tercatat pada periode yang sama.
 
 Sebagian besar properti sudah memiliki nomor.
 Ada beberapa pengecualian, tetapi jumlahnya kecil.
@@ -464,7 +464,7 @@ Beberapa orang membawa tas belanja.
 Sebuah bus berhenti sebentar di halte.
 Dua pekerja menurunkan barang dari sebuah van.
 Di papan pengumuman dekat jalan, beberapa kertas baru ditempel di atas pengumuman lama.
-Aku mulai menyadari bahwa pusat kota Ashford juga memiliki semacam lapisan waktu.
+Aku mulai menyadari bahwa pusat kota Alderwick juga memiliki semacam lapisan waktu.
 Poster lama tidak selalu langsung dicopot.
 Pengumuman baru ditempel di atasnya.
 Toko-toko mempertahankan papan nama lama meskipun pemiliknya berubah.
@@ -516,7 +516,7 @@ Seorang wanita tua duduk di dekat jendela dan membaca koran.
 Tidak ada yang memperhatikan pembicaraan kami.
 Tidak ada yang tampak peduli pada Bellweather House.
 Dan mungkin memang tidak ada alasan bagi mereka untuk peduli.
-Bagi sebagian besar orang di Ashford, sebuah rumah tua yang sudah lama kosong hanyalah rumah tua yang sudah lama kosong.
+Bagi sebagian besar orang di Alderwick, sebuah rumah tua yang sudah lama kosong hanyalah rumah tua yang sudah lama kosong.
 Misteri hanya muncul ketika seseorang mulai mencari sejarahnya.
 🟨
 
@@ -545,7 +545,7 @@ Tidak semua masalah harus menjadi urusan siapa pun.
 Aku mulai memahami caranya bekerja.
 Dia mendengarkan.
 Kemudian memutuskan apakah sesuatu membutuhkan tindakan.
-🟨 Stasiun Ashford hanya beberapa jalan dari pusat kota, dan barang hilang memang mudah berpindah tangan di tempat seperti itu.
+🟨 Stasiun Alderwick hanya beberapa jalan dari pusat kota, dan barang hilang memang mudah berpindah tangan di tempat seperti itu.
 Orang turun dari kereta.
 Membawa koper.
 Tas kerja.
@@ -698,7 +698,7 @@ Aku mematikan lampu.
 Di luar, sebuah mobil melewati Bellweather Lane.
 Cahayanya menyapu jendela kamar selama beberapa detik, lalu menghilang.
 Rumah kembali gelap.
-Ashford kembali tenang.
+Alderwick kembali tenang.
 Tetapi sekarang aku tahu satu hal:
 Bellweather House bukan hanya nama yang tertulis dalam buku lama.
 Seseorang masih tahu nama itu.

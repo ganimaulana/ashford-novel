@@ -1,0 +1,1430 @@
+﻿[
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_INDEX\\WORLD_BIBLE_INDEX.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_INDEX\\01_WORLD_BIBLE_INDEX.md",
+        "OldBase":  "WORLD_BIBLE_INDEX.md",
+        "NewBase":  "01_WORLD_BIBLE_INDEX.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_INDEX"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER\\Ashford_Master.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER\\01_ASHFORD_MASTER.md",
+        "OldBase":  "Ashford_Master.md",
+        "NewBase":  "01_ASHFORD_MASTER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER\\Canon_Rules.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER\\02_CANON_RULES.md",
+        "OldBase":  "Canon_Rules.md",
+        "NewBase":  "02_CANON_RULES.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER\\Continuity_Master.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER\\03_CONTINUITY_MASTER.md",
+        "OldBase":  "Continuity_Master.md",
+        "NewBase":  "03_CONTINUITY_MASTER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER\\Quick_Reference_v2.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER\\04_QUICK_REFERENCE_V2.md",
+        "OldBase":  "Quick_Reference_v2.md",
+        "NewBase":  "04_QUICK_REFERENCE_V2.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER\\World_Foundation_v2.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER\\05_WORLD_FOUNDATION_V2.md",
+        "OldBase":  "World_Foundation_v2.md",
+        "NewBase":  "05_WORLD_FOUNDATION_V2.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\00_MASTER"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Ashford_City_Overview.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\01_ASHFORD_CITY_OVERVIEW.md",
+        "OldBase":  "Ashford_City_Overview.md",
+        "NewBase":  "01_ASHFORD_CITY_OVERVIEW.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Ashford_Districts.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\02_ASHFORD_DISTRICTS.md",
+        "OldBase":  "Ashford_Districts.md",
+        "NewBase":  "02_ASHFORD_DISTRICTS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Ashford_Geography.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\03_ASHFORD_GEOGRAPHY.md",
+        "OldBase":  "Ashford_Geography.md",
+        "NewBase":  "03_ASHFORD_GEOGRAPHY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Atmosphere.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\04_ATMOSPHERE.md",
+        "OldBase":  "Atmosphere.md",
+        "NewBase":  "04_ATMOSPHERE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Bellweather_District.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\05_BELLWEATHER_DISTRICT.md",
+        "OldBase":  "Bellweather_District.md",
+        "NewBase":  "05_BELLWEATHER_DISTRICT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Bellweather_Lane.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\06_BELLWEATHER_LANE.md",
+        "OldBase":  "Bellweather_Lane.md",
+        "NewBase":  "06_BELLWEATHER_LANE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Districts.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\07_DISTRICTS.md",
+        "OldBase":  "Districts.md",
+        "NewBase":  "07_DISTRICTS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Geography.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\08_GEOGRAPHY.md",
+        "OldBase":  "Geography.md",
+        "NewBase":  "08_GEOGRAPHY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Greyhaven.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\09_GREYHAVEN.md",
+        "OldBase":  "Greyhaven.md",
+        "NewBase":  "09_GREYHAVEN.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\High_Street.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\10_HIGH_STREET.md",
+        "OldBase":  "High_Street.md",
+        "NewBase":  "10_HIGH_STREET.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Location_Placement.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\11_LOCATION_PLACEMENT.md",
+        "OldBase":  "Location_Placement.md",
+        "NewBase":  "11_LOCATION_PLACEMENT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Market_Square.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\12_MARKET_SQUARE.md",
+        "OldBase":  "Market_Square.md",
+        "NewBase":  "12_MARKET_SQUARE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Natural_Features.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\13_NATURAL_FEATURES.md",
+        "OldBase":  "Natural_Features.md",
+        "NewBase":  "13_NATURAL_FEATURES.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Old_Industrial_District.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\14_OLD_INDUSTRIAL_DISTRICT.md",
+        "OldBase":  "Old_Industrial_District.md",
+        "NewBase":  "14_OLD_INDUSTRIAL_DISTRICT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Old_Town.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\15_OLD_TOWN.md",
+        "OldBase":  "Old_Town.md",
+        "NewBase":  "15_OLD_TOWN.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Population_and_Diversity.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\16_POPULATION_AND_DIVERSITY.md",
+        "OldBase":  "Population_and_Diversity.md",
+        "NewBase":  "16_POPULATION_AND_DIVERSITY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\README.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\17_README.md",
+        "OldBase":  "README.md",
+        "NewBase":  "17_README.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Residential_Areas.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\18_RESIDENTIAL_AREAS.md",
+        "OldBase":  "Residential_Areas.md",
+        "NewBase":  "18_RESIDENTIAL_AREAS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\Streets_Master.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\19_STREETS_MASTER.md",
+        "OldBase":  "Streets_Master.md",
+        "NewBase":  "19_STREETS_MASTER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\University_District.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY\\20_UNIVERSITY_DISTRICT.md",
+        "OldBase":  "University_District.md",
+        "NewBase":  "20_UNIVERSITY_DISTRICT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\01_GEOGRAPHY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE\\20th_Century_and_Modern.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE\\01_20TH_CENTURY_AND_MODERN.md",
+        "OldBase":  "20th_Century_and_Modern.md",
+        "NewBase":  "01_20TH_CENTURY_AND_MODERN.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE\\Architecture_Master.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE\\02_ARCHITECTURE_MASTER.md",
+        "OldBase":  "Architecture_Master.md",
+        "NewBase":  "02_ARCHITECTURE_MASTER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE\\Edwardian.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE\\03_EDWARDIAN.md",
+        "OldBase":  "Edwardian.md",
+        "NewBase":  "03_EDWARDIAN.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE\\Georgian.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE\\04_GEORGIAN.md",
+        "OldBase":  "Georgian.md",
+        "NewBase":  "04_GEORGIAN.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE\\Medieval_and_Tudor.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE\\05_MEDIEVAL_AND_TUDOR.md",
+        "OldBase":  "Medieval_and_Tudor.md",
+        "NewBase":  "05_MEDIEVAL_AND_TUDOR.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE\\Victorian.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE\\06_VICTORIAN.md",
+        "OldBase":  "Victorian.md",
+        "NewBase":  "06_VICTORIAN.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\02_ARCHITECTURE"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\Abandoned_and_Neglected.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\01_ABANDONED_AND_NEGLECTED.md",
+        "OldBase":  "Abandoned_and_Neglected.md",
+        "NewBase":  "01_ABANDONED_AND_NEGLECTED.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\Arthurs_Shop.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\02_ARTHURS_SHOP.md",
+        "OldBase":  "Arthurs_Shop.md",
+        "NewBase":  "02_ARTHURS_SHOP.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\Ashford_Library.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\03_ASHFORD_LIBRARY.md",
+        "OldBase":  "Ashford_Library.md",
+        "NewBase":  "03_ASHFORD_LIBRARY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\Bellweather_House.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\04_BELLWEATHER_HOUSE.md",
+        "OldBase":  "Bellweather_House.md",
+        "NewBase":  "04_BELLWEATHER_HOUSE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\Buildings.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\05_BUILDINGS.md",
+        "OldBase":  "Buildings.md",
+        "NewBase":  "05_BUILDINGS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\Buildings_Master.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\06_BUILDINGS_MASTER.md",
+        "OldBase":  "Buildings_Master.md",
+        "NewBase":  "06_BUILDINGS_MASTER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\Businesses_Master.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\07_BUSINESSES_MASTER.md",
+        "OldBase":  "Businesses_Master.md",
+        "NewBase":  "07_BUSINESSES_MASTER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\Leons_House.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\08_LEONS_HOUSE.md",
+        "OldBase":  "Leons_House.md",
+        "NewBase":  "08_LEONS_HOUSE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\Margarets_Cafe.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS\\09_MARGARETS_CAFE.md",
+        "OldBase":  "Margarets_Cafe.md",
+        "NewBase":  "09_MARGARETS_CAFE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\03_BUILDINGS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\CHARACTER_IMAGE_GENERATION_GUIDE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\01_CHARACTER_IMAGE_GENERATION_GUIDE.md",
+        "OldBase":  "CHARACTER_IMAGE_GENERATION_GUIDE.md",
+        "NewBase":  "01_CHARACTER_IMAGE_GENERATION_GUIDE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\CHARACTER_IMAGE_PROMPTS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\02_CHARACTER_IMAGE_PROMPTS.md",
+        "OldBase":  "CHARACTER_IMAGE_PROMPTS.md",
+        "NewBase":  "02_CHARACTER_IMAGE_PROMPTS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\Character_Registry.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\03_CHARACTER_REGISTRY.md",
+        "OldBase":  "Character_Registry.md",
+        "NewBase":  "03_CHARACTER_REGISTRY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\CHARACTER_VISUAL_AUTHOR_REVIEW.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\04_CHARACTER_VISUAL_AUTHOR_REVIEW.md",
+        "OldBase":  "CHARACTER_VISUAL_AUTHOR_REVIEW.md",
+        "NewBase":  "04_CHARACTER_VISUAL_AUTHOR_REVIEW.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\CHARACTER_VISUAL_CANON.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\05_CHARACTER_VISUAL_CANON.md",
+        "OldBase":  "CHARACTER_VISUAL_CANON.md",
+        "NewBase":  "05_CHARACTER_VISUAL_CANON.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\CONSTABLE_TEAM_ARCHITECTURE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\06_CONSTABLE_TEAM_ARCHITECTURE.md",
+        "OldBase":  "CONSTABLE_TEAM_ARCHITECTURE.md",
+        "NewBase":  "06_CONSTABLE_TEAM_ARCHITECTURE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\LEON_FIELD_DEVELOPMENT.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\07_LEON_FIELD_DEVELOPMENT.md",
+        "OldBase":  "LEON_FIELD_DEVELOPMENT.md",
+        "NewBase":  "07_LEON_FIELD_DEVELOPMENT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Adeline_Brume.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\01_ADELINE_BRUME.md",
+        "OldBase":  "Adeline_Brume.md",
+        "NewBase":  "01_ADELINE_BRUME.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Arthur_Edmund_Bell.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\02_ARTHUR_EDMUND_BELL.md",
+        "OldBase":  "Arthur_Edmund_Bell.md",
+        "NewBase":  "02_ARTHUR_EDMUND_BELL.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Aurelius_Ashcroft.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\03_AURELIUS_ASHCROFT.md",
+        "OldBase":  "Aurelius_Ashcroft.md",
+        "NewBase":  "03_AURELIUS_ASHCROFT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Baker.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\04_BAKER.md",
+        "OldBase":  "Baker.md",
+        "NewBase":  "04_BAKER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Cecily_Pargeter.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\05_CECILY_PARGETER.md",
+        "OldBase":  "Cecily_Pargeter.md",
+        "NewBase":  "05_CECILY_PARGETER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Constable.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\06_CONSTABLE.md",
+        "OldBase":  "Constable.md",
+        "NewBase":  "06_CONSTABLE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Cuthbert_Ingle.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\07_CUTHBERT_INGLE.md",
+        "OldBase":  "Cuthbert_Ingle.md",
+        "NewBase":  "07_CUTHBERT_INGLE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Daniel_James_Carter.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\08_DANIEL_JAMES_CARTER.md",
+        "OldBase":  "Daniel_James_Carter.md",
+        "NewBase":  "08_DANIEL_JAMES_CARTER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Edwin_Ashcroft.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\09_EDWIN_ASHCROFT.md",
+        "OldBase":  "Edwin_Ashcroft.md",
+        "NewBase":  "09_EDWIN_ASHCROFT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Eleanor_Shaw.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\10_ELEANOR_SHAW.md",
+        "OldBase":  "Eleanor_Shaw.md",
+        "NewBase":  "10_ELEANOR_SHAW.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Elias_Marr.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\11_ELIAS_MARR.md",
+        "OldBase":  "Elias_Marr.md",
+        "NewBase":  "11_ELIAS_MARR.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Helen_Margaret_Ashcroft.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\12_HELEN_MARGARET_ASHCROFT.md",
+        "OldBase":  "Helen_Margaret_Ashcroft.md",
+        "NewBase":  "12_HELEN_MARGARET_ASHCROFT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Hester_Pinnock.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\13_HESTER_PINNOCK.md",
+        "OldBase":  "Hester_Pinnock.md",
+        "NewBase":  "13_HESTER_PINNOCK.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Isaac_Faulds.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\14_ISAAC_FAULDS.md",
+        "OldBase":  "Isaac_Faulds.md",
+        "NewBase":  "14_ISAAC_FAULDS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Leon_Ashcroft.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\15_LEON_ASHCROFT.md",
+        "OldBase":  "Leon_Ashcroft.md",
+        "NewBase":  "15_LEON_ASHCROFT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Librarian.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\16_LIBRARIAN.md",
+        "OldBase":  "Librarian.md",
+        "NewBase":  "16_LIBRARIAN.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Margaret_Whitmore.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\17_MARGARET_WHITMORE.md",
+        "OldBase":  "Margaret_Whitmore.md",
+        "NewBase":  "17_MARGARET_WHITMORE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Military_Teacher.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\18_MILITARY_TEACHER.md",
+        "OldBase":  "Military_Teacher.md",
+        "NewBase":  "18_MILITARY_TEACHER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Nathaniel_Graves.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\19_NATHANIEL_GRAVES.md",
+        "OldBase":  "Nathaniel_Graves.md",
+        "NewBase":  "19_NATHANIEL_GRAVES.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Owen_Trant.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\20_OWEN_TRANT.md",
+        "OldBase":  "Owen_Trant.md",
+        "NewBase":  "20_OWEN_TRANT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Physician.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\21_PHYSICIAN.md",
+        "OldBase":  "Physician.md",
+        "NewBase":  "21_PHYSICIAN.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Reuben_Orme.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\22_REUBEN_ORME.md",
+        "OldBase":  "Reuben_Orme.md",
+        "NewBase":  "22_REUBEN_ORME.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Silas_Crowe.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\23_SILAS_CROWE.md",
+        "OldBase":  "Silas_Crowe.md",
+        "NewBase":  "23_SILAS_CROWE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Thomas_Finch.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\24_THOMAS_FINCH.md",
+        "OldBase":  "Thomas_Finch.md",
+        "NewBase":  "24_THOMAS_FINCH.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Thomas_Vale.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\25_THOMAS_VALE.md",
+        "OldBase":  "Thomas_Vale.md",
+        "NewBase":  "25_THOMAS_VALE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Thomas_Wren.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\26_THOMAS_WREN.md",
+        "OldBase":  "Thomas_Wren.md",
+        "NewBase":  "26_THOMAS_WREN.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Vicar.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\27_VICAR.md",
+        "OldBase":  "Vicar.md",
+        "NewBase":  "27_VICAR.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Walter_Denby.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\28_WALTER_DENBY.md",
+        "OldBase":  "Walter_Denby.md",
+        "NewBase":  "28_WALTER_DENBY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Ysabel_Nott.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\29_YSABEL_NOTT.md",
+        "OldBase":  "Ysabel_Nott.md",
+        "NewBase":  "29_YSABEL_NOTT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\05_SOCIAL\\City_Activity.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\05_SOCIAL\\01_CITY_ACTIVITY.md",
+        "OldBase":  "City_Activity.md",
+        "NewBase":  "01_CITY_ACTIVITY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\05_SOCIAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\05_SOCIAL\\Daily_Life.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\05_SOCIAL\\02_DAILY_LIFE.md",
+        "OldBase":  "Daily_Life.md",
+        "NewBase":  "02_DAILY_LIFE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\05_SOCIAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\05_SOCIAL\\Local_Culture.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\05_SOCIAL\\03_LOCAL_CULTURE.md",
+        "OldBase":  "Local_Culture.md",
+        "NewBase":  "03_LOCAL_CULTURE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\05_SOCIAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\06_HISTORY\\Ashford_History.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\06_HISTORY\\01_ASHFORD_HISTORY.md",
+        "OldBase":  "Ashford_History.md",
+        "NewBase":  "01_ASHFORD_HISTORY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\06_HISTORY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\06_HISTORY\\Industrial_History.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\06_HISTORY\\02_INDUSTRIAL_HISTORY.md",
+        "OldBase":  "Industrial_History.md",
+        "NewBase":  "02_INDUSTRIAL_HISTORY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\06_HISTORY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\06_HISTORY\\University_History.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\06_HISTORY\\03_UNIVERSITY_HISTORY.md",
+        "OldBase":  "University_History.md",
+        "NewBase":  "03_UNIVERSITY_HISTORY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\06_HISTORY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\ANOMALOUS_ELEMENTS_FRAMEWORK.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\01_ANOMALOUS_ELEMENTS_FRAMEWORK.md",
+        "OldBase":  "ANOMALOUS_ELEMENTS_FRAMEWORK.md",
+        "NewBase":  "01_ANOMALOUS_ELEMENTS_FRAMEWORK.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\ARC_BEHAVIOR_PATTERNS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\02_ARC_BEHAVIOR_PATTERNS.md",
+        "OldBase":  "ARC_BEHAVIOR_PATTERNS.md",
+        "NewBase":  "02_ARC_BEHAVIOR_PATTERNS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\ARC_CLASSIFICATION.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\03_ARC_CLASSIFICATION.md",
+        "OldBase":  "ARC_CLASSIFICATION.md",
+        "NewBase":  "03_ARC_CLASSIFICATION.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\ARC_CLASSIFICATION_SYSTEM.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\04_ARC_CLASSIFICATION_SYSTEM.md",
+        "OldBase":  "ARC_CLASSIFICATION_SYSTEM.md",
+        "NewBase":  "04_ARC_CLASSIFICATION_SYSTEM.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\ARC_HISTORY.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\05_ARC_HISTORY.md",
+        "OldBase":  "ARC_HISTORY.md",
+        "NewBase":  "05_ARC_HISTORY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\ARC_INDEX.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\06_ARC_INDEX.md",
+        "OldBase":  "ARC_INDEX.md",
+        "NewBase":  "06_ARC_INDEX.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\ARC_Master.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\07_ARC_MASTER.md",
+        "OldBase":  "ARC_Master.md",
+        "NewBase":  "07_ARC_MASTER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\ARC_RULES.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\08_ARC_RULES.md",
+        "OldBase":  "ARC_RULES.md",
+        "NewBase":  "08_ARC_RULES.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\ARC_SYNERGY.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\09_ARC_SYNERGY.md",
+        "OldBase":  "ARC_SYNERGY.md",
+        "NewBase":  "09_ARC_SYNERGY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\ARC_System.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\10_ARC_SYSTEM.md",
+        "OldBase":  "ARC_System.md",
+        "NewBase":  "10_ARC_SYSTEM.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\ARC_SYSTEM_MASTER_INSTRUCTION.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\11_ARC_SYSTEM_MASTER_INSTRUCTION.md",
+        "OldBase":  "ARC_SYSTEM_MASTER_INSTRUCTION.md",
+        "NewBase":  "11_ARC_SYSTEM_MASTER_INSTRUCTION.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Classification_Guide.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\12_CLASSIFICATION_GUIDE.md",
+        "OldBase":  "Classification_Guide.md",
+        "NewBase":  "12_CLASSIFICATION_GUIDE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\IMPLEMENTATION_SUMMARY.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\13_IMPLEMENTATION_SUMMARY.md",
+        "OldBase":  "IMPLEMENTATION_SUMMARY.md",
+        "NewBase":  "13_IMPLEMENTATION_SUMMARY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\README.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\14_README.md",
+        "OldBase":  "README.md",
+        "NewBase":  "14_README.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Underground_Network.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\15_UNDERGROUND_NETWORK.md",
+        "OldBase":  "Underground_Network.md",
+        "NewBase":  "15_UNDERGROUND_NETWORK.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Universal_Rules.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\16_UNIVERSAL_RULES.md",
+        "OldBase":  "Universal_Rules.md",
+        "NewBase":  "16_UNIVERSAL_RULES.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-001.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\01_ARC_001.md",
+        "OldBase":  "ARC-001.md",
+        "NewBase":  "01_ARC_001.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-002.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\02_ARC_002.md",
+        "OldBase":  "ARC-002.md",
+        "NewBase":  "02_ARC_002.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-003.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\03_ARC_003.md",
+        "OldBase":  "ARC-003.md",
+        "NewBase":  "03_ARC_003.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-004.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\04_ARC_004.md",
+        "OldBase":  "ARC-004.md",
+        "NewBase":  "04_ARC_004.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-005.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\05_ARC_005.md",
+        "OldBase":  "ARC-005.md",
+        "NewBase":  "05_ARC_005.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-006.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\06_ARC_006.md",
+        "OldBase":  "ARC-006.md",
+        "NewBase":  "06_ARC_006.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-007.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\07_ARC_007.md",
+        "OldBase":  "ARC-007.md",
+        "NewBase":  "07_ARC_007.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-008.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\08_ARC_008.md",
+        "OldBase":  "ARC-008.md",
+        "NewBase":  "08_ARC_008.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-009.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\09_ARC_009.md",
+        "OldBase":  "ARC-009.md",
+        "NewBase":  "09_ARC_009.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-010.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\10_ARC_010.md",
+        "OldBase":  "ARC-010.md",
+        "NewBase":  "10_ARC_010.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-011.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\11_ARC_011.md",
+        "OldBase":  "ARC-011.md",
+        "NewBase":  "11_ARC_011.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-012.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\12_ARC_012.md",
+        "OldBase":  "ARC-012.md",
+        "NewBase":  "12_ARC_012.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-013.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\13_ARC_013.md",
+        "OldBase":  "ARC-013.md",
+        "NewBase":  "13_ARC_013.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-014.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\14_ARC_014.md",
+        "OldBase":  "ARC-014.md",
+        "NewBase":  "14_ARC_014.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-015.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\15_ARC_015.md",
+        "OldBase":  "ARC-015.md",
+        "NewBase":  "15_ARC_015.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-016.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\16_ARC_016.md",
+        "OldBase":  "ARC-016.md",
+        "NewBase":  "16_ARC_016.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-017.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\17_ARC_017.md",
+        "OldBase":  "ARC-017.md",
+        "NewBase":  "17_ARC_017.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-018.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\18_ARC_018.md",
+        "OldBase":  "ARC-018.md",
+        "NewBase":  "18_ARC_018.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-019.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\19_ARC_019.md",
+        "OldBase":  "ARC-019.md",
+        "NewBase":  "19_ARC_019.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\ARC-020.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases\\20_ARC_020.md",
+        "OldBase":  "ARC-020.md",
+        "NewBase":  "20_ARC_020.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Cases"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Draft\\ARC-008_The_Returning_Coin.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Draft\\01_ARC_008_THE_RETURNING_COIN.md",
+        "OldBase":  "ARC-008_The_Returning_Coin.md",
+        "NewBase":  "01_ARC_008_THE_RETURNING_COIN.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Draft"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Draft\\ARC-013_The_Thirteenth_Key.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Draft\\02_ARC_013_THE_THIRTEENTH_KEY.md",
+        "OldBase":  "ARC-013_The_Thirteenth_Key.md",
+        "NewBase":  "02_ARC_013_THE_THIRTEENTH_KEY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Draft"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Draft\\ARC-021_The_Bellweather_Clock.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Draft\\03_ARC_021_THE_BELLWEATHER_CLOCK.md",
+        "OldBase":  "ARC-021_The_Bellweather_Clock.md",
+        "NewBase":  "03_ARC_021_THE_BELLWEATHER_CLOCK.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\07_ANOMALIES\\Draft"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\ANONYMOUS_TOKEN_NETWORK.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\01_ANONYMOUS_TOKEN_NETWORK.md",
+        "OldBase":  "ANONYMOUS_TOKEN_NETWORK.md",
+        "NewBase":  "01_ANONYMOUS_TOKEN_NETWORK.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\DOOR_GEAR_SYSTEM.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\02_DOOR_GEAR_SYSTEM.md",
+        "OldBase":  "DOOR_GEAR_SYSTEM.md",
+        "NewBase":  "02_DOOR_GEAR_SYSTEM.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\ESOTERIC_RECORD_CLASSIFICATION.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\03_ESOTERIC_RECORD_CLASSIFICATION.md",
+        "OldBase":  "ESOTERIC_RECORD_CLASSIFICATION.md",
+        "NewBase":  "03_ESOTERIC_RECORD_CLASSIFICATION.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\GEAR_COMPONENT_PROFILES.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\04_GEAR_COMPONENT_PROFILES.md",
+        "OldBase":  "GEAR_COMPONENT_PROFILES.md",
+        "NewBase":  "04_GEAR_COMPONENT_PROFILES.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\GEAR_EXPERIMENTATION_AND_RESONANCE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\05_GEAR_EXPERIMENTATION_AND_RESONANCE.md",
+        "OldBase":  "GEAR_EXPERIMENTATION_AND_RESONANCE.md",
+        "NewBase":  "05_GEAR_EXPERIMENTATION_AND_RESONANCE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\GEAR_STORY_ARCHITECTURE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\06_GEAR_STORY_ARCHITECTURE.md",
+        "OldBase":  "GEAR_STORY_ARCHITECTURE.md",
+        "NewBase":  "06_GEAR_STORY_ARCHITECTURE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\MASTER_GEAR_BLUEPRINT.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\07_MASTER_GEAR_BLUEPRINT.md",
+        "OldBase":  "MASTER_GEAR_BLUEPRINT.md",
+        "NewBase":  "07_MASTER_GEAR_BLUEPRINT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\Order_of_Severence.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\08_ORDER_OF_SEVERENCE.md",
+        "OldBase":  "Order_of_Severence.md",
+        "NewBase":  "08_ORDER_OF_SEVERENCE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\ORGANIZATIONAL_AFFILIATION_LEDGER.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\09_ORGANIZATIONAL_AFFILIATION_LEDGER.md",
+        "OldBase":  "ORGANIZATIONAL_AFFILIATION_LEDGER.md",
+        "NewBase":  "09_ORGANIZATIONAL_AFFILIATION_LEDGER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\Secret_Organization.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\10_SECRET_ORGANIZATION.md",
+        "OldBase":  "Secret_Organization.md",
+        "NewBase":  "10_SECRET_ORGANIZATION.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\VALE_AFTERMATH_ARCHITECTURE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND\\11_VALE_AFTERMATH_ARCHITECTURE.md",
+        "OldBase":  "VALE_AFTERMATH_ARCHITECTURE.md",
+        "NewBase":  "11_VALE_AFTERMATH_ARCHITECTURE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\08_UNDERGROUND"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\ARC_Item_System_Leon.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\01_ARC_ITEM_SYSTEM_LEON.md",
+        "OldBase":  "ARC_Item_System_Leon.md",
+        "NewBase":  "01_ARC_ITEM_SYSTEM_LEON.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\Character_Knowledge.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\02_CHARACTER_KNOWLEDGE.md",
+        "OldBase":  "Character_Knowledge.md",
+        "NewBase":  "02_CHARACTER_KNOWLEDGE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\Clues.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\03_CLUES.md",
+        "OldBase":  "Clues.md",
+        "NewBase":  "03_CLUES.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\Confirmed_Reveals.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\04_CONFIRMED_REVEALS.md",
+        "OldBase":  "Confirmed_Reveals.md",
+        "NewBase":  "04_CONFIRMED_REVEALS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\Mystery_Master.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\05_MYSTERY_MASTER.md",
+        "OldBase":  "Mystery_Master.md",
+        "NewBase":  "05_MYSTERY_MASTER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\Open_Questions.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\06_OPEN_QUESTIONS.md",
+        "OldBase":  "Open_Questions.md",
+        "NewBase":  "06_OPEN_QUESTIONS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\The_Bellweather_Cycle.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY\\07_THE_BELLWEATHER_CYCLE.md",
+        "OldBase":  "The_Bellweather_Cycle.md",
+        "NewBase":  "07_THE_BELLWEATHER_CYCLE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\09_MYSTERY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\10_TIMELINE\\Ashford_Timeline.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\10_TIMELINE\\01_ASHFORD_TIMELINE.md",
+        "OldBase":  "Ashford_Timeline.md",
+        "NewBase":  "01_ASHFORD_TIMELINE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\10_TIMELINE"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\11_ATMOSPHERE\\Atmosphere_Guide.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\11_ATMOSPHERE\\01_ATMOSPHERE_GUIDE.md",
+        "OldBase":  "Atmosphere_Guide.md",
+        "NewBase":  "01_ATMOSPHERE_GUIDE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\11_ATMOSPHERE"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\11_ATMOSPHERE\\Seasonal_Calendar.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\11_ATMOSPHERE\\02_SEASONAL_CALENDAR.md",
+        "OldBase":  "Seasonal_Calendar.md",
+        "NewBase":  "02_SEASONAL_CALENDAR.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\11_ATMOSPHERE"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\12_NOVEL\\Pembroke_Clarke_Letter.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\12_NOVEL\\01_PEMBROKE_CLARKE_LETTER.md",
+        "OldBase":  "Pembroke_Clarke_Letter.md",
+        "NewBase":  "01_PEMBROKE_CLARKE_LETTER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\12_NOVEL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\13_REFERENCE\\Ideas_Not_Canon.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\13_REFERENCE\\01_IDEAS_NOT_CANON.md",
+        "OldBase":  "Ideas_Not_Canon.md",
+        "NewBase":  "01_IDEAS_NOT_CANON.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\13_REFERENCE"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\13_REFERENCE\\Supernatural_System.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\13_REFERENCE\\02_SUPERNATURAL_SYSTEM.md",
+        "OldBase":  "Supernatural_System.md",
+        "NewBase":  "02_SUPERNATURAL_SYSTEM.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\13_REFERENCE"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON\\01_CANON_EARLY_LATE_RETURN.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON\\01_CANON_EARLY_LATE_RETURN.md",
+        "OldBase":  "01_CANON_EARLY_LATE_RETURN.md",
+        "NewBase":  "01_CANON_EARLY_LATE_RETURN.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON\\02_CANON_LEON_PRE_ASHFORD.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON\\02_CANON_LEON_PRE_ASHFORD.md",
+        "OldBase":  "02_CANON_LEON_PRE_ASHFORD.md",
+        "NewBase":  "02_CANON_LEON_PRE_ASHFORD.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON\\03_CANON_RULES.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON\\03_CANON_RULES.md",
+        "OldBase":  "03_CANON_RULES.md",
+        "NewBase":  "03_CANON_RULES.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON\\04_CHAPTER_CONTINUITY.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON\\04_CHAPTER_CONTINUITY.md",
+        "OldBase":  "04_CHAPTER_CONTINUITY.md",
+        "NewBase":  "04_CHAPTER_CONTINUITY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON\\05_CHAPTER_DATE_STANDARD.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON\\05_CHAPTER_DATE_STANDARD.md",
+        "OldBase":  "05_CHAPTER_DATE_STANDARD.md",
+        "NewBase":  "05_CHAPTER_DATE_STANDARD.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\14_CANON"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA\\05_AUDIT_HISTORY.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA\\01_AUDIT_HISTORY.md",
+        "OldBase":  "05_AUDIT_HISTORY.md",
+        "NewBase":  "01_AUDIT_HISTORY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA\\01_CANON_BASELINE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA\\02_CANON_BASELINE.md",
+        "OldBase":  "01_CANON_BASELINE.md",
+        "NewBase":  "02_CANON_BASELINE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA\\03_CONTINUITY_LEDGER.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA\\03_CONTINUITY_LEDGER.md",
+        "OldBase":  "03_CONTINUITY_LEDGER.md",
+        "NewBase":  "03_CONTINUITY_LEDGER.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA\\04_MYSTERY_ARCHITECTURE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA\\04_MYSTERY_ARCHITECTURE.md",
+        "OldBase":  "04_MYSTERY_ARCHITECTURE.md",
+        "NewBase":  "04_MYSTERY_ARCHITECTURE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA\\02_STORY_STRUCTURE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA\\05_STORY_STRUCTURE.md",
+        "OldBase":  "02_STORY_STRUCTURE.md",
+        "NewBase":  "05_STORY_STRUCTURE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\15_METADATA"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\01_CRIMINAL_UNDERWORLD.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\01_CRIMINAL_UNDERWORLD.md",
+        "OldBase":  "01_CRIMINAL_UNDERWORLD.md",
+        "NewBase":  "01_CRIMINAL_UNDERWORLD.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\02_ECONOMIC_CONDITIONS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\02_ECONOMIC_CONDITIONS.md",
+        "OldBase":  "02_ECONOMIC_CONDITIONS.md",
+        "NewBase":  "02_ECONOMIC_CONDITIONS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\03_GOVERNMENT_BIBLE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\03_GOVERNMENT_BIBLE.md",
+        "OldBase":  "03_GOVERNMENT_BIBLE.md",
+        "NewBase":  "03_GOVERNMENT_BIBLE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\04_GOVERNMENT_CHARACTERS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\04_GOVERNMENT_CHARACTERS.md",
+        "OldBase":  "04_GOVERNMENT_CHARACTERS.md",
+        "NewBase":  "04_GOVERNMENT_CHARACTERS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\05_HISTORICAL_CORRESPONDENCE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\05_HISTORICAL_CORRESPONDENCE.md",
+        "OldBase":  "05_HISTORICAL_CORRESPONDENCE.md",
+        "NewBase":  "05_HISTORICAL_CORRESPONDENCE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\06_INTEGRATION_MATRIX.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\06_INTEGRATION_MATRIX.md",
+        "OldBase":  "06_INTEGRATION_MATRIX.md",
+        "NewBase":  "06_INTEGRATION_MATRIX.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\07_INTELLIGENCE_NETWORK.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\07_INTELLIGENCE_NETWORK.md",
+        "OldBase":  "07_INTELLIGENCE_NETWORK.md",
+        "NewBase":  "07_INTELLIGENCE_NETWORK.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\08_NEWSPAPER_SYSTEM.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\08_NEWSPAPER_SYSTEM.md",
+        "OldBase":  "08_NEWSPAPER_SYSTEM.md",
+        "NewBase":  "08_NEWSPAPER_SYSTEM.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\09_POLITICAL_FACTIONS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\09_POLITICAL_FACTIONS.md",
+        "OldBase":  "09_POLITICAL_FACTIONS.md",
+        "NewBase":  "09_POLITICAL_FACTIONS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\10_POLITICAL_POWER_MAP.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\10_POLITICAL_POWER_MAP.md",
+        "OldBase":  "10_POLITICAL_POWER_MAP.md",
+        "NewBase":  "10_POLITICAL_POWER_MAP.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\11_POLITICAL_TIMELINE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT\\11_POLITICAL_TIMELINE.md",
+        "OldBase":  "11_POLITICAL_TIMELINE.md",
+        "NewBase":  "11_POLITICAL_TIMELINE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\16_GOVERNMENT"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\03_ACADEMIC.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\01_ACADEMIC.md",
+        "OldBase":  "03_ACADEMIC.md",
+        "NewBase":  "01_ACADEMIC.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\07_ARISTOCRATIC.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\02_ARISTOCRATIC.md",
+        "OldBase":  "07_ARISTOCRATIC.md",
+        "NewBase":  "02_ARISTOCRATIC.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\05_CRIMINAL.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\03_CRIMINAL.md",
+        "OldBase":  "05_CRIMINAL.md",
+        "NewBase":  "03_CRIMINAL.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\11_FACTIONS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\04_FACTIONS.md",
+        "OldBase":  "11_FACTIONS.md",
+        "NewBase":  "04_FACTIONS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\02_GOVERNMENT.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\05_GOVERNMENT.md",
+        "OldBase":  "02_GOVERNMENT.md",
+        "NewBase":  "05_GOVERNMENT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\10_HISTORICAL.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\06_HISTORICAL.md",
+        "OldBase":  "10_HISTORICAL.md",
+        "NewBase":  "06_HISTORICAL.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\08_MILITARY.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\07_MILITARY.md",
+        "OldBase":  "08_MILITARY.md",
+        "NewBase":  "07_MILITARY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\04_OCCULT.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\08_OCCULT.md",
+        "OldBase":  "04_OCCULT.md",
+        "NewBase":  "08_OCCULT.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\01_RELIGIOUS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\09_RELIGIOUS.md",
+        "OldBase":  "01_RELIGIOUS.md",
+        "NewBase":  "09_RELIGIOUS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\06_SOCIAL.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\10_SOCIAL.md",
+        "OldBase":  "06_SOCIAL.md",
+        "NewBase":  "10_SOCIAL.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\09_UNDERGROUND.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\11_UNDERGROUND.md",
+        "OldBase":  "09_UNDERGROUND.md",
+        "NewBase":  "11_UNDERGROUND.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\00_INDEX.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS\\00_INDEX.md",
+        "OldBase":  "00_INDEX.md",
+        "NewBase":  "00_INDEX.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\17_ORGANIZATIONS"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\09_CLERGY.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\01_CLERGY.md",
+        "OldBase":  "09_CLERGY.md",
+        "NewBase":  "01_CLERGY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\01_DOCTRINE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\02_DOCTRINE.md",
+        "OldBase":  "01_DOCTRINE.md",
+        "NewBase":  "02_DOCTRINE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\07_HERESIES.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\03_HERESIES.md",
+        "OldBase":  "07_HERESIES.md",
+        "NewBase":  "03_HERESIES.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\11_OCCULT_THEOLOGY.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\04_OCCULT_THEOLOGY.md",
+        "OldBase":  "11_OCCULT_THEOLOGY.md",
+        "NewBase":  "04_OCCULT_THEOLOGY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\10_RELIGIOUS_HISTORY.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\05_RELIGIOUS_HISTORY.md",
+        "OldBase":  "10_RELIGIOUS_HISTORY.md",
+        "NewBase":  "05_RELIGIOUS_HISTORY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\04_RITUALS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\06_RITUALS.md",
+        "OldBase":  "04_RITUALS.md",
+        "NewBase":  "06_RITUALS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\05_SAINTS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\07_SAINTS.md",
+        "OldBase":  "05_SAINTS.md",
+        "NewBase":  "07_SAINTS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\08_SCHISMS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\08_SCHISMS.md",
+        "OldBase":  "08_SCHISMS.md",
+        "NewBase":  "08_SCHISMS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\02_SCRIPTURE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\09_SCRIPTURE.md",
+        "OldBase":  "02_SCRIPTURE.md",
+        "NewBase":  "09_SCRIPTURE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\06_SYMBOLS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\10_SYMBOLS.md",
+        "OldBase":  "06_SYMBOLS.md",
+        "NewBase":  "10_SYMBOLS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\03_THEOLOGY.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\11_THEOLOGY.md",
+        "OldBase":  "03_THEOLOGY.md",
+        "NewBase":  "11_THEOLOGY.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\00_INDEX.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY\\00_INDEX.md",
+        "OldBase":  "00_INDEX.md",
+        "NewBase":  "00_INDEX.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\18_RELIGION_THEOLOGY"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\12_ABILITY_ARCHITECTURE.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\01_ABILITY_ARCHITECTURE.md",
+        "OldBase":  "12_ABILITY_ARCHITECTURE.md",
+        "NewBase":  "01_ABILITY_ARCHITECTURE.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\05_ARTIFACTS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\02_ARTIFACTS.md",
+        "OldBase":  "05_ARTIFACTS.md",
+        "NewBase":  "02_ARTIFACTS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\10_CORRUPTION.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\03_CORRUPTION.md",
+        "OldBase":  "10_CORRUPTION.md",
+        "NewBase":  "03_CORRUPTION.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\08_DEATH.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\04_DEATH.md",
+        "OldBase":  "08_DEATH.md",
+        "NewBase":  "04_DEATH.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\09_DREAMS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\05_DREAMS.md",
+        "OldBase":  "09_DREAMS.md",
+        "NewBase":  "05_DREAMS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\04_ENTITIES.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\06_ENTITIES.md",
+        "OldBase":  "04_ENTITIES.md",
+        "NewBase":  "06_ENTITIES.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\03_LIMITATIONS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\07_LIMITATIONS.md",
+        "OldBase":  "03_LIMITATIONS.md",
+        "NewBase":  "07_LIMITATIONS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\01_PRINCIPLES.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\08_PRINCIPLES.md",
+        "OldBase":  "01_PRINCIPLES.md",
+        "NewBase":  "08_PRINCIPLES.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\06_RITUALS.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\09_RITUALS.md",
+        "OldBase":  "06_RITUALS.md",
+        "NewBase":  "09_RITUALS.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\02_RULES.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\10_RULES.md",
+        "OldBase":  "02_RULES.md",
+        "NewBase":  "10_RULES.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\07_SOUL.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\11_SOUL.md",
+        "OldBase":  "07_SOUL.md",
+        "NewBase":  "11_SOUL.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\11_UNKNOWN.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\12_UNKNOWN.md",
+        "OldBase":  "11_UNKNOWN.md",
+        "NewBase":  "12_UNKNOWN.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL"
+    },
+    {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\00_INDEX.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL\\00_INDEX.md",
+        "OldBase":  "00_INDEX.md",
+        "NewBase":  "00_INDEX.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\19_SUPERNATURAL"
+    }
+]

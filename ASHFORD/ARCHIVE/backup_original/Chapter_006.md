@@ -1,4 +1,4 @@
-Chapter 6 — Nama yang Salah
+﻿Chapter 6 — Nama yang Salah
 Aku tidak langsung pulang setelah menemukan amplop itu.
 Aku berjalan sampai ujung jalan, lalu berhenti di depan toko kecil yang menjual koran dan kebutuhan sehari-hari.
 Toko itu sudah buka sejak pagi. Rak di bagian depan dipenuhi koran lokal dan nasional, sementara di dalamnya terdapat kebutuhan sehari-hari—susu, roti, makanan kaleng, minuman, baterai, kartu telepon, dan beberapa barang kecil yang mudah dibeli tanpa harus pergi ke supermarket di luar pusat kota. Tempat seperti ini membuat Bellweather Lane terasa seperti lingkungan yang benar-benar dihuni, bukan sekadar deretan rumah tua.
@@ -245,7 +245,7 @@ Orang-orang menyeberang jalan.
 Seorang pekerja membawa kotak dari sebuah toko menuju van yang diparkir di tepi jalan.
 Dari kejauhan terdengar suara bel sepeda.
 Kafe tetap ramai.
-Ashford tetap terlihat seperti kota biasa.
+Alderwick tetap terlihat seperti kota biasa.
 Dan mungkin memang masih biasa.
 Hanya saja, sekarang aku mulai menyadari bahwa kehidupan sebuah kota kecil memiliki lapisan lain yang tidak selalu terlihat dari jalan.
 Alamat berpindah.

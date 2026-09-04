@@ -1,4 +1,4 @@
-CHAPTER 49 — THE RENEWAL
+﻿CHAPTER 49 — THE RENEWAL
 
 The old constable was dying.
 
@@ -152,7 +152,7 @@ A bundle of letters tied with tape, the tape gone brown.
 
 Beneath them, a service journal — dark leather, the spine broken, the edges of the pages dirty from years of a coat pocket.
 
-A district map, not of Ashford. The kind of map a constabulary prints and does not sell. There were marks on it in ink, small and regular, in more than one shade, as though they had been added over a long stretch of years.
+A district map, not of Alderwick. The kind of map a constabulary prints and does not sell. There were marks on it in ink, small and regular, in more than one shade, as though they had been added over a long stretch of years.
 
 Two small bottles, stoppered, labelled in a hand I did not know.
 
@@ -792,7 +792,7 @@ It had been ordinary all night, in my hand, while the stone under it did somethi
 
 I turned it over in my hand.
 
-For the first time, I understood why the old constable had never tried to explain what lay beneath Ashford.
+For the first time, I understood why the old constable had never tried to explain what lay beneath Alderwick.
 
 Perhaps he hadn't known.
 

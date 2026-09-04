@@ -1,4 +1,4 @@
-﻿# ASHFORD — LIVING CANON & DYNAMIC TIMELINE SOP
+﻿# Alderwick — LIVING CANON & DYNAMIC TIMELINE SOP
 
 **Status:** FINAL GOVERNING DOCUMENT — AUTHOR-APPROVED
 **Effective:** 2026-08-29
@@ -81,15 +81,15 @@ A development should enter the narrative only when it is:
 
 ## 3. HISTORICAL EVENT OPPORTUNITY LAYER
 
-When planning an arc or major chapter, consider whether important real-world historical developments occurring during the current story period could affect Ashford.
+When planning an arc or major chapter, consider whether important real-world historical developments occurring during the current story period could affect Alderwick.
 
 Use this process:
 
-HISTORICAL EVENT → Is it geographically plausible for Ashford? → Could it affect Ashford directly or indirectly? → Could it affect a character, faction, institution, trade route, economy, politics, or society? → Could it create a meaningful narrative consequence? → YES → candidate story opportunity → NO → remain background historical context.
+HISTORICAL EVENT → Is it geographically plausible for Alderwick? → Could it affect Alderwick directly or indirectly? → Could it affect a character, faction, institution, trade route, economy, politics, or society? → Could it create a meaningful narrative consequence? → YES → candidate story opportunity → NO → remain background historical context.
 
 Do NOT force historical events into the story.
 
-Do NOT rewrite established Ashford canon merely to accommodate real history.
+Do NOT rewrite established Alderwick canon merely to accommodate real history.
 
 If external historical research is used, clearly distinguish:
 - established project canon,
@@ -109,7 +109,7 @@ Priority:
 
 **C. WORLD_BIBLE/** — locations, buildings, businesses, districts, history, society, geography, other relevant active world files.
 
-**D. ASHFORD_NARRATIVE_ENGINE/** — Read applicable generation and continuity rules. Pay particular attention to active 1816 START-ERA material and any later-period material.
+**D. Alderwick_NARRATIVE_ENGINE/** — Read applicable generation and continuity rules. Pay particular attention to active 1816 START-ERA material and any later-period material.
 
 **E. CHARACTERS/** — Read profiles for every participating character. Read relevant potential characters when planning introductions.
 
@@ -240,7 +240,7 @@ Example: a shop damaged during Chapter 20 cannot be casually described as comple
 
 ## 10. WORLD ECONOMY AND POLITICS
 
-Ashford must function as a society rather than merely a backdrop.
+Alderwick must function as a society rather than merely a backdrop.
 
 Allow gradual development of:
 - employment, trade, prices, shortages, wealth, poverty, debt, merchants, land ownership, local influence, taxation, political tensions, church influence, law enforcement, education, medicine, agriculture, surrounding communities, national/international pressures.
@@ -256,7 +256,7 @@ Do not introduce these systems through exposition dumps. Show them through conse
 The world may contain many organizations and factions. They must develop gradually.
 
 For each significant faction track:
-- objectives, ideology, leadership, members, resources, territory, influence, allies, enemies, internal conflicts, secrets, information, actions, reaction to Ashford events.
+- objectives, ideology, leadership, members, resources, territory, influence, allies, enemies, internal conflicts, secrets, information, actions, reaction to Alderwick events.
 
 Do NOT introduce every faction early.
 
@@ -323,12 +323,12 @@ The reader should understand Aurelius progressively. Never reveal information me
 
 ## 16. LEON'S PAST
 
-Leon's history before Ashford must be revealed gradually. Do not dump his backstory.
+Leon's history before Alderwick must be revealed gradually. Do not dump his backstory.
 
 Separate, and never automatically merge:
 WHAT LEON KNOWS / WHAT LEON SUSPECTS / WHAT THE READER KNOWS / WHAT THE AUTHOR KNOWS.
 
-(Standing restriction: the orphan/medallion/wooden-box/dream/date-trigger material remains CONFLICTED between `CANON_LEON_PRE_ASHFORD.md` and `CANON_EARLY_LATE_RETURN.md` until the author resolves it; the on-page dream in Chapter 1 is the only established element.)
+(Standing restriction: the orphan/medallion/wooden-box/dream/date-trigger material remains CONFLICTED between `CANON_LEON_PRE_Alderwick.md` and `CANON_EARLY_LATE_RETURN.md` until the author resolves it; the on-page dream in Chapter 1 is the only established element.)
 
 ## 17. TIME SKIPS
 

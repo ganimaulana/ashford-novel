@@ -1,18 +1,18 @@
-# Chapter 1 — A Town with a Story to Tell
+﻿# Chapter 1 — A Town with a Story to Tell
 
-The stagecoach from London entered Ashford just as the sky began to lose its twilight colour. A thin rain fell without let-up, freckling the window glass with droplets that broke the lantern light along the road into trembling yellow shadows.
+The stagecoach from London entered Alderwick just as the sky began to lose its twilight colour. A thin rain fell without let-up, freckling the window glass with droplets that broke the lantern light along the road into trembling yellow shadows.
 
 I lowered the book I had been reading. I had already forgotten its author's name, and for the umpteenth time it reminded me that I ought to begin writing down the important things before they slipped out of memory altogether.
 
 I was, by habit, in the practice of noting down the things that caught my interest. Not only the important things, but also the small details that might mean nothing to anyone else: a street name that sounded odd, an old building with unusual architecture, a snatch of conversation overheard by chance, or a first impression that arrived before it had time to change. Those notes were seldom of immediate use, but I liked the feeling that a thing was not wholly lost merely because time kept moving on.
 
-Beyond the glass, for the first time, I saw Ashford.
+Beyond the glass, for the first time, I saw Alderwick.
 
 From here the town did not look remarkable. There was nothing striking about it, no building that would make a stranger know at once that the place was worth remembering.
 
 Most of it looked ordinary: wet roofs, brick walls blackened by rain and age, oil lamps burning in front of a few buildings at irregular intervals.
 
-Yet there was something in the way the buildings stood huddled together — an old shop that seemed to lean against a newer structure, brick chimneys rising behind the rows of houses, a church tower cutting into the distant sky — that made Ashford feel far older than the face its town presented.
+Yet there was something in the way the buildings stood huddled together — an old shop that seemed to lean against a newer structure, brick chimneys rising behind the rows of houses, a church tower cutting into the distant sky — that made Alderwick feel far older than the face its town presented.
 
 A street sign hung high on the brick wall.
 
@@ -32,13 +32,13 @@ My journey had, after all, been scheduled to arrive about this time. I always li
 
 The coachman called out to someone outside.
 
-"Ashford! Last stop tonight!"
+"Alderwick! Last stop tonight!"
 
 I looked out again.
 
 The name of the town felt strangely familiar on my tongue, though I was certain I had never been here before.
 
-I closed my eyes a moment, trying to recall whether anything about Ashford was stored in my head.
+I closed my eyes a moment, trying to recall whether anything about Alderwick was stored in my head.
 
 There was nothing.
 
@@ -54,13 +54,13 @@ Neat.
 
 At least that was something of a comfort.
 
-I checked the last lines of the letter. It had come through the legal offices of Messrs. Pembroke & Clarke, solicitors of Lincoln's Inn, London, and although at first glance it had seemed to be a case of mistaken address — my name was indeed Ashcroft, but I had never heard of any family in Ashford — its contents had changed everything. By the time I finally gathered the courage to read it behind the stagecoach curtain, the enclosed documents had lodged themselves in my mind like a splinter I could not pull out.
+I checked the last lines of the letter. It had come through the legal offices of Messrs. Pembroke & Clarke, solicitors of Lincoln's Inn, London, and although at first glance it had seemed to be a case of mistaken address — my name was indeed Ashcroft, but I had never heard of any family in Alderwick — its contents had changed everything. By the time I finally gathered the courage to read it behind the stagecoach curtain, the enclosed documents had lodged themselves in my mind like a splinter I could not pull out.
 
-*A partial will issued in the name of Aurelius Ashcroft declares that one of his nearest heirs is entitled to a property situated in Bellweather Lane, Ashford, in accordance with the accompanying supplementary documents.*
+*A partial will issued in the name of Aurelius Ashcroft declares that one of his nearest heirs is entitled to a property situated in Bellweather Lane, Alderwick, in accordance with the accompanying supplementary documents.*
 
 *Mr. Leon Ashcroft is requested to present himself at the following address. The house has been prepared in accordance with the lawful inheritance, including the related documents enclosed herewith.*
 
-*Bellweather Lane, Ashford*
+*Bellweather Lane, Alderwick*
 
 No house number.
 
@@ -74,7 +74,7 @@ The cold air met me at once, carrying the smell of rain, wet earth, and somethin
 
 I took up my trunk and climbed down.
 
-The Ashford stop was not a grand building, but a low stone structure beside a large inn. A porter was ushering guests into a foyer bright with oil lamps, while the coachman and a boy moved the baggage into the luggage room.
+The Alderwick stop was not a grand building, but a low stone structure beside a large inn. A porter was ushering guests into a foyer bright with oil lamps, while the coachman and a boy moved the baggage into the luggage room.
 
 A porter hurried toward the row of old buildings across the platform, helping an old woman in a veil down from the next stagecoach.
 
@@ -93,7 +93,7 @@ The man looked at me.
 
 I smiled faintly, trying to ignore the odd feeling that had suddenly risen.
 
-"First time in Ashford is always like that."
+"First time in Alderwick is always like that."
 
 "Are you sure?"
 
@@ -218,7 +218,7 @@ Old and new stood side by side without truly joining.
 
 At the end of the road the young man turned through a small crossing toward Marlowe Road.
 
-For a moment I saw another part of Ashford.
+For a moment I saw another part of Alderwick.
 
 A grocer's shop with the sign HARRIS & SONS GROCERS still lit, though it seemed past its closing hour. Across from it stood a stagecoach stop with a schedule now wet and beginning to blur.
 
@@ -391,7 +391,7 @@ The hallway was papered with old floral wallpaper whose colours had faded. The a
 
 The wooden floor creaked beneath my step.
 
-An old wall clock ticked at the end of the corridor, its sound nearly drowned by the rain outside. I noticed, as I passed, that its hands were frozen at 00:00 — though it continued to tick, as if the mechanism had forgotten what time it was supposed to keep. I would later learn that the hour 00:00 was not an accident, but a threshold—one that Ashford had been counting toward longer than any record remembered.
+An old wall clock ticked at the end of the corridor, its sound nearly drowned by the rain outside. I noticed, as I passed, that its hands were frozen at 00:00 — though it continued to tick, as if the mechanism had forgotten what time it was supposed to keep. I would later learn that the hour 00:00 was not an accident, but a threshold—one that Alderwick had been counting toward longer than any record remembered.
 
 Helen took my trunk before I could refuse.
 
@@ -555,7 +555,7 @@ Helen had either gone to her room or gone out.
 
 I took up my pen and opened the notebook.
 
-ASHFORD — 12 NOVEMBER 1816
+Alderwick — 12 NOVEMBER 1816
 
 19:42 — arrived at the stop.
 
@@ -779,13 +779,13 @@ I passed the stagecoach stop.
 
 Its routes were written on the schedule board:
 
-LONDON — HIGH STREET — MARKET SQUARE — THE ACADEMY — NORTH ASHFORD
+LONDON — HIGH STREET — MARKET SQUARE — THE ACADEMY — NORTH Alderwick
 
 Near the stop, a man sat on a wooden bench.
 
 A large map lay open across his lap.
 
-The simple sight made me think about how Ashford worked. The town did not depend on the fastest news — it lived on human connection, on glances, on whispers in the corridors, on local knowledge passed from mouth to mouth.
+The simple sight made me think about how Alderwick worked. The town did not depend on the fastest news — it lived on human connection, on glances, on whispers in the corridors, on local knowledge passed from mouth to mouth.
 
 The road then widened.
 
@@ -807,7 +807,7 @@ A flower seller opened her canopy. A greengrocer lowered crates from an old cart
 
 I stopped a moment.
 
-Ashford had a living town centre.
+Alderwick had a living town centre.
 
 The place had been running long before I came.
 
@@ -870,7 +870,7 @@ Or had someone who should never have left come home?
 ## Continuity Notes (for development — not part of the narrative)
 
 **Leon's knowledge at the end of Chapter 1:**
-- Arrived in Ashford by stagecoach from London, settling on Bellweather Lane (a house without a number; only the street name).
+- Arrived in Alderwick by stagecoach from London, settling on Bellweather Lane (a house without a number; only the street name).
 - Received a letter from the solicitors Pembroke & Clarke (Lincoln's Inn) containing a partial will, an inventory of the estate, and a mysterious handwritten letter.
 - Found a recurring symbol: a circle + three lines + one dot (on the front door nameplate and the head of the room key).
 - Read the notice "Key found — please return to the house", November 1798 (18th century).

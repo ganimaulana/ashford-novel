@@ -1,4 +1,4 @@
-Chapter 13 — Jejak yang Tertinggal
+﻿Chapter 13 — Jejak yang Tertinggal
 Pagi itu aku bangun dengan satu pikiran yang masih tersisa dari malam sebelumnya.
 13.
 Bukan karena angka itu sendiri.
@@ -32,7 +32,7 @@ Di persimpangan, aku melewati toko roti kecil yang sudah mulai ramai. Aroma roti
 Aku tidak berhenti.
 Aku masih kenyang.
 Namun aku mencatat dalam pikiranku bahwa aku belum pernah masuk ke sana.
-Ashford memiliki terlalu banyak tempat kecil yang belum kukenal.
+Alderwick memiliki terlalu banyak tempat kecil yang belum kukenal.
 Semakin lama aku tinggal di sini, semakin aku menyadari bahwa mengenal sebuah kota bukan hanya mengetahui jalan utamanya.
 Kau harus tahu tempat orang membeli roti.
 Tempat mereka memperbaiki sepatu.
@@ -69,7 +69,7 @@ Dia mengangguk.
 Kemudian mulai mencari.
 
 Kami menemukan beberapa catatan.
-Thomas Wren memang pernah tinggal di Ashford.
+Thomas Wren memang pernah tinggal di Alderwick.
 Alamat lamanya tidak berada tepat di Bellweather Lane.
 Tetapi cukup dekat.
 Sebuah rumah di jalan yang sejajar dengan Bellweather Lane.
@@ -291,7 +291,7 @@ Dia melanjutkan:
 "Kalau seseorang datang sekali, mungkin aku lupa. Tapi kalau dia datang setiap minggu selama bertahun-tahun, namanya akan tersimpan."
 Aku mengangguk.
 Itu masuk akal.
-Di kota seperti Ashford, kebiasaan menciptakan ingatan.
+Di kota seperti Alderwick, kebiasaan menciptakan ingatan.
 Seseorang tidak perlu menjadi terkenal untuk dikenal.
 Cukup datang ke tempat yang sama.
 Membeli hal yang sama.
@@ -306,7 +306,7 @@ Thomas Wren — tinggal dekat Bellweather Lane.
 1978 — properti berpindah kepada Margaret Wren.
 1991 — properti dijual.
 Kemudian:
-Margaret Wren mungkin pernah dikenal di Ashford. Belum terkonfirmasi.
+Margaret Wren mungkin pernah dikenal di Alderwick. Belum terkonfirmasi.
 Aku berhenti.
 Aku melihat catatan lain.
 Wall clock — Edwin → Thomas Wren → private transfer.

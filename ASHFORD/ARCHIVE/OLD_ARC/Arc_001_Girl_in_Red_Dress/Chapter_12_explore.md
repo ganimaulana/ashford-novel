@@ -1,10 +1,10 @@
-# Chapter 12 — Beneath the Station
+﻿# Chapter 12 — Beneath the Station
 
-Ashford, 27 November 2006
+Alderwick, 27 November 2006
 
 Aku meninggalkan perpustakaan dengan informasi baru.
 
-Stasiun Ashford dibangun di atas bekas St. Michael's Chapel.
+Stasiun Alderwick dibangun di atas bekas St. Michael's Chapel.
 
 Kapel dengan kuburan.
 
@@ -243,7 +243,7 @@ Dia menatapku dengan tatapan yang dalam.
 
 Aku mengangguk.
 
-"Di Stasiun Ashford. Di ruang tunggu pribadi."
+"Di Stasiun Alderwick. Di ruang tunggu pribadi."
 
 Father Michael menghela napas panjang.
 

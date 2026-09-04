@@ -1,8 +1,8 @@
-# Chapter 25 — The Rate and the Name
+﻿# Chapter 25 — The Rate and the Name
 
 The Monday brought the town to its winter business, because the rate was to be asked, and a town that asks a rate is a town that has gathered itself into one room, and I went about my day with that knowledge in my pocket, and did my part of it at the desk and at the window, and let the asking go forward without me.
 
-The poor-rate is asked in Ashford at the vestry, because the vestry is the room the parish does its sums in, and the sums are done in December, because the winter makes the poor, and the making of them wants a paper; and the asking had been spoken of since the first of the month, and it had been spoken of the way the town speaks of a thing it has agreed to meet, and I had heard it at the pump and at Margaret's and at the door of Crane's, and I knew it would come, and did not know it would come that day.
+The poor-rate is asked in Alderwick at the vestry, because the vestry is the room the parish does its sums in, and the sums are done in December, because the winter makes the poor, and the making of them wants a paper; and the asking had been spoken of since the first of the month, and it had been spoken of the way the town speaks of a thing it has agreed to meet, and I had heard it at the pump and at Margaret's and at the door of Crane's, and I knew it would come, and did not know it would come that day.
 
 It came in the afternoon, and it came with a name in it.
 

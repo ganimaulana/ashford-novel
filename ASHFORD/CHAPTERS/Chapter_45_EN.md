@@ -1,8 +1,8 @@
-CHAPTER 45 — A SECOND COPY
+﻿CHAPTER 45 — A SECOND COPY
 
 The Order gave me an assignment in the second week of April and I did it badly.
 
-Not the work. The work was simple — I was to establish whether a man named Pell had been in Ashford on a particular night in February, and he had not, and I established it in two days from the ledger of the coaching inn and the memory of a stableman.
+Not the work. The work was simple — I was to establish whether a man named Pell had been in Alderwick on a particular night in February, and he had not, and I established it in two days from the ledger of the coaching inn and the memory of a stableman.
 
 What I did badly was the report.
 
@@ -42,7 +42,7 @@ When I had finished he was quiet.
 
 "You could have written it twice. In the same sitting, in the same ink, with the same wording, and put the second one where nobody would think to look for it. Not hidden. Filed. Hidden things are found by people looking for hidden things. Ordinary things are not looked at."
 
-"That sounds like a great deal of trouble for a report about a man who was not in Ashford."
+"That sounds like a great deal of trouble for a report about a man who was not in Alderwick."
 
 "It is a great deal of trouble," he said. "It is also the difference between having done a thing and being able to prove you did it."
 
@@ -52,7 +52,7 @@ He said it flatly. Not as advice. As a measurement, the way he had said *that is
 
 That was the afternoon he taught me to read a map, though he would not have called it teaching.
 
-He sent me to the press for a roll of paper and I brought back four, and he spread out the second one — a district map, not of Ashford, the linen backing gone soft at the folds.
+He sent me to the press for a roll of paper and I brought back four, and he spread out the second one — a district map, not of Alderwick, the linen backing gone soft at the folds.
 
 "Where is the church," he said.
 
@@ -128,7 +128,7 @@ It had been a comment on me.
 
 ---
 
-I asked him once that spring what he had done before Ashford.
+I asked him once that spring what he had done before Alderwick.
 
 "I was a constable."
 

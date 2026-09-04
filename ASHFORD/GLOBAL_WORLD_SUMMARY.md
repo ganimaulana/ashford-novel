@@ -1,28 +1,28 @@
-﻿# ASHFORD — GLOBAL WORLD SUMMARY
+﻿# Alderwick — GLOBAL WORLD SUMMARY
 
 **Status:** READ-ONLY SYNTHESIS
 **Date:** 2026-08-29
-**Scope:** Complete active ASHFORD project
+**Scope:** Complete active Alderwick project
 **Purpose:** High-level comprehensive synthesis of the entire active world for Arc/10_TIMELINE/Chapter planning
 
 ---
 
 ## 1. Core Premise
 
-Leon Ashcroft arrives in the small English market town of Ashford on 12 November 1816, carrying a letter from London solicitors Pembroke & Clarke that references a name he does not recognize: Aurelius Ashcroft. The letter concerns property at Bellweather Lane. What begins as a mistaken-address assumption unravels into a layered mystery involving an empty house that appears on no current map, a recurring symbol, a housekeeper who knows more than she says, a town that feels familiar despite Leon never having visited, and a secret organization whose existence has shaped Ashford for generations. The story is a slow-burn, evidence-driven mystery grounded in Regency-era England, where investigation is physical, information travels at the speed of the Royal Mail, and the supernatural remains ambiguous until the mid-to-late narrative.
+Leon Ashcroft arrives in the small English market town of Alderwick on 12 November 1816, carrying a letter from London solicitors Pembroke & Clarke that references a name he does not recognize: Aurelius Ashcroft. The letter concerns property at Bellweather Lane. What begins as a mistaken-address assumption unravels into a layered mystery involving an empty house that appears on no current map, a recurring symbol, a housekeeper who knows more than she says, a town that feels familiar despite Leon never having visited, and a secret organization whose existence has shaped Alderwick for generations. The story is a slow-burn, evidence-driven mystery grounded in Regency-era England, where investigation is physical, information travels at the speed of the Royal Mail, and the supernatural remains ambiguous until the mid-to-late narrative.
 
 **Core Mystery Catalyst:** The Pembroke & Clarke letter — the ONE document that starts everything. It replaces the earlier "three envelopes" concept.
 
 [CANON CONFLICT — SETTING YEAR]: Active files describe TWO mutually exclusive settings. The dominant active canon chapters (001–008) are written in **1816 Regency England**. However, large portions of `WORLD\` (BUILDINGS extractions, BUSINESSES, SOCIAL, GEOGRAPHY, HISTORY, DISTRICTS, ARCHITECTURE guidance) describe a **2006 contemporary English town** with specific 2006 technology, culture, and events. These cannot coexist. The 1816 setting is the authoritative narrative frame; the 2006 material is deprecated legacy unless explicitly updated.
 
-[CANON CONFLICT — LEON PRE-ASHFORD]: `CANON_LEON_PRE_ASHFORD.md` (APPROVED CANON, Priority HIGH) establishes: Leon is an **orphan**, left a **wooden box** containing a **medallion** bearing the circle+3-lines+1-dot symbol, with **recurring childhood dreams** and a **date-trigger mechanism**. `CANON_EARLY_LATE_RETURN.md` (dated one day later, DEVELOPMENT-ONLY CANON) explicitly forbids ALL of these as unestablished. These documents directly contradict and cannot both be authoritative.
+[CANON CONFLICT — LEON PRE-Alderwick]: `CANON_LEON_PRE_Alderwick.md` (APPROVED CANON, Priority HIGH) establishes: Leon is an **orphan**, left a **wooden box** containing a **medallion** bearing the circle+3-lines+1-dot symbol, with **recurring childhood dreams** and a **date-trigger mechanism**. `CANON_EARLY_LATE_RETURN.md` (dated one day later, DEVELOPMENT-ONLY CANON) explicitly forbids ALL of these as unestablished. These documents directly contradict and cannot both be authoritative.
 
 ---
 
 ## 2. Setting
 
 **Primary Setting (Canon Narrative):**
-Ashford, a small English market town in **1816 Regency England**, post-Napoleonic Wars. Population approximately 3,000–5,000. River valley town (Great Stour). Not a university city; not a metropolitan center; not a mountain town; not directly coastal.
+Alderwick, a small English market town in **1816 Regency England**, post-Napoleonic Wars. Population approximately 3,000–5,000. River valley town (Great Stour). Not a university city; not a metropolitan center; not a mountain town; not directly coastal.
 
 **Nearest Geographic References:**
 - Greyhaven: fishing port, 30–40km east/southeast
@@ -30,15 +30,15 @@ Ashford, a small English market town in **1816 Regency England**, post-Napoleoni
 - North Downs: 5–10km north
 
 **Secondary Setting (Deprecated Legacy):**
-A 2006 contemporary version of Ashford exists in planning files, describing modern technology and contemporary social patterns. This material is **DEPRECATED — DO NOT USE** for narrative generation unless explicitly updated to 1816.
+A 2006 contemporary version of Alderwick exists in planning files, describing modern technology and contemporary social patterns. This material is **DEPRECATED — DO NOT USE** for narrative generation unless explicitly updated to 1816.
 
 ---
 
-## 3. Ashford Overview
+## 3. Alderwick Overview
 
-Ashford is a "living old city" where 70–80% of buildings are old, layered through Medieval, Tudor, Georgian, Victorian, Edwardian, 20th-century, and modern periods. It is quiet but not dead, normal but layered with history. The town has seven districts, a river running through it, a market square at its heart, an academy/grammar school, a subscription library, several churches, and an old industrial quarter. Fog is thickest in the river valley, often clear on higher ground to the north.
+Alderwick is a "living old city" where 70–80% of buildings are old, layered through Medieval, Tudor, Georgian, Victorian, Edwardian, 20th-century, and modern periods. It is quiet but not dead, normal but layered with history. The town has seven districts, a river running through it, a market square at its heart, an academy/grammar school, a subscription library, several churches, and an old industrial quarter. Fog is thickest in the river valley, often clear on higher ground to the north.
 
-[CANON CONFLICT — ARTHUR'S SHOP]: `Canon_Rules.md` RESOLVED-001 establishes Arthur's shop as "Bell's Books" (a bookshop, not antiquarian). `Ashford_Districts.md` lists "Arthur's Antiquarian Shop." `WORLD\Buildings.md` (1816) splits Arthur into two shops. Inconsistent terminology.
+[CANON CONFLICT — ARTHUR'S SHOP]: `Canon_Rules.md` RESOLVED-001 establishes Arthur's shop as "Bell's Books" (a bookshop, not antiquarian). `Alderwick_Districts.md` lists "Arthur's Antiquarian Shop." `WORLD\Buildings.md` (1816) splits Arthur into two shops. Inconsistent terminology.
 
 [CANON CONFLICT — MARGARET'S SURNAME]: `Character_Registry.md` marks Margaret as PROPOSED with provisional surname "Whitmore." `WORLD_BIBLE/04_CHARACTERS/characters/Margaret_Whitmore.md` and chapter extractions confirm "Margaret Eleanor Whitmore" as CANON.
 
@@ -49,9 +49,9 @@ Ashford is a "living old city" where 70–80% of buildings are old, layered thro
 **Physical Layout:**
 - River valley settlement on the Great Stour (10–20m wide)
 - Secondary river: East Stour (tributary, 5–10m wide)
-- Standing water: Ashford Lake/Reservoir (SW, 3–5km, 50–100 hectares)
+- Standing water: Alderwick Lake/Reservoir (SW, 3–5km, 50–100 hectares)
 - Major woodland: Hollow Wood (WSW, 3–6km, ancient mixed deciduous)
-- Four elevation zones: River Valley (15–25m) → Rising Ground (40–70m) → Ashford Heights (80–120m) → North Downs Ridge (150–180m)
+- Four elevation zones: River Valley (15–25m) → Rising Ground (40–70m) → Alderwick Heights (80–120m) → North Downs Ridge (150–180m)
 
 **Climate:** Temperate maritime, cold and damp, frequent fog autumn/winter, snow rare. Fog is elevation-dependent; cold air drainage creates atmospheric variation.
 
@@ -72,11 +72,11 @@ Ashford is a "living old city" where 70–80% of buildings are old, layered thro
 |----------|----------|--------|-----------|
 | **Bellweather House** | Bellweather District | WORKING CANON | End of Bellweather Lane; appears empty; no clear house number; recorded 1791; "removed from active list"; tied to Aurelius, Thomas Wren |
 | **No. 13 Bellweather Lane** | Bellweather District | CANON | Leon's inherited residence; modest, slightly neglected; traces of older number plate beneath current "13"; locked door beneath stairs |
-| **Margaret's Tearoom** | Market Square | CANON | 6–7 tables; community hub; social center of Ashford |
+| **Margaret's Tearoom** | Market Square | CANON | 6–7 tables; community hub; social center of Alderwick |
 | **Bell's Books** | High Street / lane behind Market Square | CANON | Arthur Edmund Bell's bookshop; old books, rare editions, local history; book here contained the symbol; private collection upstairs |
-| **Ashford Library** | Market Square | WORKING CANON | Grey stone, tall windows, wide stairs; former town administration office; subscription library; archive potential |
+| **Alderwick Library** | Market Square | WORKING CANON | Grey stone, tall windows, wide stairs; former town administration office; subscription library; archive potential |
 | **St. Bartholomew's Church** | Market Square | WORKING CANON | Stone; tall spire; graveyard with old tombstones; parish records |
-| **Ashford Academy** | Academy Quarter | WORKING CANON | Grammar school; Daniel studies here; Leon is a student |
+| **Alderwick Academy** | Academy Quarter | WORKING CANON | Grammar school; Daniel studies here; Leon is a student |
 | **The Post Office** | Market Square or High Street | WORKING CANON | Pembroke & Clarke letter arrives here |
 | **Solicitor's Office** | Old Town | WORKING CANON | Pembroke & Clarke; Ashcroft property records, wills, deeds |
 | **The 1798 Building** | High Street | CANON | Administration office → post office → stationer's; layered history |
@@ -86,10 +86,10 @@ Ashford is a "living old city" where 70–80% of buildings are old, layered thro
 |----------|-----------|--------------|
 | **Market Square** | Heart of town | Market, Margaret's, Post Office, St. Bartholomew's, Constable post |
 | **High Street** | Commercial spine | Arthur's shop, diligence stop, family-run shops |
-| **Old Town** | Historic core | Church, vicarage, Ashford Library, solicitor |
-| **Academy Quarter** | Educational | Ashford Academy; student population |
+| **Old Town** | Historic core | Church, vicarage, Alderwick Library, solicitor |
+| **Academy Quarter** | Educational | Alderwick Academy; student population |
 | **Bellweather District** | Mystery zone | No. 13 Bellweather Lane, Bellweather House |
-| **North Ashford** | Future expansion | Countryside, manor, ruins, woods, fog |
+| **North Alderwick** | Future expansion | Countryside, manor, ruins, woods, fog |
 | **Industrial/Workshop** | Working area | Blacksmith, wheelwright, miller, old textile mill |
 
 ### Other Locations
@@ -171,8 +171,8 @@ Margaret (Informant), Edward Pembroke (Finance), Eleanor Vane (Heir Apparent), D
 | Institution | Type | Role |
 |-------------|------|------|
 | **St. Bartholomew's Church** | Religious | Parish records; community gathering |
-| **Ashford Library** | Educational/Public | Subscription library; local history archive |
-| **Ashford Academy** | Educational | Grammar school; Daniel and Leon study here |
+| **Alderwick Library** | Educational/Public | Subscription library; local history archive |
+| **Alderwick Academy** | Educational | Grammar school; Daniel and Leon study here |
 | **Post Office** | Government/Communication | Mail distribution |
 | **Solicitor's Office (Pembroke & Clarke)** | Legal | Property law, wills, estates |
 | **Parish Constable** | Law Enforcement | Part-time, unpaid, elected |
@@ -272,7 +272,7 @@ Medieval → Tudor → Georgian → Victorian (dominant, railway arrival, indust
 9. The boy in dream/portrait
 10. The mysterious man at the inn
 11. Helen's true identity
-12. Leon's familiarity with Ashford
+12. Leon's familiarity with Alderwick
 13. M.R., J.T., M.B. — unknown initials
 14. Thomas Wren — notebook contents, death
 15. Locked door beneath stairs
@@ -349,17 +349,17 @@ Arrived 12 Nov 1816 by stagecoach from London; lives on Bellweather Lane (no num
 
 **What Leon Suspects:** Letter may not be misaddressed; empty house connected to him; someone sends envelopes; symbol significant; Helen knows more; arrival date meaningful.
 
-**What Leon Does NOT Know:** Full connection to Aurelius; whether Aurelius dead/alive/disappeared; symbol meaning; who sends envelopes; 1798 key's purpose; M.R./J.T./M.B.; Helen's full name; Hidden Circle nature; why bell rang; "Don't be late again" meaning; boy's identity; why Ashford familiar; orphan background [CONFLICT]; medallion/box [CONFLICT].
+**What Leon Does NOT Know:** Full connection to Aurelius; whether Aurelius dead/alive/disappeared; symbol meaning; who sends envelopes; 1798 key's purpose; M.R./J.T./M.B.; Helen's full name; Hidden Circle nature; why bell rang; "Don't be late again" meaning; boy's identity; why Alderwick familiar; orphan background [CONFLICT]; medallion/box [CONFLICT].
 
 **What the Reader Knows:** Same as Leon (first-person POV) plus Helen's portrait inscription and her waiting.
 
 ---
 
-## 20. Leon's Pre-Ashford Mystery
+## 20. Leon's Pre-Alderwick Mystery
 
 [CANON CONFLICT — TWO CONTRADICTORY CANON DOCUMENTS]
 
-**Version A — `CANON_LEON_PRE_ASHFORD.md` (APPROVED CANON, Priority HIGH):** Leon is orphan; wooden box + medallion (same symbol); fragmented childhood dreams; date-trigger mechanism; 12–13 November significance; "Don't be late again" connected to dreams; medallion must NOT be magic key; forbidden: reincarnation, inherited memory, false memory.
+**Version A — `CANON_LEON_PRE_Alderwick.md` (APPROVED CANON, Priority HIGH):** Leon is orphan; wooden box + medallion (same symbol); fragmented childhood dreams; date-trigger mechanism; 12–13 November significance; "Don't be late again" connected to dreams; medallion must NOT be magic key; forbidden: reincarnation, inherited memory, false memory.
 
 **Version B — `CANON_EARLY_LATE_RETURN.md` (DEVELOPMENT-ONLY CANON):** Explicitly forbids orphan background, medallion, wooden box, recurring dreams, date-trigger mechanism — all "NOT ESTABLISHED" or "FORBIDDEN."
 
@@ -488,7 +488,7 @@ Bellweather House basement; what Aurelius left; early/late resolution; "Don't be
 ## 27. Unresolved Questions
 
 **Core Mysteries (14 — from `CANON_EARLY_LATE_RETURN.md`):**
-1. Why does Leon feel familiarity with Ashford?
+1. Why does Leon feel familiarity with Alderwick?
 2. Who is the boy in the dark coat?
 3. What does "Don't be late again" mean?
 4. Who is the boy in Helen's portrait?
@@ -503,15 +503,15 @@ Bellweather House basement; what Aurelius left; early/late resolution; "Don't be
 13. Why did the bell ring?
 14. What is the nature of Leon's "lateness"?
 
-**Additional Unresolved (18 — from `CANON_LEON_PRE_ASHFORD.md`, CONFLICTED):**
-Who left Leon at orphanage; why abandoned; why medallion left; who owned medallion; symbol meaning; why symbol in Ashford; why Leon dreams of Ashford; why dates trigger; why 12–13 Nov matter; who is boy in dreams; who says "Don't be late again"; what "again" means; why Leon feels late; connection to Aurelius; Bellweather House history; medallion-family relationship; mechanism nature; what activates medallion.
+**Additional Unresolved (18 — from `CANON_LEON_PRE_Alderwick.md`, CONFLICTED):**
+Who left Leon at orphanage; why abandoned; why medallion left; who owned medallion; symbol meaning; why symbol in Alderwick; why Leon dreams of Alderwick; why dates trigger; why 12–13 Nov matter; who is boy in dreams; who says "Don't be late again"; what "again" means; why Leon feels late; connection to Aurelius; Bellweather House history; medallion-family relationship; mechanism nature; what activates medallion.
 
 ---
 
 ## 28. Long-Term Story Potential
 
 **World Threads Available (independent of Aurelius):**
-- Ashford's layered history (1798 building, address system, old families)
+- Alderwick's layered history (1798 building, address system, old families)
 - The Old Industrial District (decline, abandoned buildings)
 - Margaret's information network (gossip, social dynamics)
 - Daniel's academic research (property families, archives)
@@ -567,7 +567,7 @@ Local → Historical → Personal → Supernatural → Regional → National (in
 15. Medallion must NOT become a magic key [if canonized]
 
 **Forbidden (unless explicitly approved):**
-- Reincarnation; inherited memory; Leon previously living in Ashford; false-memory twist; medallion as magic key; "I have been here before" as literal memory; fixed dream frequency; early date-mechanism explanation; organization members before Ch 9.
+- Reincarnation; inherited memory; Leon previously living in Alderwick; false-memory twist; medallion as magic key; "I have been here before" as literal memory; fixed dream frequency; early date-mechanism explanation; organization members before Ch 9.
 
 **Required:**
 - Gradual discovery; concrete sensory details; normal life alongside mystery; old/new contrast; elevation-based atmosphere; local terminology; era-appropriate technology.

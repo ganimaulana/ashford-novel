@@ -1,6 +1,6 @@
-# Chapter 05 — Kenangan yang Tersisa
+﻿# Chapter 05 — Kenangan yang Tersisa
 
-Ashford, 24 November 2006
+Alderwick, 24 November 2006
 
 Aku bermimpi tentang Emily malam itu.
 
@@ -72,9 +72,9 @@ Mungkin ada penjelasan.
 
 Aku menemukan beberapa edisi.
 
-Ashford Chronicle, 1-7 Agustus 1889.
+Alderwick Chronicle, 1-7 Agustus 1889.
 
-Ashford Chronicle, 8-14 Agustus 1889.
+Alderwick Chronicle, 8-14 Agustus 1889.
 
 Aku membaca setiap halaman dengan seksama.
 
@@ -102,7 +102,7 @@ Aku membaca artikel itu perlahan.
 
 > *"According to family members, Miss Wren had been in good health and showed no signs of illness. The cause of death remains undetermined. Dr. Harwood has stated that there were no obvious injuries or signs of foul play. The family has requested privacy during this difficult time."*
 
-> *"Miss Wren will be laid to rest at Ashford Cemetery on 7th August. She is survived by her parents, Thomas and Margaret Wren."*
+> *"Miss Wren will be laid to rest at Alderwick Cemetery on 7th August. She is survived by her parents, Thomas and Margaret Wren."*
 
 Aku menatap artikel itu.
 
@@ -170,7 +170,7 @@ Aku memfotokopi artikel itu.
 
 Kemudian mencari catatan pemakaman.
 
-Ashford Cemetery menyimpan catatan lengkap.
+Alderwick Cemetery menyimpan catatan lengkap.
 
 Aku menemukan daftar pemakaman Agustus 1889.
 
@@ -198,7 +198,7 @@ Aku berhenti.
 
 Dia berpikir sejenak.
 
-"Dr. Harwood? Nama itu familiar. Dokter lama di Ashford."
+"Dr. Harwood? Nama itu familiar. Dokter lama di Alderwick."
 
 "Apakah ada catatan tentang praktiknya?"
 
@@ -215,7 +215,7 @@ Memikirkan langkah selanjutnya.
 Aku punya beberapa pilihan:
 
 1. Pergi ke Town Hall untuk memeriksa arsip medis Dr. Harwood.
-2. Pergi ke Ashford Cemetery untuk melihat makam Emily.
+2. Pergi ke Alderwick Cemetery untuk melihat makam Emily.
 3. Mencoba masuk ke rumah Bellweather Lane 11.
 
 Aku memutuskan untuk pergi ke pemakaman dulu.
@@ -228,7 +228,7 @@ Dan mungkin... merasakan sesuatu.
 
 🟨
 
-Ashford Cemetery terletak di pinggir kota.
+Alderwick Cemetery terletak di pinggir kota.
 
 Sekitar dua puluh menit berjalan kaki dari perpustakaan.
 

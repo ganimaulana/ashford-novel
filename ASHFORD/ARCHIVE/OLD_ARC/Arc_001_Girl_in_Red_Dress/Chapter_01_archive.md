@@ -1,6 +1,6 @@
-# Chapter 01 — Perempuan di Stasiun
+﻿# Chapter 01 — Perempuan di Stasiun
 
-Ashford, 21 November 2006
+Alderwick, 21 November 2006
 
 Aku tidak berencana pergi ke stasiun sore itu.
 
@@ -42,7 +42,7 @@ Aku memasukkannya ke saku.
 
 🟨
 
-Stasiun Ashford tidak jauh dari High Street.
+Stasiun Alderwick tidak jauh dari High Street.
 
 Sekitar lima belas menit berjalan kaki.
 
@@ -62,13 +62,13 @@ Melewati deretan rumah teras Victorian.
 
 Kemudian turun sedikit menuju kawasan stasiun.
 
-Ashford Station berdiri di ujung jalan yang lebih sepi.
+Alderwick Station berdiri di ujung jalan yang lebih sepi.
 
 Bangunan bata merah dengan atap slate abu-abu.
 
 Arsitektur Victoria yang masih dipertahankan, meski beberapa bagian sudah direnovasi.
 
-Papan nama bertuliskan **ASHFORD** dalam huruf putih besar.
+Papan nama bertuliskan **Alderwick** dalam huruf putih besar.
 
 Di bawahnya, jadwal kereta tertempel di balik kaca yang sedikit berembun.
 

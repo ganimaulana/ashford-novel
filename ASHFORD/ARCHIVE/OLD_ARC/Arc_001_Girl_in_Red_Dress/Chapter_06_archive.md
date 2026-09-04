@@ -1,6 +1,6 @@
-# Chapter 06 — Surat yang Tidak Terkirim
+﻿# Chapter 06 — Surat yang Tidak Terkirim
 
-Ashford, 25 November 2006
+Alderwick, 25 November 2006
 
 Aku kembali ke perpustakaan pagi itu.
 
@@ -10,7 +10,7 @@ Aku ingin tahu lebih banyak tentang Thomas Wren.
 
 Ayah Emily.
 
-Arsitek yang merancang beberapa bangunan di Ashford.
+Arsitek yang merancang beberapa bangunan di Alderwick.
 
 Termasuk rumah-rumah di Bellweather Lane.
 
