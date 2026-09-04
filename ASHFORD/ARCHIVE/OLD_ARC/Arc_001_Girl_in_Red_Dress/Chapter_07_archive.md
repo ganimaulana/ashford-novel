@@ -1,6 +1,6 @@
-# Chapter 07 — Kembali ke Ruang Tunggu
+﻿# Chapter 07 — Kembali ke Ruang Tunggu
 
-Ashford, 25 November 2006
+Alderwick, 25 November 2006
 
 Aku memutuskan untuk kembali ke stasiun sore itu.
 
@@ -22,7 +22,7 @@ Atau mungkin menemukan pertanyaan yang lebih besar.
 
 🟨
 
-Stasiun Ashford ramai ketika aku tiba.
+Stasiun Alderwick ramai ketika aku tiba.
 
 Pukul lima sore.
 

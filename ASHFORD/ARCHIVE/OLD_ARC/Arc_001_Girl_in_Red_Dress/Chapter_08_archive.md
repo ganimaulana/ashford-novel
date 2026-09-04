@@ -1,6 +1,6 @@
-# Chapter 08 — The Woman in the Archive
+﻿# Chapter 08 — The Woman in the Archive
 
-Ashford, 26 November 2006
+Alderwick, 26 November 2006
 
 Aku tidak tidur nyenyak malam itu.
 
@@ -40,7 +40,7 @@ Mrs. Holloway menyambutku dengan senyum ramah.
 
 Mrs. Holloway berpikir sejenak.
 
-"Hmm. Kita punya arsip surat kabar lokal. Ashford Gazette. Dari tahun 1880-an sampai sekarang. Tapi arsipnya belum semuanya didigitalkan. Yang tahun 1880-an masih dalam bentuk mikrofiche."
+"Hmm. Kita punya arsip surat kabar lokal. Alderwick Gazette. Dari tahun 1880-an sampai sekarang. Tapi arsipnya belum semuanya didigitalkan. Yang tahun 1880-an masih dalam bentuk mikrofiche."
 
 Mikrofiche.
 
@@ -58,7 +58,7 @@ Ruangan dengan mesin mikrofiche tua.
 
 Kotak-kotak berisi gulungan film kecil.
 
-Arsip Ashford Gazette.
+Arsip Alderwick Gazette.
 
 1880.
 
@@ -96,7 +96,7 @@ Layar menyala.
 
 Teks kuno muncul.
 
-Ashford Gazette, 1 April 1889.
+Alderwick Gazette, 1 April 1889.
 
 Aku mulai membaca.
 
@@ -195,7 +195,7 @@ Halaman pertama.
 
 **TRAGEDI DI BELLWEATHER LANE**
 
-> *Dengan duka cita kami laporkan kematian Miss Emily Catherine Wren, usia 22 tahun, yang meninggal secara tiba-tiba pada tanggal 3 Agustus di kediaman keluarganya di Bellweather Lane 11. Miss Wren, putri Mr. Thomas Wren dan mendiang Mrs. Catherine Wren, dilaporkan meninggal dalam tidurnya tanpa penyakit atau gejala sebelumnya. Dr. Richard Pemberton, yang merawat keluarga Wren, menyatakan bahwa kematian tersebut disebabkan oleh "gagal jantung mendadak", meskipun Miss Wren sebelumnya dalam keadaan sehat. Keluarga dan teman-teman Miss Wren sangat berduka. Pemakaman akan dilaksanakan pada tanggal 6 Agustus di Ashford Cemetery.*
+> *Dengan duka cita kami laporkan kematian Miss Emily Catherine Wren, usia 22 tahun, yang meninggal secara tiba-tiba pada tanggal 3 Agustus di kediaman keluarganya di Bellweather Lane 11. Miss Wren, putri Mr. Thomas Wren dan mendiang Mrs. Catherine Wren, dilaporkan meninggal dalam tidurnya tanpa penyakit atau gejala sebelumnya. Dr. Richard Pemberton, yang merawat keluarga Wren, menyatakan bahwa kematian tersebut disebabkan oleh "gagal jantung mendadak", meskipun Miss Wren sebelumnya dalam keadaan sehat. Keluarga dan teman-teman Miss Wren sangat berduka. Pemakaman akan dilaksanakan pada tanggal 6 Agustus di Alderwick Cemetery.*
 
 Gagal jantung mendadak.
 
@@ -327,11 +327,11 @@ Ada artikel kecil.
 
 Judulnya:
 
-**INSIDEN DI STASIUN ASHFORD**
+**INSIDEN DI STASIUN Alderwick**
 
 Aku membaca dengan cermat:
 
-> *Pada tanggal 7 April, kejadian aneh dilaporkan di Stasiun Ashford. Seorang perempuan muda, Miss Emily Wren dari Bellweather Lane, mengalami semacam pingsan atau kejang ketika berada di ruang tunggu pribadi stasiun. Saksi melaporkan Miss Wren terlihat berbicara dengan seseorang di ruangan kosong, meskipun tidak ada orang lain hadir. Ketika ditanya, Miss Wren tidak dapat memberikan penjelasan yang koheren. Dr. Richard Pemberton dipanggil untuk memeriksa, dan menyatakan bahwa Miss Wren mengalami "nervous exhaustion" dan membutuhkan istirahat. Miss Wren telah dikembalikan ke rumah keluarganya dengan selamat.*
+> *Pada tanggal 7 April, kejadian aneh dilaporkan di Stasiun Alderwick. Seorang perempuan muda, Miss Emily Wren dari Bellweather Lane, mengalami semacam pingsan atau kejang ketika berada di ruang tunggu pribadi stasiun. Saksi melaporkan Miss Wren terlihat berbicara dengan seseorang di ruangan kosong, meskipun tidak ada orang lain hadir. Ketika ditanya, Miss Wren tidak dapat memberikan penjelasan yang koheren. Dr. Richard Pemberton dipanggil untuk memeriksa, dan menyatakan bahwa Miss Wren mengalami "nervous exhaustion" dan membutuhkan istirahat. Miss Wren telah dikembalikan ke rumah keluarganya dengan selamat.*
 
 Aku membaca ulang artikel itu tiga kali.
 

@@ -1,5 +1,5 @@
-Chapter 5 — Rumah yang Tidak Ada
-Ashford, 16 November 2006
+﻿Chapter 5 — Rumah yang Tidak Ada
+Alderwick, 16 November 2006
 Pagi itu aku tidak langsung pergi ke kafe.
 Aku masih memikirkan percakapan dengan Arthur kemarin.
 Bukan karena ada sesuatu yang aneh.
@@ -9,7 +9,7 @@ Dia tidak menghafalkan tanggal seperti Daniel.
 Dia berbicara tentang tempat.
 Tentang nama jalan.
 Tentang bagaimana orang-orang menyebut suatu tempat dengan nama yang berbeda dari nama resminya.
-Aku mengambil peta Ashford yang kubeli beberapa hari sebelumnya.
+Aku mengambil peta Alderwick yang kubeli beberapa hari sebelumnya.
 Kubuka di meja makan.
 High Street.
 Bellweather Lane.
@@ -24,7 +24,7 @@ Aku tidak punya alasan khusus untuk pergi ke sana.
 Jadi aku tidak pergi.
 Aku melipat peta.
 Hari ini aku memilih berjalan ke kafe.
-Setelah beberapa hari, aku mulai memahami bahwa peta Ashford yang kubeli bukan hanya kumpulan garis dan nama jalan. Peta itu menunjukkan kota sebagaimana seharusnya dikenali oleh orang yang baru datang: jalan utama, kawasan permukiman, stasiun, pusat kota, dan beberapa bangunan penting.
+Setelah beberapa hari, aku mulai memahami bahwa peta Alderwick yang kubeli bukan hanya kumpulan garis dan nama jalan. Peta itu menunjukkan kota sebagaimana seharusnya dikenali oleh orang yang baru datang: jalan utama, kawasan permukiman, stasiun, pusat kota, dan beberapa bangunan penting.
 Namun semakin lama aku tinggal di sini, semakin jelas bahwa peta itu tidak menceritakan semuanya.
 Ia tidak menunjukkan toko kecil di sudut jalan.
 Tidak menunjukkan kedai tempat warga bertemu setiap pagi.
@@ -77,7 +77,7 @@ Normal.
 Aku menyukai pagi seperti ini.
 Di luar jendela, High Street perlahan dipenuhi aktivitas pagi. Sebuah bus berhenti di halte dan beberapa orang turun. Seorang pekerja toko menarik pintu besi dari depan tokonya. Dari toko roti di seberang jalan, aroma roti yang baru dipanggang sesekali terbawa angin.
 Aku mulai mengenali pola itu.
-Ashford punya jamnya sendiri.
+Alderwick punya jamnya sendiri.
 Pagi dimulai dari toko-toko yang membuka pintu, orang-orang yang pergi bekerja, mahasiswa yang menuju kampus, dan warga yang datang ke tempat seperti Margaret's untuk sarapan atau membaca koran.
 Tidak ada satu kejadian besar yang membuat kota terasa hidup.
 Justru kumpulan hal-hal kecil itulah yang membuatnya hidup.
@@ -99,10 +99,10 @@ Dia tahu siapa yang datang terlambat.
 Siapa yang sedang marah.
 Siapa yang sedang mencari pekerjaan.
 Siapa yang tidak ingin diganggu.
-Kafe ini seperti tempat di mana potongan-potongan kehidupan Ashford bertemu.
+Kafe ini seperti tempat di mana potongan-potongan kehidupan Alderwick bertemu.
 Aku kembali membaca koran.
 Simon membawa map yang cukup tebal dan beberapa lembar kertas terlihat menyembul dari dalamnya. Dari cara dia membukanya, aku menduga dia bekerja dengan dokumen atau urusan properti.
-Hal itu tidak terasa aneh di Ashford.
+Hal itu tidak terasa aneh di Alderwick.
 Rumah-rumah lama berpindah tangan.
 Bangunan direnovasi.
 Toko berganti pemilik.
@@ -464,7 +464,7 @@ Seorang wanita membuka pagar rumahnya untuk mengambil botol susu yang diletakkan
 Semuanya berjalan seperti biasa.
 Tidak ada seorang pun yang memperhatikan amplop di tanganku.
 Dan mungkin itu yang paling aneh.
-Di tengah rutinitas pagi Ashford yang begitu biasa, aku membawa sesuatu yang seharusnya tidak ada.
+Di tengah rutinitas pagi Alderwick yang begitu biasa, aku membawa sesuatu yang seharusnya tidak ada.
 
 Aku sampai di rumah. Meletakkan amplop itu di meja dapur.
 

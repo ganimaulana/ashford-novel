@@ -1,10 +1,10 @@
-# Chapter 02 — The Missing Researcher
+﻿# Chapter 02 — The Missing Researcher
 
-Ashford, 3 December 2006
+Alderwick, 3 December 2006
 
 Aku menghabiskan sepanjang hari mencari informasi tentang TruthSeeker_Ash.
 
-Username di forum lokal Ashford.
+Username di forum lokal Alderwick.
 
 Yang meneliti fenomena kabut selama 2 tahun.
 
@@ -36,7 +36,7 @@ Tidak berharap balasan cepat.
 
 Tetapi ternyata admin membalas dalam satu jam:
 
-> *"TruthSeeker_Ash adalah David Matthews. Mahasiswa lokal. Meneliti sejarah Ashford untuk tesisnya. Dia berhenti login Oktober 2005. Aku tidak tahu apa yang terjadi padanya. Kenapa kau bertanya?"*
+> *"TruthSeeker_Ash adalah David Matthews. Mahasiswa lokal. Meneliti sejarah Alderwick untuk tesisnya. Dia berhenti login Oktober 2005. Aku tidak tahu apa yang terjadi padanya. Kenapa kau bertanya?"*
 
 David Matthews.
 
@@ -44,7 +44,7 @@ Akhirnya punya nama.
 
 🟨
 
-Aku mencari "David Matthews Ashford" di Google.
+Aku mencari "David Matthews Alderwick" di Google.
 
 Menemukan beberapa hasil.
 
@@ -52,7 +52,7 @@ Artikel koran lokal dari November 2005:
 
 **MAHASISWA LOKAL DILAPORKAN HILANG**
 
-> *David Matthews, 24 tahun, mahasiswa pascasarjana di Ashford University, dilaporkan hilang oleh keluarganya pada 3 November 2005. David terakhir terlihat meninggalkan apartemennya di Mill Street pada pagi hari 2 November. Dia membawa tas ransel dan kamera. Polisi meminta siapa saja yang memiliki informasi untuk menghubungi mereka. Keluarga David sangat khawatir dan berharap dia segera ditemukan.*
+> *David Matthews, 24 tahun, mahasiswa pascasarjana di Alderwick University, dilaporkan hilang oleh keluarganya pada 3 November 2005. David terakhir terlihat meninggalkan apartemennya di Mill Street pada pagi hari 2 November. Dia membawa tas ransel dan kamera. Polisi meminta siapa saja yang memiliki informasi untuk menghubungi mereka. Keluarga David sangat khawatir dan berharap dia segera ditemukan.*
 
 Dilaporkan hilang.
 
@@ -74,7 +74,7 @@ Menemukan artikel lain dari Desember 2005:
 
 **PENCARIAN DAVID MATTHEWS DIHENTIKAN**
 
-> *Polisi Ashford mengumumkan bahwa pencarian aktif untuk David Matthews telah dihentikan setelah tidak ditemukan petunjuk baru. David, yang dilaporkan hilang sejak 2 November, belum ditemukan meskipun pencarian intensif dilakukan. Polisi menyatakan kasus akan tetap terbuka, tetapi tanpa bukti baru, mereka tidak bisa melanjutkan pencarian aktif. Keluarga David tetap berharap dia akan kembali.*
+> *Polisi Alderwick mengumumkan bahwa pencarian aktif untuk David Matthews telah dihentikan setelah tidak ditemukan petunjuk baru. David, yang dilaporkan hilang sejak 2 November, belum ditemukan meskipun pencarian intensif dilakukan. Polisi menyatakan kasus akan tetap terbuka, tetapi tanpa bukti baru, mereka tidak bisa melanjutkan pencarian aktif. Keluarga David tetap berharap dia akan kembali.*
 
 Pencarian dihentikan.
 
@@ -93,7 +93,7 @@ Setelah mengklaim punya bukti.
 Aku harus menemukan apa yang dia temukan.
 
 
-Sore itu aku pergi ke Ashford University.
+Sore itu aku pergi ke Alderwick University.
 
 Kampus kecil di pinggir kota.
 
@@ -177,13 +177,13 @@ Pustakawan memeriksa sistem.
 
 "Ya, ini dia. Buku terakhir yang dipinjam David:"
 
-- *Ashford: A Historical Overview* (1890-1950)
+- *Alderwick: A Historical Overview* (1890-1950)
 - *Paranormal Phenomena in Small Towns*
 - *Temporal Anomalies and Missing Time*
 - *The Fog Phenomenon: A Scientific Analysis*
-- *Local Legends of Ashford*
+- *Local Legends of Alderwick*
 
-Semua tentang Ashford.
+Semua tentang Alderwick.
 
 Semua tentang fenomena paranormal.
 
@@ -309,7 +309,7 @@ Membukanya.
 
 Halaman pertama:
 
-**PENELITIAN FENOMENA KABUT ASHFORD**
+**PENELITIAN FENOMENA KABUT Alderwick**
 
 **David Matthews - 2003-2005**
 
@@ -331,7 +331,7 @@ Halaman terakhir yang ditulis:
 
 > *31 Oktober 2005*
 > 
-> *Aku akhirnya tahu apa mereka. Bukan hantu. Bukan alien. Mereka adalah... Watchers. Pengamat. Dari dimensi lain. Mereka datang melalui kabut. Melalui celah tipis antara dunia. Ashford adalah titik lemah. Tempat di mana batas antara dimensi menipis. Mereka mengamati kita. Mungkin sudah berabad-abad. Tetapi sekarang mereka mulai... berinteraksi. Mengambil orang. Untuk apa? Aku belum tahu. Tetapi aku akan mencari tahu. Besok pagi aku akan ke industrial district. Ke sumber kabut. Aku akan mengambil foto lebih dekat. Aku akan mendapatkan bukti konkret.*
+> *Aku akhirnya tahu apa mereka. Bukan hantu. Bukan alien. Mereka adalah... Watchers. Pengamat. Dari dimensi lain. Mereka datang melalui kabut. Melalui celah tipis antara dunia. Alderwick adalah titik lemah. Tempat di mana batas antara dimensi menipis. Mereka mengamati kita. Mungkin sudah berabad-abad. Tetapi sekarang mereka mulai... berinteraksi. Mengambil orang. Untuk apa? Aku belum tahu. Tetapi aku akan mencari tahu. Besok pagi aku akan ke industrial district. Ke sumber kabut. Aku akan mengambil foto lebih dekat. Aku akan mendapatkan bukti konkret.*
 
 Besok pagi.
 

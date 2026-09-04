@@ -1,6 +1,6 @@
-# Chapter 03 — Ruang Tunggu Pribadi
+﻿# Chapter 03 — Ruang Tunggu Pribadi
 
-Ashford, 23 November 2006
+Alderwick, 23 November 2006
 
 Aku tidak bisa berhenti menatap foto itu.
 

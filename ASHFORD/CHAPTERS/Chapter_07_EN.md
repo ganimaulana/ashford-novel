@@ -1,4 +1,4 @@
-# Chapter 7 — An Incomplete Address
+﻿# Chapter 7 — An Incomplete Address
 
 I stared at the envelope from the day before for a long while.
 
@@ -94,7 +94,7 @@ On the next there was a notice for a community event.
 
 While here, at this table, I was trying to understand why a single name could appear in three different places — a letter from a solicitor, writing on a paper that had been found, and an envelope sent to Margaret's.
 
-Ashford did not stop simply because I had a question.
+Alderwick did not stop simply because I had a question.
 
 No town did.
 
@@ -184,7 +184,7 @@ But long enough to make Margaret pause for a moment.
 
 "Have you heard of him?"
 
-"What? I'm writing a thesis on the property families of Ashford. And that name — Aurelius Ashcroft — is not an ordinary name."
+"What? I'm writing a thesis on the property families of Alderwick. And that name — Aurelius Ashcroft — is not an ordinary name."
 
 "What did he do?"
 
@@ -212,7 +212,7 @@ Daniel looked at me.
 
 Margaret said from behind the counter:
 
-"So now your name is Ashcroft. And you arrived in Ashford. And the name Aurelius Ashcroft is everywhere."
+"So now your name is Ashcroft. And you arrived in Alderwick. And the name Aurelius Ashcroft is everywhere."
 
 "True."
 
@@ -628,7 +628,7 @@ Among the local history books stood several old maps, town charts, property list
 
 All of them looked like things that would draw the attention of most people not at all.
 
-Yet in an old town like Ashford, documents of that kind could hold something that existed on no modern map.
+Yet in an old town like Alderwick, documents of that kind could hold something that existed on no modern map.
 
 A street name that had changed.
 

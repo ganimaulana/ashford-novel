@@ -1,4 +1,4 @@
-# Chapter 14 — The Empty Place in the Round
+﻿# Chapter 14 — The Empty Place in the Round
 
 The lamp came back at nine.
 
@@ -152,7 +152,7 @@ I said I had stood before it already, for twenty minutes.
 
 "Then," said Daniel, "you are known already, and we may leave that care out of the reckoning. The question is what you stand for next."
 
-He stayed an hour, and we spoke of the trust-roll and of the scraped page, and he said the scrape was done by one hand and the binding-mend by another, which he had not said before; and when he went away at the dark he took the certified copy with him to keep in his box at the Academy, because his box was the one place in Ashford where no one's keeping had a key, and that was the second time we had kept each other's papers without saying so.
+He stayed an hour, and we spoke of the trust-roll and of the scraped page, and he said the scrape was done by one hand and the binding-mend by another, which he had not said before; and when he went away at the dark he took the certified copy with him to keep in his box at the Academy, because his box was the one place in Alderwick where no one's keeping had a key, and that was the second time we had kept each other's papers without saying so.
 
 ---
 

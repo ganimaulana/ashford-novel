@@ -1,6 +1,6 @@
-# Chapter 04 — Patterns and Connections
+﻿# Chapter 04 — Patterns and Connections
 
-Ashford, 4 December 2006
+Alderwick, 4 December 2006
 
 Aku pulang dengan tergesa-gesa.
 
@@ -82,7 +82,7 @@ Emily terjebak karena batas dimensi yang tipis di stasiun.
 
 The Watchers masuk melalui kabut karena batas dimensi yang tipis di industrial district.
 
-Kedua tempat di Ashford.
+Kedua tempat di Alderwick.
 
 Kedua tempat dengan batas tipis.
 
@@ -90,15 +90,15 @@ Apakah ada pola?
 
 🟨
 
-Aku mengeluarkan peta Ashford.
+Aku mengeluarkan peta Alderwick.
 
 Menandai lokasi penting:
 
-- Stasiun Ashford (Emily, kuburan St. Michael's Chapel)
+- Stasiun Alderwick (Emily, kuburan St. Michael's Chapel)
 - Industrial District (The Watchers, kabut)
 - Bellweather Lane (rumah Emily)
 - St. Mary's Church (Father Michael)
-- Ashford University (David Matthews)
+- Alderwick University (David Matthews)
 
 Aku menatap peta.
 
@@ -120,7 +120,7 @@ Keduanya dibangun di atas... apa?
 
 Aku membuka laptop lagi.
 
-Mencari peta sejarah Ashford.
+Mencari peta sejarah Alderwick.
 
 Peta lama.
 
@@ -135,7 +135,7 @@ Sebelum industrial district.
 
 Jadi ada pola.
 
-Tempat-tempat di Ashford di mana batas antara dimensi menipis:
+Tempat-tempat di Alderwick di mana batas antara dimensi menipis:
 
 1. Bekas kuburan yang terganggu (Stasiun)
 2. Bekas rawa yang dikeringkan (Industrial District)
@@ -146,7 +146,7 @@ Kedua tempat dengan energi spiritual yang kuat.
 
 Kedua tempat di mana... sesuatu dari dimensi lain bisa masuk.
 
-Apakah ada tempat lain seperti ini di Ashford?
+Apakah ada tempat lain seperti ini di Alderwick?
 
 🟨
 
@@ -192,7 +192,7 @@ Semuanya aktif.
 
 Semua tempat dengan fenomena aneh.
 
-Ashford penuh dengan tempat-tempat seperti ini.
+Alderwick penuh dengan tempat-tempat seperti ini.
 
 Titik-titik lemah di mana batas dimensi menipis.
 
@@ -200,9 +200,9 @@ Titik-titik lemah di mana batas dimensi menipis.
 
 Aku membuat daftar:
 
-**LOKASI ANOMALI ASHFORD:**
+**LOKASI ANOMALI Alderwick:**
 
-1. **Ashford Station** - Bekas St. Michael's Chapel & kuburan
+1. **Alderwick Station** - Bekas St. Michael's Chapel & kuburan
    - Fenomena: Emily Wren (temporal loop)
    - Status: Partially addressed (blessed graves)
 
@@ -222,7 +222,7 @@ Aku membuat daftar:
    - Fenomena: Nightmares, crying trees
    - Status: Unknown
 
-Ashford bukan hanya kota dengan satu atau dua misteri.
+Alderwick bukan hanya kota dengan satu atau dua misteri.
 
 Ini kota yang dibangun di atas lapisan demi lapisan tragedi.
 
@@ -284,7 +284,7 @@ Malam datang.
 
 Aku duduk di meja.
 
-Menatap peta Ashford dengan semua tandaan.
+Menatap peta Alderwick dengan semua tandaan.
 
 Lima lokasi anomali.
 
@@ -292,7 +292,7 @@ Mungkin lebih.
 
 Mungkin seluruh kota adalah satu anomali besar.
 
-Emily bilang ada sesuatu yang lebih besar di bawah Ashford.
+Emily bilang ada sesuatu yang lebih besar di bawah Alderwick.
 
 Sekarang aku mulai mengerti.
 
@@ -304,7 +304,7 @@ Ini tentang seluruh kota.
 
 Seluruh sejarah.
 
-Seluruh... realitas Ashford.
+Seluruh... realitas Alderwick.
 
 🟨
 
@@ -330,7 +330,7 @@ Aku tidak tahu.
 
 Tetapi yang kutahu adalah ini:
 
-Ashford butuh bantuan.
+Alderwick butuh bantuan.
 
 Emily butuh bantuan.
 
@@ -370,9 +370,9 @@ Tentang rawa itu.
 
 Menemukan artikel lama.
 
-Ashford Gazette, 1849:
+Alderwick Gazette, 1849:
 
-> *"Proyek pengeringan rawa di wilayah timur Ashford akan dimulai musim semi ini. Rawa tersebut telah lama dianggap tempat yang tidak sehat dan berbahaya. Penduduk melaporkan kabut tebal yang tidak pernah hilang, bahkan di siang hari. Beberapa melaporkan melihat sosok-sosok aneh di dalam kabut. Dengan pengeringan rawa, diharapkan area tersebut dapat digunakan untuk industri."*
+> *"Proyek pengeringan rawa di wilayah timur Alderwick akan dimulai musim semi ini. Rawa tersebut telah lama dianggap tempat yang tidak sehat dan berbahaya. Penduduk melaporkan kabut tebal yang tidak pernah hilang, bahkan di siang hari. Beberapa melaporkan melihat sosok-sosok aneh di dalam kabut. Dengan pengeringan rawa, diharapkan area tersebut dapat digunakan untuk industri."*
 
 Kabut tebal yang tidak pernah hilang.
 

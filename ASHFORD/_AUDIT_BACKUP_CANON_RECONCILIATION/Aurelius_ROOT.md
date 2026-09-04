@@ -1,4 +1,4 @@
-# Aurelius Ashcroft — HIDDEN CANON (Summary)
+﻿# Aurelius Ashcroft — HIDDEN CANON (Summary)
 
 **Status:** 📕 HIDDEN CANON
 **Version:** 2.0
@@ -10,7 +10,7 @@
 
 - A letter from Messrs. Pembroke & Clarke (London solicitors) references "Aurelius Ashcroft"
 - The document seems misaddressed to Leon
-- Concerns property at "No. 13, Bellweather Lane, Ashford"
+- Concerns property at "No. 13, Bellweather Lane, Alderwick"
 - Leon's surname is Ashcroft — but he does not know his connection to this Aurelius
 - He assumes the letter was sent to the wrong house
 
@@ -21,7 +21,7 @@
 1. Aurelius Ashcroft was a real person
 2. The document was correctly addressed to No. 13
 3. No. 13 was associated with Aurelius in historical records
-4. The Ashcroft name has a history in Ashford longer than Leon knew
+4. The Ashcroft name has a history in Alderwick longer than Leon knew
 5. The timing of the letter is suspicious — why now?
 
 ---
@@ -36,7 +36,7 @@
 - **Respected in academic circles** — contributed to natural philosophy societies
 - **Private life:** Reclusive in later years; few visitors; London correspondence
 - **Organization connection:** Deeply connected — possibly founding member or key figure
-- **Last known residence:** No. 13, Bellweather Lane, Ashford
+- **Last known residence:** No. 13, Bellweather Lane, Alderwick
 - **Death or disappearance:** UNKNOWN. Records contradictory. Some suggest death in 1810. Others suggest voluntary departure.
 - **Legacy:** Books/artifacts (some unusual), documents/correspondence (some locked), will/testament, properties/land
 
@@ -48,7 +48,7 @@
 ### Leon's Connection
 - Leon IS connected to Aurelius — but NOT how he thinks
 - His branch of the family was distanced; parents/guardians did not discuss history
-- The connection to Ashford was deliberately obscured
+- The connection to Alderwick was deliberately obscured
 - The connection may be MORE significant than Leon realizes
 
 ### Nobody Knows Aurelius's True Status
@@ -62,7 +62,7 @@
 
 - Once prominent — landowners, scholars, connected to aristocracy
 - Declined over generations — diminished but not ruined
-- Some branches in the north (Ashford); others in London
+- Some branches in the north (Alderwick); others in London
 - Family name known but not famous — recognition, not awe
 - Leon's branch distanced; family history deliberately obscured
 

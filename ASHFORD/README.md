@@ -1,8 +1,8 @@
-﻿# ASHFORD - Novel Bible / World Bible
+﻿# Alderwick - Novel Bible / World Bible
 
 ## Tujuan Project
 
-Dokumen ini adalah **Novel Bible** untuk novel misteri slow-burn berlatar di kota fiktif **Ashford**, Inggris, tahun **2006**.
+Dokumen ini adalah **Novel Bible** untuk novel misteri slow-burn berlatar di kota fiktif **Alderwick**, Inggris, tahun **2006**.
 
 World Bible ini berfungsi sebagai:
 - Referensi konsistensi world building
@@ -16,10 +16,10 @@ World Bible ini berfungsi sebagai:
 ## Struktur Folder
 
 ```
-ASHFORD/
+Alderwick/
 ├── README.md (file ini)
 ├── CHAPTERS/ (chapter novel - JANGAN DIUBAH tanpa instruksi eksplisit)
-├── WORLD_BIBLE/ (world building Ashford - numbered structure)
+├── WORLD_BIBLE/ (world building Alderwick - numbered structure)
 │   ├── 00_INDEX/
 │   ├── 00_MASTER/
 │   ├── 01_GEOGRAPHY/ (geografi dan tata kota)
@@ -57,7 +57,7 @@ Tempat menyimpan chapter novel yang sudah ditulis.
 - Chapter adalah sumber canon utama
 
 ### WORLD_BIBLE/
-World building Ashford dengan struktur numbered directories:
+World building Alderwick dengan struktur numbered directories:
 - 01_GEOGRAPHY: Geografi dan tata kota
 - 02_ARCHITECTURE: Arsitektur berbagai periode
 - 03_BUILDINGS: Bangunan-bangunan penting
@@ -89,7 +89,7 @@ Dokumentasi mystery elements:
 
 ### 10_TIMELINE/
 Kronologi peristiwa:
-- Timeline sejarah Ashford
+- Timeline sejarah Alderwick
 - Timeline novel (2006)
 - Urutan kejadian per chapter
 
@@ -142,9 +142,9 @@ Jika ditemukan informasi yang bertentangan:
 
 ## Aturan World Building
 
-### Identitas Ashford
+### Identitas Alderwick
 
-Ashford adalah kota kecil menengah di Inggris dengan karakteristik:
+Alderwick adalah kota kecil menengah di Inggris dengan karakteristik:
 - **Bukan** kota besar/metropolitan
 - **Bukan** desa kecil
 - Memiliki fasilitas: pusat kota, High Street, Market Square, perpustakaan, stasiun, universitas, kawasan industri
@@ -155,7 +155,7 @@ Ashford adalah kota kecil menengah di Inggris dengan karakteristik:
 
 ### Prinsip Arsitektur
 
-Ashford memiliki **lapisan sejarah arsitektur**:
+Alderwick memiliki **lapisan sejarah arsitektur**:
 - Medieval (sisa-sisa)
 - Tudor (sisa-sisa)
 - Georgian
@@ -167,12 +167,12 @@ Ashford memiliki **lapisan sejarah arsitektur**:
 **PENTING:**
 - JANGAN membuat seluruh kota bergaya Victorian
 - Bangunan tua harus berdampingan dengan bangunan baru
-- Ashford bukan museum arsitektur
+- Alderwick bukan museum arsitektur
 - Kesan misterius muncul dari **kontras**, bukan dari "semua bangunan tua dan gelap"
 
 ### Atmosfer
 
-Ashford harus terasa:
+Alderwick harus terasa:
 - Tua tetapi hidup
 - Tenang tetapi tidak mati
 - Normal tetapi berlapis sejarah

@@ -1,4 +1,4 @@
-CHAPTER 51 — THE KEEPER'S VIGIL
+﻿CHAPTER 51 — THE KEEPER'S VIGIL
 
 The old constable died before dawn.
 
@@ -72,7 +72,7 @@ That frightened me more than I expected.
 
 I stayed until the sun came up.
 
-Ashford slowly began to wake outside.
+Alderwick slowly began to wake outside.
 
 A cart passed somewhere along the road.
 
@@ -474,7 +474,7 @@ The trees became visible again.
 
 The roof of the mill emerged from the grey light.
 
-Ashford began another day.
+Alderwick began another day.
 
 A cart passed along the road.
 
@@ -494,7 +494,7 @@ I put it into my coat.
 
 Then I looked once more at the sealed door.
 
-I had spent months trying to understand what Ashford was hiding.
+I had spent months trying to understand what Alderwick was hiding.
 
 Now I understood something else.
 
@@ -514,13 +514,13 @@ I stopped after a few steps.
 
 There was one question I could not put down.
 
-If the thing beneath Ashford was dangerous, then perhaps I was protecting the town.
+If the thing beneath Alderwick was dangerous, then perhaps I was protecting the town.
 
 But if the agreement had been written because someone feared what was beneath it—
 
 what if the fear had been misplaced?
 
-What if the generations before me had not been protecting Ashford from what lay below?
+What if the generations before me had not been protecting Alderwick from what lay below?
 
 What if they had been protecting what lay below from us?
 
@@ -536,7 +536,7 @@ The door remained closed.
 
 For now.
 
-And beneath Ashford, whatever had waited in the dark remained waiting.
+And beneath Alderwick, whatever had waited in the dark remained waiting.
 
 I could not tell whether it had been waiting for me.
 

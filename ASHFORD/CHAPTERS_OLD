@@ -1,12 +1,12 @@
-Chapter 1 — A Town with a Story to Tell
-Ashford, Minggu, 12 November 2006
-Kereta memasuki Stasiun Ashford Central tepat ketika langit mulai kehilangan warna senjanya. Hujan turun tipis namun tak kunjung reda, membuat kaca jendela dipenuhi titik-titik air dan memecah cahaya lampu di sepanjang rel menjadi bayangan kuning yang bergetar.
+﻿Chapter 1 — A Town with a Story to Tell
+Alderwick, Minggu, 12 November 2006
+Kereta memasuki Stasiun Alderwick Central tepat ketika langit mulai kehilangan warna senjanya. Hujan turun tipis namun tak kunjung reda, membuat kaca jendela dipenuhi titik-titik air dan memecah cahaya lampu di sepanjang rel menjadi bayangan kuning yang bergetar.
 Aku menurunkan buku yang sejak tadi kubaca. Nama pengarangnya sudah kulupakan, dan untuk kesekian kalinya hal itu mengingatkanku bahwa aku seharusnya mulai mencatat hal-hal penting sebelum semuanya hilang dari ingatan.
 Aku memang terbiasa mencatat hal-hal yang menurutku menarik. Bukan hanya hal-hal penting, melainkan juga detail-detail kecil yang mungkin tidak berarti bagi orang lain: nama jalan yang terdengar aneh, bangunan tua yang masih bertahan di antara gedung-gedung baru, percakapan singkat yang kebetulan kudengar, atau kesan pertama yang muncul sebelum sempat berubah. Catatan-catatan itu sering kali tidak langsung berguna, tetapi aku menyukai perasaan bahwa sesuatu tidak sepenuhnya hilang hanya karena waktu terus berjalan.
-Di balik kaca, untuk pertama kalinya, aku melihat Ashford.
+Di balik kaca, untuk pertama kalinya, aku melihat Alderwick.
 Dari sini, kota itu tidak terlihat istimewa. Tidak ada sesuatu yang mencolok, tidak ada bangunan yang membuat orang asing langsung tahu bahwa tempat ini layak diingat.
 Sebagian besar tampak biasa: atap-atap basah, dinding bata yang menghitam dimakan hujan dan usia, lampu jalan yang menyala dengan jarak tidak beraturan.
-Namun ada sesuatu dalam cara bangunan-bangunan itu berdiri berdempetan—toko tua yang seolah menempel pada bangunan yang lebih baru, cerobong bata yang menjulang di belakang deretan rumah, menara gereja yang memotong langit di kejauhan—yang membuat Ashford terasa jauh lebih tua daripada yang ditunjukkan wajah kotanya.
+Namun ada sesuatu dalam cara bangunan-bangunan itu berdiri berdempetan—toko tua yang seolah menempel pada bangunan yang lebih baru, cerobong bata yang menjulang di belakang deretan rumah, menara gereja yang memotong langit di kejauhan—yang membuat Alderwick terasa jauh lebih tua daripada yang ditunjukkan wajah kotanya.
 Sebuah papan jalan terpasang tinggi di dinding bata.
 HIGH STREET — TOWN CENTRE
 Di bawahnya, orang-orang berjalan cepat dengan payung masing-masing, sebagian menundukkan kepala untuk melindungi wajah dari angin. Seorang pria menjual koran di dekat pintu masuk stasiun. Di dalam kiosnya, sebuah televisi kecil menyala tanpa suara, menampilkan berita malam yang tak bisa kulihat dengan jelas dari sini.
@@ -16,10 +16,10 @@ Aku melirik jam tangan.
 19:42.
 Perjalananku memang dijadwalkan tiba pada pukul itu. Aku selalu menyukai sesuatu yang berjalan sesuai rencana. Entah kenapa, ketepatan waktu memberiku perasaan bahwa setidaknya di suatu tempat, dunia masih bersedia mengikuti aturan.
 Papan elektronik di atas pintu gerbong menyala:
-ASHFORD CENTRAL — ARRIVAL
+Alderwick CENTRAL — ARRIVAL
 Aku kembali menatap keluar.
 Nama kota ini terasa anehnya akrab di lidah, meskipun aku yakin belum pernah datang ke sini.
-Aku menutup mata sejenak, mencoba mengingat apakah pernah ada sesuatu tentang Ashford yang tersimpan di kepalaku.
+Aku menutup mata sejenak, mencoba mengingat apakah pernah ada sesuatu tentang Alderwick yang tersimpan di kepalaku.
 Tidak ada.
 Tidak ada jalan yang kuingat. Tidak ada wajah yang kukenal. Tidak ada rumah yang pernah kulihat.
 Hanya sebuah perasaan samar, seperti mendengar nada lagu yang pernah sangat akrab tanpa mampu mengingat judulnya.
@@ -29,7 +29,7 @@ Rapi.
 Setidaknya itu sedikit menenangkanku.
 Aku memeriksa baris terakhir surat tersebut.
 Leon Ashcroft
- Bellweather Lane, Ashford
+ Bellweather Lane, Alderwick
 Aku mengernyit.
 Tidak ada nomor rumah.
 Hanya nama jalan.
@@ -37,10 +37,10 @@ Aku memutuskan untuk menganggapnya sebagai kelalaian sang pemilik rumah dan tida
 Pintu kereta terbuka.
 Udara dingin langsung menyambutku, membawa bau besi, hujan, dan sesuatu yang samar-samar mengingatkanku pada rel yang basah.
 Aku menarik koper dan turun.
-Stasiun Ashford Central bukan stasiun yang megah, tetapi juga jauh dari kata sepi.
+Stasiun Alderwick Central bukan stasiun yang megah, tetapi juga jauh dari kata sepi.
 Kanopi besi tua menaungi orang-orang yang bergerak dalam berbagai arah: para pekerja yang bergegas pulang dengan tas kerja, seorang mahasiswa yang berbicara keras melalui ponselnya sambil berjalan cepat, dan dua orang berseragam kerja dengan jaket reflektif yang berdiri merokok di dekat mesin tiket.
 Di papan pengumuman tergantung berbagai lembaran kertas yang mulai kusam: poster open evening universitas, iklan pertandingan sepak bola amatir, dan pengumuman dewan kota mengenai penutupan sebagian Market Square pada akhir pekan berikutnya.
-Ashford, pikirku, adalah kota yang kehidupan penduduknya sudah berjalan jauh sebelum aku tiba.
+Alderwick, pikirku, adalah kota yang kehidupan penduduknya sudah berjalan jauh sebelum aku tiba.
 Aku hanya orang baru yang datang terlambat ke dalam cerita yang sudah dimulai.
 Di ujung peron berdiri sebuah telepon umum tua berwarna merah. Cat pada gagangnya telah terkelupas di beberapa bagian.
 Aku tidak tahu kenapa, tetapi ketika melihatnya, kepalaku tiba-tiba terasa kosong.
@@ -54,7 +54,7 @@ Aku tidak tahu mengapa detail itu terasa layak dicatat.
 Aku berjalan menuju pintu keluar.
 Di atas peron tergantung papan besar yang catnya mulai memudar.
 
-WELCOME TO ASHFORD
+WELCOME TO Alderwick
 A Town with a Story to Tell.
 
 Aku menatap papan itu beberapa detik.
@@ -67,7 +67,7 @@ Seorang pria berdiri beberapa langkah dariku. Rambutnya mulai memutih di pelipis
 Pria itu menatapku.
 "Kamu melihat kota ini seperti orang yang sedang mencoba mengingat sesuatu."
 Aku tersenyum tipis, berusaha mengabaikan rasa aneh yang tiba-tiba muncul.
-"Pertama kali di Ashford memang begitu."
+"Pertama kali di Alderwick memang begitu."
 "Yakin?"
 Aku terdiam.
 Ada sesuatu dalam pertanyaan itu.
@@ -136,7 +136,7 @@ Beberapa masih mempertahankan bentuk aslinya—teras bata dari akhir abad kesemb
 Yang lain telah direnovasi: jendela baru, cat baru, atap yang diganti.
 Tua dan baru berdiri berdampingan tanpa benar-benar menyatu.
 Di ujung jalan, taksi melewati persimpangan kecil menuju Marlowe Road.
-Untuk sesaat, aku melihat bagian lain Ashford.
+Untuk sesaat, aku melihat bagian lain Alderwick.
 Sebuah toko kelontong dengan papan nama Harris & Sons Grocers masih menyala meski tampaknya sudah melewati jam tutup. Di seberangnya terdapat halte bus dengan jadwal yang basah dan mulai sulit dibaca.
 Lebih jauh, di balik pepohonan, sebuah cerobong bata tua menjulang di atas kawasan yang tampaknya sudah lama kehilangan kegiatannya.
 "Daerah industri?" tanyaku.
@@ -310,7 +310,7 @@ Helen entah sudah masuk kamar atau pergi keluar.
 Aku membuka laptop, tetapi koneksi internet belum terpasang. Teknisi baru akan datang besok.
 Tidak masalah.
 Aku mengambil buku catatan dan menulis:
-ASHFORD — 12 NOVEMBER 2006
+Alderwick — 12 NOVEMBER 2006
 19:42 — tiba di stasiun.
 19:58 — tiba di rumah, Bellweather Lane (tanpa nomor).
 Helen menyambutku. Mengatakan aku "datang lebih awal dari perkiraan".
@@ -464,7 +464,7 @@ Tidak ada jaringan toko besar yang mendominasi deretan bangunan ini.
 Sebagian besar usaha tampaknya sudah berada di tangan keluarga yang sama selama bertahun-tahun.
 Aku melewati halte bus.
 Rute-rutenya tertulis pada papan jadwal:
-CENTRAL STATION → HIGH STREET → MARKET SQUARE → UNIVERSITY → NORTH ASHFORD
+CENTRAL STATION → HIGH STREET → MARKET SQUARE → UNIVERSITY → NORTH Alderwick
 Di dekat halte, seorang pria duduk di depan sebuah laptop tua.
 Sebuah kabel telepon menjulur dari dalam toko menuju perangkat itu.
 Layarnya memancarkan cahaya pucat di bawah langit pagi.
@@ -472,7 +472,7 @@ Pemandangan sederhana itu membuatku berpikir tentang betapa cepatnya dunia berub
 Komputer.
 Internet.
 Ponsel.
-Namun kota seperti Ashford tampaknya masih bergerak dengan kecepatannya sendiri.
+Namun kota seperti Alderwick tampaknya masih bergerak dengan kecepatannya sendiri.
 Jalan kemudian melebar.
 Rumah-rumah perlahan berganti menjadi toko.
 Sebuah plakat di ujung jalan bertuliskan:
@@ -483,7 +483,7 @@ Hari Minggu.
 Kios-kios pasar mulai didirikan.
 Seorang penjual bunga membuka kanopinya. Pedagang sayur menurunkan peti-peti dari sebuah van tua. Seorang penjual koran menyusun surat kabar pagi dengan gerakan cepat yang tampak sudah dilakukan ribuan kali.
 Aku berhenti sejenak.
-Ashford punya pusat kota yang hidup.
+Alderwick punya pusat kota yang hidup.
 Tempat ini sudah berjalan jauh sebelum aku datang.
 Ada toko-toko kecil, orang-orang yang saling menyapa dengan nama, bus yang datang dan pergi, dan suasana khas hari Minggu yang berbeda dari hari kerja.
 Anehnya, aku tidak merasa asing.
@@ -520,7 +520,7 @@ Atau justru seseorang yang seharusnya tidak pernah pergi telah pulang?
 ## Catatan Kontinuitas (untuk pengembangan — bukan bagian narasi)
 
 **Pengetahuan Leon akhir Chapter 1:**
-- Tiba di Ashford, menetap di Bellweather Lane (rumah tanpa nomor; hanya nama jalan).
+- Tiba di Alderwick, menetap di Bellweather Lane (rumah tanpa nomor; hanya nama jalan).
 - Menemukan simbol berulang: lingkaran + tiga garis + satu titik (di papan nama pintu depan & kepala kunci kamar).
 - Membaca papan pemberitahuan "Key found — please return to the house", November 1998.
 - Duduk bersama Helen; ia menyebut Leon "datang lebih awal dari perkiraan".

@@ -1,4 +1,4 @@
-# Chapter 18 — The Double Absence
+﻿# Chapter 18 — The Double Absence
 
 The lamp burned at nine on Tuesday night, steady, at its old height, and was carried away along the rooms in the old way, and no sound came along the lane; and I set it down as the rule held, and went to bed with the rule holding, which is a thing a man does not know he is grateful for until the rule stops holding.
 
@@ -20,7 +20,7 @@ The bench man was at the town hall. I knew it because the clerk's boy was at the
 
 I went on to Arthur's, because Arthur keeps a shop and a shop keeps hours, and because I had not told Arthur of the churchwardens' reckoning, and a thing that is not told is a thing that may be told at the hour when the telling is wanted.
 
-He was behind the counter with the book about Ashford that I had returned, and he did not look up from it when I came in, in the manner of a man that has heard the door open and has decided who it is by the opening.
+He was behind the counter with the book about Alderwick that I had returned, and he did not look up from it when I came in, in the manner of a man that has heard the door open and has decided who it is by the opening.
 
 "I have been to the vestry," I said.
 

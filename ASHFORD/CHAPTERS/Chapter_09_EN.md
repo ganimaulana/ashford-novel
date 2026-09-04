@@ -1,4 +1,4 @@
-# Chapter 9 — The House That Was Not Empty
+﻿# Chapter 9 — The House That Was Not Empty
 
 In the morning I did one sensible thing and one dangerous thing, and I cannot afterwards say with certainty which was which.
 
@@ -12,7 +12,7 @@ Helen had set porridge and a brown loaf before me when I came down, and she look
 
 "I advise nothing. I only notice."
 
-She turned back to the fire. It was not permission and it was not warning. It was the sort of answer people here give when they have learned to be careful in both directions. I began to understand that one of the things I had to learn in Ashford was how little may be contained in the way a sentence is begun.
+She turned back to the fire. It was not permission and it was not warning. It was the sort of answer people here give when they have learned to be careful in both directions. I began to understand that one of the things I had to learn in Alderwick was how little may be contained in the way a sentence is begun.
 
 I broke the seal at the table.
 

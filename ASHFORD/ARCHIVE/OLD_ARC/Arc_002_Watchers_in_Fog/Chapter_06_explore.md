@@ -1,8 +1,8 @@
-# Chapter 06 — Beneath Market Square
+﻿# Chapter 06 — Beneath Market Square
 
-Ashford, 6 December 2006
+Alderwick, 6 December 2006
 
-Market Square adalah pusat Ashford.
+Market Square adalah pusat Alderwick.
 
 Tempat orang berkumpul.
 
@@ -22,7 +22,7 @@ Dan aku harus turun ke sana.
 
 🟨
 
-Aku menghabiskan sepanjang hari mencari informasi tentang terowongan bawah tanah Ashford.
+Aku menghabiskan sepanjang hari mencari informasi tentang terowongan bawah tanah Alderwick.
 
 Sistem selokan tua.
 
@@ -303,7 +303,7 @@ Yang ditutup tetapi tidak sepenuhnya tertutup.
 
 Yang bocor.
 
-Yang membuat batas dimensi menipis di seluruh Ashford.
+Yang membuat batas dimensi menipis di seluruh Alderwick.
 
 🟨
 
@@ -501,7 +501,7 @@ Mungkin hanya sementara.
 
 Tetapi untuk sekarang...
 
-Ashford lebih aman.
+Alderwick lebih aman.
 
 Emily mungkin merasa loop-nya lebih lemah.
 
@@ -527,7 +527,7 @@ Keluar ke Mill Lane.
 
 Ke dunia normal.
 
-Ke Ashford yang sedikit lebih aman.
+Ke Alderwick yang sedikit lebih aman.
 
 **ARC 002 — THE WATCHERS IN THE FOG**
 

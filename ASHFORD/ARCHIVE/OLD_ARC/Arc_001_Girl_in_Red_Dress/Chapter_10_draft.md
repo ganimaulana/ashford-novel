@@ -1,4 +1,4 @@
-Chapter 10 — Jejak Edwin
+﻿Chapter 10 — Jejak Edwin
 Pagi itu aku kembali ke kafe.
 Bukan karena ada sesuatu yang ingin kutanyakan kepada Margaret.
 Aku hanya ingin sarapan.
@@ -23,7 +23,7 @@ Toko-toko membuka pintu.
 Orang-orang menuju tempat kerja.
 Beberapa mahasiswa berjalan menuju kawasan kampus.
 Aku mulai mengenali ritme ini tanpa perlu memikirkannya.
-Ashford tidak pernah benar-benar diam.
+Alderwick tidak pernah benar-benar diam.
 Hanya berubah jenis suaranya sepanjang hari.
 🟨
 
@@ -46,12 +46,12 @@ Wanita yang beberapa hari lalu datang ke kafe dan membawa amplop dengan namaku.
 "Sebagai apa?"
 "Seingatku, suaminya kolektor."
 Aku mengangguk.
-"Dia masih tinggal di Ashford?"
+"Dia masih tinggal di Alderwick?"
 "Ya."
 Margaret mengambil ponselnya.
 "Aku akan menghubunginya."
 🟨 Ponsel Margaret masih berupa telepon seluler sederhana. Tidak ada yang terlihat canggih dari cara dia menggunakannya. Dia hanya mencari nomor dari daftar kontak, menekan beberapa tombol, lalu menunggu.
-Namun benda kecil itu tetap menunjukkan perubahan Ashford.
+Namun benda kecil itu tetap menunjukkan perubahan Alderwick.
 Dulu, untuk menghubungi seseorang, orang mungkin harus datang langsung, mengirim surat, atau menggunakan telepon rumah.
 Sekarang sebagian orang sudah membawa nomor-nomor penting ke mana pun mereka pergi.
 Tetapi Margaret tetap memiliki buku kecil berisi nomor telepon di dekat mesin kasir.
@@ -87,7 +87,7 @@ Satu percakapan bisa menjadi jalan menuju percakapan berikutnya.
 Tidak ada sistem yang mencatat semua itu.
 Tidak ada database.
 Hanya ingatan manusia.
-Dan semakin lama aku tinggal di Ashford, semakin jelas bahwa ingatan warga adalah salah satu bagian dari infrastruktur kota ini.
+Dan semakin lama aku tinggal di Alderwick, semakin jelas bahwa ingatan warga adalah salah satu bagian dari infrastruktur kota ini.
 🟨
 
 Sore hari wanita itu datang.
@@ -120,7 +120,7 @@ Margaret tersenyum lalu kembali ke counter.
 🟨 Aku memperhatikan wanita itu beberapa saat.
 Dia tidak terlihat seperti seseorang yang sedang menjaga koleksi museum.
 Dia hanya memiliki benda-benda lama di rumahnya.
-Hal yang sama mungkin terjadi pada banyak keluarga di Ashford.
+Hal yang sama mungkin terjadi pada banyak keluarga di Alderwick.
 Barang diwariskan dari orang tua.
 Kemudian dari kakek-nenek.
 Sebagian dibeli dari toko barang antik.
@@ -293,7 +293,7 @@ Belum.
 Aku hanya memperhatikan.
 Ada bekas goresan di sekitar salah satu sekrup.
 Seolah seseorang pernah membukanya berkali-kali.
-🟨 Rumah wanita itu sendiri memperlihatkan sisi lain dari budaya koleksi di Ashford.
+🟨 Rumah wanita itu sendiri memperlihatkan sisi lain dari budaya koleksi di Alderwick.
 Benda-benda lama tidak selalu disimpan dalam ruang khusus.
 Sebagian dipajang seperti dekorasi biasa.
 Jam tetap digunakan.
@@ -385,7 +385,7 @@ Sekarang aku punya sesuatu yang bisa dicari.
 Dan untuk sementara, itu sudah cukup.
 🟨 Aku memasukkan buku catatan ke dalam saku.
 Di ujung jalan, lampu-lampu toko mulai menyala.
-Ashford memasuki sore.
+Alderwick memasuki sore.
 Orang-orang pulang dari pekerjaan.
 Mahasiswa meninggalkan kampus.
 Bus membawa penumpang menuju kawasan permukiman.
@@ -394,6 +394,6 @@ Aku berjalan pulang dengan satu fakta baru.
 Bellweather House pernah memiliki sebuah jam.
 Edwin menariknya dari pelelangan.
 Namun jam itu tetap berpindah tangan.
-Dan sekarang jam tersebut berada di Ashford, hanya beberapa menit perjalanan dari rumahku.
+Dan sekarang jam tersebut berada di Alderwick, hanya beberapa menit perjalanan dari rumahku.
 Aku belum tahu kenapa.
 Tetapi untuk pertama kalinya, masa lalu terasa cukup dekat untuk disentuh.

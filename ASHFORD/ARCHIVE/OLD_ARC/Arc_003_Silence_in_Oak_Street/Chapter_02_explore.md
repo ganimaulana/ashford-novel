@@ -1,6 +1,6 @@
-# Chapter 02 — The Root Network
+﻿# Chapter 02 — The Root Network
 
-Ashford, 9 December 2006
+Alderwick, 9 December 2006
 
 Aku menghabiskan malam membaca tentang hutan kuno.
 

@@ -1,4 +1,4 @@
-# Ashford Power System
+﻿# Alderwick Power System
 
 **Status:** 📗 CANON
 **Version:** 1.2
@@ -7,7 +7,7 @@
 
 ## Purpose
 
-This document defines the supernatural/power framework of the Ashford novel. It is a CANON REFERENCE.
+This document defines the supernatural/power framework of the Alderwick novel. It is a CANON REFERENCE.
 
 ## Guiding Principles
 
@@ -88,7 +88,7 @@ Agreement is a supernatural mechanism in which a binding relationship, condition
 
 ### Nature
 - Agreements are not generic "power-up contracts." They are specific, conditional, and often irreversible.
-- The exact mechanics and limits of Agreement are consistent with existing Ashford canon (the Agreement signed by Aurelius Ashcroft, the town's agreement to see nothing, keeper-related agreements).
+- The exact mechanics and limits of Agreement are consistent with existing Alderwick canon (the Agreement signed by Aurelius Ashcroft, the town's agreement to see nothing, keeper-related agreements).
 - An Agreement may be written, spoken, or implied. It may involve parties who are not human.
 - An Agreement may produce effects that are supernatural in nature, but the Agreement itself is a binding relationship, not a "spell" or "technique."
 
@@ -137,7 +137,7 @@ Anomaly represents supernatural phenomena whose underlying mechanism is unknown 
 
 ### Nature
 - Anomaly must NOT automatically be classified as Pneuma, Arc Item, Agreement, Faith, or Imprint simply because it is unexplained.
-- Anomaly is important for maintaining the mystery layer of Ashford. Not all phenomena must be categorized.
+- Anomaly is important for maintaining the mystery layer of Alderwick. Not all phenomena must be categorized.
 - Some Anomalies may later be reclassified as a known system once sufficient understanding is achieved. Others may remain permanently anomalous.
 - Anomaly is not a "category" that can be learned or controlled — it is a designation for the currently unknown.
 
@@ -226,7 +226,7 @@ This distinction preserves `Order_of_Severence.md` §106 while allowing Imprint 
 This document is a CANON REFERENCE. No existing canon chapters were retconned. No existing WORLD_BIBLE files were modified or overwritten without approval. The Imprint/Order conflict was resolved via author decision (option b) without requiring changes to `Order_of_Severence.md`.
 
 **Files created:**
-- `WORLD_BUILDING/Ashford_Power_System.md` (this file)
+- `WORLD_BUILDING/Alderwick_Power_System.md` (this file)
 
 **Files modified:**
 - None (no WORLD_BIBLE files were changed)

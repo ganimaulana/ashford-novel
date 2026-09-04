@@ -1,4 +1,4 @@
-Chapter 12 — Rumah di Ujung Jalan
+﻿Chapter 12 — Rumah di Ujung Jalan
 Aku bangun sebelum alarm.
 Bukan karena suara dari luar.
 Bukan karena mimpi.
@@ -73,7 +73,7 @@ Semakin mendekati High Street, semakin banyak kendaraan.
 Sebuah bus kota berhenti di halte.
 Pintu terbuka dengan suara mendesis.
 Dua mahasiswa turun sambil berbicara tentang ujian.
-🟨 Seragam sekolah, jaket universitas, tas ransel, koran pagi, bus kota, dan toko-toko yang baru membuka pintu membuat Ashford terasa jelas sebagai kota tahun 2006. Tidak ada layar digital besar di setiap sudut atau orang-orang yang berjalan sambil menatap telepon pintar. Informasi masih datang dari papan pengumuman, koran, televisi toko, telepon rumah, dan percakapan langsung.
+🟨 Seragam sekolah, jaket universitas, tas ransel, koran pagi, bus kota, dan toko-toko yang baru membuka pintu membuat Alderwick terasa jelas sebagai kota tahun 2006. Tidak ada layar digital besar di setiap sudut atau orang-orang yang berjalan sambil menatap telepon pintar. Informasi masih datang dari papan pengumuman, koran, televisi toko, telepon rumah, dan percakapan langsung.
 Aku memperhatikan semuanya sambil berjalan.
 Hal-hal kecil seperti itu mulai membuat kota ini terasa lebih nyata.
 Bukan seperti tempat yang menungguku.
@@ -87,7 +87,7 @@ Penjual bunga menata ember-ember berisi bunga di depan kios.
 Seorang pria tua duduk di bangku sambil membaca koran.
 Di sisi lain alun-alun, dua pekerja sedang memperbaiki papan nama sebuah toko.
 Aku berhenti sebentar.
-Dari sini aku bisa melihat Ashford Library.
+Dari sini aku bisa melihat Alderwick Library.
 Bangunan batu abu-abunya tampak sedikit lebih terang di bawah cahaya pagi.
 Aku baru menyadari bahwa di samping pintu terdapat papan kecil mengenai sejarah bangunan.
 Aku belum pernah membacanya.
@@ -100,7 +100,7 @@ Suara langkah kaki terdengar pelan di lantai.
 Beberapa orang duduk di meja baca.
 Seorang mahasiswa membuka laptop di dekat jendela.
 Di sebelahnya terdapat tumpukan buku.
-🟨 Perpustakaan Ashford bukan hanya tempat menyimpan buku tua. Ada bagian referensi, rak koran, komputer publik, meja kerja, dan ruang arsip lokal. Sebagian besar pengunjung menggunakan tempat itu untuk kebutuhan yang sangat biasa—mencari bahan kuliah, membaca koran, mengerjakan tugas, atau sekadar mencari tempat yang tenang.
+🟨 Perpustakaan Alderwick bukan hanya tempat menyimpan buku tua. Ada bagian referensi, rak koran, komputer publik, meja kerja, dan ruang arsip lokal. Sebagian besar pengunjung menggunakan tempat itu untuk kebutuhan yang sangat biasa—mencari bahan kuliah, membaca koran, mengerjakan tugas, atau sekadar mencari tempat yang tenang.
 Aku menuju meja referensi.
 Pustakawan yang pernah membantuku beberapa hari lalu sedang bekerja.
 Dia mengenaliku.
@@ -201,7 +201,7 @@ Aku mengangguk.
 "Baik."
 Dia kembali ke mejanya.
 Aku tetap duduk.
-🟨 Untuk pertama kalinya, arsip Ashford terasa seperti bagian dari kehidupan kota itu sendiri, bukan sekadar kumpulan dokumen tua. Ada catatan resmi, salinan, tulisan tangan warga, dokumen yang hilang, dan informasi yang mungkin tidak pernah masuk ke catatan pemerintah. Sejarah kota ternyata tidak tersimpan dalam satu tempat yang rapi.
+🟨 Untuk pertama kalinya, arsip Alderwick terasa seperti bagian dari kehidupan kota itu sendiri, bukan sekadar kumpulan dokumen tua. Ada catatan resmi, salinan, tulisan tangan warga, dokumen yang hilang, dan informasi yang mungkin tidak pernah masuk ke catatan pemerintah. Sejarah kota ternyata tidak tersimpan dalam satu tempat yang rapi.
 Aku menyalin kalimat itu.
 Do not return to estate.
 Aku tidak tahu siapa yang menulisnya.
@@ -232,8 +232,8 @@ Rumah.
 Tanah.
 Barang antik.
 Estate keluarga.
-Dia memang aktif cukup lama di Ashford.
-🟨 Dari arsip tersebut, Ashford mulai terlihat sebagai kota yang memiliki jaringan ekonomi lama: rumah keluarga berpindah tangan, barang-barang masuk ke pelelangan, toko barang antik membeli kembali benda lama, dan nama-nama keluarga muncul berulang kali di dokumen selama beberapa dekade. Kota kecil membuat hubungan antarmanusia dan kepemilikan menjadi lebih mudah dilacak—tetapi juga berarti masa lalu seseorang bisa terus muncul jauh setelah mereka meninggal.
+Dia memang aktif cukup lama di Alderwick.
+🟨 Dari arsip tersebut, Alderwick mulai terlihat sebagai kota yang memiliki jaringan ekonomi lama: rumah keluarga berpindah tangan, barang-barang masuk ke pelelangan, toko barang antik membeli kembali benda lama, dan nama-nama keluarga muncul berulang kali di dokumen selama beberapa dekade. Kota kecil membuat hubungan antarmanusia dan kepemilikan menjadi lebih mudah dilacak—tetapi juga berarti masa lalu seseorang bisa terus muncul jauh setelah mereka meninggal.
 Aku menutup map.
 Aku mulai memahami kenapa Arthur mengatakan bahwa sejarah kota tidak hanya tentang peristiwa besar.
 Kadang sejarah hanya berpindah tangan.
@@ -262,7 +262,7 @@ NO VACANCY
 Di sebuah persimpangan terdapat toko fotokopi kecil.
 Di dalamnya beberapa mahasiswa sedang menunggu dokumen dicetak.
 Aku melihat printer besar di balik kaca.
-🟨 Kehadiran universitas mengubah bagian kota ini. Rumah-rumah lama menjadi tempat kos mahasiswa, toko fotokopi dan alat tulis tumbuh di sekitar kampus, kafe kecil melayani mahasiswa, dan halte bus menjadi jauh lebih ramai pada jam tertentu. Ashford tidak memiliki satu pusat kehidupan saja; pusat kota lama dan kawasan universitas hidup berdampingan dengan ritme yang berbeda.
+🟨 Kehadiran universitas mengubah bagian kota ini. Rumah-rumah lama menjadi tempat kos mahasiswa, toko fotokopi dan alat tulis tumbuh di sekitar kampus, kafe kecil melayani mahasiswa, dan halte bus menjadi jauh lebih ramai pada jam tertentu. Alderwick tidak memiliki satu pusat kehidupan saja; pusat kota lama dan kawasan universitas hidup berdampingan dengan ritme yang berbeda.
 Aku melanjutkan berjalan.
 Di kejauhan terlihat beberapa gedung universitas.
 Sebagian bangunan lama terbuat dari batu.
@@ -274,7 +274,7 @@ Seorang wanita berbicara melalui telepon seluler.
 Aku berhenti sebentar.
 Tidak ada yang istimewa.
 Tetapi tempat ini terasa lebih muda daripada Market Square.
-Ashford ternyata memiliki dua wajah.
+Alderwick ternyata memiliki dua wajah.
 Kota lama.
 Dan kota yang sedang tumbuh.
 
@@ -335,7 +335,7 @@ Lebih muda.
 Lebih berisik.
 Banyak meja penuh mahasiswa.
 Di sudut ruangan terdapat beberapa komputer publik yang digunakan untuk mengetik.
-🟨 Berbeda dari Margaret's, tempat ini terasa seperti bagian dari kehidupan mahasiswa. Meja-mejanya penuh buku kuliah, fotokopi, pulpen, dan cangkir kopi. Beberapa mahasiswa berdiskusi sambil melihat layar komputer, sementara yang lain menunggu dokumen tercetak. Tempat seperti ini menunjukkan sisi Ashford yang lebih modern tanpa membuat kota itu terasa seperti kota besar.
+🟨 Berbeda dari Margaret's, tempat ini terasa seperti bagian dari kehidupan mahasiswa. Meja-mejanya penuh buku kuliah, fotokopi, pulpen, dan cangkir kopi. Beberapa mahasiswa berdiskusi sambil melihat layar komputer, sementara yang lain menunggu dokumen tercetak. Tempat seperti ini menunjukkan sisi Alderwick yang lebih modern tanpa membuat kota itu terasa seperti kota besar.
 Aku duduk.
 Daniel memesan.
 Kemudian dia menatapku.
@@ -421,7 +421,7 @@ Aku tahu jalan menuju perpustakaan.
 Aku tahu beberapa toko.
 Aku tahu halte.
 Aku mulai mengenal ritme kota.
-🟨 Ashford mulai terbentuk dalam pikiranku bukan sebagai daftar tempat, melainkan jaringan. High Street terhubung dengan Market Square. Market Square mengarah ke perpustakaan. Dari sana jalan menuju University District. Jalan lain membawa ke stasiun. Kawasan industri lama berada lebih jauh di sisi lain kota. Bellweather Lane berada di luar pusat keramaian, cukup dekat untuk berjalan kaki tetapi cukup jauh untuk membuat suasananya lebih tenang.
+🟨 Alderwick mulai terbentuk dalam pikiranku bukan sebagai daftar tempat, melainkan jaringan. High Street terhubung dengan Market Square. Market Square mengarah ke perpustakaan. Dari sana jalan menuju University District. Jalan lain membawa ke stasiun. Kawasan industri lama berada lebih jauh di sisi lain kota. Bellweather Lane berada di luar pusat keramaian, cukup dekat untuk berjalan kaki tetapi cukup jauh untuk membuat suasananya lebih tenang.
 Semua tempat itu terpisah.
 Tetapi tidak benar-benar terpisah.
 Orang-orang bergerak di antara semuanya setiap hari.
@@ -436,10 +436,10 @@ Mahasiswa berjalan menuju halte.
 Seorang anak membawa kantong roti.
 Aku berhenti di depan papan pengumuman.
 Ada poster baru.
-ASHFORD WINTER MARKET — DECEMBER 2006
+Alderwick WINTER MARKET — DECEMBER 2006
 Di bawahnya terdapat tanggal dan lokasi.
 Aku membaca sebentar.
-🟨 Sebuah kota kecil tidak berhenti ketika toko-toko tutup. Acara komunitas seperti winter market, pertunjukan sekolah, kegiatan gereja, dan bazar amal membuat Market Square tetap menjadi tempat berkumpul warga, bahkan ketika tidak ada pasar harian. Ashford terasa memiliki kalender sosialnya sendiri.
+🟨 Sebuah kota kecil tidak berhenti ketika toko-toko tutup. Acara komunitas seperti winter market, pertunjukan sekolah, kegiatan gereja, dan bazar amal membuat Market Square tetap menjadi tempat berkumpul warga, bahkan ketika tidak ada pasar harian. Alderwick terasa memiliki kalender sosialnya sendiri.
 Aku melanjutkan perjalanan.
 
 Aku hampir sampai rumah ketika melihat sesuatu.
@@ -585,7 +585,7 @@ Kali ini aku tidak mengikuti orang tersebut.
 Aku mematikan lampu kamar.
 Menutup tirai.
 Dan kembali ke tempat tidur.
-Untuk pertama kalinya sejak tiba di Ashford, aku menyadari bahwa mungkin bukan hanya aku yang sedang mencari sesuatu.
+Untuk pertama kalinya sejak tiba di Alderwick, aku menyadari bahwa mungkin bukan hanya aku yang sedang mencari sesuatu.
 Mungkin seseorang di kota ini juga sedang menunggu sesuatu.
 Dan mungkin...
 mereka tahu aku sudah mulai mencari.

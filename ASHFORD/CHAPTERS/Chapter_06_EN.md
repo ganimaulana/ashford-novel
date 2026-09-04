@@ -1,4 +1,4 @@
-# Chapter 6 — A Wrong Name
+﻿# Chapter 6 — A Wrong Name
 
 I did not go straight home after finding that envelope.
 
@@ -410,7 +410,7 @@ From a distance came the sound of a horse's bell.
 
 The café stayed busy.
 
-Ashford still looked like an ordinary town.
+Alderwick still looked like an ordinary town.
 
 And perhaps it still was.
 
@@ -454,7 +454,7 @@ Margaret turned.
 
 "What did you say?"
 
-"Is there... among all the people you know in Ashford, was there ever a name Aurelius? Aurelius Ashcroft?"
+"Is there... among all the people you know in Alderwick, was there ever a name Aurelius? Aurelius Ashcroft?"
 
 Margaret fell silent.
 
@@ -546,7 +546,7 @@ Margaret set the cloth down.
 
 Margaret considered.
 
-"Someone who came to Ashford and made many things happen. But he was rarely seen in the streets. A person like that is rarely seen."
+"Someone who came to Alderwick and made many things happen. But he was rarely seen in the streets. A person like that is rarely seen."
 
 "What did he do?"
 

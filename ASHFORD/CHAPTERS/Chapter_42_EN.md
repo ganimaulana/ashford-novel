@@ -1,4 +1,4 @@
-# CHAPTER 42 — THE ORDER OF SEVERENCE
+﻿# CHAPTER 42 — THE ORDER OF SEVERENCE
 
 The first sign of the Order was not a meeting.
 
@@ -122,7 +122,7 @@ He returned the paper.
 
 "How do you know they exist?"
 
-"Because Ashford is old."
+"Because Alderwick is old."
 
 That was his answer.
 
@@ -234,7 +234,7 @@ I had no particular reason to be there.
 
 At least, that was what I told myself.
 
-Ashford's market occupied the same stretch of square it had occupied for generations. Fishmongers argued over space. Farmers complained about the weather. Women moved between stalls carrying baskets. Somewhere nearby, a horse objected loudly to being harnessed.
+Alderwick's market occupied the same stretch of square it had occupied for generations. Fishmongers argued over space. Farmers complained about the weather. Women moved between stalls carrying baskets. Somewhere nearby, a horse objected loudly to being harnessed.
 
 Nothing looked unusual.
 
@@ -460,9 +460,9 @@ I waited.
 
 She continued.
 
-"The Order is not made up of people who agree about everything. Some believe the old boundaries are mistakes. Some believe the agreements were made by frightened men. Some believe the things beneath Ashford were never meant to remain hidden."
+"The Order is not made up of people who agree about everything. Some believe the old boundaries are mistakes. Some believe the agreements were made by frightened men. Some believe the things beneath Alderwick were never meant to remain hidden."
 
-"Beneath Ashford?"
+"Beneath Alderwick?"
 
 She paused.
 
@@ -760,7 +760,7 @@ I wrote down everything I knew about the Order.
 
 It was not much.
 
-They had existed in Ashford for decades.
+They had existed in Alderwick for decades.
 
 They had no obvious headquarters.
 
@@ -788,7 +788,7 @@ Then I added one final line.
 
 I left the notebook open.
 
-For the first time since I had begun looking into the strange things around Ashford, that possibility felt less like a weakness and more like a clue.
+For the first time since I had begun looking into the strange things around Alderwick, that possibility felt less like a weakness and more like a clue.
 
 Perhaps there was no single person who knew everything.
 

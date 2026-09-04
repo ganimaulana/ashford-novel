@@ -1,4 +1,4 @@
-CHAPTER 40 — THE AGREEMENT
+﻿CHAPTER 40 — THE AGREEMENT
 
 I returned to the house two days later.
 
@@ -52,7 +52,7 @@ I studied him more carefully.
 
 That changed things.
 
-I had known Calloway had not been the first man to keep order in Ashford.
+I had known Calloway had not been the first man to keep order in Alderwick.
 
 I had not known the previous constable was still alive.
 
@@ -772,7 +772,7 @@ So did the house.
 
 So did the town.
 
-But somewhere beneath Ashford, something had answered when I brought the object to the door.
+But somewhere beneath Alderwick, something had answered when I brought the object to the door.
 
 That was enough.
 

@@ -1,6 +1,6 @@
-# Chapter 14 — The Blessing
+﻿# Chapter 14 — The Blessing
 
-Ashford, 28 November 2006
+Alderwick, 28 November 2006
 
 Aku berlutut di depan batu nisan tanpa nama.
 
@@ -275,13 +275,13 @@ Emily tersenyum.
 
 Senyum yang sedih tetapi tulus.
 
-"Aku tahu kau akan mencoba. Tetapi berhati-hatilah, Leon. Semakin dalam kau masuk ke misteri ini, semakin berbahaya jadinya. Ada hal-hal di Ashford yang tidak seharusnya diganggu. Ada rahasia yang tidak seharusnya diungkap."
+"Aku tahu kau akan mencoba. Tetapi berhati-hatilah, Leon. Semakin dalam kau masuk ke misteri ini, semakin berbahaya jadinya. Ada hal-hal di Alderwick yang tidak seharusnya diganggu. Ada rahasia yang tidak seharusnya diungkap."
 
 "Aku tidak takut," kataku.
 
 Emily menatapku dengan tatapan yang lebih dalam.
 
-"Kau harus takut. Karena apa yang terjadi padaku... hanya permukaan. Ada sesuatu yang lebih besar di bawah Ashford. Sesuatu yang gelap. Dan kau baru saja mulai melihatnya."
+"Kau harus takut. Karena apa yang terjadi padaku... hanya permukaan. Ada sesuatu yang lebih besar di bawah Alderwick. Sesuatu yang gelap. Dan kau baru saja mulai melihatnya."
 
 🟨
 
@@ -373,7 +373,7 @@ Dan tentang sesuatu yang lebih gelap.
 
 Sesuatu yang lebih besar.
 
-Yang menunggu di bawah Ashford.
+Yang menunggu di bawah Alderwick.
 
 🟨
 

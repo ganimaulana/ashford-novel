@@ -50,7 +50,7 @@ There was a hand-bill on the church door, and I did not know the thing until I w
 
 *At the present period, when the parts about London are discomposed by meetings of thousands upon thousands, and atrocious doctrines* — it was the magistrate's pen, I judged, though the paper did not name him, for there was a sound to that word *discomposed* which means the person writing it is not, in the event, composed —
 
-It called upon the respectable householders to enroll themselves in a voluntary association for the preservation of order in Ashford, and to give their names to the constable within the week, and to be steady men, and not to be led by designs to bring the peace, so lately preserved by Providence, into hazard.
+It called upon the respectable householders to enroll themselves in a voluntary association for the preservation of order in Alderwick, and to give their names to the constable within the week, and to be steady men, and not to be led by designs to bring the peace, so lately preserved by Providence, into hazard.
 
 I stood in the fog a long time looking at it; the verger's church door and the magistrate's sheet, with a crowd going by it, which is the fate of all notices in the market of a Wednesday.
 
@@ -58,7 +58,7 @@ I stood in the fog a long time looking at it; the verger's church door and the m
 
 It was not politics. They never said it like politics. In the coffee house at noonday they said it plain: the price was up, the peace was safe, and the sheet of paper would keep it so: and Michael at two tables back held the pen before the book was opened, the way people read a menu — out of the corner of both eyes — and said *who'll have me?* to the room, and the room's laugh was not exactly no.
 
-And I said nothing, and the coffee was not good, and then Daniel was late, and the boy took me no letters, and that morning I stood the only place in the town where I have been since that I meant to be: which is not a thing anyone in Ashford has asked me to be, yet: and I had a paper in my pocket the copy of a scraped name; for I had carried out of the town hall a page's date, and the fact that someone within two years had undone a binding; and the two pieces together meant this: the eraser was here now, and walks the same four streets, and had had at one time the book itself, out of a press that was unlocked.
+And I said nothing, and the coffee was not good, and then Daniel was late, and the boy took me no letters, and that morning I stood the only place in the town where I have been since that I meant to be: which is not a thing anyone in Alderwick has asked me to be, yet: and I had a paper in my pocket the copy of a scraped name; for I had carried out of the town hall a page's date, and the fact that someone within two years had undone a binding; and the two pieces together meant this: the eraser was here now, and walks the same four streets, and had had at one time the book itself, out of a press that was unlocked.
 
 By the time of the post office my name was on the sheet.
 
@@ -70,7 +70,7 @@ Daniel told me so, in the street, out of breath.
 
 "Your name has that on it already," Daniel said — and then, because Daniel is the sort of man who knows the moment he has said too much: "What I don't mean to say is that I want it asked. What I mean is that if you're on a list with Michael, then you're on Michael's side of whatever comes; and if your name's down there by Michael and the man at the bell and the squire's people, that's a sort of address. And that'll do for the one who gives a nameless note to his cousin to carry, to look up a man's address and see if he's there."
 
-It is a thing I have since learned about Ashford and about the sheet: that lists are a sort of book with a binding, and you would think the paper's not much, and you'd be right, to think so: and you'd be right, too, that when the names are all down on the same sheet the writing of them is the paper's. I put my name; and there it is, in the hand of the constable's clerk, in the town's own list, among the people it would never have entered my head in London to want to be reckoned with: and if it means nothing it means nothing, and if it means a thing then it has meant it this morning, and there's been a week the lane had been quiet of the letters, since the day it asked, by the lamp, what I was.
+It is a thing I have since learned about Alderwick and about the sheet: that lists are a sort of book with a binding, and you would think the paper's not much, and you'd be right, to think so: and you'd be right, too, that when the names are all down on the same sheet the writing of them is the paper's. I put my name; and there it is, in the hand of the constable's clerk, in the town's own list, among the people it would never have entered my head in London to want to be reckoned with: and if it means nothing it means nothing, and if it means a thing then it has meant it this morning, and there's been a week the lane had been quiet of the letters, since the day it asked, by the lamp, what I was.
 
 ---
 
@@ -96,6 +96,6 @@ He wished me good night, going down the one road, and went up to bed in the vest
 
 and I sat down to put it in the book, and could not, for the life of my pen; for the whole thing was not true till I had wrote it:
 
-I do not, I wrote, know what the town will do, in case the truth is found out — but the town is in the act, that same, of not thinking nothing; — and the first thing in Ashford that has stopped thinking nothing, as I understand, is the bell.
+I do not, I wrote, know what the town will do, in case the truth is found out — but the town is in the act, that same, of not thinking nothing; — and the first thing in Alderwick that has stopped thinking nothing, as I understand, is the bell.
 
 I shut the book and sat a moment with my hand still on it. The cold from the bell had not quite left my fingers, though I had not touched it for hours. I did not think much of it — the weather, the late hour, the strain of the week's watching. But I noted it, as I note all things that do not fit, and let it stand.

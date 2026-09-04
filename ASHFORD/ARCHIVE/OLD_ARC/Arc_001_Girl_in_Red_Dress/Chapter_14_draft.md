@@ -1,4 +1,4 @@
-Chapter 14 — Orang yang Sudah Pergi
+﻿Chapter 14 — Orang yang Sudah Pergi
 Aku tidak tidur nyenyak malam itu.
 Bukan karena pesan yang kutemukan di amplop.
 Aku sudah mencoba untuk tidak memikirkannya.
@@ -42,7 +42,7 @@ Aku berhenti sebentar.
 Aku melihat orang-orang itu.
 Datang.
 Pergi.
-Mungkin itu hal paling biasa di Ashford.
+Mungkin itu hal paling biasa di Alderwick.
 Namun kalimat di amplop tadi membuat kata pergi terasa berbeda.
 
 Di perpustakaan, aku langsung menuju bagian arsip.
@@ -76,11 +76,11 @@ Aku mengerutkan kening.
 "Seharusnya ada lebih banyak."
 "Belum tentu," kata pustakawan.
 "Kenapa?"
-"Kalau orang pindah dari Ashford, catatannya mungkin berada di tempat lain."
+"Kalau orang pindah dari Alderwick, catatannya mungkin berada di tempat lain."
 Aku mengangguk.
 Benar.
 Aku terlalu fokus pada kota ini.
-Seseorang bisa tinggal di Ashford selama puluhan tahun lalu pindah ke kota lain.
+Seseorang bisa tinggal di Alderwick selama puluhan tahun lalu pindah ke kota lain.
 Tidak semua jejak kehidupannya akan tetap berada di sini.
 
 Aku bertanya apakah ada daftar penduduk lama.
@@ -123,7 +123,7 @@ Margaret Wren — temporary residence.
 Tahun:
 1983.
 Alamat:
-Sebuah jalan di bagian barat Ashford.
+Sebuah jalan di bagian barat Alderwick.
 Aku menyalinnya.
 Kemudian mencari alamat tersebut di peta.
 Tidak terlalu jauh dari pusat kota.
@@ -142,7 +142,7 @@ Bangunan baru dibangun.
 Kota berubah.
 Itu biasa.
 Aku menulis:
-1983 — Margaret Wren tercatat tinggal di Ashford Barat.
+1983 — Margaret Wren tercatat tinggal di Alderwick Barat.
 Kemudian:
 Alamat lama sudah tidak ada.
 Aku berhenti.
@@ -254,7 +254,7 @@ Margaret mengangkat alis.
 "Dia anak Thomas Wren."
 Margaret mengangguk.
 "Masuk akal."
-"Dia juga pernah tinggal di Ashford pada 1983."
+"Dia juga pernah tinggal di Alderwick pada 1983."
 "Masih?"
 "Tidak tahu."
 Margaret diam.
@@ -289,7 +289,7 @@ Kemudian mengembalikan kertas itu.
 "Untuk apa?"
 "Untuk bertanya tentang Bellweather House."
 Margaret diam.
-"Kau tahu kalau dia mungkin sudah tidak tinggal di Ashford."
+"Kau tahu kalau dia mungkin sudah tidak tinggal di Alderwick."
 "Aku tahu."
 "Dan mungkin sudah meninggal."
 Aku mengangguk.

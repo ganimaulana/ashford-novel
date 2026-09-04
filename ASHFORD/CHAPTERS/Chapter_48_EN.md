@@ -1,4 +1,4 @@
-CHAPTER 48 — THE THINGS WE KEEP
+﻿CHAPTER 48 — THE THINGS WE KEEP
 
 He was worse in the first week of August.
 
@@ -44,7 +44,7 @@ I set it on the table between us.
 
 I opened it.
 
-Papers, folded and refolded until the creases had gone soft. A bundle of letters tied with tape, the tape gone brown. A service journal in dark leather, the spine broken, the edges of the pages dirty in the way paper goes dirty in a coat pocket over years. A district map, not of Ashford, marked in ink in more than one shade. Two small bottles, stoppered, labelled in a hand I did not know. A brass button, military, worn smooth on the face. A woman's ring, too small for any finger of his.
+Papers, folded and refolded until the creases had gone soft. A bundle of letters tied with tape, the tape gone brown. A service journal in dark leather, the spine broken, the edges of the pages dirty in the way paper goes dirty in a coat pocket over years. A district map, not of Alderwick, marked in ink in more than one shade. Two small bottles, stoppered, labelled in a hand I did not know. A brass button, military, worn smooth on the face. A woman's ring, too small for any finger of his.
 
 And a folded square of cloth at the bottom, empty, with a shape pressed into it that I recognised.
 

@@ -21,7 +21,7 @@
 
 **Examples:**
 - Leon Ashcroft = protagonist name (established)
-- Ashford = town name (established)
+- Alderwick = town name (established)
 - Story start = 1816 (established; timeline is DYNAMIC per `../../LIVING_CANON_TIMELINE_SOP.md`)
 - First-person POV (established)
 
@@ -44,7 +44,7 @@
 - Should remain consistent unless good reason
 
 **Examples:**
-- Geographic framework (Ashford = river valley town)
+- Geographic framework (Alderwick = river valley town)
 - ARC classification system
 - Arthur as historical researcher
 - Underground network structure
@@ -99,7 +99,7 @@
 - True identity of Helen
 - Aurelius Ashcroft's real history
 - True nature of specific anomalies
-- Hidden history of Ashford
+- Hidden history of Alderwick
 - Mystery solution
 - Character secret backstories
 
@@ -445,7 +445,7 @@ Pertanyaan canon yang telah diputuskan. Disimpan di sini sebagai referensi agar 
 **Keputusan:** B — Bookshop (bukan antique shop, bukan curio/oddities shop)
 
 **Catatan keputusan:**
-- Toko Arthur adalah toko buku. Fokus: buku lama, buku kuno, edisi langka, materi kertas bersejarah, memorabilia Ashford.
+- Toko Arthur adalah toko buku. Fokus: buku lama, buku kuno, edisi langka, materi kertas bersejarah, memorabilia Alderwick.
 - Nama toko: Bell's Books (bukan Bell's Books & Antiquities).
 - Arthur Edmund Bell = Mr. Bell. Satu karakter tunggal; "Mr. Bell" adalah sapaan formal dari Leon dan warga.
 - "Kotak kayu" yang diperiksa Arthur di toko dapat berisi dokumen/catatan lama — bukan diasumsikan sebagai barang antik.

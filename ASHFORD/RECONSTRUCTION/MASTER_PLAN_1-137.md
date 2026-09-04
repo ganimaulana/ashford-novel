@@ -1,4 +1,4 @@
-# MASTER RECONSTRUCTION PLAN — ASHFORD 1–137
+﻿# MASTER RECONSTRUCTION PLAN — Alderwick 1–137
 
 **Status:** IN PROGRESS
 **Last Updated:** 2026-09-02
@@ -14,7 +14,7 @@
 The story progresses through three major movements:
 
 **Movement 1 — THE BELLWEATHER CYCLE (Ch 1–47)**
-- Leon arrives in Ashford, inherits No. 13 Bellweather Lane.
+- Leon arrives in Alderwick, inherits No. 13 Bellweather Lane.
 - Discovers the annual 13–21 November disturbance, the symbol (circle+3 lines+dot), and the Bellweather estate's hidden history.
 - Encounters the Bell (tolls at 00:00 on specific nights), the lamp, the mill-yard gate, and the vanished bell.
 - Learns of Aurelius Ashcroft's will, the partial inheritance, and the Agreement.
@@ -30,7 +30,7 @@ The story progresses through three major movements:
 - Finds the second medallion, the bell, the key, and the lock.
 - Realizes the Door is not a door but a memory, and the Keeper's duty is to keep the account.
 - Passes the keeping to Daniel Wren.
-- Leaves Ashford.
+- Leaves Alderwick.
 
 **Movement 3 — THE HUNTER (Ch 87–137)**
 - Leon becomes a hunter of Arc Items and information.

@@ -1,4 +1,4 @@
-CHAPTER 43 — THE WATCHMAN
+﻿CHAPTER 43 — THE WATCHMAN
 
 The Order did not recruit me immediately.
 
@@ -6,7 +6,7 @@ They watched.
 
 At first, I was not certain of that.
 
-Ashford was a small town. The same faces appeared everywhere. A man could pass you in the morning, stand behind you in the market at noon, and sit three tables away in an inn that evening without there being anything unusual about it.
+Alderwick was a small town. The same faces appeared everywhere. A man could pass you in the morning, stand behind you in the market at noon, and sit three tables away in an inn that evening without there being anything unusual about it.
 
 I had spent enough time in the town to know that coincidence was common.
 
@@ -514,7 +514,7 @@ I looked at the mill.
 
 Then at the town beyond it.
 
-Ashford had always seemed like a place that watched without admitting that it watched.
+Alderwick had always seemed like a place that watched without admitting that it watched.
 
 People remembered things.
 

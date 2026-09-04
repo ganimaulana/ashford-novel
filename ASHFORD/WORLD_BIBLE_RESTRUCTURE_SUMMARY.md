@@ -1,7 +1,7 @@
 ﻿# WORLD BIBLE RESTRUCTURE — SUMMARY
 
 **Status:** 📘 WORKING CANON | **Version:** 2.0 | **Last Updated:** 2026-08-31
-**Scope:** Restructured `ASHFORD/WORLD_BIBLE/` (1816 Regency England setting)
+**Scope:** Restructured `Alderwick/WORLD_BIBLE/` (1816 Regency England setting)
 **Source of truth:** `00_INDEX/WORLD_BIBLE_INDEX.md`, `00_MASTER/*`, and all numbered category folders
 
 ---
@@ -15,7 +15,7 @@ The World Bible was reorganized from flat, mixed-era notes (2006-era assumptions
 - A small set of MASTER documents as the authoritative foundation
 - Separation of working canon from non-canon reference material
 
-**Core principle:** Ashford is a plausible small English market town in 1816. The supernatural is a hidden layer beneath ordinary life — never the default texture of the town.
+**Core principle:** Alderwick is a plausible small English market town in 1816. The supernatural is a hidden layer beneath ordinary life — never the default texture of the town.
 
 ---
 
@@ -24,7 +24,7 @@ The World Bible was reorganized from flat, mixed-era notes (2006-era assumptions
 | Folder | Category | Contents | Files |
 |---|---|---|---|
 | `00_INDEX` | Index | `WORLD_BIBLE_INDEX.md` — structure, reading priority, AI rules | 1 |
-| `00_MASTER` | Master foundation | `World_Foundation_v2.md`, `Ashford_Master.md`, `Canon_Rules.md`, `Continuity_Master.md`, `Quick_Reference_v2.md` | 5 |
+| `00_MASTER` | Master foundation | `World_Foundation_v2.md`, `Alderwick_Master.md`, `Canon_Rules.md`, `Continuity_Master.md`, `Quick_Reference_v2.md` | 5 |
 | `01_GEOGRAPHY` | Physical/social setting | City overview, districts, streets, anomalies, businesses | 20 |
 | `02_ARCHITECTURE` | Architecture | `Architecture_Master.md`, period styles, contrast & atmosphere | 6 |
 | `03_BUILDINGS` | Key buildings | `Buildings.md`, cafes, churches, residences, abandoned sites | 9 |
@@ -34,7 +34,7 @@ The World Bible was reorganized from flat, mixed-era notes (2006-era assumptions
 | `07_ANOMALIES` | Anomalies | Recorded anomalous events/entities | 39 |
 | `08_UNDERGROUND` | Underground | Hidden networks beneath the town | 2 |
 | `09_MYSTERY` | Mystery | Mystery architecture, clues, reveals, unresolved questions | 5 |
-| `10_TIMELINE` | Timeline | `Ashford_Timeline.md` — chronological events | 1 |
+| `10_TIMELINE` | Timeline | `Alderwick_Timeline.md` — chronological events | 1 |
 | `11_ATMOSPHERE` | Atmosphere | `Atmosphere_Guide.md` — consolidated mood/atmosphere data | 1 |
 | `12_NOVEL` | Novel | Novel-level notes | 1 |
 | `13_REFERENCE` | Reference | Frameworks, `LOTM` extracts, `Supernatural_System.md`, `Ideas_Not_Canon.md` | 1434 |

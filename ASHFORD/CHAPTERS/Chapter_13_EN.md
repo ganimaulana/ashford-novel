@@ -1,4 +1,4 @@
-# Chapter 13 — The Churchwardens’ Reckoning
+﻿# Chapter 13 — The Churchwardens’ Reckoning
 
 Friday came in with a frost that held the lane by the throat until noon. I had written my name on the watch-roll six days before, and the town had taken it without remark, because a man who signs such a paper is either useful or harmless, and the town prefers to wait before deciding which.
 
@@ -60,7 +60,7 @@ I thanked him and went out into the cold.
 
 At noon I walked the length of High Street to find the sign. It was there, as the clerk had said: *Crane & Son, Ironmongers*, painted in letters that had been renewed within the last few years but followed an older pattern underneath. The window displayed hinges, nails, pot-hooks, a pair of fire-irons. No bells. Bells are not ordinary stock for an ironmonger; they are cast, not forged; they come from foundries, not shops. A bell in an ironmonger’s possession is a bell that was bought second-hand, or inherited, or kept.
 
-I did not go in. I had no question yet that the shop could answer, and I had learned from Arthur and from Margaret and from the clerk himself that in Ashford a question asked too soon becomes a question that will never be answered again. I stood across the street and watched the door for twenty minutes and saw a boy go in with a parcel and come out without one, and a woman go in and stay, and a man in a leather apron go in and come out carrying a length of chain. Ordinary trade. The bell, if it was ever there, was not in the window.
+I did not go in. I had no question yet that the shop could answer, and I had learned from Arthur and from Margaret and from the clerk himself that in Alderwick a question asked too soon becomes a question that will never be answered again. I stood across the street and watched the door for twenty minutes and saw a boy go in with a parcel and come out without one, and a woman go in and stay, and a man in a leather apron go in and come out carrying a length of chain. Ordinary trade. The bell, if it was ever there, was not in the window.
 
 I went home and wrote in my book:
 

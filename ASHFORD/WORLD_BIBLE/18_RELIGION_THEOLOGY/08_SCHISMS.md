@@ -1,6 +1,6 @@
-# 18_RELIGION_THEOLOGY — 08_SCHISMS
+﻿# 18_RELIGION_THEOLOGY — 08_SCHISMS
 
-**STATUS:** [BELUM DIISI] — Kandang untuk perpecahan, denominasi, dan perpecahan internal di Ashford.
+**STATUS:** [BELUM DIISI] — Kandang untuk perpecahan, denominasi, dan perpecahan internal di Alderwick.
 
 ## Scope
 - Church of England / Roman Catholic divide

@@ -1,6 +1,6 @@
-# Chapter 4 — The People of Ashford
+﻿# Chapter 4 — The People of Alderwick
 
-That morning I woke later than usual. There was no particular reason. I simply did not have work for a few more days, and for the first time since arriving in Ashford, I did not feel the need to go anywhere at once.
+That morning I woke later than usual. There was no particular reason. I simply did not have work for a few more days, and for the first time since arriving in Alderwick, I did not feel the need to go anywhere at once.
 
 I made a simple breakfast. Then I read the newspaper in the dining room.
 
@@ -23,7 +23,7 @@ I knew the bakery that was usually full by morning.
 I knew the stagecoach stop near Market Square.
 I was even beginning to recognise certain buildings by the shape of their windows.
 
-Ashford was slowly changing from a foreign town into a collection of places I could recognise.
+Alderwick was slowly changing from a foreign town into a collection of places I could recognise.
 Not yet a home.
 But no longer entirely strange.
 
@@ -98,7 +98,7 @@ Then she left again.
 
 I began to eat. I thought about that number.
 Ten years.
-For someone living in a large city, knowing most of a café's customers might sound absurd. But Ashford was different. The town was small enough that one could meet the same people many times.
+For someone living in a large city, knowing most of a café's customers might sound absurd. But Alderwick was different. The town was small enough that one could meet the same people many times.
 The same shop.
 The same stop.
 The same pub.
@@ -150,7 +150,7 @@ I smiled.
 "Who are you?"
 "Michael."
 We shook hands.
-"Welcome to Ashford."
+"Welcome to Alderwick."
 "Thank you."
 Michael went back to reading his newspaper. I continued my breakfast.
 Nothing special.
@@ -355,7 +355,7 @@ A new address.
 A house number written over.
 Someone who had moved.
 Someone who didn't know.
-In a larger town, such a letter might simply be lost. In Ashford, someone might know who to ask.
+In a larger town, such a letter might simply be lost. In Alderwick, someone might know who to ask.
 Margaret knew the person.
 I could read the handwriting.
 And the man could continue his search.
@@ -456,7 +456,7 @@ Then Margaret suddenly said:
 "Hm?"
 "Do you still have the book Arthur gave you?"
 I looked up.
-"The Ashford history book?"
+"The Alderwick history book?"
 "Yes."
 "Still."
 "Finished?"
@@ -508,12 +508,12 @@ I turned.
 "Give Arthur my regards."
 
 I walked towards Arthur's shop. It was not far from the café. The route was also in the same direction as my house.
-I only realised this after a few days in Ashford. If I kept walking from the town centre, past High Street, I could reach Arthur's shop before eventually turning towards Bellweather Lane. So I did not need to go out of my way.
+I only realised this after a few days in Alderwick. If I kept walking from the town centre, past High Street, I could reach Arthur's shop before eventually turning towards Bellweather Lane. So I did not need to go out of my way.
 The food package was still warm in my hand.
 I did actually want to see Arthur.
 Not because of anything strange.
 I was still thinking about a passage from the book he had given me.
-There was an old term used in one of the notes about the Ashford area.
+There was an old term used in one of the notes about the Alderwick area.
 I had looked for it in the dictionary.
 Found nothing.
 Perhaps the term was only used in local records.
@@ -521,11 +521,11 @@ And if there was someone who might know the answer...
 Arthur.
 I walked a little faster.
 
-The road from Margaret's to Arthur's shop showed a different part of Ashford from Market Square. The shops here were smaller. Some still used family name boards.
+The road from Margaret's to Arthur's shop showed a different part of Alderwick from Market Square. The shops here were smaller. Some still used family name boards.
 A tailor's shop with fabric displayed in the window.
 A hardware shop showing tools behind the glass.
 A flower shop with buckets set out on the pavement.
-Among them stood old houses whose front sections had been turned into shops. Ashford had no clear boundary between commercial and residential areas.
+Among them stood old houses whose front sections had been turned into shops. Alderwick had no clear boundary between commercial and residential areas.
 The two mixed. People could live on the upper floors and open a shop below. A family could run the same business for several generations. And a building that once had a different function could be reused without entirely losing its old shape.
 
 ---
@@ -574,7 +574,7 @@ Arthur smiled.
 I waited.
 Arthur opened a desk drawer. He took out an old map. "Sometimes a name changes." He unfolded the map. "Sometimes streets change."
 His finger moved along the street lines. "Sometimes people keep using the old name even when the official one has changed." I looked at the map. Arthur pointed at an area.
-"If you want to understand Ashford's history, don't only read the names written in books."
+"If you want to understand Alderwick's history, don't only read the names written in books."
 "Why?"
 "Because the people who live here don't always call places by the same name."
 I nodded slowly.
@@ -598,14 +598,14 @@ Arthur nodded.
 "Good."
 
 I looked at the map once more before Arthur put it away.
-The lines of its streets were not entirely the same as the Ashford I knew now.
+The lines of its streets were not entirely the same as the Alderwick I knew now.
 Some names had changed.
 Some streets had been extended.
 Some parts of the town that were now full of houses had once been open land.
 There was a small mark near the river.
 There was a path to the stagecoach stop.
 There was an old commercial area that seemed much smaller than now.
-I began to understand something that had previously only felt vague. When people in Ashford referred to a place, they might not always be talking about the official name written on the map.
+I began to understand something that had previously only felt vague. When people in Alderwick referred to a place, they might not always be talking about the official name written on the map.
 They might use an old name.
 A family name.
 The name of a building that no longer existed.
@@ -626,7 +626,7 @@ The way to Bellweather Lane.
 Some faces I was beginning to recognise.
 Some names I was beginning to remember.
 Not many.
-But enough to make Ashford feel slightly different from the day I first arrived.
+But enough to make Alderwick feel slightly different from the day I first arrived.
 I was no longer merely passing through this town.
 I was beginning to have places I knew.
 And people who knew me.

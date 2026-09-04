@@ -1,12 +1,12 @@
-# Chapter 01 — Dreams of Trees
+﻿# Chapter 01 — Dreams of Trees
 
-Ashford, 8 December 2006
+Alderwick, 8 December 2006
 
 Dua hari telah berlalu sejak aku menutup portal di bawah Market Square.
 
 Dua hari yang... berbeda.
 
-Ashford terasa lebih ringan.
+Alderwick terasa lebih ringan.
 
 Udara lebih mudah dihirup.
 

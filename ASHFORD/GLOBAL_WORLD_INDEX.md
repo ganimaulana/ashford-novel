@@ -1,8 +1,8 @@
-﻿# ASHFORD — GLOBAL WORLD INDEX
+﻿# Alderwick — GLOBAL WORLD INDEX
 
 **Status:** READ-ONLY STRUCTURED INDEX
 **Date:** 2026-08-29
-**Scope:** Complete active ASHFORD project
+**Scope:** Complete active Alderwick project
 **Purpose:** Structured index of all major world elements for cross-reference during Arc/10_TIMELINE/Chapter planning
 
 **Legend:**
@@ -22,10 +22,9 @@
 | **Aurelius Ashcroft** | Character | WORLD_BIBLE/04_CHARACTERS/characters/Aurelius_Ashcroft.md, CHAPTERS 1–8 | Leon, Helen, Thomas Wren, Eleanor Vane, Hidden Circle, Bellweather House, M.R./J.T./M.B. | CANON / HIDDEN | PARTIAL | PARTIAL | MID–LATE (gradual) |
 | **Eleanor Vane** | Character | WORLD_BIBLE/04_CHARACTERS/, WORLD_BIBLE/04_CHARACTERS/characters/Aurelius_Ashcroft.md | Aurelius (wife), Hidden Circle | HIDDEN CANON | NO | NO | LATE |
 | **Police Officer (Station)** | Character | ARCHIVE/LEGACY_2006/Police_Officer_Station.md | Leon, "Echo" ability, train station | DEPRECATED / ARCHIVED | NO | NO | LATE |
-| **Edwin Ashcroft** | Character | WORLD_BIBLE/04_CHARACTERS/Edwin_Ashcroft.md | Bellweather House (obsolete) | OBSOLETE | — | — | NEVER (DO NOT USE) |
 | **Baker** | Character | WORLD_BIBLE/04_CHARACTERS/Baker.md | Morris & Sons | UNNAMED SUPPORTING | NO | NO | N/A |
 | **Constable** | Character | WORLD_BIBLE/04_CHARACTERS/Constable.md | Parish law | UNNAMED SUPPORTING | NO | NO | N/A |
-| **Librarian** | Character | WORLD_BIBLE/04_CHARACTERS/Librarian.md | Ashford Library | UNNAMED SUPPORTING | NO | NO | N/A |
+| **Librarian** | Character | WORLD_BIBLE/04_CHARACTERS/Librarian.md | Alderwick Library | UNNAMED SUPPORTING | NO | NO | N/A |
 | **Physician** | Character | WORLD_BIBLE/04_CHARACTERS/Physician.md | Medical authority | UNNAMED SUPPORTING | NO | NO | N/A |
 | **Vicar** | Character | WORLD_BIBLE/04_CHARACTERS/Vicar.md | St. Bartholomew's, records | UNNAMED SUPPORTING | NO | NO | EARLY |
 | **Military Teacher** | Character | WORLD_BIBLE/04_CHARACTERS/Military_Teacher.md | Academy | PROPOSED | NO | NO | N/A |
@@ -33,7 +32,7 @@
 | **The Hidden Circle** | Organization | 08_UNDERGROUND/Secret_Organization.md | Aurelius, Leon, Underground Network, proposed 13 members | WORKING CANON | NO | NO | MID (Ch 9+) |
 | **Underground Network** | Organization | 07_ANOMALIES/Underground_Network.md | ARC system, Arthur, Leon | WORKING CANON | NO | NO | MID |
 | **ARC System** | Organization (author tool) | 07_ANOMALIES/ARC_System.md | Underground Network, anomalies | WORKING CANON | NO | NO | MID–LATE |
-| **Government Framework** | Organization (author tool) | 16_GOVERNMENT/GOVERNMENT_BIBLE.md | Political factions, Ashford magistracy, national politics | WORKING CANON | PARTIAL | PARTIAL | MID |
+| **Government Framework** | Organization (author tool) | 16_GOVERNMENT/GOVERNMENT_BIBLE.md | Political factions, Alderwick magistracy, national politics | WORKING CANON | PARTIAL | PARTIAL | MID |
 | **M.R.** | Organization/Individual | CHAPTER 7, Aurelius_Ashcroft.md | Aurelius, Hidden Circle | HIDDEN (identity) | PARTIAL (initials seen) | PARTIAL | LATE |
 | **J.T.** | Organization/Individual | CHAPTER 7, Aurelius_Ashcroft.md | Aurelius, Hidden Circle | HIDDEN (identity) | PARTIAL (initials seen) | PARTIAL | LATE |
 | **M.B.** | Organization/Individual | CHAPTER 7, Aurelius_Ashcroft.md | Aurelius, Margaret's father (possible) | HIDDEN (identity) | PARTIAL (initials seen) | PARTIAL | LATE |
@@ -41,9 +40,9 @@
 | **No. 13 Bellweather Lane** | Location | CHAPTERS 1–8, 03_BUILDINGS/Buildings.md | Leon's residence, locked door, renumbering traces | CANON | YES | YES | MID (locked door) |
 | **Margaret's Tearoom** | Location | CHAPTERS 2–8, 03_BUILDINGS/Margarets_Cafe.md | Margaret, community hub | CANON | YES | YES | — |
 | **Bell's Books** | Location | CHAPTERS 2–8, 03_BUILDINGS/Arthurs_Shop.md | Arthur, symbol book, private collection | CANON | YES | YES | MID (upstairs) |
-| **Ashford Library** | Location | CHAPTERS 8, 03_BUILDINGS/Ashford_Library.md | Helen (assumption), archives, "removed from active list" | WORKING CANON | YES | YES | EARLY |
+| **Alderwick Library** | Location | CHAPTERS 8, 03_BUILDINGS/Alderwick_Library.md | Helen (assumption), archives, "removed from active list" | WORKING CANON | YES | YES | EARLY |
 | **St. Bartholomew's Church** | Location | 03_BUILDINGS/Buildings.md, CHAPTERS 1 | Vicar, parish records, graveyard | WORKING CANON | YES (mentioned) | YES | EARLY |
-| **Ashford Academy** | Location | 03_BUILDINGS/Buildings.md, CHARACTERS/ | Daniel, Leon, Academy Quarter | WORKING CANON | YES | YES | — |
+| **Alderwick Academy** | Location | 03_BUILDINGS/Buildings.md, CHARACTERS/ | Daniel, Leon, Academy Quarter | WORKING CANON | YES | YES | — |
 | **Post Office** | Location | 03_BUILDINGS/Buildings.md, Pembroke_Clarke_Letter.md | Pembroke letter arrival | WORKING CANON | YES | YES | EARLY |
 | **Solicitor's Office** | Location | 03_BUILDINGS/Buildings.md, Pembroke_Clarke_Letter.md | Pembroke & Clarke, property records | WORKING CANON | YES | YES | EARLY |
 | **The 1798 Building** | Location | CHAPTERS 2, 8 | Layered history (admin→post→stationer) | CANON | YES | YES | — |
@@ -60,8 +59,8 @@
 | **Arthur's Map** | Document | CHAPTERS 7 | Bellweather House (1791), old street names | CANON | YES | YES | — |
 | **Thomas Wren's Notebook** | Document | WORLD_BIBLE/04_CHARACTERS/Thomas_Wren.md | All answers, passed to Leon | PLANNED | NO | NO | MID (Ch 11) |
 | **The 1798 Key** | Object | CHAPTER 1, WORLD_BIBLE/01_GEOGRAPHY/Bellweather_Lane.md | What it opens | OPEN | PARTIAL (notice seen) | PARTIAL | MID |
-| **Medallion** | Object | CANON_LEON_PRE_ASHFORD.md vs CANON_EARLY_LATE_RETURN.md | Symbol, wooden box | CANON CONFLICT | NO | NO | UNRESOLVED |
-| **Wooden Box** | Object | CANON_LEON_PRE_ASHFORD.md vs CANON_EARLY_LATE_RETURN.md | Medallion, childhood | CANON CONFLICT | NO | NO | UNRESOLVED |
+| **Medallion** | Object | CANON_LEON_PRE_Alderwick.md vs CANON_EARLY_LATE_RETURN.md | Symbol, wooden box | CANON CONFLICT | NO | NO | UNRESOLVED |
+| **Wooden Box** | Object | CANON_LEON_PRE_Alderwick.md vs CANON_EARLY_LATE_RETURN.md | Medallion, childhood | CANON CONFLICT | NO | NO | UNRESOLVED |
 | **The Symbol (circle+3 lines+1 dot)** | Symbol | CHAPTERS 1–8 | Door, key, bell, book, medallion [conflict] | OPEN | YES (seen, not meaning) | YES | LATE |
 | **Number 13** | Symbol/Motif | CHAPTERS 1, 5–8 | Leon's house, address inconsistencies | OPEN | YES | YES | MID |
 | **The Bell** | Symbol/Motif | CHAPTER 1 | Rang once, "long silence" | OPEN | YES | YES | MID |
@@ -69,7 +68,7 @@
 | **"Don't be late again"** | Symbol/Motif | CHAPTER 1 | Dream, boy in dark coat | OPEN | YES (phrase) | YES | LATE |
 | **The Empty Envelope** | Object/Document | CHAPTERS 1, 5, 8 | Addressed to Leon / "Bellweather House" | OPEN | YES | YES | MID |
 | **The Locked Door** | Object/Location | CHAPTER 3 | Beneath stairs, Leon's house | OPEN | YES | YES | MID |
-| **Leon's Familiarity with Ashford** | Mystery | CHAPTER 1 | Dreams, symbol, subconscious | OPEN | YES (feeling) | YES | LATE |
+| **Leon's Familiarity with Alderwick** | Mystery | CHAPTER 1 | Dreams, symbol, subconscious | OPEN | YES (feeling) | YES | LATE |
 | **Aurelius's Fate** | Mystery | WORLD_BIBLE/04_CHARACTERS/characters/Aurelius_Ashcroft.md | Death/disappearance contradictory | HIDDEN | NO | NO | LATE |
 | **Bellweather House "removed"** | Mystery | CHAPTER 8 | Administrative erasure | OPEN | YES | YES | MID |
 | **Envelope Sender** | Mystery | CHAPTERS 1, 5, 8 | Anonymous contact | OPEN | NO | NO | MID–LATE |
@@ -84,8 +83,8 @@
 | **Leon vs. erased history** | Conflict | CHAPTER 8 | Record concealment | ACTIVE | YES | YES | MID |
 | **Hidden Circle internal conflict** | Conflict | 08_UNDERGROUND/Secret_Organization.md | Factions | BACKGROUND | NO | NO | LATE |
 | **Aurelius's legacy power struggle** | Conflict | 08_UNDERGROUND/Secret_Organization.md | Circle factions over inheritance | BACKGROUND | NO | NO | LATE |
-| **Sir Edmund Harcourt** | Character | 16_GOVERNMENT/GOVERNMENT_CHARACTERS.md | Senior Magistrate, Ashford district | APPROVED | NO | NO | MID |
-| **Lord Alistair Wycliffe** | Character | 16_GOVERNMENT/GOVERNMENT_CHARACTERS.md | Major landowner, Ashford | APPROVED | NO | NO | MID |
+| **Sir Edmund Harcourt** | Character | 16_GOVERNMENT/GOVERNMENT_CHARACTERS.md | Senior Magistrate, Alderwick district | APPROVED | NO | NO | MID |
+| **Lord Alistair Wycliffe** | Character | 16_GOVERNMENT/GOVERNMENT_CHARACTERS.md | Major landowner, Alderwick | APPROVED | NO | NO | MID |
 | **Jonathan Pryce** | Character | 16_GOVERNMENT/GOVERNMENT_CHARACTERS.md | Attorney, Reform Coalition | APPROVED | NO | NO | MID |
 | **Thomas Bellamy** | Character | 16_GOVERNMENT/GOVERNMENT_CHARACTERS.md | Printer/Pamphleteer, Radical | APPROVED | NO | NO | MID |
 | **Captain William Rooke** | Character | 16_GOVERNMENT/GOVERNMENT_CHARACTERS.md | War Veteran, Independent | APPROVED | NO | NO | MID |

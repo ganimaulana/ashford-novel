@@ -1,0 +1,335 @@
+﻿{
+  "plot_reservoir": {
+    "metadata": {
+      "year": 1816,
+      "total_entries": 37,
+      "version": "1.0",
+      "last_updated": "2026-08-29"
+    },
+    "entries": [
+      {
+        "id": "pressure_001",
+        "type": "geopolitical_pressure",
+        "title": "FACT",
+        "description": "Established historical fact with strong documentary evidence.\nThese are things that would be true for any informed reader to accept.",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_002",
+        "type": "geopolitical_pressure",
+        "title": "INFERENCE",
+        "description": "A reasonable conclusion drawn from facts but not directly documented.\nAn inference is plausible, defensible, and historically grounded — but\nit is not proven. Use with author awareness.",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_003",
+        "type": "geopolitical_pressure",
+        "title": "FICTIONAL ADAPTATION",
+        "description": "A creative extension of facts or inferences into the narrative world.\nThis is what the story *does* with the history. Mark clearly as such.\n---\n1. **Find a pressure** that resonates with the character or arc you are\ndeveloping.\n2. **Check the confidence rating** to know how solid the historical basis is.\n3. **Select the adaptation level:** FACT → INFERENCE → FICTIONAL ADAPTATION.\n4. **Activate selectively.** Only 3-5 of these pressures should be actively\npresent in any given arc. The rest are dormant, waiting for the right moment.\n5. **Never override character.** History provides pressure and possibility.\nCharacters make choices. The story is about what those choices are.\n---\n| # | Pressure | Confidence | Alderwick Relevance |\n|---|---|---|---|\n| 01 | Year Without a Summer / Tambora Aftermath | HIGH | DIRECT — can drive mood, food, mystery |\n| 02 | Post-War Economic Contraction | HIGH | DIRECT — unemployment, poverty, unrest |\n| 03 | Demobilized Soldiers and Sailors | HIGH | DIRECT — veterans in communities |\n| 04 | Food Prices and Harvest Problems | HIGH | DIRECT — bread prices, hunger, riots |\n| 05 | Littleport and Ely Riots (May 1816) | HIGH | INDIRECT — template for local unrest |\n| 06 | Wimbledon Common Riot (June 1816) | HIGH | INDIRECT — misinformation + mob violence |\n| 07 | Luddite Activity (bobbinet destruction) | HIGH | DIRECT — machinery destruction movement |\n| 08 | Political Anxiety and Surveillance | HIGH | DIRECT — government fears revolution |\n| 09 | Press, Censorship, and Information Flow | HIGH | DIRECT — radical press, Gagging Acts brewing |\n| 10 | Abolition Movement and Slavery | HIGH | INDIRECT — colonial wealth, moral questions |\n| 11 | South American Independence | MEDIUM | INDIRECT — East India Company, imperial anxiety |\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_004",
+        "type": "geopolitical_pressure",
+        "title": "01 — YEAR WITHOUT A SUMMER / TAMBORA AFTERMATH",
+        "description": "- **ID:** HIST-1816-01\n- **Date / Period:** Year-round 1816; peak Jun-Oct\n- **Historical Fact:** Mount Tambora erupted 10 Apr 1815 (Dutch East Indies). Volcanic winter dropped global temps 0.4-0.7C. Summer 1816: coldest on record in Europe 1766-2000. Persistent \"dry fog\" dimmed sunlight. Frost in Jun and Sep across Britain. Crops failed across Northern Hemisphere. John D. Post: \"the last great subsistence crisis in the Western world.\"\n- **Location / Scope:** Global; most acute in Europe, NE North America\n- **Alderwick Relevance:** DIRECT. Perpetual grey light, unseasonal cold, struggling crops. Ideal gothic atmosphere. Alderwick could experience late spring frosts, unripe harvests, perpetual damp cold in November (canon period).\n- **Possible Character Conflict:** A character notices the sky is perpetually grey. A farmer's crop ruined for a second year. Someone blames divine punishment. Someone suspects natural causes no one understands.\n- **Possible Social Conflict:** Neighbors blame each other for \"cursed\" land. A landlord raises rents despite crop failure. Tenants resist. Rumors of witchcraft.\n- **Possible Mystery Use:** Strange atmospheric phenomena as omens. Unexplained livestock deaths (cold killed them). A visitor from Switzerland reports even worse conditions.\n- **Possible World-Building Use:** Grey light, perpetual damp, cold hearths, vivid sunsets. Colder winters beginning. Food scarcity in winter 1816-17.\n- **Possible Supernatural Adaptation:** Interpreted as supernatural omen — or the story's version of a supernatural atmospheric effect, truth left ambiguous.\n- **Urgency:** HIGH | **Plot Potential:** 9/10 | **Confidence:** VERY HIGH\n- **Sources:** John D. Post, *The Last Great Subsistence Crisis*; Klingaman & Klingaman, *The Year Without Summer* (2013)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_005",
+        "type": "geopolitical_pressure",
+        "title": "02 — POST-WAR ECONOMIC CONTRACTION",
+        "description": "- **ID:** HIST-1816-02\n- **Date / Period:** 1815-1818 (peak contraction)\n- **Historical Fact:** End of Napoleonic Wars caused immediate severe economic contraction. Wartime industries collapsed. 200,000+ soldiers demobilized. Income tax abolished 18 Mar 1816 (benefited wealthy only). Poor rates skyrocketed. Trade disrupted.\n- **Location / Scope:** Britain; worst in manufacturing centers and military ports\n- **Alderwick Relevance:** DIRECT. Higher poor rates, unemployed laborers arriving, landlords struggling with rent, reduced consumer demand.\n- **Possible Character Conflict:** A gentleman who made money supplying the army now faces ruin. A soldier's wife arrives seeking work. A factory owner cannot compete.\n- **Possible Social Conflict:** Landlords vs. tenants. Wealthy rate-payers vs. poor relief recipients.\n- **Possible Mystery Use:** Economic ruin as motive for fraud or murder. A destroyed document about wartime dealings.\n- **Possible World-Building Use:** Empty shops, reduced social activity, wealth disparity, genteel poverty.\n- **Possible Supernatural Adaptation:** Economic pressure mirrors internal decay.\n- **Urgency:** HIGH | **Plot Potential:** 8/10 | **Confidence:** VERY HIGH\n- **Sources:** Eric J. Evans, *The Forging of the Modern State*; Dorothy Thompson, *The People* (1988)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_006",
+        "type": "geopolitical_pressure",
+        "title": "03 — DEMOBILIZED SOLDIERS AND SAILORS",
+        "description": "- **ID:** HIST-1816-03\n- **Date / Period:** 1815-1817\n- **Historical Fact:** ~200,000+ British soldiers demobilized 1815-1816. Thousands of sailors discharged. Many faced unemployment. Some settled in rural communities. Others became homeless or criminal. Veterans from Peninsular War and India carried skills and memories.\n- **Location / Scope:** Nationwide — ports, garrison towns, London, rural areas\n- **Alderwick Relevance:** DIRECT. Demobilized soldiers as laborers, tenants, servants, or threats.\n- **Possible Character Conflict:** A demobilized soldier arrives at Bellweather House. He knows things about Aurelius. A sailor returns from India with stories and foreign connections.\n- **Possible Social Conflict:** Locals resent veterans. Veterans resent abandonment. A veteran's wife struggles alone.\n- **Possible Mystery Use:** A soldier carries a secret from the war connecting to Aurelius.\n- **Possible World-Building Use:** Veterans, military tattoos, drinking, \"nostalgia\" (shock), stories from abroad.\n- **Urgency:** HIGH | **Plot Potential:** 8/10 | **Confidence:** VERY HIGH\n- **Sources:** Dorothy Thompson, *The People* (1988)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_007",
+        "type": "geopolitical_pressure",
+        "title": "04 — FOOD PRICES AND HARVEST PROBLEMS",
+        "description": "- **ID:** HIST-1816-04\n- **Date / Period:** Year-round; critical May-Oct 1816 (growing season)\n- **Historical Fact:** Bread prices were the single most important economic indicator for the poor. Poor harvests + Tambora cooling drove bread prices sharply higher. Corn laws (1815) kept grain prices artificially high. Poor relief spending increased dramatically.\n- **Location / Scope:** Nationwide; worst where already poor\n- **Alderwick Relevance:** DIRECT. Affects every character. Margaret (the cook) feels it daily.\n- **Possible Character Conflict:** A character chooses between feeding household or paying debts. A neighbor starves. Someone hoards food.\n- **Possible Social Conflict:** Rioters demanding bread. Landlords refusing rent reductions.\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_008",
+        "type": "geopolitical_pressure",
+        "title": "05 — LITTLEPORT AND ELY RIOTS (22 May 1816)",
+        "description": "- **ID:** HIST-1816-05\n- **Date / Period:** 22 May 1816\n- **Historical Fact:** A crowd of several thousand attacked Littleport and Ely (Cambridgeshire), demanding food and protesting poor relief cuts. Broke into bakeries and warehouses. Militia fired, killing several. Martial law briefly declared. One of largest domestic disturbances since Gordon Riots (1780).\n- **Location / Scope:** Cambridgeshire/East Anglia\n- **Alderwick Relevance:** INDIRECT — plausible template for local unrest if Alderwick is nearby. Shows how food prices trigger violence.\n- **Possible Character Conflict:** A character decides whether to join a disturbance or protect the house. A soldier is sent to suppress local unrest.\n- **Possible Social Conflict:** Fear among gentry of the \"mob.\" The poor decide hunger justifies violence.\n- **Possible Mystery Use:** After a disturbance, a key document is destroyed or stolen.\n- **Urgency:** MEDIUM | **Plot Potential:** 7/10 | **Confidence:** VERY HIGH\n- **Sources:** H. W. Dickinson, *The English Bread Riot* (1905); Dickinson, *C. Johnson, An Account of the Ely and Littleport Riots* (1893)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_009",
+        "type": "geopolitical_pressure",
+        "title": "06 — WIMBLEDON COMMON RIOT (18 Jun 1816)",
+        "description": "- **ID:** HIST-1816-06\n- **Date / Period:** 18 June 1816 (Waterloo first anniversary)\n- **Historical Fact:** A riot broke out on Wimbledon Common after inaccurate newspaper reports that a military review would commemorate Waterloo's first anniversary. A drunken crowd set fire to the heath. Cavalry dispersed them. Demonstrates how misinformation triggers violence.\n- **Location / Scope:** London area\n- **Alderwick Relevance:** INDIRECT. Misinformation as a plot device. Waterloo as unresolved wound.\n- **Possible Character Conflict:** A character spreads false information about military movements.\n- **Possible Social Conflict:** Rumors and misinformation driving panic.\n- **Possible Mystery Use:** A character uses misinformation deliberately to create a distraction.\n- **Urgency:** LOW | **Plot Potential:** 6/10 | **Confidence:** VERY HIGH\n- **Sources:** Luke Reynolds, *Who Owned Waterloo?* (2022)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_010",
+        "type": "geopolitical_pressure",
+        "title": "07 — LUDDITE ACTIVITY",
+        "description": "- **ID:** HIST-1816-07\n- **Date / Period:** 1811-1818; resurgent Jun 1816 (Loughborough bobbinet machines destroyed)\n- **Historical Fact:** Luddites destroyed mechanized textile machinery. Jun 28 1816: Luddites destroyed bobbinet lace machines in John Heathcoat's Loughborough factory. Frame-Breaking Act 1812 made machine-breaking punishable by death.\n- **Location / Scope:** Midlands, Yorkshire, Lancashire\n- **Alderwick Relevance:** INDIRECT but thematically useful. Tension between traditional work and mechanization.\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_011",
+        "type": "geopolitical_pressure",
+        "title": "09 — PRESS, CENSORSHIP, AND INFORMATION FLOW",
+        "description": "- **ID:** HIST-1816-09\n- **Date / Period:** Year-round 1816\n- **Historical Fact:** A thriving press existed but was heavily taxed and monitored. Radical papers like *The Black Dwarf* circulated underground. Newspapers were a luxury; most working class could not read. Government used stamp taxes to control information. Gagging Acts (1817) would further restrict radical speech.\n- **Location / Scope:** Britain; especially London; spread through coffeehouses and taverns\n- **Alderwick Relevance:** DIRECT. Newspapers as information, misinformation, and plot devices. Gentry reads differ from poor oral transmission.\n- **Possible Character Conflict:** A character reads a paper with a hidden message. Someone secretly edits a radical paper.\n- **Possible Mystery Use:** Intercepted newspapers with coded messages. A forbidden radical text discovered.\n- **Urgency:** HIGH | **Plot Potential:** 8/10 | **Confidence:** VERY HIGH\n- **Sources:** Dorothy Thompson, *The People* (1988); Ronald Hingley, *A Second England* (1984)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_012",
+        "type": "geopolitical_pressure",
+        "title": "10 — ABOLITION MOVEMENT AND SLAVERY",
+        "description": "- **ID:** HIST-1816-10\n- **Date / Period:** Ongoing; post-1807 (Slave Trade Act) but slavery legal until 1833\n- **Historical Fact:** Slave Trade Act (1807) abolished trade but NOT slavery itself. Led by Wilberforce, Clarkson, Society for Abolition. Black Britons existed and faced racism. Colonial wealth from sugar, cotton, Caribbean plantations enriched British commerce.\n- **Location / Scope:** Britain (London, Bristol, Liverpool, Southampton); British colonies\n- **Alderwick Relevance:** INDIRECT. Colonial wealth affects entire British economy. Sugar, cotton, coffee in daily life. A Black British person in a white rural town would be a significant event.\n- **Possible Character Conflict:** A character with wealth from plantations. A character traumatized by having seen slavery. A Black British character navigating white rural community.\n- **Possible Mystery Use:** A character with colonial connections holds a secret. A document reveals plantation crimes.\n- **Urgency:** MEDIUM | **Plot Potential:** 7/10 | **Confidence:** VERY HIGH\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_013",
+        "type": "geopolitical_pressure",
+        "title": "11 — SOUTH AMERICAN INDEPENDENCE",
+        "description": "- **ID:** HIST-1816-11\n- **Date / Period:** 1816 onwards (Argentine independence 9 Jul 1816; Bolivar active)\n- **Historical Fact:** Argentina declared independence 9 Jul 1816. Bolivar active in Venezuela/Colombia. Spanish Empire crumbling. Britain maintained neutrality but sought trade. Created anxiety about colonial trade and East India Company monopoly.\n- **Location / Scope:** South America; implications for Britain and EIC\n- **Alderwick Relevance:** INDIRECT. Could affect a character with commercial/imperial interests.\n- **Possible Character Conflict:** A character invested in EIC stock fears revolution spreading. A character who served in India brings stories and connections.\n- **Possible Mystery Use:** A character carrying documents from South America. An EIC agent with secrets.\n- **Urgency:** LOW-MEDIUM | **Plot Potential:** 5/10 | **Confidence:** HIGH\n- **Sources:** John Lynch, *Simon Bolivar* (1980)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_014",
+        "type": "geopolitical_pressure",
+        "title": "12 — EAST INDIA COMPANY POWER",
+        "description": "- **ID:** HIST-1816-12\n- **Date / Period:** Ongoing; peak power 1757-1858\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_015",
+        "type": "geopolitical_pressure",
+        "title": "13 — EARLY INDUSTRIAL TECHNOLOGY (STEAM, GAS, MECHANIZATION)",
+        "description": "- **ID:** HIST-1816-13\n- **Date / Period:** Ongoing; accelerating 1780-1820\n- **Historical Fact:** Steam power was rapidly expanding — Watt's engines in factories, mines, and increasingly in transportation (early steamboats). Coal mining was expanding dangerously (Davy lamp invented Jan 1816 for safety). Canals formed an extensive network. Iron production was increasing. Textile mechanization was widespread. But much of rural Britain still relied on animal/human power and hand tools. The gap between industrial and rural was widening.\n- **Location / Scope:** Industrial north and Midlands vs. rural south and east\n- **Alderwick Relevance:** DIRECT. A rural town would experience industrialization at a different pace. Water-powered mills, early factory influences, changing agricultural methods.\n- **Possible Character Conflict:** A character who invested in industrial technology faces failure. A character who prefers old methods vs. new technology.\n- **Possible Social Conflict:** Rural workers displaced by mechanization. Agricultural improvements vs. common lands.\n- **Possible Mystery Use:** Industrial technology as a tool or weapon. Sabotage of machinery. A hidden factory or laboratory.\n- **Urgency:** HIGH | **Plot Potential:** 8/10 — world-building and generational tension\n- **Confidence:** VERY HIGH\n- **Sources:** Eric Hobsbawm, *The Age of Revolution*; Dorothy Thompson, *The People* (1988)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_016",
+        "type": "geopolitical_pressure",
+        "title": "14 — GAS LIGHTING DEVELOPMENT",
+        "description": "- **ID:** HIST-1816-14\n- **Date / Period:** Early development; first public gas lighting 1813-1816\n- **Historical Fact:** The Imperial Gas Light and Coke Company was founded in 1810. Public gas lighting was being installed in London (Leadenhall Street 1813, Pall Mall 1807 experiment). Feb 1816: Preston became the first English town outside London with public gas lighting (promoted by Jesuit priest Joseph Dunn). Most British homes still used candles, tallow, or oil. Gas lighting was novel, expensive, and associated with urban centers and wealthy establishments.\n- **Location / Scope:** London first; spreading to provincial towns; Alderwick would be unlikely to have it yet\n- **Alderwick Relevance:** DIRECT as a contrast and aspiration. A wealthy household might consider installing gas. A character who has seen gas in London brings back stories of the new technology.\n- **Possible Character Conflict:** A character wants to install gas and faces opposition. A visitor from London demonstrates gas technology. Someone is fascinated or frightened by the new light.\n- **Possible World-Building Use:** Gas lighting as a symbol of progress and danger. The glow vs. candlelight. The smell of gas. The novelty of a house lit by gas.\n- **Possible Supernatural Adaptation:** Gaslight creates a different quality of shadow and illumination — useful for gothic atmosphere. Flickering, unnatural, unreliable.\n- **Urgency:** LOW-MEDIUM | **Plot Potential:** 7/10 — strong visual world-building element\n- **Confidence:** HIGH\n- **Sources:** *The Times* (London) archives 1813-1816; R. W. Richmond, *History of the Imperial Gas Light and Coke Company* (1960)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_017",
+        "type": "geopolitical_pressure",
+        "title": "15 — DAVY LAMP (JAN 1816)",
+        "description": "- **ID:** HIST-1816-15\n- **Date / Period:** Jan 1816 (first tested at Hebburn Colliery, Durham)\n- **Historical Fact:** Sir Humphry Davy's safety lamp (the \"Davy lamp\") was first tested underground at Hebburn Colliery on 9 January 1816. It was intended to prevent firedamp explosions in coal mines. Independently, George Stephenson also developed a safety lamp. The lamps proved less safe than advertised and casualties continued growing through the 19th century.\n- **Location / Scope:** Northern England (coal-mining regions)\n- **Alderwick Relevance:** INDIRECT. Coal supply and mining safety are relevant for any household that heats with coal. Could affect a character with mining interests.\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_018",
+        "type": "geopolitical_pressure",
+        "title": "17 — LAW ENFORCEMENT (PRE-POLICE)",
+        "description": "- **ID:** HIST-1816-17\n- **Date / Period:** Throughout 1816; Metropolitan Police not founded until 1829\n- **Historical Fact:** Britain had NO professional police force until 1829. Law enforcement: Parish constables (unpaid, rotating, untrained); Bow Street Runners (small paid group, London only); Night watchmen (elderly, often drunk); Private informants and bounty hunters; Magistrates' private guards. Crime rates high. Transporting convicts to Australia standard.\n- **Location / Scope:** Limited to towns; rural areas had even fewer protections\n- **Alderwick Relevance:** DIRECT. Who investigates a crime? A parish constable? A household's servants? The local magistrate?\n- **Possible Character Conflict:** A constable faces impossible choices. A magistrate enforces law arbitrarily.\n- **Possible Mystery Use:** No forensic science. No central records. A crime could go completely uninvestigated.\n- **Urgency:** HIGH | **Plot Potential:** 9/10 — essential for crime/mystery\n- **Confidence:** VERY HIGH\n- **Sources:** Donald Low, *The Regency Underworld* (1999); J. M. Beattie, *Crime and the Courts* (1986)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_019",
+        "type": "geopolitical_pressure",
+        "title": "18 — CURRENCY, BANKING, AND FINANCE",
+        "description": "- **ID:** HIST-1816-18\n- **Date / Period:** Throughout 1816\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_020",
+        "type": "geopolitical_pressure",
+        "title": "19 — SOCIAL CLASS AND IDENTITY",
+        "description": "- **ID:** HIST-1816-19\n- **Date / Period:** Throughout 1816; rigid but changing\n- **Historical Fact:** Stratified: Peerage < Landed Gentry < Professional/Middle Class < Artisans < Laborers < Paupers. Social mobility difficult. Birth determined more than merit. Education class-segregated. \"Gentleman\" was contested — birth, income, or behavior? Beau Brummell (fled to France May 1816 over debts) embodied new emphasis on appearance.\n- **Location / Scope:** Nationwide; more rigid in rural areas\n- **Alderwick Relevance:** DIRECT. Every character's class position dictates behavior, speech, opportunities, relationships.\n- **Possible Character Conflict:** A character from lower class aspiring to higher status. A fallen gentry member losing status.\n- **Possible Mystery Use:** A character whose class identity is a lie. Someone pretending to be a gentleman. Illegitimate birth.\n- **Urgency:** HIGH | **Plot Potential:** 9/10 — every interaction shaped by class\n- **Confidence:** VERY HIGH\n- **Sources:** Edward Thompson, *The Aristocracy* (1970); Dorothy Thompson, *The People* (1988)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_021",
+        "type": "geopolitical_pressure",
+        "title": "20 — EDUCATION AND LITERACY",
+        "description": "- **ID:** HIST-1816-20\n- **Date / Period:** Throughout 1816; gradually improving\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_022",
+        "type": "geopolitical_pressure",
+        "title": "21 — RELIGION AND SOCIAL CHANGE",
+        "description": "- **ID:** HIST-1816-21\n- **Date / Period:** Throughout 1816\n- **Historical Fact:** Church of England established; Evangelical revival gaining momentum (Wilberforce, Clapham Sect). Dissenting denominations (Quakers, Methodists, Baptists) growing rapidly. Bible Society (1804) distributing Bibles widely. Witchcraft beliefs persisted among rural poor (Witchcraft Act 1735 criminalized claiming supernatural powers).\n- **Location / Scope:** Nationwide\n- **Alderwick Relevance:** DIRECT. Religious belief shapes moral framework. The vicar's power. Rural religion vs. urban Methodism.\n- **Possible Character Conflict:** A character converts to Evangelicalism. A character privately doubts faith. A character who believes in folk magic despite being Christian.\n- **Possible Mystery Use:** Religious justification for violence. Hidden Dissenting meeting. Interpreting events as divine judgment.\n- **Urgency:** HIGH | **Plot Potential:** 7/10 | **Confidence:** VERY HIGH\n- **Sources:** Gerald Holton, *Science and Christianity*; Dorothy Thompson, *The People* (1988)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_023",
+        "type": "geopolitical_pressure",
+        "title": "22 — MEDICAL LIMITATIONS",
+        "description": "- **ID:** HIST-1816-22\n- **Date / Period:** Throughout 1816\n- **Historical Fact:** Pre-germ theory medicine. Treatments: bloodletting, purging, laudanum, mercury. Epidemics: typhus, cholera (1817 pandemic reached Russia), smallpox (Jenner's vaccine 1796 not universal), TB, dysentery. Infant mortality ~30%. No anesthesia until 1846. Surgeons < Physicians. Midwives handled births.\n- **Location / Scope:** Nationwide; worse in urban areas\n- **Alderwick Relevance:** DIRECT. Death always present. A character's treatment makes them worse. A child dies. Fear of common illness.\n- **Possible Character Conflict:** Mercury poisoning from apothecary. A midwife with more knowledge than the doctor.\n- **Possible Mystery Use:** Death looks natural but is poisoning. An apothecary with a secret supply.\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_024",
+        "type": "geopolitical_pressure",
+        "title": "23 — CLOTHING AND CONSUMER CULTURE",
+        "description": "- **ID:** HIST-1816-23\n- **Date / Period:** Throughout 1816\n- **Historical Fact:** Clothing = primary status marker. Beau Brummell revolutionized men's fashion (dark, tailored, immaculate). Women: high-waisted Empire line. Clothing expensive to maintain — a gentleman needed multiple suits. Laundry weekly. Linen shirts = status marker. The poor had one or two changes.\n- **Location / Scope:** Nationwide; London fashion center\n- **Alderwick Relevance:** DIRECT. Clothing tells a story about status, finances, self-image. A gentleman whose clothes are worn but meticulously maintained.\n- **Possible Character Conflict:** Cannot afford to dress their station. Wearing borrowed/stolen clothes.\n- **Possible Mystery Use:** Clothes found abandoned. Disguise. A garment with a hidden message.\n- **Urgency:** MEDIUM | **Plot Potential:** 7/10 | **Confidence:** VERY HIGH\n- **Sources:** Aileen People, *English People's Fashion* (1987); Harold Barnett, *Regency Fashion* (1973)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_025",
+        "type": "geopolitical_pressure",
+        "title": "24 — HOUSEHOLD LIFE AND DOMESTIC SERVICE",
+        "description": "- **ID:** HIST-1816-24\n- **Date / Period:** Throughout 1816\n- **Historical Fact:** Servant hierarchy: Butler > Housekeeper > Cook > Under-cook > Valet > Housemaid > Undermaid > Scullion. Gentry household: 5-15 servants. 14-16 hour days, limited privacy. Servants had underground communication network. Governess = uncomfortable space between servant and employer.\n- **Location / Scope:** Nationwide; larger households in gentry/middle-class homes\n- **Alderwick Relevance:** DIRECT. Servants are witnesses, confidants, and potential threats. Their hierarchy is a microcosm of class society.\n- **Possible Character Conflict:** A servant who knows too much. A servant secretly loyal to a different master.\n- **Possible Mystery Use:** Servants as information network. A servant intercepting letters.\n- **Urgency:** HIGH | **Plot Potential:** 8/10 — every household scene involves servants\n- **Confidence:** VERY HIGH\n- **Sources:** Susan Amussen, *An Anthropology of Early Modern English* (2000); Dorothy Porter, *Domestic Service* (1979)\n- **Possible Supernatural Adaptation:** Fever delirium — genuine vision or medical symptom?\n- **Urgency:** HIGH | **Plot Potential:** 8/10 | **Confidence:** VERY HIGH\n- **Sources:** Roy Porter, *The Greatest Benefit to Mankind* (1997)\n- **Historical Fact:** Literacy: ~70% men, ~50% women (urban higher, rural lower). Gentry educated by governesses/boarding schools. Middle-class attended grammar schools. Working-class rarely attended school. British and Foreign School Society (1808) and National Society (1811) began providing poor education. Women's education focused on \"accomplishments.\"\n- **Location / Scope:** Urban higher; rural lower; strong class divide\n- **Alderwick Relevance:** DIRECT. Reading ability affects social position, opportunities, and role in mystery. Governess as character type.\n- **Possible Character Conflict:** A character taught themselves to read against their station. A governess more educated than her employers.\n- **Possible Mystery Use:** A coded letter only one character can read. A book containing hidden information.\n- **Urgency:** HIGH | **Plot Potential:** 7/10 | **Confidence:** HIGH\n- **Sources:** David Ditchburn, *Learning to Read and Write in Modern Britain*\n- **Historical Fact:** Gold standard but gold convertibility suspended during Napoleonic Wars (1797-1821); paper money not exchangeable for gold, causing inflation. Coin shortage 1811-1816 severe. Private tokens and counterfeits circulated. Income tax abolished Mar 1816. Country banks could fail easily.\n- **Location / Scope:** Britain; London financial center\n- **Alderwick Relevance:** DIRECT. Physical money. Counterfeiting = death penalty. A household's finances precarious.\n- **Possible Character Conflict:** A character discovers counterfeit money. A country bank fails.\n- **Possible Mystery Use:** Counterfeit money. Hidden debts. A character's financial secret.\n- **Urgency:** HIGH | **Plot Potential:** 7/10 | **Confidence:** VERY HIGH\n- **Sources:** Eric Baines, *Token Money in Great Britain* (1954); Charles Wilson, *Bank of England* (1959)\n- **Possible World-Building Use:** Coal quality, mining danger, the economics of coal supply.\n- **Urgency:** LOW | **Plot Potential:** 4/10 — too specialized unless mining is relevant\n- **Confidence:** VERY HIGH\n- **Sources:** *1816 in the United Kingdom* Wikipedia; Eric Hobsbawm, *The Age of Revolution*\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_026",
+        "type": "geopolitical_pressure",
+        "title": "16 — TRANSPORTATION AND COMMUNICATION",
+        "description": "- **ID:** HIST-1816-16\n- **Date / Period:** Ongoing throughout 1816\n- **Historical Fact:** Mail coaches ran on turnpike roads with armed guards. London to Edinburgh: 4 days. London to Edinburgh by sea: 3 days (faster than land). Canals carried bulk freight. River transport remained important. Horse-drawn stagecoaches were the fastest personal transport. Telegraph (optical) existed in France but not Britain. Letters could take days to weeks depending on distance. Lloyd's List (ships) published in London, 3x/week. The \"Post Office\" handled mail.\n- **Location / Scope:** Nationwide; speed varied by distance from London\n- **Alderwick Relevance:** DIRECT. Communication speed determines how fast news, letters, and people arrive. A letter from London takes 2-3 days. A letter from Edinburgh takes 5-7 days.\n- **Possible Character Conflict:** A letter arrives too late to prevent a disaster. A character must choose whether to send a message by the fast (expensive) coach or the slow (cheap) canal. A character intercepts another's mail.\n- **Possible Mystery Use:** Intercepted letters. A character who delivers mail has access to private correspondence. A message sent by an unusual route.\n- **Possible World-Building Use:** Mail coach schedules, turnpike tolls, inn keeping as a business, the importance of the post, speed of news.\n- **Urgency:** HIGH | **Plot Potential:** 7/10 — affects pacing of communication throughout\n- **Confidence:** VERY HIGH\n- **Sources:** *The Times* archives; Henry Southern, *A General View of the Post Office* (1816); Lloyd's List archives\n- **Historical Fact:** EIC controlled vast Indian territories, employed private army larger than most European armies, single largest commercial enterprise. 60,000+ servants in India. Charter renewed 1813, ending Indian monopoly but retaining Chinese trade. \"Nabobs\" returned wealthy, resented by old aristocracy.\n- **Location / Scope:** India; London (East India House); port cities\n- **Alderwick Relevance:** DIRECT for Company-connected characters. Wealth from Company circulated through Britain. Exotic goods, knowledge, trauma from India.\n- **Possible Character Conflict:** A character justifies Company wealth to English gentry. A Company servant discovers corruption.\n- **Possible Mystery Use:** Company secrets. A hidden connection between Alderwick fortune and Indian operations.\n- **Possible World-Building Use:** Calico, tea, opium, Indian shawls, a servant who speaks Hindustani.\n- **Urgency:** MEDIUM | **Plot Potential:** 7/10 | **Confidence:** VERY HIGH\n- **Sources:** P. J. Marshall, *Cambridge Illustrated History of the British Empire*\n- **Sources:** Eric Williams, *Capitalism and Slavery* (1944); David Barroll, *Chronology of the Negro in England* (1987)\n- **Possible Character Conflict:** A character who destroyed machinery faces capture. A factory owner faces moral crisis.\n- **Possible Social Conflict:** Workers vs. factory owners. State's brutal repression.\n- **Possible Mystery Use:** Machinery destruction as cover for a different crime. A Luddite who is actually a spy.\n- **Urgency:** MEDIUM | **Plot Potential:** 7/10 | **Confidence:** VERY HIGH\n- **Sources:** Asa Briggs, *The Machine Breakers* (1960); Dorothy Thompson, *The Luddites* (1963)\n---",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "pressure_027",
+        "type": "geopolitical_pressure",
+        "title": "08 — POLITICAL ANXIETY AND SURVEILLANCE",
+        "description": "- **ID:** HIST-1816-08\n- **Date / Period:** 1815-1817 (escalating)\n- **Historical Fact:** British government terrified of revolution. Radical agitation spreading. Government spies infiltrated radical societies. Correspondence societies monitored. Government believed Britain was on verge of French-style revolution. Prepared repressive measures (Gagging Acts 1817, Six Acts 1819).\n- **Location / Scope:** Britain; especially London and manufacturing centers\n- **Alderwick Relevance:** DIRECT. A rural town would have government surveillance. Gentry expected to report suspicious activity.\n- **Possible Character Conflict:** A character secretly working as government informant. A character attending radical meetings fears discovery.\n- **Possible Social Conflict:** Paranoia among radicals. Trust issues in communities.\n- **Possible Mystery Use:** Intercepted letters. A character carrying secret correspondence. An infiltrated meeting.\n- **Urgency:** HIGH | **Plot Potential:** 9/10 — especially for CORE ORGANIZATION characters\n- **Confidence:** VERY HIGH\n- **Sources:** Robert Payton, *The Surveillance of Radical Activity* (1976); Martin Ceadel, *The Origins of War Prevention* (1996)\n- **Possible Mystery Use:** Food adulterated (chalk in bread). A character manipulates grain markets.\n- **Possible World-Building Use:** Smaller portions, different foods (potatoes more common), empty pantries.\n- **Urgency:** HIGH | **Plot Potential:** 9/10 | **Confidence:** VERY HIGH\n- **Sources:** John D. Post, *The Last Great Subsistence Crisis*; Collins, *Food Supply in the British Isles* (1952)\n| 12 | East India Company Power | HIGH | DIRECT — wealth, corruption, imperial reach |\n| 13 | Early Industrial Technology (steam, gas) | HIGH | DIRECT — changing world, generational tension |\n| 14 | Gas Lighting Development | MEDIUM | DIRECT — new technology, visual world-building |\n| 15 | Davy Lamp (Jan 1816) | HIGH | DIRECT — mining safety, new technology |\n| 16 | Transportation and Communication | HIGH | DIRECT — mail coaches, roads, canals |\n| 17 | Law Enforcement (pre-Police) | HIGH | DIRECT — Bow Street Runners, constables |\n| 18 | Currency, Banking, and Finance | HIGH | DIRECT — post-war monetary stress |\n| 19 | Social Class and Identity | HIGH | DIRECT — gentry vs. middle class vs. poor |\n| 20 | Education and Literacy | HIGH | INDIRECT — who can read? who writes? |\n| 21 | Religion and Social Change | HIGH | DIRECT — evangelical revival, dissent |\n| 22 | Medical Limitations | HIGH | DIRECT — disease, death, ignorance |\n| 23 | Clothing and Consumer Culture | HIGH | DIRECT — identity, appearance, shame |\n| 24 | Household Life and Domestic Service | HIGH | DIRECT — servants, hierarchy, knowledge |",
+        "intensity": "high",
+        "scope": "continental",
+        "period": "1816"
+      },
+      {
+        "id": "event_028",
+        "type": "historical_event",
+        "title": "Colonial Holdings",
+        "description": "- **North America:** None (lost in American Revolution 1783); Canada was a separate colony\n- **Caribbean:** Jamaica, Barbados, Bahamas, Trinidad (recently captured from Spain), Leeward Islands — sugar and slave economies\n- **South America:** No direct holdings; Venezuela and Colombia in independence struggle (Bolivar)\n- **Africa:** Trading posts (Gambia, Sierra Leone, Gold Coast); no large inland territories\n- **India:** East India Company controlled Bengal, Madras, Bombay, and vast interior territories\n- **Southeast Asia:** Straits Settlements (Singapore not founded until 1819); interactions with Dutch East Indies\n- **Pacific:** No significant holdings (Botany Bay penal colony established 1788)\n- **Europe:** Malta (captured 1800); Minorca (returned to Spain 1802)",
+        "category": "empire_colonialism",
+        "year": 1816
+      },
+      {
+        "id": "event_029",
+        "type": "historical_event",
+        "title": "The East India Company",
+        "description": "- Controlled vast Indian territories\n- Employed private army of 200,000+ (larger than most European armies)\n- 60,000+ British servants in India\n- Single largest commercial enterprise in the world\n- Charter renewed 1813: lost Indian trade monopoly but retained Chinese trade\n- 1811-1812: War with Burma (recovering in 1816)\n- \"Nabobs\" — Company agents who returned to Britain extremely wealthy\n- Old aristocracy resented Company wealth",
+        "category": "empire_colonialism",
+        "year": 1816
+      },
+      {
+        "id": "event_030",
+        "type": "historical_event",
+        "title": "Colonial Wealth",
+        "description": "- Sugar, cotton, tea, coffee, indigo from colonies enriched British commerce\n- Colonial goods were essential to daily life (sugar in tea, cotton in clothing)\n- The wealth was real and significant but most Britons were unaware of its origins\n- Colonial investors and merchants enriched London, Bristol, Liverpool, Southampton\n---",
+        "category": "empire_colonialism",
+        "year": 1816
+      },
+      {
+        "id": "event_031",
+        "type": "historical_event",
+        "title": "Legal Status (1816)",
+        "description": "- **Slave TRADE:** Illegal in British Empire (Slave Trade Act 1807)\n- **SLAVERY ITSELF:** Still LEGAL in British colonies until 1833 (Slavery Abolition Act)\n- **Black Britons:** Exist in Britain (London, Bristol, Liverpool, Southampton) but face systemic racism\n- **Former slaves in Britain:** Legally free after Somerset Case (1772) but social reality was different",
+        "category": "empire_colonialism",
+        "year": 1816
+      },
+      {
+        "id": "event_032",
+        "type": "historical_event",
+        "title": "The Abolition Movement",
+        "description": "- Led by William Wilberforce, Thomas Clarkson, Granville Sharp\n- Society for Effecting the Abolition of the Slave Trade (founded 1787)\n- Black Britons (Olaudah Equiano had died 1797; continued activism)\n- Slave trade abolished 1807 but enforcement was imperfect\n- British Anti-Slavery Society would be founded in 1823\n- Moral and religious motivation (evangelical Christianity)\n- Economic opposition: some argued free labor was more profitable",
+        "category": "empire_colonialism",
+        "year": 1816
+      },
+      {
+        "id": "event_033",
+        "type": "historical_event",
+        "title": "Colonial Wealth and Moral Tension",
+        "description": "- British economy dependent on colonial slave labor (even after 1807, existing plantations used enslaved people)\n- Sugar, cotton, and tobacco from plantations were central to British trade\n- Most British consumers of sugar were unaware of how it was produced\n- The moral question was becoming unavoidable but was not yet resolved\n---",
+        "category": "empire_colonialism",
+        "year": 1816
+      },
+      {
+        "id": "event_034",
+        "type": "historical_event",
+        "title": "1816 Developments",
+        "description": "- **9 July 1816:** Argentina declares independence from Spain (Congress of Tucuman)\n- Simón Bolívar active in Venezuela and Colombia\n- Spanish Empire crumbling in the Americas\n- Britain maintained official neutrality\n- Britain interested in new trade opportunities with independent South America",
+        "category": "empire_colonialism",
+        "year": 1816
+      },
+      {
+        "id": "event_035",
+        "type": "historical_event",
+        "title": "Implications for Britain",
+        "description": "- Anxiety about the future of colonial trade\n- East India Company monopoly questioned\n- Questions about British imperial moral authority\n- Parallel: if South American colonies can break from Spain, why not other colonies?\n---",
+        "category": "empire_colonialism",
+        "year": 1816
+      },
+      {
+        "id": "event_036",
+        "type": "historical_event",
+        "title": "Australia (New South Wales)",
+        "description": "- Penal colony established 1788\n- Convicts transported from Britain for crimes including theft\n- By 1816, the colony was established but struggling\n- Transportation was the standard punishment for non-capital crimes\n- A form of exile and forced labor",
+        "category": "empire_colonialism",
+        "year": 1816
+      },
+      {
+        "id": "event_037",
+        "type": "historical_event",
+        "title": "Relevance to Alderwick",
+        "description": "- A character might be sent to Australia as punishment\n- A character might have family in Australia\n- A transported convict might return (some did, freely or escaped)\n- The threat of transportation as a tool of social control\n---\n| Aspect | Direct Relevance | Indirect Relevance |\n|---|---|---|\n| East India Company | Characters with Company connections | Wealth circulating through economy |\n| Slavery/Abolition | Characters with colonial ties | Moral questions, colonial goods |\n| South America | Very indirect | Imperial anxiety |\n| Penal Colonies | A character sent/returning from Australia | Transportation as threat |\n| Colonial Goods | Daily life (sugar, tea, cotton) | Most gentry unaware of origins |\n| Black Britons | A character encountering a Black person in a rural town | Demographic reality |\n---\n- Colonial wealth is best introduced through specific details (a character's sugar, a family fortune from Jamaica, a servant with Indian connections)\n- The moral question of slavery is present but largely unspoken until confronted\n- South American independence is a distant concern unless a character has direct involvement\n- Penal transportation is a more local threat and can be used for character development",
+        "category": "empire_colonialism",
+        "year": 1816
+      }
+    ]
+  }
+}

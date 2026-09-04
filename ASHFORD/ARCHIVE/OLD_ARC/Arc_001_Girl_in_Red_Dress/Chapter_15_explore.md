@@ -1,6 +1,6 @@
-# Chapter 15 — Epilogue: The Girl Who Waits
+﻿# Chapter 15 — Epilogue: The Girl Who Waits
 
-Ashford, 30 November 2006
+Alderwick, 30 November 2006
 
 Dua hari telah berlalu sejak malam di bawah stasiun.
 
@@ -148,7 +148,7 @@ Yang belum diketahui:
 - Bagaimana cara memutus loop sepenuhnya
 - Mengapa Emily yang terjebak, bukan orang lain
 - Apa "sesuatu yang lebih besar" yang Emily sebutkan
-- Apakah ada roh lain yang terjebak di Ashford
+- Apakah ada roh lain yang terjebak di Alderwick
 
 🟨
 
@@ -178,7 +178,7 @@ Matahari mulai terbenam.
 
 Langit berubah oranye dan merah.
 
-Ashford terlihat damai.
+Alderwick terlihat damai.
 
 Kota kecil biasa.
 
@@ -304,7 +304,7 @@ Aku tidak tahu apa yang akan terjadi selanjutnya.
 
 Tidak tahu misteri apa yang akan kutemukan.
 
-Tidak tahu rahasia apa yang tersembunyi di Ashford.
+Tidak tahu rahasia apa yang tersembunyi di Alderwick.
 
 Tetapi aku tahu satu hal:
 
@@ -314,7 +314,7 @@ Emily bilang ada sesuatu yang lebih besar.
 
 Sesuatu yang lebih gelap.
 
-Di bawah Ashford.
+Di bawah Alderwick.
 
 Dan cepat atau lambat, aku akan menemukannya.
 
@@ -378,7 +378,7 @@ Sesuatu yang tahu namaku.
 
 🟨
 
-*Di suatu tempat di Ashford Station, dalam ruang tunggu pribadi yang terkunci, seorang perempuan dengan gaun merah berdiri sendirian. Dia menatap dinding di mana inisialnya terukir. E.W. Emily Wren. Untuk pertama kalinya dalam waktu yang sangat lama, dia tersenyum. Bukan senyum sedih seperti biasanya. Tetapi senyum harapan. Karena seseorang mengingat. Seseorang peduli. Seseorang mencoba. Dan mungkin, hanya mungkin, suatu hari dia akan bebas. Sampai saat itu, dia menunggu. Seperti yang selalu dia lakukan. Tetapi sekarang dia menunggu dengan harapan.*
+*Di suatu tempat di Alderwick Station, dalam ruang tunggu pribadi yang terkunci, seorang perempuan dengan gaun merah berdiri sendirian. Dia menatap dinding di mana inisialnya terukir. E.W. Emily Wren. Untuk pertama kalinya dalam waktu yang sangat lama, dia tersenyum. Bukan senyum sedih seperti biasanya. Tetapi senyum harapan. Karena seseorang mengingat. Seseorang peduli. Seseorang mencoba. Dan mungkin, hanya mungkin, suatu hari dia akan bebas. Sampai saat itu, dia menunggu. Seperti yang selalu dia lakukan. Tetapi sekarang dia menunggu dengan harapan.*
 
 🟨
 
@@ -386,7 +386,7 @@ Sesuatu yang tahu namaku.
 
 Aku meninggalkan stasiun.
 
-Berjalan melalui Ashford.
+Berjalan melalui Alderwick.
 
 Kota kecil yang tenang.
 

@@ -1,6 +1,6 @@
-# Chapter 12 — The Rope and the Rumor
+﻿# Chapter 12 — The Rope and the Rumor
 
-Sunday came in quiet. A town has one voice on the Sabbath, and it is the church's. And the church of Ashford had not used its voice since before I was born, because the bell had been sold.
+Sunday came in quiet. A town has one voice on the Sabbath, and it is the church's. And the church of Alderwick had not used its voice since before I was born, because the bell had been sold.
 
 That made Sunday the one day when a thing could be seen without being watched, because the whole town was standing with its face turned the same way.
 
@@ -22,7 +22,7 @@ At the door going out, the verger gave me my hat.
 
 ## Tuesday, 26 November
 
-I went to Arthur's to give back the book about Ashford from the first week, before I knew that houses can be taken off maps like names out of rolls.
+I went to Arthur's to give back the book about Alderwick from the first week, before I knew that houses can be taken off maps like names out of rolls.
 
 "The paper has seen you at the church steps, sir, and I have seen it," said Arthur, taking the book. "Now you have come to ask me one thing, and you will go away not having been told it. Begin, if you mean to."
 

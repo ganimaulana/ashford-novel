@@ -1,6 +1,6 @@
-# Chapter 11 — The Loop Unbroken
+﻿# Chapter 11 — The Loop Unbroken
 
-Ashford, 27 November 2006
+Alderwick, 27 November 2006
 
 Aku tidak ingat bagaimana aku keluar dari stasiun malam itu.
 
@@ -129,7 +129,7 @@ Mrs. Holloway terlihat terkejut melihatku lagi.
 
 "Leon, kau baik-baik saja? Kau terlihat... lelah."
 
-"Saya baik-baik saja," bohongku. "Saya perlu mencari informasi lagi. Tentang Stasiun Ashford. Khususnya tentang pembangunannya. Dan tentang tanah di mana stasiun itu dibangun."
+"Saya baik-baik saja," bohongku. "Saya perlu mencari informasi lagi. Tentang Stasiun Alderwick. Khususnya tentang pembangunannya. Dan tentang tanah di mana stasiun itu dibangun."
 
 Mrs. Holloway mengerutkan kening.
 
@@ -157,13 +157,13 @@ Catatan kota.
 
 Survei tanah.
 
-"Stasiun Ashford dibangun tahun 1888," katanya sambil mencari di filing cabinet tua. "Dibuka untuk umum April 1889. Sebelum itu... ah, ini dia."
+"Stasiun Alderwick dibangun tahun 1888," katanya sambil mencari di filing cabinet tua. "Dibuka untuk umum April 1889. Sebelum itu... ah, ini dia."
 
 Dia mengeluarkan folder tebal.
 
 Di dalamnya ada peta tua.
 
-Peta Ashford tahun 1850.
+Peta Alderwick tahun 1850.
 
 Sebelum stasiun dibangun.
 
@@ -217,7 +217,7 @@ Orang-orang yang dikubur di sana dari abad ke-15 sampai 1847.
 
 Mrs. Holloway terlihat tidak nyaman.
 
-"Mereka dipindahkan. Secara resmi. Jenazah digali dan dipindahkan ke Ashford Cemetery. Ada catatan pemindahan di sini..."
+"Mereka dipindahkan. Secara resmi. Jenazah digali dan dipindahkan ke Alderwick Cemetery. Ada catatan pemindahan di sini..."
 
 Dia menunjukkan dokumen lain.
 

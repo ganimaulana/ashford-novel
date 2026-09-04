@@ -1,6 +1,6 @@
-# Chapter 02 — Pertanyaan Tanpa Jawaban
+﻿# Chapter 02 — Pertanyaan Tanpa Jawaban
 
-Ashford, 22 November 2006
+Alderwick, 22 November 2006
 
 Aku tidak tidur nyenyak malam itu.
 
@@ -32,7 +32,7 @@ Aku membuat teh dan duduk di meja dekat jendela.
 
 Di luar, langit masih kelabu.
 
-Ashford di pagi hari selalu terlihat seperti kota yang belum sepenuhnya bangun.
+Alderwick di pagi hari selalu terlihat seperti kota yang belum sepenuhnya bangun.
 
 Tidak ada yang terburu-buru.
 
@@ -82,7 +82,7 @@ Aku berharap begitu.
 
 🟨
 
-Ashford Station terlihat berbeda di pagi hari.
+Alderwick Station terlihat berbeda di pagi hari.
 
 Lebih ramai.
 
@@ -347,7 +347,7 @@ Margaret memperhatikanku dengan seksama.
 
 Dia tersenyum kecil.
 
-"Ashford memang kota yang aneh kadang-kadang."
+"Alderwick memang kota yang aneh kadang-kadang."
 
 "Maksudmu?"
 
@@ -417,7 +417,7 @@ Atau setidaknya, petunjuk.
 
 🟨
 
-Ashford Central Library tidak jauh dari High Street.
+Alderwick Central Library tidak jauh dari High Street.
 
 Bangunan bata merah dua lantai dengan jendela-jendela tinggi.
 
@@ -445,7 +445,7 @@ Dia mengangkat kepala.
 
 "Arsip apa yang Anda cari?"
 
-"Tentang stasiun. Ashford Station."
+"Tentang stasiun. Alderwick Station."
 
 "Untuk apa?"
 
@@ -627,7 +627,7 @@ Langit mulai mendung.
 
 Udara semakin dingin.
 
-November di Ashford selalu seperti ini.
+November di Alderwick selalu seperti ini.
 
 Kelabu.
 
@@ -722,7 +722,7 @@ Aku membalik foto.
 
 Di belakangnya ada tulisan tangan yang hampir pudar:
 
-"Ashford Station, Opening Day, March 1889"
+"Alderwick Station, Opening Day, March 1889"
 
 Dan di bawahnya, dengan tinta yang berbeda:
 
@@ -757,7 +757,7 @@ Aku menatap Margaret.
 
 Dia tersenyum.
 
-"Aku tidak tahu. Tetapi aku sudah tinggal di Ashford cukup lama untuk tidak langsung menolak sesuatu hanya karena terdengar aneh."
+"Aku tidak tahu. Tetapi aku sudah tinggal di Alderwick cukup lama untuk tidak langsung menolak sesuatu hanya karena terdengar aneh."
 
 🟨
 

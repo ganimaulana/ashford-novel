@@ -1,5 +1,5 @@
-Chapter 4 — Orang-Orang di Ashford
-Pagi itu aku bangun lebih lambat dari biasanya. Tidak ada alasan khusus. Aku hanya tidak memiliki pekerjaan sampai beberapa hari lagi, dan untuk pertama kalinya sejak tiba di Ashford, aku tidak merasa harus segera pergi ke mana pun.
+﻿Chapter 4 — Orang-Orang di Alderwick
+Pagi itu aku bangun lebih lambat dari biasanya. Tidak ada alasan khusus. Aku hanya tidak memiliki pekerjaan sampai beberapa hari lagi, dan untuk pertama kalinya sejak tiba di Alderwick, aku tidak merasa harus segera pergi ke mana pun.
 Aku membuat sarapan sederhana. Kemudian membaca koran di ruang makan.
 Berita nasional.
 Harga minyak.
@@ -15,7 +15,7 @@ Aku tahu kapan harus melewati persimpangan menuju High Street.
 Aku tahu toko roti yang biasanya sudah penuh pada pagi hari.
 Aku tahu halte bus di dekat Market Square.
 Aku bahkan mulai mengenali bangunan-bangunan tertentu dari bentuk jendelanya.
-Ashford perlahan berubah dari kota asing menjadi kumpulan tempat yang bisa kukenali.
+Alderwick perlahan berubah dari kota asing menjadi kumpulan tempat yang bisa kukenali.
 Belum menjadi rumah.
 Tetapi tidak lagi sepenuhnya asing.
 
@@ -83,7 +83,7 @@ Dia tersenyum.
 Kemudian dia pergi lagi.
 Aku mulai makan. Aku memikirkan angka itu.
 Sepuluh tahun.
-Bagi seseorang yang tinggal di kota besar, mengenal sebagian besar pelanggan kedai mungkin terdengar tidak masuk akal. Tetapi Ashford berbeda. Kota ini cukup kecil sehingga orang bisa bertemu orang yang sama berkali-kali.
+Bagi seseorang yang tinggal di kota besar, mengenal sebagian besar pelanggan kedai mungkin terdengar tidak masuk akal. Tetapi Alderwick berbeda. Kota ini cukup kecil sehingga orang bisa bertemu orang yang sama berkali-kali.
 Toko yang sama.
 Halte yang sama.
 Pub yang sama.
@@ -134,7 +134,7 @@ Aku tersenyum.
 "Kamu siapa?"
 "Michael."
 Kami berjabat tangan.
-"Selamat datang di Ashford."
+"Selamat datang di Alderwick."
 "Terima kasih."
 Michael kembali membaca koran. Aku melanjutkan sarapan.
 Tidak ada yang istimewa.
@@ -336,7 +336,7 @@ Alamat baru.
 Nomor rumah yang ditulis ulang.
 Orang yang pindah.
 Seseorang yang tidak tahu.
-Di kota yang lebih besar, mungkin surat seperti itu akan hilang begitu saja. Di Ashford, seseorang mungkin tahu siapa yang harus ditanya.
+Di kota yang lebih besar, mungkin surat seperti itu akan hilang begitu saja. Di Alderwick, seseorang mungkin tahu siapa yang harus ditanya.
 Margaret tahu orangnya.
 Aku bisa melihat tulisannya.
 Dan orang itu bisa melanjutkan pencarian.
@@ -432,7 +432,7 @@ Kemudian Margaret tiba-tiba berkata:
 "Hm?"
 "Kau masih punya buku yang diberikan Arthur?"
 Aku mengangkat kepala.
-"Buku sejarah Ashford?"
+"Buku sejarah Alderwick?"
 "Ya."
 "Masih."
 "Sudah selesai?"
@@ -484,23 +484,23 @@ Aku menoleh.
 "Titip salam untuk Arthur."
 
 Aku berjalan menuju toko Arthur. Letaknya memang tidak terlalu jauh dari kafe. Jalannya juga searah dengan rumahku.
-Aku baru menyadarinya setelah beberapa hari berada di Ashford. Kalau aku terus berjalan dari pusat kota, melewati High Street, aku bisa sampai ke toko Arthur sebelum akhirnya mengambil jalan menuju Bellweather Lane. Jadi aku tidak perlu memutar.
+Aku baru menyadarinya setelah beberapa hari berada di Alderwick. Kalau aku terus berjalan dari pusat kota, melewati High Street, aku bisa sampai ke toko Arthur sebelum akhirnya mengambil jalan menuju Bellweather Lane. Jadi aku tidak perlu memutar.
 Bungkusan makanan masih hangat di tanganku.
 Sebenarnya aku memang ingin bertemu Arthur.
 Bukan karena sesuatu yang aneh.
 Aku hanya masih memikirkan satu bagian dari buku yang diberikannya.
-Ada istilah lama yang digunakan dalam salah satu catatan mengenai kawasan Ashford.
+Ada istilah lama yang digunakan dalam salah satu catatan mengenai kawasan Alderwick.
 Aku sudah mencarinya di kamus.
 Tidak menemukan apa-apa.
 Mungkin istilah itu hanya digunakan dalam catatan lokal.
 Dan kalau ada seseorang yang mungkin tahu jawabannya...
 Arthur.
 Aku berjalan sedikit lebih cepat.
-Jalan dari Margaret's menuju toko Arthur memperlihatkan bagian Ashford yang berbeda dari Market Square. Toko-toko di sini lebih kecil. Beberapa masih menggunakan papan nama keluarga.
+Jalan dari Margaret's menuju toko Arthur memperlihatkan bagian Alderwick yang berbeda dari Market Square. Toko-toko di sini lebih kecil. Beberapa masih menggunakan papan nama keluarga.
 Ada toko jahit dengan kain yang dipajang di jendela.
 Sebuah toko perangkat keras menampilkan perkakas di balik kaca.
 Sebuah toko bunga menaruh ember di trotoar.
-Di antara semuanya terdapat rumah-rumah tua yang bagian depannya telah diubah menjadi ruang usaha. Ashford tidak memiliki batas yang jelas antara kawasan perdagangan dan permukiman.
+Di antara semuanya terdapat rumah-rumah tua yang bagian depannya telah diubah menjadi ruang usaha. Alderwick tidak memiliki batas yang jelas antara kawasan perdagangan dan permukiman.
 Keduanya bercampur. Orang bisa tinggal di lantai atas dan membuka toko di bawahnya. Sebuah keluarga bisa menjalankan bisnis yang sama selama beberapa generasi. Dan sebuah bangunan yang dulu memiliki fungsi berbeda bisa digunakan kembali tanpa benar-benar kehilangan bentuk lamanya.
 
 
@@ -547,7 +547,7 @@ Arthur tersenyum.
 Aku menunggu.
 Arthur membuka laci meja. Mengeluarkan sebuah peta lama. "Kadang sebuah nama berubah." Dia membuka peta tersebut. "Kadang jalan berubah."
 Jarinya bergerak mengikuti garis jalan. "Kadang orang tetap menggunakan nama lama meskipun nama resmi sudah berubah." Aku melihat peta itu. Arthur menunjuk sebuah kawasan.
-"Kalau kau ingin memahami sejarah Ashford, jangan hanya membaca nama yang tertulis di buku."
+"Kalau kau ingin memahami sejarah Alderwick, jangan hanya membaca nama yang tertulis di buku."
 "Kenapa?"
 "Karena orang-orang yang tinggal di sini tidak selalu menyebut tempat dengan nama yang sama."
 Aku mengangguk perlahan.
@@ -570,14 +570,14 @@ Aku menutup buku.
 Arthur mengangguk.
 "Bagus."
 Aku melihat peta itu sekali lagi sebelum Arthur menyimpannya.
-Garis-garis jalannya tidak sepenuhnya sama dengan Ashford yang kukenal sekarang.
+Garis-garis jalannya tidak sepenuhnya sama dengan Alderwick yang kukenal sekarang.
 Beberapa nama telah berubah.
 Beberapa jalan diperpanjang.
 Beberapa bagian kota yang sekarang penuh rumah dahulu masih berupa lahan terbuka.
 Ada tanda kecil di dekat sungai.
 Ada jalur menuju stasiun.
 Ada kawasan perdagangan lama yang tampaknya jauh lebih kecil daripada sekarang.
-Aku mulai memahami sesuatu yang sebelumnya hanya terasa samar. Ketika orang-orang di Ashford menyebut sebuah tempat, mereka mungkin tidak selalu berbicara tentang nama resmi yang tertulis di peta.
+Aku mulai memahami sesuatu yang sebelumnya hanya terasa samar. Ketika orang-orang di Alderwick menyebut sebuah tempat, mereka mungkin tidak selalu berbicara tentang nama resmi yang tertulis di peta.
 Mereka bisa menggunakan nama lama.
 Nama keluarga.
 Nama bangunan yang sudah tidak ada.
@@ -598,7 +598,7 @@ Jalan menuju Bellweather Lane.
 Beberapa wajah yang mulai kukenal.
 Beberapa nama yang mulai kuingat.
 Tidak banyak.
-Tetapi cukup untuk membuat Ashford terasa sedikit berbeda dari hari pertama aku datang.
+Tetapi cukup untuk membuat Alderwick terasa sedikit berbeda dari hari pertama aku datang.
 Aku tidak lagi hanya melewati kota ini.
 Aku mulai memiliki tempat-tempat yang kukenal.
 Dan orang-orang yang mengenalku.
