@@ -41,6 +41,7 @@ Do NOT define the nature of major unresolved entities. Preserve as Anomaly until
 ### The Stone Door Beneath the Mill (Ch 38, 40, 46)
 - [EVIDENCE: CONFIRMED] A narrow stone door set into the ground, no handle/keyhole/hinge, marked with a circle crossed by a short line; a depression matches the gear's shape. The mill appears to have been built around something already there. SOURCE: Ch 38.
 - [EVIDENCE: CONFIRMED] When the gear is placed in the depression and turned, the door moves (opens ~one inch); darkness and a passage appear; cold air and a low movement from beyond. Leon closes it. SOURCE: Ch 46.
+- [EVIDENCE: CONFIRMED] The Door is a containment boundary. Something on the other side cannot normally enter the human world, but it can exert influence from within. The nature, identity, origin, and true ontology of what exists behind the Door remain UNRESOLVED. SOURCE: Working canon 2026-09-06.
 
 ### The Reappearing House on the Common (Ch 39, 45)
 - [EVIDENCE: CONFIRMED] Appears where the common meets the lower pasture. Witnesses disagree on colour: white (farmer), grey (woman), dark brick (third person). When gone, only flattened grass remains — no foundation. SOURCE: Ch 39.

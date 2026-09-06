@@ -42,6 +42,166 @@ DOOR  = where the connection leads (secondary relationship)
 
 ---
 
+## I.A. SYSTEM B — THE DOOR / CONTAINMENT
+
+**Core Concept:** The Door guarded by Vale is a containment boundary.
+
+Its fundamental purpose is to prevent something located on the other side from entering the ordinary human world.
+
+The nature, identity, origin, and true ontology of what exists behind the Door remain **UNRESOLVED.**
+
+Do NOT prematurely define the thing behind the Door as:
+- a demon,
+- a monster,
+- an alien,
+- a god,
+- a spirit,
+- a parallel-world entity,
+- a specific named supernatural being,
+- or any other final ontology.
+
+The story may initially allow characters and readers to interpret it in several ways.
+
+### Central Rule
+
+The thing behind the Door cannot simply cross into the human world under ordinary conditions.
+
+However, inability to physically cross does **NOT** mean inability to exert influence.
+
+The entity/phenomenon may exert influence from the other side of the boundary.
+
+### Early / Level-I Influence
+
+The initial manifestations should be relatively subtle and non-immediately lethal.
+
+Possible manifestations include:
+- abnormal dreams,
+- voices resembling memories,
+- sounds without identifiable sources,
+- shadows behaving incorrectly,
+- spatial inconsistencies,
+- changes in the apparent dimensions or arrangement of rooms,
+- localized temperature changes,
+- unusual environmental phenomena,
+- disturbances involving clocks or other objects,
+- abnormal animal behavior,
+- other small anomalies.
+
+These manifestations should initially remain ambiguous enough to permit rational explanations.
+
+### Escalation
+
+The influence may become progressively more dangerous if the boundary becomes increasingly stressed or the phenomenon gains deeper access.
+
+Potential later manifestations may include:
+- stronger perceptual disturbances,
+- memory interference,
+- manipulation of thought,
+- abnormal behavioral impulses,
+- direct mental influence,
+- temporary loss of agency,
+- compelled actions,
+- violence,
+- murder,
+- or other severe consequences.
+
+This is **NOT** to be treated as a rigid RPG-like level system.
+
+The progression represents increasing **DEPTH, INTENSITY, or CONSEQUENCE OF INFLUENCE.**
+
+### The Bell
+
+The Bell should be treated as a possible **SIGN / INDICATOR** that something on the other side of the Door is exerting pressure or attempting to influence the human side.
+
+**Important distinction:**
+
+**BELL IS NOT THE DOOR.**
+**BELL IS NOT THE ENTITY.**
+**BELL IS NOT THE CAUSE OF THE ANOMALIES.**
+
+Working architecture:
+
+```
+Something behind the Door
+→ exerts pressure / attempts influence
+→ boundary manifests a warning or symptom
+→ Bell occurs
+→ anomalous phenomena may become observable.
+```
+
+The exact metaphysical mechanism by which Bell is produced remains unresolved.
+
+The Bell therefore functions narratively as a warning sign that something is active behind the boundary.
+
+Do not yet establish that every anomaly must produce a Bell.
+Do not yet establish that every Bell must correspond to a physical attempt to escape.
+Do not yet establish that the Bell can only originate from Vale's Door.
+
+### Vale
+
+Vale is a guardian/custodian of the Door.
+
+His primary responsibility is **containment**: ensuring that the Door remains secure and that whatever lies beyond it does not cross into the human world.
+
+Vale does **NOT** need to understand the entire cosmology.
+
+He may know:
+- that the Door must remain sealed,
+- that certain rules must be followed,
+- that certain phenomena are dangerous,
+- that the Bell has significance,
+- and that interference with the Door is dangerous.
+
+He does **NOT** automatically know:
+- the full identity of what is behind the Door,
+- the complete origin of the Door,
+- the complete nature of Bell,
+- the full relationship between Bell and the Door,
+- the complete history of Aurelius,
+- or the complete function of the Nine Gears.
+
+### System Separation
+
+The Door is **NOT** currently confirmed to be opened by the Nine Gears.
+
+The Nine Gears belong primarily to System A — Aurelius Network / Communication.
+
+Vale may possess a Gear while also guarding the Door, but this does not establish that the Gear is a key to the Door.
+
+Likewise, the Door does not automatically explain 00:00.
+
+Do NOT establish:
+- Gear = Door key,
+- Gear assembly = Door opening,
+- 00:00 = Door activation,
+- 00:00 = supernatural trigger for the Door,
+- Bell = 00:00,
+- Bell = Call,
+- Door = Place Beneath.
+
+All such relationships remain open unless supported by manuscript evidence.
+
+### Potential Deeper Threat
+
+It remains possible that what lies beyond Vale's Door is dangerous but is **NOT** the ultimate or greatest supernatural threat in Ashford.
+
+It is also possible that the Door is only one containment boundary among a larger structure.
+
+It is further possible that assembling or activating the Nine Gears could eventually interact with a deeper mystery, but this must **NOT** be canonized at this stage.
+
+The authorial architecture should preserve the possibility that:
+- the Door contains something dangerous,
+- something deeper or more dangerous may exist beyond the immediate containment problem,
+- and neither Vale nor Aurelius necessarily understood the entire hierarchy of the threat.
+
+These are possibilities, not confirmed facts.
+
+### Conceptual Summary
+
+> "THE DOOR IS A CONTAINMENT BOUNDARY. SOMETHING ON THE OTHER SIDE CANNOT NORMALLY ENTER THE HUMAN WORLD, BUT IT CAN EXERT INFLUENCE FROM WITHIN. BELL IS A POSSIBLE WARNING OR MANIFESTATION OF THAT PRESSURE. VALE'S ROLE IS TO MAINTAIN CONTAINMENT, NOT TO EXPLAIN THE ENTIRE SUPERNATURAL SYSTEM."
+
+---
+
 ## II. STATUS
 
 Everything introduced by this task is **PROPOSED — ARC 2+**, unless an existing confirmed canon statement explicitly establishes otherwise.
