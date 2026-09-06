@@ -1,10 +1,10 @@
-# Education and Learning — Ashford, 1816
+# Education and Learning — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Education in 1816 Ashford is stratified by class and gender, with a growing emphasis on literacy and practical skills for the working classes. The established church and dissenting groups both run schools.
+Education in 1816 Alderwick is stratified by class and gender, with a growing emphasis on literacy and practical skills for the working classes. The established church and dissenting groups both run schools.
 
 ---
 
@@ -34,7 +34,7 @@ Education in 1816 Ashford is stratified by class and gender, with a growing emph
 ## Higher Education
 
 - **Universities:** Oxford and Cambridge; restricted to men; often require a classical education.
-- **Other:** The "Academy" in Ashford (canon) may provide advanced instruction in classics, philosophy, and science.
+- **Other:** The "Academy" in Alderwick (canon) may provide advanced instruction in classics, philosophy, and science.
 
 ---
 

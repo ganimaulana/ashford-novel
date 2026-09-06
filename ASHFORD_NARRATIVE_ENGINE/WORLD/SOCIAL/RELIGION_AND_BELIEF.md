@@ -1,10 +1,10 @@
-# Religion & Belief in Ashford — 1816
+# Religion & Belief in Alderwick — 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Ashford's religious landscape is inspired by early-19th-century English society but uses fictional names for in-universe traditions. The main traditions are the Old Faith, the New Light, and unaffiliated folk religion.
+Alderwick's religious landscape is inspired by early-19th-century English society but uses fictional names for in-universe traditions. The main traditions are the Old Faith, the New Light, and unaffiliated folk religion.
 
 ---
 

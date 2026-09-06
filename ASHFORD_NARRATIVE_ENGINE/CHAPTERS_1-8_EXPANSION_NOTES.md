@@ -24,7 +24,7 @@ Detail ini berfungsi sebagai **catatan sutradara** — informasi yang pembaca ti
 ## II. CHAPTER 1 EXPANSION — "A Town with a Story to Tell"
 
 ### Canonical Narrative (LOCKED)
-- Leon arrives Ashford by stagecoach, 12 Nov 1816, evening (~8pm)
+- Leon arrives Alderwick by stagecoach, 12 Nov 1816, evening (~8pm)
 - Receives Pembroke & Clarke letter referencing Aurelius Ashcroft
 - Meets mysterious man at inn
 - Takes house on Bellweather Lane with Helen
@@ -36,7 +36,7 @@ Detail ini berfungsi sebagai **catatan sutradara** — informasi yang pembaca ti
 
 #### Political Context (Background Layer)
 **Magistrate Harcourt's Office — Same Evening:**
-- Sir Edmund Harcourt (secret Severance member, code name "Alpha" in future) reviews list of newcomers to Ashford
+- Sir Edmund Harcourt (secret Severance member, code name "Alpha" in future) reviews list of newcomers to Alderwick
 - Leon Ashcroft's name flagged by parish clerk (Circle informant)
 - Note added: "Arrived from London. Claims inheritance. Watch."
 - Harcourt sends message via courier: coded letter to London Circle contact
@@ -83,7 +83,7 @@ Detail ini berfungsi sebagai **catatan sutradara** — informasi yang pembaca ti
 #### Historical Pressure (1816 Context)
 
 **That Specific Night — 12 Nov 1816:**
-- Bread prices in Ashford: 10 pence per loaf (2x normal)
+- Bread prices in Alderwick: 10 pence per loaf (2x normal)
 - Poor relief exhausted for the month
 - Two families evicted from cottages for non-payment
 - Magistrate Harcourt ordered night watch doubled due to "unrest risk"
@@ -126,7 +126,7 @@ Detail ini berfungsi sebagai **catatan sutradara** — informasi yang pembaca ti
 ## III. CHAPTER 2 EXPANSION — "A Town I Did Not Know"
 
 ### Canonical Narrative (LOCKED)
-- Leon explores Ashford, visits Margaret's tearoom
+- Leon explores Alderwick, visits Margaret's tearoom
 - Meets Daniel Carter (Academy student)
 - Visits Bell's Books, meets Arthur
 - Finds symbol (circle+3lines+dot) in old book
@@ -142,7 +142,7 @@ Detail ini berfungsi sebagai **catatan sutradara** — informasi yang pembaca ti
 - **Origin:** Pre-dates Aurelius (c. 1450-1500, exact date unknown)
 - **Function:** Identifier, not weapon. Marks Circle property, members, safe houses
 - **Propagation:** Does not spread on its own. Must be physically carved/drawn.
-- **Leon's discovery:** He sees it in a 1791 history of Ashford by Arthur's careful arrangement
+- **Leon's discovery:** He sees it in a 1791 history of Alderwick by Arthur's careful arrangement
 - **Actual locations (Ch 2):**
   - Arthur's book (page 47, corner decoration)
   - Church porch (worn stone, barely visible)
@@ -193,7 +193,7 @@ Detail ini berfungsi sebagai **catatan sutradara** — informasi yang pembaca ti
 - Arthur received message from Patriarch (Alpha) yesterday: "New Ashcroft arrives. Prepare Test 1."
 - Test 1: Let him "find" the symbol in a book
 - Arthur selected 3 books with symbol:
-  - 1791 Ashford history (obvious, page 47)
+  - 1791 Alderwick history (obvious, page 47)
   - 1798 property records (subtle, margin note)
   - 1780 journal (hidden, will sell later)
 - **Arthur's instructions:** "Observe. Do not guide. Report if he asks the right questions."
@@ -209,11 +209,11 @@ Detail ini berfungsi sebagai **catatan sutradara** — informasi yang pembaca ti
 **What Leon Sees:**
 - Enthusiastic history student
 - Helpful with research
-- Genuinely interested in Ashford's past
+- Genuinely interested in Alderwick's past
 
 **What's Actually Happening:**
 - Daniel's thesis topic was "suggested" by his mentor (Circle sympathizer)
-- Topic: "Property ownership patterns in Ashford 1750-1816"
+- Topic: "Property ownership patterns in Alderwick 1750-1816"
 - This will naturally lead him to Ashcroft family records
 - **Circle plan:** Use Daniel to feed Leon information without Daniel knowing he's being used
 - Daniel is CLEAN — no Circle connection, no knowledge of supernatural
@@ -311,7 +311,7 @@ Detail ini berfungsi sebagai **catatan sutradara** — informasi yang pembaca ti
 - Does NOT enter
 - **Voss's position:** Parish Constable, reports to Magistrate Harcourt
 - Does NOT know about Severance yet
-- Suspects something is happening in Ashford (increased political tension)
+- Suspects something is happening in Alderwick (increased political tension)
 
 ---
 
@@ -369,7 +369,7 @@ Detail ini berfungsi sebagai **catatan sutradara** — informasi yang pembaca ti
 
 ### Ch 8: The Library Discovery
 **The "Removed from Active List" Document:**
-- Leon finds Bellweather House papers in Ashford Library
+- Leon finds Bellweather House papers in Alderwick Library
 - Page stamped: "REMOVED FROM ACTIVE LIST 1810"
 - No explanation given
 - **Actual story:** Circle member in government systematically erased property from official records
@@ -450,7 +450,7 @@ Detail ini berfungsi sebagai **catatan sutradara** — informasi yang pembaca ti
 
 **Key Figures:**
 - Michael Thorne (future militia leader, Ch 301-320)
-- 15-20 ex-soldiers in Ashford
+- 15-20 ex-soldiers in Alderwick
 
 **Activity Ch 1-8:**
 - Drink at inn, discuss unemployment
@@ -480,7 +480,7 @@ Detail ini berfungsi sebagai **catatan sutradara** — informasi yang pembaca ti
 
 **Basic Information:**
 - Age: 43
-- Position: Parish Constable, Ashford
+- Position: Parish Constable, Alderwick
 - Family: Wife (deceased 3 years ago), daughter Emma (age 11, chronic illness)
 - Residence: Modest house near constable's office
 

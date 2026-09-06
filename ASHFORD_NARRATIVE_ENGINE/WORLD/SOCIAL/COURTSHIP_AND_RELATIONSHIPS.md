@@ -1,10 +1,10 @@
-# Courtship and Relationships — Ashford, 1816
+# Courtship and Relationships — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Courtship in 1816 Ashford is a formalized process, heavily influenced by class, family, and reputation. It is a period of negotiation between families, individuals, and social expectations. Romance is often present, but practical considerations (money, status, family connections) are paramount.
+Courtship in 1816 Alderwick is a formalized process, heavily influenced by class, family, and reputation. It is a period of negotiation between families, individuals, and social expectations. Romance is often present, but practical considerations (money, status, family connections) are paramount.
 
 ---
 

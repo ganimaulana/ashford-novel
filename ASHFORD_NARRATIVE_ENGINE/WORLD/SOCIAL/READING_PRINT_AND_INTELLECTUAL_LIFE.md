@@ -1,10 +1,10 @@
-# Reading, Print, and Intellectual Life — Ashford, 1816
+# Reading, Print, and Intellectual Life — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Reading and intellectual life are central to the middle and upper classes in Ashford, and increasingly accessible to the working class through chapbooks, Sunday schools, and libraries. Information is a social resource, and access to knowledge confers power.
+Reading and intellectual life are central to the middle and upper classes in Alderwick, and increasingly accessible to the working class through chapbooks, Sunday schools, and libraries. Information is a social resource, and access to knowledge confers power.
 
 ---
 

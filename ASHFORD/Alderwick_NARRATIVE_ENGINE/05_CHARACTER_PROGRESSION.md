@@ -78,7 +78,7 @@ Track character growth across non-mutually-exclusive dimensions:
 - Track his notebook entries as a progression metric — do they get deeper/more complex?
 - Track his trust in others — does he rely more on Daniel/Arthur over time?
 - Track his risk tolerance — does he venture into riskier territory as he gains confidence?
-- His progression from "passive observer" to "active investigator" is the arc spine
+- Leon's arc is fundamentally about becoming a more active, competent investigator over time
 - Helen's progression: from "hidden gatekeeper" to "potential ally" or "antagonist"
 
 ## J. CROSS-SYSTEM DEPENDENCIES

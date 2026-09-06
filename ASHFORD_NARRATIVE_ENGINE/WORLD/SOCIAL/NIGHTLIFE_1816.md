@@ -1,10 +1,10 @@
-# Nightlife and After-Dark Life — Ashford, 1816
+# Nightlife and After-Dark Life — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Nightlife in 1816 Ashford is shaped by limited artificial light, early mornings, and seasonal variations. However, there is still a vibrant after-dark culture, especially in taverns, inns, and private gatherings.
+Nightlife in 1816 Alderwick is shaped by limited artificial light, early mornings, and seasonal variations. However, there is still a vibrant after-dark culture, especially in taverns, inns, and private gatherings.
 
 ---
 

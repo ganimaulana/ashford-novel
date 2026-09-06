@@ -118,7 +118,7 @@ I looked up.
 
 "He sends them?"
 
-"He said his burger was safe."
+"He said his dinner was safe."
 
 I laughed.
 
@@ -225,7 +225,7 @@ Simon called from his table.
 
 "Yes?"
 
-"Do you still have the number of the man who deals with the empty house?"
+"Do you still have the address for the man who deals with the empty house?"
 
 Margaret stopped.
 
@@ -237,13 +237,13 @@ I lowered the newspaper.
 
 Margaret asked:
 
-"What number?"
+"Which house?"
 
 Simon opened his folder.
 
 "I don't know."
 
-"Then which house?"
+"Then how are you supposed to find it?"
 
 "The house near the end of the road."
 
@@ -512,7 +512,7 @@ There were carriages in the yards.
 
 There were curtains drawn open every morning.
 
-There were dustbins set out on a particular day.
+There were ash heaps by the wall once a week.
 
 The empty house had none of those signs of life.
 
@@ -754,8 +754,6 @@ I sighed.
 
 Perhaps it was only a reflection.
 
-That night the silhouette did not merely pass the window. It slowed, as if looking in, before the dark took it. I opened the curtain at once. The street was empty; the lamp was steady. I wrote the time, and added a line I had not written before: *not wind. Not a branch.*
-
 I went into my room.
 
 From the second floor I could see most of Bellweather Lane.
@@ -787,48 +785,15 @@ Bellweather...
 
 I stared at it for a few seconds.
 
-The name Ashcroft had appeared again and again over the past three weeks: the partial will from Pembroke & Clarke, the documents attached to it, the inventory I could not understand. Now it was on the back of a sheet of paper found in front of an empty house.
+I put the paper back into its envelope.
 
-This was not coincidence.
+Then I opened my notebook.
 
-Or at least, I wished to believe as much.
+I wrote:
 
-I put the paper back into its envelope. Then I opened the notebook.
+Ashcroft.
+Bellweather.
 
-But before I wrote, I drew another sheet of paper from the cover of the book.
+Two words on the back of a sheet of paper. Enough to make me stop, and not enough to tell me anything.
 
-That was where the letter from Pembroke & Clarke lay. I took it from my pocket, laid it beside the paper I had just been examining.
-
-Pembroke & Clarke.
-A partial will.
-Aurelius Ashcroft.
-Bellweather Lane.
-
-One name, again and again.
-
-One name I did not remember, but which seemed to connect everything.
-
-I held the letter. The letter from the solicitor which said that my name — Ashcroft, though not my first name — was entitled to this property. And I, who had come out of curiosity and a few other things I do not care to discuss here, found that the name Ashcroft seemed to cling to Alderwick.
-
-Aurelius Ashcroft.
-
-I looked at the name three times.
-
-Once for the letter from the solicitor.
-
-Once for the writing on the back of the paper I had found.
-
-Once for the name that might have belonged to the person who once lived in the empty house.
-
-I marked the page of the notebook.
-
-Later. I would find out who Aurelius Ashcroft was.
-
-And before going home, I walked to the library.
-
-Arthur had said a street name meant more than what was printed on a map. Perhaps it was the same with a person's name: one that appeared again and again, unremarked, held a story that had not yet ended.
-
-I put the envelope into my pocket.
-
-This time I wrote it down.
-.
+I closed the book.

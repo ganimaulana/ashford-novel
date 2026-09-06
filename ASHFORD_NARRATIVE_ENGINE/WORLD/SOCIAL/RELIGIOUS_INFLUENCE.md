@@ -1,10 +1,10 @@
-# Religious Influence in Ashford — 1816
+# Religious Influence in Alderwick — 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Religious institutions and beliefs have significant influence on Ashford's political, social, and moral life. This document tracks the formal and informal power of religious groups.
+Religious institutions and beliefs have significant influence on Alderwick's political, social, and moral life. This document tracks the formal and informal power of religious groups.
 
 ---
 

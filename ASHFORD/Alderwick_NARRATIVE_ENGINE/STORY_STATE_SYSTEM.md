@@ -357,7 +357,6 @@ maintains CONSISTENCY
 | Architecture Document | State Component |
 |----------------------|-----------------|
 | MASTER_STORY_ARCHITECTURE | Overall system definition |
-| LEON_CHARACTER_TRAJECTORY | Leon progression snapshots |
 | AURELIUS_MYSTERY_ARCHITECTURE | Mystery State tracking |
 | CASE_PROGRESSION_FRAMEWORK | Case history, character introductions |
 | CORE_ORGANIZATION_FRAMEWORK | Character Registry, Relationships |
@@ -372,10 +371,10 @@ maintains CONSISTENCY
 **DATE:** 2026-08-29
 
 ### Current Leon State
-- **Stage:** Transitioning Stage 1 → Stage 2 (Observer → Investigator)
 - **Key Capabilities:** Observation (HIGH), Investigation (MODERATE), Knowledge (GROWING)
 - **Network:** Helen, Daniel, Arthur, Margaret, ~5-7 total contacts
-- **See:** LEON_CHARACTER_TRAJECTORY.md for detailed snapshot
+
+[CANON DECISION REQUIRED: Leon's formal stage/level designation. Current snapshot describes capabilities only.]
 
 ### Current Mysteries
 - **AUR_M01:** Why Aurelius erased from records - ACTIVE, Early Accumulation
@@ -418,7 +417,6 @@ The Story State System transforms Alderwick''s architecture from **theoretical f
 
 **See Also:**
 - `MASTER_STORY_ARCHITECTURE.md` — Overall narrative spine and principles
-- `LEON_CHARACTER_TRAJECTORY.md` — Leon progression with snapshot system
 - `AURELIUS_MYSTERY_ARCHITECTURE.md` — Mystery revelation mechanics
 - `CASE_PROGRESSION_FRAMEWORK.md` — Case design and character introduction
 - `CHARACTERS/` directory — Character Network implementation

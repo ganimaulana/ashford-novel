@@ -53,19 +53,59 @@
 
 ---
 
-## STORY FUNCTION
+## LETTER FUNCTION (Author/Development Canon)
 
-This letter is the **Mystery Catalyst**. It is the ONE document that starts everything.
+### Status
+APPROVED CANON DIRECTION — underlying mystery architecture. Not revealed to Leon or the reader in early chapters.
 
-It replaces the "three envelopes" concept.
+### Primary Function
+The first letter is **not primarily intended to explain the mystery to Leon**.
 
-**The flow:**
-1. Leon receives the letter (Ch 1) — thinks it's misaddressed
-2. Leon investigates because his surname IS Ashcroft — he needs to know
-3. The letter leads to Margaret, Daniel, Arthur (Ch 2-4)
-4. Leon's curiosity grows (Ch 5-7)
-5. Archive research confirms Aurelius existed and was connected to No. 13 (Ch 8)
-6. The mystery deepens — Leon decides to stay in Alderwick and investigate further (Ch 9+)
+Its intended underlying function is to **test whether an old communication path can still reach the intended line/contact**.
+
+The sender wants to determine whether the Ashcroft connection remains reachable.
+
+The letter should therefore remain **deliberately sparse**.
+
+### What the Sender Does NOT Need to Explain
+- Who they are
+- The entire history of the network
+- Why the network disappeared
+- The full meaning of the message
+- What they ultimately want from Leon
+
+These answers must remain withheld until their appropriate reveal points.
+
+### Important Distinctions
+- Do **not** retroactively rewrite the early letter as if it explicitly said any of this.
+- This is the **hidden function** behind the existing mystery, not information the letter itself must state.
+- The sender may have **incomplete information**.
+- The sender may **misunderstand Leon**.
+- The sender may be testing whether the Ashcroft connection is still reachable without knowing exactly what Leon will do.
+- Do **not** make Leon a "chosen one."
+- Do **not** establish that Leon was selected because of a supernatural destiny.
+- Do **not** make the sender omniscient.
+
+### Sender Identity
+- The sender remains **UNREVEALED**.
+- The sender should **not** yet be assigned a personal identity/name.
+- The sender is canonically connected to the **surviving contacts / remnants of a historical network associated with Aurelius**.
+- The identity of the sender should **not** be revealed merely because many chapters have passed.
+- A delayed reveal is acceptable if the mystery continues to develop.
+- When the sender is eventually revealed, the reveal should ideally answer more than "Who is this person?" — it should also clarify why Leon was contacted, what the sender knew, what the sender wanted, why the old communication route mattered, how the sender relates to the Aurelius network, and what changed because Leon responded.
+- The eventual identity should feel **retrospectively inevitable** rather than arbitrary.
+
+### Relationship to Order of Severence
+- Do **not** establish that the Order of Severence is the sender.
+- Do **not** establish that the sender is a member of the Order of Severence.
+- Do **not** establish that the Aurelius network is a branch of the Order of Severence.
+- The relationship between the historical Aurelius network and the Order of Severence is an **approved future mystery possibility**.
+- The eventual story may reveal historical overlap, contact, conflict, shared knowledge, opposition, indirect influence, or another relationship — but the precise relationship remains unresolved.
+
+### Reader-Facing Information Boundary
+The above is **author/development canon**. Do **not** automatically expose all of it to readers. Maintain the existing reveal order. Early chapters must continue to preserve uncertainty around sender identity, sender's motive, Aurelius's historical network, the survival of contacts, communication routes, and Order of Severance connection.
+
+Do **not** rewrite earlier chapters merely to expose this new canon.
 
 ---
 

@@ -107,8 +107,8 @@ From `13_REFERENCE/Supernatural_System.md` and `07_ANOMALIES/ANOMALOUS_ELEMENTS_
   - Arc 001: Girl in a Red Dress (Ch 9-15, multiple drafts)
   - Arc 002: Watchers in the Fog (Ch 1-6, exploration)
   - Arc 003: Silence in Oak Street (Ch 1-2, exploration)
-- Mystery-driven, slow-burn progression
-- Leon moves from passive observer -> active investigator
+- Mystery-driven, slow-burn narrative
+- Leon remains observant and methodical throughout
 
 ### 1.9 Current Chapter/Arc Structure
 

@@ -46,8 +46,8 @@
 
 **2. Added Historical Snapshot System**
 - **Problem:** Leon's Chapter 14 status was written as permanent architectural fact
-- **Solution:** Added AS-OF CHAPTER markers and HISTORICAL SNAPSHOT warnings throughout LEON_CHARACTER_TRAJECTORY.md
-- **Added:** Snapshot template for future Leon progression updates
+- **Solution:** Added AS-OF CHAPTER markers and HISTORICAL SNAPSHOT warnings throughout the architecture documents
+- **Added:** Snapshot template for future Leon capability updates
 - **Rationale:** Canon evolves; snapshots are temporal, not permanent
 
 **3. Added Historical Pressure Layer**
@@ -85,7 +85,7 @@
   - Added Character Network integration section
   - Updated Key Principles with narrative function > formula
 
-- **Updated:** `LEON_CHARACTER_TRAJECTORY.md` (v2.0 → v2.1)
+- **Updated:** Leon capability tracking (v2.0 → v2.1)
   - Added AS-OF CHAPTER: 14 markers
   - Added STATUS: HISTORICAL SNAPSHOT warnings
   - Created snapshot template for future updates
@@ -128,7 +128,7 @@
 
 **From:**
 - Algorithmic approach (percentages, formulas)
-- Static snapshots (Leon is Stage 1-2)
+- Static snapshots (Leon tracked as fixed stage 1-2)
 - Reward-oriented traces (4 types)
 - Implicit character tracking
 
@@ -158,7 +158,6 @@
 ### New Architecture Documents Created
 
 - **Created:** `MASTER_STORY_ARCHITECTURE.md` — Central integration document for Leon's journey, Aurelius mystery, case progression, and organization development
-- **Created:** `LEON_CHARACTER_TRAJECTORY.md` — Detailed 8-stage progression model (Outsider → Observer → Investigator → Connector → Strategist → Leader → Truth-Seeker → Awakened → Power Behind Influence)
 - **Created:** `AURELIUS_MYSTERY_ARCHITECTURE.md` — Accidental convergence system, relic tracking, and mystery revelation framework
 - **Created:** `CASE_PROGRESSION_FRAMEWORK.md` — Investigation design system with 7 case types and complexity escalation model
 - **Created:** `CORE_ORGANIZATION_FRAMEWORK.md` — 13 member development system with organic introduction patterns
@@ -209,7 +208,8 @@ These new documents integrate with all existing Alderwick Narrative Engine syste
 
 ### Current Leon Status (Chapter 14)
 
-Leon is currently transitioning from **STAGE 1 (The Observer)** to **STAGE 2 (The Investigator)**:
+Leon's current known capabilities (as of Ch14):
+
 - Observation: HIGH (already strong)
 - Investigation: MODERATE (methodical but still reactive)
 - Knowledge: GROWING (Aurelius mystery, Thomas Wren's notebook)
@@ -235,6 +235,6 @@ These remain open for future creative decisions:
 - After arc completion: Full relationship audit, knowledge audit, introduction audit
 - When new characters introduced: Add to registry with CHAR-XXX identifier
 - When foreshadowing seeds pay off: Update payoff status
-- Track Leon's stage progression in CHARACTER_KNOWLEDGE.md
+- Track Leon's capability development in CHARACTER_KNOWLEDGE.md
 - Track case convergence seeds in CASE_PROGRESSION_FRAMEWORK.md
 - Update organization member introductions in CORE_ORGANIZATION_FRAMEWORK.md

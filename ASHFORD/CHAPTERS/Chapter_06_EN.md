@@ -1,607 +1,260 @@
 ﻿# Chapter 6 — A Wrong Name
 
-I did not go straight home after finding that envelope.
+The next morning I did not go straight to the café. I stood in the kitchen for a few moments with the envelope in my hand, and I did not know why I was still holding it.
 
-I walked to the end of the road, then stopped in front of a small shop that sold newspapers and everyday goods.
+The paper was still there. The older handwriting on the back. The two words I had written in my notebook the night before.
 
-The shop had been open since morning. The rack at the front was filled with local and national papers, while farther in stood the everyday necessities — milk, bread, tea, sugar, candles, and a number of small items that could be bought without having to go to the large market outside the town centre. A place like this made Bellweather Lane feel like a neighbourhood that was truly lived in, not merely a row of old houses.
+Ashcroft.
+Bellweather.
 
-I put my hand into my pocket.
+Nothing had changed. That was the trouble.
 
-The letter from Pembroke & Clarke was still there.
+I carried the envelope to the table and set it down beside the notebook. I did not open it again. I had already seen what was on the paper. There was nothing else to find by looking a second time, and yet I kept thinking that if I looked once more I might notice something I had missed.
 
-I took it out.
+I did not.
 
-A sheet of paper already beginning to yellow. A solicitor's seal no longer intact. And the name Aurelius Ashcroft, whose meaning I kept searching for.
+The room was quiet. The clock over the stairs ticked in the same uneven way I had come to expect from old houses. Somewhere in the kitchen, a cupboard door clicked shut. Then there was only the sound of the town outside, distant and ordinary.
 
-I turned the letter over once more.
+I put the notebook open before me. The two words stood on the page in my own hand. I read them twice, then wrote beneath them:
 
-There was no sender's name apart from the solicitor's.
+Two words on the back of a sheet of paper. Enough to make me stop, and not enough to tell me anything.
 
-No additional note.
+That was all I knew.
 
-No explanation of who Aurelius Ashcroft actually was.
+I closed the notebook and stood up. The morning was late enough now that the lane would already be awake. I put my coat on and went out without deciding where I meant to go.
 
-I put it away again.
+The first part of the lane was the same as it had been for the last few days. A woman with a basket crossed from one house to another. A child ran past with a scrap of newspaper in his hand. A baker's cart stopped at the corner where the road widened toward the square. I recognised each of those things now. A few days ago they would have been only passing details. Now they belonged to the street in the same way the houses did.
 
-If this was a joke, I did not know who had made it.
+I walked toward the square, not because I had chosen to, but because it was the way my feet had started to carry me.
 
-And if it was not...
+Margaret's was open when I reached it. A woman I did not know sat near the window with a cup in both hands. Margaret was behind the counter, wiping it with a cloth.
 
-I did not have enough information to draw a conclusion.
+"You're early," she said.
 
-I decided to do nothing.
+"I had a question."
 
-For the time being.
+She looked at me for the space of a thought and then nodded once.
 
-Across the road, a postman walked from one house to the next. I watched him for a few seconds.
+"I don't know if I can answer it."
 
-An ordinary letter had so many ways of reaching a person.
+"That depends on the question."
 
-There was an address.
+She set the cloth aside and came toward the table where I had sat the day before. She drew out the chair opposite.
 
-A house number.
+"Sit," she said.
 
-A street name.
+I sat.
 
-A postmark.
+She did not ask what I wanted at once. She set the tray down and looked at me a moment longer than I expected.
 
-And someone who made certain the letter went into the right box.
+"You've been carrying that envelope for two days," she said.
 
-The envelope I carried had none of that.
+I touched the envelope in my pocket.
 
-Only my name.
+"Yes," I said.
 
-And the name that appeared again and again.
+She leaned back a little.
 
-I went back to the house.
+"And you still haven't told me what's inside."
 
-I laid the letter on the table.
+"I don't know."
 
-Then I made coffee.
+She gave me a look that was not unkind and not kind either.
 
-After that I sat down and opened my notebook.
+"You found something," she said. "And you've written it down, and you've come back to the same place, and you still don't know what it means."
+
+"I know that much."
+
+"That isn't nothing."
+
+"It isn't much either."
+
+She stood the tray on the counter and crossed her arms.
+
+"Tell me what you know."
+
+I could have said only the two words. I could have said that the paper had older handwriting on the back, and that I had found it in my own house, and that I did not know where it had come from. Instead I said, "I found a paper with two words on the back. Ashcroft. Bellweather."
+
+Margaret did not look surprised.
+
+She looked as if she had been expecting one thing and had received another that was not less inconvenient for being smaller.
+
+"And what do you think that means?" she asked.
+
+"I don't know."
+
+"That isn't an answer."
+
+"It's the only honest one."
+
+She took a sip from the cup she had poured without asking.
+
+"And what did the paper look like?"
+
+I told her. Older handwriting. Not neat. As if written in haste. Two words faint enough that I had to look twice. I told her I had found it in my own house, and that I did not know where it had come from.
+
+She listened without interrupting.
+
+When I had finished, she said, "You're not telling me because you don't know what it means."
+
+"I'm telling you because I don't know."
+
+She gave the cup back to the counter.
+
+"Then tell me this. Where did you find it?"
+
+"In the house. In my room."
+
+She was quiet for a moment.
+
+"And you didn't see who put it there?"
+
+"No."
+
+"And you don't know whose handwriting it is?"
+
+"No."
+
+She looked at me again.
+
+"You came here to ask me whether I knew what it meant."
+
+"Yes."
+
+"And now you've told me everything except the one thing I could have answered."
+
+"What thing?"
+
+"Whether I knew about the paper."
+
+I did not have an answer for that.
+
+Margaret picked up the cloth again and wiped the counter once more, though it was already clean.
+
+"If you found something in your own house that you did not put there," she said, "and you do not know who wrote it, then the first question is not what it means. The first question is why you are still sitting in the same room with it."
+
+I did not know how to answer that.
+
+She gave the cloth to the counter and looked at me once more.
+
+"I'm not telling you to be afraid," she said. "I'm telling you to stop pretending you have not noticed what you have noticed."
+
+I sat still.
+
+"Noticing it," I said, "is not the same as understanding it."
+
+"No," she said. "But you keep writing it down as if the writing will make it clearer."
+
+"It might."
+
+"Or it might make you certain of something that is still only a detail."
+
+She picked up her cup.
+
+"I don't know whether you are careful or cautious," she said. "I only know you have the habit of turning a detail into a question before you know whether it is a detail at all."
+
+I did not argue.
+
+She had a way of stopping an argument before it had become one, and I had learned not to fight it.
+
+"I came here," I said, "because I thought you might know whether someone else had seen that paper."
+
+"I don't."
+
+"That isn't what I asked."
+
+"It's the only thing I can answer."
+
+She set the cup down again.
+
+"What I can tell you," she said, "is that if someone wanted you to find that paper, they would not have done it by leaving it in your own house unless they already knew you would be looking at the back of things."
+
+I did not know whether she meant the paper itself, or the habit of looking. I did not ask.
+
+She gave me her attention for a moment longer, then stood up.
+
+"Come back tomorrow," she said. "If there is anything more to notice, you will have noticed it by then."
+
+"I thought you didn't know anything."
+
+"I don't. But I know this. You will not find out by carrying the same paper around for a week."
+
+I left without ordering anything else.
+
+Outside, the air was colder than I had expected. I stood on the threshold for a moment and listened. No one spoke. No carriage passed. No one called after me.
+
+I put my hand in my pocket and felt the envelope with the paper inside.
+
+Then I went home.
+
+That afternoon I sat in the reading room with the notebook open before me.
 
 I wrote:
 
-Empty house at the end of Bellweather Lane.
+Asked Margaret.
+She does not know about the paper.
 
-Beneath it:
+I added:
 
-Has no house number.
+The paper had two words on the back.
+I found it in my room.
+I do not know who wrote it.
+Neither does Margaret.
 
-I stopped.
+I stopped there.
 
-I had nearly written about Aurelius Ashcroft.
+I did not write what I had begun to suspect.
+I did not write what I feared it might mean.
+I only wrote what had occurred.
 
-My hand moved.
+After a while I took out the paper and looked at it again. The older handwriting. The two faint words. I turned the paper over once, then set it down.
 
-Then stopped.
+The same name.
+The same street.
 
-No.
+One was a name I had seen before. The other was the street where my house stood. Both were now on the same sheet of paper, and neither explained the other.
 
-Not yet.
+I put the paper back into its envelope.
 
-A single name without context was not proof of anything.
+I did not know who had put it there.
+I did not know why it had been left where I would find it.
+I did not know whether the two words meant anything together, or only separately.
 
-I closed the book.
+What I knew was only this:
 
-The name looked so very ordinary.
+There was a paper in my house that I had not put there.
+I had looked at the back of it.
+I had written down what I found.
+I had asked Margaret whether she knew about it, and she did not.
 
-Latin letters.
+I said nothing to anyone.
 
-A first name.
+That night I kept the lamp on longer than usual. I did not read. I did not write. I sat with my hands folded and listened to the town moving beyond the walls.
 
-A last name.
+At some point I fell asleep in the chair.
 
-No symbol.
+When I woke, the lamp had burned down and the room was dark. I stood up and lit another. The house was quiet in the same way it had been before.
 
-No seal.
+I went to the window.
 
-No special mark.
+The road below was empty. The streetlamps were still burning in the distance. One after another, they marked the line of the street without marking anything else.
 
-Precisely because it looked ordinary, I found it harder to ignore.
+I thought of the house at the end of the lane.
 
-If someone meant to lead me astray, they had not done a very good job of it.
+I thought of the light I had seen there.
 
-If someone truly meant to reach me, they had chosen a strange way of doing so.
+I did not know whether it had been there for me, or for someone else, or not at all.
 
-And if the letter was in fact genuine...
+I thought of the paper with two words on it.
 
-then the coincidence was too exact.
+I thought of Margaret's face when I told her I had found it.
 
-I put the letter into the drawer of the table.
+I did not know what connected them.
 
-For the time being, I would not touch it again.
+I only knew that I had found something I could not account for, and that I had already written it down without knowing whether writing it down had made it larger or smaller.
 
----
+I turned from the window.
 
-At midday I went to the café.
+I went to bed without telling myself a story about it.
 
-Margaret was arranging some plates.
-
-The moment she saw me, she said:
-
-"You look like someone who hasn't slept."
-
-"I slept."
-
-"How long?"
-
-I thought.
-
-"Six hours."
-
-"Then not enough."
-
-She set a cup of coffee in front of me.
-
-I looked at it.
-
-"I haven't ordered."
-
-"I know."
-
-I smiled.
-
-"Thank you."
-
-Margaret sat for a moment in the chair opposite.
-
-"Did you find something yesterday?"
-
-"What do you mean?"
-
-"The house."
-
-I looked at her.
-
-"You know?"
-
-"Leon."
-
-"Hm?"
-
-"When someone goes to look at an empty house that has already been spoken of in front of him, he is usually curious."
-
-I said nothing.
-
-Margaret smiled.
-
-"So?"
-
-"There's an old house at the end of Bellweather Lane."
-
-"I know."
-
-"The house has no number."
-
-Margaret nodded.
-
-"True."
-
-"I saw it."
-
-"So have I."
-
-"Why does it have no number?"
-
-Margaret shrugged.
-
-"I don't know."
-
-"You've never asked?"
-
-"Not yet."
-
-I looked at her.
-
-Margaret took up her own cup.
-
-"Don't be so serious."
-
-"I'm not serious."
-
-"You're looking at me like a constable."
-
-"I'm only asking."
-
-"That's what people usually say before they start asking more."
-
-I smiled.
-
-"I won't ask."
-
-"Good."
-
-She stood.
-
-Then walked back to the counter.
-
-The conversation was over.
-
----
-
-A short while later a customer came in.
-
-A young woman carrying a large bag.
-
-She spoke with Margaret for several minutes.
-
-I did not listen.
-
-I read the newspaper.
-
-Until I heard one sentence.
-
-"He said his house doesn't exist."
-
-I looked up.
-
-Margaret glanced at me.
-
-Then turned back to the woman.
-
-"The address?"
-
-"Bellweather Lane."
-
-My hand stopped turning the page.
-
-The woman went on:
-
-"Number thirteen."
-
-I lowered the newspaper slowly.
-
-Margaret said:
-
-"Who lives there?"
-
-The woman shook her head.
-
-"I don't know."
-
-"Are you certain the address is right?"
-
-"Yes."
-
-Margaret was quiet for a moment.
-
-Then she asked:
-
-"Why are you looking for it?"
-
-"I'm delivering something."
-
-"What?"
-
-"A letter."
-
-Margaret looked toward me.
-
-Only for a second.
-
-Then back to the woman.
-
-"For whom?"
-
-The woman opened her bag.
-
-She took out an envelope.
-
-I could not see the writing from where I sat.
-
-Then she said:
-
-"Leon Ashcroft."
-
-I did not move.
-
-This time Margaret did not move either.
-
-The woman frowned.
-
-"What's the matter?"
-
-Margaret smiled.
-
-"Nothing."
-
-She took the envelope.
-
-"Leave it with me."
-
-The woman looked uncertain.
-
-"Why?"
-
-"Because I know him."
-
-I stood.
-
-Margaret turned to me.
-
-For the first time since I had known her, her expression was truly hard to read.
-
-She held the envelope.
-
-I walked closer.
-
-"What is it?"
-
-Margaret did not answer at once.
-
-She handed the envelope to me.
-
-I looked at the front.
-
-My name was written there.
-
-Leon Ashcroft.
-
-But this was not a letter from Pembroke & Clarke.
-
-This letter was smaller. Thinner. And the handwriting was exactly the same as the writing on the back of the paper I had examined that morning.
-
-I looked at Margaret.
-
-She said nothing.
-
-The woman said:
-
-"So you're Leon?"
-
-I nodded.
-
-"Yes."
-
-She looked relieved.
-
-"Good. I almost thought the address was wrong again."
-
-"Where was the address from?"
-
-"The house on Bellweather Lane."
-
-"What number?"
-
-The woman thought.
-
-"Thirteen, I think."
-
-I did not answer.
-
-Margaret drew a slow breath.
-
-Then said to the woman:
-
-"Thank you."
-
-The woman left.
-
-The café door closed.
-
-The room returned to normal.
-
-I still held the envelope.
-
-Margaret stood before me.
-
-"I think," she said quietly, "you have something to tell."
-
-I looked at the envelope in my hand.
-
-"So do you."
-
-Margaret gave a faint smile.
-
-"Fair."
-
-Outside the window, High Street went on moving.
-
-A stagecoach stopped at the coach stand.
-
-People crossed the road.
-
-A worker carried a box from a shop to a carriage parked at the edge of the street.
-
-From a distance came the sound of a horse's bell.
-
-The café stayed busy.
-
-Alderwick still looked like an ordinary town.
-
-And perhaps it still was.
-
-Only now I was beginning to realise that life in a small town had another layer that was not always visible from the street.
-
-Addresses moved.
-
-Houses changed hands.
-
-People knew one another's names.
-
-Old stories lasted longer than the buildings.
-
-And information sometimes travelled through people, not through official records.
-
-Margaret knew the house.
-
-The woman knew my house number.
-
-And someone was still sending letters to me without truly knowing where I lived.
-
-I looked at the envelope in my hand once more.
-
-Now there were two envelopes carrying me to the same name.
-
-One from the Pembroke & Clarke letter.
-
-One from a sender I did not remember.
-
-Both spoke of Ashcroft.
-
-And somehow...
-
-that person seemed to believe I lived in the house that had no number.
-
-I set the envelope on the table.
-
-"Aurelius," I said quietly.
-
-Margaret turned.
-
-"What did you say?"
-
-"Is there... among all the people you know in Alderwick, was there ever a name Aurelius? Aurelius Ashcroft?"
-
-Margaret fell silent.
-
-Not for long.
-
-But long enough to make her answer feel heavy.
-
-"What is it?" I asked.
-
-Margaret looked at me.
-
-"Where did you hear that name?"
-
-"In many places."
-
-"From a letter."
-
-"What letter?"
-
-"A will from a solicitor in London."
-
-Margaret nodded slowly.
-
-"Aurelius Ashcroft."
-
-She said it slowly, as if testing its weight.
-
-Margaret nodded.
-
-"You have heard it before."
-
-"Yes. I have heard it. Does that mean..."
-
-"It means you are already close."
-
-"Close to what?"
-
-Margaret did not answer at once.
-
-She went behind the counter and took up a cloth.
-
-She began to wipe the surface of the table, as though she were cleaning a stain that was not visible.
-
-"Aurelius Ashcroft lived here, once."
-
-"On Bellweather Lane?"
-
-"On Bellweather Lane."
-
-She stopped wiping.
-
-"But not in the house you live in now. That house... was not his. Or at least not the last."
-
-"Who lived there?"
-
-"The empty house at the end of the road?"
-
-Margaret nodded.
-
-"Aurelius. Before he left."
-
-"When?"
-
-"Long ago. Quite a long time now."
-
-"How many years?"
-
-Margaret looked at me.
-
-"You won't get a precise number from me."
-
-"Why?"
-
-"Because everyone will give you a different number. And all of them will be wrong."
-
-I studied her face.
-
-"You knew him?"
-
-"My mothers knew him. And my mother did not speak much about it either."
-
-"Why?"
-
-Margaret set the cloth down.
-
-"Because some things are not explained. They are left."
-
-"What was he like?"
-
-Margaret considered.
-
-"Someone who came to Alderwick and made many things happen. But he was rarely seen in the streets. A person like that is rarely seen."
-
-"What did he do?"
-
-"Business affairs. Affairs that were not explained on the notice boards."
-
-Margaret looked at me.
-
-"And now you come with the name Ashcroft. And you find a letter that carries you to a name long dead in people's heads here."
-
-"Dead?"
-
-"Literally."
-
-"Died?"
-
-Margaret nodded.
-
-"Not long ago. A few decades ago. But its effect..."
-
-She paused.
-
-"Lasts."
-
-I looked at the envelope in my hand.
-
-"What should I do?"
-
-Margaret looked at me for a few moments.
-
-"Don't ask the same person twice. Find people who did not know Aurelius. They will give you different answers."
-
-"Daniel?"
-
-Margaret nodded.
-
-"He likes reading. He likes history. And he likes to show that he knows more than he ought to."
-
-Margaret smiled faintly.
-
-"Find Daniel."
-
-"What will he find?"
-
-Margaret looked at me.
-
-"That will determine whether you have gone too far, or not yet far enough."
-
-I left, turning the envelope over in my mind. Could this be a test—someone seeing if I would follow the name? I had no proof, but I filed the thought away.
-
----
-
-## Continuity Notes — ARC Integration (dev — not part of narrative)
-
-Maps planted anomalies to the ARC anomaly-case system (`WORLD_BIBLE/07_ANOMALIES/ARC_INDEX.md`). Narrative prose is untouched (Phase 0 LOCKED).
-
-- **Envelope sent to "Bellweather Lane" house with no number; sender unknown** → `ARC-004 The House Beneath Bellweather`.
-- **Margaret confirms Aurelius Ashcroft lived on Bellweather Lane (the empty house)** → `ARC-010 The Forgotten Name`.
-- **"Someone believes I live in the house that has no number"** → `ARC-004` + `ARC-010`.
+I lay there and listened to the silence until it stopped feeling like silence.

@@ -1,4 +1,4 @@
-# Entertainment in Ashford — 1816
+# Entertainment in Alderwick — 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 

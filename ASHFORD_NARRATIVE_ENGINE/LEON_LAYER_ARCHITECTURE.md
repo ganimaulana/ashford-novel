@@ -24,7 +24,7 @@ Each layer is **compartmentalized**. Characters outside a layer cannot see insid
 ### LAYER 1 — ORDINARY CITIZEN (Public Persona)
 
 **What Leon appears to be:**
-- A newcomer to Ashford
+- A newcomer to Alderwick
 - A gentleman of modest means
 - A researcher or student
 - A tenant at No. 13 Bellweather Lane
@@ -39,7 +39,7 @@ Each layer is **compartmentalized**. Characters outside a layer cannot see insid
 - Pays rent and bills
 
 **Who knows this layer:**
-- Everyone in Ashford
+- Everyone in Alderwick
 - Daniel, Margaret, Arthur (as acquaintances)
 - The constable, postmaster, vicar
 - All townspeople
@@ -272,7 +272,7 @@ Leon's emotional investment in each layer differs:
 - Cannot be an informant for the Circle or for Leon's hidden activities
 
 **Narrative function:**
-- Social hub of Ashford
+- Social hub of Alderwick
 - Represents the town's ordinary intelligence network
 - Her ignorance keeps her safe and keeps Leon's cover intact
 
@@ -343,7 +343,7 @@ Leon's emotional investment in each layer differs:
 ### Outer Circle / Observers / Correspondents
 
 **Knows:**
-- Leon is a new Ashcroft who has arrived in Ashford
+- Leon is a new Ashcroft who has arrived in Alderwick
 - Leon has been initiated as a member
 - Leon is investigating Bellweather House matters
 - Leon shows unusual deductive ability
@@ -582,7 +582,7 @@ At the endgame, Leon must choose:
 **Option C: Dismantle the layers**
 - Reveal everything to everyone
 - Expose the Circle publicly
-- Destroy the secret structures that have controlled Ashford for generations
+- Destroy the secret structures that have controlled Alderwick for generations
 - Lose the protection of ignorance but gain authentic connection
 
 This choice is the story's climax. Leon's decision defines who he truly is.

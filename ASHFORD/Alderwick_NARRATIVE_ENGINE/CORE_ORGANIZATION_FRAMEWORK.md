@@ -261,10 +261,10 @@ INDEPENDENT TRAJECTORY:
 - How they change over story
 
 CONTRIBUTION TO LEON''S GROWTH:
-- Stage 1-2: [What Leon learns from them early]
-- Stage 3-4: [How they help Leon''s middle development]
-- Stage 5-6: [What role they play in Leon''s leadership phase]
-- Stage 7-8: [How relationship changes when Leon is powerful]
+- Early contact: [What Leon learns from them early]
+- Middle story: [How they help Leon''s middle development]
+- Later story: [What role they play as Leon becomes more capable]
+- Endgame: [How relationship changes when Leon is powerful]
 
 STATUS: [PROPOSED / CANON / ACTIVE / BACKGROUND]
 ```
@@ -419,41 +419,41 @@ Members'' different interpretations of Aurelius create uncertainty.
 
 ---
 
-## H. INTEGRATION WITH LEON''S TRAJECTORY
+### Leon's Relationship to Organization Over Time
 
-### Stage-Specific Interactions
+[CANON DECISION REQUIRED: Formal stage-based interaction model for Leon × organization. The trajectory below describes narrative phases, not a locked hierarchy.]
 
-**STAGE 1-2 (Observer / Investigator):**
+**Early phase (Leon as outsider / novice):**
 - Leon encounters 1-2 members as mysterious individuals
 - Members are sources of information and mystery
 - Leon has no influence over them
 - Dynamic: Leon seeks, members control
 
-**STAGE 3 (Connector):**
+**Middle phase (Leon as novice / probationary):**
 - Leon meets more members through cases
 - Organization structure becomes apparent
 - Leon invited to join or ally with organization
 - Dynamic: Leon proves his worth
 
-**STAGE 4 (Strategist):**
+**Working-together phase:**
 - Leon works with organization members
 - Learns to navigate internal politics
 - Uses organization resources strategically
 - Dynamic: Collaboration and coordination
 
-**STAGE 5 (Leader):**
+**Leon-influences-organization phase:**
 - Organization members begin looking to Leon
 - Leon makes decisions affecting organization
 - Some members follow Leon, others resist
 - Dynamic: Leadership and opposition
 
-**STAGE 6-7 (Truth-Seeker / Awakened):**
+**Leon understands deep purpose phase:**
 - Leon understands organization''s true purpose
 - May reshape organization based on new knowledge
 - Members must choose: follow Leon or maintain old ways
 - Dynamic: Transformation and choice
 
-**STAGE 8 (Power Behind Influence):**
+**Leon transcends phase:**
 - Leon may lead organization completely
 - Or may transcend organization entirely
 - Members are Leon''s allies/subordinates/legacy
@@ -574,7 +574,6 @@ These questions remain open for future creative decisions:
 
 **See Also:**
 - `MASTER_STORY_ARCHITECTURE.md` — Overall narrative spine
-- `LEON_CHARACTER_TRAJECTORY.md` — How organization affects Leon''s development
 - `CASE_PROGRESSION_FRAMEWORK.md` — How cases introduce members organically
 - `CORE_13_CANDIDATES.md` — Proposed member profiles (when canonized)
 - `CORE_13_POV_MATRIX.md` — Which members can be POV characters

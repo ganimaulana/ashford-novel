@@ -1,4 +1,4 @@
-# ASHFORD — 1000-CHAPTER MASTER STORY OUTLINE
+# Alderwick — 1000-CHAPTER MASTER STORY OUTLINE
 
 **Status:** CORE ARCHITECTURE  
 **Created:** 2026-08-31  
@@ -11,7 +11,7 @@
 
 ## EXECUTIVE SUMMARY
 
-This document provides the complete phase-by-phase breakdown for a 1000+ chapter Ashford novel, integrating:
+This document provides the complete phase-by-phase breakdown for a 1000+ chapter Alderwick novel, integrating:
 
 - **4-Layer Leon System:** Leon operates as (1) ordinary citizen, (2) paranormal investigator, (3) Circle member "Leon Ashcroft", (4) heir to "Aurelius Ashcroft" legacy
 - **Permanent compartmentalization:** Daniel and Margaret remain Layer 1 only; Arthur remains Layer 1+2 bridge
@@ -28,7 +28,7 @@ This document provides the complete phase-by-phase breakdown for a 1000+ chapter
 **Status:** Cannot be modified. All future content must flow from this foundation.
 
 **Key plot points:**
-- Leon Ashcroft arrives Ashford 12 Nov 1816
+- Leon Ashcroft arrives Alderwick 12 Nov 1816
 - Receives Pembroke & Clarke letter about Aurelius Ashcroft and Bellweather Lane
 - Takes house No. 13 Bellweather Lane with Helen as housekeeper
 - Meets Daniel (Academy student), Margaret (tearoom owner), Arthur (antiquarian)
@@ -39,7 +39,7 @@ This document provides the complete phase-by-phase breakdown for a 1000+ chapter
 - Empty envelope appears
 - Discovers Bellweather House "removed from active list"
 
-**Leon's position:** Pure Layer 1, emerging curiosity about Ashford's hidden history
+**Leon's position:** Pure Layer 1, emerging curiosity about Alderwick's hidden history
 
 ---
 
@@ -132,7 +132,7 @@ This document provides the complete phase-by-phase breakdown for a 1000+ chapter
 
 ### PHASE 3: THE SHADOW EMPEROR (Ch 251–500)
 
-**Core theme:** Leon builds hidden empire using "Aurelius" persona, becomes Ashford's secret ruler
+**Core theme:** Leon builds hidden empire using "Aurelius" persona, becomes Alderwick's secret ruler
 
 **Leon's progression:** Layer 3 → Layer 4 (Circle member → Aurelius heir)
 
@@ -174,7 +174,7 @@ This document provides the complete phase-by-phase breakdown for a 1000+ chapter
 - Leon has been anonymously paying for Voss's daughter's medical treatment
 - Voss becomes compromised ally, provides legal protection
 
-**Ending:** Leon has crossed into Layer 4 knowledge (full history, basement access, symbol origin), stands as most powerful person in Ashford
+**Ending:** Leon has crossed into Layer 4 knowledge (full history, basement access, symbol origin), stands as most powerful person in Alderwick
 
 ---
 
@@ -197,7 +197,7 @@ This document provides the complete phase-by-phase breakdown for a 1000+ chapter
 - Preservers (led by Patriarch/Alpha) want secrecy maintained at all costs
 - Leon caught between factions
 - War fought through assassinations, propaganda, legal maneuvers, economic warfare
-- Open conflict in Ashford streets: troops occupy Market Square, militias defend Industrial Quarter
+- Open conflict in Alderwick streets: troops occupy Market Square, militias defend Industrial Quarter
 
 **Leon's public appearance (Ch 621-640):**
 - Stages appearance at Bellweather House as "Aurelius Ashcroft"
@@ -217,9 +217,9 @@ This document provides the complete phase-by-phase breakdown for a 1000+ chapter
 - Symbol's true meaning, M.R./J.T./M.B. full identities revealed
 
 **Daniel & Margaret exile (Ch 651-700):**
-- Leon orders them to leave Ashford for safety
+- Leon orders them to leave Alderwick for safety
 - They go reluctantly, not understanding why
-- Battle for Ashford: troops, militias, riots, barricades
+- Battle for Alderwick: troops, militias, riots, barricades
 
 **The ultimate choice (Ch 721-750):**
 - **Option A:** Continue as "Aurelius," maintain empire, live the lie
@@ -245,13 +245,13 @@ This document provides the complete phase-by-phase breakdown for a 1000+ chapter
 - Leon arrested for conspiracy, vigilante action, unauthorized militia
 - Voss defends him
 - Leon refuses to use secret knowledge in defense
-- Exiled from Ashford for 5 years
+- Exiled from Alderwick for 5 years
 - Leon accepts punishment, chooses accountability
 
 **The exile years (Ch 821-850):**
 - Leon lives in London as anonymous clerk
 - Receives brief letters from Daniel and Margaret
-- Hears about Ashford: militia is now legitimate volunteer force, poor are political constituency
+- Hears about Alderwick: militia is now legitimate volunteer force, poor are political constituency
 - Realizes seeds he planted grew without him
 
 **The return (Ch 851-920):**
@@ -326,12 +326,12 @@ This document provides the complete phase-by-phase breakdown for a 1000+ chapter
 
 ## HISTORICAL TIMELINE INTEGRATION
 
-| Year | Real History | Ashford Impact | Story Chapters |
+| Year | Real History | Alderwick Impact | Story Chapters |
 |------|--------------|----------------|----------------|
 | **1816 Nov** | Year Without Summer peak, bread crisis | Leon arrives, food riots threaten | 1-100 |
 | **1817** | Gagging Acts passed (March), Pentrich Rebellion (June) | Government surveillance intensifies, Circle goes deeper underground | 101-150 |
 | **1818** | Food prices stabilize, radical movement continues | Leon fully integrated into Circle, builds power base | 151-250 |
-| **1819** | Peterloo Massacre (August), Six Acts (December) | Violence in nearby Manchester spills to Ashford, Leon's militia activated | 251-350 |
+| **1819** | Peterloo Massacre (August), Six Acts (December) | Violence in nearby Manchester spills to Alderwick, Leon's militia activated | 251-350 |
 | **1820** | George IV ascends, Cato Street Conspiracy | Political uncertainty, Leon expands influence | 351-450 |
 | **1821-24** | Economic recovery, reform movement grows | Leon at peak power as "Aurelius" | 451-550 |
 | **1824** | Combination Acts repealed (unions legal) | Workers organize openly, Circle influence challenged | 551-650 |
@@ -431,7 +431,7 @@ This document provides the complete phase-by-phase breakdown for a 1000+ chapter
 - Ch 1-100: Unemployed veterans, gangs forming
 - Ch 101-250: Some recruited by Circle
 - Ch 251-500: Leon's secret militia
-- Ch 501-750: Fights in Ashford civil war
+- Ch 501-750: Fights in Alderwick civil war
 - Ch 751-1000+: Legitimate volunteer force
 
 ---

@@ -1,10 +1,10 @@
-# Clothing and Appearance — Ashford, 1816
+# Clothing and Appearance — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Clothing in 1816 Ashford is a clear marker of class, occupation, gender, age, and occasion. It is also a form of communication, signaling status, respectability, and personal identity.
+Clothing in 1816 Alderwick is a clear marker of class, occupation, gender, age, and occasion. It is also a form of communication, signaling status, respectability, and personal identity.
 
 ---
 

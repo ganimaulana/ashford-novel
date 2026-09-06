@@ -1,10 +1,10 @@
-# Life Rituals — Ashford, 1816
+# Life Rituals — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Life in Ashford is marked by a series of rituals that accompany birth, coming of age, marriage, death, and inheritance. These rituals vary by class and religious tradition, but they provide a structure for community involvement and social status.
+Life in Alderwick is marked by a series of rituals that accompany birth, coming of age, marriage, death, and inheritance. These rituals vary by class and religious tradition, but they provide a structure for community involvement and social status.
 
 ---
 

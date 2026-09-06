@@ -1,10 +1,10 @@
-# Seasonal Social Rhythm — Ashford, 1816
+# Seasonal Social Rhythm — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-The rhythm of life in Ashford is deeply tied to the seasons. Weather, daylight, work, social gatherings, festivals, and even illness all follow an annual cycle.
+The rhythm of life in Alderwick is deeply tied to the seasons. Weather, daylight, work, social gatherings, festivals, and even illness all follow an annual cycle.
 
 ---
 
@@ -58,7 +58,7 @@ The rhythm of life in Ashford is deeply tied to the seasons. Weather, daylight, 
 
 ## The 1816 Exception
 
-The year 1816 is known as the "Year Without a Summer" due to volcanic eruptions. This may affect Ashford with:
+The year 1816 is known as the "Year Without a Summer" due to volcanic eruptions. This may affect Alderwick with:
 - **Colder weather** in summer.
 - **Crop failures** and food shortages.
 - **Social unrest** due to scarcity.

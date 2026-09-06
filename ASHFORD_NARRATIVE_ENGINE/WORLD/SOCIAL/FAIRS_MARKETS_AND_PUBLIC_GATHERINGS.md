@@ -1,10 +1,10 @@
-# Fairs, Markets, and Public Gatherings — Ashford, 1816
+# Fairs, Markets, and Public Gatherings — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Fairs and markets are central to Ashford's economic and social life. They are places of trade, entertainment, information exchange, and occasional conflict. They also attract outsiders, making them potential sites for mystery and plot development.
+Fairs and markets are central to Alderwick's economic and social life. They are places of trade, entertainment, information exchange, and occasional conflict. They also attract outsiders, making them potential sites for mystery and plot development.
 
 ---
 
@@ -22,7 +22,7 @@ Fairs and markets are central to Ashford's economic and social life. They are pl
 
 ## Annual Fairs
 
-### Ashford Spring Fair (Late March)
+### Alderwick Spring Fair (Late March)
 - **Scale:** Large, attracts visitors from surrounding villages and even London.
 - **Goods:** Livestock (cattle, horses, sheep), agricultural tools, clothing, crafts, food.
 - **Entertainment:** Puppet shows, music, dancing, games of chance (bets), acrobats, fortune-tellers, public houses overflow.
@@ -31,7 +31,7 @@ Fairs and markets are central to Ashford's economic and social life. They are pl
 - **Political Activity:** Pamphleteers, radical speakers, petitions.
 - **Possible Plot Functions:** An outsider arrives with key information; someone disappears in the crowd; a theft or fraud occurs; a romantic meeting; a political conspiracy.
 
-### Ashford Summer Fair (Late July)
+### Alderwick Summer Fair (Late July)
 - **Scale:** Large, similar to Spring Fair.
 - **Goods:** Wool, cloth, agricultural produce, livestock.
 - **Entertainment:** Music, dancing, games, horse racing (if space allows), boxing.
@@ -46,7 +46,7 @@ Fairs and markets are central to Ashford's economic and social life. They are pl
 - **Social Function:** Labor market; a crucial economic event for the working class.
 - **Possible Plot Functions:** A servant reveals a secret about a household; a contract dispute leads to violence; a missing person.
 
-### Ashford Autumn Market (Late October)
+### Alderwick Autumn Market (Late October)
 - **Scale:** Medium.
 - **Goods:** Provisions for winter (preserved food, fuel, warm clothing), crafts, tools.
 - **Social Function:** Last major market before winter; a time of preparation.

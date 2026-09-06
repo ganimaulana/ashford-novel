@@ -157,7 +157,9 @@ See `LEON_LAYER_ARCHITECTURE.md` for the complete specification.
 - Not everyone knows about it
 - Abilities vary by bloodline, training, artifacts, supernatural heritage
 - Leon is NOT strong at the start
-- Leon's progression: Observation > Deduction > Survival > Knowledge > Technique > Power
+- Leon is initially driven by observation and deduction; survival, knowledge, technique, and any power emerge organically through the story
+
+[CANON DECISION REQUIRED: Formal growth arc (if any) for Leon's abilities beyond "starts weak."]
 
 ---
 

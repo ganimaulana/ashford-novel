@@ -1,10 +1,10 @@
-# Social & Cultural Implementation Report — Ashford, 1816
+# Social & Cultural Implementation Report — Alderwick, 1816
 
 **Status:** CONFIRMED_CANON (as of 2026-08-29, after review).
 
 ## Overview
 
-This report summarizes the implementation of the Social & Cultural Life Architecture for Ashford, 1816. All documents are now PROPOSED and pending final confirmation as canon. The architecture provides a rich, living society that can support character development, mystery, and worldbuilding.
+This report summarizes the implementation of the Social & Cultural Life Architecture for Alderwick, 1816. All documents are now PROPOSED and pending final confirmation as canon. The architecture provides a rich, living society that can support character development, mystery, and worldbuilding.
 
 ---
 
@@ -74,7 +74,7 @@ This report summarizes the implementation of the Social & Cultural Life Architec
 
 1. **Confirm as canon:** Review each document and mark it `CONFIRMED_CANON`.
 2. **Integrate with existing worldbuilding:** Connect to `World_Foundation_v2.md`, character profiles, and location lore.
-3. **Use in story:** Apply these elements in future chapters to make Ashford feel alive.
+3. **Use in story:** Apply these elements in future chapters to make Alderwick feel alive.
 4. **Expand as needed:** New festivals, superstitions, or taverns can be added as the story requires.
 
 ---
