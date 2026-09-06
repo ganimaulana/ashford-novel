@@ -1,17 +1,19 @@
-﻿# MASTER GEAR BLUEPRINT — CANON-SAFE ARC 2+ STORY ARCHITECTURE
+﻿# MASTER GEAR BLUEPRINT — AURELIUS NETWORK / NINE GEARS
 
-**Status:** PROPOSED — ARC 2+ (NOT confirmed; not implemented in manuscript)  
-**Date:** 2026-09-03  
-**Purpose:** Highest-level story architecture for the Gear system. This document sits above `06_GEAR_STORY_ARCHITECTURE.md`, `04_GEAR_COMPONENT_PROFILES.md`, and `02_DOOR_GEAR_SYSTEM.md`. It defines the narrative engine, canon constraints, and design rules. Individual profiles and detailed progression are in child documents.
+**Status:** WORKING CANON / AUTHOR-APPROVED ARCHITECTURE — NOT FINAL MYSTERY FREEZE
+**Date:** 2026-09-06
+**Purpose:** Highest-level story architecture for the Nine Gears as a secret communication infrastructure of Aurelius's hidden network. This document sits above `06_GEAR_STORY_ARCHITECTURE.md`, `04_GEAR_COMPONENT_PROFILES.md`, and `02_DOOR_GEAR_SYSTEM.md`. It defines the narrative engine, canon constraints, and design rules. Individual profiles and detailed progression are in child documents.
 
 ---
 
 ## I. PURPOSE
-- Provide a canonical-safe, expandable architecture for the Gear storyline from Arc 2 onward.
-- Ensure the Gear system becomes a major long-term narrative engine, not a collectible checklist.
+- Establish the Nine Gears as a **secret communication infrastructure** of Aurelius's hidden network.
+- Their original and fundamental purpose is to allow Aurelius's members, agents, or selected prospective members to communicate without relying on ordinary physical correspondence or direct meetings.
+- The Gears are NOT primarily keys, weapons, containment devices, or mechanisms for opening Vale's Door.
 - Preserve all confirmed canon (the single Gear from Ch36/Ch49/Ch129) while allowing future Gear discoveries (PROPOSED).
 - Maintain strict semantic separation: Gear ≠ Artifact ≠ Token ≠ ERC.
 - Prevent accidental gameification and power creep.
+- The nine-Gear system may have supernatural or metaphysical aspects, but this remains a possibility, not confirmed canon.
 
 ---
 
@@ -137,15 +139,36 @@ MANUSCRIPT CANON (Ch 1–141)
 
 **Count:** NINE — PROPOSED, NOT CONFIRMED.
 
+**Core Concept:** The Nine Gears are primarily a **secret communication medium** associated with Aurelius's hidden network. Their original and fundamental purpose is to allow Aurelius's members, agents, or selected prospective members to communicate without relying on ordinary physical correspondence or direct meetings.
+
+The nine Gears represent increasing **depth or capability of communication** rather than RPG-like power levels.
+
+**Conceptual progression (PROVISIONAL ARCHITECTURE ONLY — not permanently frozen):**
+- Gear I: one-way communication / ability to transmit instructions
+- Gear II: two-way communication / ability to receive a response
+- Gear III: transmission or reception of symbolic information, imagery, or equivalent non-verbal information
+- Gear IV: vision or remote visual information
+- Gear V: limited perception or exchange of sensory/informational impressions
+- Gear VI: dream-based communication
+- Gear VII: deeper contact or ability to reach a specific individual across distance
+- Gear VIII: highly direct or sustained interaction
+- Gear IX: the highest or most complete form of communication/contact
+
+**Important:** These nine individual functions are PROVISIONAL ARCHITECTURE ONLY and must NOT be treated as permanently frozen until the manuscript evidence from Chapters 1–100 has been audited. Do not present the nine functions as a rigid skill tree. Do not use game-like terminology. The conceptual principle is that each additional Gear permits a deeper degree of communication or contact.
+
 **Rationale:** The confirmed single Gear is compatible with a larger system; the nine-Gear model provides a rich long-term arc. However, if the author decides on a different count, the architecture must adapt.
 
-**Design principle:** The nine Gears are components of an ancient mechanism/system. They share a subtle maker's motif (see §X) but are individually distinct in form, material, inscription, and function.
+**Design principle:** The nine Gears are components of a secret communication system. They share a subtle maker's motif (see §X) but are individually distinct in form, material, inscription, and function.
+
+**Security and Secrecy:** The Nine Gears are kept secret because they constitute infrastructure for Aurelius's hidden network. Possession or control of multiple Gears could expose the existence of the network, the identities or locations of members, communication channels, organizational instructions, recruitment mechanisms, operational information, and potentially information that the organization itself considers dangerous. The secrecy of the Gears therefore has a practical organizational reason independent of Vale's Door.
 
 **Internal identifiers (author-side only, NEVER in-fiction):**
 - Gear I, Gear II, ..., Gear IX.
 - These labels are for development only. Characters must never say "Gear One" or "Gear B."
 
-**Position of confirmed Gear:** UNRESOLVED. It may occupy one of the nine positions (candidate: recognition/initial interaction), but this is not established.
+**Position of confirmed Gear:** UNRESOLVED. It may occupy one of the nine positions (candidate: recognition/initial communication), but this is not established. Do NOT assume that the Gear held by Vale is definitively "Gear I" in-world merely because it is the first Gear encountered by Leon.
+
+**Vale's possession of a Gear does NOT automatically mean that the Gear opens or controls the Door he guards.** Vale may possess the Gear because of his relationship to the old Aurelius network, his inherited responsibilities, or another organizational/historical reason that remains open for further investigation. The relationship between Vale's Gear and Vale's Door must remain unresolved unless manuscript evidence explicitly establishes a connection.
 
 ---
 
@@ -164,9 +187,9 @@ Every Gear must have a unique identity. For each, define the following fields (s
 9. **Current Possessor** (who has it, what they believe)
 10. **Initial Misinterpretation** (what ordinary observers think)
 11. **Acquisition Method** (how Leon/another could obtain it)
-12. **Gear Function** (supernatural capability — access/communication/perception)
-13. **Door Interaction** (how it affects the Door)
-14. **Progressive Capability** (which Door stage it enables)
+12. **Gear Function** (communication capability — transmission/reception/perception/contact depth)
+13. **Network Role** (how it fits into the Aurelius communication infrastructure)
+14. **Progressive Capability** (which communication stage it enables)
 15. **Limitation** (meaningful constraints)
 16. **Cost/Risk** (narrative consequence of use)
 17. **Clue Revealed** (what it tells about the larger mystery)
@@ -276,26 +299,29 @@ Every Gear must have a unique identity. For each, define the following fields (s
 
 ---
 
-## XIV. GEAR → DOOR PROGRESSION (PROPOSED FRAMEWORK)
+## XIV. GEAR → DOOR / NETWORK PROGRESSION (PROPOSED FRAMEWORK)
 
-The Gears progressively unlock Door capabilities. This is a **development framework**, not confirmed sequence.
+The Gears progressively unlock communication capabilities. This is a **development framework**, not confirmed sequence.
 
-| Stage | Effect | Gear Requirement |
-|-------|--------|------------------|
-| 1. Recognition | Door acknowledges presence; inert response | Candidate: confirmed Gear |
-| 2. One-way voice | Sound can be transmitted one way | One Gear (communication-oriented) |
-| 3. Two-way voice | Two-way communication | Another Gear |
-| 4. Limited vision | Visual perception through the connection | Gear with sight-related function |
-| 5. Remote sensing | Environmental awareness beyond the threshold | Gear for sensing |
-| 6. Limited interaction | Ability to affect something beyond | Gear for interaction |
-| 7. Partial crossing | Temporary/controlled crossing | Gear for threshold manipulation |
-| 8. Persistent access | Stable connection over time | Gear for anchoring |
-| 9. UNKNOWN | Final state — deliberately unresolved | All Gears? |
+The Gears are primarily communication infrastructure for Aurelius's network. Their relationship to Vale's Door is secondary and unresolved.
+
+| Stage | Communication Capability | Mystery consequence |
+|-------|--------------------------|---------------------|
+| 1. Transmission | One-way transmission of information | Someone is speaking; no reply yet |
+| 2. Reception | Ability to receive a response | Dialogue becomes possible |
+| 3. Symbolic information | Transmission/reception of imagery or non-verbal information | Communication becomes richer |
+| 4. Vision | Remote visual information | Something can be seen |
+| 5. Perception | Limited sensory/informational impressions | The other side has a shape |
+| 6. Dream contact | Dream-based communication | Contact reaches into sleep |
+| 7. Targeted contact | Ability to reach a specific individual across distance | Personal, not general |
+| 8. Sustained interaction | Highly direct or sustained contact | The connection becomes persistent |
+| 9. UNKNOWN | Highest or most complete form of communication/contact | Revision of all prior assumptions |
 
 **Rules:**
 - Stages are not rigid; some may be skipped or reordered.
 - Each stage must carry cost/risk.
 - Leon (and reader) should not know the full sequence in advance.
+- The Gears are NOT primarily Door-opening mechanisms. Any Door interaction is a secondary effect or byproduct of their communication function.
 
 ---
 
@@ -384,15 +410,15 @@ The Gears are a primary clue to the vanished ancient organization. Hypotheses (a
 
 | Model | Description | Strengths | Weaknesses |
 |-------|-------------|-----------|------------|
-| A. The Door Remembers | Completion does not open the Door; it completes the account/record | Honors "not opened but remembered"; recontextualizes Arc 1 | Risks feeling passive |
-| B. The Door Opens | The Door becomes traversable | Escalation, danger | Risks conventional payoff |
+| A. The Network Remembers | Completion does not open the Door; it completes the communication system — the full network can finally communicate across all distances | Honors the Gears' primary purpose as communication infrastructure; recontextualizes Arc 1 | Risks feeling passive |
+| B. The Door Opens | The Door becomes traversable | Escalation, danger | Risks conventional payoff; conflates Gears with Door-opening |
 | C. The Gears Were Seals | Assembly re-locks what has been loosening | Inverts the quest; separation is sacred | Requires careful seeding |
-| D. Communication Mechanism | The Gears form a device to contact something beyond | Mystery of the "other side" | Could feel like a radio |
-| E. Summoning | Assembly triggers a event (the bell's call, the count) | Unifies with established mysteries (count, bell, 00:00) | Risk of over-resolution |
+| D. Communication Completion | The Gears form a complete communication channel to something beyond the Door | Mystery of the "other side"; aligned with communication purpose | Could feel like a radio |
+| E. Summoning | Assembly triggers an event (the bell's call, the count) | Unifies with established mysteries | Risk of over-resolution |
 | F. Reveal Truth | The Gears reveal the fate of the ancient organization | Strong mystery payoff | Could be exposition-heavy |
 | G. Leon Does Not Know | Leon completes the system without knowing the outcome | Maximum mystery; character-driven tension | Requires disciplined withholding |
 
-**Recommended posture:** G (Leon does not know) as the primary narrative engine, with one of A–F as the hidden truth to be revealed later.
+**Recommended posture:** G (Leon does not know) as the primary narrative engine, with A or D as the strongest hidden-truth candidates aligned to the communication infrastructure concept. Author decision REQUIRED — do not preselect.
 
 ---
 
@@ -436,41 +462,52 @@ Every meaningful use of a Gear must carry a cost or risk:
 
 ---
 
-## XXV. OPEN QUESTIONS
+## XXV. SYSTEM SUMMARY
+
+"THE NINE GEARS ARE A SECRET COMMUNICATION INFRASTRUCTURE OF AURELIUS'S NETWORK. EACH GEAR REPRESENTS A DEEPER DEGREE OF COMMUNICATION OR CONTACT. THEIR PRIMARY PURPOSE IS ORGANIZATIONAL COMMUNICATION, WHILE THEIR POSSIBLE DEEPER METAPHYSICAL IMPLICATIONS REMAIN UNRESOLVED."
+
+The Gears may intersect with other mysteries, characters, organizations, or supernatural phenomena, but they must not be collapsed into the Door system merely because the same characters may be involved.
+
+---
+
+## XXVI. OPEN QUESTIONS
 
 1. Does the confirmed Gear occupy a position among the nine? Which?
 2. What is the exact total number of Gears? (Nine is PROPOSED.)
 3. Who created the Gear system? The vanished ancient organization? A precursor?
 4. Why were the Gears separated?
-5. What is the Door's ultimate purpose?
-6. What happens when all Gears are assembled? (See §XXI.)
-7. What is the relationship between the Gear system and the Tokens? Are they from the same source?
-8. What is the Pale Compass's final name and exact mechanics?
-9. How does the Sanctuary (if used) relate to the Gear system?
-10. How do the XIII Signs and Ranks relate to the Gears? (Currently separate.)
+5. What is the relationship between the Gears and the Door? Are the Gears primarily communication infrastructure, or are they Door mechanisms?
+6. What is the possible deeper metaphysical aspect of the communication medium?
+7. What happens when all Gears are assembled? (See §XXI.)
+8. What is the relationship between the Gear system and the Tokens? Are they from the same source?
+9. What is the Pale Compass's final name and exact mechanics?
+10. How does the Sanctuary (if used) relate to the Gear system?
+11. How do the XIII Signs and Ranks relate to the Gears? (Currently separate.)
+12. Do the Gears communicate with the entity behind Vale's Door? Do they weaken the Door? Do they cause the Bell? All remain OPEN.
 
 ---
 
-## XXVI. FUTURE CHAPTER IMPLEMENTATION RULES
+## XXVII. FUTURE CHAPTER IMPLEMENTATION RULES
 
 When a Gear is introduced in a future chapter:
 1. The chapter must provide the physical description mandated by the Gear's profile.
 2. The discovery should be a story event with context, mystery, and consequence.
 3. Do not explain the Gear's full function; reveal only what Leon observes.
-4. The chapter may hint at the Gear's connection to the Door or ancient organization, but not confirm all details.
+4. The chapter may hint at the Gear's connection to the Aurelius network, the Door, or ancient organization, but not confirm all details.
 5. Leon's knowledge boundaries must be respected.
 6. The Gear must create a new question or complication.
 
 ---
 
-## XXVII. CHANGE LOG
+## XXVIII. CHANGE LOG
 
 | Date | Change | Author |
 |------|--------|--------|
 | 2026-09-03 | Initial creation | System (PROPOSED) |
 | 2026-09-03 | Canon audit and reconciliation | System |
+| 2026-09-06 | Reestablished as Aurelius Network communication infrastructure; nine-stage communication depth architecture; separated from Door-primary function | Author |
 
 ---
 
-**Status:** PROPOSED — ARC 2+. Not CONFIRMED. Not implemented in manuscript.  
-**Last Updated:** 2026-09-03
+**Status:** WORKING CANON / AUTHOR-APPROVED ARCHITECTURE — NOT FINAL MYSTERY FREEZE
+**Last Updated:** 2026-09-06

@@ -1,9 +1,9 @@
 ﻿# GEAR EXPERIMENTATION AND RESONANCE
 
-**Status:** Mixed — canon anchors CONFIRMED; resonance model and forward architecture PROPOSED/UNKNOWN
-**Date:** 2026-09-03
+**Status:** Mixed — canon anchors CONFIRMED; resonance model and forward architecture WORKING CANON / AUTHOR-APPROVED
+**Date:** 2026-09-06
 **Role:** Focused subsystem document under `07_MASTER_GEAR_BLUEPRINT.md`. Covers how the confirmed Gear interacts with the stone mechanism, how perception occurs, and how Leon's investigation progresses. Does **not** duplicate the top-level Gear architecture.
-**Manuscript status:** No chapters were modified by this document.
+**Architecture note:** The Nine Gears are primarily a secret communication infrastructure of Aurelius's hidden network. The experimentation documented here relates to the confirmed Gear's mechanical Door interaction, which is secondary to its primary communication purpose. The relationship between the Gears' communication function and the Door mechanism remains unresolved.
 
 ---
 
@@ -234,7 +234,7 @@ No unresolved plot hole blocks the architecture. The former Ch66 warmth contradi
 
 ## 13. UNKNOWNS (protected)
 
-Meaning and function of the inscription · nature of the Ch49 sound beyond the door · what the mechanism's response to the Gear actually is (cause, recognition, or mere shape) · who cut the letters · what the depression's mechanism is part of · whether Token and Gear share an origin · what lies beyond the door and beneath the chamber · whether perception is physical or otherwise · total component count · the relationship between the Gear system and 00:00, the bell, and the count.
+Meaning and function of the inscription · nature of the Ch49 sound beyond the door · what the mechanism's response to the Gear actually is (cause, recognition, or mere shape) · who cut the letters · what the depression's mechanism is part of · whether Token and Gear share an origin · what lies beyond the door and beneath the chamber · whether perception is physical or otherwise · total component count · the relationship between the Gear system and 00:00, the bell, and the count · whether the Gears communicate with the entity behind Vale's Door · whether they weaken the Door · whether they cause the Bell · whether assembling all nine Gears automatically releases an entity.
 
 ## 14. PROPOSED FUTURE DEVELOPMENTS
 
@@ -244,6 +244,6 @@ Comparison experiments isolating Gear vs contact vs stone · sustained-contact p
 
 ---
 
-**Status:** canon anchors CONFIRMED; resonance model, wall-contact extension, stages 5–9, and ritual all PROPOSED/UNKNOWN.
+**Status:** Canon anchors CONFIRMED; resonance model, wall-contact extension, stages 5–9, and ritual all WORKING CANON / AUTHOR-APPROVED.
 **Manuscript modified by this document:** none.
-**Last Updated:** 2026-09-03
+**Last Updated:** 2026-09-06
