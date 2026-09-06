@@ -278,7 +278,7 @@ Daniel James Carter is a history student. He has a natural function:
 
 ---
 
-## X. Arthur Edmund Bell Integration
+## X. Arthur Laurence Bell Integration
 
 ### Natural Bridge to Information Economy
 

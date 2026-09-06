@@ -447,7 +447,7 @@ Pertanyaan canon yang telah diputuskan. Disimpan di sini sebagai referensi agar 
 **Catatan keputusan:**
 - Toko Arthur adalah toko buku. Fokus: buku lama, buku kuno, edisi langka, materi kertas bersejarah, memorabilia Alderwick.
 - Nama toko: Bell's Books (bukan Bell's Books & Antiquities).
-- Arthur Edmund Bell = Mr. Bell. Satu karakter tunggal; "Mr. Bell" adalah sapaan formal dari Leon dan warga.
+- Arthur Laurence Bell = Mr. Bell. Satu karakter tunggal; "Mr. Bell" adalah sapaan formal dari Leon dan warga.
 - "Kotak kayu" yang diperiksa Arthur di toko dapat berisi dokumen/catatan lama — bukan diasumsikan sebagai barang antik.
 - Arthur TIDAK otomatis mengetahui informasi spesifik tentang Aurelius Ashcroft, dokumen 13-B, atau kolektor jam. Pengetahuan tersebut hanya boleh dikaitkan dengan Arthur setelah diperkenalkan secara natural melalui narasi chapter yang relevan (verifikasi per chapter sebelum patch).
 - Layer permukaan Arthur: pemilik toko buku tua biasa. Layer dalam: terhubung dengan orang-orang tertentu yang memiliki pengetahuan/spiritual — tetapi layer dalam tidak diungkap sekarang dan tidak menjadikan Arthur sumber tunggal informasi supernatural.

@@ -174,7 +174,7 @@
 - "Older than the circle" applied to both keeper's sign and first sign – hierarchy stable.
 
 ### Character Continuity
-All major characters consistent. Note: Arthur's name shift (Mr. Bell → Arthur) is acceptable variation. "Daniel" (Ch2) vs "Daniel Wren" (Ch110) identity conflict flagged P2.
+All major characters consistent. Note: Arthur's name shift (Mr. Bell → Arthur / Arthur Laurence Bell) is acceptable variation. "Daniel" (Ch2) vs "Daniel Wren" (Ch110) identity conflict flagged P2.
 
 ### Timeline Continuity
 - Ch98 "January" → Ch100 "end of October" unmarked gap acceptable.
@@ -318,7 +318,7 @@ The manuscript is stable as a foundation for Arc 2. Terminology migration (medal
 2. Shaw's chapter citations corrected.
 3. Crowe: Order-adjacent, membership not established.
 4. Thomas Finch: parish records only; Order listing unsupported.
-5. Arthur Bell: NOT a watchman (refused enrolment).
+5. Arthur Laurence Bell: NOT a watchman (refused enrolment).
 
 **Found and NOT corrected – author decision required:**
 6. Calloway's age: prose 60 vs World Bible 51.

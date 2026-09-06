@@ -1,7 +1,7 @@
 ﻿# CHARACTER VISUAL CANON — Alderwick
 
 **Status:** PROPOSED — refined per author review (2026-09-02); awaiting final author approval
-**Date:** 2026-09-02
+**Date:** 2026-09-06
 **Scope:** Major recurring characters. World Bible only — not inserted into manuscript.
 **Revision note:** Author-review recommendations applied. Existing confirmed canon preserved. Unresolved details remain unresolved.
 
@@ -33,7 +33,7 @@
 | Silas Crowe | None | HIGH |
 | Nathaniel Graves | None | HIGH |
 | Thomas Vale | None | HIGH |
-| Arthur Edmund Bell | Moderate (sharp observant eyes; stooped; spectacles; book-hands) | MEDIUM |
+| Arthur Laurence Bell | Moderate (sharp observant eyes; stooped; spectacles; book-hands) | MEDIUM |
 | Eleanor Shaw | None | MEDIUM |
 | Daniel Carter / Wren | Weak (eager posture; student dress; carries books) | MEDIUM |
 | Ysabel Nott | None | MEDIUM |
@@ -364,7 +364,7 @@
 
 ---
 
-### ARTHUR EDMUND BELL (bookseller / antiquarian)
+### ARTHUR LAURENCE BELL (bookseller / antiquarian)
 
 **Status:** CONFIRMED — established physical details preserved
 
@@ -680,7 +680,7 @@
 | Vale | 80s+ | Shrunken | White, scant | Clear, steady | Mended brown coat | Vigorous eyes | Deliberate motion |
 | Helen | 32–34 | Spare | Grey-streaked bun | Dark, steady | Dark wool + apron | Has things ready | Quiet readiness |
 | Margaret | 50s | Sturdy | Grey under cap | Blue, frank | Linen apron | Flour-dusted arms | Wipes hands |
-| Arthur Bell | 50s–60s | Stooped | Grey, thin | Sharp | Leather apron | Ink-stained hands | Tilts head |
+| Arthur | 50s–60s | Stooped | Grey, thin | Sharp | Leather apron | Ink-stained hands | Tilts head |
 | Daniel | Late teens | Long-limbed | Light brown | Open | Neat, scuffed | Book strap | Talks with hands |
 | Ysabel | 40s+ | Lean | Dark, grey-streaked | Dark, direct | Long mended coat | Many-pocketed coat | Touches clock pocket |
 | Elias Marr | 60s | Slight | White, uncut | Averted | Oversized coat | Misbuttoned waistcoat | Looks at objects |

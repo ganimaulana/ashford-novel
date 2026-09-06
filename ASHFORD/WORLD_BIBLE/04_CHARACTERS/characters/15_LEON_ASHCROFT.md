@@ -141,7 +141,7 @@ If he discovers that someone he trusted has been deliberately deceiving him, he 
 - **Helen:** Landlady or fellow resident? — She is reserved and mysterious. Leon feels she knows more than she says. He respects her privacy but is curious.
 - **Daniel James Carter:** Friend — Daniel is helpful, knowledgeable, and enthusiastic. Leon trusts him as a source of historical information.
 - **Margaret:** Tearoom owner — She is gossipy but informative. Leon appreciates her directness and uses her as a source of local knowledge.
-- **Arthur Edmund Bell:** Antiquarian — Arthur is a mentor figure in history and local lore. Leon respects his expertise.
+- **Arthur Laurence Bell:** Antiquarian — Arthur is a mentor figure in history and local lore. Leon respects his expertise.
 - **Edmund Wren:** (deceased) — Leon received his notebook and key. Wren was a keeper of secrets.
 - **Aurelius Ashcroft:** Ancestor? — The central mystery. Leon knows his name and is investigating his life.
 
@@ -190,7 +190,7 @@ At the end of Ch 51, with the death of Thomas Vale, Leon becomes the formal Keep
 - Margaret Whitmore — will never be initiated
 
 **Bridge character (Layer 1 + partial Layer 2):**
-- Arthur Edmund Bell — knows Leon is investigating something real, but not the Circle
+- Arthur Laurence Bell — knows Leon is investigating something real, but not the Circle
 
 **Compartmentalization rules:**
 - No Layer 2/3/4 materials in Layer 1 locations

@@ -2,7 +2,7 @@
 
 **Status:** 📘 WORKING CANON
 **Version:** 1.1
-**Last Updated:** 2026-09-03
+**Last Updated:** 2026-09-06
 
 **IMPORTANT:** INDIVIDUAL CHARACTER FILES ARE THE AUTHORITATIVE CHARACTER REFERENCES. This registry serves as an index only.
 
@@ -19,7 +19,7 @@
 | **Leon Ashcroft** | `characters/15_LEON_ASHCROFT.md` | CANON — **profile is v1.0 and STALE** (still carries superseded Hidden Circle; references a non-existent `LEON_LAYER_ARCHITECTURE.md`) | Ordinary → Keeper | Chapter 1 | Moderate — he is learning |
 | **Helen Margaret Ashcroft** | `characters/12_HELEN_MARGARET_ASHCROFT.md` | CANON / HIDDEN | Interesting | Chapter 1 | High — knows much more than she reveals |
 | **Daniel James Carter** | `characters/08_DANIEL_JAMES_CARTER.md` | CANON — **NAME CONTESTED**; Ch129 gives "Daniel Wren, son of the clerk", and names him the next keeper | Ordinary → Keeper-successor | Chapter 2 | Rising — becomes the next keeper (Ch129) |
-| **Arthur Edmund Bell** | `characters/02_ARTHUR_EDMUND_BELL.md` | CANON — **NOT a watchman**; he refused enrolment (Ch11) | Interesting | Chapter 2 (mentioned) | High — knows historical details |
+| **Arthur Laurence Bell** | `characters/02_ARTHUR_EDMUND_BELL.md` | CANON — **NOT a watchman**; he refused enrolment (Ch11) | Interesting | Chapter 2 (mentioned) | High — knows historical details |
 | **Margaret Whitmore** | `characters/17_MARGARET_WHITMORE.md` | CANON | Ordinary | Chapter 2 | Moderate — gossipy but not deep |
 | **Edmund Wren** | `characters/26_EDMUND_WREN.md` | CANON | Hidden World | Chapter 9 | Very high — knew the secrets; deceased |
 | **Aurelius Ashcroft** | `characters/03_AURELIUS_ASHCROFT.md` | CANON / HIDDEN | Hidden World | Chapter 5 (mentioned) | Very high — central mystery |

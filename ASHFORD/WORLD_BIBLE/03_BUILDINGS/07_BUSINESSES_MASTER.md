@@ -32,8 +32,8 @@ Alderwick memiliki berbagai bisnis yang membuat kota terasa **hidup** dan **real
 
 ### Toko
 
-**Toko Arthur Edmund Bell**
-- Pemilik: Arthur Edmund Bell [CANON]
+**Toko Arthur Laurence Bell**
+- Pemilik: Arthur Laurence Bell [CANON]
 - Jenis: Toko buku (fokus buku lama, buku kuno, edisi langka, materi kertas bersejarah)
 - Lokasi: [BELUM DITETAPKAN]
 - **Lihat:** `BUILDINGS/02_ARTHURS_SHOP.md`

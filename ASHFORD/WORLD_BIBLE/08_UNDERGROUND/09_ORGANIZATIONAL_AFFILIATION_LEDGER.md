@@ -67,7 +67,7 @@ Do NOT automatically classify such a person as a full member of both organizatio
 | **Eleanor Shaw** | **NONE — independent (revised 2026-09-03, author-directed)** | Archivist, town lending library (room above the chandler's shop) | **Apparent**: the Order believes she is its archivist (Ch61). **Actual**: she is not. Held a sealed map for Vale for seven years. Future: secret contact of Leon's (PROPOSED) | CONFIRMED (independence) |
 | Thomas Finch | Parish records (revised 2026-09-03) | Parish archives — brings record bundles (Ch42) | None supported; the legacy "Order records man" listing is NOT supported by the manuscript | REVIEW |
 | Thomas Vale | UNRESOLVED | Constable-related (former constable; senior Constable intelligence/counter-intelligence background CONFIRMED 2026-09-03; keeper of the Agreement) | UNRESOLVED — Order membership now actively unlikely: his fall is tied to investigating Order infiltration of the Constable | REVIEW |
-| Arthur Edmund Bell | UNRESOLVED | **NOT the watch — he refused enrolment (Ch11: "I was offered. I said no."). Corrected 2026-09-03.** Bookseller/antiquarian; informal historical resource | UNRESOLVED | REVIEW |
+| Arthur Laurence Bell | UNRESOLVED | **NOT the watch — he refused enrolment (Ch11: "I was offered. I said no."). Corrected 2026-09-03.** Bookseller/antiquarian; informal historical resource | UNRESOLVED | REVIEW |
 | The vestry clerk (a Wren) | Parish | Parish (vestry books, register, survey, tower key) | UNRESOLVED | PROBABLE |
 | The verger | Parish | Parish / watch-affiliated (church and churchyard round; tower key) | UNRESOLVED | PROBABLE |
 | Michael (watchman) | Constable | Constable (watch, Bellweather round) | None confirmed | PROBABLE |

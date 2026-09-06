@@ -128,7 +128,7 @@ If he discovers he has been used or misled, he may become hurt or angry.
 ## Relationships
 - **Leon Ashcroft:** Friend; Daniel admires Leon's methodical approach and is eager to help.
 - **Margaret:** Acquaintance; he visits her tearoom often.
-- **Arthur Edmund Bell:** May know him as a bookseller or source of historical texts.
+- **Arthur Laurence Bell:** May know him as a bookseller or source of historical texts. Daniel has heard someone address Arthur as "Sir Arthur" and has joked about it, unaware the address is genuine. Arthur's reaction is subtle and ambiguous.
 
 ## Secrets
 ### Public Knowledge

@@ -1,7 +1,7 @@
 ﻿# CHARACTER VISUAL CANON — AUTHOR REVIEW PACKAGE
 
 **Status:** PROPOSED — AUTHOR REVIEW REQUIRED
-**Date:** 2026-09-02
+**Date:** 2026-09-06
 **Nature:** Review/critique package only. No visual detail converted to CONFIRMED. No manuscript modified.
 **Reviewed document:** `05_CHARACTER_VISUAL_CANON.md`
 
@@ -180,7 +180,7 @@
 
 ---
 
-### 8. ARTHUR EDMUND BELL (bookseller / verger)
+### 8. ARTHUR LAURENCE BELL (bookseller / verger)
 
 **CURRENT CANON:** Bookseller; also associated with the church (verger/sexton role); established as observant with sharp eyes; spectacles; ink/dust-stained; stooped.
 
@@ -299,7 +299,7 @@
 | Vale | 80s | Bent, shrunken | White, wispy | Clear/steady | Mended brown coat | Vigorous eyes | Deliberate motion |
 | Helen | 32–34 | Spare | Grey-streaked bun | — | Dark wool + apron | Still composure | Has things ready |
 | Margaret | 50s | Sturdy | Grey under cap | Frank | Linen apron | Flour-dusted arms | Wipes hands, folded arms |
-| Arthur Bell | 50s–60s | Stooped | Grey, thin | Sharp | Leather apron | Ink-stained hands | Tilts head, touches spines |
+| Arthur | 50s–60s | Stooped | Grey, thin | Sharp | Leather apron | Ink-stained hands | Tilts head, touches spines |
 | Daniel | Late teens | Long-limbed | Light brown | Open | Neat, scuffed | Carries books | Talks with hands |
 | Ysabel | 40s+ | Lean | Dark, grey-streaked | Direct | Long pocketed coat | Mended cuffs | States facts, ready to leave |
 | Elias Marr | 60s | Slight | White, uncut | Averted | Oversized coat | Misbuttoned waistcoat | Looks at objects |
@@ -358,7 +358,7 @@
 | 5 | Vale | Keep; avoid "wise ancient" dressing; retain ambiguity | P3 |
 | 6 | Helen | Drop "eyes that see too much"; add "has things ready" | P2 |
 | 7 | Margaret | Pick eye colour; otherwise keep (best-grounded profile) | P4 |
-| 8 | Arthur Bell | Keep (already strong) | P4 |
+| 8 | Arthur | Keep (already strong) | P4 |
 | 9 | Daniel | Develop fully; light-brown hair, open face, eager | P2 |
 | 10 | Ysabel | Keep dark coat (canon); vary hair note | P3 |
 | 11 | Elias | Replace faraway eyes with averted-gaze behavior | P2 |
