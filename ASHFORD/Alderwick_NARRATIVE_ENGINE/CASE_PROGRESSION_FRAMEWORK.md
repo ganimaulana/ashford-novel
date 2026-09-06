@@ -281,7 +281,7 @@ CONSEQUENCES:
 LEON DEVELOPMENT:
 - Which capabilities does this case test?
 - Which capabilities does Leon develop?
-- Stage progression: Does this move Leon toward next stage?
+- [CANON DECISION REQUIRED: Leon's progression framework]
 
 AURELIUS CONNECTION:
 - Connection type: [None / Subtle / Indirect / Obvious]
@@ -461,13 +461,11 @@ CASE E (Chapter 30) - Major Revelation
 
 ## H. INTEGRATION WITH OTHER SYSTEMS
 
-### Cases and Leon''s Trajectory
+### Cases and Leon's Development
 
-**Stage 1 (Observer):** Cases are simple, Leon learns by doing
-**Stage 2 (Investigator):** Cases test investigative skill
-**Stage 3 (Connector):** Cases require coordinating people
-**Stage 4 (Strategist):** Cases require strategic planning
-**Stage 5 (Leader):** Cases have organization-level implications
+Cases adapt to Leon's growing investigative capability over the course of the story. Early cases are simpler; later cases demand greater skill, coordination, strategic planning, and organization-level handling.
+
+[CANON DECISION REQUIRED: Whether to anchor case difficulty to a formal Leon stage/level system or treat escalation as a fluid narrative principle.]
 
 ### Cases and Aurelius Mystery
 
@@ -574,6 +572,5 @@ Maintain a **Case Idea Bank** with potential cases at various complexity levels.
 
 **See Also:**
 - `MASTER_STORY_ARCHITECTURE.md` — Overall narrative spine
-- `LEON_CHARACTER_TRAJECTORY.md` — How cases drive Leon''s development
 - `AURELIUS_MYSTERY_ARCHITECTURE.md` — How cases plant convergence seeds
 - `CORE_ORGANIZATION_FRAMEWORK.md` — How organization affects cases

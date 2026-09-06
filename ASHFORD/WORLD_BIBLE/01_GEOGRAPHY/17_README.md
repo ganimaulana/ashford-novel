@@ -1,4 +1,4 @@
-﻿# GEOGRAPHY Directory
+# GEOGRAPHY Directory
 
 ## Overview
 
@@ -86,13 +86,13 @@ This directory contains the **geographic framework** untuk Alderwick setting - t
 
 ```
 NORTH DOWNS (150-180m) - Often clear, windswept
-        ↓
+        ?
 Alderwick HEIGHTS (80-120m) - Above fog frequently
-        ↓
+        ?
 RISING GROUND (40-70m) - Victorian residential, variable fog
-        ↓
+        ?
 OLD TOWN CENTER (25-35m) - Valley floor, moderate fog
-        ↓
+        ?
 RIVER VALLEY (15-25m) - Thickest fog, dampest, coldest
 ```
 
@@ -115,7 +115,7 @@ Kabut TIDAK uniform - berbeda berdasarkan topografi:
 
 ---
 
-### The Four Ashfords
+### The Four Alderwicks
 
 Each zone has distinct character:
 
@@ -178,7 +178,7 @@ Each zone has distinct character:
 - **Walking:** Most central locations 5-15 min apart
 - **Elevation change:** Noticeable when moving up/down
 - **Fog variation:** Dramatic between valley and heights
-- **Temperature:** Can differ 2-3°C valley to heights
+- **Temperature:** Can differ 2-3�C valley to heights
 
 ---
 
@@ -242,24 +242,24 @@ Geography naturally supports different phenomena:
 
 ### DO:
 
-✅ Use elevation changes untuk atmosphere shifts  
-✅ Vary fog density by location  
-✅ Show weather changing  
-✅ Reference North Downs casually  
-✅ Show river as presence  
-✅ Make geography feel lived-in  
-✅ Use realistic distances  
-✅ Show temperature differences  
+? Use elevation changes untuk atmosphere shifts  
+? Vary fog density by location  
+? Show weather changing  
+? Reference North Downs casually  
+? Show river as presence  
+? Make geography feel lived-in  
+? Use realistic distances  
+? Show temperature differences  
 
 ### DON\'T:
 
-❌ Call Alderwick "mountain town"  
-❌ Make fog permanent everywhere  
-❌ Put ocean too close  
-❌ Ignore elevation effects  
-❌ Make distances unrealistic  
-❌ Force all features together  
-❌ Create Alpine drama  
+? Call Alderwick "mountain town"  
+? Make fog permanent everywhere  
+? Put ocean too close  
+? Ignore elevation effects  
+? Make distances unrealistic  
+? Force all features together  
+? Create Alpine drama  
 
 ---
 
@@ -285,11 +285,11 @@ Geography naturally supports different phenomena:
 ### ARC System (ANOMALIES)
 
 Geography supports different anomaly types:
-- Valley fog → visibility phenomena
-- Water → reflection/boundary cases
-- Woods → spatial/entity cases
-- Heights → observation/perspective cases
-- Old buildings → object/history cases
+- Valley fog ? visibility phenomena
+- Water ? reflection/boundary cases
+- Woods ? spatial/entity cases
+- Heights ? observation/perspective cases
+- Old buildings ? object/history cases
 
 ### Character Movement (CHARACTERS)
 
@@ -315,14 +315,14 @@ Network operates across geography:
 
 **Current state:**
 
-✅ Core geography established  
-✅ Districts defined  
-✅ Natural features documented  
-✅ Greyhaven framework created  
-✅ Existing locations integrated  
-✅ Atmospheric characteristics defined  
-✅ Fog patterns explained  
-✅ Climate established  
+? Core geography established  
+? Districts defined  
+? Natural features documented  
+? Greyhaven framework created  
+? Existing locations integrated  
+? Atmospheric characteristics defined  
+? Fog patterns explained  
+? Climate established  
 
 **Ready for:**
 - Story writing dengan geographic consistency
@@ -337,12 +337,12 @@ Network operates across geography:
 
 ```
 GEOGRAPHY/
-├── README.md                  # This file
-├── 03_Alderwick_GEOGRAPHY.md       # Core geographic foundation
-├── 07_DISTRICTS.md               # Town districts & neighborhoods
-├── 13_NATURAL_FEATURES.md        # Rivers, woods, hills
-├── 09_GREYHAVEN.md               # Coastal town
-└── 11_LOCATION_PLACEMENT.md      # Integration of existing locations
++-- README.md                  # This file
++-- 03_Alderwick_GEOGRAPHY.md       # Core geographic foundation
++-- 07_DISTRICTS.md               # Town districts & neighborhoods
++-- 13_NATURAL_FEATURES.md        # Rivers, woods, hills
++-- 09_GREYHAVEN.md               # Coastal town
++-- 11_LOCATION_PLACEMENT.md      # Integration of existing locations
 ```
 
 ---
@@ -371,3 +371,4 @@ GEOGRAPHY/
 - Movement = atmosphere changes
 - Natural support for paranormal
 - Realistic English setting
+

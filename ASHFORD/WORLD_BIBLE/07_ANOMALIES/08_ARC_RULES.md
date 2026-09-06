@@ -42,14 +42,15 @@ ARC Synergy is the **core mechanic** of the ARC system.
 
 ---
 
-## Leon's Progression Rules
+## Leon's Power Rules
 
 1. Leon begins weak — survives through intelligence, observation, preparation, ARC
 2. Leon's primary advantage is understanding, not power
-3. Leon's growth: ARC-dependent → ARC strategist → ARC architect → Reality exploiter
-4. Leon must make mistakes — misinterpret ARC, combine incorrectly, fail
-5. Leon's growth is not linear — he backtracks and learns from failure
-6. Other characters: Power → Strategy. Leon: Strategy → Power
+3. Leon must make mistakes — misinterpret ARC, combine incorrectly, fail
+4. Leon's growth is not linear — he backtracks and learns from failure
+5. Other characters: Power → Strategy. Leon: Strategy → Power
+
+[CANON DECISION REQUIRED: Whether to formalize a tiered power-growth arc (e.g. ARC-dependent → strategist → architect) for Leon.]
 
 ---
 

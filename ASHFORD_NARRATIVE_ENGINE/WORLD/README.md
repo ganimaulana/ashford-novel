@@ -1,8 +1,8 @@
-# Worldbuilding — Ashford, 1816
+# Worldbuilding — Alderwick, 1816
 
 **Last Updated:** 2026-08-29
 
-This directory contains the foundational worldbuilding for Ashford, England, in 1816.
+This directory contains the foundational worldbuilding for Alderwick, England, in 1816.
 
 ## Directories
 
@@ -18,7 +18,7 @@ This directory contains the foundational worldbuilding for Ashford, England, in 
 - `SOCIAL/RELIGION_AND_BELIEF.md` — Fictional religions and beliefs.
 - `SOCIAL/ANNUAL_FESTIVAL_CALENDAR.md` — Year-round festivals and rituals.
 - `SOCIAL/ENTERTAINMENT_1816.md` — Period-appropriate entertainment.
-- `SOCIAL/TAVERNS_INNS_PUBLIC_HOUSES.md` — Social hubs of Ashford.
+- `SOCIAL/TAVERNS_INNS_PUBLIC_HOUSES.md` — Social hubs of Alderwick.
 - `SOCIAL/SOCIAL_EVENT_PLOT_ENGINE.md` — Plot functions of social events.
 
 ## Status

@@ -1,10 +1,10 @@
-# Social Event as Plot Engine — Ashford, 1816
+# Social Event as Plot Engine — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-This document maps the potential plot functions of every social institution and event in Ashford. Social events are not just worldbuilding; they are engines for character development, relationship formation, information exchange, and mystery.
+This document maps the potential plot functions of every social institution and event in Alderwick. Social events are not just worldbuilding; they are engines for character development, relationship formation, information exchange, and mystery.
 
 ---
 

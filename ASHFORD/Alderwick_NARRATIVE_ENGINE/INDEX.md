@@ -14,7 +14,6 @@
 | Document | Purpose | Status |
 |----------|---------|--------|
 | `MASTER_STORY_ARCHITECTURE.md` | **Central integration document** — Leon's journey, Aurelius mystery, case progression, organization development. **v2.1:** Added historical pressure layer, removed rigid percentages, expanded relic outcomes | CORE |
-| `LEON_CHARACTER_TRAJECTORY.md` | **8-stage progression model** — Outsider → Observer → Investigator → Connector → Strategist → Leader → Truth-Seeker → Awakened → Power Behind Influence. **v2.1:** Added snapshot system with AS-OF markers | CORE |
 | `AURELIUS_MYSTERY_ARCHITECTURE.md` | **Accidental convergence system** — Relic tracking, mystery revelation, convergence mechanics. **v2.1:** Expanded to 9 relic outcome types, removed reward framing, principle-based pacing | CORE |
 | `CASE_PROGRESSION_FRAMEWORK.md` | **Investigation design system** — 7 case types, complexity escalation, organic character introduction. **v2.1:** Added historical pressure → case mechanism, character network integration | CORE |
 | `CORE_ORGANIZATION_FRAMEWORK.md` | **13 member development system** — Member functions, relationship dynamics, knowledge distribution | CORE |

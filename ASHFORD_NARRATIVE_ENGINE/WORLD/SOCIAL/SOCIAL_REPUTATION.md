@@ -1,10 +1,10 @@
-# Social Reputation — Ashford, 1816
+# Social Reputation — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Reputation is paramount in 1816 Ashford. It determines trust, employment, marriage prospects, and social standing. A bad reputation can destroy a family's prospects.
+Reputation is paramount in 1816 Alderwick. It determines trust, employment, marriage prospects, and social standing. A bad reputation can destroy a family's prospects.
 
 ---
 

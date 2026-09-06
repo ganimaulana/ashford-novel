@@ -209,7 +209,7 @@ Setiap dokumen dalam World Bible memiliki status level:
 
 **Key Principle:** INFORMAL network, NOT organization
 
-**Leon\'s Role:** Pattern recognizer, investigator, observer
+**Leon's Role:** Investigator, observer
 **Arthur\'s Role:** Historical researcher, provenance expert
 
 ---

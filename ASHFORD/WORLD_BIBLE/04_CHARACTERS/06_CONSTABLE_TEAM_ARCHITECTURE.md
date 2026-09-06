@@ -223,15 +223,625 @@ Full specification: `../19_SUPERNATURAL/01_ABILITY_ARCHITECTURE.md`.
 
 ---
 
-## A7. CANON STATUS SUMMARY
+## A7. CLASS TAXONOMY
 
-- **CONFIRMED (pre-existing, preserved unchanged):** Calloway's office and limits · Leon's enrolment (Ch10), retainer (Ch36), and Keeper status (Ch51) · Vale's death and legacy · the succession Ferrand → Vale → Calloway · no seizure, no containment · the London office · Constable ≠ Order of Severence · Crowe/Graves as Order-side · Shaw's Ch42/43/61 facts.
-- **CONFIRMED (new, by author direction):** Eleanor Shaw is not an Order of Severence member.
-- **PROPOSED:** all seven new characters; the senior-layer allocation; the core-three division of evidence; both optional abilities.
-- **UNKNOWN / protected:** whether Ingle is compromised · where Faulds saw the mark · what Vale knew · the London office's identity.
-- **DEFERRED:** where any of this is inserted (see `../15_METADATA/POST_VALE_INSERTION_MAP.md`) · Calloway's sensitivity · Calloway's age correction · the Shaw Token timing.
+**Status:** APPROVED DEVELOPMENT · working framework, may be refined after full power-system audit
+**Manuscript impact:** NONE. Chapters 1–141 untouched.
+
+### A7.1. Core Distinctions
+
+**CLASS ≠ ROLE**
+Class describes the fundamental supernatural domain/affinity. Role describes operational function within the Constable.
+
+**CLASS ≠ TIER**
+Class = nature/domain of supernatural power. Tier = degree/depth of advancement.
+
+**CLASS ≠ INTELLIGENCE**
+Class does not determine intelligence.
+
+**CLASS ≠ PHYSICAL ABILITY**
+Class does not determine physical strength, endurance, or combat ability.
+
+**CLASS ≠ TEAM**
+Class does not determine team assignment or team composition.
+
+A person's Class does not automatically determine:
+- intelligence
+- physical strength
+- personality
+- profession
+- leadership ability
+- Constable role
+- team assignment
+
+### A7.2. Active 13-Class Taxonomy
+
+The following 13 Classes are the approved working taxonomy:
+
+1. Knight
+2. Seer
+3. Hunter
+4. Scholar
+5. Warden
+6. Weaver
+7. Herald
+8. Artificer
+9. Medium
+10. Alchemist
+11. Oneirist
+12. Augur
+13. Pilgrim
+
+### A7.3. Class Conceptual Domains
+
+**Knight**
+Core domain: martial force, valor
+NOT synonymous with: fighter, low intelligence, physical strength, field leader. A Knight may be highly intelligent.
+
+**Seer**
+Core domain: hidden perception, revelation
+NOT synonymous with: future prediction. Seer concerns perceiving what is concealed, not predicting what is not yet known.
+
+**Hunter**
+Core domain: pursuit, tracking, prey
+NOT synonymous with: low intelligence, physical brute force. A Hunter may be highly intelligent.
+
+**Scholar**
+Core domain: knowledge, analysis
+NOT synonymous with: weak physical ability, academic profession, high IQ by default.
+
+**Warden**
+Core domain: boundary, protection, containment
+NOT merged with Judge-like rule enforcement.
+
+**Weaver**
+Core domain: connection, structure, alteration
+NOT defined merely as "magic threads."
+
+**Herald**
+Core domain: communication, influence, declaration
+NOT identical to messenger as a profession.
+
+**Artificer**
+Core domain: creation, construction
+NOT identical to ordinary craftsman.
+
+**Medium**
+Core domain: spiritual/dead mediation
+Concerns interaction/mediation involving the dead or spiritual entities. NOT merged with Oneirist.
+
+**Alchemist**
+Core domain: transformation, transmutation
+NOT synonymous with Scholar or Artificer.
+
+**Oneirist**
+Core domain: dreams, sleep, subconscious, mental realms
+Replaces the previously considered "Dreamer" concept. Do NOT use "Dreamer" as the Class name. NOT synonymous with Seer.
+
+**Augur**
+Core domain: omens, probability, possible outcomes
+Replaces the previously considered Oracle concept. Do NOT use "Oracle" as the active Class name.
+
+Distinction from Seer:
+- Seer: hidden information, revelation, perceiving what is concealed
+- Augur: signs, omens, probability, possible outcomes
+Do NOT collapse them into one Class.
+
+**Pilgrim**
+Core domain: passage, journey, distance, thresholds
+Retained from previous taxonomy. NOT defined merely as "traveler."
+
+Distinction from Hunter:
+- Hunter: pursuit of a target/prey
+- Pilgrim: passage, journey, distance, thresholds
+Do NOT define Pilgrim as merely "traveler."
+
+### A7.4. Removed from Active Taxonomy
+
+The following are NOT active Classes:
+- Judge — removed
+- Oracle — removed
+
+If Judge or Oracle appears elsewhere as historical discussion, unresolved alternative, or audit note, do NOT automatically delete it unless it clearly represents the old active taxonomy.
+
+### A7.5. Tier System
+
+Preserve the existing approved 9-tier hierarchy exactly:
+
+| Tier | Name |
+|------|------|
+| 9 | Marked |
+| 8 | Bound |
+| 7 | Resonant |
+| 6 | Attuned |
+| 5 | Ascendant |
+| 4 | Crowned |
+| 3 | Exalted |
+| 2 | Sovereign |
+| 1 | Transcendent |
+
+Numbering: 9 = lowest, 1 = highest.
+
+Do NOT rename these tiers. Do NOT reorder them. Do NOT replace them.
+
+### A7.6. Initial Tier Assignment
+
+All current Constable team members start at **Tier 9 — Marked**.
+
+This applies to:
+- Alpha team members
+- Beta team members
+- Gamma team members
+
+Team designation does NOT indicate Tier:
+- Alpha ≠ higher Tier than Beta
+- Beta ≠ higher Tier than Gamma
+- Gamma ≠ lower Tier than Alpha
+
+All teams operate at the same starting Tier level.
+
+### A7.7. Tier Advancement
+
+Tier advancement is **NOT automatic**.
+
+A person does NOT advance merely because:
+- they gain experience,
+- they become stronger,
+- they complete missions,
+- they spend enough time at Tier 9,
+- they are promoted within a team,
+- or they receive a higher operational position.
+
+There is a specific advancement condition, ritual, process, or equivalent mechanism required to advance from Tier 9 to Tier 8.
+
+**The advancement mechanism has NOT been designed yet.**
+
+Do NOT invent:
+- ritual name
+- ritual components
+- potion
+- ceremony
+- sacrifice
+- materials
+- location
+- requirements
+- duration
+- success rate
+- failure consequences
+- who performs it
+- who authorizes it
+- whether it is religious
+- whether it is supernatural
+- whether it is performed by the Constable organization
+
+All of these remain UNPLANNED / UNRESOLVED.
+
+The only current canon rule is:
+- Tier advancement requires a specific mechanism that must be fulfilled.
+- The nature of that mechanism will be designed later.
+
+### A7.8. Team vs Tier Distinction
+
+Preserve this distinction permanently:
+
+| Concept | Definition |
+|---------|------------|
+| **TEAM** | operational/deployment structure |
+| **CLASS** | supernatural domain |
+| **TIER** | advancement/progression level |
+| **ROLE** | functional responsibility |
+
+Therefore:
+- Alpha / Beta / Gamma ≠ Tier 9 / Tier 8 / Tier 7
+- Knight / Seer / Hunter ≠ Observer / Analyst / Combat / Specialist
+- Team assignment does not determine Tier
+- Class does not determine Team
+- Tier does not determine Role
+
+A member can belong to any functional team while remaining Tier 9.
+
+### A7.9. Current Constable Status
+
+For the current planned Constable development:
+
+- Newly established / current team members → **Tier 9 — Marked**
+- Higher Tiers → possible future progression, not currently achieved
+- Advancement mechanism → unresolved
+- Tier 8 and above should NOT be casually assigned to current Constable team members
+
+Do not introduce a Tier 8+ Constable character merely to make the organization appear powerful. The organization can remain dangerous, experienced, and institutionally capable while its current field teams are all Tier 9.
+
+### A7.10. Leon's Tier Status
+
+Leon remains distinct from the Tier system at his current stage.
+
+Do NOT automatically assign Leon:
+- a Class
+- Tier 9
+- Tier 8
+- or any supernatural progression
+
+unless existing canon explicitly establishes it.
+
+His current Constable position as Observer does NOT itself grant him a Tier.
+
+His operational standing and supernatural Tier must remain separate.
+
+### A7.11. Tier 0
+
+Tier 0 remains:
+- unnamed
+- disputed
+- exceptional
+- unresolved
+- not currently explained in the story
+
+Do not connect Tier 0 to current Constable teams.
+
+Do not imply that anyone currently seen in the story is Tier 0.
 
 ---
 
-**Status:** PROPOSED
-**Last Updated:** 2026-09-03
+## A7.12. No Automatic Power Ranking
+
+Higher Tier does not automatically mean automatic victory in every situation.
+
+Class does not determine intelligence. Class does not determine physical ability.
+
+A lower-Tier individual may have situational advantages.
+
+Individual capability, experience, tactics, compatibility, and circumstances may affect outcomes.
+
+Do NOT create an S/A/B/C ranking system. Do NOT rank the 13 Classes against each other.
+
+### A7.13. Leon's Classification
+
+Leon's current development concept:
+
+- Class: None
+- Tier: None
+- Power: None
+
+Leon is currently intended to be one of the rare powerless individuals in the examination/recruitment context.
+
+**Do NOT write that Leon is definitively the only powerless human in the entire world.** That remains unresolved.
+
+Leon profile:
+- exceptional observation
+- exceptional deduction
+- exceptional reasoning
+- exceptional documentation
+- strong pattern recognition
+- weak physical strength
+- mediocre/weak endurance
+- weak to ordinary combat ability
+- developing leadership
+- competent but not exceptional social reading
+
+Do NOT give Leon a hidden Class or secret Tier at this stage. Do NOT introduce a latent Class unless separately approved.
+
+### A7.14. Leon's Power vs. Perception
+
+Leon remains objectively weak or relatively low-powered during his early development. His competence must NOT be confused with raw supernatural power.
+
+Leon can be:
+- observant,
+- cautious,
+- analytical,
+- patient,
+- unusually good at separating observation from conclusion,
+- capable of noticing details others miss,
+- capable of making correct decisions from incomplete information,
+
+without therefore being physically or supernaturally powerful.
+
+This distinction is active canon and must remain part of Leon's characterization and progression.
+
+Leon being competent does NOT automatically mean:
+- higher Tier,
+- greater raw power,
+- greater physical ability,
+- greater combat ability,
+- deeper supernatural mastery,
+- hidden high-level status,
+- or membership in a higher Class/Tier.
+
+### A7.15. Misjudgment / False Perception
+
+Some characters may gradually begin to **overestimate Leon's actual strength** because of his unusual competence, observations, caution, timing, survival, or correct deductions. This is intentional narrative misjudgment.
+
+**Object reality:** Leon remains comparatively weak in raw power during his early development.
+
+**Character perception:** Some people may conclude that Leon is stronger, more experienced, or more capable than he actually is.
+
+These two things must NOT automatically converge. The story must sustain situations where:
+- Leon does something intelligent.
+- Another character interprets it as evidence of hidden strength.
+- Leon actually succeeded through observation, caution, inference, luck, limited ability, or a combination of these.
+- The other character's conclusion is therefore understandable but incorrect or exaggerated.
+
+Do NOT make this a universal perception. Not every character should think Leon is secretly powerful. Different characters may hold different assessments of him.
+
+**This is NOT a hidden-OP protagonist trope.** Do NOT establish that Leon is secretly overwhelmingly powerful. Do NOT establish hidden high Tier, secret Sovereign/Transcendent status, secret superior combat ability, secret overwhelming Class ability, secret organization status, secret advancement, or secret power reserve.
+
+The intended progression is:
+weak → competent → unusual → increasingly misjudged → genuinely capable → eventually dangerous in specific circumstances.
+
+NOT: weak → secretly overpowered → reveals overwhelming strength.
+
+Leon should earn future increases in capability through actual story development.
+
+### A7.16. Competence Axes vs. Power Indicators
+
+Leon's investigative competencies are character/investigative traits, NOT supernatural indicators:
+
+1. Observation
+2. Record-keeping
+3. Pattern recognition
+4. Caution
+5. Inference
+6. Self-restraint
+7. Decision-making under uncertainty
+
+These are NOT Tier indicators. They are NOT Class indicators. They are NOT proof of supernatural power. They are NOT proof of advancement.
+
+This distinction protects the story from accidentally escalating Leon's power merely because he solves mysteries effectively.
+
+### A7.17. Narrative Use of Misjudgment
+
+The misjudgment principle should be gradual:
+
+- **Early:** Leon is generally perceived as weak, inexperienced, or merely useful.
+- **Middle:** Some characters notice that he repeatedly catches things others overlook.
+- **Later:** A subset of characters may begin to suspect that Leon is deliberately concealing greater ability.
+- **Reality:** Leon may still genuinely be operating close to his actual limits.
+
+The resulting tension comes from the gap between what others think Leon can do and what Leon can actually do. This gap can become a recurring source of tension, misunderstanding, and danger.
+
+### A7.18. Knowledge Boundary
+
+Do NOT make Leon himself fully aware of this narrative misjudgment. Leon should not routinely think "Everyone thinks I am stronger than I am." Instead, allow him to notice individual reactions naturally when canon supports them.
+
+Do not make the narrator explicitly explain the entire misjudgment mechanism to the reader. It should emerge through behavior, dialogue, consequences, and differing character assessments.
+
+### A7.19. Constable Perception
+
+Constables may assess Leon based on observable performance. Their assessments can be imperfect. For example, one Constable may conclude "He's careful." Another: "He's unusually perceptive." Another may eventually wonder: "He's hiding something."
+
+These should remain character-level interpretations, not objective World Bible confirmation that Leon possesses greater power.
+
+Do NOT establish that the Constable organization collectively knows Leon's true potential. Do NOT make the organization omniscient.
+
+### A7.20. Future Power Development
+
+Future Leon development must preserve uncertainty. If Leon becomes genuinely stronger later:
+- the increase must be earned,
+- it must have a canon-supported cause,
+- it must not retroactively make all earlier misjudgments correct,
+- and it must not invalidate his earlier weakness.
+
+Some people should be wrong about Leon. Some should be partly right. Some should understand him better than others. This creates layered character perception without requiring a hidden-OP reveal.
+
+---
+
+## A7.21. Multiple Class Profiles
+
+Two people with the same Class may be radically different.
+
+Examples are conceptual only:
+- Knight + exceptional intelligence
+- Scholar + strong physical ability
+- Hunter + exceptional intelligence
+- Seer + poor interpretation
+- Augur + strong analytical ability
+
+Do NOT hard-code these examples as actual canon characters.
+
+### A7.21. Integration with Constable Examination
+
+The Class taxonomy is compatible with the approved Constable examination framework (§A8).
+
+The examination may include candidates with different Classes. Multiple candidates pass.
+
+The examination does NOT simply test which candidate has the strongest Class or highest Tier.
+
+---
+
+## A8. CONSTABLE EXAMINATION & TEAM DEVELOPMENT
+
+**Status:** APPROVED DEVELOPMENT · built on CONFIRMED manuscript evidence and Phase A team architecture
+**Manuscript impact:** NONE. Chapters 1–141 untouched. No chapter inserted, renumbered, or altered.
+
+### A8.1. Core Principle
+
+Constable recruitment is not a written test and not a single combat trial. It is a sequence of practical situations designed to reveal how candidates think and behave when information is incomplete.
+
+The Constable is not looking only for people who can win fights. It is looking for people who can determine what can actually be established when everyone else has already decided what happened.
+
+The examination tests:
+- observation
+- deduction
+- reasoning
+- memory
+- pattern recognition
+- knowledge
+- social reading
+- physical ability
+- endurance
+- field judgment
+- behavior under uncertainty
+- ability to distinguish observation from assumption
+- ability to work with other candidates
+
+### A8.2. Leon's Examination Profile
+
+Leon enters the examination with an uneven ability profile.
+
+**Strengths:**
+- exceptional observation
+- exceptional deduction
+- exceptional reasoning
+- strong pattern recognition
+- strong memory
+- strong documentation
+- excellent ability to separate observation, testimony, and conclusion
+
+**Weaknesses:**
+- physical strength: below average / weak
+- endurance: below average / mediocre
+- combat: weak to ordinary
+- speed/reflex: ordinary
+- leadership: developing
+- social reading: competent but not exceptional
+
+**Hard constraint:** Leon must NOT become physically exceptional merely because he passes the examination. His intellectual superiority must coexist with genuine physical limitations. His physical ability must improve gradually over the story.
+
+### A8.3. Examination Components
+
+The exact final number and order of trials remain flexible. The following are approved examples/concepts:
+
+**1. THE ROOM**
+Candidate enters a room containing multiple ordinary objects. They have limited time to observe. After leaving, they are asked what they saw. The important distinction is "What did you see?" rather than "What happened?" Leon should demonstrate that he understands the difference between observation and inference. He may identify that a door was open, a glass contained water, a chair was displaced, or a mark was present. He should NOT automatically conclude who entered or what happened.
+
+**2. THE LIE**
+Several witnesses provide accounts of the same event. Candidates must distinguish what each witness actually establishes, what is merely claimed, and what cannot yet be known. Leon should NOT necessarily identify the liar. A potentially important Leon principle: "I don't know." If the evidence does not establish the answer, Leon should refuse to manufacture certainty.
+
+**3. THE MISSING OBJECT**
+A supposedly missing object is placed within a controlled investigation. Candidates search for it. Leon notices a contradiction in the premise or evidence. The interesting solution may be that the object was not taken from the room at all. The point is not supernatural cleverness. The point is that Leon questions the premise rather than searching harder.
+
+**4. PHYSICAL TRIAL**
+Include genuine physical testing: running, climbing, carrying, pursuit, basic combat or controlled confrontation, endurance. Leon should perform only average or below average. Other candidates should clearly outperform him physically. This prevents the examination from becoming an intellectual-only test.
+
+**5. THE CHASE**
+A candidate/target moves through an environment. Other candidates may pursue directly. Leon may instead analyze routes, terrain, doors, crowds, physical traces, likely destination, and constraints on movement. He can demonstrate superior prediction without becoming faster or stronger.
+
+**6. THE IMPOSSIBLE CASE**
+A final or advanced investigation appears to have an obvious answer. Leon identifies that the evidence does not actually establish that conclusion. The intended lesson: the strongest investigator is not necessarily the person who produces the fastest answer. Sometimes the correct conclusion is that the available evidence is insufficient.
+
+### A8.4. Team Formation
+
+The examination should involve multiple successful candidates. Leon should NOT be the only person who passes.
+
+Recommended initial batch: approximately 9–12 candidates.
+Approximately 3–4 need to become immediately important recurring characters.
+The others may remain background/supporting Constable personnel until needed.
+
+### A8.5. Team Structure
+
+The Constable may organize candidates into deployment teams. Team names are functional/deployment classifications, NOT power rankings.
+
+**Recommended concepts:**
+
+| Team | Functional orientation | Purpose |
+|------|------------------------|---------|
+| **Team Alpha** | Observation, analysis, reconstruction | Field observation, documentation, pattern recognition, reporting |
+| **Team Beta** | Field, physical, rapid response | Pursuit, combat, protection, dangerous environments |
+| **Team Gamma** | Investigation, support, analysis | Research, records, medicine, documentary investigation |
+
+Team composition should be based on complementary capabilities, not a simple hierarchy.
+
+### A8.6. Recommended Alpha Composition (conceptual)
+
+**1. LEON — Observer / Analyst**
+Primary strengths: observation, deduction, pattern recognition, reconstruction, documentation.
+Weaknesses: physical confrontation, endurance, field command.
+Leon should NOT automatically be team leader.
+
+**2. FIELD LEADER — Combat / Decision**
+Strengths: physical ability, combat, pursuit, rapid field decisions, protection.
+Weakness: may jump to conclusions too quickly.
+Creates natural friction with Leon's evidence-first approach.
+
+**3. SPECIALIST — Technical / Knowledge**
+Possible strengths: medicine, chemistry, engineering, weapons, historical/documentary knowledge.
+Purpose: prevent Leon from becoming an all-knowing encyclopedia.
+
+**4. SOCIAL / INFILTRATION SPECIALIST**
+Strengths: conversation, information gathering, social adaptation, reading motives, infiltration, controlled deception where appropriate.
+Complements Leon because Leon may determine what happened while another member understands what people want others to believe happened.
+
+### A8.7. Team Dynamic — Leon's Central Weakness
+
+Leon should be intellectually excellent without being universally superior.
+
+A useful early weakness: Leon may solve the intellectual problem but fail to manage the human problem. For example, during a team exercise, Leon may identify the correct solution but become so focused on the puzzle that another team member is placed at unnecessary risk. Another candidate has to correct the situation.
+
+This establishes: Leon understands situations extremely well. Leon does NOT yet understand how to lead people. That is a development path, not a flaw that should be immediately removed.
+
+### A8.8. Intellectual Rival (conceptual)
+
+A future candidate may function as an intellectual counterpoint to Leon.
+
+Conceptual contrast:
+- Leon: observation, evidence, reconstruction, "What happened?"
+- Rival: psychology, manipulation, motives, "What does the other person want me to believe happened?"
+
+The rival does not need to be objectively smarter than Leon. The purpose is to show that the Constable values multiple forms of intelligence.
+
+### A8.9. Constable Recruitment Philosophy
+
+The organization should NOT be written as seeking a "perfect candidate." It needs combinations of capabilities.
+
+- someone may be physically exceptional but poor at deduction
+- someone may be intelligent but physically weak
+- someone may be socially gifted
+- someone may be technically knowledgeable
+- someone may remain calm under uncertainty
+- someone may be useful in pursuit or protection
+
+The examination identifies strengths and weaknesses. Team formation then combines them.
+
+### A8.10. Leon's Long-Term Progression
+
+Record this as a development trajectory, not a rigid chapter schedule:
+
+**Phase 1: Mind > Body**
+Leon is weak physically; exceptional deduction/observation.
+
+**Phase 2: Mind + Technique**
+The Constable teaches: combat fundamentals, movement, weapons, surveillance, pursuit, fieldcraft.
+
+**Phase 3: Mind + Body**
+Leon gradually becomes physically capable enough to survive difficult field situations.
+
+**Phase 4: Mind + Ability**
+His supernatural/extraordinary ability develops gradually according to existing canon.
+
+**Phase 5: Mind + Body + Ability**
+Leon eventually becomes genuinely dangerous because multiple capabilities converge.
+
+**Hard constraint:** Do NOT invent or reveal specific supernatural abilities here unless they already exist in canon.
+
+### A8.11. Integration Rules
+
+This concept must integrate with the existing Constable canon:
+- `../17_ORGANIZATIONS/05_GOVERNMENT.md` (Phase B) — institutional architecture
+- `../08_UNDERGROUND/09_ORGANIZATIONAL_AFFILIATION_LEDGER.md` — Constable ≠ Order
+- `../09_MYSTERY/02_CHARACTER_KNOWLEDGE.md` — Leon's knowledge boundaries
+- `characters/15_LEON_ASHCROFT.md` — Leon's profile
+- `characters/25_THOMAS_VALE.md` — Vale's legacy
+
+If existing canon already defines recruitment procedure, ranks, team structure, examinations, or Observer terminology, preserve existing canon and mark this material as proposed development only where it conflicts.
+
+**Do NOT silently overwrite existing canon.**
+
+### A8.12. Over-Canonization Guardrails
+
+Do NOT permanently establish:
+- exact number of teams
+- exact number of candidates
+- exact exam order
+- exact team rosters
+- exact team leaders
+- exact rival identity
+- exact specialist identities
+- exact examination location
+- exact scoring system
+- exact ranking system
+
+unless those things are already canon or separately approved. The concept must remain flexible enough to implement later.
+
+---
+
+**Status:** PROPOSED (framework and all personnel)
+**Last Updated:** 2026-09-05

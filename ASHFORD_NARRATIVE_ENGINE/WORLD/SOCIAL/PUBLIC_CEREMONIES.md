@@ -1,17 +1,17 @@
-# Public Ceremonies — Ashford, 1816
+# Public Ceremonies — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Public ceremonies in Ashford serve to reinforce community identity, display power, and commemorate important events. They are opportunities for mass gatherings, political theater, and information exchange.
+Public ceremonies in Alderwick serve to reinforce community identity, display power, and commemorate important events. They are opportunities for mass gatherings, political theater, and information exchange.
 
 ---
 
 ## Civic Ceremonies
 
 ### Mayoral Election
-- **Occurrence:** Annually (if Ashford has a mayor).
+- **Occurrence:** Annually (if Alderwick has a mayor).
 - **Process:** Electoral meeting; proclamation; procession; banquet.
 - **Public Spaces:** Town Hall, Market Square.
 - **Possible Plot:** An election dispute; a candidate with a secret; a bribe.

@@ -259,17 +259,19 @@ They do not see the conditions Leon constructed to achieve it.
 
 ## 9. Leon's ARC Analysis Method
 
-Leon's progression:
+Leon's ARC analysis evolves as he gains experience:
 
 ```
-Stage 1: "How do I use this ARC?"
-Stage 2: "How does this ARC work?"
-Stage 3: "Why does it work that way?"
-Stage 4: "What can this ARC NOT do?"
-Stage 5: "What happens if I force it to interact with another ARC?"
+"How do I use this ARC?"
+"How does this ARC work?"
+"Why does it work that way?"
+"What can this ARC NOT do?"
+"What happens if I force it to interact with another ARC?"
 ```
 
-At Stage 5, Leon begins to become dangerous.
+At this depth, Leon begins to become dangerous.
+
+[CANON DECISION REQUIRED: Whether to formalize the analysis depth as numbered stages or treat it as fluid intellectual development.]
 
 ### Analysis Questions
 

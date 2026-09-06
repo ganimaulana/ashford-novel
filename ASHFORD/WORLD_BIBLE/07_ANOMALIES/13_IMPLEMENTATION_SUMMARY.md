@@ -78,7 +78,7 @@ Complete ARC (Anomalous Record Catalogue) system telah dibuat untuk Alderwick Wo
 
 1. **15_LEON_ASHCROFT.md** - Updated
    - Added "Underground Network Role" section
-   - Position: Pattern recognizer, investigator, observer
+   - Position: Investigator, observer
    - Knowledge development stages
    - Relationship dengan ARC system
    - Balance between public life dan underground activity
@@ -261,8 +261,7 @@ Alderwick/07_ANOMALIES/
 ### Leon Ashcroft
 
 **Role dalam underground:**
-- Pattern recognizer
-- Active investigator
+- Investigator
 - Observer dan documentarian
 
 **Development arc:**

@@ -1,4 +1,4 @@
-# Changelog — Ashford Narrative Engine
+# Changelog — Alderwick Narrative Engine
 
 ## 2026-08-29 — Social & Cultural Life Architecture
 

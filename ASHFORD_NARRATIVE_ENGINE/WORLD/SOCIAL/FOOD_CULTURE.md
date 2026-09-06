@@ -1,10 +1,10 @@
-# Food Culture — Ashford, 1816
+# Food Culture — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Food in 1816 Ashford is determined by class, season, and availability. The diet ranges from plain and basic for the working class to elaborate and varied for the elite. Food is a marker of social status and a central part of hospitality and celebration.
+Food in 1816 Alderwick is determined by class, season, and availability. The diet ranges from plain and basic for the working class to elaborate and varied for the elite. Food is a marker of social status and a central part of hospitality and celebration.
 
 ---
 

@@ -1,10 +1,10 @@
-# Taverns, Inns, and Public Houses — Ashford, 1816
+# Taverns, Inns, and Public Houses — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Taverns, inns, and public houses are the social hubs of Ashford, serving as places for drinking, eating, accommodation, entertainment, and information exchange. They are class-stratified, with each establishment attracting a different clientele.
+Taverns, inns, and public houses are the social hubs of Alderwick, serving as places for drinking, eating, accommodation, entertainment, and information exchange. They are class-stratified, with each establishment attracting a different clientele.
 
 ---
 

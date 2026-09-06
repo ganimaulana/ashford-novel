@@ -132,9 +132,9 @@ Some traces:
 
 Leon''s development is **multidimensional**, progressing at different rates across different capabilities.
 
-See `LEON_CHARACTER_TRAJECTORY.md` for detailed 8-stage progression model.
+Leon''s current status is tracked as **historical snapshots**, not permanent facts. See Story State System.
 
-**Critical Note:** Leon''s current status is tracked as **historical snapshots**, not permanent facts. See Story State System.
+[CANON DECISION REQUIRED: Formal progression stages/hierarchy for Leon (previously documented in the deleted LEON_CHARACTER_TRAJECTORY.md).]
 
 ---
 
@@ -284,7 +284,6 @@ This Master Story Architecture integrates with all existing Alderwick Narrative 
 - All character changes require chapter/cause/evidence tracking
 
 **See Also:**
-- `LEON_CHARACTER_TRAJECTORY.md` — 8-stage progression with snapshot system
 - `AURELIUS_MYSTERY_ARCHITECTURE.md` — Convergence system, expanded relic outcomes
 - `CASE_PROGRESSION_FRAMEWORK.md` — Historical pressure → case mechanism
 - `CORE_ORGANIZATION_FRAMEWORK.md` — 13 member development system

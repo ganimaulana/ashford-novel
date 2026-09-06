@@ -99,7 +99,7 @@ LATE ARC (Convergence)
 - **Arc 003 (Silence in Oak Street):** Further deepening — new location, new character layer, mystery convergence
 - The central mystery (Aurelius/Ashcroft) runs through ALL arcs
 - Each arc should introduce one new mystery thread that connects to the central mystery
-- Leon's progression from passive observer to active investigator spans all arcs
+- Leon's growing initiative and investigative capability spans all arcs
 - Helen's arc (gatekeeper -> ally/antagonist) intersects with all three arcs
 
 ## J. CROSS-SYSTEM DEPENDENCIES

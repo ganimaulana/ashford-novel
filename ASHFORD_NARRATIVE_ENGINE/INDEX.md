@@ -1,4 +1,4 @@
-# Ashford Narrative Engine — Index
+# Alderwick Narrative Engine — Index
 
 **Version:** 2.0
 **Last Updated:** 2026-08-29

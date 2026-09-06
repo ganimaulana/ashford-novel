@@ -275,34 +275,36 @@ STATUS: [Discovered / Hidden / Destroyed / In Use]
 - Organization''s relationship to Aurelius
 - What''s in Bellweather basement
 
-### Revelation Stages (Future Planning - NOT LOCKED)
+### Mystery Revelation Beats (Future Planning - NOT LOCKED)
 
-#### Stage 1: Anomaly Recognition (CURRENT)
+These describe **information revelation** milestones for the Aurelius mystery — not character progression stages for Leon.
+
+#### Beat 1: Anomaly Recognition (CURRENT)
 - Leon notices inconsistencies
 - Aurelius''s name appears and disappears
 - Questions forming but no answers
 
-#### Stage 2: Pattern Emergence (Future)
+#### Beat 2: Pattern Emergence (Future)
 - Multiple cases reveal recurring elements
 - Leon begins hypothesis formation
 - Still many unknowns
 
-#### Stage 3: Historical Reconstruction (Future)
+#### Beat 3: Historical Reconstruction (Future)
 - Documents reveal Aurelius''s activities
 - Timeline of life emerges
 - Purpose remains unclear
 
-#### Stage 4: Purpose Understanding (Future)
+#### Beat 4: Purpose Understanding (Future)
 - Aurelius''s goals become clear
 - Organization''s role crystallizes
 - Leon understands why he was summoned
 
-#### Stage 5: Personal Awakening (Future)
+#### Beat 5: Personal Connection Revealed (Future)
 - Leon''s connection fully revealed
 - Capabilities manifest
 - Choice about legacy
 
-**Note:** These stages are guidelines, not rigid structure. Story may deviate based on narrative needs.
+**Note:** These beats are guidelines for **mystery pacing**, not rigid structure. Story may deviate based on narrative needs. They are independent from any future Leon character-progression framework.
 
 ---
 
@@ -389,6 +391,5 @@ These remain open for future creative decisions:
 
 **See Also:**
 - `MASTER_STORY_ARCHITECTURE.md` — Overall narrative spine with historical pressure layer
-- `LEON_CHARACTER_TRAJECTORY.md` — How mystery affects character growth
 - `CASE_PROGRESSION_FRAMEWORK.md` — How cases plant convergence seeds
 - `STORY_STATE_SYSTEM.md` — Living state tracker for mystery progression

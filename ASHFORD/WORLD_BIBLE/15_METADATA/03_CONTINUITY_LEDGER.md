@@ -12,14 +12,14 @@
 
 | Chapter | Title | In-Story Date | Status | Notes |
 |---------|-------|---------------|--------|-------|
-| 001 | A Town with a Story to Tell | 12–13 Nov 1816 | OFFICIAL / LOCKED | Release-era text locked. |
-| 002 | A Town I Did Not Know | 14 Nov 1816 | OFFICIAL / LOCKED | — |
-| 003 | The Man Who Talks Too Much | 15 Nov 1816 | OFFICIAL / LOCKED | Contains locked railway-era phrasing. |
-| 004 | The People of Alderwick | 16 Nov 1816 | OFFICIAL / LOCKED | — |
-| 005 | The House That Was Not There | 17 Nov 1816 | OFFICIAL / LOCKED | — |
-| 006 | A Wrong Name | 18 Nov 1816 | OFFICIAL / LOCKED | — |
-| 007 | An Incomplete Address | 19 Nov 1816 | OFFICIAL / LOCKED | — |
-| 008 | Bellweather House | 20 Nov 1816 | OFFICIAL / LOCKED | — |
+| 001 | A Town with a Story to Tell | 12–13 Nov 1816 | OFFICIAL / ACTIVE CANON | Release-era text locked. |
+| 002 | A Town I Did Not Know | 14 Nov 1816 | OFFICIAL / ACTIVE CANON | — |
+| 003 | The Man Who Talks Too Much | 15 Nov 1816 | OFFICIAL / ACTIVE CANON | Contains locked railway-era phrasing. |
+| 004 | The People of Alderwick | 16 Nov 1816 | OFFICIAL / ACTIVE CANON | — |
+| 005 | The House That Was Not There | 17 Nov 1816 | OFFICIAL / ACTIVE CANON | — |
+| 006 | A Wrong Name | 18 Nov 1816 | OFFICIAL / ACTIVE CANON | — |
+| 007 | An Incomplete Address | 19 Nov 1816 | OFFICIAL / ACTIVE CANON | — |
+| 008 | Bellweather House | 20 Nov 1816 | OFFICIAL / ACTIVE CANON | — |
 | 009 | The House That Was Not Empty | 21 Nov 1816 | OFFICIAL (living canon) | Generated 2026-08-29. |
 | 010 | A Name on a Sheet | 22 Nov 1816 | OFFICIAL (living canon) | Generated 2026-08-29. |
 | 011 | A Round of the Watch | 23 Nov 1816 | OFFICIAL (living canon) | Generated 2026-08-29. |
@@ -66,7 +66,7 @@
 
 **Renumbering note (2026-09-03):** Four chapters inserted into Vale sequence (41, 45, 48, 50). Total chapters: 137 → 141. Mapping: old 41–43 → 42–44; old 44–45 → 46–47; old 46 → 49; old 47–137 → 51–141. No insertion applied after Chapter 51.
 
-**Status definitions:** OFFICIAL / LOCKED (001–008) · OFFICIAL (living canon) (009–141) · UNDER REVISION · ARCHIVE.
+**Status definitions:** OFFICIAL / ACTIVE CANON (001–008) · OFFICIAL (living canon) (009–141) · UNDER REVISION · ARCHIVE.
 
 **Source:** `04_CHAPTER_STATUS.md`
 
@@ -276,6 +276,47 @@ Symbols (plate/key/bell/book); "13" (address, plate scars); clock/bell; key noti
 **Do not resolve silently.** All require explicit author decision.
 
 **Source:** `06_CONTINUITY_LEDGER.md`, `12_POST_VALE_AUDIT.md`, `16_WORLD_STATE.md`
+
+---
+
+## 10. Examination Arc Roadmap (CH80–99)
+
+**Status:** APPROVED PLANNED / LIVING-CANON STRUCTURAL ENTRY
+**Date:** 2026-09-05
+
+**Context:**
+- CH70–75: Leon as outsider + individual examination/screening.
+- CH76 onward: Examination becomes a cohort/group examination; Leon one participant among many.
+- CH80–99: Approved planned progression (titles and broad functions approved; detailed chapter events to be finalized chapter-by-chapter).
+
+**Chapter titles and functions:**
+- CH80 — THE CROWD
+- CH81 — THE NAMES
+- CH82 — THE NEXT TEST
+- CH83 — THE DIVISION
+- CH84 — THE OTHER SIDE
+- CH85 — THE BARGAIN
+- CH86 — THE HUNTER
+- CH87 — THE PRICE
+- CH88 — THE SEPARATION
+- CH89 — THE STRANGER
+- CH90 — THE RULE
+- CH91 — THE CHASE
+- CH92 — THE CHOICE
+- CH93 — THE FALL
+- CH94 — THE ALLIANCE
+- CH95 — THE FALSE FRIEND
+- CH96 — THE SECOND FIELD
+- CH97 — THE HUNT
+- CH98 — THE LAST GROUP
+- CH99 — THE SURVIVORS
+
+**Leon's progression:**
+- CH80: nobody → CH84: noticeable → CH88: remembered → CH92: decisions around him → CH96: reputation → CH99: survivor
+
+**Note:** Dates for individual chapters have not been canonically fixed. Detailed chapter events remain to be finalized individually and will be added to the continuity ledger as they are written.
+
+**Related:** `05_STORY_STRUCTURE.md` § Examination Arc
 
 ---
 

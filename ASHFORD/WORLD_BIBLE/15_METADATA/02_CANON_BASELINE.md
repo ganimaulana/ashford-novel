@@ -8,12 +8,12 @@
 
 ## 1. Canon Status
 
-Arc 1 (Chapters 1–141) is **frozen** as of 2026-09-04. No changes may be made without explicit author approval and recorded justification.
+Arc 1 (Chapters 1–141) is active canon as of 2026-09-04. It remains the current canonical reference, but it is not permanently frozen. Revisions may be made when explicitly directed by the author.
 
-**Key freeze boundaries:**
-- Characters, terminology, supernatural rules, mystery ledger, locations, timeline, faction identities are fixed.
-- All unresolved mysteries remain open; no answers may be added or changed.
-- Arc 2 planning must not retroactively alter Arc 1.
+**Key canon boundaries:**
+- Characters, terminology, supernatural rules, mystery ledger, locations, timeline, faction identities are established canon.
+- All unresolved mysteries remain open; no answers may be added or changed without explicit author direction.
+- Arc 2 planning must not retroactively alter Arc 1 without explicit author direction.
 
 **Source:** `01_ARC1_CANON_FREEZE.md`
 
@@ -25,7 +25,7 @@ Arc 1 (Chapters 1–141) is **frozen** as of 2026-09-04. No changes may be made 
 |----------|--------|------|--------|
 | Keeper remains Arc 1 terminology; Holder introduced in Arc 2+ | RESOLVED | 2026-09-04 | Author decision (Contradiction #1) |
 | Observer is official replacement for Watcher; Seeker not used | RESOLVED | 2026-09-04 | Author decision (Contradictions #2, #3) |
-| Arc 1 canon freeze applied | RESOLVED | 2026-09-04 | Author decision |
+| Arc 1 canon established as active reference | RESOLVED | 2026-09-04 | Author decision |
 | Vale background: veteran → constable → intelligence → demotion → Alderwick | CONFIRMED | 2026-09-03 | Author direction |
 | Gear does not become warm; warmth belongs to Token/Object system | CONFIRMED | 2026-09-03 | Author direction |
 | Eleanor Shaw is NOT a member of the Order of Severence | CONFIRMED | 2026-09-03 | Author direction (aligned to Ch61) |
@@ -193,7 +193,7 @@ ARTIFACT
 
 | Date | Event | Impact |
 |------|-------|--------|
-| 2026-09-04 | Arc 1 canon freeze applied | Chapters 1–141 locked. |
+| 2026-09-04 | Arc 1 canon established as active reference | Chapters 1–141 designated as active canon. |
 | 2026-09-03 | Gear-warmth mechanic removed; Gear does not warm | 12 chapters modified; Token warmth unchanged. |
 | 2026-09-03 | Vale deepening arc (4 new chapters) | Chapters renumbered 137→141; eight-month duration established. |
 | 2026-09-03 | Vale background: veteran → intelligence → demotion → Alderwick | Established CONFIRMED; exact rank/incident/Order infiltration extent UNKNOWN. |

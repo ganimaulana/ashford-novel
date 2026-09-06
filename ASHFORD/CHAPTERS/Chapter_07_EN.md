@@ -4,15 +4,9 @@ I stared at the envelope from the day before for a long while.
 
 On the front: Leon Ashcroft.
 
-On the back: handwriting that mentioned Aurelius Ashcroft.
+I turned it over.
 
-And at home, there was the letter from Pembroke & Clarke that mentioned the same name.
-
-All three. One name, repeating.
-
-I turned the envelope over.
-
-There was no return address.
+No return address.
 
 No stamp.
 
@@ -20,11 +14,15 @@ No post office mark.
 
 Only a plain white envelope.
 
+And at home, there was the paper I had found — the sheet with the older handwriting, the two faint words on the back. Ashcroft. Bellweather.
+
+Two things. One name, repeating.
+
 I looked up.
 
 Margaret was still standing before me.
 
-"A letter from a solicitor?" she asked.
+"You've been carrying that for two days," she said.
 
 I looked at her.
 
@@ -32,11 +30,11 @@ I looked at her.
 
 Margaret raised an eyebrow.
 
-"Ashcroft. London. Solicitor."
+"Because you haven't once put it down. Not even to take a sip of your coffee."
 
 She pointed at the envelope in my hand.
 
-"You must be reading far too much about that name."
+"You must be reading far too much into a name."
 
 I nodded.
 
@@ -92,7 +90,7 @@ On another someone was selling a house.
 
 On the next there was a notice for a community event.
 
-While here, at this table, I was trying to understand why a single name could appear in three different places — a letter from a solicitor, writing on a paper that had been found, and an envelope sent to Margaret's.
+While here, at this table, I was trying to understand why a single name could appear in more than one place — a sheet of paper found in my own house, and an envelope sent to me with no explanation.
 
 Alderwick did not stop simply because I had a question.
 
@@ -126,7 +124,7 @@ He looked at me.
 
 Margaret said from behind the counter:
 
-"A letter from London. The name Ashcroft."
+"Aurelius Ashcroft."
 
 Daniel turned.
 
@@ -136,15 +134,13 @@ Daniel turned.
 
 Daniel raised an eyebrow.
 
-"Margaret says you found the name in three places."
+"Margaret says you've been carrying that name around for days."
 
 "I said two."
 
 Margaret, from behind the counter:
 
-"The Pembroke & Clarke letter counts too."
-
-"I still count that as one whole."
+"It counts as one whole."
 
 Daniel laughed.
 
@@ -168,11 +164,7 @@ Daniel looked at me.
 
 "All right. Tell me."
 
-"I received a letter from a solicitor in London three weeks ago."
-
-"A will."
-
-"Yes. In the name of Aurelius Ashcroft."
+"I found a sheet of paper in my house. Older handwriting on the back. Two words. Ashcroft. Bellweather."
 
 Daniel fell silent.
 
@@ -180,31 +172,17 @@ Not for long.
 
 But long enough to make Margaret pause for a moment.
 
-"Aurelius Ashcroft?" Daniel repeated.
+"Ashcroft? Bellweather?" Daniel repeated. "Have you heard of either?"
 
-"Have you heard of him?"
-
-"What? I'm writing a thesis on the property families of Alderwick. And that name — Aurelius Ashcroft — is not an ordinary name."
-
-"What did he do?"
-
-Daniel set down his cup.
-
-"He bought land. A great deal of land. On Bellweather Lane. Around High Street. Even parts of the old industrial district."
-
-"When?"
-
-"Two or three generations ago. But not from the official records."
-
-"Why not from the official records?"
-
-"Because his name was never in the property register."
+"What? I'm writing a thesis on the older records of Alderwick. And that combination — a name and a street — is not an ordinary thing."
 
 "What do you mean?"
 
-"He bought properties. But the name recorded was always someone else's — a business partner, a trustee, or, more suspiciously, the name of a family line that had already died out."
+Daniel set down his cup.
 
-"Like Ashcroft."
+"The older records don't always agree with the newer ones. Places that appear in one and not the other. Names that were used once and then dropped. If you're looking for the record of a house on a street, sometimes the house is there in one source and absent in another. Sometimes the name attached to it changes."
+
+"Like Bellweather Lane."
 
 Daniel looked at me.
 
@@ -212,7 +190,7 @@ Daniel looked at me.
 
 Margaret said from behind the counter:
 
-"So now your name is Ashcroft. And you arrived in Alderwick. And the name Aurelius Ashcroft is everywhere."
+"So now your name is Ashcroft. And you arrived in Alderwick. And the name Aurelius Ashcroft has followed you here."
 
 "True."
 
@@ -220,7 +198,7 @@ Daniel pulled the newspaper from his table.
 
 He laid it in front of me.
 
-"If you're curious, tomorrow morning I'll bring something from the Academy. Old property archives. And we can see what we can find about Aurelius Ashcroft."
+"If you're curious, tomorrow morning I'll bring something from the Academy. Old records. And we can see what the older sources say about that street."
 
 "Would you?"
 
@@ -279,28 +257,6 @@ Perhaps the house had once been part of number 13.
 I made a note of that possibility.
 
 Then I went home.
-
-I stood a little longer on the pavement.
-
-From here Bellweather Lane looked like an ordinary residential street.
-
-Its houses were not all the same.
-
-Some were a little larger, some had narrow front gardens, and some stood hard against the pavement.
-
-Some of the fences were made of wood.
-
-Others of iron.
-
-Some of the houses had been renovated, but still kept their old shape.
-
-House number 13, mine, was one of those.
-
-The empty house was different.
-
-Its building looked as though it belonged to an older generation.
-
-And perhaps that was why I had begun to wonder whether the numbering system of this street had ever changed.
 
 ---
 
@@ -448,7 +404,9 @@ The empty house.
 
 Aurelius Ashcroft.
 
-The letter from London.
+The paper found in my house.
+
+The envelope with no return address.
 
 The repeating name.
 
@@ -600,21 +558,23 @@ He looked at me.
 
 For a long while.
 
-"Really?"
+"The name is written there," he said finally. "Bellweather House. 1791. That is all the record says."
 
-I repeated:
+"Did he live in the house?"
 
-"Did Aurelius Ashcroft ever live in Bellweather House?"
+Arthur was quiet.
 
-Arthur nodded slowly.
+"The record doesn't say who lived there. It only says the house was there. Names on old records can mean many things. Ownership. Occupancy. Something else entirely."
 
-"Yes."
+I was silent.
 
-"And you..."
+"And I," I said, "am an Ashcroft."
 
 Arthur looked at me.
 
-"...are a direct descendant of the name."
+For a long while.
+
+"The name is the same," he said. "What that means is not something I can tell you from a book."
 
 ---
 
@@ -644,7 +604,7 @@ A town did not change only when new buildings were raised.
 
 It also changed when something disappeared.
 
-For the first time since receiving the letter from London, I felt that perhaps there was something I truly did not know.
+For the first time since I had found the paper in my house, I felt that perhaps there was something I truly did not know.
 
 Not because I had not been careful enough.
 
@@ -652,17 +612,33 @@ Not because there was too little information.
 
 But because the record of the house itself was incomplete.
 
-And that troubled me far more than a letter without a sender.
+And that troubled me far more than an envelope with no sender.
 
-That night I set the map down and looked at the list I had been keeping — the latch in the dark, the prints that vanished, the silhouette at the glass, the bolt drawn back by no hand I knew. Separate, each could be explained. Together they described someone who came to this house when it was dark and left before morning. That was not the supernatural. That was a person. And a person could be reasoned with, followed, or reported.
+---
 
-A day or two later I met Daniel at Margaret's. He looked at me the way he did when he thought I was hiding something. "You've been different," he said. "Distracted." I told him it was nothing he needed to hear. But the question had begun to press on me, so I asked him plainly: if a man found something at his own house that threatened him — something he could not explain even to a friend — where was the proper place to report it? Daniel did not press for the reason. "The constable," he said. "Calloway. His office is near the Market Square. He's the one who deals with what people would rather not mention." I thanked him and said no more.
+That evening I met Daniel at Margaret's.
+
+He looked at me the way he did when he thought I was hiding something.
+
+"You've been different," he said. "Distracted."
+
+I told him it was nothing he needed to hear.
+
+But the question had begun to press on me, so I asked him plainly: if a man found something at his own house that he could not explain — something he could not even be sure was meant for him — where was the proper place to begin?
+
+Daniel did not press for the reason.
+
+"The constable," he said. "Calloway. His office is near the Market Square. He's the one who deals with what people would rather not mention."
+
+I thanked him and said no more.
+
+---
 
 I walked home.
 
-In my jacket pocket, the letter and the envelope were still there.
+In my jacket pocket, the envelope was still there.
 
-This time I did not intend to throw them away.
+This time I did not intend to throw it away.
 
 Nor did I yet intend to open any possibility.
 
@@ -671,12 +647,3 @@ I would only gather the facts.
 One by one.
 
 Until something began to fit.
-
----
-
-## Continuity Notes — ARC Integration (dev — not part of narrative)
-
-Maps planted anomalies to the ARC anomaly-case system (`WORLD_BIBLE/07_ANOMALIES/ARC_INDEX.md`). Narrative prose is untouched (Phase 0 LOCKED).
-
-- **Arthur confirms Bellweather House recorded 1791, no number; Aurelius lived there; Leon is "a direct descendant of the name"** → `ARC-004 The House Beneath Bellweather`, `ARC-010 The Forgotten Name`, and `ARC-002 The Empty Portrait` (the boy in the portrait = the Ashcroft line).
-- **Arthur as Layer 1+2 bridge** → supports ARC investigation hand-off (per `1000_CHAPTER_MASTER_OUTLINE.md`).

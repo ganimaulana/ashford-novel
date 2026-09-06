@@ -1,802 +1,749 @@
-﻿# Chapter 2 — A Town I Did Not Know
+﻿CHAPTER 2 — A TOWN I DID NOT KNOW
 
-I woke before the morning bell sounded.
+The next morning in the house at the end of Bellweather Lane began with the town waking outside the window.
 
-The room was still dark when I drew the curtain back a little, and grey morning light fell across the floor through the gap in the window. Outside, the back garden looked damp with dew. Someone in the neighbouring house had opened a window and hung out linen; in the distance, a late bird cut through the cold air.
+I lay in the bed I had not yet made my own and listened to it.
 
-For a few moments I simply stood there, as though waiting for my body to remember where it was.
+A cart passed somewhere below.
 
-Then I remembered. Alderwick. The new house. The new town. And the work that was to begin in a few days' time.
+The bell at St. Bartholomew's remained silent.
 
-I bathed in water that was still warm, dressed, and went down to the kitchen. The pantry announced its reality to me: two eggs, a bottle of water, a little butter, and something in the corner of a shelf that should no longer be called cheese in front of other people. I closed its door gently.
+Someone called a name I did not know, and someone else answered.
 
-I needed breakfast, and I knew exactly where to find it.
+The sounds came one after another, familiar to the people who had lived here long enough not to hear them anymore.
 
----
+I listened because I was new.
 
-I went out around eight o'clock, carrying my purse, a notebook, and a jacket. The house still felt like a place I had only just begun to know — no proper writing desk yet, no stored provisions. All of that could be bought later. For today I had two errands: find a writing desk for my room, and buy a map of the parish boundaries to make sense of the inheritance papers. The rest of the town I could learn by foot, but those two things needed doing before I could settle.
+There was something useful about being new to a place.
 
-The morning made Bellweather Lane look like a different street from the night before. Old houses stood side by side with newer ones; some still kept their low iron fences and wooden doors with glass set into the upper panels, while others had replaced their windows with a newer style. A man was mending his cart in his yard. A woman opened the curtain of a ground-floor window. In one of the yards stood a wooden pram.
+You noticed what everyone else had learned to ignore.
 
-Nothing special. And that was exactly what made the place feel like a neighbourhood where people actually lived, not merely a location I occupied.
+I got up, washed, dressed, and went downstairs.
 
-At the end of the street stood a wooden notice board whose paint had gone dull, its surface layered with old handbills and a faded announcement about the annual market, and an old horse-drawn cart parked neatly beside the pavement. A white delivery cart had stopped in front of one of the houses. I began to notice something simple but fundamental: Alderwick had not been built all at once. The town had grown little by little — new houses appearing among old ones, new windows replacing old, shops changing hands. Yet the buildings remained in the same places, refusing to truly change.
+Helen was not in the kitchen.
 
-I tried to recall the route from the house to the town centre. I took one wrong turn; no matter — that was part of the way one memorised a place. I retraced the street I had just walked, found the junction I had missed before, and the second time I did not get it wrong. A reasonably good spatial memory is always useful in a new place, and I admit I took some small satisfaction in it.
+There was bread on the table and a pot of soup warming on the stove. Beside it was a note in her careful hand.
 
-The farther I walked, the closer together the houses stood on either side, and the pavement grew busier. A few shops were beginning to open their doors. I passed a bakery whose scent drifted out into the street, and I saw its faded signboard:
+Gone to market. There is bread and soup. Eat.
 
-**MORRIS & SONS BAKERS**
+I ate the bread.
 
-Beside it stood a butcher's, an apothecary, a tailor, a flower shop, and a stationer's. Most of them did not look like part of any large concern; family names still hung over many of the boards. I stopped for a moment in front of a shop selling general goods — household wares, travel necessities, and small items crammed behind glass — accompanied by an old wall clock and a few leather-bound books fading on its lowest shelf.
+I drank the soup.
 
-The closer I came to the town centre, the clearer it was that Alderwick was not merely a collection of old houses. There was life here. People went to work, children set off for the academy, shops opened their doors, a stagecoach stopped at the coach stand, morning papers passed from hand to hand. The town had been running long before I arrived; I was only just beginning to see it.
+It was not what I had expected for breakfast, but it was good.
 
-I found a small tearoom whose signboard read *Margaret's*. Through the window I could see a warm room and rows of small tables; above the door, lettering preserved from a previous generation spelled out *TEAROOM & COFFEE SHOP*.
+I understood that this might be how things worked in the house.
 
-I went in. A little bell above the door gave a single note — *ting* — and for a fraction of a second my heart leapt before I realised it was only the door-bell.
+I would be fed.
 
-A woman stood behind the till. She was perhaps in her early forties, tall, with hair neatly arranged without looking contrived. A plain white blouse, a black skirt, and a pocket watch that looked more expensive than the rest. Everything matched without excess. She stood with the confidence of someone accustomed to being before many people, and her face was handsome in a way that was hard to call ordinary — yet there was something in her smile that made the guess that she had once been a model feel wide of the mark. The smile was too warm, too easy for a façade.
+I would not necessarily be asked whether I wanted to be.
 
-"Good morning."
+I wrote that down.
 
-"Good morning."
+Not the eating.
 
-"What would you like?"
+The understanding.
 
-"Tea. And breakfast."
+I went out after nine.
 
-"Which one?"
+The rain had stopped during the night, though the stones of Bellweather Lane were still dark with water.
 
-I looked at the menu written on the board. "I don't know."
+In daylight the lane looked less mysterious than it had the evening I arrived.
 
-She took the menu from my hand and studied it a moment. "If it's your first time here, take this one." She pointed at a single choice.
+That was probably a good thing.
+
+The houses stood close together, most of them built in the same pale brick and stone, though no two seemed entirely alike.
+
+One had a new window fitted into an old wall.
+
+Another had a roof patched with darker slate.
+
+A third had a painted sign beneath several layers of older paint.
+
+The town had changed without quite deciding what to do with what came before.
+
+Bellweather Lane widened gradually as it approached the centre.
+
+The first shops appeared around the edge of the market square.
+
+A baker was opening his shutters.
+
+A chandler was carrying candles into his shop.
+
+An ironmonger had put several pots outside, where they caught the pale morning light.
+
+People passed one another by name.
+
+Some stopped to speak.
+
+Others nodded and continued on.
+
+A woman carrying a basket looked at me as she passed.
+
+The look was not unfriendly.
+
+It was simply attentive.
+
+I had begun to notice that look.
+
+It was the third time since I had arrived that I had noticed something like it.
+
+At the stop that first evening, from the man in the dark coat who had spoken to me and then walked away without a horse.
+
+At the door of the house, from Helen, whose gaze had moved from my face to my trunk and back again, as if she were making sure of something.
+
+And now this woman.
+
+The difference was that the first two had left me with the impression that they were looking for something.
+
+The woman in the square was only deciding where I belonged.
+
+I could not have said what the first two had been looking for, and I did not try.
+
+It was enough to mark that a stranger in Alderwick was counted, settled, and remembered.
+
+I made a note of it.
+
+Then I went on.
+
+I found Margaret's tearoom because it was difficult not to.
+
+It stood on the street that led from the square toward High Street, between a cloth merchant and a narrow shop selling household goods.
+
+The window was fogged from within.
+
+Inside were six or seven tables, a counter, shelves of mismatched cups, and the smell of tea and freshly baked bread.
+
+The woman behind the counter looked up as I entered.
+
+She was thirty, sturdy, with brown hair pulled back from her face and an expression that suggested she had been observing people for longer than her years.
+
+She looked at me once.
+
+Then again.
+
+"You'll be the one at the end of the lane."
+
+"I have been there two nights."
+
+"That is long enough for a town like this."
+
+She poured tea.
+
+I had not asked for it.
+
+"Sit."
+
+I sat.
+
+She put bread beside the cup.
+
+"You look tired."
+
+"I have traveled."
+
+"I noticed."
+
+She folded her hands over the counter.
+
+"You are Leon Ashcroft."
+
+"I am."
+
+"I am Margaret."
+
+"I thought I might have to introduce myself."
+
+"You would have been disappointed."
+
+There was something almost amused in her expression.
+
+I drank the tea.
+
+It was very good.
+
+"You have come for the house," she said.
+
+"The house came to me."
+
+She raised an eyebrow.
+
+"I have come for whatever else came with it."
+
+That produced a brief smile.
+
+"That is better."
+
+"Better than what?"
+
+"Most people say they have come for the quiet."
+
+"Is it quiet?"
+
+"Usually."
+
+She paused.
+
+"Whether it stays quiet is another matter."
+
+I looked at her.
+
+She had already turned to another customer.
+
+When she returned, she said:
+
+"You will want to know the town."
+
+"I would."
+
+"Then ask me what you want to know. I will tell you what I know."
+
+"And what is true?"
+
+She gave me a sideways look.
+
+"Those are not always the same thing."
+
+I wrote that down.
+
+She noticed.
+
+"You really do write everything down."
+
+"Not everything."
+
+"Only the things you think will matter?"
+
+"Sometimes I write things down because I don't know whether they will matter."
+
+"That is probably wiser."
+
+She took my cup and filled it again.
+
+"You should visit the library."
 
 "Why?"
 
-"Because if you don't like it, you can still blame me."
+"Because you have already looked at the town as if you are trying to place it in a book."
 
-I smiled. "That sounds fair."
+"I have not."
 
-"A wise choice." She turned and went.
+"You have."
 
-I chose a table near the window. The tearoom was not large — six or seven tables, some of them already occupied. An old man read a newspaper with spectacles pushed high on his nose. Two women talked at a corner table. At the far end, a young man sat alone writing something, now and then crossing out and writing again.
+She said it without accusation.
 
-I studied the room for a moment. Not because anything was suspicious; it was habit. A new place always gave me a great deal of information: the position of the tables, the entrance, the windows, where the till stood, the way to the privy, the shelves of tea. A useful habit when one is often moving from place to place.
+"The library has the old records. Town histories. Parish registers. Rate books."
 
-I also began to notice the way people here knew one another. The old man reading the paper greeted Margaret — that was the name on the board — without lifting his head. The two women at the corner table were clearly old acquaintances. A new customer came in, and Margaret at once named his order before the man could open his mouth. No one discussed Alderwick as a small town; there was no need. From the way they exchanged news, I began to feel something visible on no map — a community. In a large city a man might live for years without knowing the person in the next house. Here, it seemed, almost no one was truly a stranger.
+"Rate books?"
 
-I opened the newspaper I had bought at the kiosk.
+"If you want to know what people say about themselves, read the histories. If you want to know what the parish remembers, read the registers."
 
-A few minutes later someone sat down at the next table. I barely noticed until his book was slammed down on the tabletop. I looked up.
+She put the teapot down.
 
-A young man — perhaps my age, or a little younger. Messy hair. A shirt that looked as if it had been ironed in haste a few too many times. He read a few pages, scratched his head, erased something from his notes, then read again.
+"If you want to know what people were willing to admit they owed, read the rates."
 
-I went back to my paper. A few minutes later he let out a long sigh.
+I wrote that down too.
 
-"This makes no sense."
+"And Bell's shop," she added.
 
-I turned. He looked at me, then smiled sheepishly. "Sorry."
+"The bookshop?"
 
-"It's nothing."
+"He knows more than the library and says less."
 
-He lifted his book. "What do you think — if a tutor writes something wrong, is a student obliged to follow his mistake?"
+"That sounds inconvenient."
 
-I thought for a moment. "If you want to pass?"
+"It is."
 
-He went quiet, then nodded slowly. "Good answer."
+She smiled.
 
-He went back to reading. A little later he closed his book and offered his hand.
+"Go anyway."
+
+I found the library before noon.
+
+It occupied an older building just off the square, with tall windows and a narrow entrance that looked as though it had once belonged to a private house.
+
+Inside, the air smelled of paper.
+
+The reading room was quiet.
+
+I found the old records section at the back.
+
+There were several town histories arranged on a shelf.
+
+I chose one at random.
+
+It proved to be the wrong choice.
+
+"You have started with Hargreaves."
+
+I looked up.
+
+A young man stood beside the next table.
+
+He was perhaps twenty, with light brown hair that fell forward when he leaned over the book, and an alert expression that suggested he had already decided I was interesting.
+
+"Is that a problem?"
+
+"It is if you want to understand Alderwick."
+
+He pointed at the book.
+
+"Hargreaves wrote that one for the railway company."
+
+I looked at the title page.
+
+"There is no railway here."
+
+"Not yet."
+
+He sat down.
+
+"But that is beside the point."
+
+He pushed another book toward me.
+
+"Colton."
+
+"Who is he?"
+
+"Local historian."
+
+"You recommend him?"
+
+"Not entirely."
+
+He considered the question.
+
+"Colton is wrong about half of it."
+
+"That is not a strong recommendation."
+
+"He is wrong about the right half."
+
+I looked at him.
+
+He smiled.
 
 "Daniel."
 
 I gave him my name.
 
-"New in town?"
+"Ashcroft."
+
+His expression changed slightly.
 
 "Yes."
 
-"It shows."
+"Yes?"
 
-I looked at my clothes. "How?"
+"You are at the house."
 
-"Your shoes." He pointed down. "Still too clean."
+"I am."
 
-I glanced at the shoes I had just bought. "And?"
+"Everyone knows about the house."
 
-"People who've just moved still wear shoes merely to walk about without purpose. Haven't had time to dirty them."
+He said it without drama.
 
-I laughed quietly. "A very specific analysis."
+That made it more convincing.
 
-"I'm a history student. We live on small details."
+"What do they know?"
 
-I pointed at the book he had slammed down — *A History of Alderwick, Volume II*. "History?"
+"That it is there."
 
-He nodded. "The Academy."
+"That is not much."
 
-"Read history, do you?"
+"It is more than most people have."
 
-"History."
+He leaned back.
 
-"So you know a lot about Alderwick."
+"No one goes in."
 
-Daniel made an expression I found hard to read. "Depends."
+"I do."
 
-"How much?"
+"That is why everyone is interested again."
 
-"What they teach."
+"Was everyone interested before?"
 
-"So not everything?"
+"For a while."
 
-He shut the book firmly. "Hey. I know quite a lot."
+"And then?"
 
-"I didn't say otherwise."
-
-He studied me a moment, then laughed. "All right. Maybe not that much." He patted the book. "But I know more than most people."
-
-"That makes more sense."
-
-Daniel then explained that the Academy was not far from the town centre. "On foot, about twenty minutes from here."
-
-"How big is it for Alderwick?"
-
-"Fairly." He shrugged. "The old part of the building was built long before I was born. Some new buildings recently."
-
-"So an old town with a new academy?"
-
-"More or less."
-
-"Many students?"
-
-"More than some people like to admit." He pointed toward the window. "At this hour of the morning you'll see them everywhere."
-
-I glanced out at the pavement: young people with book-bags, a few wearing jackets bearing the Academy crest, one stopping at the coach stand to check the schedule. "That figures."
-
-Daniel reopened his book. "And if you want to see the other side of Alderwick, wait until lunchtime."
+"They stopped."
 
 "Why?"
 
-"The students fill every cheap eating-house in the town centre."
+Daniel shrugged.
 
-I smiled. Alderwick, it turned out, had a younger life than its old houses suggested.
+"People get tired of being curious when curiosity doesn't give them anything."
 
-Breakfast arrived. The woman from behind the till set a plate in front of me. "Well?"
+I looked at the book he had recommended.
 
-I tasted it. "Good."
+"And you?"
 
-"Thank heaven." She smiled, then turned to Daniel. "And don't bother the new customer too much."
+"I haven't got tired yet."
 
-Daniel raised his head. "I'm only talking to him."
+He opened his own notebook.
 
-"That's exactly it."
-
-I watched her back disappear toward another table. "Her name is Margaret?"
-
-"Yes. The owner — and this town's unofficial judge."
-
-I laughed. "Does she always interfere?"
-
-"If she doesn't interfere, she feels her day hasn't started."
-
-Margaret answered from the back of the shop, without turning. "I can still hear you."
-
-Daniel immediately added, quietly: "She also has very good hearing."
-
-From a distance came a small laugh. This time I watched her more closely. Margaret was not like a shop-owner who merely came in to supervise the staff. She moved from table to table, remembering people's orders, asking after them, swapping cups without being asked, greeting new arrivals. A man came in. "The usual?"
-
-"If you still remember it."
-
-"I remember everything."
-
-A woman came a few minutes later, and Margaret asked at once, "How did the interview go?" The woman smiled broadly — "I got it." — and Margaret embraced her. It was not only names she remembered, I thought; she remembered people's circumstances.
-
-Daniel followed my gaze. "She knows almost everyone here."
-
-"So it seems."
-
-"If you want to know who just married, who's quarrelling, who's moved, who's looking for work, or who secretly fancies someone —" He pointed at Margaret. " — ask her."
-
-I laughed. "Social information?"
-
-"Worse. She also likes giving opinions."
-
-From the back of the shop, without turning: "I heard that."
-
-Daniel smiled with satisfaction. "And I meant you to."
-
-"Then don't complain if tomorrow I tell him something about you."
-
-Daniel shut his mouth at once. I stifled a laugh. "What would she tell me?"
-
-"Trust me. You don't want to know."
-
-Margaret smiled with satisfaction from a distance.
-
-After breakfast we talked for quite a while — not about mysteries, not about the house, but about life. Daniel grumbled about his tutor giving him too much reading, told me about the library being too cold, and admitted he had once failed an examination because he wrote answers that were too long.
+"I am writing about the town's charter."
 
 "Why?"
 
-"Because I know too much?"
+"Because the histories disagree."
 
-"Because I don't know when to stop."
+"About what?"
 
-I laughed. He pointed at me. "There. That's my trouble."
+"The date."
 
-"At least you're aware of it."
+"Which means one of them is wrong."
 
-"Awareness doesn't always help."
+"Or both."
 
-He had a habit of talking too quickly when excited, leaping from one subject to another, and sometimes being too sure of his opinions. Yet he also readily admitted a mistake when the evidence before him was clear enough. He was not pretending to know; he merely wanted to know. There is a difference, and I liked it.
+He said it with obvious satisfaction.
 
-"What made you move to Alderwick?" he asked after a while.
+"I am trying to find out which."
 
-"Work."
+"You are a student?"
 
-"Have you got it?"
+"At the academy."
 
-"Yes."
+He closed the notebook.
 
-"When do you start?"
+"I am also from here."
 
-"In a few days."
+"You regard that as more useful?"
 
-"What kind of work?"
+"Much more."
 
-I explained briefly — work that demanded a great deal of reading and writing. Daniel seemed interested. "So you read a lot?"
+We went to Margaret's for tea.
 
-"Yes."
+Daniel talked most of the way.
 
-"And write?"
+The academy had been founded centuries ago.
 
-"Yes."
+The charter had changed.
 
-"Good." He grinned. "So if one day I find an interesting old book, I'll know who to give it to."
+The building had burned and been rebuilt.
 
-"Don't give me extra work."
+He spoke quickly, but not carelessly.
 
-"I may not even burden you with payment."
+When he did not know something, he said so.
 
-"Even worse."
+That made me listen more closely.
 
-I looked at the book I had brought. "Daniel."
+At Margaret's, she looked at the two of us.
 
-He had been finishing his drink and turned. "Hm?"
+"You know one another."
 
-I lifted my book a little. "If I wanted to read further about the history of Alderwick, where should I begin?"
+"We have just met," I said.
 
-Daniel looked at the cover. "That's a general book."
+"That is not what I said."
 
-"I know. That's exactly the trouble."
+Daniel grinned.
 
-"Trouble?"
+Margaret poured his tea without asking.
 
-"I don't know what to read after this. I could search in the library, but perhaps there's a book better suited to someone new to the town."
+"You are the new man at the house," he said.
 
-Daniel tapped the tips of his fingers on the table. "For general history, that book is good. If you want something more specific, there are several choices — the history of the town's development, the history of its industry, the history of the old families, even a book on the changing layout of the town. But I'm not sure the library has all of them."
+"I am."
 
-"Which library?"
+"Everyone knows."
 
-"Alderwick Library. Near Market Square."
+"So I have been told."
 
-"Is the building old?"
+"Give them time."
 
-"An old building. Supposedly it was once the town's administrative office."
+"For what?"
 
-"'Supposedly'?"
+"To stop knowing."
 
-Daniel shrugged. "Ask different people and you'll get three different versions."
+Margaret placed a plate between us.
 
-"What's the truth?"
+"They will."
 
-"I don't know." He smiled. "That's why I like this town."
+"How long?"
 
-I laughed. "What if I want more specific history?"
+"Until something more interesting happens."
 
-"Go to Bell's."
+Daniel considered this.
 
-"A bookshop?"
+"That could take a while."
 
-"A bookshop and an antique shop — if you can call the pile of things at the back of it merchandise." Daniel laughed to himself. "Mr. Bell was selling books before you knew how to read."
+"Then make yourself useful."
 
-Margaret, who was arranging cups at the till, broke in unasked. "When it comes to local history, he really does know more than anyone in this town — including Daniel."
+"I always do."
 
-"Thank you very much," Daniel said flatly.
+"You talk."
 
-"I'm not exaggerating."
+"That is a kind of usefulness."
 
-I turned to Margaret. "Does he have many books about Alderwick?"
+"Not always."
 
-"Many," she answered. "And he knows exactly which are worth reading and which are only fit for propping a door open."
+He smiled.
 
-"So Bell's, then?"
+I found myself doing the same.
 
-"If you're serious about history — yes. Bell's." Daniel pointed out the window. "I happen to have no lectures until the afternoon. If you like, I can take you there."
+It was the first time since arriving in Alderwick that I had laughed.
 
-"No need to trouble yourself."
+I noticed it.
 
-"I was meaning to go there anyway."
+Daniel noticed me noticing it.
 
-Margaret laughed quietly. "Don't believe him. He'll surely spend an hour there and go home with three books he can't afford."
+Neither of us mentioned it.
 
-Daniel sighed. "I've only done that twice."
+After lunch I went to find Bell's shop.
 
-"Three times."
+Margaret had said it was behind the market square, and I found it up a narrow lane where the old town began to climb.
 
-"One of them was paid for."
+The building looked older than the ones around it.
 
-"I'm not talking about payment."
+A sign hung above the door, half hidden by ivy.
 
-I laughed. "I'll come."
+The door itself was painted green.
 
-We walked along the main street. For the first time since arriving in Alderwick, I did not walk alone. Daniel walked a little faster than I did, now and then pointing out the buildings we passed and explaining. It turned out that when he was not reading, he still talked a great deal — even more so.
+I tried the handle.
 
-"Over there used to be a shoe shop," he said, pointing at a building that now housed an insurance office. "My father bought his first pair of shoes there."
+It did not move.
 
-"When?"
+I looked through the window.
 
-"I don't know. Maybe before I was born."
+Inside, the shelves were crowded with books, some upright, some stacked, some placed wherever there had been room.
 
-"So that's historical information?"
+I could not find a system.
 
-"No. That's family information."
+Then I noticed that I could not find a system because there was one I did not understand.
 
-"You said you were a history student."
+No one was inside.
 
-"I didn't say everything I think has to do with history."
+I stood there a moment, then stepped back.
 
-I smiled. We passed along High Street, and this time I saw it up close: a row of old buildings that was anything but uniform, some with dark brick façades, some repainted, a number of upper floors let out as offices or apartments. In front of one shop hung a small chalkboard: **FRESH BREAD — TWOPENCE**. A music shop displayed a violin behind glass. A postman pushed a barrow past us. At the coach stand, a stagecoach stood with its route board at the front:
+I would come again.
 
-**LONDON — HIGH STREET — MARKET SQUARE — THE ACADEMY — NORTH Alderwick**
+I went back to the house before dark.
 
-"This stagecoach goes to the academy?"
+Helen was in the kitchen.
 
-Daniel nodded. "That one? Yes."
+There was bread on the table.
 
-"So I needn't walk."
+"You went out."
 
-"If you're lazy."
-
-"I haven't been in this town three full days."
-
-"And you're already looking for shortcuts."
-
-"Efficiency."
-
-"A lazy man's excuse that sounds clever."
-
-I laughed.
-
-A few minutes later we reached Market Square. That morning I had only glimpsed it; now the place was busy. A flower seller was arranging bouquets, a fruit seller was calling out prices in a loud voice, a man carried a wooden crate toward his stall. In the middle of the square stood an old stone structure complete with a small plaque telling its history. Around it, shops faced one another — a bakery, a butcher's, a clothier's, a coffee house, a bank, and an old pub trimmed with a wooden sign. On one side stood a large stone building whose signboard read **Alderwick LIBRARY**.
-
-I slowed my step. "That's the library?"
-
-Daniel nodded. "Yes."
-
-The building was older than I had imagined — grey stone walls, tall windows, a broad flight of steps at the front. A small brass plate beside the door announced it as a subscription library. "They say it was once the town's administrative office?"
-
-"The most popular version."
-
-"And the other versions?"
-
-Daniel smiled. "You'll learn in time that every old building in Alderwick has at least three stories."
-
-I looked at the library for a while. "Interesting."
-
-"Don't say that too quickly."
-
-"Why?"
-
-"Because you haven't heard the most boring story yet."
-
-In one corner of the square stood the town notice board. Posters lay stacked over one another: a community theatre performance, a church announcement, an offer of work, a room to let, a residents' meeting, and an announcement of the Christmas market to come. Among them all hung a handbill about a lost cat. Nothing strange. Yet the board made me realise something: Alderwick was not a town with only a past. There was life going on — people planning events, seeking work, letting rooms, losing pets, buying bread. The town did not stop merely because someone had once disappeared within it.
-
-After leaving Market Square, we had walked a little way along High Street before Daniel turned into a narrow alley at the side of one of the buildings. "A shortcut," he said, pointing upward. The alley climbed gently between rows of old houses, and through the gaps between the rooftops, toward the south, I saw the old brick chimney I had noticed the day before.
-
-"Is that the industrial district?"
-
-"Old Industrial Quarter," said Daniel, looking toward the chimney. "Part of it is still used for warehouses, workshops, and small firms. It used to be much larger — the industry moved out of Alderwick." He pointed at a long building with dark brick walls in the distance. "That's the old textile mill."
-
-"Still standing?"
-
-"The building. The machines have long gone."
-
-I looked at it once more. Alderwick had a far larger past than High Street let on. But now we were climbing the gently rising alley toward the old town behind Market Square, leaving the bustle behind, and at the end of the turning lane stood a shop with an old signboard almost covered in ivy:
-
-**BELL'S BOOKS & ANTIQUITIES**
-
-Daniel pointed toward it. "There's the place."
-
-I studied the building for a moment — it looked far older than the shops around it. "Are you sure it's a bookshop?"
-
-Daniel laughed. "A fair question. Wait until you're inside."
-
-He pushed the door open, and a little bell gave a single note — *ting*. From behind the shelves of books came a voice: "Daniel?"
-
-"I've brought you a customer."
-
-"You always bring trouble."
-
-"Not this time." Daniel turned to me. "For now."
-
-Then an old man appeared from behind a shelf. His hair had gone white, but he still stood upright; his spectacles rested low on his nose, and a pencil was tucked behind one ear. He looked at Daniel first, then at me.
-
-"New in town?"
-
-Daniel nodded. "Only a few days."
-
-The old man looked at me a moment. "In that case, welcome to Alderwick."
-
-"Thank you."
-
-Daniel pointed at the shelf to the right of the door. "He's looking for books on local history."
-
-The old man gave a faint smile. "Is that so." His gaze moved to me. "And what sort are you after?"
-
-I looked at the row of books I had not yet finished taking in. "I don't know yet."
-
-He nodded. "A better answer than I usually get."
-
-"I don't know if that's a compliment."
-
-"It is." He offered his hand. "Bell."
-
-"A pleasure." I shook his hand.
-
-Daniel clapped me on the shoulder. "I'll leave you here — if I stay inside, I'll go home with another book."
-
-Without turning, Mr. Bell said: "You already owe me two."
-
-Daniel stopped in the doorway. "There was no need to mention that."
-
-"Why? He ought to know."
-
-I smiled, holding back a laugh. Daniel pointed at the old man. "This is Mr. Bell." Then, to Mr. Bell: "I'll be back later."
-
-"If you can remember the way home."
-
-"I'll do my best."
-
-The door closed behind him, and Mr. Bell and I stood among shelves filled with dust and the smell of old paper.
-
-The shelves did not hold only books. There were old postcards, rolled maps of Alderwick, paintings of buildings whose shapes had since changed, theatre programmes, school yearbooks, even brochures for town festivals decades old. I picked up a postcard: a photograph of Market Square, taken several decades before. The buildings were almost the same; the shops were different. I compared it with the street I had just walked down. Alderwick changed, but not quickly — a few places seemed to refuse to be replaced.
-
-I put the postcard back. "Do people still buy things like this?"
-
-Mr. Bell answered from behind a shelf. "More than you might think."
-
-"Why?"
-
-"Because people like to remember places they once lived in."
-
-I turned. "And those who live here?"
-
-"They buy to remember that this place used to be different."
-
-I did not answer. The sentence felt simple, but perhaps it was true.
-
-I spent nearly an hour in the shop. Mr. Bell, it turned out, was not as I had imagined. He did not speak in riddles, nor try to make me curious. He simply knew a great deal — too much, perhaps. When I asked about the town's history, he explained the changing of street names. When I pointed at a building, he knew who owned it. When I came upon an old family name inside a book, he could name the district where they had lived. But when I asked after something more specific, more than once he answered only: *"I don't know."* Or: *"That's a different story."* Or: *"You should read another source."*
-
-I appreciated that. He did not fill the gaps with answers of his own invention.
-
-In the end he chose two books for me — one a history of Alderwick's development, the other a collection of much older local records. I looked at the price of the second. "This one is dear."
-
-"It is."
-
-"I'm not sure I need to buy it."
-
-Mr. Bell smiled. "Then don't."
-
-I stared at him.
-
-He pointed at the second book. "Take that one."
-
-"Why?"
-
-"Because you will read it more often."
-
-I opened the first page. The paper had yellowed, and some of the writing was hard to read. Yet there was something about the book that made me want to take it home. I paid, and Mr. Bell wrapped it in brown paper.
-
-"Come again when you've finished."
-
-"I may well return."
-
-"Don't 'maybe'." He handed me the book. "Just come back."
-
-I smiled. "Very well."
-
-Daniel was already waiting outside the gate. He saw the parcel in my hand. "How much?"
-
-I named the sum. Daniel shook his head. "He's robbed you."
-
-I stared at him. "He said it was the normal price."
-
-"It was."
-
-"Then?"
-
-"He always says that." I laughed. "But you bought it anyway."
-
-"Of course."
-
-We walked back toward the town centre. Daniel talked about his tutor, about a fellow student who was always late, about the library, about a book he wanted to buy. I began to understand that Daniel was not hard to read. He simply talked a great deal, was easily excited, easily offended, easily made to laugh — and every shift showed plainly on his face.
-
-We reached Market Square. That morning I had only glimpsed it; now the place was busier. Sellers were arranging their goods, people passed to and fro. In the middle of the square, the old stone structure stood upright as the market went on around it.
-
-Suddenly Daniel stopped.
-
-"What is it?" I asked.
-
-He was looking at a building across the street. An entrance that led up to a narrow staircase.
-
-"I'll find out later."
-
-I followed his gaze. The building stood between two far newer buildings. At its base there was now a small shop selling stationery and greeting cards. Yet the shape of the building was still plain to see. Its entrance was tall. The upper windows were narrow. The stone around the frames had changed colour with age. A small plaque was fixed to the wall.
-
-I read the date.
-
-1798.
-
-"So the post office isn't the original building?"
-
-Daniel opened his notes again. "It seems not."
-
-"What does that mean?"
-
-"According to these notes, the original building was a small administration office. Then it was enlarged. It became the post office."
-
-I nodded. "And now a stationer's."
-
-"Yes."
-
-I looked at the building again. Three functions. Perhaps more. Alderwick was beginning to look like a town that kept layers beneath every building.
-
-We walked on. Daniel talked about the town's history. I mostly listened. Sometimes he was right. Sometimes he was only guessing. Sometimes he quoted something he had once read. And when he was not sure, he usually said: "I don't know." That made him easier to trust.
-
----
-
-After parting from Daniel, I returned to Margaret's to buy breakfast. There, a man was talking with Margaret at the counter.
-
-"I've told you, you didn't need to bring it back."
-
-The man set a small box on the counter. "If I didn't, you'd think I'd stolen it."
-
-Margaret looked at the box. "I never thought you'd stolen it."
-
-"You said I took it."
-
-"I said you might have taken it."
-
-"It's the same thing."
-
-"No." Margaret opened the box, looked inside, then closed it again. "If I said you might have taken it, then I hadn't yet decided."
-
-The man sighed. "You always have an answer."
-
-"Because you always have a question."
-
-Margaret smiled. Then her eyes caught sight of me. "Leon."
-
-I raised a hand. "Morning."
-
-"Come for breakfast, or come to hide?"
-
-"I haven't decided."
-
-"Then sit down. I'll help you decide."
-
-I sat at a table near the window. Margaret went back to serving customers. I watched her for a moment. She never looked hurried. Even when several people needed something at almost the same time, she could manage it all without appearing to lose control. Not because she moved quickly. She simply knew what to do first.
-
-I ordered coffee and breakfast. Before long Margaret brought them.
-
-"You've begun to find your way around town?"
-
-"A little."
+"I did."
 
 "Good."
 
-I looked at the newspaper she had just bought. A woman sat at the next table. She spoke in a low voice, but plainly enough for me to hear.
+"The town has noticed."
 
-"He left another message."
+"The town notices everything."
 
-"The same one?"
+"I have been told."
 
-"More or less."
+She nodded.
 
-"And you still haven't answered?"
+"Then you have been given the correct warning."
 
-"I don't know what to say."
+She put a cup of tea in front of me.
 
-Margaret poured tea. "If you don't know what to say, perhaps don't say anything yet."
+"Sit."
 
-The woman was silent. Then she smiled faintly. "Sometimes I wonder why people come to you."
+I sat.
 
-Margaret shrugged. "Because I provide the chairs."
+"Thank you."
 
-I looked at them. A simple sentence. But I was beginning to understand something. Margaret did not always offer solutions. Sometimes she only provided a place. People came to her not because she always knew the answers. They came because they knew she would listen.
+She did not sit.
 
-I looked around the tearoom. There was no private room for confidences. No sign saying that Margaret accepted confessions. Nothing that made her look like a counsellor. Only tables. Chairs. Tea. Coffee. And someone willing to listen. Perhaps that was enough. In a small town, a place to talk might be as important as a place to eat.
+For a moment I thought she was going to leave.
 
-After the woman had gone, I said:
+Then she looked at me.
 
-"You never give advice?"
+"You found the book."
 
-Margaret was clearing a table. "Of course I do."
+I paused.
 
-"Just now you didn't."
+"I found a book."
 
-"She didn't need advice."
+"The book."
 
-"How do you know?"
+"The one upstairs?"
 
-Margaret looked at me. "Because if she needed advice, she would have asked."
+She nodded.
 
-I nodded. That made sense. Margaret went on with her work. "Most people don't need someone to solve their problems. They only want someone who won't make their problems worse."
+"The one that was left."
 
-I smiled. "You're rather clever."
+"I have not opened it."
 
-"Don't be too quick to praise me."
+"You will."
 
-"I mean it."
+There was no threat in her voice.
 
-"I know. That's what makes it dangerous."
+No insistence.
 
-I laughed.
+Just certainty.
 
-A few minutes later, Margaret returned to the counter. A man came in and handed her an envelope. Margaret looked at it.
+"Why?"
 
-"Have you got an answer for it yet?"
+She considered the question.
 
-"Not yet."
+"Because you are curious."
 
-"Why not?"
+"That is not enough."
 
-"Because I don't know where to send it."
+"It usually is."
 
-Margaret read the address on the front of the envelope. Then she thought for a moment. "I know someone."
+She turned away.
 
-She turned to me. "Leon."
+"Eat."
 
-I pointed at myself. "Yes?"
+I ate.
 
-"Have you still got time?"
+Helen watched me for a moment, then left the room.
 
-"I have."
+After she had gone, I went upstairs.
 
-Margaret took the envelope. "This man is trying to find someone's address."
+The room at the top of the house was exactly as I remembered it from the night before.
 
-I looked at the envelope. "And you know the address?"
+A bed.
 
-"I think so."
+A table.
 
-The man cut in. "If you know it, why not tell me?"
+A wardrobe.
 
-"Because I'm not certain."
+A window overlooking Bellweather Lane.
 
-Margaret handed the envelope to me. "Could you look at it?"
+The room smelled of dust and old paper.
 
-I took the envelope. I studied the name and address on the front. The handwriting. The house number. The street name. I did not open it. A few seconds later I said:
+The book was on the table.
 
-"This address has been changed."
+I sat down.
 
-The man frowned. "Why?"
+For a moment I did nothing.
 
-I pointed at the lower part of the envelope. "The ink here is different."
+Then I opened it.
 
-Margaret moved closer. I went on. "This part was written later." I pointed at the house number. "And this number was added after the rest of the address."
+It was not a diary.
 
-The man took the envelope. I turned it over. There were faint traces of writing, almost invisible. The man stared at it. "Good heavens."
+Not exactly.
 
-Margaret took the envelope. She looked at the back.
+It was a record.
 
-"There are traces of writing here," I said. "Almost invisible. But it's the mark of ink that was rubbed out."
+Entries written over several years.
 
-I pointed at the back of the envelope. "Something was written here once. Then erased. Then written again. In different ink. And the old ink is almost unreadable now."
+Names.
 
-Margaret looked more closely. "Can you read it?"
+Places.
 
-I looked at it for a long moment. "No. But one thing is clear: this address was not written all at once. Someone once changed this part."
+Things seen.
 
-Margaret looked at me. "How do you know it matters?"
+Things done.
 
-I fell silent. "I didn't say it mattered. I only said what I saw."
+Things said.
 
-"And what do you see?"
+The handwriting was careful.
 
-"An envelope that was once altered. An address that was written, erased, and written over again."
+The entries were short.
 
-Margaret looked at the envelope for a few moments. Then she handed it back to the man.
+There was no attempt to explain what the writer believed.
 
-"If you want to know what's written here," she said quietly, "you need more than a sharp eye. You need time."
+Only what had happened.
 
-The man stared at his envelope. "So you can't read it?"
+I read for nearly an hour.
 
-"No." Margaret looked at me. "But Leon can. Or at least, he sees something I don't."
+Some names appeared more than once.
 
-"You?" the man asked, uncertain.
+Some disappeared after a single entry.
 
-"The man who arrived in Alderwick and can straight away see the difference in ink on an envelope."
+There were references to places I did not recognise.
 
-That evening, after returning from Margaret's, I went back to the house on Bellweather Lane.
+There were measurements without explanation.
 
-Helen had already prepared supper before I went out — a piece of bread, soup left over in a ceramic bowl, and a cup of tea still warm on its saucer. She had left a small note on the dining-room table: *There is soup in the bowl. There is tea. Do not burn the house down.*
+There were dates.
 
-I smiled. That note, for the first time, felt like home.
+There were gaps.
 
-But that was not why I sat down in the dining room tonight.
+I reached the end.
 
-Not the soup.
+The final page contained a symbol.
 
-Not the tea.
+A circle.
 
-Not the note, either.
+Inside it, three lines.
 
-I sat down because on the writing desk — which I had just prepared for the first time — lay the two books I had bought from Mr. Bell.
+Below them, a single dot.
 
-One book held a general history of Alderwick. The other held far older records.
+I had seen it before.
 
-And in those records, something caught my attention.
+More than once.
 
-Between two sections of text, as a small ornament in the middle of the page, a simple symbol was drawn.
+I was not ready to count them.
 
-A circle. Three lines like branches. One dot at the bottom.
+I looked at it for a long time.
 
-I stopped. I had seen that symbol before — I was certain of it — somewhere I had recently written down. I turned the page; there was nothing more. Back to the previous page; the symbol was still there. I touched it with the tip of my finger. The print was slightly darker than the text around it, almost as if on purpose.
+I did not write it down.
 
-Perhaps it was only a publisher's mark. Perhaps an ornament used in old editions. I closed the book.
+There was no point pretending that seeing the same mark in several places meant that I understood it.
 
-There was no reason to think on it.
+It meant only that I had seen it.
 
-I stood, carried the book to my room, and set it on the table. Then I sat down with my notebook. I opened yesterday's page and looked at the notes I had written: the questions about this house, about Helen, about the bell she said did not ring. I almost added the symbol beneath them — my hand stopped in the air.
+I closed the book.
 
-No. Not yet.
+I put my hand on its cover.
 
-I had no reason yet to connect everything. One symbol in an old book meant nothing, and I had long been a man who held back from conclusions reached too quickly.
+Outside, Alderwick was becoming quiet.
 
-I closed the notebook, put out the lamp, and lay down.
+A cart passed somewhere in the distance.
 
-That night, just before I slept, I heard a soft sound from the back of the house — the latch of the back door, as if someone had tried it from outside. I went down with the lamp. The door was closed, the bolt still drawn as I had left it. The yard held nothing but the streetlamp's light on wet grass. I told myself it was the old frame shifting in the wind, and wrote the hour in my notebook beside the symbol. One small thing, not yet named.
+A voice called from the street.
 
-The day ended without any incident I could relate again — except for those two small things I had not yet given a name to. Tomorrow I would not yet begin work, and I still had a few days to learn the town: to find a shop that sold writing desks, to find a cheaper place to eat, perhaps to meet Daniel again. Ordinary things.
+Then there was silence.
 
-Before I fell asleep, my mind returned to the symbol. I tried to remember where I had seen it — on the front door of this house, on the head of the room key, beneath the bell. I did not yet know what it meant. Tomorrow. Not everything had to have an answer today.
+I went to the window.
 
-And without my noticing, the history book I had left on the table was still open to the same page. Between two paragraphs about old Alderwick's history, the small symbol remained there—the first sign of thirteen, waiting for the one who would learn to read it.
+The lane was empty.
 
----
+The wall at the end of it stood where it had stood the night before.
 
-## Continuity Notes (for development — not part of the narrative)
+Across the lane, one of the houses was dark.
 
-**Leon's knowledge at the end of Chapter 2:**
-- Explored Alderwick on foot from Bellweather Lane toward the town centre; passed Morris & Sons Bakers, the apothecary, tailor, flower shop, stationer's, and a general goods shop.
-- Took breakfast at Margaret's tearoom & coffee shop and met Margaret, its owner.
-- Met Daniel, a history student at the Academy; Daniel guided him to Bell's Books & Antiquities and on a walk through Market Square and the Old Industrial Quarter.
-- Bought two books from Mr. Bell: a general history of Alderwick's development and a collection of much older local records.
-- Learned that Alderwick Library is a subscription library housed in a former administrative building.
-- Observed the building that dates to 1798 — originally a small administration office, later enlarged into the post office, now a stationer's.
-- Demonstrated his observational skill by detecting altered ink on an envelope at Margaret's (the address had been written, erased, and written over).
-- Found the circle-three-lines-one-dot symbol printed in the older book — the same symbol from the front-door nameplate, the room key, and beneath the bell in Chapter 1.
+I could not tell whether anyone was inside.
 
-**Clues planted (for later payoff):**
-- The recurring symbol now appears in a printed source, lifting it from the house onto the page; Leon deliberately holds back from connecting it yet.
-- The 1798 building's three successive functions underscore Alderwick's "layers beneath every building."
-- Margaret's role as the town's informal listener and keeper of people's affairs; her remark that Leon "sees something I don't."
-- Mr. Bell's practiced reticence — "I don't know," "That's a different story," "You should read another source."
+I stayed at the window a little longer than I intended.
 
-**Era decisions:**
-- Year: 1816 (Regency era).
-- Terms: the Academy (not university); tutor (not professor); stagecoach (not bus, diligence); pocket watch (not wristwatch); coffee house (not café).
-- Alderwick Library is a subscription library, not a modern public lending library.
-- Locations kept consistent: Bellweather Lane, Morris & Sons Bakers, High Street, Market Square, Alderwick Library, the Old Industrial Quarter (former textile works), Bell's Books & Antiquities.
+Then I returned to the table.
 
----
+I lit the lamp.
 
-## ARC Integration (dev — not part of narrative)
+I opened my notebook.
 
-Maps planted anomalies to the ARC anomaly-case system (`WORLD_BIBLE/07_ANOMALIES/ARC_INDEX.md`). Narrative prose is untouched (Phase 0 LOCKED).
+I wrote:
 
-- **The symbol printed in the older local-records book** → reinforces `ARC-005 The Mourning Key` (now seen in print, lifting it from the house into recorded history).
-- **Helen's portrait — "He would return on 13 November 1816"; "come earlier than expected"** → `ARC-002 The Empty Portrait` (identity, memory).
-- **Margaret as the town's listening post / unofficial information hub** → Layer-1 anchor (per `1000_CHAPTER_MASTER_OUTLINE.md`: Daniel & Margaret remain Layer 1 only). Supports future investigations without breaking compartmentalization.
-- **Recurring "house without a number" motif** → seeds `ARC-010 The Forgotten Name` and `ARC-004 The House Beneath Bellweather`.
+The town is smaller than it first appeared.
 
-**Document status:** DRAFT — Chapter 2 translated into English for the 1816 era.
+It knows its own history imperfectly.
+
+The people know one another better than they admit.
+
+Margaret believes questions should be asked directly.
+
+Daniel believes the town has not yet told him everything.
+
+Helen expected me to open the book.
+
+I stopped.
+
+I looked at the last sentence.
+
+Then I crossed out expected.
+
+I wrote:
+
+Helen assumed I would open the book.
+
+That was what I had observed.
+
+Anything beyond that was a conclusion.
+
+I left it there.
+
+I looked once more at the window.
+
+The lane was still empty.
+
+Somewhere beyond the roofs and chimneys, the bell at St. Bartholomew's remained silent.

@@ -1,10 +1,10 @@
-# Annual Festival Calendar — Ashford, 1816
+# Annual Festival Calendar — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Ashford's annual calendar blends agricultural, religious, civic, and commercial traditions. Festivals provide opportunities for trade, socialising, and plot development.
+Alderwick's annual calendar blends agricultural, religious, civic, and commercial traditions. Festivals provide opportunities for trade, socialising, and plot development.
 
 ---
 
@@ -22,7 +22,7 @@ Ashford's annual calendar blends agricultural, religious, civic, and commercial 
 
 | Festival | Date | Purpose | Plot Functions |
 |----------|------|---------|----------------|
-| Ashford Spring Fair | Late Mar | Trade, entertainment, employment | Disappearance, theft, political pamphleteering |
+| Alderwick Spring Fair | Late Mar | Trade, entertainment, employment | Disappearance, theft, political pamphleteering |
 | Easter | Mar/Apr | Religious observance | Reconciliation, confession, secret revealed |
 | Rogation Days | Late Apr/May | Prayer for harvest, boundary beating | Boundary disputes, hidden markers discovered |
 | May Day | 1 May | Spring, courtship, fertility | Courtship, rivalry, secret meetings, symbolic acts |
@@ -45,7 +45,7 @@ Ashford's annual calendar blends agricultural, religious, civic, and commercial 
 |----------|------|---------|----------------|
 | Harvest Home | Late Sep/Early Oct | Thanksgiving for harvest | Tithe dispute, hidden stash discovered, laborer rebellion |
 | Michaelmas Fair | 29 Sep | Hiring fair, trade | Servant's secret, contract dispute, missing person |
-| Ashford Autumn Market | Late Oct | Winter provisioning | Suspicious transaction, hidden meeting |
+| Alderwick Autumn Market | Late Oct | Winter provisioning | Suspicious transaction, hidden meeting |
 
 ---
 

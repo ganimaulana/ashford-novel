@@ -1,10 +1,10 @@
-# Folklore and Superstition — Ashford, 1816
+# Folklore and Superstition — Alderwick, 1816
 
 **Status:** PROPOSED — to be confirmed as canon after review.
 
 ## Overview
 
-Folklore and superstition are deeply embedded in Ashford's rural culture. They provide explanations for the unexplained, guidance for everyday decisions, and a sense of connection to the past. While the educated classes may dismiss them as peasant superstition, many people, even among the gentry, hold to some folk beliefs.
+Folklore and superstition are deeply embedded in Alderwick's rural culture. They provide explanations for the unexplained, guidance for everyday decisions, and a sense of connection to the past. While the educated classes may dismiss them as peasant superstition, many people, even among the gentry, hold to some folk beliefs.
 
 ---
 
@@ -44,7 +44,7 @@ Folklore and superstition are deeply embedded in Ashford's rural culture. They p
 ## Distinction from Supernatural Fact
 
 - **Known Tradition:** Folkloric beliefs that are widely held and transmitted.
-- **Local Superstition:** A belief specific to Ashford or the region.
+- **Local Superstition:** A belief specific to Alderwick or the region.
 - **Rumor:** A belief that is not widely accepted but circulates.
 - **Misinterpretation:** A natural phenomenon mistakenly attributed to magic.
 - **Actual Supernatural Fact:** Events or entities that are genuinely supernatural within the story.

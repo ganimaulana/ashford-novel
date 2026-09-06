@@ -22,6 +22,8 @@
 | **The Keeper of the Tally** | Ch121 (man in dark coat adding marks) | AMBIGUOUS | Impersonal record; neither ally nor enemy. |
 | **The Boy (portrait/dream)** | Ch1 (portrait on stairs; dream) | AMBIGUOUS | Identity withheld; foundation seed. |
 | **The Three Envelopes** | Ch1–8 | AMBIGUOUS | Sender unknown. |
+| **Aurelius Historical Network** | Ch1 (letter arrival) | ONGOING / AMBIGUOUS | Historical communication network associated with Aurelius. Fragmented, dormant, or disconnected. At least one surviving contact may be attempting to determine whether the Ashcroft line can be reached. Relationship to Order of Severence unresolved. |
+| **Letter as Contact Test** | Ch1 | ONGOING / AMBIGUOUS | The first letter may function as an initial contact test/probe rather than a straightforward warning or recruitment. Sender identity unrevealed. Sender connected to surviving remnants of Aurelius's network. |
 | **The Thirteen Rings** | Ch129 (marsh ring); Ch134 (house on hill) | LONG-TERM | Thirteen rings of first-sign stones across the land. |
 
 **Source:** `07_MYSTERY_LEDGER.md`
@@ -50,6 +52,17 @@
 - **Payoff:** Count = keepers; thirteen rings; Leon's mark already in tally.
 - **Remaining:** Destination; completed count.
 
+### Thread E — The Aurelius Network / Letter Contact
+- **Setup:** Pembroke & Clarke letter (Ch1); symbol; Bellweather House; Ashcroft name.
+- **Payoff:** UNRESOLVED.
+- **Remaining:** Sender identity; network structure; surviving contacts; communication routes; relationship to Order of Severence; whether network can be reopened; what Aurelius intended.
+
+### Thread F — The Examination Arc
+- **Setup:** CH70–79 establish Leon as an outsider offered an examination, initial individual tests, and transition to cohort examination (CH76–79).
+- **Payoff:** CH80–99 will develop social dynamics, information brokerage, competition, and consequences of uncertain decisions. The arc culminates in CH99 with survivors identified, but the Constable's ultimate interest in Leon remains ambiguous.
+- **Unresolved:** Why the office wants Leon; whether connected to Vale's belongings; hidden institutional motives; whether Leon's presence generates suspicion; the true purpose of the examination.
+- **Structural function:** The examination arc serves as an information/social pressure environment, testing candidates through incomplete information, trade-offs, and collective decision-making. It builds Leon's reputation gradually without revealing the office's motives.
+
 **Source:** `07_MYSTERY_LEDGER.md`
 
 ---
@@ -70,6 +83,9 @@
 | Count / tally | Ch55 | Ch121 (counts keepers) | Partial |
 | Four clocks | Ch87–97 | Ch98 (lock condition) | Partial |
 | Aurelius's letter | Ch98 | — | Unresolved |
+| Pembroke & Clarke letter / sender identity | Ch1 | — | Unresolved; may function as contact test/probe |
+| Aurelius historical network | Ch1 | — | Unresolved; fragmented/dormant; surviving contacts possible |
+| Relationship to Order of Severence | Ch1 | — | Unresolved |
 | Three tests | Ch100–103 | Ch108 (working relationship) | Partial |
 | Thirteen rings | Ch129 | — | Unresolved |
 
@@ -219,10 +235,11 @@
 | 6 | Aurelius's complete history | LONG-TERM | Margins only |
 | 7 | The boy in the portrait / dream | AMBIGUOUS | Foundation seed |
 | 8 | Who sent the three envelopes | AMBIGUOUS | — |
-| 9 | Remaining rings (2–13) | LONG-TERM | — |
-| 10 | The man who brought Marr the book | ONGOING | Loose thread |
-| 11 | 00:00 complete meaning | INTENTIONALLY AMBIGUOUS | — |
-| 12 | The Gear's full function | UNKNOWN | Only mechanical response confirmed |
+| 9 | Who sent the Pembroke & Clarke letter / surviving Aurelius network | AMBIGUOUS | Sender unrevealed; network fragmented/dormant; relationship to Order of Severence unresolved |
+| 10 | Remaining rings (2–13) | LONG-TERM | — |
+| 11 | The man who brought Marr the book | ONGOING | Loose thread |
+| 12 | 00:00 complete meaning | INTENTIONALLY AMBIGUOUS | — |
+| 13 | The Gear's full function | UNKNOWN | Only mechanical response confirmed |
 
 **Do not resolve prematurely.** All are intentional.
 

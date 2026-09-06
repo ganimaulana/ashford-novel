@@ -523,6 +523,12 @@ All 90 chapters (48–137) scored **9/10** after revision passes. Chapters 1–4
 | Calloway's "latent sensitivity" (CANON-EXTENSION) | Recommendation to retire or keep strictly off-page | 2026-09-03 (awaiting author decision) |
 | Eleanor Shaw as Order member | CONFIRMED non-membership (Ch61) | 2026-09-03 |
 | "Father Lucien Vale" | Rejected; manuscript establishes Thomas Vale | 2026-09-03 |
+  
+## 10. Historical Decisions
+  
+| Date | Event | Impact |
+|------|-------|--------|
+| 2026-09-04 | Arc 1 freeze status removed by author direction | Arc 1 remains active canon and may be revised by explicit author instruction. |
 
 ---
 
