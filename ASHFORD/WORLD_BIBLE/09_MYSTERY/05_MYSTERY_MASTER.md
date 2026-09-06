@@ -82,11 +82,15 @@
 
 ---
 
-### Thomas Wren
+### Edmund Wren
 
 **Yang diketahui:**
 - Berkaitan dengan Bellweather Estate
 - Sebuah jam dinding tua berkaitan dengan Bellweather Estate
+
+**Hubungan dengan Edmund Wren:**
+- Edmund Wren berkaitan dengan Bellweather Estate
+- [Detail: PERTANYAAN TERBUKA]
 
 **Status:** [PERTANYAAN TERBUKA]
 

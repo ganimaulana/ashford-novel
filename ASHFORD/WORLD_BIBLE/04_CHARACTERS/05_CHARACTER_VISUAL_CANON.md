@@ -43,7 +43,7 @@
 | The stranger | None | MEDIUM |
 | The keeper of the tally | None | MEDIUM |
 | Miriam | None | MEDIUM |
-| Thomas Wren | Weak (frail, aged) | LOW |
+| Edmund Wren | Weak (frail, aged) | LOW |
 | The vestry clerk | None | LOW |
 
 ---
@@ -653,7 +653,7 @@
 
 ---
 
-### THOMAS WREN
+### EDMUND WREN
 
 **Status:** CONFIRMED — dies Ch 11; LOW priority
 

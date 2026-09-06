@@ -126,7 +126,7 @@ His death was the breaking point.
 
 ## Relationships
 - **Leon Ashcroft:** Descendant? The investigation follows his legacy.
-- **Thomas Wren:** Witness and confidant.
+- **Edmund Wren:** Witness and confidant.
 - **Eleanor Vane:** Wife.
 - **M.R., J.T., M.B.:** Associates in his network.
 

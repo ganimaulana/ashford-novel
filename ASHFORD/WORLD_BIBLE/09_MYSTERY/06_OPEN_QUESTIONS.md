@@ -50,7 +50,7 @@
 3. Mengapa tidak memiliki nomor rumah yang jelas?
 4. Siapa pemilik rumah ini sekarang?
 5. Apa hubungannya dengan Edwin Ashcroft?
-6. Apa hubungannya dengan Thomas Wren?
+6. Apa hubungannya dengan Edmund Wren?
 
 **Status:** [BELUM TERJAWAB]
 
@@ -83,10 +83,10 @@
 
 ---
 
-### Thomas Wren
+### Edmund Wren
 
 **Pertanyaan:**
-1. Siapa Thomas Wren?
+1. Siapa Edmund Wren?
 2. Apa hubungannya dengan Bellweather Estate?
 3. Apa signifikansi jam dinding tua yang berkaitan dengannya?
 4. Apa perannya dalam sejarah Alderwick?

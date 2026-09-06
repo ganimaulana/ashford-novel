@@ -97,7 +97,7 @@ Inggris tahun 1816 adalah negara dengan keragaman sosial yang nyata, terutama di
 
 ### Karakter Historis
 - **Edwin Ashcroft** - [PERTANYAAN TERBUKA]
-- **Thomas Wren** - [PERTANYAAN TERBUKA]
+- **Edmund Wren** - [PERTANYAAN TERBUKA]
 
 ---
 

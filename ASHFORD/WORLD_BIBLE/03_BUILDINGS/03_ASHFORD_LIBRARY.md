@@ -82,7 +82,7 @@
 - Dokumen tentang sejarah Alderwick
 - Informasi tentang Bellweather House/Estate
 - Catatan tentang keluarga Ashcroft
-- Catatan tentang Thomas Wren
+- Catatan tentang Edmund Wren
 - Peta lama
 - Foto historis
 - Koran lama

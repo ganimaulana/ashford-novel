@@ -433,11 +433,11 @@ Do not yet establish a definitive supernatural explanation.
 
 ---
 
-# XII. THOMAS WREN
+# XII. EDMUND WREN
 
 ## Historical Period
 
-Thomas Wren belongs to a later historical layer of Alderwick.
+Edmund Wren belongs to a later historical layer of Alderwick.
 
 His exact birth and death dates remain:
 
@@ -449,7 +449,7 @@ He should not automatically be placed in the Victorian period until narrative ev
 
 ## Historical Importance
 
-Thomas Wren is associated with:
+Edmund Wren is associated with:
 
 * historical records
 * old Alderwick institutions
