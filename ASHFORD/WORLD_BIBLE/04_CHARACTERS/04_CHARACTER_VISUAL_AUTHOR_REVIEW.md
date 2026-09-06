@@ -297,7 +297,7 @@
 | Crowe | Late 40s | Thin | Dark, receding | Dark, still | Drab grey-brown | Watches mouths | Stillness, silent entry |
 | Graves | 60s | Spare, stooped | White, thin | Plain | Dated dark coat | Tremor, spectacles | Polishes glasses |
 | Vale | 80s | Bent, shrunken | White, wispy | Clear/steady | Mended brown coat | Vigorous eyes | Deliberate motion |
-| Helen | ~50 | Spare | Grey-streaked bun | — | Dark wool + apron | Still composure | Has things ready |
+| Helen | 32–34 | Spare | Grey-streaked bun | — | Dark wool + apron | Still composure | Has things ready |
 | Margaret | 50s | Sturdy | Grey under cap | Frank | Linen apron | Flour-dusted arms | Wipes hands, folded arms |
 | Arthur Bell | 50s–60s | Stooped | Grey, thin | Sharp | Leather apron | Ink-stained hands | Tilts head, touches spines |
 | Daniel | Late teens | Long-limbed | Light brown | Open | Neat, scuffed | Carries books | Talks with hands |

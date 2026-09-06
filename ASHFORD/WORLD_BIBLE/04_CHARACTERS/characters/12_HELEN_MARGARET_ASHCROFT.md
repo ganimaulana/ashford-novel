@@ -45,43 +45,115 @@ Her apparent calm and competence should remain grounded in personality and exper
 
 ---
 
-## 4. Hidden Society Connection
+## 4. Ashcroft Family Connection
+
+Helen is an Ashcroft by blood/family connection.
+
+- Her surname Ashcroft is meaningful and remains an important hidden genealogical clue.
+- She belongs to a branch/generation of the Ashcroft family connected to the preservation of Aurelius's legacy.
+- Her exact genealogical relationship to Aurelius remains unresolved.
+- Do NOT state that she is Aurelius's direct descendant unless separately established.
+- Do NOT state that she is Aurelius's daughter, sister, niece, or other specific relation unless canon has established it.
+- Helen has NEVER met Aurelius personally.
+- Her knowledge of Aurelius is inherited, documented, transmitted, or second-hand.
+
+---
+
+## 5. Hidden Society Connection — X as Custodian
 
 Working structure:
 
 ```
 Aurelius Ashcroft
-       ↓
-        X
-       ↓
-      Helen
-       ↓
-      Leon
+        ↓
+Ashcroft Family Legacy
+        ↓
+      X — Custodian
+        ↓
+     Helen
+  entrusted with
+ certain fragments /
+ responsibilities
+        ↓
+       Leon
 ```
 
 Where:
-- **X** is a member of a later generation of Aurelius's hidden network.
-- **Helen** is subordinate/peripheral to X.
+- **X** is the **Custodian of the Ashcroft Family Legacy**.
+- **Helen** is subordinate to X in the sense of receiving guidance, information, responsibilities, or instructions concerning the Ashcroft family legacy.
+- Helen is NOT necessarily a formal member of an organization controlled by X.
+- Helen follows or trusts X because of the Ashcroft family legacy, not because X is the commander of a formal Hidden Society branch.
 - Helen never met Aurelius.
-- Helen's knowledge about Aurelius comes indirectly through X or through the network.
+- Helen's knowledge about Aurelius comes indirectly through X or through the legacy.
 - Helen does not understand the entire Hidden Society.
 - Helen does not know the complete supernatural mechanism.
 - Helen does not know everything X knows.
 - Helen may possess fragments, warnings, instructions, names, historical information, or rules without understanding their complete meaning.
 
 ### X — Working Canon
-- X is presumed to still be alive.
-- X does not have to live in Alderwick.
-- X should not become an overly active direct character in the early story.
-- Communication between X and Helen may be limited.
-- Communication may eventually stop or become unreliable.
-- Helen does not necessarily know X's complete current situation.
-- Whether X is definitively alive at the end of the story remains OPEN until the Hidden Society mystery is resolved.
-- Do NOT invent X's identity yet.
+
+**X is currently defined as: Custodian of the Ashcroft Family Legacy.**
+
+X is NOT currently defined as:
+- head of the Ashcroft family;
+- head of the Hidden Society;
+- founder of the Hidden Society;
+- a member of the Inner Circle;
+- a direct member of the Hidden Society;
+- an omniscient supernatural authority.
+
+X's exact identity, age, location, occupation, and personal history remain unresolved.
+
+### X and Aurelius
+
+The current working relationship is:
+
+Aurelius Ashcroft
+        ↓
+Ashcroft Family Legacy
+        ↓
+X — Custodian
+        ↓
+Helen
+
+This does NOT mean Aurelius personally trained or directly instructed X.
+
+The preferred working model is that X inherited or received fragments of Aurelius's legacy through the Ashcroft family.
+
+X therefore knows more about Aurelius than Helen does, but X still does NOT necessarily know the complete truth about Aurelius.
+
+Do not make X omniscient.
+
+### X and Hidden Society
+
+This distinction is CRITICAL:
+
+**X is NOT a direct member of the Hidden Society.**
+
+Do not describe X as:
+- a Circle member;
+- an Inner Circle member;
+- an official Society member;
+- a ranking member of the Society.
+
+Instead:
+
+X is an independent Custodian of the Ashcroft family legacy who may have knowledge, contact, indirect connections, or overlapping interests with individuals belonging to the Hidden Society.
+
+The exact relationship between X and the Hidden Society remains OPEN.
+
+Possible future interpretations may include:
+- X knows certain members;
+- X cooperates with some members;
+- X is occasionally contacted by members;
+- X inherited information that the Society also knows;
+- X deliberately stays outside the Society.
+
+Do NOT select one of these possibilities as final canon yet.
 
 ---
 
-## 5. Helen and the Bell
+## 6. Helen and the Bell
 
 Maintain a strict distinction:
 
@@ -96,25 +168,30 @@ Therefore:
 
 ---
 
-## 6. Knowledge Boundary
+## 7. Knowledge Boundary
 
-Helen knows **MORE THAN LEON** but **LESS THAN THE DEEPER MEMBERS OF THE NETWORK**.
+Revise Helen's knowledge boundary so that she knows **MORE THAN LEON** but **LESS THAN THE DEEPER MEMBERS OF THE NETWORK**.
 
-### Knows
-- The household's practical routines and history.
-- Fragments of Ashcroft family history passed down through the network.
-- Certain warnings, instructions, or names received from X.
-- That there is a hidden network connected to the house and the Ashcroft line.
-- That Leon is part of that lineage and has been drawn into the same pattern.
+Helen may know:
+- that Aurelius existed;
+- fragments of Aurelius's history;
+- that certain Ashcroft family knowledge was preserved;
+- that X is the person from whom she received certain information;
+- certain warnings, rules, instructions, symbols, or historical fragments;
+- information concerning the Bell, if transmitted through X;
+- that there are people or groups interested in the Ashcroft legacy.
 
-### Does Not Know
-- The complete supernatural mechanism behind the Bellweather phenomenon.
-- The full structure, membership, or current activities of the Hidden Society.
-- Everything that X knows.
-- Whether the historical physical bell and the supernatural Bell are the same.
-- The full meaning of the symbol, the door, or the Agreement.
-- The complete history of Aurelius Ashcroft.
-- What ultimately lies beneath the house or the town.
+Helen does NOT know:
+- the complete truth about Aurelius;
+- the complete history of the Ashcroft legacy;
+- the full identity and structure of the Hidden Society;
+- the full activities of the Hidden Society;
+- the complete mechanism behind the Bell;
+- the complete meaning of 00:00;
+- the complete relationship between Bell, Call, Lamp, House, and other mysteries;
+- everything X knows.
+
+Helen must remain capable of being genuinely surprised by discoveries Leon makes.
 
 ### Must Avoid
 Do NOT describe Helen as:
@@ -128,7 +205,7 @@ Helen should be capable of giving Leon meaningful information while still genuin
 
 ---
 
-## 7. Character Arc
+## 8. Character Arc
 
 ### Beginning
 Helen appears to be a composed household woman with unexplained knowledge and a guarded relationship to the house.
@@ -147,7 +224,7 @@ At an important later point, Helen makes a decision independently rather than si
 
 ---
 
-## 8. Ending — Working Direction
+## 9. Ending — Working Direction
 
 Do NOT establish Helen's death as canon.
 
@@ -164,7 +241,7 @@ The strongest current ending direction is:
 
 ---
 
-## 9. Relationship with Leon
+## 10. Relationship with Leon
 
 Do not prematurely define Helen and Leon's relationship as a romance.
 
@@ -179,7 +256,7 @@ The relationship may develop naturally, but mystery and character integrity take
 
 ---
 
-## 10. Important Mystery Boundaries
+## 11. Important Mystery Boundaries
 
 Do NOT finalize yet:
 - X's identity;
@@ -198,7 +275,7 @@ These must remain open until the relevant mysteries are resolved, especially:
 
 ---
 
-## 11. Basic Identity
+## 12. Basic Identity
 
 - **Full name:** Helen Margaret Ashcroft (INTERNAL HIDDEN CANON — do not reveal to readers)
 - **Public name:** Helen (no surname given in the story)
@@ -213,7 +290,7 @@ These must remain open until the relevant mysteries are resolved, especially:
 
 ---
 
-## 12. Physical Presence / Visual Canon
+## 13. Physical Presence / Visual Canon
 
 **Status:** PROPOSED — awaiting author approval
 
@@ -234,7 +311,7 @@ These must remain open until the relevant mysteries are resolved, especially:
 
 ---
 
-## 13. Personality
+## 14. Personality
 
 - **Dominant traits:** Reserved, watchful, private, capable
 - **Secondary traits:** Secretive, protective, observant
@@ -250,7 +327,7 @@ These must remain open until the relevant mysteries are resolved, especially:
 
 ---
 
-## 14. Intelligence / Competence
+## 15. Intelligence / Competence
 
 - **Observation:** High — she sees what others miss
 - **Social reading:** High — she understands people's motivations
@@ -266,7 +343,7 @@ These must remain open until the relevant mysteries are resolved, especially:
 
 ---
 
-## 15. Character Voice
+## 16. Character Voice
 
 - **Speech rhythm:** Measured, sometimes slow; often pauses before answering
 - **Vocabulary:** Formal, old-fashioned
@@ -279,7 +356,7 @@ These must remain open until the relevant mysteries are resolved, especially:
 
 ---
 
-## 16. Motivation
+## 17. Motivation
 
 ### Surface Goal
 To live quietly in the house and maintain its routines.
@@ -301,16 +378,16 @@ If Leon is threatened, she might act to protect him — and eventually does act 
 
 ---
 
-## 17. Relationships
+## 18. Relationships
 
 - **Leon Ashcroft:** Lodger/guest; she treats him with guarded courtesy. She is connected to him by blood or family ties (exact relationship unknown). She becomes an emotional counterweight to his isolation and a source of partial information.
 - **Aurelius Ashcroft:** Never met him; knows fragments of his story through the network.
-- **X:** Her link to the hidden network; she receives instructions, fragments, and warnings from X but does not know X's full knowledge or current situation.
+- **X:** Her link to the Ashcroft family legacy; she receives guidance, fragments, and warnings from X but does not know X's full knowledge or current situation. X is the Custodian of the Ashcroft Family Legacy, not a direct member of the Hidden Society.
 - **Margaret:** Peer in age and experience; not directly connected to the network.
 
 ---
 
-## 18. Secrets
+## 19. Secrets
 
 ### Public Knowledge
 - She is Helen, the woman who lives in the house.
@@ -331,7 +408,7 @@ If Leon is threatened, she might act to protect him — and eventually does act 
 
 ---
 
-## 19. Character Arc
+## 20. Character Arc
 
 - **Starting state:** A composed household woman with unexplained knowledge and a guarded relationship to the house.
 - **Psychological trajectory:** Gradually reveals more as Leon earns her trust, while her own understanding of the network's full picture remains incomplete.
@@ -342,7 +419,7 @@ If Leon is threatened, she might act to protect him — and eventually does act 
 
 ---
 
-## 20. Story Function
+## 21. Story Function
 
 - **Household presence / emotional counterweight** — She grounds Leon in daily life and counters his isolation.
 - **Connection to the Ashcroft past** — She holds fragments of family history and network knowledge.
@@ -352,7 +429,7 @@ If Leon is threatened, she might act to protect him — and eventually does act 
 
 ---
 
-## 21. Character Uniqueness
+## 22. Character Uniqueness
 
 - **Signature behavior:** Appears silently; watches from thresholds; has things ready before being asked.
 - **Signature contradiction:** Protects secrets but also wants Leon to stay safe.
@@ -365,7 +442,7 @@ If Leon is threatened, she might act to protect him — and eventually does act 
 
 ---
 
-## 22. Historical / 1816 Consistency
+## 23. Historical / 1816 Consistency
 
 - **Occupation:** Household manager; no formal occupation
 - **Clothing:** Modest, practical, period-appropriate
@@ -378,31 +455,32 @@ If Leon is threatened, she might act to protect him — and eventually does act 
 
 ---
 
-## 23. Mystery Continuity
+## 24. Mystery Continuity
 
-- **What she knows about Aurelius:** Fragments only, received through the network; she never met him.
+- **What she knows about Aurelius:** Fragments only, received through X or the Ashcroft family legacy; she never met Aurelius personally.
 - **What she knows about Bellweather:** The house's practical history and some of its hidden associations; not the complete supernatural pattern.
-- **What she knows about the Ashcroft family:** Partial history, not the entire lineage or its complete significance.
+- **What she knows about the Ashcroft family:** Partial history passed through the legacy, not the entire lineage or its complete significance.
 - **What she knows about the Hidden Society:** Peripheral fragments only; she does not understand the full structure or mechanism.
+- **What she knows about X:** X is the person from whom she received certain information and instructions; she does not know X's complete knowledge, identity, or current situation.
 - **What she believes Leon's role is:** That he has been drawn into the same pattern as the Ashcroft line; she wants him protected, but does not know the full purpose of that pattern.
-- **What she is hiding:** Her full name, her network link, the extent of her knowledge.
+- **What she is hiding:** Her full name, her link to X, the extent of her knowledge.
 - **What the reader currently knows:** That she is mysterious and likely important, but not omniscient.
-- **What must remain unrevealed:** Her full identity until the right moment; her true knowledge of the Circle; the identity of X; the full structure of the network.
+- **What must remain unrevealed:** Her full identity until the right moment; her true knowledge of the Circle; the identity of X; the full structure of the network; her exact genealogical relationship to Aurelius.
 
 ---
 
-## 24. Knowledge Boundaries
+## 25. Knowledge Boundaries
 
 | Character | Knows | Does NOT Know |
 |-----------|-------|---------------|
-| **Helen** | Household history; fragments of Ashcroft past; that a hidden network exists; that Leon is part of the Ashcroft line; certain warnings/instructions from X | The complete supernatural mechanism; the full Hidden Society structure; everything X knows; whether the physical and supernatural Bell are the same; what ultimately lies beneath the house |
-| **Leon** | What Helen has chosen to reveal; his own direct experiences | Helen's full name; her network connection; the extent of her knowledge; the full Ashcroft history |
-| **X** | The wider network structure; deeper layers of the Hidden Society; more of the supernatural mechanism | Helen's complete situation; whether Helen has revealed too much to Leon; the full extent of Leon's discoveries |
-| **Deeper network members** | The full structure and purpose of the Hidden Society; the complete mechanism | Helen's private thoughts; whether she will follow instructions or act independently |
+| **Helen** | Household history; fragments of Ashcroft past received through X or the family legacy; that Leon is part of the Ashcroft line; certain warnings/instructions from X; that a hidden network exists | The complete supernatural mechanism; the full Hidden Society structure; everything X knows; whether the physical and supernatural Bell are the same; what ultimately lies beneath the house; the complete truth about Aurelius |
+| **Leon** | What Helen has chosen to reveal; his own direct experiences | Helen's full name; her link to X; the extent of her knowledge; the full Ashcroft history |
+| **X** | The wider network structure; deeper layers of the Hidden Society; more of the supernatural mechanism; fragments of the Ashcroft family legacy | Helen's complete situation; whether Helen has revealed too much to Leon; the full extent of Leon's discoveries; the complete truth about Aurelius |
+| **Deeper network members** | The full structure and purpose of the Hidden Society; the complete mechanism | Helen's private thoughts; whether she will follow instructions or act independently; the full extent of X's knowledge |
 
 ---
 
-## 25. Authorial Principle
+## 26. Authorial Principle
 
 - Helen remains **deliberately incomplete** as a source of knowledge.
 - She is **not** an omniscient guardian; she is a compartmentalized participant in a larger pattern she does not fully understand.
