@@ -184,6 +184,55 @@ His death was the breaking point.
 
 ---
 
-**Status:** CANON / HIDDEN
-**Last Updated:** 2026-08-28
+**Status:** FROZEN — CANON v1.0
+**Last Updated:** 2026-09-06
 **Version:** 1.0
+**Freeze Date:** 2026-09-06
+
+## Freeze Status
+
+**Mystery #9 — Aurelius Ashcroft** is **FROZEN — CANON v1.0** as of 2026-09-06.
+
+### What is frozen
+- Aurelius Ashcroft is a historical figure, lived ~1757–1804, died age ~47 in London on 22 February 1804.
+- He lived at Bellweather House, Bellweather Lane, Alderwick.
+- His name does not appear in the property register.
+- He signed the Agreement (Ch40) and made the lock (Ch96).
+- He left a letter containing "the lock is a record, not a door" (Ch98).
+- He was **not** the first keeper (Ch44); a keeper before him existed (Ch107).
+- He was associated with a historical communication network that is now fragmented, dormant, or disconnected.
+- At least one surviving contact is attempting to determine whether the Ashcroft line can be reached.
+- Edmund Wren was his witness and confidant.
+- Eleanor Vane was his wife.
+- His full story remains hidden canon / gradually revealed.
+
+### What remains explicitly unresolved after freeze
+- His exact genealogical relationship to Leon.
+- Whether he personally founded the network or was merely associated with it.
+- The full identities of M.R., J.T., M.B.
+- The complete history of the network.
+- The relationship between the network and the Order of Severence.
+- Whether he understood the full supernatural mechanism behind the Door/Bell/anomalies.
+- The reason his name is absent from the property register.
+- The exact circumstances of his death beyond "died in London, 22 Feb 1804."
+- Whether the network had knowledge of 00:00, Tokens, Gears, or other later mysteries.
+- The full contents of the letter beyond the confirmed sentence.
+
+### Deprecated / rejected interpretations
+- Aurelius as the first keeper — **REJECTED**.
+- Aurelius as a supernatural entity or the being behind the Door — **REJECTED**.
+- Aurelius as Leon's confirmed father / direct ancestor — **NOT ESTABLISHED**.
+- Aurelius as the boy in the portrait/dream — **NOT ESTABLISHED**.
+- Aurelius as omniscient architect of all Alderwick's supernatural systems — **REJECTED**.
+- Aurelius's network = Order of Severence — **REJECTED**.
+- Aurelius as a Keeper/Count/Tally/Rings system participant in the deprecated architecture — **REJECTED**.
+
+### Backward consistency
+This freeze does not alter confirmed canon for Mystery #1–#8. No contradictions were found.
+
+---
+
+## Mystery Continuity
+- **What he knows:** Everything about his own activities.
+- **What the reader knows:** His name, dates, marriage, death, and that he built a network.
+- **What must remain unrevealed:** The full details of his network until the appropriate plot points.

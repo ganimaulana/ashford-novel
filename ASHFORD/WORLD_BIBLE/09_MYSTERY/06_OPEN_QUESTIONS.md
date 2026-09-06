@@ -21,6 +21,44 @@
 
 ## Pertanyaan Utama
 
+### Aurelius Ashcroft — FROZEN
+
+**Status:** FROZEN — CANON v1.0 (2026-09-06)
+
+**Yang telah di-freeze:**
+- Aurelius Ashcroft adalah tokoh sejarah yang benar-benar ada, hidup ~1757–1804, meninggal di London 22 Feb 1804.
+- Tinggal di Bellweather House, Bellweather Lane, Alderwick.
+- Namanya tidak tercatat dalam register properti.
+- Menandatangani Agreement (Ch40), membuat kunci (Ch96), meninggalkan surat "the lock is a record, not a door" (Ch98).
+- Bukan keeper pertama (Ch44); keeper sebelum dia pernah ada (Ch107).
+- Terhubung dengan historical communication network yang sekarang terfragmentasi/dorman.
+- Setidaknya ada satu surviving contact yang mencoba menjangkau garis Ashcroft.
+- Edmund Wren adalah witness dan confidant.
+- Eleanor Vane adalah istri.
+
+**Yang tetap terbuka (UNRESOLVED):**
+- Hubungan genealogis spesifik antara Aurelius dan Leon.
+- Apakah Aurelius personally founded network atau hanya associated.
+- Identitas M.R., J.T., M.B.
+- Complete history network.
+- Hubungan network dengan Order of Severence.
+- Apakah Aurelius memahami full supernatural mechanism.
+- Alasan namanya tidak ada di register properti.
+- Detail kematiannya di London.
+- Apakah network memiliki knowledge tentang 00:00, Tokens, Gears.
+- Full contents surat beyond confirmed sentence.
+
+**Deprecated/rejected:**
+- Aurelius sebagai first keeper — REJECTED.
+- Aurelius sebagai supernatural entity / being behind Door — REJECTED.
+- Aurelius sebagai confirmed father of Leon — NOT ESTABLISHED.
+- Aurelius sebagai boy in portrait/dream — NOT ESTABLISHED.
+- Aurelius sebagai omniscient architect — REJECTED.
+- Network Aurelius = Order of Severence — REJECTED.
+- Koneksi dengan deprecated Keeper/Count/Tally/Rings — REJECTED.
+
+---
+
 ### Symbol Relationship (Symbol A vs. Symbol B)
 
 **Pertanyaan:**
