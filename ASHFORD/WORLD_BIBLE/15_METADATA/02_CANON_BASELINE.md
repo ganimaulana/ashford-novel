@@ -90,6 +90,7 @@ Arc 1 (Chapters 1–141) is active canon as of 2026-09-04. It remains the curren
 - The Door is kept closed; it is "not a door" but a memory.
 - Exact relationship to Components, Key, 00:00, Call, and The Sanctuary remains to be discovered gradually.
 - The place beneath is beneath the chamber, not behind the door.
+- **Mill Stone Door / Gear Separation (2026-09-06):** The Gear is NOT the mechanism that opens the Mill Stone Door. The Mill Door has no confirmed Gear interface. The Gear and the Mill Door have different markings. The previous one-inch opening attributed to Gear operation is SUPERSEDED. The Door's response is an unexplained phenomenon. Any future Gear–Door relationship must be discovered through evidence, not assumed.
 
 **Source:** `02_CANON_TERMINOLOGY.md` §THE DOOR; `06_CONTINUITY_LEDGER.md`
 

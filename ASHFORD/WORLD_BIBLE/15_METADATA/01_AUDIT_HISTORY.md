@@ -35,7 +35,7 @@
 - The supernatural system is grounded and restrained: three signs, medallions that warm, the gear, reappearing house, chamber beneath both houses, bell that rings for the keeper, count of keepers, thirteen rings.
 - 00:00 is an operational time marker within Aurelius's Watch/Call system; its meaning is never given.
 - The bell is a keeper's call signal; its tongue was sold long ago; it rings once for the keeper who must descend.
-- The door is a stone door beneath the mill, opened with the gear, leading to a passage; it is "not a door" but a memory.
+- The door is a stone door beneath the mill; previous development canon stated it was opened with the gear, but this is now SUPERSEDED. The Door has no confirmed Gear interface. The Door's response is an unexplained phenomenon. It is "not a door" but a memory.
 - Aurelius is a previous Ashcroft who lived in Bellweather House, signed the Agreement, made the lock, and left a letter; his full story remains in the margins.
 - Three distinct signs (maker's/first, keeper's, Order's) with clear shapes and locations; complete meaning not given.
 - Two organizations: Order of Severence (foundation; wants the door opened; factional) and a nameless preservation society (later; tests Leon; wants the tally).

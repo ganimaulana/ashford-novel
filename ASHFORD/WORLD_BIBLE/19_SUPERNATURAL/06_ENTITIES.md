@@ -39,9 +39,16 @@ Do NOT define the nature of major unresolved entities. Preserve as Anomaly until
 - [EVIDENCE: CONTRADICTION] Reported (13 strikes) vs observed (12 strikes). Preserved as mystery.
 
 ### The Stone Door Beneath the Mill (Ch 38, 40, 46)
-- [EVIDENCE: CONFIRMED] A narrow stone door set into the ground, no handle/keyhole/hinge, marked with a circle crossed by a short line; a depression matches the gear's shape. The mill appears to have been built around something already there. SOURCE: Ch 38.
-- [EVIDENCE: CONFIRMED] When the gear is placed in the depression and turned, the door moves (opens ~one inch); darkness and a passage appear; cold air and a low movement from beyond. Leon closes it. SOURCE: Ch 46.
-- [EVIDENCE: CONFIRMED] The Door is a containment boundary. Something on the other side cannot normally enter the human world, but it can exert influence from within. The nature, identity, origin, and true ontology of what exists behind the Door remain UNRESOLVED. SOURCE: Working canon 2026-09-06.
+- [EVIDENCE: CONFIRMED] An ancient narrow stone Door exists beneath/within the Mill structure. It has no ordinary handle, keyhole, or visible hinge.
+- [EVIDENCE: CONFIRMED] The Door bears a marking distinct from the Gear's marking: three short lines meeting at a point, with one line extending slightly beyond the junction.
+- [EVIDENCE: CONFIRMED] The Mill appears to have been constructed around an older structure.
+- [EVIDENCE: CONFIRMED] An unexplained phenomenon occurs in proximity to the Mill/Door and is followed by a subtle physical response from the Door.
+- [EVIDENCE: UNKNOWN] Whether the phenomenon caused the Door's response.
+- [EVIDENCE: UNKNOWN] The nature and purpose of the Door.
+- [EVIDENCE: UNKNOWN] The meaning of its marking.
+- [EVIDENCE: UNKNOWN] What lies beyond/beneath it.
+- [EVIDENCE: UNKNOWN] The conditions under which the Door can move or respond.
+- [EVIDENCE: SUPERSEDED] Earlier development canon stated that the Gear fit a depression in the Door and opened it approximately one inch. This is now superseded. The Gear and the Mill Stone Door have different markings, and the Door has no confirmed Gear interface.
 
 ### The Reappearing House on the Common (Ch 39, 45)
 - [EVIDENCE: CONFIRMED] Appears where the common meets the lower pasture. Witnesses disagree on colour: white (farmer), grey (woman), dark brick (third person). When gone, only flattened grass remains — no foundation. SOURCE: Ch 39.

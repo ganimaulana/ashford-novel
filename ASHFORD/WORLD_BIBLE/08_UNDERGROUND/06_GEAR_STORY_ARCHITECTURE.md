@@ -11,7 +11,7 @@
 
 ### CONFIRMED (manuscript Ch 1–141)
 - Ch 36: Leon finds **the gear** under the Mill Lane clock. Initial interpretation: a clock part / found object. **No temperature anomaly — the gear behaves as ordinary cold iron in every test (revised canon 2026-09-03: THE GEAR DOES NOT BECOME WARM).**
-- The gear fits a depression in the stone door beneath the mill; when set in and turned under pressure, the underground **mechanism** responds (tremor Ch40; clicks and a one-inch opening Ch49). Whether the mechanism responded to the gear, recognized it, or merely required its shape is UNKNOWN — protected.
+- The gear fits a depression in the stone door beneath the mill; when set in and turned under pressure, the underground **mechanism** responds (tremor Ch40; clicks and a one-inch opening Ch49). Whether the mechanism responded to the gear, recognized it, or merely required its shape is UNKNOWN — protected. **[SUPERSEDED 2026-09-06]** The Mill Stone Door has no confirmed Gear interface. The previous one-inch opening attributed to Gear operation is superseded. The Door's response is an unexplained phenomenon.
 - Ch 56–66: Leon's classifications of the gear are provisional and end unresolved (key → lock → marker → "I could not call it anything yet"). The keeper's sign is associated with the key function. The gear is never "the keeper's key" and never a universal key.
 - Ch 78: the **Keeper's Door** (third door, beneath Bellweather House) has **no depression for the gear and no lock**; it answers the Tokens. Keeper's Seal ≠ Gear; Keeper's Door ≠ Gear mechanism; the Keeper's Door does not require the gear.
 - **One confirmed gear** exists (Ch49 reconciliation: the box gear and Leon's gear are the same object; the older "two gears" note is superseded — see 07_MASTER_GEAR_BLUEPRINT §III).
@@ -28,6 +28,7 @@
 - Relationship between the proposed "ancient organization" and the confirmed nameless society / Order of Severence / Aurelius as lock-maker.
 - The "Door at Leon's residence" concept: canon places the Door **beneath the mill** and the chamber beneath Bellweather House. No canon supports a separate door inside Leon's residence. **Recorded as CONTRADICTION-CHECK: the story architecture uses the confirmed mill/chamber geography only.**
 - Whether the Gears communicate with the entity behind Vale's Door; whether they weaken the Door; whether they cause the Bell; whether they open Vale's Door; whether assembling all nine Gears automatically releases an entity. All remain OPEN.
+- The Mill Stone Door has no confirmed Gear interface. The Gear and the Door have different markings. The Door's response is an unexplained phenomenon. Any future Gear–Door relationship must be discovered through evidence.
 
 ### LEGACY / DEVELOPMENT HISTORY
 - LOTM-derived mythology (power 9→8, connection slots) — excluded from canon (`FINAL_MYSTERY_LEDGER.md` audit).

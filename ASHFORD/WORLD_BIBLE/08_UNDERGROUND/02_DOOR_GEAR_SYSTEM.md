@@ -202,6 +202,21 @@ These are possibilities, not confirmed facts.
 
 ---
 
+## I.A.1. MILL DOOR / GEAR SEPARATION — CONTINUITY WARNING
+
+**The proposed Door–Gear–Token architecture does not retroactively establish that the Mill Stone Door is operated by the confirmed Gear.**
+
+The Mill Stone Door has no confirmed Gear interface and must remain an independent unresolved anomaly unless future canon establishes otherwise.
+
+**SUPERSEDED/RETCONNED (2026-09-06):** Earlier development canon stated that the Gear fit a depression in the Mill Door and opened it approximately one inch. This is no longer active canon. The Mill Door has no Gear socket, recess, or interface. The Gear and the Mill Door have different markings. Any future Gear–Door relationship must be discovered through evidence, not assumed from physical compatibility.
+
+Preserve the distinction between:
+- proposed future Door–Gear architecture;
+- confirmed Mill Door observations;
+- unresolved relationship between supernatural Doors generally.
+
+---
+
 ## I.B. SYSTEM C — THE WATCH / CALL / 00:00
 
 **Core Concept:** 00:00 is primarily associated with an **OPERATIONAL / ORGANIZATIONAL SYSTEM** connected to Aurelius's hidden network.

@@ -167,7 +167,7 @@
 |----------|-------------------|-------------|
 | No. 13 Bellweather Lane | Habitable; locked door beneath stairs (Ch3) | Door contents; plate history |
 | Bellweather House (end of lane) | Empty, unmapped, no number; light seen intermittently | Interior never entered; who tends it |
-| The mill / stone door | Beneath collapsed wall; gear depression; opened an inch | What lies beyond; door as memory |
+| The mill / stone door | Beneath collapsed wall; no Gear interface; distinct marking; unexplained response | What lies beyond; door as memory; what causes the response |
 | The common house (reappearing) | Appears intermittently; clock at 00:00; three knocks | House of the keeper's sign; location conflict Ch39 vs Ch45 |
 | St. Bartholomew's | Church; tower locked with two keys; bell sold | Hodge's second ring; bench man's visit |
 | Alderwick Library | Subscription library; Bellweather entry moved | Who moved it; where |

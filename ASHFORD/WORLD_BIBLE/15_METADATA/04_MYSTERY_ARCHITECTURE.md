@@ -12,7 +12,7 @@
 |---------|------------------|--------|-------|
 | **00:00** | Ch1 (stopped clock, still ticking); Ch45 (reappearing house clock) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Operational time marker within Aurelius's Watch/Call system; not currently established as a supernatural threshold, Door activation, or Bell cause. Never explained. |
 | **The Bell** | Ch1 (toll); Ch13 (tongue sold) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Keeper's call signal; rang once for Leon; kept, not rung. Summons UNKNOWN. |
-| **The Door** | Ch38 (stone door beneath mill) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Not a door; kept closed; place beneath is beneath chamber. |
+| **The Door** | Ch38 (stone door beneath mill) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Ancient sealed boundary/interface; no Gear interface; different marking from Gear; response to unexplained phenomenon; causality unresolved. |
 | **Aurelius Ashcroft** | Ch1 (will); Ch40 (Agreement) | LONG-TERM | Margins-only; signed Agreement, made lock, died 1804. Full story unknown. |
 | **The Count / Tally** | Ch55 (wall signs); Ch107–109 (first keeper's book) | ONGOING | Counts the keepers; thirteen rings of first-sign stones; destination unknown. |
 | **The Three Signs** | Ch1 (symbol); Ch37–38 (Order's); Ch49–50 (keeper's) | ONGOING | First sign (maker's), keeper's sign (key), Order's sign (lock). Thirteen rings. |
