@@ -13,7 +13,7 @@
 2. Leon is the **only confirmed direct hearer** of the Bell in the currently established material.
 3. Helen is **NOT confirmed** to have heard the Bell on the night of Chapter 1.
 4. Helen's knowledge about the Bell may come from **second-hand information** rather than personal experience.
-5. A **physical bell** historically existed and was sold to Josiah Crane, ironmonger of High Street, for £4 10s, as recorded in Chapter 13.
+5. A **physical bell** exists in the church tower in 1816. The physical bell and the supernatural Bell phenomenon are distinct layers of mystery. The existence of the physical bell does not by itself explain the anomalous sound heard by Leon. The mechanism by which the supernatural Bell phenomenon relates to the physical bell remains unresolved.
 6. The historical physical bell must **NOT** automatically be treated as identical to the supernatural Bell phenomenon.
 7. The Bell is connected to the wider Bellweather anomaly pattern, including the lamp and the house.
 8. The Bell is **NOT** identical to 00:00.
@@ -40,7 +40,7 @@ Preserve the established Bellweather Cycle canon:
 Preserve and organize the existing evidence from Chapters 1–100:
 
 - **Chapter 1:** Leon hears the Bell; Helen says it has not rung in a long time, but this does **NOT** prove she heard it.
-- **Chapter 13:** historical record of the physical bell being sold to Josiah Crane for £4 10s.
+- **Chapter 13:** historical record of the physical bell. The bell remains in the church tower.
 - **Chapter 18:** observation of an alternation involving the lamp, the bell, and the house.
 - **Later sequence:** the Bell is heard at 1 o'clock; this prevents canonizing midnight as the Bell's invariant trigger.
 
@@ -52,7 +52,7 @@ Preserve and organize the existing evidence from Chapters 1–100:
 - The Bell is **not** the same as 00:00.
 - The Bell is **not** currently identical to the Call.
 - The Bell has **no** connection to the deprecated Keeper / Count / Tally / Rings architecture.
-- The physical bell (sold 1809) and the supernatural Bell phenomenon may be related, but are **not** automatically identical.
+- The physical bell (in the church tower) and the supernatural Bell phenomenon may be related, but are **not** automatically identical.
 
 ---
 
@@ -99,7 +99,7 @@ Preserve and organize the existing evidence from Chapters 1–100:
 
 - The Bell remains **deliberately ambiguous**.
 - No premature explanation; no conflation with 00:00 or the Call without explicit future evidence.
-- The physical bell's sale in 1809 is **historical fact**, not supernatural explanation.
+- The physical bell remains in the church tower. Its relationship to the supernatural Bell phenomenon remains unresolved.
 - Helen's knowledge of the Bell is **unconfirmed as direct experience**.
 - The Bell is **one stream** of evidence within the broader Bellweather anomaly, not the whole.
 - All resolutions must wait for the **complete Chapter 1–100 evidence audit**.

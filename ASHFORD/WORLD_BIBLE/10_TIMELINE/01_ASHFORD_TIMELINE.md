@@ -951,10 +951,10 @@ The following events are CONFIRMED by locked/living canon chapters. Source notat
 - **[CONFIRMED] 1804 — Schedule of effects proved spring 1804** from probate of the will. SOURCE: Ch 12, 21.
 - **[CONFIRMED] 1805 — Hobbs entered the poor-house ("year five").** Eleven years before November 1816. SOURCE: Ch 16.
 - **[CONFIRMED] 1806 — Academy copy made:** T. Wren gave the Academy a copy of the 1804 schedule, with a letter directing it be shown to any that should ask. The tenure blank is filled with the name **E. Hodge** in the copyist's hand. SOURCE: Ch 21.
-- **[CONFIRMED] 1808 — Subscription for the bell:** The town subscribed for the bell in year eight; Josiah Crane (the elder) gave to the bell, and the gift was returned to him in the same year, by the clerk's hand ("returned" note). SOURCE: Ch 20.
-- **[CONFIRMED] Michaelmas 1809 — Bell sold:** Josiah Crane of High Street, ironmonger, bought the bell for £4 10s, entered by T. Wren, clerk; money carried to the general account; bell removed from the tower inventory. SOURCE: Ch 13, 18, 20, 35.
-- **[CONFIRMED] 4 June 1810 — Paper re: bell:** "One taken away as agreed, from the store, and carried to the house by the church. Paid in the paper. No bell owing." Signed with a cross. The bell left Crane's yard in year ten. SOURCE: Ch 23.
-- **[CONFIRMED] 1812 — Josiah Crane (the elder) died.** The stock was counted by the bench's own counter; no bell in the counting. SOURCE: Ch 22.
+- **[SUPERSEDED] 1808 — Subscription for the bell:** The town subscribed for the bell in year eight; Josiah Crane (the elder) gave to the bell, and the gift was returned to him in the same year, by the clerk's hand ("returned" note). **This material is SUPERSEDED.** The physical bell was not sold to Josiah Crane. SOURCE: Ch 20.
+- **[SUPERSEDED] Michaelmas 1809 — Bell sold:** Josiah Crane of High Street, ironmonger, bought the bell for £4 10s, entered by T. Wren, clerk; money carried to the general account; bell removed from the tower inventory. **This material is SUPERSEDED.** There is no canon transaction involving a £4 10s purchase of the bell by Crane. The bell was not removed from the tower inventory. SOURCE: Ch 13, 18, 20, 35.
+- **[SUPERSEDED] 4 June 1810 — Paper re: bell:** "One taken away as agreed, from the store, and carried to the house by the church. Paid in the paper. No bell owing." Signed with a cross. The bell left Crane's yard in year ten. **This material is SUPERSEDED.** There is no canon that the bell was transported to another house. SOURCE: Ch 23.
+- **[SUPERSEDED] 1812 — Josiah Crane (the elder) died.** The stock was counted by the bench's own counter; no bell in the counting. **This material is SUPERSEDED.** The bell was not in Crane's possession. SOURCE: Ch 22.
 - **[CONFIRMED] 1816 — Present year.** Novel begins 12 Nov 1816.
 
 ## Novel-era chronology (Ch 1–35, locked/living canon)
@@ -974,10 +974,10 @@ The following events are CONFIRMED by locked/living canon chapters. Source notat
 - **[CONFIRMED] 3–4 Dec 1816:** Lamp at nine (3 Dec); first full-silence night (4 Dec) — no lamp, no sound; alternation held three nights, broke on the fourth. SOURCE: Ch 18.
 - **[CONFIRMED] 5 Dec 1816 (Thursday):** Leon goes to Arthur's; bench man holds the clerk's tower key. SOURCE: Ch 18.
 - **[CONFIRMED] 6–7 Dec 1816:** Second watch round; tower-door frost evidence (two comings, one going); frost since Tuesday. SOURCE: Ch 19.
-- **[CONFIRMED] 8 Dec 1816 (Sunday):** First snow; tower key given back; Arthur shows the 1808 subscription list (Crane "returned"). SOURCE: Ch 20.
+- **[CONFIRMED] 8 Dec 1816 (Sunday):** First snow; tower key given back; Arthur shows the 1808 subscription list (Crane "returned"). **Note:** The Crane subscription return is historical record; the bell itself was not sold to Crane. SOURCE: Ch 20.
 - **[CONFIRMED] 9 Dec 1816 (Monday):** Academy visit; Daniel shows the schedule with E. Hodge. SOURCE: Ch 21.
-- **[CONFIRMED] 10–11 Dec 1816:** Crane's shop; son interviewed; no bell in books/stock/store. SOURCE: Ch 22.
-- **[CONFIRMED] 12–13 Dec 1816:** Yard searched — no bell; chalk mark "4/10"; 1810 paper shown. SOURCE: Ch 23.
+- **[CONFIRMED] 10–11 Dec 1816:** Crane's shop; son interviewed; no bell in books/stock/store. **Note:** This reflects the fact that the bell was never in Crane's possession. SOURCE: Ch 22.
+- **[SUPERSEDED] 12–13 Dec 1816:** Yard searched — no bell; chalk mark "4/10"; 1810 paper shown. **This material is SUPERSEDED.** The chalk mark and 1810 paper reference a transaction that is no longer canon. SOURCE: Ch 23.
 - **[CONFIRMED] 14 Dec 1816 (Saturday):** Third round — mill-yard gate found open at 11; bell tolls at 1 on the lamp's night. SOURCE: Ch 24.
 - **[CONFIRMED] 15 Dec 1816 (Sunday):** Verger tells the four tellings of the gate. SOURCE: Ch 24.
 - **[CONFIRMED] 16 Dec 1816 (Monday):** Vestry rate meeting; Hobbs named; bench man sits where the wardens sit; rate at the bench's figure. SOURCE: Ch 25.

@@ -1,4 +1,4 @@
-# Helen Margaret Ashcroft
+# Helen Elizabeth Ashcroft
 
 ## Canon Status
 **Status:** WORKING CANON — AUTHOR-APPROVED DIRECTION
@@ -277,7 +277,7 @@ These must remain open until the relevant mysteries are resolved, especially:
 
 ## 12. Basic Identity
 
-- **Full name:** Helen Margaret Ashcroft (INTERNAL HIDDEN CANON — do not reveal to readers)
+- **Full name:** Helen Elizabeth Ashcroft (INTERNAL HIDDEN CANON — do not reveal to readers)
 - **Public name:** Helen (no surname given in the story)
 - **Age:** 32–34 (working range 30–35)
 - **Gender:** Female
@@ -398,7 +398,7 @@ If Leon is threatened, she might act to protect him — and eventually does act 
 - Her link to X and the peripheral network.
 
 ### Reader-Known Secret
-- Her full name (Helen Margaret Ashcroft) is revealed in hidden canon but not in the narrative.
+- Her full name (Helen Elizabeth Ashcroft) is revealed in hidden canon but not in the narrative.
 
 ### Character-Known Secret
 - Leon does not know her true identity or the full extent of her knowledge.

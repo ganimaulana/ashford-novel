@@ -31,6 +31,7 @@ Arc 1 (Chapters 1–141) is active canon as of 2026-09-04. It remains the curren
 | Eleanor Shaw is NOT a member of the Order of Severence | CONFIRMED | 2026-09-03 | Author direction (aligned to Ch61) |
 | Thomas Vale's name and secular identity (not clerical) | CONFIRMED | Manuscript | Ch40; "Father Lucien Vale" rejected |
 | Keeper's Door (Ch78) has no lock, no Gear depression, answers Tokens | CONFIRMED | 2026-09-03 | Canon lock |
+| Physical church bell remains in tower in 1816; Crane/bell transaction removed from canon | CONFIRMED | 2026-09-06 | Author direction |
 | Token warmth is keeper-specific; does not warm for anyone but the keeper | CONFIRMED | Ch117 | Hard lock |
 
 ---

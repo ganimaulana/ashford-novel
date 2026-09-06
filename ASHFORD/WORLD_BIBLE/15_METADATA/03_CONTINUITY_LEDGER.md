@@ -87,7 +87,7 @@
 - **6–7 Dec 1816:** Second watch round; tower door frost evidence (Ch19).
 - **8 Dec 1816:** Key given back; Arthur's subscription list (Ch20).
 - **9 Dec 1816:** Academy copy; E. Hodge name in tenure (Ch21).
-- **10–11 Dec 1816:** Crane & Son; chalk mark 4/10 (Ch22–23).
+- **10–11 Dec 1816:** Crane & Son; chalk mark 4/10 (Ch22–23). **Note:** The chalk mark "4/10" references the deprecated Crane transaction material and is SUPERSEDED.
 - **14–15 Dec 1816:** Third round; gate found open; bell tolls (Ch24).
 - **16–17 Dec 1816:** Vestry rate meeting; Hobbs named (Ch25).
 - **18 Dec 1816:** Post office asked about letters (Ch26).
@@ -169,9 +169,9 @@
 | Bellweather House (end of lane) | Empty, unmapped, no number; light seen intermittently | Interior never entered; who tends it |
 | The mill / stone door | Beneath collapsed wall; no Gear interface; distinct marking; unexplained response | What lies beyond; door as memory; what causes the response |
 | The common house (reappearing) | Appears intermittently; clock at 00:00; three knocks | House of the keeper's sign; location conflict Ch39 vs Ch45 |
-| St. Bartholomew's | Church; tower locked with two keys; bell sold | Hodge's second ring; bench man's visit |
+| St. Bartholomew's | Church; tower locked with two keys; bell remains in tower | Hodge's second ring; bench man's visit |
 | Alderwick Library | Subscription library; Bellweather entry moved | Who moved it; where |
-| Crane & Son, High Street | Ironmonger's shop; no bell visible | Bell's physical whereabouts |
+| Crane & Son, High Street | Ironmonger's shop | No established connection to bell transaction |
 | Poor-house | Hobbs's residence; register maintained | Hobbs's fate |
 | Marlowe's garden wall | East boundary; footpath; cat-window | Dweller's supply route |
 | East district / North Alderwick | Unexplored on page | Fresh geography |
@@ -189,7 +189,7 @@
 | Third medallion | Ch134 | Carried by Leon, warm (with others) | Kept by Miriam's family |
 | Gear | Ch36 | Passed to Daniel (Ch125) | ONE confirmed; mechanical response only; does NOT warm |
 | The Agreement | Ch40 | In Leon's possession | Signed by Aurelius; kept by Vale→Leon |
-| The bell (tower) | Ch1 (toll), Ch13 (sale) | Kept, not rung | Tongue sold 1809; rings once for Leon |
+| The bell (tower) | Ch1 (toll) | Remains in church tower | Tongue sale 1809 is SUPERSEDED as part of deprecated Crane transaction; rings once for Leon; physical bell distinct from supernatural Bell phenomenon |
 | The key (room) | Ch1 | Leon carries | Symbol on head |
 | The key (tower) | Ch19 | Verger + clerk; Hodge's second ring missing | Missing third key |
 | The iron key (first sign) | Ch94 | Found | Lock at 00:00 |
