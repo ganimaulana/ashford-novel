@@ -108,7 +108,7 @@ After a time I went back inside. My hands were shaking as I wrote the entry in m
 
 It is the bell and the lamp are not one matter, for there was no hand by the window to strike when it was dark, unless the hand was below and going up. There is a rope to a stair that wants a bell that had rung, in a house where a rope is wanted; so Hobbs said, who was fife.
 
-But now there is more than bell and lamp. There is a watcher and a watched, and the direction between them goes both ways.
+But now there is more than bell and lamp. There is an observer and an observed, and the direction between them goes both ways.
 
 There is, therefore, at the end of the lane, at least what we feared; and I am now in the town's own list, and the firm has said its last on it out of London, and Arthur has said his first. And there is nothing for it now but what a man does when he is a householder, and the paper is his, and the roll is written: he goes to the books of the churchwardens, and after that he goes in search of what the paper can find, of the bell-money which is not in a bell, and of the bell that is not in the money, at the gate corner, of the dark house, whose hand is put out of the town's name out of all the town's paper.
 

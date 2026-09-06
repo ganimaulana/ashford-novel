@@ -34,7 +34,7 @@ I read it twice. The situation was clear. The options were limited. The constrai
 
 I looked at the locked drawer. The key was on the desk, beside the envelope. I could take it at any moment. But Calloway had said the drawer might mislead me. If the letter was truthful, the drawer would help. If the letter was lying, the drawer might contain more lies.
 
-I thought about the lock in the storehouse. The clerk had known Aurelius's name before I spoke it. The symbol on the lock had matched the Agreement. The office had placed both before me without explanation. They were not testing whether I could find things. They were testing whether I would trust what I saw.
+I thought about the lock in the storehouse. The clerk had known what it was before I identified it. The office had placed it before me without explanation. They were not testing whether I could find things. They were testing whether I would trust what I saw.
 
 I looked at the letter again. It said the package contained documents that belonged to the Constable office. It said the sender was unknown. It said the package was unmarked except for the address.
 
@@ -46,7 +46,7 @@ I set the letter down. I had one hour. I could sit and think, or I could take th
 
 I looked out the window. The courtyard was empty. The other candidates had been led to their rooms. I could see the east gate in the distance, a dark rectangle against the grey wall. A package at the east gate. A letter in my hand. A locked drawer in front of me.
 
-I stood up and walked to the window. My shoulder ached from the crate I had carried in the granary. The wound from the storehouse window was still tender. I was not as strong as I had been a week ago. I needed to choose my effort carefully.
+I stood up and walked to the window. My shoulder ached from the crate I had carried in the granary, and my thighs still burned from the climb up the loft stairs. I was not as strong as I had been a week ago. I needed to choose my effort carefully.
 
 I returned to the desk. I picked up the key.
 

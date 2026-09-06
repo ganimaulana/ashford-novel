@@ -1,4 +1,4 @@
-﻿CHAPTER 46 — THE WATCHER'S BURDEN
+﻿CHAPTER 46 — THE OBSERVER'S BURDEN
 
 Graves returned three nights after the stone was moved.
 
