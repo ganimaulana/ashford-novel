@@ -8,7 +8,7 @@
 - **Public name:** Aurelius Ashcroft
 - **Age:** Lived approximately 1757–1804 (age 47 at death)
 - **Gender:** Male
-- **Occupation:** Gentleman/property owner; possibly a merchant or investor
+- **Occupation:** Gentleman/property owner; active trader and collector of antiquities, historical objects, rare objects, old manuscripts, historical documents, private papers, and unusual objects — including items with unclear provenance
 - **Social position:** Wealthy, influential
 - **Residence:** Bellweather House (at the end of Bellweather Lane)
 - **District:** Bellweather Lane
@@ -95,6 +95,30 @@ APPROVED CANON DIRECTION — underlying mystery architecture. Not revealed to Le
 - The historical network may have fragmented, lost members, lost records, lost communication routes, become dormant, or survived only through isolated contacts.
 - Do not invent exact causes unless already supported by existing canon.
 
+## Object Collection / ERC Activities
+
+Aurelius is suspected of having acquired, traded, or stored a large number of unusual objects, documents, and artifacts. Some of these objects may fall into the category of Esoteric Record Classification (ERC), although the exact extent and nature of his ERC holdings remain UNRESOLVED.
+
+### Known / Suspected Categories
+- Antiquities and historical artifacts
+- Old manuscripts and historical documents
+- Private papers and correspondence
+- Unusual objects with unclear provenance
+- Objects that may possess anomalous or supernatural properties
+
+### ERC Status
+- **Confirmed:** Aurelius had access to unusual objects and documents (Agreement, lock, letter, network materials).
+- **Suspected/Rumored:** He may have collected or traded in supernatural or anomalous objects; exact inventory UNRESOLVED.
+- **Unresolved:** Total number of objects; exact classification of any ERC items; whether he understood their full nature; current location of any surviving ERC holdings.
+
+### Key Constraints
+- Do NOT state that all objects in Aurelius's possession were supernatural.
+- Do NOT state that Aurelius understood the full supernatural mechanism of any object.
+- Do NOT make Aurelius the creator or originator of the supernatural system.
+- Do NOT connect Aurelius to the deprecated Keeper/Count/Tally/Rings architecture.
+- Do NOT make Aurelius a member of the Order of Severence.
+- Do NOT connect Aurelius to the Gear as a key or mechanism.
+
 ## Character Voice
 - **Speech rhythm:** UNRESOLVED (not heard directly in the narrative)
 - **Vocabulary:** Formal, precise
@@ -107,44 +131,58 @@ APPROVED CANON DIRECTION — underlying mystery architecture. Not revealed to Le
 
 ## Motivation
 ### Surface Goal
-To acquire property and build a legacy.
+To acquire property, collect unusual objects and information, and build a lasting legacy.
 
 ### Private Goal
-To create a network that would last beyond his lifetime.
+To gather and preserve fragments of knowledge and objects that he believed were important — possibly to protect them, possibly to study them, possibly to use them for some larger purpose.
 
 ### Deep Motivation
-Possibly a desire for immortality or to shape Alderwick's future.
+UNRESOLVED. May include: desire for knowledge, desire for control, desire to preserve something dangerous, desire to build a network that would outlast him, or some combination of these. His exact motivation for collecting and trading unusual objects is not established.
 
 ### Fear
-UNRESOLVED
+UNRESOLVED. May have feared loss of knowledge, the destruction of important objects, or the failure of his network.
 
 ### Moral Boundary
-He operated in secrecy, suggesting he was willing to bend rules.
+He operated in secrecy and was willing to bend rules, but the exact limits of his ethics are UNRESOLVED.
 
 ### Breaking Point
 His death was the breaking point.
 
 ## Relationships
-- **Leon Ashcroft:** Descendant? The investigation follows his legacy.
+- **Leon Ashcroft:** Distant descendant? The investigation follows his legacy. Exact relationship UNRESOLVED.
 - **Edmund Wren:** Witness and confidant.
 - **Eleanor Vane:** Wife.
 - **M.R., J.T., M.B.:** Associates in his network.
+- **Order of Severence:** Relationship UNRESOLVED. Aurelius is NOT established as a member, founder, subordinate, superior, agent, or participant in the Order of Severence. Historical overlap, contact, conflict, shared knowledge, opposition, indirect influence, or another relationship are all POSSIBLE but unconfirmed.
 
 ## Secrets
 ### Public Knowledge
 - His name, marriage, death, and property dealings.
+- He signed the Agreement.
+- He made the lock.
+- He left a letter.
 
 ### Private Secret
-- The full purpose of Bellweather House and his network.
+- The full purpose of Bellweather House.
+- The complete scope of his object/document collection.
+- The full extent of his network and its activities.
+- Whether any objects in his possession were supernatural or anomalous.
+- What he knew about the Door, the Place Beneath, or other supernatural phenomena.
+- The reason his name does not appear in the property register.
 
 ### Reader-Known Secret
 - His connection to a historical network is suspected.
+- He may have collected unusual objects and documents.
 
 ### Character-Known Secret
 - The details of his network are known only to a few.
+- The full inventory of his collection is UNRESOLVED.
 
 ### Hidden Canon
-- His true role in the network; the reason for his secrecy.
+- His true role in the network.
+- The reason for his secrecy.
+- The exact nature and extent of his ERC holdings.
+- Whether he understood the supernatural properties of any objects he collected.
 
 ## Character Arc
 - **Starting state:** A dead figure whose legacy is hidden.
@@ -156,6 +194,9 @@ His death was the breaking point.
 
 ## Story Function
 - **Mystery catalyst** — Everything begins with his legacy.
+- **Historical collector/trader/investigator** — Aurelius accumulated unusual objects, documents, and information through trade, collection, and correspondence. This explains how fragments of supernatural knowledge, anomalous objects, and historical records came to be concentrated in Alderwick and Bellweather House.
+- **Network founder/connector** — He established or connected to a historical communication network that continues to influence events.
+- **Legacy architect** — His agreements, locks, letters, and collections create the mystery framework that Leon investigates.
 
 ## Character Uniqueness
 - **Signature behavior:** Building in secrecy.
@@ -178,9 +219,10 @@ His death was the breaking point.
 - **Institutions:** Solicitors, parish records.
 
 ## Mystery Continuity
-- **What he knows:** Everything about his own activities.
-- **What the reader knows:** His name, dates, marriage, death, and that he built a network.
-- **What must remain unrevealed:** The full details of his network until the appropriate plot points.
+- **What he knows:** Everything about his own activities, trades, collections, and network connections.
+- **What the reader knows:** His name, dates, marriage, death, property dealings, Agreement, lock, letter, and that he built a network. Reader is aware he may have collected unusual objects.
+- **What must remain unrevealed:** The full details of his network, the complete inventory of his collection, the exact nature of any ERC holdings, his full motivation, and the full story of his activities until the appropriate plot points.
+- **What Leon knows:** Aurelius existed, lived in Bellweather House, signed Agreement, made lock, left letter, was not first keeper. Leon does NOT know the full story of Aurelius's collection activities or network.
 
 ---
 
@@ -217,6 +259,8 @@ His death was the breaking point.
 - The exact circumstances of his death beyond "died in London, 22 Feb 1804."
 - Whether the network had knowledge of 00:00, Tokens, Gears, or other later mysteries.
 - The full contents of the letter beyond the confirmed sentence.
+- The exact nature and extent of his ERC holdings.
+- His full motivation for collecting and trading unusual objects.
 
 ### Deprecated / rejected interpretations
 - Aurelius as the first keeper — **REJECTED**.
@@ -226,13 +270,9 @@ His death was the breaking point.
 - Aurelius as omniscient architect of all Alderwick's supernatural systems — **REJECTED**.
 - Aurelius's network = Order of Severence — **REJECTED**.
 - Aurelius as a Keeper/Count/Tally/Rings system participant in the deprecated architecture — **REJECTED**.
+- Aurelius as a member/founder/subordinate/agent of the Order of Severence — **REJECTED**.
 
 ### Backward consistency
 This freeze does not alter confirmed canon for Mystery #1–#8. No contradictions were found.
 
----
-
-## Mystery Continuity
-- **What he knows:** Everything about his own activities.
-- **What the reader knows:** His name, dates, marriage, death, and that he built a network.
-- **What must remain unrevealed:** The full details of his network until the appropriate plot points.
+(End of file)
