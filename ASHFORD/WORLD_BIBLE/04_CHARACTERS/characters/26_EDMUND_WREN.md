@@ -1,11 +1,11 @@
-﻿# Thomas Wren
+﻿# Edmund Wren
 
 ## Canon Status
 **CANON** — Established in Chapters 9–14 as a key keeper of memories.
 
 ## Basic Identity
-- **Full name:** Thomas Wren
-- **Public name:** Thomas Wren
+- **Full name:** Edmund Wren
+- **Public name:** Edmund Wren
 - **Age:** Elderly (died in Chapter 11)
 - **Gender:** Male
 - **Occupation:** Retired; former keeper of records? (not explicitly stated)
@@ -180,6 +180,6 @@ His death forced him to act.
 
 ---
 
-**Status:** CANON
-**Last Updated:** 2026-08-28
-**Version:** 1.0
+**Status:** WORKING CANON — NAME NORMALIZED
+**Last Updated:** 2026-09-06
+**Version:** 1.1

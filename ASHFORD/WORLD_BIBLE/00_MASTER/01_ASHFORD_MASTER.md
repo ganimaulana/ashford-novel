@@ -120,7 +120,7 @@ Setiap dokumen dalam World Bible memiliki status level:
 - `Margaret.md` - (CANON)
 - `Daniel.md` - (CANON)
 - `Helen.md` - [CANON - identity concealed]
-- `26_THOMAS_WREN.md` - (CANON)
+- `26_EDMUND_WREN.md` - (CANON)
 
 **Status:** Mix - Leon = CANON, others developing
 

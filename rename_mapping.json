@@ -518,6 +518,13 @@
         "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
     },
     {
+        "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\26_THOMAS_WREN.md",
+        "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\26_EDMUND_WREN.md",
+        "OldBase":  "26_THOMAS_WREN.md",
+        "NewBase":  "26_EDMUND_WREN.md",
+        "Dir":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters"
+    },
+    {
         "Old":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\Vicar.md",
         "New":  "C:\\Project\\ashford\\ASHFORD\\WORLD_BIBLE\\04_CHARACTERS\\characters\\27_VICAR.md",
         "OldBase":  "Vicar.md",

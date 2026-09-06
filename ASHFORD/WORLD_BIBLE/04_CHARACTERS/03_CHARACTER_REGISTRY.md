@@ -21,7 +21,7 @@
 | **Daniel James Carter** | `characters/08_DANIEL_JAMES_CARTER.md` | CANON — **NAME CONTESTED**; Ch129 gives "Daniel Wren, son of the clerk", and names him the next keeper | Ordinary → Keeper-successor | Chapter 2 | Rising — becomes the next keeper (Ch129) |
 | **Arthur Edmund Bell** | `characters/02_ARTHUR_EDMUND_BELL.md` | CANON — **NOT a watchman**; he refused enrolment (Ch11) | Interesting | Chapter 2 (mentioned) | High — knows historical details |
 | **Margaret Whitmore** | `characters/17_MARGARET_WHITMORE.md` | CANON | Ordinary | Chapter 2 | Moderate — gossipy but not deep |
-| **Thomas Wren** | `characters/26_THOMAS_WREN.md` | CANON | Hidden World | Chapter 9 | Very high — knew the secrets; deceased |
+| **Edmund Wren** | `characters/26_EDMUND_WREN.md` | CANON | Hidden World | Chapter 9 | Very high — knew the secrets; deceased |
 | **Aurelius Ashcroft** | `characters/03_AURELIUS_ASHCROFT.md` | CANON / HIDDEN | Hidden World | Chapter 5 (mentioned) | Very high — central mystery |
 | **Edwin Ashcroft** | `characters/09_EDWIN_ASHCROFT.md` | DRAFT — NOT CANON | (Obsolete) | Old 2006-era | Not applicable |
 | **James Calloway** | ~~`characters/Calloway.md`~~ **FILE MISSING**; visual/behavioural canon in `characters/06_CONSTABLE.md` (STALE); political profile in `16_GOVERNMENT/GOVERNMENT_CHARACTERS.md` | CANON | Interesting | Chapter 1 (the man at the inn); named Ch 8 | Moderate-high — names the Order (Ch42); holds the empty file, the locked drawer, the box, and the letter to London. **Age contested: prose says sixty (Ch11, Ch14); World Bible says 51.** |
