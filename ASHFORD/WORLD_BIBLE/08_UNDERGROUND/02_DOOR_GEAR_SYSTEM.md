@@ -202,6 +202,163 @@ These are possibilities, not confirmed facts.
 
 ---
 
+## I.B. SYSTEM C — THE WATCH / CALL / 00:00
+
+**Core Concept:** 00:00 is primarily associated with an **OPERATIONAL / ORGANIZATIONAL SYSTEM** connected to Aurelius's hidden network.
+
+It is NOT currently established as a supernatural mechanism that opens, activates, weakens, or controls Vale's Door.
+
+The Call associated with 00:00 serves as an instruction, reminder, or operational signal for selected members or observers to remain alert and monitor events.
+
+The conceptual meaning is:
+
+```
+00:00
+→ Call / organizational signal
+→ Watch
+→ Observe
+→ Record
+→ Report.
+```
+
+### Purpose of the Watch
+
+The Watch exists because Aurelius's network has reason to monitor unusual events, anomalies, people, locations, or recurring phenomena.
+
+Members may be instructed to:
+- remain awake,
+- observe a specific location,
+- monitor unusual environmental conditions,
+- record unexplained phenomena,
+- pay attention to Bell or other anomalies,
+- observe specific people or buildings,
+- maintain records,
+- report findings to the network,
+- and avoid unnecessary interference.
+
+The exact operational rules remain subject to manuscript evidence.
+
+00:00 should therefore function as an important **TIME MARKER** within the organizational system, not automatically as a supernatural threshold.
+
+### Important Distinction
+
+The fact that a supernatural event sometimes occurs around 00:00 does **NOT** establish that 00:00 causes that event.
+
+The organization may have selected 00:00 precisely because:
+- certain phenomena are more likely to be observed around that period,
+- historical records indicate something important happens around that time,
+- it is an established watch protocol,
+- or Aurelius deliberately created a recurring observation window.
+
+The exact historical reason remains unresolved.
+
+### The Call
+
+The Call should be treated as an **organizational instruction or communication event** unless manuscript evidence establishes a supernatural component.
+
+It may function similarly to a standing order:
+
+"Watch."
+"Observe."
+"Record."
+"Report."
+
+The exact wording and mechanism of the Call should remain flexible until supported by the manuscript.
+
+### 00:00 and the Door
+
+Do NOT establish a direct conceptual identity between 00:00 and the Door.
+
+Do NOT establish:
+- 00:00 opens the Door,
+- 00:00 weakens the Door,
+- 00:00 activates the Door,
+- 00:00 summons the entity behind the Door,
+- 00:00 causes Bell,
+- 00:00 is the Door's activation state,
+- 00:00 is a supernatural threshold.
+
+A future connection may be discovered through the story, but it must emerge from evidence rather than being assumed.
+
+### 00:00 and Bell
+
+The Watch may instruct members to observe or record Bell events.
+
+This does NOT mean:
+`00:00 → Bell.`
+
+Instead:
+
+```
+Aurelius Network
+→ establishes Watch protocol
+→ members observe unusual phenomena
+→ Bell may be one of the phenomena being monitored.
+```
+
+The relationship is therefore primarily observational and organizational unless later evidence proves a deeper connection.
+
+### 00:00 and Gear
+
+The Call/Watch system may use the Aurelius communication network and therefore may involve the Nine Gears.
+
+However:
+- Gear is the communication medium,
+- Call is the organizational instruction,
+- Watch is the operational activity,
+- 00:00 is the associated time marker.
+
+Do not collapse these concepts into one mechanism.
+
+### Conceptual Relationships
+
+```
+SYSTEM A:
+Aurelius Network
+→ communication infrastructure
+→ Nine Gears
+→ members / agents.
+
+SYSTEM C:
+Watch / Call
+→ operational instruction
+→ 00:00
+→ observe / record / report.
+
+SYSTEM B:
+Door
+→ containment
+→ something behind boundary
+→ influence
+→ Bell / anomalies.
+```
+
+System C may observe System B through System A.
+
+That is the intended current relationship.
+
+### Historical / Mystery Function
+
+The existence of a recurring Watch at 00:00 should imply that Aurelius or his network knew enough about unusual phenomena to consider them worthy of systematic observation.
+
+This should raise questions such as:
+- What did Aurelius know?
+- What historical events led to the Watch?
+- What exactly were members expected to observe?
+- How long had the Watch existed?
+- Why 00:00?
+- Did Aurelius understand what he was observing?
+- Were the Watch records complete?
+- What happened to members who failed to follow the instructions?
+
+Do not answer these questions prematurely.
+
+### Conceptual Summary
+
+> "00:00 IS AN OPERATIONAL TIME MARKER WITHIN AURELIUS'S WATCH/CALL SYSTEM. THE CALL EXISTS TO INSTRUCT SELECTED MEMBERS TO REMAIN ALERT, OBSERVE ANOMALIES, RECORD THEIR OBSERVATIONS, AND REPORT THEM. 00:00 IS NOT CURRENTLY ESTABLISHED AS A SUPERNATURAL MECHANISM AND HAS NO CONFIRMED DIRECT CONCEPTUAL CONNECTION TO VALE'S DOOR."
+
+---
+
 ## II. STATUS
 
 Everything introduced by this task is **PROPOSED — ARC 2+**, unless an existing confirmed canon statement explicitly establishes otherwise.

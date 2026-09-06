@@ -10,7 +10,7 @@
 
 | Mystery | First Appearance | Status | Notes |
 |---------|------------------|--------|-------|
-| **00:00** | Ch1 (stopped clock, still ticking); Ch45 (reappearing house clock) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Threshold; lock condition; journey horizon. Never explained. |
+| **00:00** | Ch1 (stopped clock, still ticking); Ch45 (reappearing house clock) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Operational time marker within Aurelius's Watch/Call system; not currently established as a supernatural threshold, Door activation, or Bell cause. Never explained. |
 | **The Bell** | Ch1 (toll); Ch13 (tongue sold) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Keeper's call signal; rang once for Leon; kept, not rung. Summons UNKNOWN. |
 | **The Door** | Ch38 (stone door beneath mill) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Not a door; kept closed; place beneath is beneath chamber. |
 | **Aurelius Ashcroft** | Ch1 (will); Ch40 (Agreement) | LONG-TERM | Margins-only; signed Agreement, made lock, died 1804. Full story unknown. |
@@ -97,7 +97,7 @@
 
 **Major setup/payoff chains:**
 - Object's warmth (Ch1–8, 61) → answers only Leon (Ch113); three medallions (Ch134).
-- Stopped clock 00:00 (Ch1, 45) → threshold; lock condition (Ch95); journey's horizon (Ch137).
+- Stopped clock 00:00 (Ch1, 45) → operational time marker within Aurelius's Watch/Call system; lock condition (Ch95); journey's horizon (Ch137).
 - Gear (Ch36) → door marker (Ch38, 46); passed to Daniel (Ch125).
 - Boundary stones' first sign (Ch37, 51/55, 112) → count of stones; thirteen rings (Ch129).
 - Bell tongue sold (Ch13) → bell rings for Leon (Ch73); kept not rung (Ch85).

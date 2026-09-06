@@ -64,16 +64,22 @@ Arc 1 (Chapters 1–141) is active canon as of 2026-09-04. It remains the curren
 **Source:** `02_CANON_TERMINOLOGY.md`; `01_ANONYMOUS_TOKEN_NETWORK.md` §N.6
 
 ### 00:00 Marker
-- 00:00 is a supernatural time marker, possibly associated with activation/access.
+- 00:00 is primarily an **operational time marker** within Aurelius's Watch/Call system (System C).
+- It is NOT currently established as a supernatural mechanism that opens, activates, weakens, or controls Vale's Door.
 - Its complete meaning and mechanics remain UNRESOLVED.
 - Do NOT define its complete purpose or retrofit every clock reference.
 - In manuscript: recurring motif (stopped clocks, lock condition, journey horizon).
+- The fact that a supernatural event sometimes occurs around 00:00 does NOT establish that 00:00 causes that event.
+- The organization may have selected 00:00 precisely because certain phenomena are more likely to be observed around that period, historical records indicate something important happens around that time, it is an established watch protocol, or Aurelius deliberately created a recurring observation window. The exact historical reason remains unresolved.
 
 **Source:** `02_CANON_TERMINOLOGY.md` §00:00 MARKER
 
 ### Bell / Call
-- The Bell functions as a signal indicating a Call is available.
-- Conceptually: 00:00 → possible activation → Call → possible connection.
+- The Bell functions as a possible **SIGN / INDICATOR** that something on the other side of the Door is exerting pressure or attempting to influence the human side.
+- The Call associated with 00:00 serves as an **organizational instruction or communication event** unless manuscript evidence establishes a supernatural component.
+- Conceptually: 00:00 → Call / organizational signal → Watch → Observe → Record → Report.
+- The Watch exists because Aurelius's network has reason to monitor unusual events, anomalies, people, locations, or recurring phenomena.
+- The relationship between 00:00 and the Bell is primarily observational and organizational unless later evidence proves a deeper connection.
 - Do NOT treat every Bell event as automatically being a Call.
 - The keeper's bell rang once for Leon; it is kept, not rung. Its summons remains UNKNOWN.
 
@@ -127,8 +133,8 @@ Arc 1 (Chapters 1–141) is active canon as of 2026-09-04. It remains the curren
 | 13 Symbols | **XIII Symbols** | Lore | Keep partially mysterious. |
 | Gear | **Component** | Object category | Gear is ONE type of Component. Do NOT replace "Gear" with "Component" when text specifically refers to the gear mechanism. |
 | Key | **Key** | Object | Unchanged. Separate concept. |
-| Clock | **00:00 Marker** | Phenomenon | Supernatural time marker associated with activation/access. |
-| Bell | **Call** | Phenomenon | The Bell functions as a signal indicating a Call is available. |
+| Clock | **00:00 Marker** | Phenomenon | Operational time marker within Aurelius's Watch/Call system. NOT currently established as a supernatural threshold, Door activation, or Bell cause. |
+| Bell | **Call** | Phenomenon | The Call functions as an organizational instruction to observe, record, and report. The Bell is a possible indicator of pressure from behind the Door. |
 | Door | **Door / Threshold** | Phenomenon | The supernatural Door. Keep "Door" simple and mysterious. |
 | Room / Connection Space | **The Sanctuary** | Supernatural space | Supernatural space in which multiple connections can occur. |
 

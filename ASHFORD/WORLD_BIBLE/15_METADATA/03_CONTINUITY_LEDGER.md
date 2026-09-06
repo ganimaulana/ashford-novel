@@ -147,7 +147,7 @@
 
 | Fact | Leon Knows? | Reader Knows? | Others? | Established |
 |------|-------------|---------------|---------|-------------|
-| 00:00 is a threshold | Suspects (Ch48, 113) | Suspects | Keeper before first (implied) | Deliberately unproven |
+| 00:00 is an operational time marker within Aurelius's Watch/Call system | Suspects (Ch48, 113) | Suspects | Keeper before first (implied) | Deliberately unproven |
 | Count counts keepers | Ch121 | Ch121 | Keeper of tally | Revealed mid-arc |
 | Aurelius signed Agreement | Ch40 | Ch40 | Order, Vale | Canon |
 | Aurelius made the lock | Ch96 | Ch96 | Ysabel | Canon |

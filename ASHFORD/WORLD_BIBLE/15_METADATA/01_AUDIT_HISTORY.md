@@ -33,7 +33,7 @@
 **Reader's understanding:**
 - Leon wants to understand why he was drawn to Alderwick and what he inherited.
 - The supernatural system is grounded and restrained: three signs, medallions that warm, the gear, reappearing house, chamber beneath both houses, bell that rings for the keeper, count of keepers, thirteen rings.
-- 00:00 is a time associated with stopped clocks, a threshold the count moves toward; its meaning is never given.
+- 00:00 is an operational time marker within Aurelius's Watch/Call system; its meaning is never given.
 - The bell is a keeper's call signal; its tongue was sold long ago; it rings once for the keeper who must descend.
 - The door is a stone door beneath the mill, opened with the gear, leading to a passage; it is "not a door" but a memory.
 - Aurelius is a previous Ashcroft who lived in Bellweather House, signed the Agreement, made the lock, and left a letter; his full story remains in the margins.
@@ -456,7 +456,7 @@ After the novel-wide audit, the manuscript is a coherent grounded Gothic keeper 
 - Keeper before Vale: given full scene (Ch79) with shame and account validation.
 
 ### Mystery Improvements
-- 00:00: maintained as threshold, never explained.
+- 00:00: maintained as operational time marker within Aurelius's Watch/Call system, never explained as supernatural mechanism.
 - Bell: call signal, but what it summons is never shown.
 - Door: kept closed; place beneath is kept, not opened.
 - Society: opaque; interest in tally suggested but not revealed.
