@@ -10,21 +10,21 @@
 
 | Mystery | First Appearance | Status | Notes |
 |---------|------------------|--------|-------|
-| **00:00** | Ch1 (stopped clock, still ticking); Ch45 (reappearing house clock) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Threshold; lock condition; journey horizon. Never explained. |
-| **The Bell** | Ch1 (toll); Ch13 (tongue sold) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Keeper's call signal; rang once for Leon; kept, not rung. Summons UNKNOWN. |
-| **The Door** | Ch38 (stone door beneath mill) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Not a door; kept closed; place beneath is beneath chamber. |
-| **Aurelius Ashcroft** | Ch1 (will); Ch40 (Agreement) | LONG-TERM | Margins-only; signed Agreement, made lock, died 1804. Full story unknown. |
-| **The Count / Tally** | Ch55 (wall signs); Ch107–109 (first keeper's book) | ONGOING | Counts the keepers; thirteen rings of first-sign stones; destination unknown. |
-| **The Three Signs** | Ch1 (symbol); Ch37–38 (Order's); Ch49–50 (keeper's) | ONGOING | First sign (maker's), keeper's sign (key), Order's sign (lock). Thirteen rings. |
+| **00:00** | Ch1 (stopped clock, still ticking); Ch45 (reappearing house clock) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Operational time marker within Aurelius's Watch/Call system; not currently established as a supernatural threshold, Door activation, or Bell cause. Never explained. |
+| **The Bell** | Ch1 (toll) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Keeper's call signal; rang once for Leon; kept, not rung. Summons UNKNOWN. Physical bell remains in church tower; distinct from supernatural Bell phenomenon. |
+| **The Door** | Ch38 (stone door beneath mill) | LONG-TERM / INTENTIONALLY AMBIGUOUS | Ancient sealed boundary/interface; no Gear interface; different marking from Gear; response to unexplained phenomenon; causality unresolved. |
+| **Aurelius Ashcroft** | Ch1 (will); Ch40 (Agreement) | **FROZEN — CANON v1.0** | Historical anchor. Wealthy gentleman, property owner, active antiquities/historical-object trader, collector/dealer of rare/unusual objects. Suspected of holding ERC. Lived Bellweather House. Signed Agreement, made lock, left letter. Not first keeper. Agreement is historical institutional/custodial arrangement; Aurelius is not direct superior of Thomas Vale. Vale's Alderwick placement may be protective. Full story remains hidden canon / gradually revealed. |
+| **The Count / Tally** | Ch55 (wall signs); Ch107–109 (first keeper's book) | ONGOING | Counts the keepers; destination unknown. |
+| **The Three Signs** | Ch1 (symbol); Ch37–38 (Order's); Ch49–50 (keeper's) | ONGOING | First sign (maker's), keeper's sign (key), Order's sign (lock). |
 | **The Place Beneath** | Ch38–40 (space beneath mill/door); Ch75 (chamber) | INTENTIONALLY AMBIGUOUS | Not to be opened or sealed but kept. Nature entirely unknown. |
 | **The Houses** | Ch1–8 (Bellweather House, empty); Ch39 (reappearing house) | LONG-TERM | Two houses: kept house (Bellweather) and appearing house (common). |
+| **Hobbs** | Ch16 (poor-house resident); Ch28 (disappearance) | WORKING CANON — NOT READY TO FREEZE | Chronological contradiction: Vale's Sept 1804 report records death of a man named Hobbs in poor-house, but Hobbs is recorded entering poor-house in 1805 and remained alive until disappearance Nov 1816. Military button left behind. |
 | **The Nameless Society** | Ch100–103 (three tests) | ONGOING / AMBIGUOUS | Preserves histories/objects; interest in the tally; working relationship, not membership. |
 | **The Keeper of the Tally** | Ch121 (man in dark coat adding marks) | AMBIGUOUS | Impersonal record; neither ally nor enemy. |
 | **The Boy (portrait/dream)** | Ch1 (portrait on stairs; dream) | AMBIGUOUS | Identity withheld; foundation seed. |
 | **The Three Envelopes** | Ch1–8 | AMBIGUOUS | Sender unknown. |
 | **Aurelius Historical Network** | Ch1 (letter arrival) | ONGOING / AMBIGUOUS | Historical communication network associated with Aurelius. Fragmented, dormant, or disconnected. At least one surviving contact may be attempting to determine whether the Ashcroft line can be reached. Relationship to Order of Severence unresolved. |
 | **Letter as Contact Test** | Ch1 | ONGOING / AMBIGUOUS | The first letter may function as an initial contact test/probe rather than a straightforward warning or recruitment. Sender identity unrevealed. Sender connected to surviving remnants of Aurelius's network. |
-| **The Thirteen Rings** | Ch129 (marsh ring); Ch134 (house on hill) | LONG-TERM | Thirteen rings of first-sign stones across the land. |
 
 **Source:** `07_MYSTERY_LEDGER.md`
 
@@ -45,11 +45,11 @@
 ### Thread C — The Three Signs
 - **Setup:** First sign (symbol), keeper's sign (line + strokes), Order's sign (circle + short line).
 - **Payoff:** Three signs named; boundary stones carry first sign at base, Order's sign on face; keeper's sign opens passage.
-- **Remaining:** Relationship to thirteen rings; full meaning of maker's sign.
+- **Remaining:** Full meaning of maker's sign.
 
 ### Thread D — The Count
 - **Setup:** Wall signs; first keeper's book; three tallies.
-- **Payoff:** Count = keepers; thirteen rings; Leon's mark already in tally.
+- **Payoff:** Count = keepers; Leon's mark already in tally.
 - **Remaining:** Destination; completed count.
 
 ### Thread E — The Aurelius Network / Letter Contact
@@ -64,6 +64,61 @@
 - **Structural function:** The examination arc serves as an information/social pressure environment, testing candidates through incomplete information, trade-offs, and collective decision-making. It builds Leon's reputation gradually without revealing the office's motives.
 
 **Source:** `07_MYSTERY_LEDGER.md`
+
+---
+
+### Thread G — Hobbs
+
+**Setup:** Hobbs appears as a poor-house resident who watches from his window. He is a veteran. Vale's September 1804 report records the death of a man named Hobbs in the poor-house. However, Hobbs is recorded entering the poor-house in 1805 and remains alive until his disappearance on 28 November 1816.
+
+**Confirmed facts:**
+- Hobbs is a veteran.
+- He entered the poor-house in 1805.
+- He lived there approximately eleven years.
+- He spent much of his time watching from his window.
+- On 28 November 1816, a boy came to call him.
+- Hobbs spoke with the boy privately.
+- His belongings had been prepared before the call.
+- He left a military brass button that was very meaningful to him.
+- He left voluntarily and did not return.
+- Helen knows about Hobbs.
+- Vale possesses a 1804 death report for Hobbs; the report is a returned copy, and Vale's archive shows other reports also returned altered.
+
+**Working interpretation:**
+Hobbs is treated as human. There likely was an event in 1804 that caused his identity or existence to be recorded as a death. After that, he entered or was placed in the poor-house in 1805 and for eleven years watched or waited for something recurring. The Bellweather events in November 1816 appear to coincide with his final departure. The boy who called him was likely a real person known to Hobbs, but his identity and purpose are unknown. The military button is personal evidence and a symbol of Hobbs's decision to leave a trace, not a supernatural artifact.
+
+**Constraints:**
+- Do NOT make Hobbs immortal, resurrected, a shapeshifter, or a supernatural entity without evidence.
+- Do NOT automatically connect him to the Iron Brotherhood.
+- Do NOT treat the button as a Token or supernatural artifact.
+- Do NOT make Hobbs the explanation for all Bellweather anomalies.
+- Do NOT assume the boy is The Boy before The Boy mystery audit is complete.
+- Do NOT explain the 1804 death report as a simple clerical error.
+
+**Open questions:**
+- Are the Hobbs of 1804 and the Hobbs of 1805–1816 the same person?
+- What happened in 1804?
+- Who created or altered the death record?
+- Why did Hobbs enter the poor-house?
+- What was he watching from the window?
+- What was he waiting for?
+- Who was the boy who called him?
+- Where did Hobbs go?
+- Did he survive?
+- How much did Helen and Vale know?
+
+**Master Mystery Resolution:**
+- **True Answer:** UNRESOLVED.
+- **Cause:** UNKNOWN.
+- **Responsible person/entity:** UNKNOWN.
+- **Onset:** At least 1804–1805.
+- **Connection to Bell:** STRONG TEMPORAL CONNECTION, MECHANISM UNKNOWN.
+- **Connection to Helen:** STRONG.
+- **Connection to Vale:** STRONG DOCUMENTARY CONNECTION.
+- **Connection to The Boy:** DIRECT BUT UNRESOLVED.
+- **What Leon eventually learns:** Hobbs had been deliberately watching and waiting rather than simply disappearing by chance.
+- **False interpretation:** Hobbs simply fled, died, was abducted, or was confused with another man.
+- **Remaining mystery:** The 1804 death record, Hobbs's history, what he was waiting for, the identity of the boy, and his destination.
 
 ---
 
@@ -87,7 +142,6 @@
 | Aurelius historical network | Ch1 | — | Unresolved; fragmented/dormant; surviving contacts possible |
 | Relationship to Order of Severence | Ch1 | — | Unresolved |
 | Three tests | Ch100–103 | Ch108 (working relationship) | Partial |
-| Thirteen rings | Ch129 | — | Unresolved |
 
 **Source:** `07_MYSTERY_LEDGER.md`, `05_STORY_STRUCTURE.md`
 
@@ -97,17 +151,17 @@
 
 **Major setup/payoff chains:**
 - Object's warmth (Ch1–8, 61) → answers only Leon (Ch113); three medallions (Ch134).
-- Stopped clock 00:00 (Ch1, 45) → threshold; lock condition (Ch95); journey's horizon (Ch137).
+- Stopped clock 00:00 (Ch1, 45) → operational time marker within Aurelius's Watch/Call system; lock condition (Ch95); journey's horizon (Ch137).
 - Gear (Ch36) → door marker (Ch38, 46); passed to Daniel (Ch125).
-- Boundary stones' first sign (Ch37, 51/55, 112) → count of stones; thirteen rings (Ch129).
-- Bell tongue sold (Ch13) → bell rings for Leon (Ch73); kept not rung (Ch85).
+- Boundary stones' first sign (Ch37, 51/55, 112) → count of stones.
+- Bell phenomenon (Ch1) → rings for Leon (Ch73); kept not rung (Ch85). Physical bell remains in tower; distinct from supernatural Bell.
 - Keeper's sign (Ch51–53) → key to door; passage system.
 - Town's agreement (Ch9–35) → forgetting vs. account (Ch76–78).
 - Four clocks (Ch87–97) → sequence; Aurelius's lock.
 - Three tests (Ch100–103) → society; tally interest.
 - First keeper's book (Ch107) → tally; erasure; keeper before first (Ch135).
 - Ferrand's notebook (Ch117) → fixed count; count of keepers (Ch121).
-- Marsh ring (Ch129) → thirteen rings; journey.
+- Marsh ring (Ch129) → journey.
 
 **Source:** `05_STORY_STRUCTURE.md`
 
@@ -133,7 +187,7 @@
 - **Ch113:** Object warms only for Leon.
 - **Ch121:** Count counts keepers.
 - **Ch125:** Leon passes keeping to Daniel.
-- **Ch129:** Thirteen rings concept seeded.
+- **Ch129:** Marsh ring concept seeded.
 - **Ch134:** Third medallion found.
 - **Ch137:** Journey is destination.
 

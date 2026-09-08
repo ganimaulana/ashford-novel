@@ -32,10 +32,10 @@
 
 **Reader's understanding:**
 - Leon wants to understand why he was drawn to Alderwick and what he inherited.
-- The supernatural system is grounded and restrained: three signs, medallions that warm, the gear, reappearing house, chamber beneath both houses, bell that rings for the keeper, count of keepers, thirteen rings.
-- 00:00 is a time associated with stopped clocks, a threshold the count moves toward; its meaning is never given.
-- The bell is a keeper's call signal; its tongue was sold long ago; it rings once for the keeper who must descend.
-- The door is a stone door beneath the mill, opened with the gear, leading to a passage; it is "not a door" but a memory.
+- The supernatural system is grounded and restrained: three signs, medallions that warm, the gear, reappearing house, chamber beneath both houses, bell that rings for the keeper, count of keepers.
+- 00:00 is an operational time marker within Aurelius's Watch/Call system; its meaning is never given.
+- The bell is a keeper's call signal; its tongue was sold long ago; it rings once for the keeper who must descend. **Note:** The tongue sale is part of the deprecated Crane transaction material and is SUPERSEDED. The physical bell remains in the tower.
+- The door is a stone door beneath the mill; previous development canon stated it was opened with the gear, but this is now SUPERSEDED. The Door has no confirmed Gear interface. The Door's response is an unexplained phenomenon. It is "not a door" but a memory.
 - Aurelius is a previous Ashcroft who lived in Bellweather House, signed the Agreement, made the lock, and left a letter; his full story remains in the margins.
 - Three distinct signs (maker's/first, keeper's, Order's) with clear shapes and locations; complete meaning not given.
 - Two organizations: Order of Severence (foundation; wants the door opened; factional) and a nameless preservation society (later; tests Leon; wants the tally).
@@ -143,7 +143,6 @@
 | P1-1: House number (Ch1 vs Ch5–8) | Ch1 notebook line clarified: "no number given; plate bears symbol, not a number." |
 | P1-2: Tuesday arrival vs Tuesday market | Ch1 "A Tuesday" (market morning) → "A Wednesday"; Ch10 adjusted. |
 | P1-3: Two gears vs one | Ch46 box now empty; Vale explains gear kept there then set at the mill; Leon realises "not two gears. They were one." |
-| P1-4: "Two of thirteen" medallions vs thirteen rings | Ch66/135/137 terminology normalised: three medallions, ten other markers; thirteen signs/rings. |
 | P1-5: Order's sign on stone vs first sign at base | Resolved: stones carry both marks; no change needed. |
 
 ### P2 – Minor Inconsistencies (logged, not blocking)
@@ -174,7 +173,7 @@
 - "Older than the circle" applied to both keeper's sign and first sign – hierarchy stable.
 
 ### Character Continuity
-All major characters consistent. Note: Arthur's name shift (Mr. Bell → Arthur) is acceptable variation. "Daniel" (Ch2) vs "Daniel Wren" (Ch110) identity conflict flagged P2.
+All major characters consistent. Note: Arthur's name shift (Mr. Bell → Arthur / Arthur Laurence Bell) is acceptable variation. "Daniel" (Ch2) vs "Daniel Wren" (Ch110) identity conflict flagged P2.
 
 ### Timeline Continuity
 - Ch98 "January" → Ch100 "end of October" unmarked gap acceptable.
@@ -318,7 +317,7 @@ The manuscript is stable as a foundation for Arc 2. Terminology migration (medal
 2. Shaw's chapter citations corrected.
 3. Crowe: Order-adjacent, membership not established.
 4. Thomas Finch: parish records only; Order listing unsupported.
-5. Arthur Bell: NOT a watchman (refused enrolment).
+5. Arthur Laurence Bell: NOT a watchman (refused enrolment).
 
 **Found and NOT corrected – author decision required:**
 6. Calloway's age: prose 60 vs World Bible 51.
@@ -436,7 +435,7 @@ After the novel-wide audit, the manuscript is a coherent grounded Gothic keeper 
 - ARC 5: The Hunt (Ch87–99) – four clocks, key, lock, Aurelius's letter.
 - ARC 6: The Society (Ch100–117) – three tests, first keeper's book, tally.
 - ARC 7: The Count of Keepers (Ch118–125) – tally and passing.
-- ARC 8: Beyond Alderwick (Ch126–137) – thirteen rings, journey to the sea.
+- ARC 8: Beyond Alderwick (Ch126–137) – journey to the sea.
 
 ### Major Continuity Fixes
 | Issue | Fix |
@@ -456,7 +455,7 @@ After the novel-wide audit, the manuscript is a coherent grounded Gothic keeper 
 - Keeper before Vale: given full scene (Ch79) with shame and account validation.
 
 ### Mystery Improvements
-- 00:00: maintained as threshold, never explained.
+- 00:00: maintained as operational time marker within Aurelius's Watch/Call system, never explained as supernatural mechanism.
 - Bell: call signal, but what it summons is never shown.
 - Door: kept closed; place beneath is kept, not opened.
 - Society: opaque; interest in tally suggested but not revealed.
@@ -523,6 +522,7 @@ All 90 chapters (48–137) scored **9/10** after revision passes. Chapters 1–4
 | Calloway's "latent sensitivity" (CANON-EXTENSION) | Recommendation to retire or keep strictly off-page | 2026-09-03 (awaiting author decision) |
 | Eleanor Shaw as Order member | CONFIRMED non-membership (Ch61) | 2026-09-03 |
 | "Father Lucien Vale" | Rejected; manuscript establishes Thomas Vale | 2026-09-03 |
+| Crane/bell transaction canon (1808–1812) | REMOVED; physical bell remains in tower | 2026-09-06 |
   
 ## 10. Historical Decisions
   

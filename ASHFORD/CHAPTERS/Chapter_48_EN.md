@@ -1,125 +1,463 @@
-﻿CHAPTER 48 — THE THINGS WE KEEP
+# Chapter 48 — The Long Habit
 
-He was worse in the first week of August.
+By then I had begun to notice a change in myself.
 
-He did not tell me. The Hartley girl told me, at the pump, without particularly meaning to — she said the doctor had been twice in four days, and then she looked at my face and said she supposed I would know that already.
+I was keeping records without being told.
 
-I did not know that already.
+I was making copies.
 
-I went that afternoon. He was in the chair with the blanket to his chest and the fire lit in weather that did not need it, and he said, "You are early," which was not true, and was his way of telling me that he had noticed I had not come for three days.
+I was checking dates before conclusions.
 
-"I did not know about the doctor."
+I was walking different roads when I had no reason to think anyone followed me.
 
-"There is nothing to know about the doctor. He comes, he says what men of his profession say, he goes. He has been correct once, which was the first time, and has been repeating it since."
+Most of these habits had come from Vale.
+
+Some had come from mistakes.
+
+I could no longer tell which were which.
+
+One afternoon I found him repairing a chair.
+
+The chair was old enough that the wood had darkened almost black. One rear leg had split near the joint. Vale had removed the damaged piece and was fitting a new section into it.
+
+"You'll make it worse," he said.
+
+"I have not touched it."
+
+"You are standing like a man about to."
 
 I sat down.
 
-"What did he say the first time?"
+He worked.
 
-"He said it would not be long." Vale adjusted the blanket. "I told him I had reached that conclusion without assistance. He was offended. Doctors like to be the first to a thing."
+The room smelled of glue and wood shavings. The fire was low. Outside, rain ticked against the window.
 
----
+"How long have you been doing that?" I asked.
 
-We did not talk about the door that day. I want that in the record.
+"Which?"
 
-We talked about a horse.
+"Repairing things."
 
-He had had a horse, once, in the service — a bad-tempered grey with a mouth like iron, which had thrown him twice and then, on a day when he had needed it to, had stood absolutely still in a road for two hours while something happened that he did not describe. He talked about the animal for a long time, with more feeling than I had heard him give to any person, and at the end of it he said, "It had to be put down in the end. Its legs went. I did it myself. It was owed that."
+"Longer than you have been alive."
 
-He did not say where the road was.
+I smiled.
 
-I noticed he did not say. I did not ask.
+He did not.
 
-Then he said, "Bring the press open. The bottom of it."
+After a while he handed me a small plane.
 
----
+"Hold this."
 
-The box was under a folded blanket at the bottom of the press.
+I did.
 
-Wooden. The size of a case for documents. The hinges had been repaired more than once, badly the first time and properly the second. It was heavier than it looked when I lifted it, and it did not rattle, which meant it had been packed rather than filled.
+"Not like that."
 
-I set it on the table between us.
+He adjusted my hand.
 
-"Open it."
+"Like this."
 
-I opened it.
+I tried again.
 
-Papers, folded and refolded until the creases had gone soft. A bundle of letters tied with tape, the tape gone brown. A service journal in dark leather, the spine broken, the edges of the pages dirty in the way paper goes dirty in a coat pocket over years. A district map, not of Alderwick, marked in ink in more than one shade. Two small bottles, stoppered, labelled in a hand I did not know. A brass button, military, worn smooth on the face. A woman's ring, too small for any finger of his.
+"Better."
 
-And a folded square of cloth at the bottom, empty, with a shape pressed into it that I recognised.
+We worked without speaking.
 
-I did not say anything about the cloth.
+There was something strange about it.
 
-"These are mine," he said.
+Not the silence.
 
-"Yours."
+The familiarity.
 
-"Mine. Not the parish's. Not the Order's. Mine." He was watching me and not the box. "There is a difference between a thing a man was given to keep and a thing that is his, and every institution I have ever served has made a profession of confusing the two."
+A month earlier I would have knocked before entering. Now I knew where the cups were kept. I knew which chair was sound and which one complained when moved. I knew that Vale preferred the kettle filled before the fire was stirred, and that he would forget to eat if no one put bread on the table.
 
-"What is in it?"
+I had not decided to learn these things.
 
-"What you have seen."
+I had simply been there often enough for them to become part of me.
 
-"That is not an answer."
+When the chair was finished, he tested it by sitting down.
 
-"No."
+"It will hold."
 
-He let me look for a while. I turned the button over. I did not open the letters. I put my hand on the journal and did not lift it.
+"So will you," I said.
 
-"Some of it is nothing," he said. "The button is nothing. The ring is not nothing, but it is nothing to you, and you may leave it where it is. The map I could have burned thirty years ago and did not, and I have never been able to give myself a reason. Some of it I have never understood, and I have had fifty years to try. I cannot tell you which is which."
+He looked at me.
 
-"Then how am I to know?"
+"That is a different question."
 
-"You will not," he said. "Not for a long time."
+I regretted saying it.
 
----
+He reached for the tea.
 
-"May I read this?"
+"You have been thinking about what I told you."
 
-"You will read it whether I say yes or no." He did not sound displeased. "Read it in order. Not the end first. A man who reads the end first learns what happened and never learns why."
+"The Order."
 
-"Is there something in it you do not want me to find?"
+"The Agreement."
 
-"There is a great deal in it I did not want anyone to find. That is why it is in a box and not in an office."
+"Both."
 
-I looked at the box.
+He poured.
 
-"Why me?"
+"What do you think the Order wants?"
 
-He did not answer that.
+"I don't know."
 
-I asked again, later, differently — I said, "You must have had someone. Fifty years."
+"Good."
 
-"I had a great many people. I did not have anyone I would give a box to."
+"You sound pleased."
 
-"That is not the same question."
+"I am pleased when you say what you know."
 
-"It is the answer to it, though." He closed his eyes for a moment. "You came back. That is the whole of it and you will want it to be more than that, and it is not. Men came to that door for fifty years wanting something. They got it or they did not and then they did not come back. You got what you came for in April and you came back in May with a corrected sentence in a notebook."
+I took the cup.
 
-"That is not a reason."
+"Do you trust them?"
 
-"It is the only one I have that I can stand behind." He opened his eyes. "You ask before you take. I have watched how you handle things. I am not going to make it more than that, because if I make it more than that you will start behaving like a man who was chosen, and men who believe they were chosen stop checking their own work."
+"Some."
 
-I have gone back to that afternoon more times than to any other, and I still cannot get further into it than he let me.
+"Which ones?"
 
----
+"That is not how trust works."
 
-He asked me to put the box in the press again before I left.
+"Then how?"
 
-"Not with you?"
+"You trust a man for something. Not for everything."
 
-"Not yet. I am not dead. It is an unpleasant habit, giving things away while you are still using them." He waved a hand at the press. "It will be there. You know where it is now. That is the part that mattered."
+He looked at the repaired chair.
 
-I put it back under the blanket.
+"You can trust a man to keep a document dry and not trust him to interpret it. You can trust another to tell you when he does not know and not trust him to keep a confidence. People are not boxes with one label."
 
-At the door he said, "If anyone comes here asking about my effects — the parish, or the Order, or a man with a letter — you have not seen a box."
+I remembered the stranger at the parish rooms.
 
-"And if they ask directly?"
+"Is that why you said the Order is not one thing?"
 
-"Then you will say you have seen a great many boxes in a great many houses and you do not itemise the furniture of dying men." He almost smiled. "Do not lie if you can avoid it. Refuse. A lie has to be maintained. A refusal only has to be repeated."
+"Among other reasons."
 
-I said I understood.
+He leaned back.
 
-I did not, entirely.
+"You should remember that if they ever ask you to choose between them."
 
-I walked home down the lane, and the evening was warm, and I remember being conscious of the box behind me in the house the way you are conscious of a lit window when you have turned a corner.
+"Choose between what?"
+
+"Their answers."
+
+He said nothing more.
+
+I did not press him.
+
+That evening, before I left, he gave me the repaired chair.
+
+"Take it."
+
+"I cannot carry that home."
+
+"Then carry it in two pieces."
+
+I laughed.
+
+He did not.
+
+We carried it together to the door and stopped there.
+
+The rain had ended.
+
+The street was wet and shining under the lamps.
+
+"Tomorrow," he said, "bring the other leg."
+
+"I thought you said the chair was finished."
+
+"It is."
+
+"Then why?"
+
+"Because I want to see if you remember how to fit it."
+
+I understood.
+
+He was not testing whether I could repair a chair.
+
+He was testing whether I remembered.
+
+I went home carrying the chair, smiling despite myself.
+
+That night I wrote:
+
+*Vale does not teach in lessons. He teaches by repetition, correction, and making me do the thing myself. I am beginning to remember before he asks.*
+
+I stopped.
+
+Then I added:
+
+*I do not know whether that is what he intended.*
+
+I closed the book.
+
+Outside, the rainwater ran along the gutter.
+
+The town slept.
+
+For a little while, there was nothing else.
+
+The next day I returned the repaired chair to him.
+
+He inspected the joint.
+
+"You remembered."
+
+"You made me do it twice."
+
+"That is one way of remembering."
+
+We put the chair against the wall.
+
+He sat in it.
+
+It held.
+
+"Good," he said.
+
+I stood by the table.
+
+"Do you ever get tired of keeping things?"
+
+He looked at me.
+
+"Documents?"
+
+"Anything."
+
+He thought for a while.
+
+"Keeping is easier when you know what you are keeping."
+
+"And when you don't?"
+
+"Then you have to be careful not to invent the reason."
+
+That answer stayed with me.
+
+I had been doing exactly that.
+
+The Agreement existed.
+
+The Order existed.
+
+The people around them had reasons.
+
+I had begun to fill the empty spaces with explanations.
+
+He poured tea.
+
+"Sit."
+
+I sat.
+
+"You are trying to understand the Order."
+
+"Yes."
+
+"You will not."
+
+"Not yet."
+
+"Perhaps never."
+
+I waited.
+
+He looked toward the window.
+
+"That does not mean you cannot understand a particular man."
+
+"How?"
+
+"Watch what he does when the answer costs him something."
+
+I thought of the unidentified man.
+
+"What if he does nothing?"
+
+"Then you have learned that too."
+
+We drank.
+
+After a while he asked me to walk with him to the edge of the road.
+
+He moved slowly. I matched his pace.
+
+There was no lesson.
+
+We passed the smithy, the cooper's yard, and the church wall. He stopped once to catch his breath, and I waited without mentioning it.
+
+"You are stronger than you were."
+
+"I have been walking."
+
+"You have been working."
+
+"There is a difference?"
+
+"There always is."
+
+We continued.
+
+At the turn he said, "You have started coming here without questions."
+
+"I still have questions."
+
+"That is not what I meant."
+
+I understood.
+
+I had begun to visit him because I wanted his company.
+
+The realization was uncomfortable.
+
+Not because there was anything wrong with it.
+
+Because it meant that some part of my life in Alderwick no longer belonged to the investigation.
+
+We turned back.
+
+On the way, he stumbled once.
+
+I caught his arm.
+
+He steadied himself.
+
+"Don't make a habit of that."
+
+"Of catching you?"
+
+"Of worrying."
+
+I laughed.
+
+He did not.
+
+But there was a small change at the corner of his mouth.
+
+That evening I wrote nothing about the Order.
+
+I wrote only:
+
+*Vale is weaker than he admits.*
+
+Then I closed the book.
+
+
+The rain continued for most of the afternoon.
+
+I stayed longer than I intended.
+
+Vale showed me how to replace the leather on a tool handle. He worked slowly because his fingers had begun to stiffen in the cold.
+
+"Your hands hurt?" I asked.
+
+"Sometimes."
+
+"You should rest."
+
+"I am resting."
+
+"You are working."
+
+"That is how I rest."
+
+I smiled.
+
+He did not.
+
+We finished the handle.
+
+He tested it once against the block.
+
+"Good enough."
+
+"That sounds like praise."
+
+"It is."
+
+We sat by the fire.
+
+For a while neither of us spoke.
+
+I thought about the Order, about the men who disagreed over what should be preserved, and about Eleanor's warning that interesting stories made people careless.
+
+Then I realized something.
+
+Vale had never once asked me to believe him.
+
+He had asked me to look.
+
+That was different.
+
+"Why did you teach me?" I asked.
+
+He looked into the fire.
+
+"Because you kept looking."
+
+"That is all?"
+
+"That is not a small thing."
+
+He took another drink.
+
+"Most people look once. Then they decide what they saw."
+
+I remembered the pump, the parish, the market, the stranger.
+
+"I am trying not to."
+
+"I know."
+
+That was the closest he had come to telling me he was proud of me.
+
+I did not mention it.
+
+Neither did he.
+
+On the walk home I noticed that I had begun to match Vale's pace without thinking.
+
+He had walked slowly because he had to.
+
+I walked slowly because I no longer needed to hurry.
+
+The difference mattered.
+
+I had arrived in Alderwick expecting every day to lead somewhere.
+
+Now some days simply passed.
+
+I was beginning to think that this was not a failure of the story.
+
+It was life.
+
+The thought stayed with me until I reached my door.
+
+The following morning I remembered the chair before I remembered the Order.
+
+That seemed significant.
+
+I did not know why.
+
+I left it unexplained.
+
+I did not mention the Order in my notebook that night.
+
+It was not an answer.
+
+It was a habit. I slept well that night.
+
+The following day I found myself remembering the smallest things: the way he tested the chair before sitting, the way he never corrected a mistake until I had made it twice, the way he waited before answering a question he thought I had asked too quickly.
+
+Those details were becoming more familiar than the Agreement itself.
+
+I suspected that mattered.
+
+I did not yet know how.
+
+I knew I would remember the afternoon even if I forgot the words.
+
+It occurred to me that this was another kind of evidence: not proof of anything outside the room, but proof that the room had become familiar.
+

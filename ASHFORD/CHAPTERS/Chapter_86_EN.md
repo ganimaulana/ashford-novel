@@ -143,3 +143,5 @@ But I knew that someone else had seen what I had not seen. He had not told me th
 I did not know whether that was a kindness or a test.
 
 But I knew I would not forget his face.
+
+Leon watched the square again after the report was accepted. The baker remained where he had been. The drifting man had vanished among carts and pedestrians. The stranger who had spoken to him was nowhere obvious. Three observations, three uncertainties. He wrote none of them down.

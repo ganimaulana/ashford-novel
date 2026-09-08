@@ -1,64 +1,831 @@
-# Chapter 20 — The Key Given Back
+Chapter 20 — The Question That Remained
 
-Sunday came in with a fall of snow, the first of the year, not enough to lie, but enough to show the town to itself, the way a thing is shown when the light is changed and nothing else is changed.
+The note stayed beneath the button until morning.
 
-I went to the service by the middle of the lane, because that is the way, and the snow was on the rosemary in the pot when I came by the end house, and it was on the sill, and the window stood open with the snow coming in at it, and I took that in and gave it out again, and understood what I took in: that the window had not been shut for the snow, and that a house that leaves its window open to the snow is a house that would be seen leaving it open, and that the town went by in its Sunday coats and did not see, and did the not seeing with such grace that the grace was the thing, and not the window.
+I did not sleep well.
 
-The sermon was about the steward that is found faithful, and I heard it the way I had heard the one before, because the church preaches the keeping in this town, and the town keeps the preaching, and the two of them keep each other, and a man that sits under it long enough begins to see that the doctrine is the town's own doctrine about itself, said back to it from its own pulpit.
+Not because of the words.
 
-At the door going out, the verger gave me my hat, and stood with it in his hand a moment after the giving, in the way of a man that has a thing to say and has chosen the door to say it at.
+Because of the paper.
 
-"The key is given back," he said.
+It was ordinary. Thin, slightly rough, with no seal or watermark that I could see. The ink was dark enough to be recent, but that told me very little. A dozen people could have written those four words.
 
-"The clerk's key."
+Ask who remembers Hobbs.
 
-"Given back at the town hall this morning," said the verger, "before the service, by the man from the bench, into the clerk's hand, and the clerk has given it me to tell of, because the clerk is a man that tells by another man's mouth, and because I am the man that wrote the frost at the door. The tower is locked again with two keys, Mr. Ashcroft, and the two keys are in the keeping of the two men, and the writing is gone back to the bench with the man that made it."
+The obvious question was who had placed it there.
 
-"Did he say what he found."
+I decided not to ask it first.
 
-"He said what he found," said the verger, "because a man from the bench says what he finds, that being what he is come for. He found the wheel that swings, and the rope that is gone, and the bell that is not there, and he said it at the town hall with the clerk standing by, and the clerk said nothing against it, because there is nothing to say against the truth of it; and the bench will have it in the writing now, that the bell is not in the tower, and the town has had it in the saying these eleven years, and the two of them are agreed at last, and the agreement is the bench's."
+The better question was why.
 
-"Where is the man gone."
+Daniel arrived just after breakfast.
 
-"That is what I came to tell," said the verger. "He is not gone. He stays over the week, at the inn, because a man that has made his writing stays for the answer to it, and the answer to it is the thing the town has not given him yet. He is at the church today, Mr. Ashcroft. He stood at the back of the nave through the service, because a man from the bench stands at the back of the nave, where the nave may be seen, and I saw him there, and he saw me seeing, and that is where it stands between us."
+He knocked twice.
 
----
+I opened the door.
 
-I went home through the snow that would not lie, and found a note at my door, not fallen, but placed, under the stone that stands by the step, so that the snow had not come at it; and I knew before I opened it that it was not of the lane's hand, because the lane's hand comes in the evening and by the office, and this was placed by day, and the placing of it was the telling of it.
+He looked at me.
 
-It was Daniel's hand, and it said:
+“You found something.”
 
-*Dear Ashcroft — The Academy is shut for the week after next, which is the custom of the place at this season, and I have that to show you which I promised you some weeks since, and have kept by me for the hour of the showing. Come to me on the Monday, at four, if the Monday is yours. I have had it by me so long that the keeping of it has become a kind of debt, and I would be quit of it. — D.C.*
+“How do you know?”
 
-I stood with it in my hand at my own door, and remembered the promise, which was the promise of the archives, made in the first week, when Daniel carried the trust-roll and I carried the note, and the two of us were keeping things for each other the way we have kept them since; and I understood that the debt Daniel spoke of was not the debt of the paper, but the debt of the hour, because a thing promised is a thing that stands between two men until it is given, and Daniel was a man that would be quit of the things that stood between him and another man.
+“You have that face.”
 
----
+“What face?”
 
-In the afternoon, the snow lying a little in the churchyard where the stones kept it from the wind, I went to Arthur's, because the shop keeps the Sunday afternoon the way the shop keeps everything, with the door open and the man behind the counter, and because I would tell Arthur the key was given back, and would hear what Arthur would say of the giving back.
+“The one you make when you've found something and don't want to tell me.”
 
-"He has given it back," said Arthur, when I had told it, "and that is the whole of his wisdom, and it is more than I looked for. A man that keeps a key too long keeps a question with it, and the bench does not keep questions, Mr. Ashcroft; the bench asks them. He has given back the key, and kept the seeing, and the seeing is what he came for, and it goes back to the bench in his pocket, where the key would not go. Sit down. I have a thing to say to you, because I have heard you at the door this afternoon, and because a man that comes on a Sunday afternoon comes for the saying and not for the book."
+I stepped aside.
 
-I sat, and Arthur took a book from under the counter, not from the shelves, because the shelves are the shop's and the under-counter is the man's, and set it between us, and did not open it.
+He entered.
 
-"The man from the bench will be at this shop in the week," he said. "He has been at the town hall and at the church, and the shop is the next door in the town, and he will come asking about the letters, because the letters are the thing the writing is about; and I have told you what I will tell him, which is the truth of this shop and the whole of it. But there is a thing I will not tell him, and that is a thing I will tell you, because you have come to the counter these three weeks with the questions that the counter answers, and a man answers at last to the man that asks."
+The brass button was on the table.
 
-He opened the book then, and it was not a book, but a press of papers bound into a book's cover, in the way old papers are kept by men that keep them long, and he turned it to a place, and put his finger on a line.
+The note beside it.
 
-It was a list, in a hand I had seen before, because I had seen it in the reckoning at the vestry, and it said at the head of it: *The subscriptions received for the bell, in the year eight, against the sale of the same*; and below the head were the names, and the sums, and among the names, in the middle of the list, where the sums were the sums of men that gave as much as they would be seen giving, there stood one line that was not like the others, because the name was written and the sum was written, and beside the sum, in smaller letters, was the note: *returned*.
+Daniel stopped.
 
-"That is the list of the year eight," said Arthur. "The bell was sold in the year nine, but the town subscribed for the bell in the year eight, because the town does the thing a year before it does it, and puts the year between, so that the doing of it may be seen to be done. This is my book, Mr. Ashcroft. It is the book of this shop, and it is not the book of the parish, and a man that asks me at the counter about the letters is answered about the letters, and not about this, because this is not the letters."
+“What's that?”
 
-"What is the note," I said. "The returned."
+“A note.”
 
-"That," said Arthur, "is what I give you, and not the bench; and I give it you because you have asked the town's questions at the town's counters, and have not yet asked a question of this shop that the shop has had to refuse. The note is the clerk's note, in the clerk's hand, and it stands beside one name in the list, and the name it stands beside is the name of the man that bought the bell in the year nine, because the man that bought the bell gave to the bell in the year eight, and the giving was returned to him, and a giving returned is a giving refused, and a giving refused in the year eight is the thing a man does when he knows in the year eight what the town will do in the year nine."
+“I can see that.”
 
-He shut the book, and set it back under the counter, in the place where a man keeps the things that are the man's and not the shop's.
+He picked it up.
 
-"Crane," I said.
+I took it from him.
 
-"Crane," said Arthur. "The father, that bought the bell; and the sum was returned him out of the subscriptions, by the clerk's hand, in the year eight, a year before the buying. That is the whole of what is in the book. That is the whole of what I will say. You may keep it or not keep it, as you keep the other things you carry, and I would have you keep it the way you keep them — in the book, and not in the mouth."
+“Don't.”
 
-I went home through the snow that lay a little now, because the evening had come and the cold with it, and the lane was putting up its lights at the windows, one after another, in the order of the lane, and at the end of it the upper window stood black, and the hour was not yet the hour, and I went in and wrote in my book:
+“Why?”
 
-*8 Dec. The tower key given back; the seeing kept. The bench man stays over the week, for the answer. Daniel's note: Monday, four, the archives. Arthur's under-counter book, the subscriptions of the year eight: Crane gave to the bell in the year eight, and the gift was returned him in the same year, a year before he bought it in the year nine, by the clerk's hand. The town subscribed for the bell before it sold it; the buyer was put out of the giving before the buying. There is, therefore, a year between the town's mind and the town's hand, and the clerk's note stands in the middle of it, and the note is returned, and I do not know yet whether the thing returned was the money, or the name.*
-</content>
+“Because I don't know who wrote it.”
+
+Daniel looked at me.
+
+“It's paper.”
+
+“Exactly.”
+
+He laughed.
+
+“You've become suspicious of paper.”
+
+“Paper is where people hide things.”
+
+“That is what books are.”
+
+“Sometimes.”
+
+I placed the note beside the button.
+
+Daniel read it again.
+
+“Ask who remembers Hobbs.”
+
+“Yes.”
+
+“Who wrote it?”
+
+“I don't know.”
+
+“Who put it here?”
+
+“I don't know.”
+
+“Why?”
+
+“I don't know.”
+
+He looked genuinely pleased.
+
+“That's four things you don't know.”
+
+“Five.”
+
+“What?”
+
+“Who remembers Hobbs.”
+
+Daniel laughed.
+
+Then his expression changed.
+
+“Maybe that's the point.”
+
+“What?”
+
+“The note doesn't tell you who wrote it.”
+
+“No.”
+
+“It tells you what to do.”
+
+“Yes.”
+
+“Then maybe we're asking the wrong question.”
+
+I looked at him.
+
+For once, he had said something worth writing down.
+
+We went to the poor-house first.
+
+The clerk from the previous day recognized me.
+
+“You again.”
+
+“Yes.”
+
+“You found what you wanted?”
+
+“No.”
+
+He sighed.
+
+“People rarely do.”
+
+“I need to ask about Hobbs.”
+
+“You've already seen the register.”
+
+“I know.”
+
+He looked suspicious.
+
+“Why?”
+
+“I found another reference.”
+
+“To Hobbs?”
+
+“Yes.”
+
+He pointed toward the records room.
+
+“Then ask the register.”
+
+“I need people.”
+
+He stared at me.
+
+“People?”
+
+“People who knew him.”
+
+The clerk shook his head.
+
+“He wasn't important.”
+
+“That's why I'm asking.”
+
+He thought for a moment.
+
+“There was Pike.”
+
+“I spoke to him.”
+
+“Then Margaret.”
+
+“I know her.”
+
+“Most people did.”
+
+“Anyone else?”
+
+He hesitated.
+
+“Mrs. Bellamy.”
+
+“Who is she?”
+
+“Was. She died two years ago.”
+
+“Anyone living?”
+
+The clerk rubbed his chin.
+
+“There's old Mr. Orme.”
+
+“Where?”
+
+“Near the south road.”
+
+“Did he know Hobbs?”
+
+“He knew everyone.”
+
+“That isn't the same.”
+
+“No.”
+
+The clerk smiled faintly.
+
+“You'll learn.”
+
+Orme lived in a small house behind a cooper's yard.
+
+He was older than I expected.
+
+His hair was completely white.
+
+His back was bent.
+
+But his eyes were sharp.
+
+When I introduced myself, he looked at me for several seconds.
+
+“Ashcroft?”
+
+“Yes.”
+
+“I remember that name.”
+
+I did not ask how.
+
+Instead I said,
+
+“I wanted to ask about Hobbs.”
+
+Orme's expression changed.
+
+“Why?”
+
+“I've been told you knew him.”
+
+“I knew everyone.”
+
+“Did you know him well?”
+
+“No.”
+
+That answer was familiar.
+
+“What did he do?”
+
+“Watched.”
+
+“For whom?”
+
+Orme laughed.
+
+“Young man, if I knew that, I wouldn't be living here.”
+
+I sat opposite him.
+
+“Did he ever speak about the army?”
+
+“No.”
+
+“The poor-house?”
+
+“No.”
+
+“The northern boundary?”
+
+His eyes narrowed.
+
+“You've been talking to Fletcher.”
+
+“Yes.”
+
+“Fletcher talks too much.”
+
+“Sometimes.”
+
+Orme leaned forward.
+
+“Hobbs didn't care about the boundary.”
+
+“What did he care about?”
+
+“Who cared about it.”
+
+That was different.
+
+“Explain.”
+
+“No.”
+
+“Why?”
+
+“Because I don't know.”
+
+He looked toward the window.
+
+“That's the truth.”
+
+I waited.
+
+After a while he said,
+
+“Hobbs had a habit.”
+
+“What habit?”
+
+“When someone asked him a question, he asked who had asked them to ask.”
+
+I thought of the note.
+
+“Did he do that with you?”
+
+“Yes.”
+
+“What did you ask?”
+
+“Nothing important.”
+
+“Then why did he ask?”
+
+“Because he didn't trust easy questions.”
+
+I wrote that down.
+
+Orme watched me.
+
+“You write everything?”
+
+“Only what matters.”
+
+“And how do you know what matters?”
+
+“I don't.”
+
+He smiled.
+
+“Good answer.”
+
+I showed him the brass button.
+
+He did not touch it.
+
+“That's his.”
+
+“How do you know?”
+
+“I saw it.”
+
+“When?”
+
+“Long ago.”
+
+“Where?”
+
+“On his coat.”
+
+“Did he keep it hidden?”
+
+“Sometimes.”
+
+“Why?”
+
+Orme shook his head.
+
+“He said it wasn't a button.”
+
+I looked at him.
+
+“What did he call it?”
+
+“Proof.”
+
+“Proof of what?”
+
+“I don't know.”
+
+“You never asked?”
+
+“I did.”
+
+“And?”
+
+“He said, ‘If you know what it proves, you don't need me to tell you.’”
+
+I wrote the sentence down.
+
+Then stopped.
+
+“Mr. Orme.”
+
+“Yes?”
+
+“Did Hobbs ever mention the Ashcroft family?”
+
+The old man looked at me for a long time.
+
+“Yes.”
+
+My pen remained still.
+
+“When?”
+
+“Before he went to the poor-house.”
+
+“Which Ashcroft?”
+
+“Aurelius.”
+
+The name landed quietly.
+
+“What did Hobbs say?”
+
+“That Mr. Ashcroft was interested in old boundaries.”
+
+I looked at him.
+
+“Only boundaries?”
+
+“No.”
+
+“What else?”
+
+“Records.”
+
+“Documents?”
+
+“Yes.”
+
+“People?”
+
+Orme hesitated.
+
+“Sometimes.”
+
+“Did Hobbs work for him?”
+
+“No.”
+
+“Know him personally?”
+
+“I don't know.”
+
+“You just said he mentioned him.”
+
+“I said the name came up.”
+
+“That isn't the same.”
+
+Orme smiled.
+
+“You are learning.”
+
+I asked one final question.
+
+“Why did Hobbs enter the poor-house?”
+
+Orme's face became serious.
+
+“He was waiting.”
+
+“For what?”
+
+“I don't know.”
+
+“The boy?”
+
+Orme looked at me sharply.
+
+“What boy?”
+
+I told him about the register.
+
+He listened.
+
+Then shook his head.
+
+“I never saw him.”
+
+“Did Hobbs expect someone?”
+
+“Yes.”
+
+“When?”
+
+“Not a date.”
+
+“What, then?”
+
+Orme looked toward the window.
+
+“When the town became quiet.”
+
+“That doesn't mean anything.”
+
+“It did to Hobbs.”
+
+“Why?”
+
+“He said quiet towns were easier to hear.”
+
+I stared at him.
+
+“Hear what?”
+
+Orme shook his head.
+
+“I never asked.”
+
+Outside, Daniel was waiting.
+
+“You were inside for an hour.”
+
+“Almost.”
+
+“What did he say?”
+
+I told him.
+
+Daniel listened carefully.
+
+When I finished, he said,
+
+“So Hobbs knew Aurelius.”
+
+“Possibly.”
+
+“And he was waiting for something.”
+
+“Possibly.”
+
+“And the button was proof.”
+
+“According to Orme.”
+
+Daniel frowned.
+
+“You don't believe him?”
+
+“I believe that he said it.”
+
+“That isn't what I asked.”
+
+“No.”
+
+We started walking.
+
+“What do you think the button proves?” Daniel asked.
+
+“I don't know.”
+
+“Military service?”
+
+“Probably.”
+
+“Then why call it proof?”
+
+“Maybe Hobbs wanted someone to recognize him.”
+
+Daniel stopped.
+
+I turned.
+
+“That's possible.”
+
+“Recognize him as what?”
+
+“A soldier.”
+
+“That doesn't explain why he hid it.”
+
+“No.”
+
+Daniel looked thoughtful.
+
+“Maybe the proof wasn't what the button showed.”
+
+“What, then?”
+
+“That he had been somewhere.”
+
+I looked at him.
+
+“With a uniform?”
+
+“Maybe.”
+
+“Where?”
+
+“That's what we're supposed to ask.”
+
+He smiled.
+
+I did not.
+
+We returned to the university.
+
+Daniel wanted to look through the Ashcroft references.
+
+I wanted to verify one thing first.
+
+The old committee minutes.
+
+The northern boundary.
+
+The reference to Aurelius.
+
+We found the volume.
+
+The page was unchanged.
+
+Daniel opened another book.
+
+Then another.
+
+Nothing.
+
+For almost an hour, there was only paper.
+
+Then Daniel stopped.
+
+“Leon.”
+
+I looked over.
+
+He had found a list of visitors.
+
+Not to Alderwick.
+
+To London.
+
+A private collection of names recorded by a clerk.
+
+Among them:
+
+Aurelius Ashcroft.
+
+Thomas Vale.
+
+I read the names twice.
+
+“Who's Vale?”
+
+Daniel shrugged.
+
+“Could be anyone.”
+
+“Yes.”
+
+He looked at the date.
+
+I copied it.
+
+No more.
+
+Not yet.
+
+When we left the university, a folded sheet lay beneath the door of my house.
+
+No knock.
+
+No footsteps.
+
+I picked it up.
+
+Daniel watched.
+
+“You're not opening it?”
+
+“I am.”
+
+The paper contained a single sentence.
+
+You are asking the wrong people.
+
+Daniel read it over my shoulder.
+
+He became pale.
+
+“That's not good.”
+
+“No.”
+
+“Who are the right people?”
+
+“I don't know.”
+
+He looked toward the street.
+
+“Maybe whoever wrote this does.”
+
+I folded the paper.
+
+“Maybe.”
+
+Daniel lowered his voice.
+
+“Are we being watched?”
+
+I looked at the houses.
+
+Curtains moved.
+
+A shopkeeper closed his door.
+
+A cart passed at the end of the street.
+
+Nothing unusual.
+
+Nothing certain.
+
+“I don't know.”
+
+Daniel sighed.
+
+“Again.”
+
+“Yes.”
+
+We went inside.
+
+That evening, I made a list.
+
+Not of factions.
+
+Not of suspects.
+
+Of people who had remembered Hobbs.
+
+Samuel Pike — remembered the button; saw the boy.
+
+Margaret — knew Hobbs; knew he watched.
+
+William Fletcher — knew Hobbs; remembered the boundary stone.
+
+Arthur — knows the name Ashcroft; knows more than he says.
+
+Orme — remembered Aurelius; said Hobbs was waiting.
+
+The poor-house register — recorded Hobbs entering in 1805 and leaving in 1816.
+
+Then I added the two notes.
+
+Ask who remembers Hobbs.
+
+You are asking the wrong people.
+
+I read both.
+
+They contradicted each other.
+
+That made them interesting.
+
+If the first note was genuine, I had followed it.
+
+If the second was genuine, I had followed it badly.
+
+Either way, someone knew what I was doing.
+
+I closed the notebook.
+
+Then I noticed something.
+
+The brass button was not on the table.
+
+I looked at the drawer.
+
+It was open.
+
+I was certain I had closed it.
+
+I reached inside.
+
+The button was still there.
+
+Nothing else had been disturbed.
+
+I held it in my palm.
+
+For the first time, I understood why Hobbs might have called it proof.
+
+Not because of what it was.
+
+Because someone else knew I had it.
+
+I put it back.
+
+Then locked the drawer.
+
+That night, I did not hear a bell.
+
+I heard footsteps outside.
+
+They stopped at my door.
+
+There was no knock.
+
+After a minute, they moved away.
+
+I waited until the sound disappeared.
+
+Then I opened my notebook.
+
+Beneath the names, I wrote:
+
+The question is no longer who remembers Hobbs.
+
+I paused.
+
+Then added:
+
+It is who wants to know whether I remember him too.

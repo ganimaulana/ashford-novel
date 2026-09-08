@@ -1,7 +1,7 @@
 ﻿# CHARACTER VISUAL CANON — Alderwick
 
 **Status:** PROPOSED — refined per author review (2026-09-02); awaiting final author approval
-**Date:** 2026-09-02
+**Date:** 2026-09-06
 **Scope:** Major recurring characters. World Bible only — not inserted into manuscript.
 **Revision note:** Author-review recommendations applied. Existing confirmed canon preserved. Unresolved details remain unresolved.
 
@@ -33,7 +33,7 @@
 | Silas Crowe | None | HIGH |
 | Nathaniel Graves | None | HIGH |
 | Thomas Vale | None | HIGH |
-| Arthur Edmund Bell | Moderate (sharp observant eyes; stooped; spectacles; book-hands) | MEDIUM |
+| Arthur Laurence Bell | Moderate (sharp observant eyes; stooped; spectacles; book-hands) | MEDIUM |
 | Eleanor Shaw | None | MEDIUM |
 | Daniel Carter / Wren | Weak (eager posture; student dress; carries books) | MEDIUM |
 | Ysabel Nott | None | MEDIUM |
@@ -43,7 +43,7 @@
 | The stranger | None | MEDIUM |
 | The keeper of the tally | None | MEDIUM |
 | Miriam | None | MEDIUM |
-| Thomas Wren | Weak (frail, aged) | LOW |
+| Edmund Wren | Weak (frail, aged) | LOW |
 | The vestry clerk | None | LOW |
 
 ---
@@ -109,7 +109,7 @@
 **Status:** CONFIRMED presence — visual refined per review
 
 **Core Visual Identity:**
-- **Age:** PROPOSED — 45–55
+ - **Age:** PROPOSED — 32–34 (working range 30–35)
 - **Build:** PROPOSED — spare, capable
 - **Height:** PROPOSED — average
 - **Complexion:** PROPOSED — pale, fine lines at eyes and mouth
@@ -137,7 +137,7 @@
 3. Looks at Leon as though she has been expecting him longer than he has known to come
 
 **IMAGE GENERATION READINESS:**
-- Core face identity: woman 45–55, composed, spare
+ - Core face identity: woman 32–34, composed, spare
 - Body/silhouette: upright, quiet, dark wool + white apron + cap
 - Hair: grey-streaked brown under cap
 - Eyes: dark, steady
@@ -364,7 +364,7 @@
 
 ---
 
-### ARTHUR EDMUND BELL (bookseller / antiquarian)
+### ARTHUR LAURENCE BELL (bookseller / antiquarian)
 
 **Status:** CONFIRMED — established physical details preserved
 
@@ -653,7 +653,7 @@
 
 ---
 
-### THOMAS WREN
+### EDMUND WREN
 
 **Status:** CONFIRMED — dies Ch 11; LOW priority
 
@@ -678,9 +678,9 @@
 | Crowe | Late 40s | Thin | Dark, receding | Dark, still | Drab grey-brown | Watches mouths | Silent entry |
 | Graves | 60s | Spare, stooped | Thin white | Plain | Dated dark coat | Spectacle-polishing, tremor | Clasped hands |
 | Vale | 80s+ | Shrunken | White, scant | Clear, steady | Mended brown coat | Vigorous eyes | Deliberate motion |
-| Helen | 45–55 | Spare | Grey-streaked bun | Dark, steady | Dark wool + apron | Has things ready | Quiet readiness |
+| Helen | 32–34 | Spare | Grey-streaked bun | Dark, steady | Dark wool + apron | Has things ready | Quiet readiness |
 | Margaret | 50s | Sturdy | Grey under cap | Blue, frank | Linen apron | Flour-dusted arms | Wipes hands |
-| Arthur Bell | 50s–60s | Stooped | Grey, thin | Sharp | Leather apron | Ink-stained hands | Tilts head |
+| Arthur | 50s–60s | Stooped | Grey, thin | Sharp | Leather apron | Ink-stained hands | Tilts head |
 | Daniel | Late teens | Long-limbed | Light brown | Open | Neat, scuffed | Book strap | Talks with hands |
 | Ysabel | 40s+ | Lean | Dark, grey-streaked | Dark, direct | Long mended coat | Many-pocketed coat | Touches clock pocket |
 | Elias Marr | 60s | Slight | White, uncut | Averted | Oversized coat | Misbuttoned waistcoat | Looks at objects |

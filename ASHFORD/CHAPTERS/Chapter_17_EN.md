@@ -50,7 +50,7 @@ It lay in my palm, and it was the letter the boy had said it was: *Bellweather H
 
 "I am not asking you to make one."
 
-"Then I will say what I do say, which is this," said the postmaster. "The office is the office of the town, and not of the lane; and there is a man at the bench that has written to the office this month, about the rates that come by hand, because the rates that come by hand are the rates that pay no duty. There is no law in it yet. There is a writing at the bench. I tell you, because you are the watch, and because a letter that is carried for a penny by a boy is a letter that any man may ask about, and a letter that comes by the post is a letter that no man may."
+"Then I will say what I do say, which is this," said the postmaster. "The office is the office of the town, and not of the lane; and there is a magistrate at the bench that has written to the office this month, about the rates that come by hand, because the rates that come by hand are the rates that pay no duty. There is no law in it yet. There is a writing at the bench. I tell you, because you are the watch, and because a letter that is carried for a penny by a boy is a letter that any man may ask about, and a letter that comes by the post is a letter that no man may."
 
 I gave back the letter to the sideboard where the unfranked things lie, and I went out, and I understood that the town had two ways of carrying a letter, and that one of them had been the lane's way since before the office, and that the bench had begun, this month, to look at the way that paid no duty.
 
@@ -73,4 +73,3 @@ She had the room full, as she has it at that hour, and there was a man at the ta
 The man at the window turned the paper then, and looked over the top of it at the room, in the way of men that have been set to look; and his look came to the counter, and rested there the length of a breath, and passed on; and I took it for what it was, and gave it back for what it was, and Margaret set the cup down between us as if it had been an answer.
 
 "Mind your keeping," she said. "There is a man in the room that keeps for the keeping."
-</content>

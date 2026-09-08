@@ -1,78 +1,1276 @@
-﻿# Chapter 13 — The Churchwardens’ Reckoning
+﻿# Chapter 13 — Names People Use
 
-Friday came in with a frost that held the lane by the throat until noon. I had written my name on the watch-roll six days before, and the town had taken it without remark, because a man who signs such a paper is either useful or harmless, and the town prefers to wait before deciding which.
+The paper remained on my desk until morning.
 
-I went first to Margaret’s for bread, because the churchwardens keep their books in the vestry room behind the church, and the vestry room is opened only when someone has asked the clerk, and the clerk opens it only when he has seen you buy your bread like any other householder. It is a small town’s way of making sure that inquiry wears the face of custom.
+I had read the sentence often enough that I no longer needed to look at it.
 
-Margaret had the brown loaf ready and wrapped. She did not ask why I was out early on a Friday. She said, “The flour is up again,” and I said, “I have heard it,” and she said, “Then you have heard what everybody says and nobody writes down.” She put the bread on the counter and her hand rested beside it a moment, and she looked at me the way she looks when she is measuring something that is not flour.
+You are asking the wrong people.
 
-“You have been to Arthur’s,” she said. It was not a question.
+There was nothing else.
 
-“I returned his book.”
+No signature.
 
-“And he gave you more than the book back.”
+No seal.
 
-“He gave me what is in the parish accounts,” I said. “Which belongs to no one.”
+No indication of where it had come from.
 
-“Nothing in this town belongs to no one,” said Margaret. “It all belongs to somebody’s keeping. Go carefully with the keeping, Mr. Ashcroft. The men who kept things are older than you think, and they remember who asked.”
+I had considered three possibilities before going to bed.
 
-I paid for the bread and went out. I counted the coins in my palm as I walked; they were fewer than I had hoped, and the week was not yet over. The frost was lifting now; the lane was wet underfoot; the church stood grey against a sky that could not decide between cloud and pale winter sun.
+The first was that it was a warning.
+
+The second was that it was a joke.
+
+The third was that whoever had written it knew exactly what I had been asking.
+
+I disliked all three.
+
+By breakfast, I had added a fourth.
+
+Someone wanted me to ask another question.
+
+I found Daniel at Margaret's.
+
+He was sitting near the window with a newspaper spread across the table. Margaret was behind the counter, counting coins into small piles.
+
+Daniel looked up when I entered.
+
+"You look as though you slept badly."
+
+"I did."
+
+"Because of the note?"
+
+"Partly."
+
+He folded the newspaper.
+
+"What's the other part?"
+
+I sat opposite him.
+
+"Someone left a note at my door."
+
+Margaret stopped counting.
+
+Daniel's expression sharpened.
+
+"What did it say?"
+
+I took the paper from my coat and placed it on the table.
+
+He read it.
+
+Once.
+
+Then again.
+
+Margaret came around the counter.
+
+"Who wrote it?"
+
+"I don't know."
+
+"Who brought it?"
+
+"I don't know."
+
+"Then how do you know it wasn't Daniel?"
+
+Daniel looked offended.
+
+"Why would I write that?"
+
+"Because you're young enough to think it sounds mysterious."
+
+"I don't sound mysterious."
+
+"No. That's the problem."
+
+I took the paper back.
+
+Daniel leaned toward me.
+
+"Did you tell anyone about the house?"
+
+"No."
+
+"About the notebook?"
+
+"No."
+
+"The key?"
+
+"No."
+
+"About the records?"
+
+"I spoke to Arthur."
+
+Daniel looked at Margaret.
+
+Margaret looked at me.
+
+Then she said,
+
+"Arthur knows how to keep his mouth shut."
+
+"I didn't say he told anyone."
+
+"No," she said. "You didn't."
+
+Daniel picked up the newspaper again.
+
+"Then someone else was listening."
+
+"Or guessing."
+
+"Which is worse."
+
+"Why?"
+
+"Because if they were listening, we know where to look."
+
+Margaret shook her head.
+
+"No. If they were listening, you know where not to look."
+
+Daniel stared at her.
+
+"That makes no sense."
+
+"It makes perfect sense."
+
+She returned to the counter.
+
+"People hear what they expect to hear. Sometimes they hear something else entirely."
+
+I looked at the newspaper.
+
+"What were you reading?"
+
+"Prices."
+
+"Again?"
+
+"Still."
+
+He turned it around.
+
+The article concerned grain, transport costs, and the difficulties faced by merchants in several counties. Nothing unusual. There was a short piece lower down about returning soldiers seeking employment.
+
+Daniel tapped it.
+
+"This is what people are talking about."
+
+"The soldiers?"
+
+"The soldiers, the prices, the mills."
+
+"And London."
+
+He smiled.
+
+"You remembered."
+
+"I remember things."
+
+"You remember mysteries."
+
+"I remember whatever people repeat."
+
+Margaret said,
+
+"That's how rumors become history."
+
+Arthur's shop was quiet when we arrived.
+
+Daniel had insisted on coming.
+
+I had not invited him.
+
+He had come anyway.
+
+Arthur looked at us through the glass of the front door before unlocking it.
+
+"I was expecting one of you."
+
+"Which one?" Daniel asked.
+
+"The quieter one."
+
+Daniel looked at me.
+
+"That's him."
+
+Arthur opened the door.
+
+"Come in."
+
+The shop smelled of dust, leather, and old paper.
+
+Arthur went behind the counter.
+
+"You've brought a question."
+
+I placed the note on the wood.
+
+His eyes moved over it.
+
+He did not touch it.
+
+"Where did you get this?"
+
+"My doorstep."
+
+"When?"
+
+"Last night."
+
+Arthur looked toward the window.
+
+"Who knew you were asking questions?"
+
+"About what?"
+
+"That is not what I asked."
+
+Daniel smiled.
+
+Arthur noticed.
+
+"You find this amusing?"
+
+"No."
+
+"Good."
+
+Arthur took the note and examined the paper.
+
+"Ordinary."
+
+"The handwriting?"
+
+"Careful."
+
+"Meaning?"
+
+"Meaning whoever wrote it wanted the writing to be legible."
+
+Daniel leaned over the counter.
+
+"Could you identify the hand?"
+
+Arthur looked at him.
+
+"No."
+
+"Why not?"
+
+"Because I have not seen it before."
+
+"That hasn't stopped you from identifying handwriting before."
+
+"I usually have something to compare."
+
+He folded the note once and returned it.
+
+"Whoever wrote this knows that you are asking questions."
+
+"About the house?"
+
+"Perhaps."
+
+"About the Ashcroft records?"
+
+"Perhaps."
+
+"About Bellweather Lane?"
+
+Arthur looked at me.
+
+"Perhaps."
+
+Daniel sighed.
+
+"You answer every question with another question."
+
+Arthur smiled.
+
+"That is because you ask questions like a politician."
+
+Daniel laughed.
+
+"I'm not a politician."
+
+"Then you're already ahead of most of them."
+
+I noticed the newspaper on the counter.
+
+It was the same edition Daniel had been reading.
+
+There was a mark beside the article about wages.
+
+"You've read this."
+
+"I can read."
+
+"Do you think the situation is serious?"
+
+Arthur considered.
+
+"It depends on what you mean by serious."
+
+"Workers demanding higher wages."
+
+"Serious."
+
+"Meetings."
+
+"Also serious."
+
+"Pamphlets."
+
+"Less serious."
+
+"Why?"
+
+"Because paper is patient."
+
+Daniel said,
+
+"And people aren't."
+
+Arthur looked at him for a long moment.
+
+"No."
+
+There was no amusement in his face now.
+
+"People are not patient."
+
+We left the shop shortly before noon.
+
+Daniel walked beside me in silence.
+
+After a while he said,
+
+"You like him."
+
+"Arthur?"
+
+"Yes."
+
+"I trust him."
+
+"That's not what I asked."
+
+I looked at him.
+
+Daniel smiled.
+
+"You do."
+
+"You're observant."
+
+"I've been told."
+
+We crossed the square.
+
+A group of men stood outside a warehouse.
+
+They were talking loudly.
+
+One of them held a folded sheet of paper.
+
+Another man came out of the building and told them to move away from the entrance.
+
+They did not.
+
+No one struck anyone.
+
+No one threatened anyone.
+
+Yet everyone nearby was watching.
+
+Daniel slowed.
+
+"That is the sort of thing I mean."
+
+"What?"
+
+"Everyone thinks the first man to throw a punch starts a fight."
+
+"And?"
+
+"The fight starts much earlier."
+
+He pointed toward the warehouse.
+
+"Someone cuts wages. Someone complains. Someone writes a pamphlet. Someone reads it. Someone reports the meeting. Someone tells the magistrate. The magistrate tells the constable. The constable watches the men."
+
+"And eventually?"
+
+"Eventually someone decides they have had enough."
+
+I looked at the group again.
+
+"Do they belong to the Revolutionary Army?"
+
+Daniel frowned.
+
+"Maybe."
+
+"You said they did."
+
+"I said some people call them that."
+
+"What do they call themselves?"
+
+Daniel hesitated.
+
+"I don't know."
+
+"Then why use the name?"
+
+"Because that's the name people are afraid of."
+
+"That doesn't make it true."
+
+"No."
+
+He looked toward the warehouse.
+
+"But it doesn't make the anger false."
+
+We continued walking.
+
+After a few steps Daniel said,
+
+"There are people who think they are more dangerous than they really are."
+
+"Who?"
+
+"Magistrates. Some merchants. Men who own property."
+
+"And some people think they are less dangerous than they are."
+
+"Exactly."
+
+"Which do you think?"
+
+Daniel smiled.
+
+"I think you're finally asking the right question."
+
+Margaret was not at the shop when we returned.
+
+She had gone to the market.
+
+We found her there arguing with a man over the price of flour.
+
+"I bought the same amount last week."
+
+"The price changed."
+
+"Why?"
+
+"Because the price changed."
+
+"That isn't an explanation."
+
+"It is the explanation."
+
+Margaret looked at us.
+
+"Tell him."
+
+Daniel shook his head.
+
+"No."
+
+"Coward."
+
+"I have no opinion on flour."
+
+"You have an opinion on everything else."
+
+The man laughed.
+
+Margaret eventually paid.
+
+As we walked away, I asked,
+
+"Does everyone know about the meetings?"
+
+"Everyone who matters," she said.
+
+"Who matters?"
+
+"That's the question."
+
+She looked at Daniel.
+
+"He thinks everyone matters."
+
+"I didn't say that."
+
+"You don't have to."
+
+We stopped near the fountain.
+
+Margaret lowered her voice.
+
+"There are other people asking questions too."
+
+I remembered the note.
+
+"Who?"
+
+She glanced around before answering.
+
+"Men who work at night."
+
+Daniel's expression changed.
+
+"The Night Lantern?"
+
+Margaret nodded.
+
+"You've heard the name."
+
+"Once."
+
+"They watch streets."
+
+"For the Constable?"
+
+"No."
+
+"Then why?"
+
+"To know who passes."
+
+"That sounds like the Constable."
+
+"It isn't."
+
+Daniel said,
+
+"They sell information."
+
+Margaret gave him a sharp look.
+
+"Who told you that?"
+
+"No one."
+
+"Then don't repeat it."
+
+"Why?"
+
+"Because information becomes dangerous when people stop knowing whether they bought the truth."
+
+I thought about the note.
+
+"Have they been watching Bellweather Lane?"
+
+Margaret's face became still.
+
+"I didn't say that."
+
+"You didn't have to."
+
+She looked at me.
+
+"Leon, there are people who make a living watching places. There are people who make a living studying families. There are people who make a living buying things other people don't understand."
+
+Daniel looked at her.
+
+"Who studies families?"
+
+Margaret sighed.
+
+"Those who study families."
+
+Arthur had spoken of them.
+
+"Are they in Alderwick?"
+
+"Sometimes."
+
+"What do they want?"
+
+"Families."
+
+"That isn't an answer."
+
+"It is the only answer I've got."
+
+Daniel frowned.
+
+"Why would anyone care about old families?"
+
+Margaret looked at me.
+
+"Because old families leave old records."
+
+I said nothing.
+
+She continued.
+
+"Births. Marriages. Deaths. Property. Names that disappear and names that appear again."
+
+My hand moved unconsciously toward the pocket where I kept the notebook.
+
+Margaret noticed.
+
+She did not comment.
 
 ---
 
-The clerk was the son. He had his father’s desk and his father’s keys and his father’s habit of letting silence do half the work. He was perhaps fifty, thin in the shoulders, with ink-stained fingers and eyes that had read every page in the vestry room thirty times over and still found nothing surprising in any of them.
+Helen came to the house that evening.
 
-“The churchwardens’ reckoning,” I said. “For the year nine.”
+She brought bread.
 
-He did not ask why. He turned to the press at the far wall, unlocked it with a key that hung from his waistcoat, and took down a volume bound in calf that had gone the colour of old tea. He set it on the desk and opened it without looking for the place, because his hand knew where the year nine lived.
+She always did.
 
-“There,” he said, and pointed.
+She put it on the table and looked at me.
 
-The entry was plain. *Bell sold by agreement of the wardens, Michaelmas quarter, to Mr. Josiah Crane of High Street, ironmonger. Sum received: four pounds ten shillings. Entered by T. Wren, clerk.*
+"You've been asking questions."
 
-Four pounds ten shillings. The bell that had rung for two hundred years, sold for less than a good coat. And below it, in the same hand, the note that Arthur had told me to expect: *Money carried to general account; bell removed from tower inventory.*
+It was not a question.
 
-“The buyer,” I said. “Crane.”
+I looked at Daniel.
 
-“Ironmonger,” said the clerk. “High Street. His shop is now his son’s. The son keeps the same sign.”
+He had already left.
 
-“Did the son keep the bell?”
+"How do you know?"
 
-The clerk looked at me then, properly, for the first time. “Sir,” he said, “the reckoning records what was sold and what was received. It does not record what became of the thing after. That would be a matter for the buyer’s own books, if he kept any, and for the son’s memory, if he has any. My father entered the sale. My father did not enter the destination. You may see the difference.”
+"You have a face."
 
-I could. The parish knew the money. The parish had agreed not to know the bell.
+"That is not an answer."
 
-“One more thing,” I said. “The second ring of keys. Your father’s predecessor — Hodge. Did he keep a second set for the tower?”
+"No."
 
-The clerk’s hand went still on the desk. Not a flinch; a pause, the kind that comes when a question touches a place that has been touched before.
+She sat down.
 
-“My father,” he said slowly, “took over the keys from Hodge in the year three. Hodge was old. Hodge kept things as old men do — in pockets, in boxes, in places that made sense to him and to nobody else. When my father received the office, he received one ring. He asked Hodge about the second. Hodge said it was ‘laid by.’ My father asked where. Hodge said it was laid by where it would be found when it was wanted. My father asked when it would be wanted. Hodge did not answer that.”
+"What have you learned?"
 
-“And the second ring was never produced.”
+"People are angry."
 
-“It was never produced to my father,” said the clerk. “Whether it was produced to anyone else, I cannot say. I can say only that the tower door has been opened with one key since the year three, and that key is mine, and the other is the verger’s, and there is no third in my knowledge.”
+"People are always angry."
 
-He closed the book. He did not offer to let me copy the entry. I had not asked to copy it; I had come to see the shape of the record, and I had seen it. The bell was sold. The money was entered. The bell’s whereabouts were not. The second key was ‘laid by’ by a dead man who spoke in riddles. And the clerk family had held the office across both facts without connecting them on paper.
+"People are watching."
 
-I thanked him and went out into the cold.
+Helen was silent.
+
+"And people are looking through old family records."
+
+She looked at me.
+
+"Who?"
+
+"People who study old families?"
+
+Something changed in her expression.
+
+It was small.
+
+A slight tightening around the eyes.
+
+Nothing more.
+
+But I saw it.
+
+"Have you heard of them?"
+
+"Yes."
+
+"Do you know them?"
+
+"No."
+
+That answer came too quickly.
+
+I waited.
+
+Helen looked away.
+
+"They are interested in families."
+
+"So Arthur said."
+
+"Arthur knows many things."
+
+"Do you?"
+
+She looked at me.
+
+"Not enough."
+
+I almost smiled.
+
+"That sounds familiar."
+
+"It should."
+
+I took the note from my pocket.
+
+Helen read it.
+
+Her face became unreadable.
+
+"Where did you get this?"
+
+"My door."
+
+"When?"
+
+"Last night."
+
+She folded it carefully.
+
+"Do you know who wrote it?"
+
+"No."
+
+"Good."
+
+"Why?"
+
+"Because you would be tempted to believe you knew."
+
+She returned the paper.
+
+"What does that mean?"
+
+"It means a warning is not always meant to protect you."
+
+"Then what is it meant to do?"
+
+"Move you."
+
+"To where?"
+
+"Somewhere the writer wants you to go."
+
+I looked at the note.
+
+You are asking the wrong people.
+
+"Then who should I ask?"
+
+Helen stood.
+
+"I don't know."
+
+"You do."
+
+She walked toward the door.
+
+"Helen."
+
+She stopped.
+
+"Are they dangerous?"
+
+She turned.
+
+"They can be."
+
+"Are the Night Lantern dangerous?"
+
+"They can be."
+
+"The Revolutionary Army?"
+
+"They can be."
+
+"You're avoiding the question."
+
+"No."
+
+She opened the door.
+
+"I am answering it."
+
+She stepped outside.
+
+I followed her to the threshold.
+
+"Everyone can be dangerous?"
+
+Helen looked down the empty street.
+
+"No."
+
+She turned back.
+
+"Everyone can be useful."
+
+Then she left.
 
 ---
 
-At noon I walked the length of High Street to find the sign. It was there, as the clerk had said: *Crane & Son, Ironmongers*, painted in letters that had been renewed within the last few years but followed an older pattern underneath. The window displayed hinges, nails, pot-hooks, a pair of fire-irons. No bells. Bells are not ordinary stock for an ironmonger; they are cast, not forged; they come from foundries, not shops. A bell in an ironmonger’s possession is a bell that was bought second-hand, or inherited, or kept.
 
-I did not go in. I had no question yet that the shop could answer, and I had learned from Arthur and from Margaret and from the clerk himself that in Alderwick a question asked too soon becomes a question that will never be answered again. I stood across the street and watched the door for twenty minutes and saw a boy go in with a parcel and come out without one, and a woman go in and stay, and a man in a leather apron go in and come out carrying a length of chain. Ordinary trade. The bell, if it was ever there, was not in the window.
+Daniel did not go home immediately.
 
-I went home and wrote in my book:
+He had told Leon that he had been Daniel all day.
 
-*29 Nov. Churchwardens’ reckoning examined. Bell sold 1809 to Josiah Crane, ironmonger, High Street, for £4 10s. Money entered; bell’s fate unentered. Clerk confirms: T. Wren (father) made the entry. Second key-ring of Hodge: ‘laid by’ per Hodge’s word to the elder Wren, never produced. Tower opened with two keys only (clerk’s + verger’s) since 1803. Crane & Son shop observed; no bell visible. Question deferred.*
+That was true.
 
-And beneath it, because the night before still sat in my hands:
+It was also not the whole truth.
 
-*The bell-money is in the book. The bell is not. The second key is ‘laid by.’ These are three absences that share a shape. What is absent in this town is absent on purpose, and the purpose is kept by the same families that keep the presence. To follow the bell is to follow the keeping. To follow the keeping is to become known to the keepers.*
+He walked away from Leon's house with his hands in his coat pockets, feeling the folded newspaper beneath his fingers.
 
-I shut the book. The fire was low. Outside, the lane was settling into its afternoon grey, and at the end of it the house stood with its rosemary on the sill and its plank gone and its glass open to any eye that chose to look, which was the whole point, and which nobody chose to look at, which was the other whole point. A chill that had nothing to do with the fire settled in my shoulders as I turned the page. I had been cold since the morning, and I could not recall when it had started.
+The street was quieter now.
 
-Tonight I would watch again for the lamp. Tonight I would listen again for the bell. But I had done today what a householder does, and the town had let me do it, and that was enough for one Friday. The rest would come when the keeping allowed it, or when the keeping broke.
+Most of the day's traffic had passed through the square. Shopkeepers were beginning to pull shutters across their windows. A cart rolled slowly toward the southern road, its wheels making a dull sound against the stones.
 
-I had begun to understand that these might be the same event.
-</content>
+Daniel kept walking.
+
+He did not have anywhere urgent to be.
+
+That was useful.
+
+It meant he could think.
+
+The conversation at the market remained in his mind.
+
+So did Arthur's answers.
+
+And the men outside the warehouse.
+
+And the newspaper.
+
+Especially the newspaper.
+
+He stopped beneath the awning of a closed shop and took it out.
+
+The article about returning soldiers was still folded along the same crease.
+
+Daniel read it again.
+
+The language was polite.
+
+Men discharged from service were seeking employment.
+
+Some had difficulty finding suitable work.
+
+Local employers were encouraged to consider their circumstances.
+
+Daniel folded the paper.
+
+Suitable work.
+
+He disliked phrases like that.
+
+They made hardship sound administrative.
+
+He thought of the men outside the warehouse.
+
+Some were angry about wages.
+
+Some were angry about food.
+
+Some were angry because they had worked for years and still had nothing.
+
+Some were angry because they had returned from somewhere else and found that the town had continued without them.
+
+He wondered how many of those men had been soldiers.
+
+He wondered how many would become something else if no one gave them a reason to remain what they had been.
+
+Daniel continued toward the Greyhound.
+
+He stopped before reaching it.
+
+The building was visible across the road.
+
+A few men stood outside.
+
+One smoked.
+
+Another spoke to someone inside the doorway.
+
+Daniel watched for a moment.
+
+Then he noticed something.
+
+A man came out carrying no drink.
+
+He spoke quietly to another man.
+
+The second man nodded.
+
+The first left.
+
+Daniel's eyes followed him.
+
+The man crossed the road and disappeared into an alley.
+
+Nothing happened.
+
+That was the problem.
+
+Nothing happened often enough that people stopped looking.
+
+Daniel turned away.
+
+He walked back toward the square.
+
+On the way, he passed the warehouse again.
+
+The men were gone.
+
+The folded sheet of paper was gone too.
+
+Only a torn corner remained near the wall.
+
+Daniel bent down and picked it up.
+
+The paper was cheap.
+
+There was no writing on the visible side.
+
+He turned it over.
+
+A few words remained.
+
+The ink had been smeared where someone had torn it.
+
+Daniel could make out only part of a sentence.
+
+...those who labour...
+
+He stared at it.
+
+Then folded the fragment and put it in his pocket.
+
+He did not know why.
+
+Perhaps because throwing it away felt too much like deciding that it meant nothing.
+
+He walked on.
+
+---
+
+By the time Daniel reached Margaret's, the shop was almost empty.
+
+She was putting away the last of the cups.
+
+"You're late."
+
+"I wasn't aware I had an appointment."
+
+"You don't."
+
+"Then I'm on time."
+
+Margaret looked at him.
+
+"You've been thinking again."
+
+"Yes."
+
+"Dangerous habit."
+
+"So I've been told."
+
+She put a cup on the shelf.
+
+"You're going to ask me something."
+
+Daniel hesitated.
+
+"Did you know those men at the warehouse?"
+
+"No."
+
+"Did you know any of them?"
+
+"I know most people who work around here."
+
+"That isn't what I asked."
+
+Margaret smiled.
+
+"Then you asked the wrong question."
+
+Daniel looked at her.
+
+For a moment neither spoke.
+
+Then he took the torn piece of paper from his pocket.
+
+"I found this."
+
+Margaret looked at it.
+
+She did not touch it.
+
+"Where?"
+
+"Near the warehouse."
+
+"What does it say?"
+
+"Not enough to know."
+
+"Then why keep it?"
+
+"I don't know."
+
+Margaret nodded.
+
+"Good."
+
+Daniel frowned.
+
+"Why is that good?"
+
+"Because you're learning."
+
+He put the paper away.
+
+"Do you think the men there belong to the Revolutionary Army?"
+
+Margaret looked toward the empty tables.
+
+"I think people like putting names on things."
+
+"That isn't an answer."
+
+"It is tonight."
+
+Daniel sighed.
+
+"You and Arthur have been talking too much."
+
+"We've been talking exactly the right amount."
+
+She turned down one of the lamps.
+
+Daniel watched the light weaken.
+
+"Margaret."
+
+"Yes?"
+
+"Do you think people can be angry without knowing what they are angry about?"
+
+She considered.
+
+"Yes."
+
+"How?"
+
+"They know what hurts."
+
+Daniel said nothing.
+
+"They don't always know what caused it."
+
+He looked at the folded newspaper in his hand.
+
+"That matters."
+
+"It does."
+
+"Then who tells them?"
+
+Margaret looked at him.
+
+"Whoever gets there first."
+
+Daniel understood.
+
+That was the part he had been unable to explain.
+
+A person did not need to invent anger.
+
+They only needed to give it a direction.
+
+He looked toward the window.
+
+Outside, the street was darkening.
+
+A man passed beneath the lamp and disappeared beyond the corner.
+
+Daniel watched until he was gone.
+
+Then he folded the newspaper again.
+
+He still did not know what he believed.
+
+That was becoming uncomfortable.
+
+He had thought uncertainty meant he had not studied enough.
+
+Perhaps it meant something else.
+
+Perhaps it meant that the answer had not been given to him yet.
+
+He left Margaret's shortly afterward.
+
+He did not take the road toward the Greyhound.
+
+He took the longer road home.
+
+Halfway there, he stopped.
+
+For no reason he could explain, he looked back.
+
+The street was empty.
+
+The lamps burned steadily.
+
+No one stood behind him.
+
+Daniel waited another moment.
+
+Then continued walking.
+
+He did not know that anyone had been watching.
+
+He only knew that, lately, he had begun looking back.
+
+---
+
+I did not sleep well.
+
+Near midnight, I heard footsteps outside.
+
+I went to the window.
+
+A man was walking along the street with a lantern.
+
+He stopped at the corner.
+
+He looked toward my house.
+
+Then toward the square.
+
+He remained there for perhaps half a minute before continuing.
+
+I watched until he disappeared.
+
+The Night Lantern.
+
+Perhaps.
+
+Or simply a man doing his work.
+
+I had no evidence.
+
+I returned to the table.
+
+The notebook lay beside the lamp.
+
+I opened it.
+
+This time I turned the page.
+
+There were names.
+
+Some I knew.
+
+Some I did not.
+
+Dates.
+
+Addresses.
+
+Short descriptions.
+
+Nothing supernatural.
+
+Nothing impossible.
+
+Just fragments.
+
+Then I found one entry that made me stop.
+
+A name had been written in the margin.
+
+Not crossed out.
+
+Not underlined.
+
+Just written alone.
+
+Ashcroft.
+
+I read the word again.
+
+Then I noticed something beneath it.
+
+A second line.
+
+It had been written much later.
+
+The ink was darker.
+
+Do not let them decide what the missing years mean.
+
+I closed the notebook.
+
+For the first time, I understood what Arthur had meant.
+
+The records were not answers.
+
+They were arguments waiting for someone to choose a side.
+
+And Alderwick was full of people doing exactly that.
+
+Some wanted better wages.
+
+Some wanted information.
+
+Some wanted families.
+
+Some wanted old objects.
+
+Some wanted repentance.
+
+Some wanted boundaries kept.
+
+And somewhere beneath all of it were the things I still did not understand.
+
+The bell.
+
+The house.
+
+The lamp.
+
+The door.
+
+The key.
+
+I had thought the town was hiding one secret.
+
+I was beginning to suspect something worse.
+
+It might be hiding several.
+
+And the people searching for them might not even know they were searching for the same thing.
+
+I extinguished the lamp.
+
+Then, in the darkness, I heard a faint sound from the street.
+
+A single knock.
+
+I waited.
+
+Nothing followed.
+
+I opened the door.
+
+There was no one there.
+
+Only another piece of paper.
+
+This time there were four words.
+
+Ask about the soldiers.

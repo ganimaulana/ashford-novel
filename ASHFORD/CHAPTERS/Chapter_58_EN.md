@@ -1,87 +1,75 @@
-CHAPTER 58 — THE FILE
+# Chapter 58 — The Thursday Walk
 
-I rose before the lane did on Sunday. The fire was low, and the room was cold, and the kettle took longer to boil than it should have, because I had not tended it properly the night before, and I stood over it and waited and thought about the standing, and about what Calloway had said, and about the consequence of the refusal, and whether the consequence was the thing I had intended.
+Thursday came grey and cold. I carried the kindling up the hill as I had done often enough that I no longer thought of it as an errand. It was simply what I carried on Thursdays. The house at the end of Bellweather Lane stood with its door ajar, which was not usual, and I stopped at the threshold and listened before I knocked.
 
-The Hartley girl's bowl was gone. I had returned it Thursday evening. She had taken it without saying anything, and I had walked back down the lane with the cold in my face and the clerk's words in my head, and I had understood that the week had become something I could not name, and that the naming of it would have to wait.
+Inside, I heard the scrape of a chair and the sound of a man settling back into it. I knocked anyway.
 
-I counted the eight again, because the morning was for counting, and the counting was the part of the work that asked nothing of me. There were eight. The arithmetic held.
+"Come in," Vale said. "You have been standing there long enough to be certain I was still in it."
 
-The box sat in the press. The leaf lay on the table. The clerk's ruled sheet was folded beside it. The three bundles were on the lid. The uncertain paper was on top of everything.
+I pushed the door open and found him at the table with a cup of tea already poured for me, the second cup set at the place where I always sat, and I knew without asking that he had heard me on the lane. He did not comment on it.
 
-I sat in the chair. I did not open the notebook. The kettle boiled. I poured the water and held the cup, and I did not drink it, because the holding of it was enough.
+I set the kindling by the hearth and took the cup. The tea was hot, and the fire was low, and the room had the particular smell of a place that had been closed against the wind for too long: wood-smoke, old paper, the faint metallic tang of the stove's iron. Vale was not in his usual chair; he was standing by the window, looking out at the lane with his back to me, and I understood that he had not been sitting when I knocked, but had moved there for the sake of the chair's scrape.
 
-The office came at half past nine.
+"The lane is quiet," he said.
 
-It was Calloway. He came alone. He had not been alone since Saturday until Friday, and then he had been alone on Friday, and then he had been alone on Saturday, and now he was alone again, and the aloneness was the thing, and the thing was that he had decided what I was, and the deciding was finished, and the finished deciding was what he had come to bring.
+"It is Thursday."
 
-He came in without waiting to be asked. He took off his hat. He looked at the room the way a man looks at a room he has been in before and is seeing again for a purpose.
+"Yes," he said. "It is Thursday."
 
-"The office keeps a record," he said. "For each man who sat at the desk."
+He turned from the window and sat down carefully, as if he did not want to be seen sitting. I had seen it before, many times, and I had learned not to watch. I drank the tea and said nothing, and he said nothing, and the silence was the kind that had become comfortable over the months, a silence that did not need to be filled.
 
-He took a folded sheet from his coat and laid it on the table. It was thin, the paper soft from being folded and unfolded, the ink faded to the color of old wood. The clerk's hand, I saw. Small, precise, the same hand that had written the marks.
+After a while, he said: "The gate at the end of the lane has been sticking. The frost has lifted the post. I would have fixed it myself, but the cold makes my hands less steady, and the hammer is awkward."
 
-"The clerk asked me to give it to you," he said. "You have a reason to see it. The office has no reason to deny it."
+I said I would look at it.
 
-I unfolded the sheet.
+The gate stood at the end of the lane, half a mile from the cottage, at the turn where the footpath met the road to the church. It was a simple thing, a wooden gate on iron hinges, the post sunken and the timber swollen with the wet. The frost had indeed lifted it: the post leaned a good two inches out of true, and the top hinge had pulled free of the wood. The lower hinge was still attached, but the gate sagged badly, dragging against the ground when it swung. The wood around the upper hinge was splintered, and the iron had rusted in the joint. It had clearly been a long winter. The wood was grey with weather, and the iron was rough with rust.
 
-The first line was the name: Thomas Vale.
+I set my coat on the wall and took the hammer and the iron wedge he had brought with him, wrapped in a cloth and placed at the foot of the gate before I arrived. He had known the gate was sticking and had put the tools ready. He did not make a request of it.
 
-The second line was the appointment: Appointed constable of Alderwick, with a date that was before my time and before Calloway's time and before the clerk's time, and the date meant nothing to me because I had not been there when it was written.
+I worked for an hour, driving the wedge into the earth beside the post, tamping it down with the back of the hammer, and realigning the hinge. Vale held the gate steady when I needed both hands. Once the hammer slipped, and he caught the loose hinge before it struck the ground. Neither of us mentioned the near miss. The work left my hands cold and my back warm from the effort. The ground was stubborn, and the wedge needed several blows before it bit properly; I had to pause twice to work the hinge with a little oil from a tin he had left beside the gate. It gave slowly, but it gave. Vale stood on the path and watched me, not with instruction, not with correction, but with the patient attention of a man who had learned to watch things being done. The wind cut across the fields, and I felt it on my face, but the work kept my hands steady. The cold had worked its way through my coat by then, but the hammer was warm in my grip. He said nothing for the first forty minutes, which was the shape of his approval.
 
-The third line was the reassignment: Reassigned from elsewhere, with a date that was older still, and a reason that was not written. The reason was establishment, Vale had told me, and the order had been correctly worded, and that was what troubled him. The file did not say troubled. The file said reassigned, and the reason was left blank, and the blank was the first thing I noticed.
+When I had the post set and the hinge fastened and the gate swinging clean, I turned to find him still standing in the same place, the wind pulling at his coat, his eyes fixed on the gate with an expression I could not read.
 
-The fourth line was the death: Died in office, October 1817. No cause given. No remark. Just the date, and the fact, and the office's acknowledgment that the man who had sat at the desk for fifty years was no longer sitting there.
+"It will hold," I said.
 
-There was a postscript, in the same hand: See entry-book, February last.
+"It will hold," he repeated. "It held for forty years before you. It will hold for another forty after. That is what a gate does."
 
-I read it twice.
+He walked back to the cottage without haste, and I followed, carrying the tools. The wind had dropped, and the light had gone from grey to a pale, thin gold, the kind that comes at the end of a cold afternoon and promises nothing but itself. He went inside and set the kettle on the hob, and I sat in my usual chair, and the fire had been built up while I worked, which meant he had been back and forth to the hearth while I was at the gate, moving as slowly as he needed to, doing what he could do and not asking for help. The flames caught the dry wood and settled into a steady glow, and the room began to lose its chill. I held my hands out to the warmth and watched the light shift across the table.
 
-"The entry-book is the book with the nine lines," Calloway said. "The file is the file. The office keeps them separate."
+He poured the tea and set it beside me, and said: "You did not ask why the gate needed fixing."
 
-I looked at the four lines. I thought about the man who had sat in the chair at the end of the lane and asked me questions and told me to keep things apart and left me a box. I thought about the eight months. I thought about the way he had asked about the road and the horse and the name that appeared four times and stopped. I thought about the Keeper role he had never explained. I thought about the Door he had guarded for fifty years and never understood. I thought about the intelligence work he had never named.
+"I did not need to."
 
-None of it was in the file.
+"No," he said. "You did not need to. You looked at it and saw what it needed, and you did it. That is not nothing."
 
-"The office records what the order says," Calloway said. "The order says establishment. The file says establishment. The file does not say what the order meant."
+He said it without sentiment, and I took it without reply, because that was how we had learned to speak to each other over the months: in small, precise acknowledgments that cost nothing and meant everything, and neither of us would ever name it.
 
-I heard him out. I folded the sheet back the way it had been folded. I set it on the table. I did not hand it back to him. I set it down the way a man sets down a thing he has finished looking at.
+We drank the tea in silence, and the fire burned, and the light outside the window faded from gold to grey. The wind came up again, and the gate at the end of the lane—the gate I had set straight and fastened—would hold through the night, and through the next frost, and through the thaw after that. I knew this because I had fixed it, and I knew that Vale knew it too.
 
-"The man I knew is not in this," I said.
+When I stood to go, he did not rise. He sat in his chair with his hands folded over the cup, and he said: "The gate will need attention again in the spring. The frost will lift the post again. That is what a gate does."
 
-"No."
+"I know," I said.
 
-"And the man the office knew is not the man I knew."
+"Then you will know when to come."
 
-Calloway did not answer immediately. He stood with his hat in his hands, and his eyes moved from the folded sheet to me, and then to the papers on the table, and then to the box in the press, and then to the lane through the window, and then back to the folded sheet.
+I went out into the cold, and the lane was dark, and the wind was full of leaves, and I walked home with the feel of the hammer still in my hand and the sound of his voice still in my head. The lane was dark, but I knew the way by heart. He had not asked me to come again. He had told me when to come. And I understood, as I walked, that I had learned something about the shape of his days that I had not known before: that the gate had been sticking for longer than I had been coming, and that he had waited for me to notice it before he mentioned it—noticing it was what he valued.
 
-"The office knows the man who sat at the desk," he said. "You know the man who sat in the chair. The desk and the chair are not the same place."
+That evening, I wrote in my notebook:
 
-I looked at him. I thought about the blank reason for the reassignment. I thought about the blank margin for the February inquiry. I thought about the blank shelf for the eight papers. Three blanks. Not the same blank. All the same blank.
+*The gate at the end of the lane was out of true. I fixed it. He watched. He did not tell me what to do, and he did not thank me when I finished. That was how I knew I had done it right.*
 
-"The office has not answered the inquiry," I said.
+I closed the book and sat with the window open to the cold air, and I did not write what I had learned, because I had not learned it in words. I had learned it in the way he had stood at the window when I arrived, waiting for me to come up the lane, and the way he had set the second cup on the table before I had knocked, and the way he had not asked me to stay, but had told me when to come back.
 
-"No."
+The fire burned low, and the wind rattled the glass. The gate would need attention again in the spring, as gates do. But tonight it held, and the lane was still.
 
-"And the file does not pretend it has."
+On the way back, Vale stopped at the bakery and bought a small loaf. He carried it under his arm while I carried the hammer.
 
-"No."
+"You could have let me carry that," I said.
 
-Calloway nodded. He took the folded sheet from the table. He put it in his coat. He put on his hat. He walked to the door. He opened it. He stood in the doorway for a moment, looking out at the lane, and then he went down the step, and I shut the door.
+"I have carried bread longer than you have carried hammers."
 
-I stood in the room. The fire was low. The kettle was cold. The papers were on the table. The leaf was beside them. The clerk's ruled sheet was folded on top of the leaf. The three bundles were on the box lid. The box was in the press.
+"That does not make it lighter."
 
-I sat down. I took out my notebook. I wrote what I had seen, in order. What I had been told, in order. What I had concluded, in order. I kept them apart, the way he had taught me, because keeping them apart was the only part of the method that was mine.
+He smiled. "No. But it makes it mine."
 
-What I saw: a folded sheet. Four lines in the clerk's hand. Name, appointment, reassignment with blank reason, death. Postscript referring to the entry-book. Calloway standing in the room. His hat in his hands. The file returned to his coat.
-
-What I was told: the office keeps a record for each man who sat at the desk. Vale's is four lines. The reassignment was establishment. The reason is not in the file. The February inquiry is in the entry-book, not in the file. The office knows the man who sat at the desk. I know the man who sat in the chair.
-
-What I concluded: nothing yet. The file was a skeleton. It held dates and facts and nothing else. It held no mention of the Keeper role. No mention of the Door. No mention of the Gear. No mention of the intelligence work. No mention of the man who had asked questions in February. It was the office's record of a man who had held the desk for fifty years, and it was four lines, and the fourth line was an open question, and the open question was the same open question I was holding, and the two of us were holding it from different sides of the same sheet of paper.
-
-I closed the notebook.
-
-I carried the box to the table and opened it. I looked at the three bundles on the lid. I looked at the uncertain paper that had no name, lying on top of everything. I thought about the file. I thought about the four lines. I thought about the blank reason for the reassignment, and the blank margin for the February inquiry, and the blank shelf for the eight papers, and the three blanks that were not the same blank and were all the same blank, and I thought that the office's record of Vale was as incomplete as the office's record of its own papers, and that the incompleteness was the only thing the two records had in common.
-
-The book said the eight papers were in the office's hands. The shelf said they were not. The clerk said the ninth paper had never come. The constable said the February inquiry was separate. The file said Vale was constable and nothing else. The file said he was reassigned and did not say why. The file said he died in office and did not say what the office had lost. The man who had made the marks knew the marks were not the whole of the record. The man who had left the blank margin knew the margin was the only certain thing. The knowing of it was the not-knowing of it. The not-knowing was the paper that was not there.
-
-I lit the fire. I sat in the chair. I did not open the notebook again. The kettle was cold. The bowl was gone. The box was shut. The book was at the office. The marks were on the papers. The paper that was not there was not there. The file was in Calloway's coat. The entry-book was on the office shelf. The lane was quiet. The week was not over. For now.
+We walked the rest of the way without speaking. At the cottage he cut the loaf before the tea was finished and put half on my plate. It was an ordinary kindness, done so plainly that I almost missed it.

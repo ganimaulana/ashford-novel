@@ -1,77 +1,41 @@
-CHAPTER 61 — THE STONE IN THE ROAD
+# Chapter 61 — The Boundary
 
-I set out before the lane had fully woken. The air was cold, the kind of cold that comes off the fields and stays low in the valley until the sun has been up. I wore my heavier coat. I took the notebook and the pencil. I did not take the map.
+The morning was cold and still, the frost white on the rooftops, and the note from Calloway arrived with the baker's boy. It said only that a farmer named Thorne had been complaining about a hedge that had been cut back three feet beyond the boundary line, and that the neighbour, a man named Harker, had refused to speak to him. Calloway had written, in his small hard hand: "You know how to read a map. Go and see whose hedge it is."
 
-I had looked at it the night before, by candlelight, and I had decided that looking at it again in the morning would not tell me what I had not seen the night before, and that the not-seeing was the thing that had sent me to the road in the first place.
+I took the map from the office—a copy of the parish survey, the ink faded but the lines still legible—and went out into the cold. The lane to Thorne's farm lay north of the town, past the mill and along the edge of the common, and I walked it at a steady pace, counting the turns and the landmarks as I went. Vale had taught me to count the roads I used, and I used four: the lane from the square, the track past the mill, the footpath across the common, and the cart-track to the farm. I did not think of it as a lesson. It had become a habit.
 
-The road north was the same road I had taken once before, on a Tuesday evening when I had gone north instead of south and had found the mill and the stones and the Door. I remembered the turn past the common. I remembered the last house. I remembered the rise toward the hills. I remembered the wall that had been older than the mill and the gap where the mill-yard corner had once been.
+The farm stood at the end of a long drive, the house low and whitewashed, the yard busy with hens and a dog that barked once and then settled. A cart lay overturned near the barn, and the smell of hay and manure hung in the cold air. Thorne was a broad man with a weathered face and hands that had been in the soil for fifty years. He met me at the gate and pointed to the hedge, a line of hawthorn that ran along the eastern side of his field, its branches bare and thorny against the grey sky. The hedge was old—I could see that at a glance—with thick, gnarled trunks and roots that had pushed up the earth along its base. "Harker took three feet off it," he said, his voice tight. "He came out with a billhook last Tuesday and cut it back to what he calls the true line. He says it's his hedge. I say it's mine. The map will tell you which of us is right, but the ground will tell you more."
 
-I walked.
+I walked the length of the hedge, counting my paces. The ground was uneven, frost-hardened in patches, and the hawthorn roots had pushed up the earth into small mounds. I had the map in my pocket, but I did not look at it yet. I wanted to see the ground first, the way Vale had taught me: say what the map says, then say what is there. The hedge was old, the hawthorn thick and twisted, its branches covered with grey lichen and the occasional dried berry. The line of it ran straight for most of its length, except for a bend near the far end where the ground rose toward a low knoll. I counted my paces from the lane to the bend—about sixty—and then from the bend to the far corner—another forty. I saw that the hedge, after the bend, did not continue straight; it angled slightly to the left, cutting across what should have been a straight line. The cut branches that Harker had left lay on the ground, some still green, others already brown. I knelt and examined the stumps: the cuts were clean, recent, and they followed a line that was distinctly different from the curve of the hedge behind me. I stood and looked back along the hedge, and I saw that the line of the hedge did not match the line of the field exactly—it angled slightly, as if it had been planted to follow an older boundary that the field had since swallowed.
 
-The lane gave way to the common. The common gave way to the road. The road rose. The last house stood on the right, its windows dark, its door closed, no smoke from the chimney. I had seen it before. I did not stop.
+I took out the map and unfolded it. The paper was brittle with age, the ink faded to a pale brown, but the lines were still clear. The parish survey showed the boundary running straight from the lane to the bend, then turning east at a right angle. The hedge followed that line for the first two-thirds, then straightened out, cutting across the bend instead of turning with it. That was the discrepancy: the boundary had a corner; the hedge had a curve. Someone—perhaps the man who planted it, perhaps a later farmer—had taken a shortcut, ignoring the map and following the lie of the land instead. It was not Harker's hedge that had been cut back—it was the hedge itself that had been planted wrong, years ago, by someone who had misread the map or not cared. The cut branches Harker had left were not an encroachment; they were a correction.
 
-The road bent. It crossed a small stream. I had seen this before. The water ran cold. I continued.
+I walked back to Thorne and showed him the map. "The hedge is yours," I said, "but it does not follow the boundary. The boundary is straight. The hedge is not. Harker has cut it back to the boundary line, not beyond it. He has done nothing wrong." I pointed to the bend on the map, then to the curve in the hedge. "See here—the map says the boundary turns east at this point. The hedge continues straight. That means the hedge was planted on your side of the line for the last third of its length. Harker simply restored the true line. You have not lost land; you have gained a hedge that now matches the boundary."
 
-The road straightened. It climbed. The fields on either side were fallow. The hedges were cut. The morning was quiet. There was no one on the road. There was no one in the fields. There was only the sound of my boots on the packed earth and the sound of the wind in the hedges.
+Thorne looked at the map, then at the hedge, and I saw the understanding come over him slowly, like the frost melting off a window. "It was planted wrong," he said.
 
-I walked for perhaps twenty minutes. The road reached a point where the land flattened, where the hedges stopped and the fields opened out into rough pasture, where a low stone wall ran along the left side of the road and a broken fence ran along the right. I had seen this before. I had not noticed anything particular about it.
+"It was planted wrong," I said. "The map is clear. The boundary is straight. The hedge is yours, but it is on your side of the boundary now, and it will stay there. Harker has not taken your land. He has only given you back the shape you should have had."
 
-I noticed now.
+He nodded slowly, and I folded the map and put it back in my pocket. He offered me tea, and I stayed for a moment, warming my hands at the kitchen fire, the heat seeping into my fingers. I thought about the difference between a line on a map and a line on the ground—how the map was abstract, a thing of ink and paper, while the hedge was real, rooted, shaped by weather and time and the decisions of men long dead. I thanked Thorne for the tea and left him standing at the gate, looking at his hedge with new eyes.
 
-Set into the wall was a stone that was not like the others. It was flatter, and it sat lower, and the face of it was set at an angle that made it harder to read from the road, and I would not have seen it at all if I had not been looking for something that was not there.
+On the way back, I passed the market square, and I saw the baker's shop on the corner—the one where Vale bought his bread. The windows were steamed with warmth, and the smell of fresh baking drifted out into the cold air. I had not planned to stop, but I found myself at the counter, asking for a loaf of the same bread he had given me on the rainy Thursday—the round, browned loaf with the flour-dusted crust. The baker wrapped it in brown paper and tied it with string, and I paid for it and walked on, the bread warm against my coat, its weight solid in my hand. I did not think about why I had bought it. I simply had, the way a man might buy a familiar thing without remembering when it became familiar.
 
-I stopped.
+I went to Vale's cottage in the afternoon, not because I had a question, but because I had bread and I had time, and the walk up the lane was shorter than it had been before. The lane was quiet, the frost still white in the shadows, and the cottage looked as it always did: low, grey, its chimney smoking. He opened the door and looked at the loaf in my hand, and he said nothing. He stepped aside, and I went in, and the fire was already burning, and the kettle was on the hob, and I saw that he had set out two cups without knowing I would come. Or perhaps he had known.
 
-There was a mark on it.
+"It is the same bread you gave me," I said, setting it on the table. "The baker wrapped it just the same."
 
-It was a short line, cut into the stone. It was near the bottom edge of the face. It was shallow, and I could not tell whether it was old or new, intentional or accidental.
+"I know," he said. "I can see that."
 
-I looked around. There was no one. The field was empty. The road was empty. The stream ran. The wind moved the hedges.
+He took it and set it on the table, and we sat in the usual silence, and I told him about Thorne and Harker and the hedge that had been planted wrong. I described the cut branches, the bend in the hedge, the map's straight line, and how I had seen the discrepancy without needing to look at the paper first. He listened without speaking, his hands folded around his cup, and when I had finished, he said: "You did not need the map."
 
-I knelt. I reached into my pocket for the pencil. I pressed the point against the stone beside the mark, because the doing of that was the doing of something, and the doing of something was better than the doing of nothing.
+"I did not need the map," I said. "I needed to see the ground first—to walk it, to count the paces, to kneel and look at the stumps. The map would have told me where the line should be, but it would not have told me that the hedge was planted wrong."
 
-I did not touch the mark itself.
+He nodded, and the fire settled, and I knew that I had given him the answer he was waiting for, even though he had not asked the question.
 
-I wrote in my notebook: Stone in wall. Stream crossing. Line cut into face, near bottom. Uncertain.
+I left when the light began to fade, and the lane was quiet, and I walked home with the feel of the bread still in my hand, the warmth of it fading as the cold returned. I had not solved a mystery. I had only read a map and seen what was there—a hedge planted wrong, a boundary restored, a dispute settled by a few observations and a piece of paper. But I had seen it the way he had taught me to see it: first the ground, then the map, then the conclusion. That was not a lesson he had spoken; it was a habit I had carried without knowing it, like the loaf of bread.
 
-I wrote nothing else.
+That evening, I wrote in my notebook:
 
-I stood. I looked at the stone again. I thought about the map. I thought about the dark line on the road north. I thought about the notation beside it that I could not read. The mark on the stone was a line. The mark on the map was a line. Whether they were the same line, or the same kind of mark, or the work of the same hand, I could not tell.
+*The hedge at Thorne's farm was planted wrong. The boundary was straight. Harker had not encroached. Thorne had not lost. The map was right, and the ground was right, and the difference between them was the work of a man who had not looked at the ground before he planted. That is all.*
 
-I could not tell.
-
-I continued north.
-
-The road climbed further. The wall on the left ended. The fence on the right ended. The fields became rougher, the grass longer, the ground softer underfoot. I had been here before. I had reached the mill from this direction. I knew the wall that had been older than the mill. I knew the gap where the mill-yard corner had been. I knew the collapsed wall and the stone door beneath it.
-
-I passed the mill without stopping. I did not stop at the door. I continued.
-
-The road became less of a road and more of a track, winding between low hills and stands of trees. I had not been this far north before. I did not know where the track led. I did not know whether it led anywhere. I did not know whether Vale had ever walked it.
-
-I stopped at a bend where the track turned sharply to the left, around the shoulder of a hill, and where a large stone stood beside the turning, set into the earth, with a face turned toward the road. I had seen nothing like it on the map. The map had shown dots and circles and crosses. It had shown a line on the road. It had shown nothing at this bend, and nothing at this hill, and nothing at this stone.
-
-But the stone had a mark.
-
-It was a circle, cut into the face, near the top. The cut was clean, but I could not tell whether it was old or new, intentional or accidental, made by Vale or by someone else or by no one's hand at all.
-
-I looked at the circle. I looked at the track. I looked at the hill. I looked back at the circle.
-
-I wrote in my notebook: Hill bend. Large stone. Circle cut into face, upper right. Uncertain.
-
-I wrote nothing else.
-
-I stood there for a long time. I did not touch the stone. I did not try to read the mark. I did not try to interpret it. I simply looked at it, and I recorded it, and I let the looking be enough.
-
-Then I turned back.
-
-I walked south. I retraced the road. I passed the mill. I passed the wall. I passed the last house. I passed the common. I came down the lane.
-
-The sun was higher. The cold was less. The town was awake.
-
-I reached the house. I put the notebook on the table. I lit the fire. I put the kettle on. I sat in the chair and I did not open the notebook again, because the opening of it would have been an attempt to make sense of what I had seen, and the making sense was not yet mine to do.
-
-I thought about the stone in the wall. I thought about the circle on the hill stone. I thought about the map in the box. I thought about the file in Calloway's coat. I thought about the journal in the box. I thought about the marks I had seen, and the marks I had not seen, and the marks I could not explain, and the marks I might never explain, and the not-knowing was the only thing that was certain.
-
-I poured the water. I drank it. The kettle was warm. The fire was warm. The room was warm.
-
-The map was in the box. The file was in Calloway's coat. The journal was in the box. The stone was in the wall. The mark was on the stone. The track was north. The road was south. The week was not over. For now.
+I did not write what I had learned, because I had not learned it in words. I had learned it in the way I had walked the lane, and counted the roads, and bought the bread without thinking. It did not need to be written down.

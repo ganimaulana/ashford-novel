@@ -13,7 +13,7 @@
 **Nama:** Bell's Books [CANON - Chapter 2; direvisi dari "Bell's Books & Antiquities"]  
 **Lokasi:** Di lorong menanjak di belakang Market Square, di tepi kota tua / dekat Bellweather Lane [CANON - Chapter 2; dikoreksi dari versi sebelumnya yang salah menaruh di area industri]  
 **Tipe toko:** Toko buku (fokus: buku lama, buku kuno, edisi langka, materi kertas)  
-**Pemilik:** Arthur Edmund Bell (Mr. Bell) [CANON]
+**Pemilik:** Arthur Laurence Bell (Mr. Bell) [CANON]
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## Staff
 
-**Arthur Edmund Bell:** [Lihat `../../WORLD_BIBLE/04_CHARACTERS/characters/02_ARTHUR_EDMUND_BELL.md`]  
+**Arthur Laurence Bell:** [Lihat `../../WORLD_BIBLE/04_CHARACTERS/characters/02_ARTHUR_EDMUND_BELL.md`]  
 **Staff lain:** [BELUM DITETAPKAN]
 
 ---

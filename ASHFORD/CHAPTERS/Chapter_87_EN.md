@@ -145,3 +145,5 @@ I did not know whether I would have acted differently if I had been certain. I d
 But I knew that the cost of not knowing was real. I had seen the light. I had said nothing. And someone else had found the document first.
 
 I did not know whether I would make the same choice again. I did not know whether I could have prevented it. I only knew that the price of uncertainty was not always small. And that the next time I saw something I did not understand, I would have to decide whether to speak. Even if I was not sure.
+
+The empty envelope bothered Leon more than the missing document. An empty container proved that something had been there only if the envelope itself belonged to the task. Otherwise it was simply an empty envelope. He had learned enough not to turn a convenient detail into a conclusion.

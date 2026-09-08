@@ -1,73 +1,885 @@
-# Chapter 19 — The Round Past the Church
+Chapter 19 — The Public Meeting
 
-The lamp came back on Friday night at nine.
+The notice remained on my table the next morning.
 
-I had watched the window through the dark of the day before, and through the dark of the evening, with the three readings standing in my book like the three names of a thing I could not call, and at the corner hour the light was kindled, steady, at its old height, and I was never more glad of a light in this town than I was of that one, because a house that lights its lamp is a house that is keeping itself, and I had begun, without knowing it, to set my own clock by the keeping.
+I had folded it twice.
 
-It burned its hour, and was carried away along the rooms, and no sound came, and the rule held again, and I wrote it down as the fifth reading, and understood what the break had taught me: that I had come to depend on the house's silence as a kind of speech, and that a man who reads a house is a man the house may stop writing to.
+Daniel had folded it once.
 
----
+That difference bothered me more than it should have.
 
-## Saturday, 7 December
+His creases were careless.
 
-The round met at ten at the constable's door, as the orders say, and there were six of us: the constable, who carried the authority and no lantern; Michael, who carried a lantern and more authority than he had been given; the verger, with his lantern low, as he carries it; the two farmers from the north end, who had come into the watch because the watch is the thing a man joins when the price is on the pump and the meeting is in the paper; and I, who carried the book, because I have learned that the man who writes the round is the man the round belongs to, in the way that the reckoning is the clerk's book in the wardens' name.
+Mine were not.
 
-Hobbs was not there. The place where Hobbs would have stood stood empty, and the round did not look at it, and that is how a town keeps the absence of a man that is missed.
+The meeting was to be held that evening in the assembly room near Market Square. The subject was wages, employment, and the condition of several workshops in the town.
 
-"By the orders," said the constable, "the lane from the Ashcroft door to the mill-yard gate, and the church in the going past, because the church is at the corner. The night is quiet. I would have it stay quiet."
+Nothing about it concerned me.
 
-"The night is always quiet," said Michael. "It is the quiet I am come to watch, because a quiet that is watched is a quiet that belongs to somebody, and a quiet that is not watched belongs to anyone that wants it."
-Michael did not know that the quiet he spoke of was the thing I had been watching all month — the house keeping itself, the lamp and the bell keeping their hours, the town keeping its agreement. I did not tell him. I did not know enough to name it, and I had learned already that in this town a thing left unnamed is a thing that stays, and a thing named too soon is a thing that is lost.
+That was what I told myself.
 
-It was the most that Michael had said since the signing, and the round took it as the round takes a man that talks at the signing — with the patience of men who have heard the same thing said at every signing since the price went up.
+By noon, I had read the notice four times.
 
-We went down the lane by the houses, six lanterns making six circles of the frost, and I watched the end of the lane as we went, because the round goes toward it and not past it, and the upper window stood black, and the hour was past the hour, and the lamp had been carried away already, and the house was keeping itself in the dark the way it had been keeping itself in the light.
+At half past one, I put it into my coat.
 
-At the corner we came to the church, because the church is at the corner, and the churchyard stood with its stones in the frost like a congregation that had been dismissed and had stayed, and the tower stood at the west end of it, and the round stopped at the tower door, because a round stops where there is a door.
+The town was already discussing the meeting.
 
-The verger put up his lantern, and stood with it at the door, and did not put the key in.
+At the baker's, two men argued about wages.
 
-"It is locked," he said.
+Outside the smithy, three workers argued about whether the meeting would change anything.
 
-"You know it is locked," said the constable.
+Near the square, a constable stood beside the notice board.
 
-"I know it is locked," said the verger. "I am looking at the lock. The lock has been turned this week by a key that is not mine, because there is a mark in the frost at the foot of the door, and there are two comings to the door and one going, and the frost has stood since Tuesday, so that the comings are the comings of the week. I do not say this is a complaint. I say it, because it is the round, and the round writes."
+Nobody was being arrested.
 
-I wrote it, standing at his shoulder with the book against the lantern: *At the tower door, the frost disturbed; two comings and one going this week; the door locked.* And beneath it, because the writing wanted the whole of the thing: *the clerk's key of the tower is out of the clerk's hand this week.*
+Nobody was shouting.
 
-"There is no complaint," said the constable. "The man from the bench has had the key by the clerk's giving, and the key will be given back, and the tower is the church's tower, and the church is not the round's. We go on."
+Yet the presence of the constable made the whole thing feel more serious.
 
-We went on, and the round went past the church and down by the wall to the mill-yard gate, because the orders say the gate, and the gate stood as it had stood the Sunday before, shut, with the latch down; and the yard man had been at it in the day, because the frost was broken at the hinge where the hand goes, and the hand that had oiled it the week before had not oiled it again; and I wrote the gate down, and the round stood at the gate with six lanterns making six circles of the dark, and the dark beyond the gate was the dark of the corner, and the corner was where the sound had gone, and I was the only man of the round that knew it, and that is the thing a man learns of a round: that the round sees the place, and the man sees what the place has done.
+Daniel found me there.
 
-"Is there anything at the gate?" said the constable.
+“I knew you'd come.”
 
-"The gate is shut," said the round, one after another, in the way men answer that would be going.
+“I came to the square.”
 
-"Then it is noted," said the constable. "Noted; the gate shut; no complaint."
+“With the notice in your pocket.”
 
-We came back by the lane, and the upper window stood black as we came, and the rosemary stood in its pot in the dark, and the round came to the constable's door at a quarter before twelve, and the round was done, and the round had seen nothing, and I had learned by then that the seeing nothing is the round's way of seeing, and that a town that keeps a round keeps it the way it keeps the rest of its keeping — so that the thing seen is written down, and the thing written down is agreed upon, and the thing agreed upon is the town's, and not the thing's.
+I looked at him.
 
----
+He smiled.
 
-The round broke up at the door, and Michael stayed, because Michael is a man that stays, and the two farmers went north with their lanterns, and the verger stood with his lantern low, and the constable looked at the three of us the way a man looks at a round that has not gone as he would have it go, though it had gone as the orders say.
+“You're becoming predictable.”
 
-"There is a man come down from the bench," said Michael, "and I would know what the bench wants with a town that keeps itself."
+“I dislike being predictable.”
 
-"The bench wants the rates," said the constable.
+“You've been predictable since yesterday.”
 
-"The bench wants the names," said Michael. "It is the same thing in the writing. A rate is a name with a price to it, and a town is a list of the names, and the bench has come down to read the list, and I would know which of us is in the reading."
+“That is unfortunate.”
 
-I stood with the book in my hand, and I thought of what Arthur had said, that the writing wants a name, and of what Margaret had said, that the writing wants a name, and of how the two of them had said the same thing at different counters, and had not known they said it; and I understood that the town had been saying it all month, in its several ways, and that the saying is the sound a town makes when it feels the writing coming.
+He looked at the constable.
 
-"I am going home," said the verger, "and I am going by the church, because that is my way, and I would see the tower door again, because I have written it once and I would not write it twice. The round is done. Good night, Mr. Ashcroft. Mind your keeping."
+“Do you think there'll be trouble?”
 
-He went down the lane with his lantern low, and Michael looked after him the way Michael looks at a thing he has not yet found the use of, and then he looked at me.
+“No.”
 
-"You write the round," he said.
+“You answered quickly.”
 
-"I write the round."
+“I don't think trouble is the purpose.”
 
-"Then you write what the round sees," said Michael, "and I would have you write this: that the round saw nothing tonight, because the round looks at the doors, and the thing that is done in this town is not done at the doors. Write that I said it, because I would have it in the book, and because a thing in the book is a thing that belongs to somebody, and I would have that thing belong to me."
+“Then what is?”
 
-I wrote it, standing at the constable's door with the frost smoking at the lantern: *Michael, at the breaking up of the round: that the round saw nothing, because the thing is not done at the doors.* And I put the book away, and I went home by the lane, and the house stood at the end of it with its black window and its rosemary, keeping itself, and I understood, as I went in at my own door, that the round had gone past the church and past the gate and past the house, and had not gone past the thing, and that the thing was closer than the round, and had been closer since the first night, and was in the writing now.
-</content>
+“Being heard.”
+
+Daniel considered that.
+
+“Sometimes those become the same thing.”
+
+“Sometimes.”
+
+We walked toward the assembly room.
+
+Margaret was there.
+
+She stood near the entrance with her arms folded.
+
+When she saw us, she sighed.
+
+“I knew it.”
+
+Daniel grinned.
+
+“What?”
+
+“You two.”
+
+She looked at me.
+
+“You're supposed to be investigating a missing man.”
+
+“I am.”
+
+“And instead you're attending a political meeting.”
+
+“I am attending a public meeting.”
+
+“That distinction will comfort you when someone throws a chair.”
+
+Daniel laughed.
+
+Margaret did not.
+
+Arthur arrived a few minutes later.
+
+He carried no books.
+
+That alone made me suspicious.
+
+“You came,” Daniel said.
+
+Arthur looked at him.
+
+“Apparently.”
+
+“You never come to these.”
+
+“I don't usually.”
+
+“Why now?”
+
+Arthur glanced toward the doors.
+
+“To see who came.”
+
+Margaret gave him a look.
+
+“That is exactly why I don't like these meetings.”
+
+Arthur shrugged.
+
+“People reveal more when they think they are speaking publicly.”
+
+Daniel looked pleased.
+
+“So you're spying.”
+
+“No.”
+
+“Observing?”
+
+“No.”
+
+“Then what?”
+
+Arthur smiled.
+
+“Being old.”
+
+The assembly room was already crowded.
+
+Workers stood along the walls.
+
+Several shopkeepers sat near the front.
+
+There were two parish officials.
+
+Three men I recognized from the Market Square.
+
+A young woman with a bundle of papers.
+
+And, near the back, the man I had seen beside the lamppost.
+
+The man at the lamppost.
+
+He noticed me.
+
+This time he did not look away.
+
+He simply nodded.
+
+I did not return it.
+
+Daniel leaned closer.
+
+“That's him.”
+
+“I know.”
+
+“The watcher.”
+
+“Perhaps.”
+
+“He's watching.”
+
+“So are we.”
+
+The man smiled faintly.
+
+Then turned his attention toward the speaker.
+
+The meeting began without ceremony.
+
+A shopkeeper spoke first.
+
+He complained about rising costs.
+
+A worker answered him.
+
+A parish representative spoke about order.
+
+Someone at the back laughed.
+
+The discussion became louder.
+
+Not violent.
+
+Just crowded.
+
+Too many people speaking because each believed the previous person had not understood.
+
+Daniel listened carefully.
+
+Margaret whispered occasional comments.
+
+Arthur remained silent.
+
+Then a young man stood.
+
+He was perhaps twenty-five.
+
+His coat was worn.
+
+His hands were blackened from work.
+
+He held a printed sheet.
+
+“My name is William Fletcher.”
+
+Daniel looked at me.
+
+I knew the name.
+
+The same Fletcher who had spoken to me about Hobbs and the northern boundary.
+
+He unfolded the paper.
+
+“We have been told that conditions will improve if we wait.”
+
+Someone shouted agreement.
+
+Another shouted disagreement.
+
+Fletcher waited.
+
+“We have waited.”
+
+The room quieted.
+
+He spoke about wages.
+
+About workers injured without compensation.
+
+About employers who could dismiss men without explanation.
+
+Nothing he said was revolutionary.
+
+Not by itself.
+
+But he spoke with the confidence of someone who had already decided that asking politely was no longer enough.
+
+I watched the crowd.
+
+Some listened.
+
+Some watched the officials.
+
+Some watched Fletcher.
+
+And some watched the exits.
+
+That last group interested me.
+
+There were four.
+
+Two near the back door.
+
+One beside a window.
+
+One near the entrance.
+
+None spoke.
+
+They simply observed.
+
+I glanced at Arthur.
+
+He had noticed them too.
+
+He did not react.
+
+Fletcher finished.
+
+Another man stood.
+
+“This is politics.”
+
+“Yes,” someone answered.
+
+“We are here to discuss wages.”
+
+“Wages are politics.”
+
+The room erupted again.
+
+Margaret muttered,
+
+“And there it is.”
+
+“What?”
+
+“The part where everyone forgets why they came.”
+
+Daniel smiled.
+
+“You sound disappointed.”
+
+“I am.”
+
+“Why?”
+
+“Because people are easier to understand before they become angry.”
+
+Arthur looked at her.
+
+“Not always.”
+
+She turned.
+
+“What do you mean?”
+
+“Sometimes anger removes the polite part.”
+
+“That sounds like something you would say.”
+
+“It is.”
+
+The argument continued.
+
+Then something struck the floor.
+
+A small object.
+
+Everyone looked down.
+
+It was a brass coin.
+
+No.
+
+A token.
+
+I could not see the marking.
+
+A man near the window bent to pick it up.
+
+The man at the lamppost moved at the same moment.
+
+They reached it together.
+
+For a second, neither moved.
+
+Then the worker took it.
+
+The other man let him.
+
+No argument.
+
+No accusation.
+
+The meeting continued.
+
+I kept watching.
+
+Daniel whispered,
+
+“What was that?”
+
+“I don't know.”
+
+“You saw it.”
+
+“I saw two men reach for an object.”
+
+“You're impossible.”
+
+“Yes.”
+
+After another half hour, the meeting began to break apart.
+
+No agreement had been reached.
+
+No one had expected one.
+
+People gathered in small groups.
+
+Fletcher spoke with several workers.
+
+The parish officials left together.
+
+Margaret disappeared toward the kitchen.
+
+Arthur remained near the wall.
+
+I approached him.
+
+“The man at the window.”
+
+“Which one?”
+
+“The one who reached for the coin.”
+
+“I saw him.”
+
+“Who is he?”
+
+“I don't know.”
+
+“You recognized him.”
+
+“I recognized his behavior.”
+
+“That isn't the same.”
+
+“No.”
+
+He looked toward the door.
+
+“Neither is watching the same as understanding.”
+
+I followed his gaze.
+
+The man was gone.
+
+“So what was he doing?”
+
+“Perhaps he dropped the coin.”
+
+“Do you believe that?”
+
+Arthur looked at me.
+
+“I don't know.”
+
+That answer was becoming common.
+
+Outside, the square was almost empty.
+
+Daniel joined me.
+
+“You didn't speak to Fletcher.”
+
+“No.”
+
+“Why?”
+
+“He had enough people asking questions.”
+
+“You could have asked about Hobbs.”
+
+“I did.”
+
+“And?”
+
+“He knew him.”
+
+Daniel looked surprised.
+
+“You already knew that.”
+
+“Yes.”
+
+“Then what did you learn?”
+
+“That he watches people.”
+
+“Everyone watches people.”
+
+“No.”
+
+I looked back at the assembly room.
+
+“Not everyone watches the exits.”
+
+Daniel followed my gaze.
+
+“Those four?”
+
+“Yes.”
+
+“Could they be Night Lantern?”
+
+“Maybe.”
+
+“Could they be Revolutionary Army?”
+
+“Maybe.”
+
+“Could they be nothing?”
+
+“Yes.”
+
+He sighed.
+
+“You've made politics terribly inconvenient.”
+
+“It was already inconvenient.”
+
+We found Fletcher outside a few minutes later.
+
+He was alone.
+
+Daniel approached first.
+
+“Mr. Fletcher.”
+
+Fletcher looked at him.
+
+“Daniel Carter.”
+
+“You know me?”
+
+“Everyone knows you.”
+
+Daniel smiled.
+
+“That sounds dangerous.”
+
+“It depends what you write down.”
+
+His eyes moved to me.
+
+“Leon.”
+
+“Yes.”
+
+“I heard you asked about Hobbs.”
+
+“I did.”
+
+“You're persistent.”
+
+“So are you.”
+
+Fletcher smiled.
+
+“Hobbs was a strange man.”
+
+“You said that before.”
+
+“I said he was quiet.”
+
+“You said he watched.”
+
+“That too.”
+
+“What did he watch?”
+
+Fletcher looked toward the darkened shops.
+
+“Whatever interested him.”
+
+“That isn't an answer.”
+
+“No.”
+
+He started walking.
+
+We followed.
+
+“Hobbs believed the town had more history than people admitted.”
+
+“History of what?”
+
+“People.”
+
+“Families?”
+
+“Sometimes.”
+
+“Land?”
+
+“Sometimes.”
+
+“Politics?”
+
+Fletcher stopped.
+
+He looked at me.
+
+“Everything becomes politics eventually.”
+
+Daniel laughed quietly.
+
+Fletcher continued.
+
+“But Hobbs wasn't interested in politics.”
+
+“Then what was he interested in?”
+
+“Things that remained after people stopped talking about them.”
+
+That sentence stayed with me.
+
+“Did he ever mention the Ashcrofts?”
+
+Fletcher did not answer.
+
+“Mr. Fletcher?”
+
+“Yes.”
+
+“Which Ashcroft?”
+
+“I never asked.”
+
+“Why not?”
+
+“Because I knew better.”
+
+“What did you know?”
+
+“That some questions make people remember you.”
+
+He walked away.
+
+Daniel watched him go.
+
+“That was almost useful.”
+
+“Almost.”
+
+We reached the corner.
+
+Someone was waiting there.
+
+A woman.
+
+She wore a plain dark dress and held a bundle of papers against her chest.
+
+She looked at Daniel.
+
+“You're Carter.”
+
+“Yes.”
+
+“From the university.”
+
+“Yes.”
+
+She looked at me.
+
+“And you're Leon.”
+
+“Yes.”
+
+“I've heard about you.”
+
+I waited.
+
+She offered no explanation.
+
+“What is your name?”
+
+“Catherine More.”
+
+Daniel looked at her with recognition.
+
+“You're the woman who writes about family records.”
+
+She smiled.
+
+“Sometimes.”
+
+“One of them.”
+
+Her smile disappeared.
+
+“Don't call me that.”
+
+Daniel looked embarrassed.
+
+“Sorry.”
+
+She looked at me.
+
+“Names are useful until people start believing them.”
+
+Arthur's words.
+
+Margaret's words.
+
+Everyone seemed to have their own version of the same warning.
+
+Catherine continued,
+
+“I heard you were looking at old parish records.”
+
+“I was.”
+
+“Why?”
+
+“Hobbs.”
+
+She studied me.
+
+“You should be careful.”
+
+“Of Hobbs?”
+
+“Of records.”
+
+“That is not very specific.”
+
+“No.”
+
+She glanced toward the assembly room.
+
+“You are looking in the wrong direction.”
+
+“What direction should I look?”
+
+“Backward.”
+
+“Into history?”
+
+“Into families.”
+
+Then she walked away.
+
+Daniel stared after her.
+
+“That was definitely someone who searches families.”
+
+“I don't know.”
+
+“She literally said families.”
+
+“That doesn't prove anything.”
+
+“Nothing proves anything with you.”
+
+“That is because most things don't.”
+
+We walked home in silence.
+
+Halfway there, Daniel said,
+
+“Do you believe her?”
+
+“No.”
+
+“Why?”
+
+“Because she wanted me to believe her.”
+
+He nodded.
+
+“Then what do you believe?”
+
+I thought about the register.
+
+Hobbs.
+
+The northern boundary.
+
+Ashcroft.
+
+London.
+
+The meeting.
+
+The men watching the exits.
+
+The coin.
+
+Catherine More.
+
+I shook my head.
+
+“Not enough.”
+
+Daniel smiled.
+
+“That's probably the right answer.”
+
+At my door, he stopped.
+
+“One thing.”
+
+“Yes?”
+
+“Tomorrow I'm going to the university.”
+
+“Why?”
+
+“To look for Ashcroft.”
+
+I considered telling him not to.
+
+Instead I said,
+
+“Take copies of everything.”
+
+He smiled.
+
+“You really are learning.”
+
+“No.”
+
+I opened the door.
+
+“I'm trying not to make the same mistake twice.”
+
+Daniel left.
+
+I went inside.
+
+On the table, the brass button was still where I had left it.
+
+Beside it was the folded meeting notice.
+
+I looked at both.
+
+One belonged to a dead soldier's past.
+
+The other belonged to the town's present.
+
+They had nothing in common.
+
+At least, not yet.
+
+I put the button back into the drawer.
+
+Then I noticed something beneath it.
+
+A small scrap of paper.
+
+I had not put it there.
+
+There were only four words.
+
+Ask who remembers Hobbs.
+
+No signature.
+
+No explanation.
+
+I read it once.
+
+Then again.
+
+I did not touch the drawer for several seconds.
+
+Finally, I took out my notebook.
+
+I wrote the sentence exactly as it appeared.
+
+Then, underneath it:
+
+Someone entered my house.
+
+I stopped.
+
+That was an assumption.
+
+I crossed it out.
+
+Instead I wrote:
+
+A note appeared beneath the button. I do not know who placed it there.
+
+I closed the notebook.
+
+For the first time that day, I was certain of something.
+
+The questions about Hobbs were no longer staying in the past.
+
+They had begun coming toward me.

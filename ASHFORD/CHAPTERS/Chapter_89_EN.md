@@ -107,3 +107,5 @@ I did not know whether it was a clerk, a guard, or Calloway himself. I only knew
 I lay back down and closed my eyes.
 
 I waited for dawn.
+
+The work began before Leon had finished learning the layout. He carried the first sack with the others, adjusted his grip, and noted which path was shortest between the field and storehouse. Nobody explained why the task mattered. For once, Leon was content to wait for the reason.

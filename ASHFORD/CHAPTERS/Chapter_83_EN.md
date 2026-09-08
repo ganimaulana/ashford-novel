@@ -173,3 +173,5 @@ I did not know whether we had passed or failed. I did not know whether the box w
 I walked home and sat in the chair by the window. I did not know what the keeping was, or whether I was meant to be part of it. I only knew that the examination was no longer about finding things.
 
 It was about being found.
+
+Ellison said nothing for a while. Then he asked whether the paper should be reported immediately or placed back where they had found it. Leon considered the question. The answer would affect the evidence, even if neither of them yet understood why. Merritt waited beside the wall.

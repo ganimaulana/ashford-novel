@@ -20,14 +20,36 @@
 - **Duration of acquaintance with Leon:** approximately **eight months** — February 1817 (Ch40 Agreement; Ch41 the return with the corrected transcription) to October 1817 (Ch50 the last ordinary visit; Ch51 death). Vale states it himself in Ch50: "You have been coming here eight months… February." CONFIRMED
 - **Not a cleric.** No priest, pastor, or parish-religious role appears anywhere in canon — CONFIRMED by absence
 
-## Public Role
+## Public Identity
 
-Retired parish constable of Alderwick, predecessor to James Calloway (Ch40: "I was a constable. … Before Calloway."). The town regards him as an old man living quietly at the end of a lane. Calloway does not mention him to Leon unprompted — "Perhaps he thought it better not to" (Ch40).
+- Elderly veteran / former constable
+- Quiet resident of Alderwick
+- Appears removed from important affairs
+- Known to locals as "the old constable"
 
-## True Background
+## True Identity
 
-**CONFIRMED (author-approved 2026-09-03):**
-1. Vale is a veteran — military service preceded everything else. Manuscript support: Ch40 "I was a soldier first. Most men my age were something first."; Ch49 military brass button in his box; Ch52 the bed made in a manner learned "somewhere they were not permitted to do it badly."
+- Former senior intelligence officer / senior intelligence operative
+- Deliberately placed or protected in Alderwick
+- Connected to a responsibility older than his current posting
+- His intelligence background is unknown to the general public of Alderwick
+
+### Placement in Alderwick
+
+**Public-facing explanation:** transfer, retirement/late-career placement, veteran placement, or assignment to a small town considered quieter.
+
+**Hidden interpretation (WORKING CANON):** Vale's placement in Alderwick may also constitute a protective placement arranged or approved by his superiors/institution. This placement simultaneously gives him a position allowing him to fulfill responsibilities related to the Agreement.
+
+**Important constraints:**
+- Do NOT state that all his superiors definitely knew the full reason.
+- Do NOT state that the entire intelligence institution knows the supernatural truth of Alderwick.
+- Very likely only a small number of people know the real reason Vale was placed in Alderwick.
+- Vale himself does NOT necessarily know who specifically arranged his placement, or the full institutional reasoning.
+
+## Background
+
+**CONFIRMED (author-approved 2026-09-06):**
+1. Vale is a veteran — military service preceded everything else.
 2. He entered the Constable after military service.
 3. He was recruited into the Constable's intelligence apparatus.
 4. He rose to a genuinely senior intelligence position.
@@ -39,11 +61,21 @@ Retired parish constable of Alderwick, predecessor to James Calloway (Ch40: "I w
 10. He was demoted and/or removed from his position.
 11. He was transferred to Alderwick.
 12. The official reason was bureaucratic and innocuous.
-13. The real reason remains partially UNKNOWN.
+13. The real reason remains partially UNKNOWN — may include protective placement, exile, or continued operation under cover.
 14. He then guarded the sealed door for approximately fifty years — CONFIRMED (Ch49: "I kept the agreement for fifty years").
 15. Fifty years of guardianship did **not** produce understanding — CONFIRMED (Ch40: "What is behind the door?" / "I don't know."; "Watching is not understanding.").
 
-**UNKNOWN — do not resolve:** exact former rank · the exact incident causing demotion · the full extent of Order infiltration · how he obtained the Gear · what he actually knew about the Door · whether he understood the inscription · why he chose Leon · whether he intended Leon to find the Gear.
+**UNKNOWN — do not resolve:** exact former rank · the exact incident causing demotion · the full extent of Order infiltration · how he obtained the Gear · what he actually knew about the Door · whether he understood the inscription · why he chose Leon · whether he intended Leon to find the Gear · who specifically arranged his placement in Alderwick · whether his placement was protective, punitive, or operational.
+
+## Intelligence Background — Character Consequences
+
+Vale's intelligence background manifests in specific character traits:
+
+- **Compartmentalization:** He is accustomed to separating what he knows, what he suspects, and what is safe to disclose. He does not give all information he possesses.
+- **Risk assessment:** He can recognize that a situation is dangerous without needing to understand its complete mechanism.
+- **Information literacy:** He knows how records are altered, suppressed, and weaponized. He keeps duplicates. He verifies sources.
+- **People reading:** He assesses who can be trusted, who is compromised, and what can be said in front of whom.
+- **NOT omniscient:** He does not understand the full supernatural mechanism behind the Door, the Bell, or other anomalies. His knowledge is investigative and institutional, not supernatural.
 
 ## Military Background
 
@@ -52,6 +84,25 @@ Confirmed only in outline: he was a soldier before he was a constable (Ch40). Th
 ## Constable Career
 
 Constable of Alderwick before Calloway; overlapped with Calloway "for a short time" (Ch40). Preceded in the Alderwick office by **Marcus Ferrand**, who kept the count for fifteen years and was erased from the records (Ch107, Ch120, Ch121). Vale inherited Ferrand's empty file and never wrote in it — "A man who keeps a file empty for that long has made a decision about it" (Ch107). He also inherited and passed on the **box of the constables**, which held Ferrand's notebook; he told Calloway the box held what could not be written down and declined to itemise it (Ch121).
+
+## Relationship to the Agreement
+
+Vale is **not** a direct subordinate of Aurelius Ashcroft. The Agreement originated in an era associated with Aurelius and was transmitted through **institutional/custodial succession** — not by direct personal command from Aurelius to Vale. Vale became one of the successive custodians of that responsibility.
+
+**Working model:**
+```
+Aurelius
+→ historical agreement / boundary responsibility
+→ local institutional/custodial chain
+→ successive custodians / constabulary connection
+→ Thomas Vale
+```
+
+**UNRESOLVED:**
+- The exact mechanism by which the Agreement passed from earlier generations to Vale.
+- Whether Vale ever met Aurelius personally.
+- Who specifically arranged Vale's placement in Alderwick.
+- Whether Vale's superiors understood the full supernatural context of the Agreement.
 
 ## Intelligence Career
 
@@ -127,7 +178,43 @@ Other confirmed Vale deposits: the older-than-the-wall **map** left with Eleanor
 
 ## Knowledge Boundaries
 
-Vale knew more than Leon and less than the whole. His expertise is **investigative and institutional**, not supernatural — he is not an occult authority and must never become one. He does not know: what is behind the door · what the Gear does · what the inscription means · who set the original prohibition ("A predecessor." / "And who told him?" / "That is where the records become difficult."). He does know: how records are altered and suppressed · how to verify a witness · how to place a thing so that it will be found only by someone looking correctly · that the Order does not understand the keeper's sign.
+Vale knew more than Leon and less than the whole. His expertise is **investigative and institutional**, not supernatural — he is not an occult authority and must never become one.
+
+### Knows
+- How intelligence investigations are conducted.
+- How records are altered, suppressed, and weaponized.
+- How to verify witnesses and assess credibility.
+- How to place objects so they will be found only by someone looking correctly.
+- That the Order of Severence does not understand the keeper's sign.
+- That the Agreement exists and what it requires of a keeper.
+- That the Door must remain closed.
+- That the Gear is significant and must be kept from certain people.
+- Institutional history of the Constable and its compromises.
+
+### Suspected
+- That there is a supernatural or anomalous dimension to the Door and the boundary.
+- That the Order of Severence represents a particular threat or interest.
+- That his own placement in Alderwick may have been protective, operational, or both.
+
+### Does NOT Know
+- What is behind the Door.
+- What the Gear actually does or how it works.
+- What the inscription means.
+- Who set the original prohibition or the full history of the Agreement before his custodial chain.
+- The complete supernatural mechanism behind the Bell, 00:00, or other anomalies.
+- The full structure or membership of the Order of Severence.
+- Whether all of his superiors understood the full context of his placement.
+
+### Safe to Disclose
+Vale distinguishes between what is known, what is suspected, and what is safe to tell. He withholds information naturally, not out of mere secrecy but out of professional habit. He can know a situation is dangerous without understanding its complete mechanism.
+
+## Relationships
+
+- **Leon Ashcroft:** Chose Leon as a person, not by appointment, prophecy, or supernatural selection — CONFIRMED.
+- **Aurelius Ashcroft:** Vale is **not** a direct subordinate of Aurelius. The Agreement originated in an era associated with Aurelius and was transmitted through institutional/custodial succession. Vale became one of the successive custodians of that responsibility. Whether Vale ever met Aurelius personally is UNRESOLVED.
+- **Order of Severence:** Vale found indications that Order members/associates had infiltrated the Constable. His relationship with the Order is defined by this investigation and its aftermath. He is NOT automatically a member of the Order.
+- **James Calloway:** Successor in the Alderwick constable office. Vale assessed Calloway and passed on information selectively.
+- **Marcus Ferrand:** Predecessor in the Alderwick office; Vale inherited Ferrand's empty file and the box of the constables.
 
 ## Personality / Behavioural Traits
 
@@ -201,15 +288,15 @@ Framed as ordinary caution; institutional in origin; never labelled. The set, in
 
 ## Canon Status
 
-**CONFIRMED:** identity, secular former-constable role, veteran background, Constable service, senior intelligence background, intelligence/counter-intelligence work, demotion and transfer, ~fifty-year guardianship, private records/journal, private documents retained from his past, hidden information distributed to third parties, the private box and its private-property status, the Gear's separateness from the box, that he did not give Leon the Gear, that the Gear was hidden at the mill beforehand, that he had reason to keep it from searchers, the **eight-month acquaintance with Leon (Feb–Oct 1817)**, the four Vale-deepening chapters (41, 45, 48, 50), Leon's orphanhood at seven, the teaching set of Ch45, the two-stage box handover (Ch48 shown, Ch49 given), and "you do not owe the dead your life" (Ch50).
+**CONFIRMED:** identity, secular former-constable role, veteran background, Constable service, senior intelligence background, intelligence/counter-intelligence work, demotion and transfer, ~fifty-year guardianship, private records/journal, private documents retained from his past, hidden information distributed to third parties, the private box and its private-property status, the Gear's separateness from the box, that he did not give Leon the Gear, that the Gear was hidden at the mill beforehand, that he had reason to keep it from searchers, the **eight-month acquaintance with Leon (Feb–Oct 1817)**, the four Vale-deepening chapters (41, 45, 48, 50), Leon's orphanhood at seven, the teaching set of Ch45, the two-stage box handover (Ch48 shown, Ch49 given), and "you do not owe the dead your life" (Ch50), compartmentalization as character trait, distinction between known/suspected/safe to disclose.
 
-**PROPOSED:** the mill was chosen to defeat a search · the map's marks are cache locations · Order penetration of the Constable as the cause of his fall · the Ch50 advice as preparation rather than reflection.
+**PROPOSED:** the mill was chosen to defeat a search · the map's marks are cache locations · Order penetration of the Constable as the cause of his fall · the Ch50 advice as preparation rather than reflection · Alderwick placement as protective placement by superiors.
 
-**UNKNOWN:** rank · the incident · extent of infiltration · Gear provenance · his Door knowledge · the inscription · why Leon · his intent regarding Leon's discovery · which caches survive · which documents matter · whose unfinished work he meant · whether he knew how near the end was when he set the Thursday.
+**UNKNOWN:** rank · the exact incident causing demotion · extent of infiltration · Gear provenance · his Door knowledge · the inscription · why Leon · his intent regarding Leon's discovery · which caches survive · which documents matter · whose unfinished work he meant · whether he knew how near the end was when he set the Thursday · who specifically arranged his placement in Alderwick · whether his superiors understood the full supernatural context · whether Vale met Aurelius personally · the exact mechanism of Agreement succession before his custodial chain.
 
 ---
 
 **Status:** 📗 CANON
-**Version:** 4.0
-**Last Updated:** 2026-09-03
-**Revision note:** v4.0 adds the Vale deepening arc (Ch41/45/48/50), the eight-month duration, the teaching set, the two-stage box handover, and posthumous-payoff discipline. Chapter citations renumbered for the four inserted chapters.
+**Version:** 5.0
+**Last Updated:** 2026-09-06
+**Revision note:** v5.0 adds intelligence background expansion (protective placement, compartmentalization, public vs. true identity), Aurelius relationship clarification (institutional/custodial succession, not direct subordinate), and Order of Severence relationship constraints.

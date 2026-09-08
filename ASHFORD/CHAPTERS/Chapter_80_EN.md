@@ -8,7 +8,9 @@ But I had never been there as a man who arrived to find twenty-seven others alre
 
 The lane was not quiet. The common was not empty. The office door stood open, but the crowd spilled out onto the step and into the road. Men stood in groups of two and three, their hats in their hands, their coats buttoned against the wind. A few leaned against the wall of the chandler’s shop opposite. Others sat on the low wall by the pump, not speaking.
 
-I stopped at the edge of the crowd. I had thought I knew what the examination was. I had thought it was a small thing, a test for a few men, a quiet affair of rooms and papers. I had thought the office had chosen four of us and that the four of us would be measured against each other.
+I stopped at the edge of the crowd.
+
+Until that moment I had thought the four of us were the examination.
 
 I was wrong.
 
@@ -54,7 +56,7 @@ He looked at me with something like respect, or perhaps only with recognition.
 
 I did not ask what he remembered. I only nodded, and he moved away to speak to someone else.
 
-The door opened again. The first group came out. Their faces were the same as before, but their shoulders were tighter. No one spoke as they passed. They walked down the lane, some turning one way, some another, and none of them looked back.
+The door opened again. The first group came out. Their faces were the same as before, but their shoulders were tighter. No one spoke as they passed. They walked down the lane without looking back.
 
 The young man with the cap returned to the step.
 

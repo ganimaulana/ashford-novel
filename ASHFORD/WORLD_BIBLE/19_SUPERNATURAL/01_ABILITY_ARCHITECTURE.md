@@ -35,7 +35,8 @@ Explicitly and permanently **superseded**: the v1.0 Power-User framing (Bone Den
 | **Gear** | **DOES NOT WARM.** No temperature response, no glow, no signal. Behaves as cold iron in every test. Its only anomalous response is *mechanical*, belonging to the separate underground mechanism (tremor Ch40; rotation/clicks/one-inch opening Ch49). | CONFIRMED — protected |
 | **Keeper's Door** | No lock, no Gear depression, does not require the Gear. **Answers the Tokens.** | CONFIRMED (Ch78) |
 | **The count / the tally** | Responds. Knows the first sign when brought near. Answers the setting of an object in the chamber floor with warmth rising through stone. Calls. | CONFIRMED (Ch117, Ch123, Ch130–138) |
-| XIII Signs · Nine Ranks · Resonance · Drift · Anchors · Holder · 00:00 · the Call · the Sanctuary | Locked terminology, **mechanics undefined** | PROVISIONAL CANON, mechanics UNRESOLVED |
+| XIII Signs · Nine Ranks · Resonance · Drift · Anchors · Holder · the Sanctuary | Locked terminology, **mechanics undefined** | PROVISIONAL CANON, mechanics UNRESOLVED |
+| **00:00 · the Call** | Operational time marker and organizational instruction within Aurelius's Watch/Call system (System C). Not currently established as a supernatural mechanism, Door activation, or Bell cause. | WORKING CANON / AUTHOR-APPROVED ARCHITECTURE — NOT FINAL MYSTERY FREEZE |
 
 **The load-bearing conclusion:** in Alderwick, *things* are supernatural and *people* are not. People are the ones who notice.
 

@@ -1,46 +1,59 @@
-# Chapter 35 — Goding’s Farm
+# Chapter 35 — The Field That Was Not There
 
-The Thursday came with the frost lying hard, the lanes white with it, and the breath of the town standing in the air over its own chimneys. I went out by ten with the entry copied fair in my book—Goding had asked for it, and a man brings fair what he is asked to show.
+I went to Goding's farm on the Friday morning, because the clerk had given me the name and the lane, and because a rate entry that had been left untouched for twelve years was not a thing that could be understood from a vestry press. I had the entry in my book, written out as the clerk had shown it: *Hodge, E. — property on Bellweather Lane — rate unpaid since 1804.* I had the description of the property as it appeared in the oldest rate book: *a messuage and tenement, with gardens and yards, near the corner of Marlowe's garden.* I had the knowledge that the same description appeared in the probate schedule from 1804, and that the occupant was not named at law.
 
-Goding's farm lies out of the town by the north road, at the end of the lane past the mill-yard. I had not taken that way since the watch round went past the corner, because the round goes the other direction of the gate, and my business there had been the round's, not my own. This Thursday was my own, though the two businesses pass by the same gate.
+I had no idea what any of it meant.
 
-I came by the mill-yard at a quarter past ten. The yard was in its winter work, the gate shut with the padlock to it. I went by as a man goes by what he has noted and does not stop—stopping makes a thing seen, and I did not want my going to the farm observed by the yard. I kept my pace.
+The road to the farm led out of Alderwick by the north road, past the last houses and into the open country. The frost had held, and the fields lay hard and white under the winter sky, the hedgerows thick with rime. The smoke of the farm rose straight in the cold, a thin grey line against the pale blue. I walked briskly, my breath steaming, the sound of my boots loud on the frozen ground. I had not been to the farm before, but I had been told that Goding was the man to ask about old holdings, because he had been on the parish for forty years and had known the land longer than any record.
 
-The farm stands a half-mile past the yard, on rising ground where the town's fields begin. The house is of the stone the country is made of, and the yard has the look of a place that has stood two hundred years in the same family's hands. Goding was at the barn door with one of his men, the two of them about a cart that wanted a wheel seen to. I stood at the yard gate until Goding's eye came to me—a farmer's welcome is the eye, not the hand.
+I found him in the yard, mending a gate that had come loose from its post. The gate was old, its wood grey with age, the hinges rusted. He was a man of perhaps sixty, broad in the shoulders, with a face that had been weathered by years of outdoor work and a habit of silence that I took for patience. The yard was neat, with a stack of firewood against the wall and a few hens scratching in the frozen earth. He looked at me as I came up, and he did not stop his work.
 
-"You're come," he said. "Come in to the house, and the entry with you, and the cold out of you. The wheel can wait, but the entry cannot—it has waited these seven years already."
+"You are the Ashcroft man," he said. "The watchman."
 
-I went in with him. The house was warm, with a fire and a table and walls that held their own smoke. A woman set bread and cheese on the table without being asked—the setting is how she says a man has business, and the business wants the table, and the table wants bread.
+"I am the watchman," I said.
 
-Goding sat with his coat still on—a farmer keeps his coat in his own house in January—and put his hands flat on the table, ready. "The entry," he said.
+"I have heard of you. You have been asking questions about the lane." He set down the hammer and straightened. "What is it you want to know?"
 
-I opened the book and set it before him. The entry stood fair: *Bell sold by agreement of the wardens, Michaelmas quarter, to Mr. Josiah Crane of High Street, ironmonger. Sum received: four pounds ten shillings. Entered by T. Wren, clerk.* Beneath it: *Money carried to general account; bell removed from tower inventory.*
+I took out the book and showed him the entry. He looked at it for a long moment, and his face did not change, but his hand went still.
 
-Goding read it twice, slower the second time. The thinking settled in his hands flat on the table. Then he said, "This is as I remember it. The selling was in the year nine, and the Wren that was clerk entered it, and the money went to the general account. I was at the market the day the bell came down—the town came out for that sight—and I saw it come down, and I saw Crane's cart take it away. That is my own knowledge, and I give it you as my own."
+"Hodge," he said. "I have not heard that name spoken in a good while."
 
-"The cart took it to the shop," I said.
+"You knew him?"
 
-"The cart took it up the High Street," said Goding. "What the shop did with it after is not in my knowledge. But I will say this of the entry, and it is what the looking has brought. The entry says the money was carried to the general account. The general account is the account the wardens keep, and the wardens' account is entered in the old books—the very books you asked for at the vestry, and the clerk would not show them. He was right not to, because the showing wants the wardens' word, and that word is not given for the asking. But—" He stopped, took his hands off the table, and put them together in a weighing gesture. "But I am a warden. The entry you have brought is an entry of the wardens' own act, entered by the clerk in the wardens' name, and I will not have the wardens' name standing over an entry that cannot be looked at. That is my part. So I will give you the word."
+"I knew of him. He was before my time, but the name was spoken by my father, and by the men who had been on the land before me. He was a man who kept the property at the end of Bellweather Lane, or so it was said. I never saw him. I never saw the property, either, not in the way I saw the other holdings. It was there, and it was not there, and the parish treated it as a thing that was not to be touched."
 
-"You will show me the old books," I said.
+"The rate was unpaid."
 
-"I will show you the general account for the year nine," said Goding. "That is what the entry points to, and that is the bound of it. The old books hold more than the account, but the more is not mine to give—it is the parish's, not the warden's. A warden stands over the parish's goods and does not own them. But the account will say whether the four pounds ten stood in it in the year nine, and whether it stood after. That is what you came for."
+"The rate was unpaid," he said. "And the rate was left unpaid. I came onto the parish in the year ten, and the rate was already old by then. I asked once, in the first year, whether it should be collected, and the old clerk told me that the property was not to be rated, because the occupant was not a man who could be rated. I did not ask further."
 
-He rose and went to the press at the wall—the press where such houses keep their papers—and took out a book that was not the church's but a farm book, setting it beside my own. "The vestry keeps the parish's books, and I keep my word in my own press until I give it. I will go to the vestry on Saturday, when it is open for the accounts. I will give the clerk the word, and he will show you the account for the year nine. The looking will be yours to do. That is Goding's word, and it stands."
+"Did he say why the occupant could not be rated?"
 
-I thanked him, and the woman set more bread on the table—business done, bread follows business. Goding ate with me, speaking of turnips and frost and the price of flour, but he did not speak again of the bell. A farmer gives a thing the time it wants, and the time was given. I left the farm with the Saturday before me, the getting of what I came for, and the price of flour higher than the last time I had asked—even farmers were feeling the pinch.
+Goding picked up the hammer and held it a moment. "He said that the occupant was not in a state to be named at law. That was the phrase he used. I have heard it since, from other men, in other contexts, and I have come to believe that it is the phrase the parish uses when it does not want to say something. The occupant was not to be named at law, and that was the end of it."
 
----
+He set the hammer down and looked at me, and I saw him measure the question.
 
-I came back by the north road, passing the mill-yard again at noon. The yard was at its noon rest, the gate shut with the padlock to it. I went by as a man goes by what he has noted, and noted it again.
+"There is something else," I said.
 
-Coming by the corner of the yard wall, where the footpath goes past to the lane, I saw what I had not seen before, or not so plain: the stones at that corner were not all of one age. The wall stones are of the country, grey with weather—weather makes the grey, year by year. But two stones at the corner were less grey than the others, and that difference is what a man sees when he has seen the rest. I had seen the rest these two months. The two stones stood with their newer grey, and I understood.
+"There is." He walked to the gate and laid his hand on the post. "The property that is described in the rate book—the messuage and tenement, with the gardens and yards, near Marlowe's garden—I have known that description all my life. It is the description of a property that was once on the lane. But it is not the description of the house at the end of the lane. The house at the end of the lane is not a messuage and tenement. It is a house, a cottage, a dwelling. The rate book describes a larger holding, with yards and gardens, a property that would have been used for something more than a single cottage. I do not know whether the rate book and the house refer to the same thing. I have wondered about it for years, and I have never found an answer."
 
-I had seen the same before: the garden wall at the end of the lane, by Marlowe's wall, has a piece of the top stone newer than the rest, set there for air to the shut upper rooms—I had noted it in November. Here was the same at the mill-yard corner, in the same wall that runs past the same house, and the two newnesses stood in one line, a line from the mill-yard corner to the garden of the house at the end of the lane. I had been asking after that line.
+I looked at him, and I did not speak. He stood with his hand on the gate, and the cold came between us, and I felt the weight of what he had said.
 
-I did not touch the stones—touching makes a thing seen, and I did not want it seen. I went on by the path to the lane, came home, and wrote the day down:
+"You are saying that the rate book may not refer to the house at the end of the lane."
 
-*9 Jan. Goding's farm. Goding's word given for the Saturday: the clerk will show the general account of the year nine at the vestry. The bell came down in the year nine and went up the High Street in Crane's cart—Goding's own sight. Coming home by the mill-yard corner, the two stones at the corner of the yard wall newer than the rest, as the top stones of the garden wall by Marlowe's are newer, and the two newnesses stand in the one line of the wall that goes past the house. The wall has been opened in two places—for air to the house, or for the going of something to it. Saturday before me. Stones behind me. The keeping stands.*
+"I am saying that I do not know what the rate book refers to. The lane has had many properties over the years. Some have been built and some have been torn down. Some have been combined and some have been divided. The house at the end of the lane may be the same property, or it may be a different property, or it may be a property that was once part of a larger holding. I cannot say. I can say that the description in the rate book does not match the house as it stands now."
 
-I shut the book, let the fire burn, and the lamp came at nine, was carried away along the rooms, and no sound came. I set it down as the thirty-second reading, let it stand, and slept with the stones in my head and the Saturday before me. The two things stood together, and the standing was the keeping, and the keeping was kept.
-</content>
+He looked at me, and I saw that he had more to say.
+
+"The land at the end of the lane," he said. "There was a field there once, before the house was built. It was a field that was part of the Marlowe holding, and it was sold off in the year something, and the house was built on it. I do not know when. I do not know who built it. I know only that the field was there, and then it was not, and the house was there instead. That is the way of these things."
+
+I thanked him and went out. The cold was sharp, and the lane was empty, and I carried the weight of what I had heard. The property in the rate book might not be the house at the end of the lane. The rate book described a larger holding, with yards and gardens, while the house at the end of the lane was a cottage. The field had been sold and built on, and the record had not caught up with the change. I stood at the gate for a moment, looking back at the farm. Goding had returned to his work, his back to me, his hammer rising and falling in the cold air. He had given me more than I had asked for, and I did not know whether that was a kindness or a warning.
+
+I walked home through the cold, and the frost was still on the lane, and I thought of the house at the end of the lane, and the rosemary in the pot, and the lamp that came up at nine. I thought of the rate entry, and the probate schedule, and the margin notes that did not agree. The lane was quiet, and the only sound was my own footsteps on the frozen ground. I passed the church, its tower dark against the pale sky, and I thought of the clerk's words: that the property was not to be rated, that the occupant was not to be named at law. The phrase had lodged itself in my mind like a splinter, and I could not shake it loose. I did not know whether any of them referred to the same thing. I did not know whether the house was the property, or whether the property was something else, or whether the house had been built on land that had once been part of a larger holding that no longer existed in any record.
+
+I sat at the desk and took out the book, and I wrote:
+
+*Goding's farm: The rate book describes a messuage and tenement with yards and gardens, near Marlowe's garden. Goding says this description does not match the house at the end of the lane. The house is a cottage; the rate entry describes a larger holding. The field at the end of the lane was once part of the Marlowe holding and was sold off and built on. The rate book may refer to the original field/holding, not to the current house. The parish has treated the rate as unpaid since 1804, and the clerk said the occupant was not to be named at law. I do not know whether the rate book and the house are the same thing. I do not know whether the field and the house are the same thing. I do not know whether any of the records describe what is actually there.*
+
+I shut the book and sat with the fire low, and I thought of the discrepancy between the rate book and the house, and I understood that the question was not whether the records had been moved. The question was whether the records had ever described the same thing in the first place.
+
+I stayed by the fire for a long time, turning over what I had learned. The town's memory was not a single line but a collection of fragments, each preserved for a different purpose and none complete. I did not know whether the house at the end of the lane was the property that had paid no rate for twelve years. I did not know what role Hodge had held in relation to the property. But I knew that the records were not lying; they were simply incomplete, and the incompleteness was a kind of truth in itself. I wrote nothing more that night. The fire burned low, and the frost settled, and I went to bed with the weight of the town's past in my mind.

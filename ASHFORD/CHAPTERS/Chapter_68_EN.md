@@ -1,87 +1,27 @@
-CHAPTER 68 — THE CONSTABLE'S OTHER FACE
+# Chapter 68 — The Second Copy
 
-I went to the office on Saturday morning, because Saturday was the morning after the Friday on which I had restored the arrangement, and the restoring of it had not ended the week, and the week had things in it that still needed doing.
+The week after the list was sent to the solicitor, the town settled into its winter shape. The market returned to its ordinary proportions, the stalls were covered with canvas against the snow, and the church bell rang for the morning service as it had done every week of my life. Nothing had changed, and everything had.
 
-The lane was quiet. The common was empty. The office door was open. I had been there before — on Monday, when Calloway had taken the eleven reports; on Thursday, when the clerk had come to inspect the marks; on Friday, when Calloway had brought the service file. But I had never been there when Calloway was not there, and I had never been there when the office was doing what it did when no one was watching.
+I woke before the light, as I had done since I first took the watch, and for a moment I lay still and waited for the thought that always came: that there was a walk to make, a lane to climb, a door to open. The thought came, and it went nowhere. I got up and lit the fire, and I did not put on my coat. The coat was still hanging by the door, the heavier one, the one he had refused twice and taken on the fifth day. I had not worn it since the Thursday he died. I had not needed to. The weather had turned, and I had stayed inside, and the coat had gathered the smell of the room and the dust of the shelf where it hung.
 
-I stepped inside.
+I went to the pump with my bucket. The women were there, and they spoke of the price of flour and the weight of the snow on the church roof. I listened, and I did not think about the cottage. I filled my bucket and carried it home, and I set it by the door, and I went to the desk. The room was cold, and the fire had gone out while I was gone, and I had to kneel to light it. The kindling was dry, and it caught quickly, and I sat with my back to the heat and watched the flames settle into the grate. The chair opposite was empty, and it had been empty for eight days, and I had stopped noticing it sometime in the middle of that week. I noticed it again now, because the heat from the fire reached it and did not warm it.
 
-The room was the same. The desk was the same. The shelves were the same. The book with the nine lines was on the lower shelf, where the clerk had put it after writing the marks. The clerk was there. He sat at the desk, his back to the door, and he was copying something into a large ledger, the way a man copies a thing he has already copied a hundred times and will copy a hundred times more.
+I went to the office the next morning, because there was a letter to collect and the clerk would be at his desk. The clerk was there, and he looked up when I came in and nodded once, as he always did. He did not ask about Vale. He did not ask about anything. He handed me the letter and went back to his writing. I stood at the counter and looked at the shelves behind him, at the books lined up in their ordinary order, and I saw that the daily register was still open to the page marked with the ribbon. The ribbon was the same colour it had always been. Nothing had been moved. The office had gone on as if nothing had happened, and I understood that it would go on, and that I would be the one to notice when it did not.
 
-He heard me. He did not turn. He said, without looking up:
+The notebook was where I had left it, closed, the list written on the last page. I opened it and looked at the page again. The items were named: journal, map, letters, bottles, button, ring, cloth. Nothing more. I had written what was there, and I had not written what I thought it meant. I had left the last column blank. I had done that correctly, and it had not made the room any less empty.
 
-"The constable is not here."
+I tried to work. There were records to copy, parish entries to check, the ordinary business of a man who kept other men's words. I took out a sheet of paper and began to write, and I found myself waiting for the sound of boots on the path, the knock that meant he had arrived. I wrote a line, and I listened. I wrote another, and I listened again. The paper filled, and the silence did not. I wrote the names of the tenants, the dates of the leases, the amounts of the rents, and I wrote them correctly, and they were worth nothing without the second pair of eyes that had always been there to catch the error. I had not known how much I relied on that second pair until it was gone. I underlined a figure twice, as he had done when he thought I had not noticed, and I saw that I was doing it for myself now. He had said, once, that a figure underlined twice was a figure that had been checked by someone who did not trust the first hand. I had laughed at the time. I did not laugh now.
 
-"I know," I said.
+I went to the window. The frost was on the glass, and the lane was white under the bare hedges. The baker's shop was dark at this hour, and the road was empty. I had walked that road every Thursday for eight months, and I had never once wondered whether I would be welcome at the other end. I knew he would be there, and I had known it the way a man knows the shape of his own hand. Now I knew it was not true, and the knowing sat in my chest like a stone.
 
-He paused. He set the pencil down. He turned on the chair. His face was the same plain face it had been on Thursday — grey eyes, no expression, the face of a man who had learned that the safest thing to show was nothing at all.
+I thought of the first Thursday, in October, when he had looked at the box and said, "This is yours now. I have shown it to you twice. You will look at it again when you need to." I had said nothing. I had taken the box and carried it home and hidden it under the bed, and I had not looked at it again until the morning after he died. I had thought he meant the box. I had not understood that he meant the looking. He had meant that I would have to decide, without him, what was worth seeing and what was not. He had meant that I would have to write the second copy myself. I had heard the warning in his voice, and I had not understood it until now.
 
-"You have come about the papers," he said.
+I went to the press and took the box out. I set it on the table and did not open it. I had already looked, and I had already written, and there was nothing more to be learned from the objects themselves. What was left was the space where the objects had been, and the space where the man had been, and the two were not the same. I set the box down beside the chair where he used to sit when he read what I had written, and I did not move it again.
 
-"I have."
+I opened the notebook again. I wrote the date, and I wrote: *I walked to the pump. I did not go to the cottage. I sat at the desk and wrote records. I listened for the knock. It did not come.* I wrote what I had done, and I did not write what I felt. That was the method, and it was the only thing left that he had taught me which still worked. I underlined a figure twice, as he had done when he thought I had not noticed, and I saw that I was doing it for myself now.
 
-"The constable told me you might. He said you would come either to ask whether the office had found anything or to ask whether the office needed anything. He said you would not come to give the papers up."
+I went outside. The cold was sharp, and the sky was the colour of old iron. I walked past the church and past the market square, and I did not stop. I walked up the lane, and I stopped at the gate. The cottage was dark, the windows empty, the chimney not smoking. I had not been inside since the morning he died, and I did not go in now. I stood at the gate and looked at the door, and I thought of the first time I had seen it, and the last time I had seen him open it. I did not know what I had expected to feel. I only knew that the gate was cold against my hands, and the lane was quiet, and the cottage was a house. I looked at the path where his boots had left prints in the frost, and I saw that they were already gone, filled in by the slow work of the cold. There were no new prints. There would not be. I stood there long enough for the cold to reach through my gloves, and then I turned and walked back down the lane. The wind had come up, and it cut through my coat. I passed the baker's shop, and the smell of bread came out into the cold air, and I did not stop. I went home and closed the door, and I sat in the chair by the window. The notebook was on the desk. I opened it and wrote one more line: *He is not there. I am here. The work is the same, and it is not the same.*
 
-"He knows me," I said.
+I closed the notebook and left it on the desk. I did not light the fire. The room was cold, and I sat with the cold until the light failed.
 
-"He has had time to learn," the clerk said. He did not smile. He did not frown. He simply stated a fact, the way a man states that the road is wet or the light is failing. "The constable is at the bench. He will not be back before afternoon."
-
-"I did not come for the constable," I said. "I came to ask whether the office has made any inquiry through proper channels."
-
-"The office has made inquiry," he said. "The office makes inquiry every day. Some inquiries are about men who have stolen things. Some are about men who have died. Some are about men who have asked questions at doors. The office keeps them all in the same book. The marks are the same. The hand is the same."
-
-He turned back to the ledger. He picked up the pencil. He wrote one line, then paused, then wrote another. The movement was economical. There was no hesitation, but there was no hurry either. It was the movement of a man who had done the same thing so many times that the doing of it required no thought.
-
-I looked at the shelf.
-
-There were three shelves. The middle one was bare. The clerk had said so on Thursday. The book with the nine lines was on the lower shelf, beside a row of other books with the same dark spine and the same small white label. The upper shelf held a stack of folded papers, tied with string, the knots uniform and tight.
-
-The clerk wrote two more lines. He set the pencil down. He turned on the chair again. He saw me looking at the shelf. He followed my eyes.
-
-"The middle shelf is empty," he said.
-
-"I know," I said.
-
-"It has been empty since Monday," he said. "The constable removed the papers that were there. He put the book on the lower shelf. He did not put the papers back. The shelf remains empty. The book remains. The papers remain elsewhere."
-
-"And the office," I said.
-
-"The office knows the shelf is empty. The office has not asked about it. The office knows many things that are on shelves and does not ask about them."
-
-He turned back to the ledger. He picked up the pencil. He wrote one line. He stopped. He held the pencil over the paper, and I saw that his hand was still, the way a man's hand is still when he is listening without looking.
-
-"You have come to ask whether the office has another face," he said.
-
-I did not answer immediately. The statement was not a question. It was a thing placed on the table between us, the way Calloway placed the leaf, the way Vale placed subjects between us and left them.
-
-"I have come to ask what the office does with the things it does not need to answer," I said.
-
-"The office keeps them," the clerk said. "The office keeps everything. The office does not know which things matter until it is too late to ask. The marks are the way the office remembers what it has kept. The marks are not the way the office knows what it has kept. There is a difference."
-
-He wrote the line. He set the pencil down. He turned on the chair. He looked at me directly, the way he had looked at me on Thursday, when he had said the ninth line was not his hand.
-
-"The constable has told me that you keep things apart," he said. "What you saw. What you were told. What you concluded. He has told me that you do it the way the old man did it."
-
-"I learned it from him," I said.
-
-"The old man kept a book," the clerk said. "He kept a book in his desk. He read it every morning. He did not write in it. He said the writing was not the keeping. The keeping was the reading. He said a man who writes everything down forgets what he has seen. He said the seeing is the thing. The writing is the proof that you saw it. The proof is not the seeing."
-
-He paused. Then he said:
-
-"The old man's desk had a drawer that he never used. He kept it locked. He said the drawer was for the things the office might ask for. He said a man who has nothing in a drawer is a man who has nothing to hide, and a man who has nothing to hide has not been doing the work. He kept the drawer empty. He kept it locked. He never put anything in it. The constable knows this. I know this. The office does not know this, because the office does not ask about drawers."
-
-He turned back to the ledger. He wrote one more line. He set the pencil down. He stood up. He took off his hat — a plain black hat, the kind a clerk wears — and he set it on the desk.
-
-"The constable will be back by afternoon," he said. "If you wish to wait, you may wait. If you do not wish to wait, you may come back. The office is here. The papers are here. The book is here. Everything is where it was."
-
-I looked at the shelf again. The middle shelf was bare. The book with the nine lines sat beside the row of other books. The clerk's hat was on the desk.
-
-I did not wait. I did not ask to see the drawer. I did not ask the clerk to tell me what Vale had kept in it. I did not ask whether the constable had seen it. I simply looked at the shelf, and I understood that the office kept things in more than one way, and that the keeping of them was not the same as the knowing of them, and that the old man had kept a drawer locked and empty for fifty years for a reason I did not know, and that the reason was not mine to ask.
-
-I went out. The lane was quiet. The common was empty. The house was shut. The box was in the press. The papers were on the table. The bundle was tied. The ruled sheet was folded. The service file was on the left. The notebook was closed.
-
-The arrangement was restored.
-
-The undoing had happened.
-
-The office had another face.
+I sat until the bell rang for the evening service, and I did not go to hear it. I sat until the women came back from the pump with their empty buckets, and I did not go out to speak to them. I sat until the frost thickened on the glass, and the fire had gone out, and the room was dark. I did not get up. I did not open the box again. I did not write another line. I sat in the chair and listened to the town go quiet, and I understood that the work would go on without him, and that I would be the one to do it.

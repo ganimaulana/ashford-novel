@@ -312,7 +312,7 @@ Some clergy support:
 
 ## VIII. Draft Political Characters
 
-**Status:** Draft only — must be reconciled with existing Alderwick cast (Arthur Edmund Bell, Margaret Eleanor Whitmore, Daniel James Carter, etc.)
+**Status:** Draft only — must be reconciled with existing Alderwick cast (Arthur Laurence Bell, Margaret Eleanor Whitmore, Daniel James Carter, etc.)
 
 | Character | Age | Role | Alignment |
 |-----------|-----|------|------------|

@@ -164,7 +164,7 @@ Coin appears normal ketika examined - no unusual properties detected physically.
 
 **Location significance:** Market Square has centuries of history. Unknown what specifically significant about exact spot where coin returns.
 
-**Historical research:** Arthur Edmund Bell consulted. Records show location was:
+**Historical research:** Arthur Laurence Bell consulted. Records show location was:
 - Part of market area since medieval times
 - Site of various shops over centuries
 - No recorded significant events at exact spot (so far)

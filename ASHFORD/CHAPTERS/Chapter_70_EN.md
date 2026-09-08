@@ -1,88 +1,111 @@
-CHAPTER 70 — OUTSIDE
+# Chapter 70 — The Assessment
 
-I went to the office on Monday morning, because Sunday had left me with a question that the week would have to answer: what did the office intend to do with the things Vale had left, and where did I stand in relation to them.
+Monday came with a thin frost that melted by ten o'clock, and I walked to the office without the heavier coat. The coat was still on the hook by the door, and I had not needed it. The weather had turned in the right direction, and the town was waking into a day that did not know about the week before. The cottage at the end of the lane was still dark in the morning light, and the gate was still closed, and the footprints that Vale had made in the frost on any Thursday were already gone.
 
-The lane was quiet. The common was empty. The office door was open. I had been there four times before — on Monday, when Calloway had taken the eleven reports; on Thursday, when the clerk had come to inspect the marks; on Friday, when I had looked at the January statements; on Saturday, when I had seen the other face of the office. But I had never been there as a man whose possessions were the subject of an inquiry, and I had never been there as a man who was not answerable to the office at all.
+Calloway was alone when I arrived. The clerk was not there. He looked up from the papers on his desk and nodded once, as if the outcome had already been decided.
 
-I stepped inside.
+"You are early."
 
-The room was the same. The desk was the same. The shelves were the same. The book with the nine lines was on the lower shelf. The middle shelf was still bare. The clerk was there, copying into the ledger. Calloway was there, reading a sheet of paper the way a man reads a thing he has already read and knows he will read again.
+"I wanted to be."
 
-He looked up. He did not seem surprised. He set the paper down. He took off his hat and set it on the desk.
+He set the papers down and slid one across the table. It was a single sheet, the kind used for reports. At the top, in his hand: *Case 01. Assessment.*
 
-"The office has been considering the matter of Vale's effects," he said.
+"Read it carefully," he said. "Do not write while you read. Observation first, recording second."
 
-"I know," I said.
+The case was a room. Not the constable's rooms, but a back parlor above a shop on the north side of town. The shopkeeper's wife had died there three days ago — not the recent death, and not one I had heard about before. The official finding was natural causes, but the parish constable who attended had noted that the windows were closed, the room was stuffy, and the tea had gone cold. The paper asked for my observations on the arrangement of the room, the position of objects, and any inconsistencies with the stated account.
 
-"The office is not saying it can simply take the box," he said. "The box is in your keeping. The office has questions about what is in it, and about other things that may belong to the office, or to the parish, or to men who are no longer alive to ask. The office intends to make an inventory of what is here and what is not here, and to ask you what you know about the things that are here."
+I read it once. The first reading told me what was in the room: a chair by the window, a mantelpiece with a clock and two vases, a tray table with a teapot and two cups, a sideboard with a bottle and a glass. I read it a second time. The second reading told me what the room had been arranged to show: an old woman alone, making her tea in the afternoon, sitting in her chair, dying peacefully. I read it a third time. The third reading told me what the room had forgotten to say.
 
-"I have not opened the box," I said.
+"There is a clock on the mantelpiece," I said, closing the paper. "It was stopped at twenty minutes past three. The woman who died was alone, according to the report. The tea was cold. If she had risen to make the tea, and then sat to drink it, and then died, the clock would have kept running for at least a minute after the last movement in the room. Unless the clock was stopped before she died, or unless someone stopped it after."
 
-"Good," he said. "The office does not require you to open it. The office requires you to know what is in it, to the extent that you do know, and to say so when asked."
+Calloway's pen moved across the page. He was writing my words down, or perhaps he was writing his own words that would be mine. "Continue."
 
-He reached for the paper on the desk and turned it over. The ink on the other side was faint, as though he had written it before and the page had been pressed against something else.
+"The teapot was on the tray table, within reach of the chair. If the woman had risen from that chair to make the tea, she would have placed the pot on the tray, which means she did not carry it. If she had carried it, she would have placed it on the table nearest to the chair, not the one across the room. The position is consistent with someone setting the tray in advance, not with someone making tea in response to thirst."
 
-"There will be a hearing," he said. "Not today. Not tomorrow. The constable will send for you. You will come. You will answer what you are asked. You will not answer what you are not asked. You will not add to what you know. You will not take from what you know. You will keep them apart, the way Vale taught you."
+"Who would do that?"
 
-"I know," I said.
+"Someone who expected her to sit in that chair. Someone who knew that she would not rise from it."
 
-"The journal is one thing," he said. "The map is another. The letters are another. The things he kept locked in the drawer are another. The things he left with other people are another. The box is in your keeping. You will describe what is in it. You will describe what is outside it. The distinction is the work."
+He wrote. He did not look up. "And the window?"
 
-"I know," I said.
+"The window was closed. The curtains were drawn. The room was stuffy, as the report says. But the air near the window was cooler than the air near the fire, and the dust on the sill had not been disturbed. Someone had opened the window before the body was found, and closed it again. That is why the room was stuffy on Tuesday afternoon, though it would not have been on Monday morning."
 
-"The office is not looking for answers," he said. "The office is looking for a record. Vale understood that. The clerk understands that. You understand that. That is why the office asks you and not another."
+"Someone who wanted the room to be stuffy when the constable arrived. Someone who wanted the story to be that she died alone, and that the air had not moved."
 
-He stood up. He took his hat from the desk. He walked to the door. He opened it. He looked out at the lane. He turned back.
+He paused. His pen hovered above the page. "And the vases?"
 
-"The constable will send for you," he said.
+"The tall vase on the left held fresh flowers. Chrysanthemums. They were past their prime, but they were not wilted. The vase on the right held nothing — no water, no dust, no arrangement. A woman who received flowers would have placed both vases with equal care. A woman who received nothing would have left both empty. The arrangement suggests that someone placed the flowers recently, and that someone removed whatever had been in the right vase beforehand."
 
-He went out.
+He wrote that. He wrote everything.
 
-The clerk looked at me. He did not say anything. He turned back to the ledger. The pencil moved across the paper. The sound was the same as it had been on Saturday.
+"And what do you conclude?"
 
-I went out.
+I did not answer at once. I had learned that conclusion came last, and that rushing it was the way to make a mistake. "That the woman did not die alone, as the report states."
 
-The lane was quiet. The house was shut. I set the key in the lock and turned it. The door opened. The room was the same.
+"And the person who stopped the clock?"
 
-I took the box from the press. I set it on the table. I opened it. The bundles were there. The journal was there. The map was there. The bottles were there. The button was there. The ring was there. The cloth was there. The uncertain paper lay on top of everything.
+"I do not know who that was. I only know that the clock was stopped, and that stopping it was not done by the woman who died."
 
-I looked at each thing in turn. The box was the box. The bundles were the bundles. The journal was the journal. The map was the map. The bottles were the bottles. The button was the button. The ring was the ring. The cloth was the cloth. The uncertain paper was the uncertain paper.
+He leaned back. "You see what the room says, and you see what it does not say. That is a start."
 
-I set them out on the table, one by one, and I thought about what the office would ask.
+"Is that all?"
 
-Vale had said the box was his. I believed him. The office might want to know what was in it. I would tell them what I had seen. I would not tell them what I thought it meant. I would not tell them whether I believed it mattered. I would tell them only what was written and what I had seen with my own eyes.
+"That was the first test. There are others."
 
-The journal was Vale's private record. He had given it to me to keep, not to share. I had read it a dozen times. Some of it I understood. Some of it I did not. The name that appeared four times and stopped — I did not know who it was. The entries that broke off mid-matter and resumed years later — I did not know what had been left out. The garrison towns I could not place — I did not know where they were. I would tell the office what I had read. I would not tell them what I thought it meant.
+I waited for what came next. I waited for a second room, a second case, a second set of papers that would ask me to see what had been overlooked and record what had been found. What came instead was silence, and then a single sheet of notepaper, written at the top in his hand.
 
-The map was not of Alderwick. The kind a constabulary prints and does not sell. Marked in ink in several shades over years. I had seen that it had marks. I had seen that some were older than others. I would tell the office what I had seen. I would not tell them what I thought the marks meant.
+*Provisional Ranking. Initial Assessment. Current Standing: Top 5. Next Phase: Assessment Proper.*
 
-The bundle of letters was tied with browned tape. I had not opened them. Vale had said some of them were nothing, that some he had never understood in fifty years, and that he could not say which was which. I would tell the office they were there, sealed, and that I had not broken the seal.
+I looked at the paper. "That was all?"
 
-The bottles were stoppered, labelled in an unknown hand. I had not opened them. I did not know what was inside. I would tell the office they were there. I would not guess.
+"There will be more," he said. "Everyone who meets the standard enters the office. The ranking decides your placement. Top five are offered the deeper work. Below that, the ordinary. Both are the office."
 
-The button was a military brass button, worn smooth. Vale had said it was nothing. I would tell the office it was a button.
+"And the deeper work?"
 
-The ring was a woman's ring, too small for his finger. Vale had said it was not nothing, but it was nothing to me. I would tell the office it was a ring.
+"The work Vale knew. The work that requires access. The work that the office keeps separate."
 
-The cloth was folded, the shape still pressed into the weave. I would tell the office the cloth was there. I would not tell them about the Gear. The Gear was mine. I had found it. It was not in the box. It was not Vale's.
+I wrote that in my notebook. *Provisional Top 5. Deeper work contingent. Access pending.* I did not write that I now had the key to the question I had come to ask. I did not write the connection I had made between the stopped clock and the undisturbed dust and the arrangement of the vases. That would come later, and it would come as evidence, not as inference.
 
-The uncertain paper lay on top of everything. I did not know what it was. I would tell the office it was there. I would not guess.
+"How many reach this standing at this stage?" I asked.
 
-I set the things back in the box. I shut the lid. I set the box back in the press. I closed the press door.
+"That varies. Last year, three cleared the initial assessment. The year before, seven. It depends on what is needed. This ranking is provisional. The Assessment Proper on the fifteenth will determine your final placement."
 
-I sat in the chair. The fire was warm. The kettle was cold. The lane was quiet. The house was still. The box was shut. The papers were on the table. The bundle was tied. The ruled sheet was folded. The service file was on the left. The notebook was closed.
+I had not heard of this before. "And the others?"
 
-I did not know what the hearing would ask. I did not know who would ask it. I did not know whether the office wanted the box or wanted to know what was in it or wanted to know whether I had touched it. I did not know whether the hearing would concern the journal or the map or the letters or the bottles or the button or the ring or the cloth or the uncertain paper. I did not know whether the office had already decided what it believed, or whether it was still deciding.
+"They do the ordinary work. Copying, filing, observing. It is not less important, but it is less deep. They see what they are shown."
 
-The arrangement was restored.
-The undoing had happened.
+I thought of Vale's journal: *The reason offered is establishment. I have read the order twice. It is correctly worded. That troubles me.* I thought of the stamp on the map, and the different handwriting on the envelope. I thought of the register with its blank page.
 
-I knew what the office would ask: what I had seen. What I had been told. What I had concluded. Keep them apart.
+"It is not a test of knowledge," he said, as if he had read my thought. "It is a test of seeing. Of noticing what is wrong, and what is merely different. Of recording what is seen, without filling the blank space with what is wanted."
 
-That was the only part the office could not take from me.
+"How do you judge that?"
 
-I did not know what the hearing would decide.
+"By the quality of the questions you leave unanswered. A man who answers everything has seen nothing. A man who answers only what he can establish has seen what he needs to."
 
-But I knew it was coming.
+I did not write that down. I had already memorised it.
 
-I would come to it as an outsider. I would answer for things I had not taken and had not been given. I would answer with what I had seen and what I had been told. I would keep them apart.
+Calloway slid the paper across the table. "You will report on the fifteenth. The phase is called the Assessment Proper. You will be assigned a mentor for the duration. The mentor is not me."
+
+"Who is it?"
+
+"That will be determined. The ranking decides. You will receive a summons."
+
+I took the paper and did not fold it. "What happens if I refuse the deeper work?"
+
+"Then you take the ordinary. That is a choice, not a failure. The ranking stays."
+
+I understood that to be true. The ranking was not a gate that could be opened or closed. It was a record of what I had seen, and what I had seen was mine. The office might offer me work, but it would not take what I had found.
+
+"And the mentor?"
+
+"Someone who achieved this standing before you. Someone who knows the difference between a report and a record. Someone who has walked the road you are about to walk."
+
+I did not ask who that had been. I had some idea, and I did not want to name it.
+
+I walked home through the town. The frost was gone, and the air was clear, and the streets were full of people going about their days. I passed the baker's shop, and the smell of bread came out into the cold air, and I did not stop. I went to my own door and let myself in, and the room was quiet, and the notebook was on the desk.
+
+I opened the notebook and wrote the date, and I wrote: *Provisional Top 5. Deeper work pending Assessment Proper on the fifteenth. The clock stopped at 20:35. The woman did not die alone. I do not know who stopped the clock, and I do not know who she was. But I know that the room kept its own second copy.*
+
+I closed the notebook and held it in my hands. The ranking was done. The placement was pending. The questions were still mine. But now I would have help answering them. Now I would have access.
+
+I lit the fire, and I sat in the chair by the window, and I waited for the fifteenth. The town was quiet, and the lane was empty, and the work would go on. This time, it would not be entirely alone.

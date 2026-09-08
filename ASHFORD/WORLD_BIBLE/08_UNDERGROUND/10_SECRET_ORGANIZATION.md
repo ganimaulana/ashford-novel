@@ -183,6 +183,77 @@ See `LEON_LAYER_ARCHITECTURE.md` for the complete specification.
 
 ---
 
+## X — ASHCROFT FAMILY CUSTODIAN
+
+**X is currently defined as: Custodian of the Ashcroft Family Legacy.**
+
+X is an Ashcroft connected to a later generation of the family legacy.
+
+X is NOT a direct member of the Hidden Society.
+
+The relationship between X and the Hidden Society remains unresolved.
+
+### Current Relationship Model
+
+```
+Aurelius Ashcroft
+        ↓
+Ashcroft Family Legacy
+        ↓
+X — Custodian
+        ↓
+Helen
+        ↓
+Leon
+```
+
+Separately:
+
+```
+Hidden Society / Network
+        ↕
+   possible contact,
+   shared knowledge,
+   overlapping interests
+        ↕
+X
+```
+
+The exact nature of this connection remains OPEN.
+
+### What Must NOT Be Canonized Yet
+
+Do not finalize:
+- X's full name;
+- X's exact age;
+- X's location;
+- X's occupation;
+- X's exact genealogical relationship to Aurelius;
+- whether X is a direct descendant of Aurelius;
+- whether X has ever met Aurelius;
+- the full extent of X's inherited knowledge;
+- X's exact relationship with the Hidden Society;
+- whether X cooperates with or opposes the Hidden Society;
+- whether X is still actively communicating with Helen;
+- Helen's exact genealogical relationship to Aurelius;
+- Helen's final fate;
+- Helen's exact reason for leaving.
+
+These remain open for Mystery #9, #16, and #17.
+
+### Critical Distinctions
+
+The following must remain separate concepts:
+
+1. **Ashcroft family legacy** — the preserved knowledge, records, instructions, traditions, and responsibilities of the Ashcroft line
+2. **X as Custodian** — an independent custodian of that legacy, not a member of the Hidden Society
+3. **Helen as subordinate/recipient** — entrusted with certain fragments and responsibilities by X, not a formal member of an organization controlled by X
+4. **Hidden Society / Network** — a separate entity that may intersect with X and the Ashcroft legacy, but is not the same institution
+
+These may intersect, but they must NOT be treated as the same institution.
+
+---
+
 **Version:** 2.0 | **Status:** 📘 WORKING CANON | **Last Updated:** 2026-08-28
 ---
 

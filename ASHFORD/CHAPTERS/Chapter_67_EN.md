@@ -1,98 +1,41 @@
-CHAPTER 67 — THE EXAMINATION
+# Chapter 67 — The List
 
-I rose before the lane was awake. The fire had burned low. The room was cold. I put the kettle on and stood over it while it heated, and I thought about the table, and about the bundle with the wrong knot, and about the ruled sheet folded beside the leaf, and about the service file turned the wrong way, and about whoever had done it and had not cared whether I knew.
+The letter came on a Thursday. It was from the parish clerk, writing for the solicitor, and it asked for a list of the items in Vale's private box. Not the box itself. A list. To be delivered to the constable's office by the end of the week.
 
-I did not go to the table immediately. I finished the water. I poured it into the cup. I drank it standing. I set the cup down. I went to the press and opened the door and took out the box and set it on the table, because the box was the thing that contained the papers, and the papers were the thing that had been disturbed, and the disturbing of them was the thing that needed to be understood.
+I read it twice and folded it into my pocket. The paper was thin, the kind that tears if you crease it wrong. A list was a small thing to ask, and a dangerous one. A list was a decision about what was worth naming, and what was not. I had no objection to naming things. I had an objection to naming things in a way that made them seem simpler than they were.
 
-I opened the box.
+I went to the office in the afternoon. Calloway was at his desk, his hat on the shelf behind him, his coat buttoned to the neck. The clerk was writing, and he looked up when I came in and nodded once, as if I were a man with business and not a man with a question. The room was warm, and the fire was low, and the smell of ink and paper was the same as it had been when I first enrolled.
 
-The three bundles were on the lid. The uncertain paper lay on top of everything. I lifted the bundles aside and set them on the table, and I reached into the box and took out the eight tied papers, and the leaf with nine lines, and the clerk's ruled sheet, and the service file, and I laid them out in the order they had been in before the disturbance — the bundle on the left, the leaf in the middle, the ruled sheet on top of the leaf, the service file on the far left, the notebook open beside them.
+Calloway read the letter and set it down. "The solicitor wants a list of what was in the box. Not the box itself. He will not take it from you. He only wants to know what was there, in case any of it relates to his work."
 
-I stood back and looked at them.
+I thought of the box in my possession. I had not opened it since the morning I had looked at the journal and the map and the letters and put them back. I had not told anyone it was there. Vale had said it was mine, not the parish's, not anyone else's, and I had believed him because he had said it plainly and because he had been the one to hand it to me. He had said it twice, once in August and again in October, and he had said it the same way both times, as if it were a fact about the world and not a preference of his own.
 
-The bundle was still tied with the wrong knot. The ruled sheet was still folded beside the leaf. The service file was still turned the wrong way. The notebook was still open.
+"There was a box," I said. "He gave it to me before he died. In October. It is in my possession."
 
-I had not expected them to have changed. The changing of them would have required a second disturbance, and a second disturbance would have required a second entering of the room, and I did not know whether the room had been entered once or twice or not at all, and the not-knowing was the thing I was trying to reduce.
+Calloway looked at me for a moment. He was not angry. He was measuring, the way a man measures a thing he has heard before and is hearing again. He had known Vale longer than I had, and he had known what Vale kept and what he did not. "Then it is not part of the estate," he said. "But the solicitor may still want to know what is in it, if any of it relates to his work. A map, for instance. Correspondence. Records of cases."
 
-I sat down.
+I thought of the map. I thought of the journal with its garrison years and its blank pages. I thought of the letters tied with browned tape, one of them in a hand that was not his. I thought of the button and the ring and the cloth, and of the way Vale had looked at them when he showed them to me, as if he were still trying to decide whether they were nothing or not.
 
-I began with the bundle.
+"I do not know what is in it that is his and what is in it that was the office's," I said. "He kept it under a blanket at the bottom of his press. He showed it to me once, in August, and told me some of it was nothing and some of it he had never understood, and that he could not say which was which."
 
-I undid the knot. It was a single loop, tied quickly, the kind of knot a man makes when he is in a hurry or does not care whether it holds. I had tied it with a double loop, the end tucked under, the way my father had taught me when I was a boy, the way I had always tied bundles since, the way a man ties a thing when he means it to stay tied until he decides otherwise.
+Calloway nodded. "Then you will need to decide what goes on the list. Write what is there. Do not write what you think it means. The solicitor does not want your conclusions. He wants the facts. And if you are unsure of a thing, say so. An honest uncertainty is better than a confident guess, and the solicitor will respect it more than a lie."
 
-I took the scrap of paper from the fold. The writing was still there — Second copies. Retained. Not returned. — in my own hand, in my own pencil, the letters pressed hard enough to leave an indent in the paper beneath.
+I went home through the cold afternoon. The market square was empty, the stalls taken down, the cobbles white with rime. The wind had come up from the north, and it cut through my coat at the corner by the church. I passed the lane that led to the cottage, and I did not turn. I walked to my own door and let myself in, and the room was cold, and the box was in the press where I had left it.
 
-I laid the eight papers out one by one.
+I stood in the doorway for a moment, looking at the room. The fire had gone out during the day, and the ashes were grey. The chair by the window was empty, and the notebook lay closed on the desk where I had left it the night before. I had not written in it since the morning I had looked at the box and put it back. I had sat with it until the light failed, and then I had left it there, and now the morning light was on it, and the frost was on the glass, and the box was exactly as I had set it down.
 
-The first was June 1803. The theft at the ironmonger's.
-The second was September 1804. The death at the poor-house.
-The third was March 1805. The boundary dispute.
-The fourth was November 1807. The drunkard on the common.
-The fifth was January 1811. The woman missing three days.
-The sixth was May 1812. The fight at the market.
-The seventh was August 1814. The fire in the yard.
-The eighth was February 1816. The theft from the mill.
+I took it out and set it on the table. I turned the key. The lid lifted, and the contents were exactly as they had been the morning before: the journal, the map, the letters, the bottles, the button, the ring, the cloth. I lifted the map and unfolded it. The paper was soft at the folds, the edges worn where his hands had held it. The ink was in three shades — brown, grey, and a darker brown that had been applied over the others in places. The roads ran in directions that did not correspond to any lane I had walked, and the names were not the names of Alderwick's farms or lanes or boundaries.
 
-I looked at each one. The paper was the same. The ink was the same. The marks on the back were the same. The dates were the same. The subjects were the same. Nothing had been added. Nothing had been taken away. The scrap was still in the fold. The string was still around the bundle.
+It looked like the sort of map a constabulary might print and not sell. But there was a stamp in one corner, faint, the kind a clerk makes when a thing has been checked and filed and returned. I had not noticed it before. It was not a mark Vale had made with his own hand. It was an administrative mark, and it suggested that the map had passed through an office at some point — whether the constable's or another, I could not say.
 
-I tied the bundle again. This time I tied it the way I had tied it before — the double loop, the end tucked under. I set it on the table.
+That changed the question. If the map had been checked and filed, then it had passed through the institution at some time. But Vale had kept it for thirty years in a box under a blanket, and he had marked it in ink, and he had carried it from a district he had never named to a town that had no need of him. He had told me, in August, that he could have burned it and had not, and had never been able to give himself a reason. He had kept it, and he had not told anyone why, and the keeping had been a decision he had made alone.
 
-I looked at the leaf.
+Was it his, or was it the office's? I did not know. I only knew that the stamp was there, and that it was older than the ink, and that the question had no answer he could have given me, because he had not given it to himself.
 
-It was the same paper. The nine lines were in the same order. The clerk's hand was the same. The ninth line was still there, with its blank margin. The ink was the same. The paper was smooth. Nothing had changed.
+I folded the map along the creases he had made and set it back in the box. I took out the notebook and opened it to a fresh page. At the top I wrote: Items in the box. Then I listed what I had seen: a journal, a map, a bundle of letters, two bottles, a brass button, a ring, a folded cloth. I did not write what any of them were for. I did not write about the stamp. I did not write about the envelope with the different handwriting. I wrote what was there, and nothing more. I wrote it in the form he had taught me: what I saw, what I was told, what I concluded. And I left the last column blank, because I did not yet know what belonged in it, and I was not going to guess.
 
-I looked at the ruled sheet.
+I closed the notebook and put the key in my pocket. The list was done. It was honest. It was incomplete, but it was not a lie. The solicitor could read it and ask questions, and I would answer what I knew and refuse to answer what I did not. That was a refusal shaped like an answer, and it would have to do.
 
-It was folded beside the leaf, not on top of it. I lifted it. The creases were different from the creases I had made. I had folded it once, lengthwise, and set it on top of the leaf. Whoever had moved it had folded it twice, widthwise, and set it beside the leaf. The paper was the same. The ink was the same. The dates were the same. The marks were the same. Nothing had been added. Nothing had been taken away.
+Outside, the lane was quiet. The frost was white on the rooftops. The baker's shop was closed. I stood at the window for a while, looking out at the street, and I thought about the Thursday that had not come, and the man who had asked whether I had eaten, and the box that was mine now, and the stamp on the map that might have meant the office had once owned it, and the list I had written that said nothing about any of that.
 
-I refolded it the way I had folded it before — once, lengthwise — and set it on top of the leaf.
-
-I looked at the service file.
-
-It was turned. The front was facing the table. I had left it with the front facing the air. I turned it back. The four lines were the same. Name. Appointment. Reassignment with the reason left blank. Death. The postscript was the same: See entry-book, February last. The ink was the same. The paper was the same. Nothing had changed.
-
-I set it on the left, the way I had left it.
-
-I looked at the notebook.
-
-It was open. The pages were the same. The writing was the same. The date was the same. The three sentences — What I saw. What I was told. What I concluded. — were still there, in my own hand, written after the clerk had come and gone, after Calloway had made his offer and I had refused it, after I had kept them apart the way Vale had taught me. Nothing had been added. Nothing had been taken away.
-
-I closed the notebook.
-
-I sat back.
-
-I had examined each paper. I had examined the bundle. I had examined the leaf. I had examined the ruled sheet. I had examined the service file. I had examined the notebook. I had verified that nothing was missing. I had verified that nothing had been added. I had verified that the ink was the same. I had verified that the paper was the same. I had verified that the marks were the same.
-
-But the bundle had been tied with a different knot. The ruled sheet had been folded differently. The service file had been turned the wrong way.
-
-I did not reach a conclusion. I did not decide that someone had been looking for a specific paper. I did not decide that someone had been looking for the February inquiry. I did not decide that someone had been looking for the map. I simply looked at the papers and saw what was different, and I did not know what had caused it.
-
-I did not know who had done it. I did not know why. The only certain thing was that the arrangement had changed while I was away, and that the change was the only thing I could be sure of.
-
-I stood up. I went to the press. I opened the door. The box was there. The three bundles were on the lid. The uncertain paper lay on top of everything. I looked inside. The journal was where I had put it. The map was where I had put it. The letters were where I had put them. The bottles were where I had put them. The button was where I had put it. The ring was where I had put it. The cloth was where I had put it.
-
-Nothing had changed in the box.
-
-I closed the press door.
-
-I returned to the table. I looked at the papers. The bundle was tied with my knot now. The ruled sheet was folded on top of the leaf. The service file was on the left, front facing the air. The notebook was closed.
-
-I had restored the arrangement.
-
-But the restoring of it did not undo the undoing of it. The undoing had happened. The arrangement had been disturbed. Nothing had been taken. Nothing had been added. I did not know what had caused the disturbance. I did not know whether anything had been found. I did not know who had been involved, or why, or whether they would return. I only knew that the arrangement had been different, and that it was different no longer, and that the difference was the only thing I could be certain of.
-
-I sat down. I took out my notebook. I opened it to a fresh page. I wrote what I had seen, in order. What I had been told, in order. What I had concluded, in order. I kept them apart, the way Vale had taught me, because that was the only part of the method that was mine.
-
-What I saw: the bundle tied with a different knot. The ruled sheet folded beside the leaf instead of on top. The service file turned the wrong way. Nothing missing. Nothing added. The journal unchanged in the box.
-
-What I was told: nothing. No one had spoken. No note had been left. There was nothing else to read.
-
-What I concluded: nothing yet. The papers had been disturbed. The bundle had been tied differently. The ruled sheet had been folded differently. The service file had been turned. Nothing had been added. Nothing had been taken. I could not say who had disturbed them. I could not say why. I could not say whether they had been looking for anything, or whether they had found it. I could only say what I had seen.
-
-I closed the notebook.
-
-I sat in the chair. The fire was warm. The kettle was cold. The lane was quiet. The house was still. The box was shut. The papers were on the table. The bundle was tied. The ruled sheet was folded. The service file was on the left. The notebook was closed.
-
-The arrangement was restored.
-
-The undoing had happened.
+I closed the notebook and left it on the desk. I sat in the cold room until the light failed, and I did not light the fire.

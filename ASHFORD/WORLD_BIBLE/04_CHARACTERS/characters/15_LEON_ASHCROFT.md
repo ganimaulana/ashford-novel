@@ -141,8 +141,8 @@ If he discovers that someone he trusted has been deliberately deceiving him, he 
 - **Helen:** Landlady or fellow resident? — She is reserved and mysterious. Leon feels she knows more than she says. He respects her privacy but is curious.
 - **Daniel James Carter:** Friend — Daniel is helpful, knowledgeable, and enthusiastic. Leon trusts him as a source of historical information.
 - **Margaret:** Tearoom owner — She is gossipy but informative. Leon appreciates her directness and uses her as a source of local knowledge.
-- **Arthur Edmund Bell:** Antiquarian — Arthur is a mentor figure in history and local lore. Leon respects his expertise.
-- **Thomas Wren:** (deceased) — Leon received his notebook and key. Wren was a keeper of secrets.
+- **Arthur Laurence Bell:** Antiquarian — Arthur is a mentor figure in history and local lore. Leon respects his expertise.
+- **Edmund Wren:** (deceased) — Leon received his notebook and key. Wren was a keeper of secrets.
 - **Aurelius Ashcroft:** Ancestor? — The central mystery. Leon knows his name and is investigating his life.
 
 ## Secrets
@@ -190,7 +190,7 @@ At the end of Ch 51, with the death of Thomas Vale, Leon becomes the formal Keep
 - Margaret Whitmore — will never be initiated
 
 **Bridge character (Layer 1 + partial Layer 2):**
-- Arthur Edmund Bell — knows Leon is investigating something real, but not the Circle
+- Arthur Laurence Bell — knows Leon is investigating something real, but not the Circle
 
 **Compartmentalization rules:**
 - No Layer 2/3/4 materials in Layer 1 locations
@@ -205,7 +205,7 @@ At the end of Ch 51, with the death of Thomas Vale, Leon becomes the formal Keep
 - **Layer 1→2:** Begins investigating Bellweather House, symbol, address system. Arthur notices. (Ch 2–8)
 - **Layer 2→3:** Contacted by Circle members, tested, accepted as "Leon Ashcroft." Daniel and Margaret remain unaware. (Ch 9–16)
 - **Layer 3→4:** Accesses Bellweather basement, reads Aurelius's journals, accepts the legacy. Becomes "Aurelius Ashcroft." (Endgame)
-- **Important turning points:** Receiving the Pembroke & Clarke letter; meeting Thomas Wren; finding the key; discovering Bellweather House's history; Circle initiation; basement discovery.
+- **Important turning points:** Receiving the Pembroke & Clarke letter; meeting Edmund Wren; finding the key; discovering Bellweather House's history; Circle initiation; basement discovery.
 - **What they may learn:** The truth about Aurelius Ashcroft, their own heritage, the Circle's purpose.
 - **What they may lose:** Their ordinary life; the trust of Daniel and Margaret; their innocence.
 - **What they may become:** A more determined and perhaps more cynical investigator, then a leader, then a legacy.

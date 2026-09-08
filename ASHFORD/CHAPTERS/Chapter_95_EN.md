@@ -58,6 +58,63 @@ He unlocked the chest without a word. Inside was a sealed envelope, thick and he
 
 I took the envelope. I looked at Hunter. He did not ask for it. He simply turned and walked to the window, climbed out, and was gone.
 
+
+The problem became harder when we reached the storehouse. The front door was locked, and Weaver's key did not fit. We searched the walls, the hinges, and the ground beneath the window. None of it gave us an answer.
+
+“We are wasting time,” Weaver said.
+
+“Then we need to stop looking for the obvious entrance.”
+
+He looked at the map. “You said the red circle marked the storehouse.”
+
+“It does.”
+
+“It doesn't say which door.”
+
+“No.”
+
+We went around the building again. The loose boards at the rear window were not difficult to notice once we were looking for them. What was less obvious was whether the office expected us to use them. There was no instruction against it. There was no instruction requiring a particular entrance.
+
+I climbed through first. Inside, dust covered the floor in a thin layer except for a narrow path near the wall. Someone had been through recently. I crouched and looked at the marks. They were too indistinct to identify.
+
+“Someone else has been here,” I said.
+
+Weaver came through the window. “Hunter?”
+
+“I don't know.”
+
+We followed the path to the chests. Only one was large enough to match the map. It was heavier than it looked. When Hunter appeared at the window, I expected him to say something about the route. Instead he examined the room, then the chest.
+
+“The floor is stronger here,” he said.
+
+I looked down. He was right. The boards beneath the chest were thicker and less worn than those near the window.
+
+He moved the chest without asking again. Weaver watched him.
+
+“What do you want for it?” Weaver asked.
+
+“Nothing from you.”
+
+Hunter looked at me. “He said he would tell me what the document says.”
+
+“I did.”
+
+“Then that is enough.”
+
+He left before I could ask why.
+
+For a moment I stood with the envelope in my hands. The exchange had been simple, but it had not felt like a favour. Hunter had wanted information, and I had agreed to give it. The examination had created a debt without either of us needing to name it.
+
+At the clerk's desk, I handed over the sealed document. He recorded the time.
+
+“Did you read it?” he asked.
+
+“No.”
+
+He looked at me for a moment, then nodded. “Good.”
+
+I returned to my room with the list still in my pocket. I had promised Hunter an answer I could not yet give. The paper had become heavier because of that promise.
+
 I walked back to the courtyard. The clerk was still standing near the main building. He looked at the envelope in my hand and wrote something in his ledger.
 
 “You are among the first,” he said.
@@ -69,3 +126,25 @@ I walked back to my room. The sun was rising. The field was empty.
 I sat on the bed and opened the envelope. Inside was a single sheet of paper with a list of names—ten names, including my own. I did not know what it meant. I folded it and put it in my pocket.
 
 I waited for the bell to ring. I thought about Hunter, and about the debt I had promised. I did not know whether I would keep it. But I knew that the examination was no longer just about completing tasks. It was about the people I chose to rely on.
+
+Before leaving the room, I looked again at the names. There were ten of them. I recognised several from the examination, but not all. No positions were written beside them. No dates. No explanation.
+
+I considered taking the paper to the clerk. Then I remembered that the envelope had been given to me as part of the task, and no instruction had required me to surrender its contents. I folded it and kept it. That was not secrecy. It was simply not knowing yet what should be done with it.
+
+When I passed Hunter in the corridor later, he looked at me once.
+
+“You read it?” he asked.
+
+“Yes.”
+
+“And?”
+
+“I'll tell you what I can.”
+
+He nodded. “Good.”
+
+He did not ask what it said. I was relieved.
+
+I did not feel triumphant. The map had brought me to a locked door, the key had belonged to someone else, and the document had reached me only because another man had agreed to move a chest. Each step had depended on something outside my control. That did not make the result meaningless. It made the arrangement clearer. The examination was forcing us to work with what we had, not what we wished we had.
+
+I looked once more at the list before putting it away. The names remained only names. I would not give them a meaning the paper did not contain.

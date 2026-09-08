@@ -45,7 +45,7 @@ See `11_ARC_SYSTEM_MASTER_INSTRUCTION.md` and `09_ARC_SYNERGY.md` for full detai
 | 13_ARC_013 | The Sleeping Church | Location / Phenomenon | Draft | Unknown | Unknown | Pending | Time, theology |
 | 14_ARC_014 | The Borrowed Shadow | Phenomenon | Proposed | Unknown | Unknown | Pending | Identity, selfhood |
 | 15_ARC_015 | The Pale Doctor | Entity | Proposed | Unknown | Unknown | Pending | Dr. Elias Vane (possible) |
-| 16_ARC_016 | The Bookshop After Midnight | Location | Proposed | Unknown | Unknown | Pending | Arthur Edmund Bell (possible) |
+| 16_ARC_016 | The Bookshop After Midnight | Location | Proposed | Unknown | Unknown | Pending | Arthur Laurence Bell (possible) |
 | 17_ARC_017 | The Last Photograph | Object | Proposed | Unknown | Unknown | Pending | Observation, manifestation |
 | 18_ARC_018 | The Waking Dream | Phenomenon | Proposed | Unknown | Unknown | Pending | Collective consciousness |
 | 19_ARC_019 | The Man Who Wasn't There | Entity / Information | Proposed | Unknown | Unknown | Pending | History, reality alteration |

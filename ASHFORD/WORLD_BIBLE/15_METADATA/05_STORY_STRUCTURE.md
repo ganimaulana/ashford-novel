@@ -104,8 +104,8 @@ ordinary life
 - **Core concept:** Aurelius and the Gear become increasingly important.
 - **Status:** PLANNED.
 
-### ARC 5 — DOOR / 00:00 (Ch ???+)
-- **Core concept:** The Door and the recurring significance of 00:00 become increasingly important.
+### ARC 5 — WATCH / CALL / 00:00 (Ch ???+)
+- **Core concept:** The Watch/Call system and the operational significance of 00:00 within Aurelius's hidden network become increasingly important. 00:00 is an operational time marker, not a supernatural threshold. The Call is an organizational instruction to observe, record, and report anomalies.
 - **Status:** PLANNED.
 
 ### ARC 6 — BELL / FIRST CALL (Ch ???+)

@@ -296,6 +296,12 @@ We came to the narrow lane where the old town began to climb behind the market s
 
 I looked up the lane. The building stood at the top, older than the ones around it. A sign hung above the door, half hidden by ivy. The door itself was painted green.
 
+"Arthur's shop," Daniel said. "Some of the older men call him Sir Arthur. I never found out why—probably some old joke that outlived its meaning."
+
+"He doesn't seem like a knight," I said.
+
+Daniel shrugged. "That's what makes it a good joke, I suppose."
+
 I tried the handle.
 
 It did not move.

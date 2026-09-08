@@ -107,3 +107,13 @@ I stood in the field and waited.
 I waited for the next instruction.
 
 I waited for whatever would come next.
+
+The field became quieter after the rules were given. Candidates checked their boots, looked toward the buildings, or spoke in low voices. Leon noticed that several had stopped asking what the examination would contain. They had begun asking one another what the officials had not said. Then the first instruction arrived.
+
+A clerk raised one hand. Conversation stopped in stages rather than all at once.
+
+"First task," Calloway said. "When the bell sounds, take the marked route to the storehouse. Do not leave the route. Do not assume the reason for the route is the reason you were given it."
+
+No one moved.
+
+Then the bell sounded.

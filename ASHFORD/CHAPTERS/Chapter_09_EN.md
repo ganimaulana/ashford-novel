@@ -86,11 +86,15 @@ The reading room was quieter than it had been at any point in the day. I had the
 
 I asked the woman at the desk if there was a street guide or a listing of buildings for Alderwick as it had been before the last twenty years.
 
-She looked at me. "Before the last twenty years?"
+She looked at me.
+
+"Before the last twenty years?"
 
 "Before that, if there is one."
 
-She thought for a moment. Then she went to a shelf and brought down a thick volume. The cover was worn. The pages were old. "This is all we have," she said. "The older records are in the town book at the council. But the council keeps that, and it's not always open."
+She thought for a moment. Then she went to a shelf and brought down a thick volume. The cover was worn. The pages were old.
+
+"This is all we have," she said. "The older records are in the town book at the council. But the council keeps that, and it's not always open."
 
 "I'll take what I can see."
 
@@ -176,11 +180,15 @@ I sat down. He signed the book on the table and looked at me.
 
 "I found a listing of properties. For Bellweather Lane. The earliest one I could read was 1801."
 
-Daniel nodded. "And?"
+Daniel nodded.
+
+"And?"
 
 "The last house on the lane in 1801 was number eleven."
 
-He leaned forward a little. "Your house is thirteen."
+He leaned forward a little.
+
+"Your house is thirteen."
 
 "Yes."
 
@@ -196,7 +204,9 @@ He leaned forward a little. "Your house is thirteen."
 
 "Perhaps."
 
-He gave me a look. "You know the rules. You don't take one source and make it speak for all of them."
+He gave me a look.
+
+"You know the rules. You don't take one source and make it speak for all of them."
 
 "I know."
 
@@ -204,7 +214,11 @@ He gave me a look. "You know the rules. You don't take one source and make it sp
 
 "There's a note. No additional building recorded."
 
-Daniel was quiet. Then: "That's not the same as no house."
+Daniel was quiet.
+
+Then:
+
+"That's not the same as no house."
 
 "I know."
 
@@ -224,7 +238,9 @@ Daniel was quiet. Then: "That's not the same as no house."
 
 "I don't."
 
-He nodded. "Then you've found a difficulty. That's not the same as finding an answer."
+He nodded.
+
+"Then you've found a difficulty. That's not the same as finding an answer."
 
 "No."
 
@@ -234,7 +250,9 @@ He nodded. "Then you've found a difficulty. That's not the same as finding an an
 
 "Now you have."
 
-He took a sip from his cup. "You asked me where to begin. I told you to begin with what you can check. You've checked something. That's better than most people do."
+He took a sip from his cup.
+
+"You asked me where to begin. I told you to begin with what you can check. You've checked something. That's better than most people do."
 
 "That's not much."
 
@@ -246,11 +264,15 @@ He took a sip from his cup. "You asked me where to begin. I told you to begin wi
 
 I was quiet.
 
-Then he said: "You're carrying something you didn't tell me about."
+Then he said:
+
+"You're carrying something you didn't tell me about."
 
 "I'm not carrying anything I haven't told you about."
 
-He looked at me. "You are. It's the same as the last time I saw you. The same look."
+He looked at me.
+
+"You are. It's the same as the last time I saw you. The same look."
 
 "What look?"
 
@@ -262,7 +284,9 @@ I was quiet.
 
 I did not answer.
 
-He nodded. "Don't show it to me. I don't want to know. But I will say this. If you're going to ask questions in this town, you should decide what you're prepared to be wrong about."
+He nodded.
+
+"Don't show it to me. I don't want to know. But I will say this. If you're going to ask questions in this town, you should decide what you're prepared to be wrong about."
 
 "What does that mean?"
 
@@ -274,7 +298,9 @@ He nodded. "Don't show it to me. I don't want to know. But I will say this. If y
 
 I did not answer.
 
-He leaned back. "There's a difference between investigating and being investigated. You're doing the first one. Don't forget that people can do the second one too."
+He leaned back.
+
+"There's a difference between investigating and being investigated. You're doing the first one. Don't forget that people can do the second one too."
 
 I got up.
 
@@ -285,6 +311,160 @@ I got up.
 "I will."
 
 I left.
+
+---
+
+Daniel remained at Margaret's for a while after Leon had gone.
+
+He watched the door close.
+
+Then he looked down at the book in front of him.
+
+He had not been reading it.
+
+The page had been open for several minutes, but he had not turned it once.
+
+The book was an old local history. It was not particularly interesting. Most of it was names, dates, marriages, changes of ownership, and brief descriptions of houses that had once mattered to someone.
+
+Daniel had been looking for something else.
+
+He turned back a few pages.
+
+There it was again.
+
+A name.
+
+He read the line carefully.
+
+Then he checked the page before it.
+
+The name did not appear there.
+
+He checked the page after it.
+
+Still nothing.
+
+Daniel frowned.
+
+It was not the first time he had found something like this.
+
+A name appeared once, without explanation, then disappeared.
+
+A house was mentioned without an owner.
+
+A family was recorded in one year and absent in another.
+
+Sometimes there was a reason. Sometimes there wasn't.
+
+The problem was that people tended to treat the absence as an answer.
+
+Daniel had never liked that.
+
+He closed the book.
+
+Margaret was wiping the counter.
+
+"You've been staring at the same page for half an hour."
+
+"I was thinking."
+
+"That's what people say when they don't want to admit they weren't reading."
+
+"I was reading."
+
+"You weren't turning the pages."
+
+Daniel looked at her.
+
+"There's a name here."
+
+"There are hundreds of names in that book."
+
+"This one appears once."
+
+Margaret continued wiping the counter.
+
+"Then perhaps the person only needed to appear once."
+
+Daniel looked back at the page.
+
+"That's not how records usually work."
+
+"How do they usually work?"
+
+"Someone appears. Then there's another entry. Then another."
+
+"Usually."
+
+"Usually."
+
+Margaret put the cloth down.
+
+"People disappear too."
+
+Daniel looked at her.
+
+"From records?"
+
+"From towns."
+
+She picked up the cloth again.
+
+"Sometimes the record notices."
+
+"And sometimes it doesn't."
+
+"Sometimes."
+
+Daniel was quiet.
+
+He closed the book and placed one finger between its pages.
+
+"Do you know anything about the name?"
+
+Margaret did not look at him.
+
+"No."
+
+"You didn't even ask which name."
+
+"That tells you something."
+
+"What?"
+
+"That I don't need to know."
+
+Daniel smiled faintly.
+
+"You've been spending too much time with Leon."
+
+"Perhaps."
+
+He slipped the book into his coat.
+
+"I'll return it tomorrow."
+
+"You'd better."
+
+He stood.
+
+At the door he paused.
+
+"Margaret."
+
+"Yes?"
+
+"Did Leon tell you what he found?"
+
+She looked at him.
+
+"No."
+
+Daniel nodded.
+
+"Good."
+
+He stepped outside.
 
 ---
 

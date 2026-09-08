@@ -1,21 +1,62 @@
-﻿# Arthur Edmund Bell
+﻿# Arthur Laurence Bell
 
 ## Canon Status
-**CANON** — Established as Mr. Bell, the antiquarian.
+**CANON** — Established as the antiquarian; hidden social status disclosed in working canon.
+
+---
+
+## 1. Core Conclusion — Arthur
+
+1. Arthur's canonical full name is **Sir Arthur Laurence Bell**.
+2. His primary narrative identifier is **Arthur**.
+3. His full character name, when required, is **Arthur Laurence Bell**.
+4. His normal social address in Alderwick is **Mr. Bell**.
+5. His hidden formal address is **Sir Arthur**.
+6. This hidden title is part of his character background and functions as a layer of identity mystery.
+7. The exact nature, history, and inheritance of the title remain OPEN unless already established in canon.
 
 ## Basic Identity
-- **Full name:** Arthur Edmund Bell
+- **Full hidden name:** Sir Arthur Laurence Bell
+- **Primary identifier:** Arthur
+- **Full character name:** Arthur Laurence Bell
 - **Public name:** Mr. Bell (Arthur to close acquaintances)
+- **Hidden formal address:** Sir Arthur
 - **Age:** Older man; likely 50s or 60s
 - **Gender:** Male
 - **Occupation:** Antiquarian and bookseller; owns "Bell's Books & Antiquities"
-- **Social position:** Respected tradesman; knowledgeable
+- **Social position:** Respected tradesman; knowledgeable; conceals a legitimate social title
 - **Residence:** Possibly above or near his shop
 - **District:** High Street
 - **First appearance:** Chapter 2 (mentioned), Chapter 4 (appears)
 - **Current story status:** Active; mentor figure
 
-## Physical Presence / Visual Canon
+---
+
+## 2. Hidden Social Status
+
+Arthur possesses a legitimate social title allowing him to be addressed formally as **Sir Arthur**.
+
+This status is deliberately concealed or suppressed in his ordinary life in Alderwick. Arthur does not normally present himself publicly as "Sir Arthur."
+
+The exact legal nature of the title remains OPEN. It may be a hereditary baronetcy, knighthood, or another form of title. The inheritance mechanism, exact family history, associated estate, and reason for concealment are not yet established unless already present in canon.
+
+### Daniel Carter Foreshadowing
+
+Daniel Carter has previously heard someone address Arthur as **"Sir Arthur."**
+
+Daniel does not understand that this is a genuine indication of Arthur's hidden social status. He may interpret the address as unusually formal, eccentric, or amusing, and may make a joke about Arthur being called "Sir Arthur."
+
+The joke must initially appear harmless. Arthur must NOT openly confirm his title at that point. His reaction should remain subtle and ambiguous—e.g., a brief pause, a slight change of expression, dry amusement, redirecting the conversation, or deliberately refusing to explain.
+
+This functions as layered foreshadowing:
+- **First reading:** Daniel is simply making a joke.
+- **Later revelation:** Daniel accidentally referenced a genuine part of Arthur's identity.
+
+Daniel himself initially remains unaware that his joke was factually correct.
+
+---
+
+## 3. Physical Presence / Visual Canon
 **Status:** PROPOSED — awaiting author approval
 
 | Element | Value |
@@ -127,7 +168,7 @@ If he believes Leon is in danger, he may reveal more.
 ## Relationships
 - **Leon Ashcroft:** Customer/investigator; Arthur sees him as someone who deserves to know the truth.
 - **Margaret:** Acquaintance; they share local news.
-- **Daniel:** May supply him with books.
+- **Daniel:** May supply him with books. Daniel has heard Arthur addressed as "Sir Arthur" and has joked about it, unaware the address is genuine.
 
 ## Secrets
 ### Public Knowledge
@@ -135,6 +176,7 @@ If he believes Leon is in danger, he may reveal more.
 
 ### Private Secret
 - His knowledge of the Hidden Circle and Bellweather House.
+- His concealed social title: he may be addressed formally as Sir Arthur, but he does not present this publicly in Alderwick.
 
 ### Reader-Known Secret
 - He has shown Leon a map and hinted at hidden things.
@@ -188,6 +230,6 @@ If he believes Leon is in danger, he may reveal more.
 
 ---
 
-**Status:** CANON
-**Last Updated:** 2026-08-28
-**Version:** 1.0
+**Status:** WORKING CANON — APPROVED CHARACTER IDENTITY DIRECTION
+**Last Updated:** 2026-09-06
+**Version:** 1.1

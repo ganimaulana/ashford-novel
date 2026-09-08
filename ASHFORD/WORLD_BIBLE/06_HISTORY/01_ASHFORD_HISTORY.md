@@ -58,12 +58,12 @@ Sejarah kota perlahan terungkap melalui:
 - Perkembangan pesat
 - Industri berkembang
 - **Bellweather House/Estate** ada pada periode ini
-- **Thomas Wren** kemungkinan hidup pada periode ini
+- **Edmund Wren** kemungkinan hidup pada periode ini
 - Banyak bangunan Georgian yang masih ada di 1816
 
 **Yang diketahui dari brief:**
 - Bellweather House pernah ada secara historis
-- Thomas Wren berkaitan dengan Bellweather Estate
+- Edmund Wren berkaitan dengan Bellweather Estate
 
 **Detail:** [PERTANYAAN TERBUKA - bagian dari mystery]
 
@@ -97,7 +97,7 @@ Sejarah kota perlahan terungkap melalui:
 **Bellweather House/Estate:**
 - [PERTANYAAN TERBUKA]
 
-**Thomas Wren:**
+**Edmund Wren:**
 - [PERTANYAAN TERBUKA]
 
 **Perubahan sistem alamat:**

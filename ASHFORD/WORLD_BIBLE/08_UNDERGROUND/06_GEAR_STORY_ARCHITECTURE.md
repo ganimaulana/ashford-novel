@@ -1,8 +1,8 @@
 ﻿# GEAR SYSTEM — FINAL STORY ARCHITECTURE
 
-**Status:** PROPOSED — ARC 2+ design framework. NOT confirmed canon. Ready for author approval.
-**Date:** 2026-09-03
-**Role:** Overarching narrative-engine architecture for the Gear system. Individual profiles live in `04_GEAR_COMPONENT_PROFILES.md`; parent principles in `02_DOOR_GEAR_SYSTEM.md`.
+**Status:** WORKING CANON / AUTHOR-APPROVED ARCHITECTURE — NOT FINAL MYSTERY FREEZE
+**Date:** 2026-09-06
+**Role:** Overarching narrative-engine architecture for the Nine Gears as a secret communication infrastructure of Aurelius's hidden network. Individual profiles live in `04_GEAR_COMPONENT_PROFILES.md`; parent principles in `02_DOOR_GEAR_SYSTEM.md`.
 **Scope note:** "Final" means structurally complete for author review — it does NOT mean the lore is canon.
 
 ---
@@ -11,7 +11,7 @@
 
 ### CONFIRMED (manuscript Ch 1–141)
 - Ch 36: Leon finds **the gear** under the Mill Lane clock. Initial interpretation: a clock part / found object. **No temperature anomaly — the gear behaves as ordinary cold iron in every test (revised canon 2026-09-03: THE GEAR DOES NOT BECOME WARM).**
-- The gear fits a depression in the stone door beneath the mill; when set in and turned under pressure, the underground **mechanism** responds (tremor Ch40; clicks and a one-inch opening Ch49). Whether the mechanism responded to the gear, recognized it, or merely required its shape is UNKNOWN — protected.
+- The gear fits a depression in the stone door beneath the mill; when set in and turned under pressure, the underground **mechanism** responds (tremor Ch40; clicks and a one-inch opening Ch49). Whether the mechanism responded to the gear, recognized it, or merely required its shape is UNKNOWN — protected. **[SUPERSEDED 2026-09-06]** The Mill Stone Door has no confirmed Gear interface. The previous one-inch opening attributed to Gear operation is superseded. The Door's response is an unexplained phenomenon.
 - Ch 56–66: Leon's classifications of the gear are provisional and end unresolved (key → lock → marker → "I could not call it anything yet"). The keeper's sign is associated with the key function. The gear is never "the keeper's key" and never a universal key.
 - Ch 78: the **Keeper's Door** (third door, beneath Bellweather House) has **no depression for the gear and no lock**; it answers the Tokens. Keeper's Seal ≠ Gear; Keeper's Door ≠ Gear mechanism; the Keeper's Door does not require the gear.
 - **One confirmed gear** exists (Ch49 reconciliation: the box gear and Leon's gear are the same object; the older "two gears" note is superseded — see 07_MASTER_GEAR_BLUEPRINT §III).
@@ -20,13 +20,15 @@
 - The keeper's bell, 00:00, the Tokens, the count — separate confirmed systems. Warmth is the **Token** signature exclusively.
 
 ### PROPOSED (this document and siblings)
-- Nine principal Gear components; individual identities, inscriptions, functions; the Door escalation sequence; the Pale Compass; member acquisition model; world-expansion loop.
+- Nine principal Gear components representing increasing depth of communication; individual identities, inscriptions, functions; the communication progression; the Pale Compass; member acquisition model; world-expansion loop.
 
 ### UNRESOLVED
 - Whether the confirmed keeper's gear (Ch 36) and the Vale-box gear map onto positions within the proposed nine.
 - Total Gear count; creator; reason for separation; Door's ultimate purpose; assembly consequence.
 - Relationship between the proposed "ancient organization" and the confirmed nameless society / Order of Severence / Aurelius as lock-maker.
 - The "Door at Leon's residence" concept: canon places the Door **beneath the mill** and the chamber beneath Bellweather House. No canon supports a separate door inside Leon's residence. **Recorded as CONTRADICTION-CHECK: the story architecture uses the confirmed mill/chamber geography only.**
+- Whether the Gears communicate with the entity behind Vale's Door; whether they weaken the Door; whether they cause the Bell; whether they open Vale's Door; whether assembling all nine Gears automatically releases an entity. All remain OPEN.
+- The Mill Stone Door has no confirmed Gear interface. The Gear and the Door have different markings. The Door's response is an unexplained phenomenon. Any future Gear–Door relationship must be discovered through evidence.
 
 ### LEGACY / DEVELOPMENT HISTORY
 - LOTM-derived mythology (power 9→8, connection slots) — excluded from canon (`FINAL_MYSTERY_LEDGER.md` audit).
@@ -39,36 +41,46 @@
 
 GEAR IS NOT ERC. Gear = specialized Artifact. An ERC record may document a Gear; the Gear never becomes an ERC. Gear ≠ Token. Token remains its own system (PROPOSED common ancient origin: UNRESOLVED).
 
+**PRIMARY PURPOSE:** The Nine Gears are a secret communication infrastructure of Aurelius's hidden network. Their fundamental purpose is organizational communication — allowing members, agents, or selected prospective members to communicate without ordinary physical correspondence or direct meetings.
+
+The Gears are NOT primarily keys, weapons, containment devices, or mechanisms for opening Vale's Door.
+
+The communication medium used by the Gears may contain a supernatural or metaphysical aspect that Aurelius and later members did not completely understand. This remains a POSSIBILITY, not confirmed canon.
+
 ## 2. THE ENGINE LOOP
 
 ```
 DISCOVERY → RECOGNITION → INTERPRETATION → ACQUISITION → EXPERIMENTATION
-→ DOOR INTERACTION → NEW CAPABILITY → NEW CLUE → NEW LOCATION → NEW PERSON
+→ COMMUNICATION TEST → NEW CAPABILITY → NEW CLUE → NEW LOCATION → NEW PERSON
 → NEW CONFLICT → DEEPER MYSTERY
 ```
 
-Neither Leon nor the reader initially knows: how many Gear exist, who created them, why they were separated, why the Door exists, why the ancient organization disappeared, what completion causes.
+Neither Leon nor the reader initially knows: how many Gears exist, who created them, why they were separated, what the complete communication system does, what the ancient organization's fate was, or what completion causes.
 
 ## 3. GEAR COUNT
 
 **NINE = PROPOSED, NOT CONFIRMED.** Compatibility check: canon establishes one confirmed gear + one Vale-box gear; it never states a total. Nine is compatible IF the confirmed gear is one of the nine (candidate: the first / recognition position) — UNRESOLVED. If author rejects nine, the architecture degrades gracefully to any count (positions are functional, not numbered).
 
-## 4. DOOR PROGRESSION (PROPOSED — design framework)
+The nine Gears represent increasing depth or capability of communication rather than RPG-like power levels. Do not present the nine functions as a rigid skill tree. Do not use game-like terminology.
 
-| Stage | Effect | Mystery consequence |
-|-------|--------|---------------------|
-| INITIAL | Door exists, inactive/inaccessible | What is it? |
-| FIRST GEAR | Limited interaction — recognition; the Door answers presence (candidate: confirmed keeper's gear) | It is not stone |
-| SECOND | One-way auditory transmission | Something hears |
-| THIRD | Two-way communication | Something answers |
-| FOURTH | Limited visual perception | Something is there |
-| FIFTH | Deeper perception / environmental sensing | The other side has a shape |
-| SIXTH | Limited interaction with something beyond | It can be touched — at cost |
-| SEVENTH | Partial crossing / controlled access | Crossing changes the crosser |
-| EIGHTH | Persistent/deeper access — revelation | The Door was never only a door |
+## 4. COMMUNICATION PROGRESSION (PROPOSED — design framework)
+
+The Gears progressively unlock deeper communication capabilities. This is a **development framework**, not confirmed sequence.
+
+| Stage | Communication Capability | Mystery consequence |
+|-------|--------------------------|---------------------|
+| INITIAL | Gear exists, function unknown | What is it? |
+| FIRST | One-way transmission | Someone is speaking; no reply yet |
+| SECOND | Two-way communication | Dialogue becomes possible |
+| THIRD | Symbolic/non-verbal information | Communication becomes richer |
+| FOURTH | Limited vision | Something can be seen |
+| FIFTH | Sensory/informational impressions | The other side has a shape |
+| SIXTH | Dream-based communication | Contact reaches into sleep |
+| SEVENTH | Targeted individual contact | Personal, not general |
+| EIGHTH | Sustained/direct interaction | The connection becomes persistent |
 | NINTH | UNKNOWN — deliberately unresolved | Revision of all prior assumptions |
 
-Rules: NOT "+1 ability" ladder. Every activation must change Leon's understanding of the Door, carry cost/limitation/risk, and generate a new question. The Door must never become a puzzle: collect-X-open-door is forbidden.
+Rules: NOT "+1 ability" ladder. Every activation must change Leon's understanding of the Gears' purpose, carry cost/limitation/risk, and generate a new question. The Gears must never become a simple collect-and-unlock system.
 
 ## 5. VISUAL LANGUAGE
 
@@ -114,17 +126,17 @@ Acquisition scenario (PROPOSED): an ordinary person/member obtains it unknowing;
 
 ## 11. FINAL ASSEMBLY — FIVE POSSIBILITIES (all PROPOSED; none confirmed)
 
-**A. THE DOOR REMEMBERS.** Completion does not open the Door — it completes the account: the system records/reveals what the keepers' count was always tallying. Advantages: honors "not opened but remembered"; recontextualizes Arc 1. Disadvantages: risks feeling passive. Mystery potential: high. Canon compatibility: strong (memory motif). Impact on Leon: he becomes witness, not opener.
+**A. THE NETWORK REMEMBERS.** Completion does not open the Door — it completes the account: the system records/reveals what the keepers' count was always tallying. Advantages: honors "not opened but remembered"; recontextualizes Arc 1. Disadvantages: risks feeling passive. Mystery potential: high. Canon compatibility: strong (memory motif). Impact on Leon: he becomes witness, not opener.
 
 **B. THE DOOR OPENS BOTH WAYS.** Completion makes the threshold traversable — and something on the far side has been waiting for exactly this. Advantages: escalation, danger, Arc-3 engine. Disadvantages: risks conventional "opened door" payoff. Mystery potential: high. Canon compatibility: moderate ("opens from both sides" is canon). Impact: Leon must decide whether completion was a mistake.
 
 **C. THE GEAR WERE A SEAL, NOT A KEY.** Assembly does not unlock — it re-locks something that has been loosening since the organization's failure. The ancient organization separated them deliberately because keeping them apart WAS the safeguard. Advantages: inverts the quest; separation becomes sacred. Disadvantages: must be seeded early to avoid feeling like a trick. Mystery potential: very high. Canon compatibility: strong (separateness/keeping theme). Impact: Leon's entire collection arc becomes a moral problem.
 
-**D. THE SUMMONING COUNT.** Completion synchronizes with the count of keepers and 00:00 — the Gear system and the tally were two halves of one mechanism. The bell's call and the Door's opening are one event. Advantages: unifies confirmed mysteries (count, bell, 00:00, Door). Disadvantages: risks over-resolution; must leave residue. Mystery potential: high. Canon compatibility: strong (all elements already canon). Impact: Leon realizes the keepers were maintaining a countdown he has been accelerating.
+**D. COMMUNICATION COMPLETION.** The Gears form a complete communication channel to something beyond the Door. Advantages: mystery of the "other side"; aligned with communication purpose. Disadvantages: could feel like a radio. Mystery potential: high.
 
 **E. LEON DOES NOT KNOW — THE RECOMMENDED CORE.** Whatever the mechanism, Leon assembles the system because the evidence leads him there, not because he knows the reward. The outcome is something he did not expect. Advantages: anti-videogame; preserves agency-through-investigation; any of A–D can be the hidden truth. Disadvantages: requires disciplined withholding. Mystery potential: maximum. Canon compatibility: strong. Impact: defines Leon's character — he completes what he cannot predict.
 
-**Design recommendation:** E as narrative posture; C and D as the strongest hidden-truth candidates; A as tonal fallback. Author decision REQUIRED — do not preselect.
+**Design recommendation:** E as narrative posture; A and D as the strongest hidden-truth candidates aligned with the communication infrastructure concept; C as tonal fallback. Author decision REQUIRED — do not preselect.
 
 ## 12. WHY WERE THE GEAR SEPARATED? (all PROPOSED)
 
@@ -133,6 +145,12 @@ Deliberate separation · emergency dispersal · destruction of the original orga
 ## 13. ANCIENT ORGANIZATION MYSTERY
 
 Gear = strongest clue-path toward the vanished organization. Factions hold fragments only: the Order of Severence may classify Gear as boundary relics without knowing the nine (their exact knowledge remains UNRESOLVED — do not grant completeness); the nameless society preserves histories/objects (confirmed interest in the tally — a potential bridge, UNRESOLVED); others may own Gear unknowingly. No faction is wholly incompetent; the mystery emerges from fragmented information. The organization's fate remains UNKNOWN (hypotheses A–G in `02_DOOR_GEAR_SYSTEM.md` §XXX preserved).
+
+## 14. AURELIUS NETWORK CONNECTION
+
+The Nine Gears are a secret communication infrastructure of Aurelius's hidden network. They may intersect with other mysteries, characters, organizations, or supernatural phenomena, but they must not be collapsed into the Door system merely because the same characters may be involved.
+
+Security and secrecy: The Nine Gears are kept secret because they constitute infrastructure for Aurelius's hidden network. Possession or control of multiple Gears could expose the existence of the network, the identities or locations of members, communication channels, organizational instructions, recruitment mechanisms, operational information, and potentially information that the organization itself considers dangerous. The secrecy of the Gears therefore has a practical organizational reason independent of Vale's Door.
 
 ## 14. LEON KNOWLEDGE BOUNDARY (per-Gear template, enforced)
 
@@ -165,17 +183,17 @@ Every Gear encounter grants a discovery reward before full understanding: memora
 
 Working names derive from appearance/inscription/discovery context — not SCP-style. All fields PROPOSED; full 42-field profiles remain in `04_GEAR_COMPONENT_PROFILES.md` to be filled as each Gear is developed.
 
-| ID (internal) | Working Name | Position (PROPOSED) | Visual identity (PROPOSED) | Inscription concept | Discovery concept |
+| ID (internal) | Working Name | Communication Stage (PROPOSED) | Visual identity (PROPOSED) | Inscription concept | Discovery concept |
 |---|---|---|---|---|---|
-| GEAR I | The Keeper's Tooth | Recognition / first contact | The CONFIRMED canon gear (Ch 36, Mill Lane clock) — ~14–15 cm, dark iron, no temperature response, fits the door's depression | Kept-sign/marker motif; "the keeping is the thing" echo | ALREADY DISCOVERED — passed to Daniel (Ch 129); quest must begin with its absence |
-| GEAR II | The Listening Coil | One-way voice | Dark iron, spiral form, wire-fine, cold to the touch | Fragment on absence: "what is spoken into the dark is not lost" | Auction lot mislabelled as an instrument part; Leon suspects before he proves |
-| GEAR III | The Answering Plate | Two-way communication | Tarnished copper with enamel, palm-sized, hairline-cracked | "What is answered becomes a conversation" (design reference, not final) | Unknowing ordinary owner (information-arbitrage scene) |
-| GEAR IV | The Witness Lens | Limited vision | Smoky glass in a pale steel frame; asymmetric | "The eye follows where the voice cannot" (design reference) | Scholar's private collection in another city — travel engine |
-| GEAR V | The Breathing Stone | Environmental sensing | Pale ceramic; must NOT be given Token-like warmth (Gears have no temperature response — hard rule) | Reference to witnesses | Hidden inside another historical object (nesting discovery) |
-| GEAR VI | The Returning Hand | Limited interaction beyond | Bronze with deep oxidation; one repaired break | Reference to return and names | Faction-controlled artifact — conflict scene |
-| GEAR VII | The Hinge of Hours | Partial crossing | Pale steel, architectural, heavier than it looks | Reference to thresholds | Abandoned estate; obstacle: the house itself resists |
-| GEAR VIII | The Quiet Anchor | Persistent access | Dull silver with green patina; inscriptions on ALL faces | Reference to separation | Member-assisted acquisition (organization test) |
-| GEAR IX | UNNAMED — deliberately | UNKNOWN | UNKNOWN — an unknown or anomalous material (candidate) | UNKNOWN — may not bear an inscription at all | UNKNOWN — the final mystery |
+| GEAR I | The Keeper's Tooth | One-way transmission / instructions | The CONFIRMED canon gear (Ch 36, Mill Lane clock) — ~14–15 cm, dark iron, no temperature response, fits the door's depression | Kept-sign/marker motif; "the keeping is the thing" echo | ALREADY DISCOVERED — passed to Daniel (Ch 129); quest must begin with its absence |
+| GEAR II | The Listening Coil | Two-way communication / response | Dark iron, spiral form, wire-fine, cold to the touch | Fragment on absence: "what is spoken into the dark is not lost" | Auction lot mislabelled as an instrument part; Leon suspects before he proves |
+| GEAR III | The Answering Plate | Symbolic/non-verbal information | Tarnished copper with enamel, palm-sized, hairline-cracked | "What is answered becomes a conversation" (design reference, not final) | Unknowing ordinary owner (information-arbitrage scene) |
+| GEAR IV | The Witness Lens | Vision / remote visual information | Smoky glass in a pale steel frame; asymmetric | "The eye follows where the voice cannot" (design reference) | Scholar's private collection in another city — travel engine |
+| GEAR V | The Breathing Stone | Perception / sensory impressions | Pale ceramic; must NOT be given Token-like warmth (Gears have no temperature response — hard rule) | Reference to witnesses | Hidden inside another historical object (nesting discovery) |
+| GEAR VI | The Returning Hand | Dream-based communication | Bronze with deep oxidation; one repaired break | Reference to return and names | Faction-controlled artifact — conflict scene |
+| GEAR VII | The Hinge of Hours | Targeted individual contact | Pale steel, architectural, heavier than it looks | Reference to thresholds | Abandoned estate; obstacle: the house itself resists |
+| GEAR VIII | The Quiet Anchor | Sustained/direct interaction | Dull silver with green patina; inscriptions on ALL faces | Reference to separation | Member-assisted acquisition (organization test) |
+| GEAR IX | UNNAMED — deliberately | UNKNOWN / most complete contact | UNKNOWN — an unknown or anomalous material (candidate) | UNKNOWN — may not bear an inscription at all | UNKNOWN — the final mystery |
 
 Rules: visuals must not repeat; the common maker's motif should be findable only on close comparison; GEAR IX receives no invented identity.
 
@@ -189,8 +207,13 @@ Rules: visuals must not repeat; the common maker's motif should be findable only
 6. Ancient organization ↔ nameless society ↔ Order relationship?
 7. Pale Compass name, mechanics, acquisition scene?
 8. Does the Sanctuary ever interact with the Gear system? (UNRESOLVED — do not force.)
+9. What is the deeper metaphysical aspect of the Gears' communication medium? (POSSIBILITY, not confirmed)
+10. Do the Gears communicate with the entity behind Vale's Door? (OPEN)
+11. Do the Gears weaken the Door? (OPEN)
+12. Do the Gears cause the Bell? (OPEN)
+13. Does assembling all nine Gears automatically release an entity? (OPEN)
 
 ---
 
-**Status:** PROPOSED — ARC 2+. Not CONFIRMED. Not implemented in manuscript. CHAPTERS 1–141 untouched.
-**Last Updated:** 2026-09-03
+**Status:** WORKING CANON / AUTHOR-APPROVED ARCHITECTURE — NOT FINAL MYSTERY FREEZE
+**Last Updated:** 2026-09-06

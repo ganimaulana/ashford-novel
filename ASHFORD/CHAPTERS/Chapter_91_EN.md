@@ -60,6 +60,43 @@ The man in the grey coat spoke again. "Those who have been named will gather the
 
 The man with the notebook walked toward the main building. He did not look back.
 
+
+Before I left the field, I looked once more at the four routes. From the ground, the differences were less obvious than they had seemed from the starting line. The mud at the red gate had been churned into a dark strip by dozens of boots. The blue lane had become crowded around the rope. At the green gate, men were still waiting for space to pass. The yellow lane was almost empty.
+
+A candidate beside me laughed under his breath. “You were lucky.”
+
+“Perhaps.”
+
+He looked at the yellow gate. “I thought the short lane would save time.”
+
+“It might have.”
+
+He gave me a doubtful look, as though I had failed to answer the question he had actually asked. I had no better answer. A route could be good and still lose. A decision could be sensible and still fail. The examination had not given me enough information to know which would happen before I chose.
+
+Near the edge of the field, Weaver was collecting his coat. His trousers were muddy to the knee. When he saw me, he raised one hand.
+
+“I owe you something,” he said.
+
+“You do not.”
+
+“I do.”
+
+He looked toward the departing candidates. “The man with the notebook did what I nearly did. He tried to know the whole field before moving.”
+
+I watched the man disappear through the gate. “Knowing the whole field would have helped if there had been time.”
+
+“And there wasn't.”
+
+“No.”
+
+We stood there for another moment. Then Weaver said, “Next time, I may move before I understand everything.”
+
+I smiled despite myself. “Next time, I may run.”
+
+He laughed once. “I would like to see that.”
+
+The clerk called for the remaining candidates to clear the field. We obeyed. I walked back with the others, feeling the mud drying on my boots and the ache beginning in my legs. The first task had been simple in its wording. It had not been simple in practice.
+
 I stood in the field, the bundle in my hands.
 
 I had survived.
@@ -77,3 +114,29 @@ The sun was low. The field was empty.
 I sat on the bed and looked out the window. The grounds were quiet. The seven who had left were gone.
 
 The examination had truly begun.
+
+At the gate, the clerk stopped me before I could leave the field.
+
+“You assisted another candidate.”
+
+“Yes.”
+
+“Why?”
+
+I looked toward Weaver, who was already walking away. “He was blocked.”
+
+“That is not an answer.”
+
+“It is the reason.”
+
+The clerk waited. I understood that he wanted something more precise, but I did not know what kind of answer would satisfy him.
+
+“I thought the delay would cost less than waiting for the queue to clear,” I said.
+
+He made a note. “That is different.”
+
+“Is it?”
+
+He closed the ledger. “Go.”
+
+I went. I did not ask what he had written.

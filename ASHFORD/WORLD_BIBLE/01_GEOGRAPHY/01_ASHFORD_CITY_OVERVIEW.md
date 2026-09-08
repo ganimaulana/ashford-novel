@@ -137,7 +137,7 @@ Alderwick memiliki **beberapa** tempat terbengkalai atau terbengkalai sebagian.
 **Yang sudah diketahui dari mystery:**
 - Bellweather House pernah ada secara historis
 - Ada hubungan dengan Edwin Ashcroft
-- Ada hubungan dengan Thomas Wren
+- Ada hubungan dengan Edmund Wren
 
 **Lihat:** `HISTORY/01_Alderwick_HISTORY.md`
 

@@ -1,145 +1,27 @@
-CHAPTER 56 — A DIFFERENT POSITION
+# Chapter 56 — The Settled Things
 
-I rose before the lane did on Friday. The fire was low, and the room was cold, and the kettle took longer to boil than it should have, because I had not tended it properly the night before, and I stood over it and waited and thought about the clerk's visit, and about what Calloway had said through him, and about the two things that were kept apart and whether they ought to be kept apart, and whether the keeping of them apart was wisdom or strategy, and whether the difference between the two mattered.
+On the Monday I came down to the square before the hour, with my ledger under my arm and the two pens I kept for other people's paper in my bag. The grey lay on the office steps, and the door stood open for the lights to be carried out, and the collier's boy from the Monday before was on the lowest step with a crust, and he told me the old clerk had said I was to take the window and want nothing off the shelf but what I could put back.
 
-The Hartley girl's bowl was gone. I had returned it Thursday evening. She had taken it without saying anything, and I had walked back down the lane with the cold in my face and the clerk's words in my head, and I had understood that the week had become something I could not name, and that the naming of it would have to wait.
+The elder clerk was already behind the day-book, his sleeves rolled to his elbows and a strip of clean paper on his shoulder. "Mr. Calloway comes late on Mondays," he said, without looking up. "The warrant-book for the Sessions is his, and he has it done the first hour. You'll not be in his way nor we'll not be in yours." It was the whole of his greeting and the whole of his terms, and I was content with them: the window, and the boxes that could come down and go back, and the day-book turned a little aside from me as the year's work turned on its own, and nothing given and nothing taken.
 
-I counted the eight again. The arithmetic held. The morning was for counting.
+The first box came off the second shelf with a little dust and no resistance. It was plain deal, with a paper label gone brown, and the label had nothing on it but a year. Within, the settled things lay as they had been tied: strings on some, tape on most, and one or two with nothing, the office having meant to tie them after and never getting the after done. I set the box on the floor by the window, for I could not ask the room's table, and I opened my ledger to a clean sheet and ruled it with four heads: matter, date, kind of paper, and sound or not. And if a minute stood in the year that no paper answered, I left a fifth head blank for what I should want against it.
 
-The box sat in the press. The leaf lay on the table. The clerk's ruled sheet was folded beside it. The three bundles were on the lid. The uncertain paper was on top of everything.
+That is how a stray mare came back to me out of the oldest box of all. Her band held four papers and the bundle's own minute at the head of them, in the brown hand of that year: *STRAY MARE — NOTHING FOUND.* Below it, in the same hand, steadier and later: *FOUND. RESTORED.* The two words had waited for the other two, and the office had kept the waiting with the finding all in one band, and the day-book across the room, whose business is what came next, had never been turned back to say so. I sat with that for a while. The minute had been true when it was written. The papers had been true too. Neither had lied; they simply preserved different parts of the same matter. When I had her discharge entered in the fourth column and her band back on the string, the cold room had grown almost kind.
 
-I sat in the chair. I did not open the notebook. The kettle boiled. I poured the water and held the cup, and I did not drink it, because the holding of it was enough.
+By the second hour I came to a thin quarter of that earliest year, and to the thing that gave me the pause. The box stood complete in its own name, and the last page of the quarter held the minute: *RUNAWAY 'PRENTICE — FOUND. SETTLED.* But when I turned out the corner where its papers should have lain, and turned it again, the box had nothing to answer the line. No complaint, no bond, no master's letter, no discharge; the office had put away a settled thing with nothing settled in it, and the two honest words of the minute left me with nothing to put behind them.
 
-The office came at ten.
+I do not say the elder clerk shifted when I asked him about it, near the middle hour, or lowered his voice. He answered from his own trade and not from his mind: "The 'prentice. The boy came back. They commonly come back." He considered. "If they don't, there's generally somewhat written." And so it was said, and his folio went on, and it became plain that to him this had no more interest than a date with the tail of it cut off; but I made my fifth head for the entry after all, and in it, in my own hand, one word: *wanting.*
 
-It was Calloway. He came alone. He had not been alone since Saturday. I had seen the younger man at the end of the lane on Monday, and I had seen the clerk come up the step on Thursday, and each time Calloway had sent someone to do a thing he might have done himself, and each time I had understood that the sending was the thing, and that the thing was that he was deciding what I was, and that the deciding was not finished.
+I opened the last box of the shelf in the third hour, while the day-room was still quiet. This was the end of the old time, and the hand was the one I had come to know by its figure for a seven: through that last year the sure stroke bent by degrees, and on the last page of the last month it stopped fair at the end of a line and left the rest of the line standing empty. The office's books for that year and every year since sat in the desk by the window in a newer hand. I wrote none of it in the fifth column—the fifth column was for matter that wanted its paper. I tied the bands as I had found them and set the year back in its row.
 
-He came in without waiting to be asked. He took off his hat. He looked at the room the way a man looks at a room he has been in before and is seeing again for a purpose.
+At noon the day-room filled, and I stood out of its way with my box at my feet, a piece of furniture by the window, and heard the office work. A wife came about a peace her husband had broken in a yard and she in a kitchen; both were sworn, and both were told the peace was to be kept at their own cost, and it was done in four minutes, and nobody was wronged. Two farmers came in together and parted apart, having agreed to disagree in the office, which is cheaper than in the field. A boy of fourteen, that had lain two nights on a mistake of two brothers' names, came for the paper that should clear him to his master, and it was made him free, and the day-book held the two nights all the same in one fair line, not knowing what we knew, because the day-book could not know: it only kept what was next. So here, standing at my window with my five heads, I understood what I had seen only from the other side of a bar of complaint: that the office was a trade, and that the shelf was the trade's leavings set by to dry.
 
-"The clerk told me you were civil to him," he said.
+Calloway came down late in the fourth hour and found two boxes open on the floor between the window and the shelf, and my sheet full and past its ruled squares. He read two of the lines before he said anything; and then he said: "You'll have the whole shelf done by Mondays, at this rate." I said I counted on the middle of the month. Then he asked the plain question, without raising it above talk: "And what's done by it?" I said that the book would know and the office nothing; that the list was true and nobody's; and that it would go back inside the first box with the office's own papers lying over it. He stood by the second shelf a moment after that, looking at the shelf as at a neighbour's fence, and then he said, quietly: "That shelf and I were never friends. I knew somewhat was in it. I did not know what." And then he went back up to his room, and did not sign my list and did not want it signed, and the arrangement stood as it had stood that morning: the window mine on Mondays, the boxes the office's, the list nobody's.
 
-"I was."
+That was the last of that Monday, and the elder clerk locked the shutters with the day-book squared, without looking at me, as if nothing had changed: which, in the office's way of accounting, was the exact truth.
 
-"He said you permitted inspection."
+It was Thursday that the week ended, of its own, and I took up the over of the kindling and went up the lane and in at the door by custom, and found the pot on and the chair laid ready, which is the way of that house. I warmed one cup and poured both. I told him of the Monday — of the mare whose minute had waited for its correction inside its own band, of the lad of fourteen whose two nights the day-book would keep forever fair and unknowing, of the 'prentice with his wanting line; and the old man asked only the three questions I felt I had come for, and they were: did I put everything back as it was found, and had I carried nothing out, and had I written anything against a man's name in the fifth head that I would not show him face to face if he asked. Yes, yes, and no. He grunted at that and let it go.
 
-"I did."
+At the cup's last sip he asked whether I meant to keep on with the Mondays. I said the window was mine on those, and nothing besides. "Keep your own paper of it," he said. "Theirs is theirs." I watched for what would come after that, and nothing came; and when I named the 'prentice line again he only turned his cup in both hands and let the room have the question, and the room was old enough to hold it without an edge. The tea got drunk to the bottom, and neither of us tried to fill the time after.
 
-"He said you kept your boundary without making it a quarrel."
-
-"I tried to."
-
-Calloway nodded. He did not sit. He stood with his hat in his hands, and his eyes moved around the room — the press, the fire, the chair, the table — and then they settled on the leaf and the ruled sheets, and then on the eight tied papers, and then on the box.
-
-"The office has considered the arrangement," he said.
-
-"Considered it how."
-
-"In the way an office considers things. By reading what it has, and asking what it needs, and looking at the man who has what it does not." He paused. "The clerk's comparison confirmed what the leaf showed. The dates agree. The marks are his. The ninth line is not. The paper from February is not in the office, not on the shelf, and not here. That is now the office's position. It is not changed from what it was before. But the office has reached a further question."
-
-"What question."
-
-"What to do about the man who has the papers."
-
-I heard him out. I did not answer immediately. The statement was not an accusation. It was not a threat. It was a statement of fact, the way a man says "the road is wet" or "the light is failing." It was simply true that the office had reached a question about me, and that the question was what to do, and that the doing of it was what Calloway was standing in my room to discuss.
-
-"The office could require the papers," he said. "It could send a man with a warrant. It could make the question a matter for the bench. The office has considered these things. The office has decided against them."
-
-"Why."
-
-"Because the papers are not the only thing the office needs. And because a warrant would not answer the question the papers raise. And because the bench does not concern itself with matters that are not crimes. The office has no evidence of a crime. Only of a discrepancy. A discrepancy is not a warrant."
-
-He paused. Then he said, in the same careful voice:
-
-"The office has decided that the man who has the papers is the man who can tell the office what the papers are. The office has decided that the man who can tell the office what the papers are is the man who has been keeping them. The office has decided that the man who has been keeping them is the man who should be asked whether he will keep them under the office's eye rather than outside it."
-
-I heard him out.
-
-"You are asking me to join the office," I said.
-
-"I am asking you whether you will permit the office to ask you that."
-
-"I am answering you now."
-
-"Yes."
-
-"I will consider it."
-
-He nodded. He did not write it down. He did not ask me to repeat it. He accepted it the way a man accepts a thing he has been told by a person he does not yet know whether to trust.
-
-"The office would not ask you to surrender the papers," he said. "The office would ask you to permit inspection whenever the office requires it. The office would ask you to make a record of what you observe, in the office's book, under the clerk's eye. The office would ask you to attend when the office requires attendance. The office would ask you to answer questions when the office asks them. The office would ask you to do these things because the office has learned that you do them already, and because the office would rather have them done with its knowledge than without it."
-
-"What would I be."
-
-"A man who works with the office. Under the office's eye. With the office's authority to ask questions and make records and stand where the office needs a man to stand. There is no name for it in Alderwick. The office has not invented names for things that did not exist before. You would be what you are. A man who observes. A man who keeps records. A man who can be sent to look at a thing and report back what he saw. The office would give you standing to do it."
-
-"What standing."
-
-"The standing of a man who is known to the office. Who is trusted by the office. Who is answerable to the office. Who is not outside it."
-
-I thought about Vale. I thought about the way he had sat in the room and said nothing and watched and decided and never explained. I thought about the way he had asked questions twice, twenty minutes apart, and said "Good" of the answerer, not the answer. I thought about the way he had kept copies and filed them openly and said nothing about them. I thought about the way he had told me that a man who has only one copy of a thing does not own it. I thought about the way he had told me to keep what I saw, what I was told, and what I concluded apart.
-
-I thought about the watch. I had signed the roll in November. I had walked the round. I had been paid by the week. The round had ended. The payment had stopped. The roll had been put away. I had not missed the payment. I had missed the purpose.
-
-"What would change," I said.
-
-"The papers would remain where they are," Calloway said. "The office would inspect them as needed. The office would make its record. The office would not take them. You would not be required to surrender them. The arrangement would be the same as the one you have now, except that it would have the office's name attached to it, and the office's authority behind it, and the office's question would be your question, and the office's answer would be your answer."
-
-"And if I refused."
-
-"Then the arrangement is the one you have now. The office will come again. The office will ask again. The office will continue to ask, because the question is not answered. The difference is that if you refuse, the office will ask as an outsider, and you will answer as an outsider, and the standing of your answer will be the standing of an outsider, which is to say that it will have no standing at all."
-
-I heard him out. The logic was sound. The pressure was real. The choice was not between joining and not joining. It was between joining and remaining outside while the office continued to investigate, with all the power that the office held and all the power that I did not.
-
-"What would I be required to do," I said.
-
-"Whatever the office requires. Look at papers. Walk the lane. Ask questions. Make records. Attend when asked. Answer when asked. There is no list. The office has no list. The office asks a man to do a thing because the man is the man who can do it, and because the office needs it done, and because the man is answerable to the office for doing it."
-
-"Who would I answer to."
-
-"Me."
-
-I looked at him. He said it without emphasis. He said it the way a man says "the door is there" or "the fire is low." It was simply true that if I joined, I would answer to Calloway, and that Calloway was the constable, and that the constable was the office, and that the office was the thing that had been asking questions since Monday and would continue to ask them.
-
-"And the papers," I said.
-
-"The papers would remain with you. The office would inspect them. The office would make its record. The office would not take them. That is the arrangement. It is the same arrangement you proposed on Wednesday. The office is simply asking whether you will make it the office's arrangement rather than your own."
-
-I thought about the eight tied papers on the lid. I thought about the marks on their backs. I thought about the ninth line with its blank margin. I thought about the February visitor. I thought about the account that Vale had written and sent. I thought about the shelf that stood bare. I thought about the book that said the shelf held what it did not. I thought about the clerk's hand. I thought about the two keys. I thought about the man who had taken the account and the man who had asked the questions and the man who had made the marks and the man who had left the blank margin, and I thought that joining the office would not tell me which of those men was the man I was looking for, and it would not tell me why the account had not come, and it would not tell me who had taken it, and it would not tell me whether the clerk's testimony was complete, and it would not tell me whether Calloway trusted me or was using me or was simply doing what an office does when it has found a man who can be useful.
-
-But it would give me access to the book. It would give me standing to ask questions I could not now ask. It would give me a place to stand that was not outside the door.
-
-And it would change the nature of the investigation. It would make it official. It would make it the office's. It would make me the office's man, and the office's question would be mine, and the office's answer would be mine, and if the office was wrong, I would be wrong with it, and if the office was right, I would be right because of it, and if the office never found the answer, I would never find it either, because the answer would be the office's and not mine.
-
-I stood up. I walked to the window. I looked out at the lane. The pump at the common. The cart on the High Street. The dog that barked once and then was quiet. Ordinary sounds. The town continued.
-
-"The office does not require an answer today," Calloway said.
-
-I turned. He was standing where I had left him, with his hat in his hands, and his face was the face of a man who had said what he had come to say and was waiting to see what would come of it.
-
-"The office requires an answer," he said, "but it does not require it today. The office has learned to wait. It has had a great deal of practice."
-
-I heard him out. I did not answer. The waiting was itself a kind of pressure, and the pressure was the point, and the point was that I understood the pressure, and that the understanding of it was the first step toward answering it, and that the answering of it would be the second step, and that the second step was not today.
-
-"The office will come again," he said.
-
-"Then come again," I said.
-
-He put on his hat. He walked to the door. He opened it. He stood in the doorway for a moment, looking out at the lane, and then he went down the step, and I shut the door.
-
-I stood in the room. The fire was low. The kettle was cold. The papers were on the table. The leaf was beside them. The clerk's ruled sheet was folded on top of the leaf. The three bundles were on the box lid. The box was in the press.
-
-I sat down. I took out my notebook. I wrote what I had seen, in order. What I had been told, in order. What I had concluded, in order. I kept them apart, the way he had taught me, because keeping them apart was the only part of the method that was mine.
-
-What I saw: Calloway standing in the room. His hat in his hands. His eyes on the papers. The office's offer. The standing of a man who is known. The standing of a man who is answerable. The standing of an outsider, which is no standing at all.
-
-What I was told: the office had considered a warrant and rejected it. The office had decided the man who had the papers was the man who could tell the office what they were. The office would not require surrender. The office would require inspection, record, attendance, and answers. I would answer to Calloway. The papers would remain. The arrangement would be the same, with the office's name attached.
-
-What I concluded: nothing yet. The offer was logical. The pressure was real. The choice was not between joining and not joining. It was between joining and remaining outside while the office continued to investigate with all its power and I continued without any. The office had learned to wait. I had learned to wait. The waiting was the pressure. The pressure was the point.
-
-I closed the notebook.
-
-I carried the box to the table and opened it. I looked at the three bundles on the lid. I looked at the uncertain paper that had no name, lying on top of everything. I thought about the offer. I thought about the standing. I thought about the man who had asked the questions in February and the man who had taken the account and the man who had made the marks and the man who had left the blank margin, and I thought that if I joined the office, I would be answerable to the man who had made the marks, and the man who had made the marks was answerable to Calloway, and Calloway was answerable to the bench, and the bench was answerable to London, and London was answerable to no one in Alderwick, and the account was not there, and the paper was not there, and the mark was not there, and the knowing of it was the not-knowing of it, and the not-knowing was the paper that was not there.
-
-The office kept a book. The book kept a mark. The mark kept a promise. The promise had not been kept. The book said the eight papers were in the office's hands. The shelf said they were not. The clerk said the ninth paper had never come. The constable said the February inquiry was separate. The man who had taken the account knew the account was not there. The constable had offered a different position. The position was standing. The standing was the question. The question was not answered. The answer would not come today.
-
-I lit the fire. I sat in the chair. I did not open the notebook again. The kettle was cold. The bowl was gone. The box was shut. The book was at the office. The marks were on the papers. The paper that was not there was not there. The office had its leaf. I had its copy. The lane was quiet. The week was not over. For now.
+At home I gave the ledger's clean sheet a head of its own, small and flat, after the office's manner: *Matters of the Alderwick office, copied out and put back entire, by my own hand, from this April.* The 'prentice stood as the first line under the heads, with his one word in the fifth: *wanting.* I closed the book and set it beside the others. The fire had sunk, and the candle had burned to its shoulder. There was no need to mark the days; the week would turn as it always did, and the shelf would wait.

@@ -185,3 +185,11 @@ But I knew that the group I had learned to read was gone. And that I would have 
 I sat in the chair until the light faded, and I did not move.
 
 I waited.
+
+John Weaver noticed the hesitation. "You don't trust him?" he asked.
+
+"I don't know him," Leon said.
+
+"That's not the same thing."
+
+"No," Leon said. "It isn't."

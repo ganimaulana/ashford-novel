@@ -21,6 +21,68 @@
 
 ## Pertanyaan Utama
 
+### Aurelius Ashcroft — FROZEN
+
+**Status:** FROZEN — CANON v1.0 (2026-09-06)
+
+**Yang telah di-freeze:**
+- Aurelius Ashcroft adalah tokoh sejarah yang benar-benar ada, hidup ~1757–1804, meninggal di London 22 Feb 1804.
+- Tinggal di Bellweather House, Bellweather Lane, Alderwick.
+- Namanya tidak tercatat dalam register properti.
+- Menandatangani Agreement (Ch40), membuat kunci (Ch96), meninggalkan surat "the lock is a record, not a door" (Ch98).
+- Bukan keeper pertama (Ch44); keeper sebelum dia pernah ada (Ch107).
+- Terhubung dengan historical communication network yang sekarang terfragmentasi/dorman.
+- Setidaknya ada satu surviving contact yang mencoba menjangkau garis Ashcroft.
+- Edmund Wren adalah witness dan confidant.
+- Eleanor Vane adalah istri.
+- **Wealthy gentleman, property owner, active antiquities/historical-object trader, collector/dealer of rare and unusual objects** — termasuk artefacts, manuscripts, historical documents, private papers, dan items with unclear provenance.
+- **Dicurigai menyimpan sejumlah besar ERC** — exact extent dan nature UNRESOLVED.
+- **Agreement adalah historical institutional/custodial arrangement**, bukan personal command dari Aurelius kepada Vale.
+- **Aurelius NOT anggota Order of Severence** — tidak ada established organizational relationship.
+
+**Yang tetap terbuka (UNRESOLVED):**
+- Hubungan genealogis spesifik antara Aurelius dan Leon.
+- Apakah Aurelius personally founded network atau hanya associated.
+- Identitas M.R., J.T., M.B.
+- Complete history network.
+- Hubungan network dengan Order of Severence.
+- Apakah Aurelius memahami full supernatural mechanism.
+- Alasan namanya tidak ada di register properti.
+- Detail kematiannya di London.
+- Apakah network memiliki knowledge tentang 00:00, Tokens, Gears.
+- Full contents surat beyond confirmed sentence.
+- Exact nature and extent of ERC holdings.
+- Full motivation untuk collecting/trading unusual objects.
+- Apakah ada benda supernatural di koleksinya.
+- What he knew about Door/Place Beneath.
+- Exact mechanism Agreement succession before custodial chain.
+- Whether Vale ever met Aurelius personally.
+
+**Deprecated/rejected:**
+- Aurelius sebagai first keeper — REJECTED.
+- Aurelius sebagai supernatural entity / being behind Door — REJECTED.
+- Aurelius sebagai confirmed father of Leon — NOT ESTABLISHED.
+- Aurelius sebagai boy in portrait/dream — NOT ESTABLISHED.
+- Aurelius sebagai omniscient architect — REJECTED.
+- Network Aurelius = Order of Severence — REJECTED.
+- Koneksi dengan deprecated Keeper/Count/Tally/Rings — REJECTED.
+- Aurelius sebagai anggota Order of Severence — REJECTED.
+- Aurelius sebagai pendiri Order of Severence — REJECTED.
+
+**Continuity check vs Mysteries 1–8:**
+- **Mystery #1 (Bell):** NO CONFLICT — Bell connected to Bellweather House/Aurelius network, not altered.
+- **Mystery #2 (00:00):** NO CONFLICT — 00:00 is operational time marker in Aurelius's Watch/Call system.
+- **Mystery #3 (Door):** NO CONFLICT — Aurelius signed Agreement, made lock; Door remains separate mystery.
+- **Mystery #4 (Place Beneath):** NO CONFLICT — Connection through Door/Agreement remains possible but unresolved.
+- **Mystery #5 (XIII Signs):** NO CONFLICT — Maker's sign connected to Aurelius as lock-maker; no established link to deprecated architecture.
+- **Mystery #6 (Nine Ranks):** NO CONFLICT — No established connection to Aurelius.
+- **Mystery #7 (Tokens):** NO CONFLICT — No established connection to Aurelius.
+- **Mystery #8 (Gear):** NO CONFLICT — Gear is communication infrastructure of Aurelius's network; not a key to Mill Door.
+
+**Kesimpulan:** Tidak ada konflik material dengan canon Mystery #1–#8.
+
+---
+
 ### Symbol Relationship (Symbol A vs. Symbol B)
 
 **Pertanyaan:**
@@ -50,7 +112,7 @@
 3. Mengapa tidak memiliki nomor rumah yang jelas?
 4. Siapa pemilik rumah ini sekarang?
 5. Apa hubungannya dengan Edwin Ashcroft?
-6. Apa hubungannya dengan Thomas Wren?
+6. Apa hubungannya dengan Edmund Wren?
 
 **Status:** [BELUM TERJAWAB]
 
@@ -83,10 +145,10 @@
 
 ---
 
-### Thomas Wren
+### Edmund Wren
 
 **Pertanyaan:**
-1. Siapa Thomas Wren?
+1. Siapa Edmund Wren?
 2. Apa hubungannya dengan Bellweather Estate?
 3. Apa signifikansi jam dinding tua yang berkaitan dengannya?
 4. Apa perannya dalam sejarah Alderwick?

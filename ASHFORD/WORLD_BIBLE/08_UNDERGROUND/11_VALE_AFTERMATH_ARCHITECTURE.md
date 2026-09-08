@@ -1,7 +1,7 @@
 ﻿# VALE AFTERMATH ARCHITECTURE
 
-**Status:** PROPOSED — long-term architecture. Phase F.
-**Date:** 2026-09-03
+**Status:** WORKING CANON / AUTHOR-APPROVED ARCHITECTURE — NOT FINAL MYSTERY FREEZE
+**Date:** 2026-09-06
 **Manuscript impact:** NONE. Chapters 1–141 untouched.
 **Governing file:** `../04_CHARACTERS/characters/25_THOMAS_VALE.md` v4.0 — that profile is authoritative on Vale himself. This file specifies only what happens to his *legacy* over the long term.
 

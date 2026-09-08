@@ -36,7 +36,7 @@
 **Yang diketahui:**
 - Bellweather House pernah ada secara historis [CANON - disebutkan di brief]
 - Ada hubungan dengan Edwin Ashcroft [PERTANYAAN TERBUKA]
-- Ada hubungan dengan Thomas Wren dan Bellweather Estate [PERTANYAAN TERBUKA]
+- Ada hubungan dengan Edmund Wren dan Bellweather Estate [PERTANYAAN TERBUKA]
 
 ---
 
@@ -50,12 +50,12 @@
 
 ---
 
-## Hubungan dengan Thomas Wren
+## Hubungan dengan Edmund Wren
 
 **Status:** [PERTANYAAN TERBUKA]
 
 **Yang diketahui:**
-- Thomas Wren berkaitan dengan Bellweather Estate
+- Edmund Wren berkaitan dengan Bellweather Estate
 - Sebuah jam dinding tua berkaitan dengan Bellweather Estate
 - [Detail: PERTANYAAN TERBUKA]
 

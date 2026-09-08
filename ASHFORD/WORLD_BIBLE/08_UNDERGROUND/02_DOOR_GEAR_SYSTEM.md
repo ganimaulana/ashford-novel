@@ -1,7 +1,7 @@
 ﻿# DOOR–GEAR–TOKEN SYSTEM — ARC 2+ STORY ENGINE
 
-**Status:** PROPOSED — ARC 2+ (not CONFIRMED, not implemented in manuscript)
-**Date:** 2026-09-03
+**Status:** WORKING CANON / AUTHOR-APPROVED ARCHITECTURE — NOT FINAL MYSTERY FREEZE
+**Date:** 2026-09-06
 **Nature:** Future-story foundation / canon architecture. All concepts herein are PROPOSED unless an existing confirmed canon statement establishes otherwise.
 
 ---
@@ -17,37 +17,360 @@ These three concepts are functionally distinct:
 | Concept | Function |
 |---------|----------|
 | **TOKEN** | Identifies, enables, or establishes a connection to a person. |
-| **GEAR** | A component of the larger supernatural mechanism that enables specific functions through a Door/Threshold. |
-| **DOOR / THRESHOLD** | The destination/interface through which a supernatural connection is established. |
+| **GEAR** | A component of the secret communication system of Aurelius's hidden network. Each Gear enables a deeper degree of communication or contact. |
+| **DOOR / THRESHOLD** | A supernatural threshold that may be related to the Gear system, but whose connection to the Gears is secondary and unresolved. |
+
+**Core Conceptual Relationship:**
+
+```
+TOKEN = who may be connected
+GEAR  = what may be done through the connection / how deeply
+DOOR  = where the connection leads (secondary relationship)
+```
+
+**Primary Purpose of the Gears:** The Nine Gears are a secret communication infrastructure of Aurelius's hidden network. Their fundamental purpose is organizational communication — allowing members, agents, or selected prospective members to communicate without relying on ordinary physical correspondence or direct meetings.
+
+**Important distinction:** The Gears are NOT primarily keys, weapons, containment devices, or mechanisms for opening Vale's Door. Vale's possession of a Gear does NOT automatically mean that the Gear opens or controls the Door he guards. Vale may possess the Gear because of his relationship to the old Aurelius network, his inherited responsibilities, or another organizational/historical reason that remains open for further investigation.
+
+**Possible deeper mystery:** The communication medium used by the Gears may contain a supernatural or metaphysical aspect that Aurelius and later members did not completely understand. This remains a POSSIBILITY, not confirmed canon. Do not currently establish that the Gears communicate with the entity behind Vale's Door, weaken the Door, cause the Bell, open Vale's Door, or that assembling all nine Gears automatically releases an entity.
 
 **Forbidden treatments:**
 - Do NOT treat Gear as ordinary magical equipment.
 - Do NOT treat Token and Gear as interchangeable.
 - Do NOT treat the Door as merely a physical locked door.
+- Do NOT treat the Gears as primarily Door-opening mechanisms.
 
-### Core Conceptual Relationship
+---
+
+## I.A. SYSTEM B — THE DOOR / CONTAINMENT
+
+**Core Concept:** The Door guarded by Vale is a containment boundary.
+
+Its fundamental purpose is to prevent something located on the other side from entering the ordinary human world.
+
+The nature, identity, origin, and true ontology of what exists behind the Door remain **UNRESOLVED.**
+
+Do NOT prematurely define the thing behind the Door as:
+- a demon,
+- a monster,
+- an alien,
+- a god,
+- a spirit,
+- a parallel-world entity,
+- a specific named supernatural being,
+- or any other final ontology.
+
+The story may initially allow characters and readers to interpret it in several ways.
+
+### Central Rule
+
+The thing behind the Door cannot simply cross into the human world under ordinary conditions.
+
+However, inability to physically cross does **NOT** mean inability to exert influence.
+
+The entity/phenomenon may exert influence from the other side of the boundary.
+
+### Early / Level-I Influence
+
+The initial manifestations should be relatively subtle and non-immediately lethal.
+
+Possible manifestations include:
+- abnormal dreams,
+- voices resembling memories,
+- sounds without identifiable sources,
+- shadows behaving incorrectly,
+- spatial inconsistencies,
+- changes in the apparent dimensions or arrangement of rooms,
+- localized temperature changes,
+- unusual environmental phenomena,
+- disturbances involving clocks or other objects,
+- abnormal animal behavior,
+- other small anomalies.
+
+These manifestations should initially remain ambiguous enough to permit rational explanations.
+
+### Escalation
+
+The influence may become progressively more dangerous if the boundary becomes increasingly stressed or the phenomenon gains deeper access.
+
+Potential later manifestations may include:
+- stronger perceptual disturbances,
+- memory interference,
+- manipulation of thought,
+- abnormal behavioral impulses,
+- direct mental influence,
+- temporary loss of agency,
+- compelled actions,
+- violence,
+- murder,
+- or other severe consequences.
+
+This is **NOT** to be treated as a rigid RPG-like level system.
+
+The progression represents increasing **DEPTH, INTENSITY, or CONSEQUENCE OF INFLUENCE.**
+
+### The Bell
+
+The Bell should be treated as a possible **SIGN / INDICATOR** that something on the other side of the Door is exerting pressure or attempting to influence the human side.
+
+**Important distinction:**
+
+**BELL IS NOT THE DOOR.**
+**BELL IS NOT THE ENTITY.**
+**BELL IS NOT THE CAUSE OF THE ANOMALIES.**
+
+Working architecture:
 
 ```
-    TOKEN
-    ↓
-establishes / permits connection
-
-    DOOR
-    ↓
-provides the interface / destination
-
-    GEAR
-    ↓
-determines what can be done through that connection
+Something behind the Door
+→ exerts pressure / attempts influence
+→ boundary manifests a warning or symptom
+→ Bell occurs
+→ anomalous phenomena may become observable.
 ```
 
-### The Foundational Principle
+The exact metaphysical mechanism by which Bell is produced remains unresolved.
 
-> "Token — who may be connected."
-> "Gear — what may be done through the connection."
-> "Door — where the connection leads."
+The Bell therefore functions narratively as a warning sign that something is active behind the boundary.
 
-This principle is a foundational reference for future Arc 2+ development.
+Do not yet establish that every anomaly must produce a Bell.
+Do not yet establish that every Bell must correspond to a physical attempt to escape.
+Do not yet establish that the Bell can only originate from Vale's Door.
+
+### Vale
+
+Vale is a guardian/custodian of the Door.
+
+His primary responsibility is **containment**: ensuring that the Door remains secure and that whatever lies beyond it does not cross into the human world.
+
+Vale does **NOT** need to understand the entire cosmology.
+
+He may know:
+- that the Door must remain sealed,
+- that certain rules must be followed,
+- that certain phenomena are dangerous,
+- that the Bell has significance,
+- and that interference with the Door is dangerous.
+
+He does **NOT** automatically know:
+- the full identity of what is behind the Door,
+- the complete origin of the Door,
+- the complete nature of Bell,
+- the full relationship between Bell and the Door,
+- the complete history of Aurelius,
+- or the complete function of the Nine Gears.
+
+### System Separation
+
+The Door is **NOT** currently confirmed to be opened by the Nine Gears.
+
+The Nine Gears belong primarily to System A — Aurelius Network / Communication.
+
+Vale may possess a Gear while also guarding the Door, but this does not establish that the Gear is a key to the Door.
+
+Likewise, the Door does not automatically explain 00:00.
+
+Do NOT establish:
+- Gear = Door key,
+- Gear assembly = Door opening,
+- 00:00 = Door activation,
+- 00:00 = supernatural trigger for the Door,
+- Bell = 00:00,
+- Bell = Call,
+- Door = Place Beneath.
+
+All such relationships remain open unless supported by manuscript evidence.
+
+### Potential Deeper Threat
+
+It remains possible that what lies beyond Vale's Door is dangerous but is **NOT** the ultimate or greatest supernatural threat in Ashford.
+
+It is also possible that the Door is only one containment boundary among a larger structure.
+
+It is further possible that assembling or activating the Nine Gears could eventually interact with a deeper mystery, but this must **NOT** be canonized at this stage.
+
+The authorial architecture should preserve the possibility that:
+- the Door contains something dangerous,
+- something deeper or more dangerous may exist beyond the immediate containment problem,
+- and neither Vale nor Aurelius necessarily understood the entire hierarchy of the threat.
+
+These are possibilities, not confirmed facts.
+
+### Conceptual Summary
+
+> "THE DOOR IS A CONTAINMENT BOUNDARY. SOMETHING ON THE OTHER SIDE CANNOT NORMALLY ENTER THE HUMAN WORLD, BUT IT CAN EXERT INFLUENCE FROM WITHIN. BELL IS A POSSIBLE WARNING OR MANIFESTATION OF THAT PRESSURE. VALE'S ROLE IS TO MAINTAIN CONTAINMENT, NOT TO EXPLAIN THE ENTIRE SUPERNATURAL SYSTEM."
+
+---
+
+## I.A.1. MILL DOOR / GEAR SEPARATION — CONTINUITY WARNING
+
+**The proposed Door–Gear–Token architecture does not retroactively establish that the Mill Stone Door is operated by the confirmed Gear.**
+
+The Mill Stone Door has no confirmed Gear interface and must remain an independent unresolved anomaly unless future canon establishes otherwise.
+
+**SUPERSEDED/RETCONNED (2026-09-06):** Earlier development canon stated that the Gear fit a depression in the Mill Door and opened it approximately one inch. This is no longer active canon. The Mill Door has no Gear socket, recess, or interface. The Gear and the Mill Door have different markings. Any future Gear–Door relationship must be discovered through evidence, not assumed from physical compatibility.
+
+Preserve the distinction between:
+- proposed future Door–Gear architecture;
+- confirmed Mill Door observations;
+- unresolved relationship between supernatural Doors generally.
+
+---
+
+## I.B. SYSTEM C — THE WATCH / CALL / 00:00
+
+**Core Concept:** 00:00 is primarily associated with an **OPERATIONAL / ORGANIZATIONAL SYSTEM** connected to Aurelius's hidden network.
+
+It is NOT currently established as a supernatural mechanism that opens, activates, weakens, or controls Vale's Door.
+
+The Call associated with 00:00 serves as an instruction, reminder, or operational signal for selected members or observers to remain alert and monitor events.
+
+The conceptual meaning is:
+
+```
+00:00
+→ Call / organizational signal
+→ Watch
+→ Observe
+→ Record
+→ Report.
+```
+
+### Purpose of the Watch
+
+The Watch exists because Aurelius's network has reason to monitor unusual events, anomalies, people, locations, or recurring phenomena.
+
+Members may be instructed to:
+- remain awake,
+- observe a specific location,
+- monitor unusual environmental conditions,
+- record unexplained phenomena,
+- pay attention to Bell or other anomalies,
+- observe specific people or buildings,
+- maintain records,
+- report findings to the network,
+- and avoid unnecessary interference.
+
+The exact operational rules remain subject to manuscript evidence.
+
+00:00 should therefore function as an important **TIME MARKER** within the organizational system, not automatically as a supernatural threshold.
+
+### Important Distinction
+
+The fact that a supernatural event sometimes occurs around 00:00 does **NOT** establish that 00:00 causes that event.
+
+The organization may have selected 00:00 precisely because:
+- certain phenomena are more likely to be observed around that period,
+- historical records indicate something important happens around that time,
+- it is an established watch protocol,
+- or Aurelius deliberately created a recurring observation window.
+
+The exact historical reason remains unresolved.
+
+### The Call
+
+The Call should be treated as an **organizational instruction or communication event** unless manuscript evidence establishes a supernatural component.
+
+It may function similarly to a standing order:
+
+"Watch."
+"Observe."
+"Record."
+"Report."
+
+The exact wording and mechanism of the Call should remain flexible until supported by the manuscript.
+
+### 00:00 and the Door
+
+Do NOT establish a direct conceptual identity between 00:00 and the Door.
+
+Do NOT establish:
+- 00:00 opens the Door,
+- 00:00 weakens the Door,
+- 00:00 activates the Door,
+- 00:00 summons the entity behind the Door,
+- 00:00 causes Bell,
+- 00:00 is the Door's activation state,
+- 00:00 is a supernatural threshold.
+
+A future connection may be discovered through the story, but it must emerge from evidence rather than being assumed.
+
+### 00:00 and Bell
+
+The Watch may instruct members to observe or record Bell events.
+
+This does NOT mean:
+`00:00 → Bell.`
+
+Instead:
+
+```
+Aurelius Network
+→ establishes Watch protocol
+→ members observe unusual phenomena
+→ Bell may be one of the phenomena being monitored.
+```
+
+The relationship is therefore primarily observational and organizational unless later evidence proves a deeper connection.
+
+### 00:00 and Gear
+
+The Call/Watch system may use the Aurelius communication network and therefore may involve the Nine Gears.
+
+However:
+- Gear is the communication medium,
+- Call is the organizational instruction,
+- Watch is the operational activity,
+- 00:00 is the associated time marker.
+
+Do not collapse these concepts into one mechanism.
+
+### Conceptual Relationships
+
+```
+SYSTEM A:
+Aurelius Network
+→ communication infrastructure
+→ Nine Gears
+→ members / agents.
+
+SYSTEM C:
+Watch / Call
+→ operational instruction
+→ 00:00
+→ observe / record / report.
+
+SYSTEM B:
+Door
+→ containment
+→ something behind boundary
+→ influence
+→ Bell / anomalies.
+```
+
+System C may observe System B through System A.
+
+That is the intended current relationship.
+
+### Historical / Mystery Function
+
+The existence of a recurring Watch at 00:00 should imply that Aurelius or his network knew enough about unusual phenomena to consider them worthy of systematic observation.
+
+This should raise questions such as:
+- What did Aurelius know?
+- What historical events led to the Watch?
+- What exactly were members expected to observe?
+- How long had the Watch existed?
+- Why 00:00?
+- Did Aurelius understand what he was observing?
+- Were the Watch records complete?
+- What happened to members who failed to follow the instructions?
+
+Do not answer these questions prematurely.
+
+### Conceptual Summary
+
+> "00:00 IS AN OPERATIONAL TIME MARKER WITHIN AURELIUS'S WATCH/CALL SYSTEM. THE CALL EXISTS TO INSTRUCT SELECTED MEMBERS TO REMAIN ALERT, OBSERVE ANOMALIES, RECORD THEIR OBSERVATIONS, AND REPORT THEM. 00:00 IS NOT CURRENTLY ESTABLISHED AS A SUPERNATURAL MECHANISM AND HAS NO CONFIRMED DIRECT CONCEPTUAL CONNECTION TO VALE'S DOOR."
 
 ---
 
@@ -64,30 +387,30 @@ Everything introduced by this task is **PROPOSED — ARC 2+**, unless an existin
 
 ## III. GEAR — CORE DESIGN
 
-Gear is composed of individual components belonging to a larger supernatural mechanism.
+Gear is composed of individual components belonging to a larger secret communication system.
 
 **Gear does NOT primarily "give Leon a power."**
 
 Instead:
 
 ```
-Gear activates or expands a FUNCTION OF THE DOOR.
+Gear activates or expands a FUNCTION OF THE NETWORK.
 ```
 
-This distinction is essential. Leon can possess a Gear without gaining an obvious personal ability. The significance of a Gear becomes apparent when it is correctly installed, aligned, or placed into the appropriate Door/Threshold mechanism.
+This distinction is essential. Leon can possess a Gear without gaining an obvious personal ability. The significance of a Gear becomes apparent when it is correctly installed, aligned, or placed into the appropriate network mechanism.
 
 ### Narrative Objective Loop
 
 ```
-Leon discovers a Door.
+Leon discovers a Gear.
 ↓
-The Door is incomplete / inactive.
+The Gear's function is incomplete / inactive.
 ↓
 Leon discovers that components are missing.
 ↓
 He encounters individual Gear.
 ↓
-Each Gear reveals another layer of the Door's function.
+Each Gear reveals another layer of the network's function.
 ↓
 Leon begins searching for additional Gear.
 ↓
@@ -132,15 +455,15 @@ Initial conceptual progression. Do NOT assign simplistic numerical labels in-wor
 
 | # | Function | Description | Narrative Purpose |
 |---|----------|-------------|-------------------|
-| 1 | **CALL** | One-way transmission of sound through the Door. Directionality mysterious at first. | First contact / first communication. |
-| 2 | **REPLY** | Two-way communication. | Dialogue with an unknown person/presence; the Door becomes a communication interface. |
-| 3 | **SIGHT** | Limited visual perception through the connection. NOT perfect surveillance (short duration, incomplete field, unclear images, unstable, distance-dependent). | Observation, discovery, revelation. |
-| 4 | **PRESENCE** | Detect the presence of a person/object/entity without seeing it (weight, pressure, awareness of occupancy, subtle distortion — never a temperature change in the Gear itself). | Detection and tension. |
-| 5 | **PASSAGE** | Limited physical transfer through the Door. Initially NOT human passage — letters, small objects, Token, small components. | The Door begins interacting with the physical world. |
-| 6 | **RECALL** | Retrieve an object previously connected/marked through the system. Strict limitations. | Retrieval; creates questions (what counts as "marked," range, interception). |
-| 7 | **THRESHOLD** | The Door becomes temporarily traversable. Human passage dangerous and consequential — NOT ordinary teleportation. | Major escalation; uncertainty, risk, consequences. |
-| 8 | **ANCHOR** | A connection remains stable for an extended period (persistent vs temporary). Creates risk: someone else may use/discover the connection; the Door becomes a liability. | Major escalation; persistent connection beyond Leon's immediate control. |
-| 9 | **UNKNOWN / UNRESOLVED** | The final function remains deliberately unresolved. | A major future mystery; may reveal earlier assumptions about the Door were incomplete. |
+| 1 | **TRANSMIT** | One-way transmission of information through the network. Directionality mysterious at first. | First contact / first communication. |
+| 2 | **RECEIVE** | Two-way communication; ability to receive a response. | Dialogue with an unknown presence; the network becomes a communication interface. |
+| 3 | **SYMBOL** | Transmission or reception of symbolic information, imagery, or equivalent non-verbal information. | Communication becomes richer; non-verbal exchange. |
+| 4 | **VISION** | Vision or remote visual information. NOT perfect surveillance (short duration, incomplete field, unclear images, unstable, distance-dependent). | Observation, discovery, revelation. |
+| 5 | **IMPRESSION** | Limited perception or exchange of sensory/informational impressions. | The other side has a shape; detection and tension. |
+| 6 | **DREAM** | Dream-based communication. | Contact reaches into sleep; personal, not general. |
+| 7 | **REACH** | Deeper contact or ability to reach a specific individual across distance. | Personal contact; not general broadcast. |
+| 8 | **ANCHOR** | Highly direct or sustained interaction; connection remains stable for extended period. | Persistent connection beyond Leon's immediate control; risk. |
+| 9 | **UNKNOWN / UNRESOLVED** | The highest or most complete form of communication/contact. Deliberately unresolved. | A major future mystery; may reveal earlier assumptions about the Gears' purpose were incomplete. |
 
 ---
 
@@ -148,46 +471,49 @@ Initial conceptual progression. Do NOT assign simplistic numerical labels in-wor
 
 The progression above is a conceptual framework, NOT a rigid game progression.
 
-Do NOT require CALL → REPLY → SIGHT → PRESENCE → PASSAGE → RECALL → THRESHOLD → ANCHOR → ??? in a perfectly predictable order.
+Do NOT require TRANSMIT → RECEIVE → SYMBOL → VISION → IMPRESSION → DREAM → REACH → ANCHOR → ??? in a perfectly predictable order.
 
 Some Gear may:
 - be discovered out of order,
 - be missing,
 - be misunderstood,
 - have partial functions,
-- work differently in different Doors,
+- work differently in different contexts,
 - require another component,
 - or appear useless until a later discovery.
 
 **Reader should think:** "What does this thing actually do?" — never "Next chapter = next Gear upgrade."
 
+The nine Gears represent increasing depth or capability of communication rather than RPG-like power levels. Do not present the nine functions as a rigid skill tree. Do not use game-like terminology.
+
 ---
 
 ## VII. GEAR NAMING
 
-Do NOT establish official numerical names (Gear One, Gear Two, etc.) except as author-side notation. In-world terminology should emerge naturally. Leon may use provisional functional names (Speaking Gear, Reply Gear, Sight Gear, Presence Gear). True names, if they exist, remain unknown until justified by the story. Different factions may use different terminology — encouraged.
+Do NOT establish official numerical names (Gear One, Gear Two, etc.) except as author-side notation. In-world terminology should emerge naturally. Leon may use provisional functional names (Transmission Gear, Reception Gear, Symbol Gear, Vision Gear). True names, if they exist, remain unknown until justified by the story. Different factions may use different terminology — encouraged.
 
 ---
 
 ## VIII. ORDER OF SEVERENCE KNOWLEDGE
 
-The Order of Severence knows **SOME** things about Gear. They do NOT possess complete knowledge of the Gear–Door system.
+The Order of Severence knows **SOME** things about Gear. They do NOT possess complete knowledge of the Gear–network system.
 
 Their knowledge is: **PARTIAL, FRAGMENTED, HISTORICAL, PRACTICAL.**
 
 They may:
 - possess one or more Gear,
-- know that certain components have specific functions,
+- know that certain components have specific communication functions,
 - recognize certain inscriptions,
-- understand fragments of Door behavior,
+- understand fragments of network behavior,
 - have historical records concerning previous users.
 
 They should NOT automatically know:
-- every Gear, Door, or Token,
+- every Gear, function, or communication stage,
 - the complete architecture,
 - the origin of the system,
-- the ultimate purpose of the Door,
+- the ultimate purpose of the Gears,
 - the meaning of every inscription.
+- whether the Gears are connected to the entity behind Vale's Door
 
 This prevents the Order from becoming an exposition machine. The Order and Leon each possess incomplete pieces of the truth.
 
@@ -216,8 +542,8 @@ Token remains distinct from Gear. Token is NOT simply another Gear.
 
 ```
 TOKEN = identity / eligibility / connection
-GEAR  = function / capability of the Door
-DOOR  = interface / destination
+GEAR  = depth / capability of network communication
+DOOR  = interface / destination (secondary relationship)
 ```
 
 A Token may allow a person to become involved with a connection without giving that person direct control over all Gear functions. This distinction must be preserved in future WORLD_BIBLE entries.
@@ -344,6 +670,11 @@ The following are recorded as OPEN / PROPOSED — do NOT resolve without author 
 10. What is the source of Leon's target-discovery dreams?
 11. How does this system relate to the XIII Signs and Ranks?
 12. Do existing confirmed canon elements (the mill door, the gear in Ch 36–47, the key, 00:00, the keeper's bell) connect to this system — and if so, how?
+13. What is the deeper metaphysical aspect of the Gears' communication medium? (POSSIBILITY, not confirmed)
+14. Do the Gears communicate with the entity behind Vale's Door? (OPEN)
+15. Do the Gears weaken the Door? (OPEN)
+16. Do the Gears cause the Bell? (OPEN)
+17. Does assembling all nine Gears automatically release an entity? (OPEN)
 
 **Continuity note:** The existing confirmed manuscript elements (the gear, the stone door beneath the mill, the key, 00:00, the bell, the chamber) share terminology with this PROPOSED system. This task does NOT retroactively redefine those confirmed elements. Their relationship to the Door–Gear–Token architecture is an OPEN QUESTION requiring future authorial design.
 
@@ -581,15 +912,17 @@ The Gear plot must NOT become: find Gear → collect Gear → final reward. Ever
 
 ---
 
-## XXXV. CANON STATUS SUMMARY (2026-09-03)
+## XXXV. CANON STATUS SUMMARY (2026-09-06)
 
 **CONFIRMED / STRUCTURAL:** Gear ≠ ARC ≠ Token; ARC is the artifact catalog; the Door is a supernatural threshold; the Sanctuary remains mysterious; Gear connects to the Door system; final complete purpose unresolved.
 
-**PROPOSED:** exactly nine principal Gear; individual Gear functions (CALL…ANCHOR, 9th unresolved); Gear visual identities; inscriptions; discovery histories; Gear-finding ARC; Token-network assistance; information-arbitrage transactions; world-expansion structure; Ancient Organization hypotheses.
+**WORKING CANON / AUTHOR-APPROVED:** Nine Gears are a secret communication infrastructure of Aurelius's hidden network. Each Gear represents a deeper degree of communication or contact. Primary purpose is organizational communication. Possible deeper metaphysical implications remain unresolved. The Gears are NOT primarily Door-opening mechanisms.
 
-**UNRESOLVED:** final consequence of assembling all nine; true Ancient Organization fate; complete Door purpose; complete Sanctuary nature; historical relationship between Gear and Ancient Organization; exact Order of Severence knowledge; final name of the Gear-finding ARC; its exact limitations; relationship of confirmed manuscript Gear (Ch 36 / Ch 129) to the nine; relationship of Ancient Organization to the nameless society.
+**PROPOSED:** exactly nine principal Gears; individual Gear functions (TRANSMIT…ANCHOR, 9th unresolved); Gear visual identities; inscriptions; discovery histories; Gear-finding ARC; Token-network assistance; information-arbitrage transactions; world-expansion structure; Ancient Organization hypotheses.
+
+**UNRESOLVED:** final consequence of assembling all nine; true Ancient Organization fate; complete Door purpose; complete Sanctuary nature; historical relationship between Gear and Ancient Organization; exact Order of Severence knowledge; final name of the Gear-finding ARC; its exact limitations; relationship of confirmed manuscript Gear (Ch 36 / Ch 129) to the nine; relationship of Ancient Organization to the nameless society; whether the Gears communicate with the entity behind Vale's Door; whether they weaken the Door; whether they cause the Bell; whether assembling all nine automatically releases an entity.
 
 ---
 
-**Status:** PROPOSED — ARC 2+. Not CONFIRMED. Not implemented in manuscript.
-**Last Updated:** 2026-09-03
+**Status:** WORKING CANON / AUTHOR-APPROVED ARCHITECTURE — NOT FINAL MYSTERY FREEZE
+**Last Updated:** 2026-09-06

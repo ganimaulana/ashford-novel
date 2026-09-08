@@ -1,397 +1,73 @@
-CHAPTER 38 — THE SPACE BENEATH
+# Chapter 38 — The Test
 
-The stones moved.
+I went to the Greyhound the next morning with the key in my pocket and a plan in my book. The constable had not asked me to solve the room; he had asked me to look at it. But I had looked, and I had found that my first certainty was not as certain as I had thought, and I wanted to know whether a second certainty would hold. The room had become a question, and the question was not whether the chair had moved, but whether I could distinguish between what I had seen and what I had assumed.
 
-Not dramatically.
+The inn stood quiet at that hour, the common room empty, the fire newly lit. The smell of old ale and damp wood hung in the air, and the floorboards creaked under my feet as I crossed to the bar. The landlord was behind it, wiping a glass that did not need wiping. He looked up as I approached, and I saw the weariness in his face—he had been carrying this weight for weeks, and he had not yet found a way to set it down.
 
-A few inches at first.
+His wife came in from the kitchen, drying her hands on her apron. She had a sharp, practical face, but her eyes were tired too. I asked them both to come up to the room with me. The landlord looked surprised, but he did not argue. His wife hesitated, then nodded. I led the way up the narrow stairs, and they followed, their footsteps heavy on the worn treads. The corridor was dim, and I noticed that the door to Room 4 had a fresh scratch on the paint, a mark I had not seen before. I did not mention it. I was not there to catalogue every mark; I was there to test a hypothesis.
 
-Enough that a farmer noticed.
+I had prepared a note beforehand, with spaces for their names and the date. I set it on the small table by the window. Then I turned to them.
 
-Then another moved.
+"I would like to try one more thing," I said. "I would like to lock the room with all of us watching, and I would like to mark the chair again, and I would like to come back in the evening and see whether anything has changed."
 
-Then another.
+The landlord nodded slowly. "What do you want me to do?"
 
-The movements did not happen every day.
+"Close the door as you usually do. Then I will check the latch. If it is not fully seated, we will close it again until it is. Then you will turn the key, and I will mark the chair, and we will all agree on what we have seen."
 
-That was what made them worse.
+He walked to the door and pulled it shut. It caught, but I pushed it gently with my hand, and it opened again. The latch had not seated. I showed him where the bolt rested against the strike instead of entering it. The wood was worn, and the bolt had a slight burr on its edge; I could feel it with my thumb. The wear was old, not recent, which meant the latch had been faulty for a long time. I pointed this out to him, and he peered at it, his brow furrowed.
 
-I began recording them.
+"I never noticed," he said.
 
-Date.
+"Neither did I," I said, "until I looked."
 
-Weather.
+"Close it again," I said. "This time, make sure the latch is fully in."
 
-Moon.
+He did. I tried the door, and it held. He turned the key, and I tried it again, and it did not open. I marked the chair with a new chalk line, drawing it carefully along the edge of the seat, and wrote the time in my book. The landlord and his wife both saw the mark. I asked them to sign the note I had prepared, confirming they had seen it.
 
-Position.
+"I do not expect you to sign anything," I said. "But I would like to be able to say that we all saw the chair in the same place."
 
-Temperature.
+The landlord took the pen and signed with a steady hand. His wife hesitated, then signed as well, her hand trembling slightly. I did not comment. I folded the note and put it in my pocket, and we went down the stairs together.
 
-Anything that might explain what I was seeing.
+I returned at eight in the evening. The inn was busier then, the common room filled with the low murmur of conversation and the clink of glasses. The landlord was behind the bar, and he looked up as I came in. I did not say anything. I went up the stairs alone, my footsteps echoing in the narrow corridor. I unlocked the door and pushed it open.
 
-Nothing obvious emerged.
+The chair was at the table. The chalk mark was undisturbed. The room was exactly as we had left it. The air was cold, and the window was still fastened, and the bed was still made. Nothing had been touched. I stood in the doorway for a moment, letting the stillness of the room settle around me, and then I went back down.
 
-Some days the stones did not move at all.
+I told the landlord. He did not smile, but his shoulders released a little, as if a knot he had been carrying had finally loosened.
 
-On others, one would be displaced by an inch or two.
+"So it was the latch," he said.
 
-Never enough to attract attention unless someone had been watching them closely.
+"The faulty latch is the strongest mundane explanation for the recent incident," I said. "The door had not been properly secured. That leaves open the possibility that a person entered and moved the chair, but the evidence does not identify one. I do not know who, or why, or whether the earlier incidents had the same cause. I know only that the room can be secured, and that when it is secured, the chair does not move."
 
-I was watching.
+He stood a moment with his hand on the bar, and I saw him take it in. He had been carrying the worry for weeks, and now he had a reason to set it down. The latch was simple, ordinary, and it explained everything that needed explaining. I did not tell him that the latch was also a kind of answer that did not answer everything. I let him have his peace.
 
-After two weeks, I marked every position on the map.
+"There was a night last year," he said, "when I found a book on the floor. I had swept the room that afternoon, and the book was on the table. In the morning it was on the floor. I thought nothing of it at the time. I thought I had left it there. But now I do not know whether I did."
 
-The points did not form a pattern.
+"Did you check the latch that night?"
 
-At least, not one I could see.
+"I did not. I did not know about the latch."
 
-I almost put the map away.
+I wrote that down. It was not evidence. It was a question I could not answer. The book might have fallen; it might have been moved. The latch could have been faulty then, too, or it might have been something else. I would never know, and I was learning to be comfortable with that.
 
-Then Marlow came by.
+I went to the constable's house in the evening and gave him my report. He lived in a modest house at the edge of the square, with a narrow garden and a door that needed painting. He took me into his study, a small room lined with books and papers, and offered me a chair by the fire. He read my report without speaking. When he finished, he looked at me.
 
-He studied the measurements without speaking.
+“What can you say happened?”
 
-"The movement isn't random."
+“The chair was at the window when I returned,” I said. “I can say that. I can say the room had not been secured as well as the landlord believed. I can say that when we closed the door carefully and engaged the latch properly, the chair did not move. I cannot say who moved it, or why, or whether the earlier incidents had the same cause.”
 
-I looked at him.
+“And what can you not say?”
 
-"What makes you say that?"
+“I cannot say that the latch explains every earlier report. I cannot identify a person who entered the room. I cannot say whether the book was moved last year, or merely left where it was found. The evidence gives me a credible explanation for the recent incident, not a history of everything that happened in the room.”
 
-He tapped the map.
+The constable was quiet for a moment.
 
-"The distances."
+“That is a good report,” he said. “You have told me where the evidence ends.”
 
-I leaned closer.
+He did not ask me to continue the case. I did not offer. The landlord had a defect he could repair, and the constable had an account that separated observation from assumption. I thanked him and walked home through the cold.
 
-"The stones aren't moving toward each other."
+At my desk, I wrote one final entry:
 
-"No."
+*The Greyhound room was tested with the door properly latched and locked. The chair remained where it had been placed. The faulty latch provides a credible explanation for the incident I observed, because the room had not been securely closed before the test. It does not establish the cause of every earlier report. No person can be identified from the evidence available. I will not pursue the earlier incidents further.*
 
-"Then what?"
+I shut the book.
 
-Marlow traced the marks with one finger.
-
-"They're returning."
-
-"Returning where?"
-
-He pointed to the old boundary.
-
-"Here."
-
-I stared at the line.
-
-The stones were not simply shifting.
-
-Each movement brought them closer to positions marked on the older map.
-
-Positions that no longer appeared on the current survey.
-
-I checked the measurements again.
-
-Then again.
-
-Marlow was right.
-
-The old boundary passed directly beneath the mill.
-
-"The mill," I said.
-
-He nodded.
-
-"We should look."
-
-We went the following morning.
-
-The mill building had been abandoned for years.
-
-Its roof had partially collapsed, and the upper windows were broken. Grass had grown through the cracks in the foundation. The old machinery inside had long since been removed, leaving only rusted brackets and empty spaces where something heavier had once stood.
-
-Behind it was a collapsed wall.
-
-Marlow stopped there.
-
-"The boundary ran through this property."
-
-"According to the old map."
-
-"Which is why someone changed it."
-
-I looked at him.
-
-"You're assuming the change was deliberate."
-
-"I'm assuming nothing."
-
-He moved a loose stone with his boot.
-
-"That's why we're here."
-
-We searched the rubble.
-
-At first we found nothing except broken masonry.
-
-Then my boot struck something beneath the stones.
-
-It made a hollow sound.
-
-I crouched and cleared away the loose earth.
-
-A flat piece of stone appeared.
-
-Then another.
-
-Together they formed part of a frame.
-
-We worked in silence.
-
-After nearly an hour, enough rubble had been removed to reveal a narrow stone door set into the ground.
-
-There was no handle.
-
-No keyhole.
-
-No visible hinge.
-
-Only the same faint mark I had seen on the boundary stones.
-
-A circle crossed by a short line.
-
-I did not touch it.
-
-Marlow crouched beside me.
-
-"That's old."
-
-"Older than the mill?"
-
-"Almost certainly."
-
-He brushed dirt from the surrounding stone.
-
-The masonry beneath the frame was different from the wall above it.
-
-Older.
-
-More carefully fitted.
-
-As though the mill had been built around something that was already there.
-
-"Can we open it?"
-
-Marlow looked at the door.
-
-"Do you want to?"
-
-I considered the question.
-
-"No."
-
-He smiled faintly.
-
-"Good."
-
-I reached into my coat.
-
-The strange gear was still there, wrapped in the square of cloth I had taken to carrying it in.
-
-I had brought it without entirely deciding why.
-
-Perhaps curiosity had made the decision for me.
-
-I unwrapped it.
-
-Marlow noticed.
-
-"What is it?"
-
-"Something I found."
-
-He looked at it, then at the frame in the ground.
-
-The metal was cold. It had been cold in my coat and it was cold in my hand, and it stayed cold while I held it.
-
-I held it several inches from the stone.
-
-Nothing.
-
-I moved it closer.
-
-Nothing.
-
-Marlow's expression changed anyway.
-
-"Put it away."
-
-I did.
-
-Neither of us spoke for several seconds.
-
-Finally he asked, "Have you tried that before?"
-
-"Yes."
-
-"Near the stones?"
-
-"Yes."
-
-"And?"
-
-"Nothing. Every time."
-
-"Under what conditions?"
-
-"All of them I could think of."
-
-That answer seemed to satisfy him more than the other one would have.
-
-We returned to the door.
-
-Marlow examined the symbol again.
-
-"This mark is repeated."
-
-"On the stones."
-
-"And somewhere else?"
-
-I hesitated.
-
-"Yes."
-
-He looked at me.
-
-"Where?"
-
-"I'd rather establish what this is before I start collecting coincidences."
-
-Marlow nodded.
-
-"Fair."
-
-We cleared more rubble from the frame.
-
-The door itself was thicker than it first appeared.
-
-There was a narrow depression near its centre.
-
-Not a keyhole.
-
-Not exactly.
-
-A shape.
-
-Long and irregular.
-
-Almost the same size as the gear.
-
-Marlow noticed it at the same time I did.
-
-He did not touch it.
-
-Neither did I.
-
-I unwrapped the gear once more.
-
-The metal was as cold as it had been.
-
-I held it near the depression.
-
-Nothing changed in my hand.
-
-For a moment, I thought I felt a faint vibration through the metal.
-
-I moved it closer.
-
-Marlow caught my wrist.
-
-"Don't."
-
-I stopped.
-
-I held still and waited for the sensation to come again.
-
-It did not.
-
-Nothing else happened.
-
-No movement.
-
-No sound.
-
-No opening.
-
-After several seconds, I lowered my hand.
-
-The gear was cold, and had never been anything else.
-
-We left the door closed.
-
-On the way back, Marlow said very little.
-
-Neither did I.
-
-That evening I spread the old map across my desk.
-
-Beside it, I placed my notes.
-
-The boundary.
-
-The stones.
-
-The door.
-
-The gear.
-
-I examined the object under the lamp.
-
-The worn marking near its centre — the one I had noted at the mill and set aside as illegible — was not illegible.
-
-A circle.
-
-And a line through it.
-
-The same symbol.
-
-I turned the gear over. The band of letters ran round the face as it had always run, saying what it had always said, and adding nothing.
-
-I wrote:
-
-The object and the boundary are connected.
-
-I stared at the sentence.
-
-Then I crossed it out.
-
-It was too certain.
-
-I rewrote it.
-
-The object carries the same mark as the boundary stones.
-
-I paused.
-
-That was better.
-
-Still incomplete.
-
-But honest.
-
-I added another line beneath it.
-
-The stones appear to be returning to positions marked on an older boundary.
-
-I stopped there.
-
-I did not write what that might mean.
-
-I did not know.
-
-That distinction mattered.
-
-A mystery did not become clearer simply because one wanted an answer.
-
-Sometimes the honest answer was simply:
-
-I don't know yet.
+The room had given me no secret. It had given me a distinction worth keeping. A locked door was not the same thing as a tested door, and a plausible explanation was not the same thing as proof. I had been asked to look, and I had looked. That was enough.

@@ -16,7 +16,7 @@
 
 ## BELL'S ANTIQUIARIAN SHOP (Arthur's)
 **Location:** High Street
-**Owner:** Arthur Edmund Bell
+**Owner:** Arthur Laurence Bell
 **Description:** Two stories; cluttered ground floor; narrow staircase to upper storage; window display of curios; smell of old paper, dust, wood polish; shelves floor to ceiling; narrow aisles
 **Arthur's role:** Antiquarian knowledge; connected to local families through artifacts
 **Key feature:** Private collection upstairs — items not shown to casual visitors

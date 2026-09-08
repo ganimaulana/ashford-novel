@@ -275,7 +275,7 @@ Alderwick/07_ANOMALIES/
 - Cautious dan methodical
 - Documents carefully
 
-### Arthur Edmund Bell
+### Arthur Laurence Bell
 
 **Role dalam underground:**
 - Historical researcher

@@ -1,60 +1,135 @@
-# Chapter 22 — The Ironmonger’s Son
+# Chapter 22 — The Weight of Paper
 
-The lamp burned at nine on Tuesday, and was carried away along the rooms in the old way, and the sound did not come; and I set it down as the sixth reading, and did not write anything beneath it, because a man that has had a rule broken once for him keeps the rule after that with his hand on it, and I had learned to keep it so.
+I came out of the Academy with the copy in my pocket and the letter beside it, and the snow was still falling, thin and steady, though the day's light had begun to fade. The constable was waiting at the gate.
 
-I slept little, for the book was under my head in the way of books that are not done with, and I was up with the grey of the Wednesday, and I stood at the window with the frost at the pane, and looked at the end of the lane, and understood what I would do with the day, because the day had come to be the sort of day a man does a thing in, and not the sort he puts a thing off in.
+He did not move when I appeared. He stood with his hands at his sides, his coat dark against the white of the lane, and he looked at me the way a man looks at something he has decided to measure. I had seen that look before—on the faces of men who kept ledgers, who counted coin, who weighed grain. He was not weighing me as a suspect. He was weighing me as a fact.
 
-I would go to the shop at the High Street, with the sign that had been renewed over an older pattern, because the buyer of the bell kept his shop there, and the son kept the sign, and I had stood across the street from that door twenty minutes in November and gone away without going in, because a question asked too soon is a question that will never be answered again. The question had been kept these ten days. The keeping had done its work, because I knew now what to ask, and a man that knows what to ask has done with the too soon of it.
+"Mr. Ashcroft," he said.
 
----
+"Sir."
 
-I went first to Margaret's, because the shop of an ironmonger is not entered out of the street by a man that has no iron to buy, and I had learned from this town that a man enters a shop by way of the town's entry to it, and not by his own.
+He turned, and I walked beside him. We went down the lane past the church, and the tower stood dark at the end of the yard, but neither of us looked at it. The snow gathered on our shoulders, and the only sound was the crunch of our boots on the frozen ground.
 
-"Crane's," said Margaret, when I had asked what I asked, which was what the town said of the shop and who went there. "The son keeps it. He is a man that keeps what his father kept, and sells what his father sold, and has not been seen to change a thing since he came to the counter, which was when the father died, the year twelve. The shop does the town's iron, and the town does the shop's custom, and there is no more said of it than that. The son is called Josiah, for the father, and the town calls him Crane's, because the town keeps the name of a shop the way it keeps the name of a house, and the sign stands for the man that stands behind it."
+"You were looking at the window," he said.
 
-"He has not been asked about the bell," I said.
+"It was open."
 
-"He has not been asked," said Margaret, "because there has been nothing to ask, and because a man is not asked about a thing he bought, when the town has agreed that the thing was sold. The sale is in the reckoning, and the reckoning is in the vestry, and the vestry is where the town puts the things it has done. You would be the first that asks, Mr. Ashcroft. I say it, because I have said the other things, and because a man that is the first at a door should know he is the first."
+"Other people saw it open."
 
----
+"They saw a window. I saw frost."
 
-The shop smelled of iron, the way such shops smell, and of the oil that keeps the iron from doing what iron does when it is left to itself, and the son stood behind the counter in his leather apron, in the posture of a man that has stood behind that counter since the year twelve and has come to stand the way the counter stands. He was perhaps five and forty, with a face that had come to look like his trade, and he looked at me the way a man looks at a customer, and not the way a man looks at a name.
+He was quiet for a few steps. Then: "When you stood at the counter, you said the window had been opened from inside, once, in the morning. Which of those did you see?"
 
-"I would ask you about a thing bought at this shop," I said. "Some years back."
+"None."
 
-"We sell by the ticket," he said. "A thing bought here has the shop's ticket on it, and the ticket says the year, because my father kept it so, and I keep it so. What is the thing."
+"Then what did you see?"
 
-"A bell."
+"The frost on the sill. The dryness of the wood. The wear on the catch." I paused. "The rest was deduction."
 
-The son stood as he had stood, and his hand rested on the counter where the hand of a man rests that has been asked a thing he was not expecting, and did not move from it.
+"And deduction can be wrong."
 
-"We do not deal in bells," he said. "A bell is a founder's work, and this shop is an ironmonger's. If you would have a bell, you go to the founder, and not to the counter."
+"Yes."
 
-"I would ask about a bell that was bought at this counter," I said, "in the year nine, of the churchwardens, by Josiah Crane, your father, for four pounds ten shillings. The entry stands in the reckoning at the vestry. I have seen it."
+"Then why say it?"
 
-The hand did not move from the counter. The face changed a little, the way a face changes when a thing comes into it that has not been there before, and the change was not of guilt, because I have seen guilt in a face by this time, and this was not it; it was the change of a man that has been handed a thing he does not know what to do with, and stands so, holding it.
+"Because I said what I was sure of and stopped. The rest I wrote down as possible."
 
-"My father bought many things," he said, at last. "He bought for the shop, and he bought for himself, and he kept his books as he kept the rest of it, and the books are mine since the year twelve, and I have looked in them, because a man looks in his father's books when he comes to them. There is no bell in the books."
+We reached the station house—a low brick building with a stovepipe and a door that opened onto the lane. He did not ask me in. He stood at the threshold, and I stood on the step, and the snow gathered on our shoulders. Inside, I could see a stove, a desk, a shelf of ledgers, a coat on a peg. A clerk's room, not a cell. The door was open, but he did not invite me across the threshold.
 
-"I am not asking after the books."
+He looked at the lane for a moment, then back at me. "The window had been open from inside. You said that. I've had the girl in my office twice. She says she opened it for air, then forgot. That matches your account. But the ledger was in the coal shed, not under the window. How did you know to look there?"
 
-"Then what are you asking," said the son, and it was not said with heat, but with the plainness of a man that has been asked a thing and would know the thing he has been asked. "I will tell you what I know, because a man that comes with the entry out of the vestry has come by the town's way, and I keep the town's way at this counter. My father bought a bell in the year nine. I did not know it until this minute, because I have looked in the books and there is no bell in the books; but the vestry says he bought it, and the vestry is the town's book, and I will not stand at my counter and say the town's book is out. My father died the year twelve, and he left the shop, and the books, and the stock, and the stock was counted, because a stock is counted when a man dies, and the counting was done by the man that does the counting for the bench, and there was no bell in the counting. That is what I know. That is the whole of what I know."
+"I didn't. I saw that it was not in the case. The case had been untouched since Monday. The dust around it was undisturbed. So it had to be somewhere else in the shop, and the coal shed was the only place where someone might put something down and forget it."
 
-"Your father kept no place but the shop."
+"And you thought of that from the dust?"
 
-"He kept the shop, and he kept the house over the yard, behind, because the yard was his, and a man keeps the yard his house stands over, and the yard has the store in it, where the heavy things lie, because the shop is for the sale and the store is for the keeping. The store was counted with the stock, because the store is the shop's, and there was no bell in the store."
+"I thought of it from the dust and the fact that the window was open for air. If you open a window for air, you might have your hands full. You might set something down and forget it."
 
-"Where is the bell."
+He nodded slowly. "The girl said she had her hands full with a bolt of cloth. She set the ledger on the coal-shed shelf and forgot it."
 
-The son looked at me then, and it was the look of a man that has been asked the thing he would ask himself, and has stood with the asking of it since the minute it was asked him.
+"Then the case is closed."
 
-"That," he said, "is what I would know, Mr. Ashcroft, because you have come and put it in my hand, and a thing put in a man's hand is a thing he carries, and I will carry this. My father bought a bell, and the bell is not in his books, nor in his stock, nor in his store, and he is dead these four years, and I am the man that came to his keeping, and I did not know the bell until you came and told me of it. You may see that I would know where it is, because a man that keeps a shop keeps it with the name of his father over the door, and I would not have the name over the door and not know what came in at it. I will look in the yard," he said, after a moment, "because the yard is mine, and a man may look in his own yard, and I will look this day, and if you will come at the evening, I will tell you what the yard has, because you have come by the town's way, and I will answer by it."
+"Mrs. Hartwell doesn't think so. She wants a name. She wants to believe someone took it."
 
----
+"She wants a story. You have the truth."
 
-I went home through the noon, and stood at my own window, and watched the lane, and did not watch it, because the thing I had set going that morning was going without me, for the first time since I came to this town, and I understood what that was, and stood with it, the way a man stands with a thing he has set going and cannot call back. I had put the question in the son's hand, and the son would carry it to the yard, and the yard would answer or not answer, and either way the shop of Crane and Son was in the matter now, and had not been in it this morning, and that is the thing a man does when he asks: he makes the town other than it was before the asking, and he is part of the otherness, and the town keeps him so.
+He looked at me again. "You don't seem interested in what the town wants."
 
-The lamp came at nine, and was carried away, and the sound did not come, and I set it down as the seventh reading, and wrote beneath it, because the day had earned the writing:
+"The town wants a thief because a thief is easier to understand than a mistake. But the truth is that someone forgot. That's not a crime."
 
-*11 Dec. At Crane's, by the town's way: the son has no bell in the books, the stock, or the store, counted at the father's death, the year twelve, by the bench's own counter. He did not know of the buying until I told him. He will look in the yard this day, and I am to hear at the evening. The bell, therefore, came in at the shop in the year nine, and was gone out of it before the year twelve, in the three years between, and the father kept the going out of it so that the son, coming to the keeping, found no bell and no book of it. The town sold the bell, and the buyer put it out of the buying before he died, and the putting out of it was done in the three years when the keys were the elder Wren's and the bell-money was going into the general account, and I do not know yet where the bell went out to, but I know now that it went out, and that the going out was kept from the son that came to the keeping, and that is the first thing in this town I have seen kept from a keeper.*
-</content>
+He was quiet for a long moment. Then: "Mrs. Hartwell wants a thief," he said. "What do I write?"
+
+"That the ledger was found in the coal shed."
+
+"And the window?"
+
+"Was opened once, from inside, in the morning."
+
+He looked at me. "By whom?"
+
+"You know by whom."
+
+He was quiet. Then: "I know what the girl will say. That is not the same."
+
+I did not answer.
+
+He looked at the lane. "The town wanted a thief. There wasn't one. That does not make the report easier."
+
+He stepped inside and left the door open. I did not follow.
+
+"I asked you here for two reasons," he said, from the doorway. "The first was the window."
+
+"And the second?"
+
+"To see whether you'd tell me more than I asked. You haven't." He paused. "Most people do. They tell me what they think I want to hear, or what they want me to believe, or what they've convinced themselves is true. You told me what you saw and what you didn't see. That is not common."
+
+He did not invite me in. He nodded once and shut the door.
+
+I walked on through the snow. The copy was still in my pocket. The letter was beside it. I had not opened either since I had left the Academy, and I did not open them now. I walked the long way, past the church, past the gate, past the end house where the rosemary stood in its pot, dark under the frost. I thought about what the constable had said. He had not praised me. He had not offered me anything. He had simply noted that I had not lied to him, and that this was unusual enough to mark.
+
+I stopped at Margaret's because the cold had come into my fingers and because I had not eaten since morning.
+
+Margaret's room was warm with bread and woodsmoke. She looked up as I came in.
+
+"Mr. Ashcroft," she said. "You have been to the Academy."
+
+"I have been to the Academy."
+
+She set a cup before me. The steam rose from it. She did not let go of the cloth.
+
+"You have found something."
+
+"I have been shown something."
+
+She looked at me. I looked at the room. At the table by the window sat a man I had not seen before. He was old, with a face that had been looking at things for a long time, and he held a paper in his hand and read it the way a man reads a thing he has read before and still does not understand. His coat was worn at the cuffs, and his hands were still, and the paper was folded and refolded so many times that the creases had begun to tear. He did not look up. He did not move. He simply read, as if the paper were a door he could not close.
+
+"Who is he," I said.
+
+"His name is Foster," she said.
+
+"Foster."
+
+"He comes once a year, in the winter. He sits at that table and reads his paper, and he asks no one anything, and no one asks him anything. I have known him for six years, and I do not know what he is looking for."
+
+"Has he always been alone?"
+
+"Always. He pays for his tea and his bread, and he reads, and he goes. Sometimes he stays an hour. Sometimes he stays until the fire burns low. But he never speaks unless spoken to, and he never speaks more than three words when he does."
+
+I drank the tea. The warmth went through my hands. I thought of the name in the copy, the name in the blank, the name that had been kept. I did not know whether Foster was looking for that name, or for another, or for nothing at all.
+
+"I have a name in my pocket," I said.
+
+"You need not tell me what it is."
+
+"I am not sure I could."
+
+She nodded. "Then keep it there. Some names are heavier than others. Some should not be spoken until you know what they weigh."
+
+I finished the tea and paid. I did not look at the man at the table again. I went out into the cold and walked home by the lane. The snow had begun to fall heavier, and the lane was quiet, and the windows of the town were lit one by one as the dark came down.
+
+I went in at my own door. I took the copy and the letter from my pocket and laid them on the table. I set them side by side, the edge of the letter even with the edge of the copy, the way I set my book square to the edge of my desk. The paper was cold, and the ink was dark and old. I traced the edge of the letter with my finger, feeling the texture of the paper, the slight roughness where it had been folded and unfolded many times.
+
+I sat with them before me. I did not open them. I had read them twice already, and I knew what was in them, and I knew that the reading of them would not change the weight of them. The name E. Hodge was there, in the margin, and the letter from the clerk's father said the copy was to be shown to any who should ask. But I did not know who had asked before me, or whether anyone would ask again.
+
+I wrote nothing. I left the papers on the table and went to bed with the snow at the pane. I did not know whether the name I carried was the one Foster wanted. I did not know whether the constable would speak to me again. For the moment, I could carry both questions.
+
+I slept.

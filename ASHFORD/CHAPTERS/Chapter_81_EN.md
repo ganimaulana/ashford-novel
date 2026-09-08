@@ -139,3 +139,5 @@ I did not. But I thought about it longer than I had thought about anything in we
 The examination was no longer anonymous. The men had names now. And soon they would have to do something together.
 
 I waited.
+
+Leon repeated several of the names silently before leaving. Elton had answered quickly. Thorne had watched Calloway's hands. Merritt had said little. Peale had looked as though he were waiting for a question that never came. The distinctions were small, but small distinctions were all he had.
