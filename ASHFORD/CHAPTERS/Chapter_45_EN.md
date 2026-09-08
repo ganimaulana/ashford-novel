@@ -1,22 +1,18 @@
-﻿CHAPTER 45 — A SECOND COPY
+﻿# Chapter 45 — The Refusal
 
-The Order gave me an assignment in the second week of April and I did it badly.
+I made a mistake in the third week of April.
 
-Not the work. The work was simple — I was to establish whether a man named Pell had been in Alderwick on a particular night in February, and he had not, and I established it in two days from the ledger of the coaching inn and the memory of a stableman.
+The constable had given me an assignment—simple enough: to determine whether a man named Pell had been in Alderwick on a particular night in February. I traced him through the coaching inn ledger and the memory of a stableman. He had not been there. I wrote my report in one copy, on a single sheet, in my own hand, and I gave it to the constable. He read it, folded it, and put it in his pocket. I walked home understanding that I no longer had any record of what I had written.
 
-What I did badly was the report.
+If the constable said next month that I had reported something else, I could not contradict him.
 
-I wrote it in one copy, on a single sheet, in my own hand, and I gave it to Crowe at the brewery, and Crowe read it and folded it and put it in his coat, and I walked home understanding that I no longer had any record of what I had told them.
+I sat with that for three days. I turned it over the way one turns a stone to see what lives beneath it. I had done the work correctly. I had answered the question. But I had not kept the answer.
 
-If Crowe said next month that I had written something else, I could not contradict him.
-
-I sat with that for three days.
-
-Then I walked to Bellweather Lane.
+I walked to Bellweather Lane on the fourth day, not knowing why I was going there. I told myself I wanted to see the old man. That was true enough.
 
 ---
 
-He was awake, which was not always the case by then. There was a fire, which was rarer still.
+He was awake, which was not always the case by then. There was a fire, which was rarer still. He looked up when I came in and said nothing for a long moment.
 
 "You have brought a face with you," he said.
 
@@ -24,9 +20,9 @@ He was awake, which was not always the case by then. There was a fire, which was
 
 "Sit down and make it slowly."
 
-I told him. I did not tell him who the report was for, and he did not ask, which at the time I took for indifference.
+I told him. I did not tell him who the report was for—I was not sure I was meant to—and he did not ask. At the time I took that for indifference.
 
-When I had finished he was quiet.
+When I had finished he was quiet. He reached for the cup beside him, took a sip, and set it down.
 
 "How many copies," he said.
 
@@ -48,11 +44,17 @@ When I had finished he was quiet.
 
 He said it flatly. Not as advice. As a measurement, the way he had said *that is early* about the age of seven.
 
+He looked at me, and his eyes were clear. He did not ask whether I had eaten, but I had learned by then that he would not ask that directly. He simply rose, slowly, and went to the kitchen. I heard him moving. He came back with a cup of tea and a slice of bread, which he set on the table beside me.
+
+"You came at the right hour," he said, and sat down again.
+
+I ate it. He watched the fire. We were quiet for a long time. That was when I began to understand that Vale's company was not always instruction. Sometimes it was simply company.
+
 ---
 
-That was the afternoon he taught me to read a map, though he would not have called it teaching.
+That afternoon he showed me how to read a map, though he would not have called it teaching.
 
-He sent me to the press for a roll of paper and I brought back four, and he spread out the second one — a district map, not of Alderwick, the linen backing gone soft at the folds.
+He sent me to the press for a roll of paper and I brought back four. He spread out the second one—a district map, not of Alderwick, the linen backing gone soft at the folds.
 
 "Where is the church," he said.
 
@@ -148,4 +150,20 @@ He looked at me with the pale, sudden clarity that came over him sometimes, the 
 
 I went away unsatisfied.
 
-I have thought since that this was also deliberate.
+---
+
+I walked home that evening with the map lesson still in my mind, and the copy lesson, and the refusal. I had not solved the problem of the report. But I had learned something about solving problems: that the answer was not always the point. The point was being able to show your work.
+
+The next morning I went to the constable and asked for the report back. He gave it to me, surprised. I copied it, word for word, in a second sheet, and I gave the copy to him and kept the original. I did not explain why. He did not ask.
+
+I wrote in my notebook that night:
+
+*The constable gave me an assignment. I did the work, but I did not keep the record. Vale taught me that a record in one hand is not a record. I have made a second copy. I will file it where it can be found.*
+
+And then, beneath it, I wrote the sentence that had been growing all week:
+
+*What I saw. What I was told. What I concluded. Keep them apart.*
+
+I had written it before, but now it meant something else. I was not writing down a lesson. I was beginning to see that Vale's way of thinking had become part of my own.
+
+I have wondered since whether that was deliberate.

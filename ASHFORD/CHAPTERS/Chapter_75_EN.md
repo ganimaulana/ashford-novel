@@ -1,93 +1,329 @@
-CHAPTER 75 — THE ORDER
+# Chapter 75 — The Order
 
-I went to the office on Tuesday morning, because Saturday had ended with the examination continuing and the constable had sent for me.
+The notice came without a time written on it. It had only a place and a sentence: *The office. Tuesday morning. Come alone.*
 
-The lane was quiet. The common was empty. The office door was open. I had been there eight times before. But I had never been there as a man who was expected to set a matter in order, and I had never been there as a man who was not answerable to the office at all.
+I arrived to find Calloway at the desk, Orme by the fireplace, and the clerk with a wooden tray before him.
 
-I stepped inside.
+Four things lay on the tray: a key, a folded paper, a watch, and a brass disc.
 
-The room was not the same. The chairs had been moved back to their usual places. The desk was clear except for a sheet of paper, a pencil, and a small wooden tray. The tray contained four objects: a key, a folded paper, a watch, and a small brass disc. The clerk was there, copying into the ledger. Calloway was there, standing by the fireplace. Orme was there, sitting in the chair opposite the desk.
+Calloway did not ask me to sit.
 
-Calloway looked up. He set the paper down. He took off his hat and set it on the desk.
+"You have seen rooms. You have read statements. Today you will decide where to begin."
 
-"You have done two tests," he said.
+He nodded toward the tray.
 
-"I have," I said.
+"One of these objects matters because of what it is. One because of where it is. One because something about it has stopped. The fourth may matter only because it is near the others."
 
-"This is not another room," he said. "This is a task. The clerk will give you four things. Each of them is out of order. You will look at them. You will tell the office which you would examine first and why. The clerk will write it. You will sign it. The record will be the office's record. The order will be yours."
+I looked at him.
 
-"What is out of order," I said.
+"Which is which?"
 
-"That is for you to find out," Calloway said.
+"You tell the office."
 
-He nodded at the clerk. The clerk turned the ledger. He placed the wooden tray in front of me.
+The clerk turned the ledger toward himself.
 
-The first object was a key. It was iron, the bow shaped like a plain ring. The bit was worn. The shaft was straight. It lay on the tray with the bow pointing toward the edge of the desk.
+I went to the tray.
 
-The second object was a folded paper. It was small, the fold worn soft. The outside was blank. It lay beneath the key.
+The key was iron, with a plain ring for a bow and a worn bit. It lay with the bow toward the edge of the desk.
 
-The third object was a watch. It was silver, the case scratched. The crystal was cracked. The hands were at half-past ten. It did not tick.
+The paper was folded twice. The outside was blank. One corner had softened from being handled. The key rested partly over it.
 
-The fourth object was a small brass disc. It was the size of a coin. It had a mark upon it — a circle with three short lines beneath it and a dot at the centre. It lay beside the watch.
+The watch was silver. The case was scratched. The crystal was cracked. Its hands showed half-past ten. It did not tick.
 
-I looked at each thing in turn. The key was the key. The folded paper was the folded paper. The watch was the watch. The brass disc was the brass disc. The tray was the tray.
+The brass disc was the size of a coin. A shallow mark had been cut into it: a circle, three short lines, and a dot at the centre.
 
-I touched the key. It was iron. The bow was cold. The bit was worn. The shaft was straight.
+I did not touch the objects.
 
-I touched the folded paper. It was soft from folding. The outside was blank. The inside was not visible.
+"May I move the tray?"
 
-I touched the watch. It was cold. The case was scratched. The crystal was cracked. The hands were at half-past ten. It did not tick.
+"No."
 
-I touched the brass disc. It was brass. The circle was cut into the face. The three lines were beneath it. The dot was at the centre. The cut was shallow.
+"May I open the paper?"
 
-I set them back in the tray. I moved the tray to the edge of the desk. I sat in the chair. I took out my notebook. I opened it to a fresh page. I wrote what I had seen, in order. What I had been told, in order. What I had concluded, in order. I kept them apart, the way Vale had taught me.
+"No."
 
-What I saw: a wooden tray containing four objects. An iron key with plain ring bow and worn bit, placed with the bow toward the desk edge. A small folded paper, blank outside, worn soft, placed beneath the key. A silver watch with scratched case and cracked crystal, hands at half-past ten, not ticking. A brass disc with a circle, three short lines beneath, and a dot at the centre, cut shallow. The tray was ordinary wood. The desk was ordinary wood. The room was ordinary.
+"May I wind the watch?"
 
-What I was told: each object was out of order. I was to tell the office which I would examine first and why. The clerk would write it. I would sign it. The record would be the office's record. The order would be mine.
+"No."
 
-What I concluded: the key was placed with the bow pointing to the edge of the tray. The folded paper was beneath it. The watch was not ticking. The brass disc lay beside the watch. I did not know whether any of these positions were deliberate or whether the tray had been moved. I could examine the key and the paper together, because they were touching. I could examine the watch and the disc separately, because they were not touching anything else. The question was which examination would tell the office the most before it told me the least.
+That narrowed the work.
 
-I closed the notebook.
+I took out my notebook.
 
-I looked at the tray. The clerk looked at me. He did not say anything. He waited.
+The clerk watched me.
 
-"The key," I said. "I would examine the key first."
+"What will you examine first?" Calloway asked.
 
-"Why," Calloway said.
+"The key."
 
-"Because it is the one thing that gives me something I can check immediately," I said. "The bow is pointing to the edge of the desk. The paper is beneath it. I do not know whether either was placed that way deliberately, but I can examine the key and the paper together before deciding what the arrangement means. The watch is simply not ticking. The disc is simply lying there. The key and the paper are the only objects that are touching. If I examine the key first, I may learn something about the paper beneath it. If I examine the paper first, I may learn nothing about the key. If I examine the watch or the disc first, I learn only that the watch is still and the disc is brass."
+"Why?"
 
-Calloway looked at the clerk. The clerk wrote quickly, the same small precise letters. He wrote: Subject chooses key first. Reason: key and paper are the only objects in contact; key's bow points to desk edge; paper lies beneath key; subject says this gives him something he can check immediately. Subject does not claim to know whether positions are deliberate. Subject says examining key first may yield information about paper; other orders would not.
+"Because it gives me a question I can answer without altering the other three."
 
-He set the pencil down. He turned the page. He looked at me.
+Calloway waited.
 
-"Sign," he said.
+"The paper is touching it. If the key has been used recently, the wear may tell me something. If it has not, the paper may have been placed beneath it deliberately. I cannot know which without looking closely. The watch may be stopped because it is unwound or broken. The disc may be relevant or may simply be an object you placed here."
 
-I signed my name at the bottom of the line.
+"Would you open the paper?"
 
-Calloway took the paper. He read it. He set it on the desk.
+"Not first."
 
-"The test is not finished," he said. "You have done what was asked. The record is made. The office will consider it."
+"Would you wind the watch?"
 
-He looked at Orme. Orme looked at the floor. He did not say anything.
+"No."
 
-"There will be another," Calloway said. "The constable will send for you."
+"Why not?"
 
-He stood up. He put on his hat. He walked to the door. He opened it. He looked out at the lane. He turned back.
+"Because either act would change the condition I was given before I had recorded it."
 
-He went out.
+The clerk wrote.
 
-The clerk looked at me. He did not say anything. He turned back to the ledger. Orme stood up. He put on his hat. He looked at me.
+I looked again at the key. The bit was more worn on one side than the other. There was a faint darkening near the bow where a thumb might have rested. It was not proof of recent use. It was simply another observation.
 
-"The office has a duty," he said. "The duty is not finished."
+I asked, "May I look at the underside of the tray?"
 
-He went out.
+Calloway shook his head.
 
-I went out.
+"No."
 
-The lane was quiet. The house was shut. I set the key in the lock and turned it. The door opened. The room was the same.
+"May I look beneath the paper without lifting it?"
 
-I did not know whether the key had been placed with intention or whether the tray had simply been jostled. I did not know whether the folded paper had been beneath the key when the clerk set it down or whether it had shifted. I did not know whether the watch was unwound or broken. I did not know whether the brass disc was connected to the other objects or whether it was there by chance. I did not know whether Calloway was testing my prioritization or testing something else. I did not know whether Orme was satisfied or whether he had not yet decided.
+"No."
 
-But I knew the examination had continued.
+"May I ask what the key opens?"
+
+"No."
+
+The answers came without irritation. They were boundaries, and the boundaries were part of the exercise whether I liked them or not.
+
+I looked at the four objects again.
+
+The watch bothered me because it was stopped.
+
+The brass disc bothered me because the mark was deliberate.
+
+The paper bothered me because it was hidden.
+
+The key bothered me because it was ordinary.
+
+I wrote those four sentences and then stopped.
+
+*Bothered* was not a useful category.
+
+I crossed it out.
+
+I wrote instead:
+
+*Watch: stopped.*
+
+*Disc: marked.*
+
+*Paper: partly covered.*
+
+*Key: worn.*
+
+That was better.
+
+"Anything else?" Calloway asked.
+
+"The position of the key is part of the evidence. So is the fact that it covers the paper."
+
+"Do you know that the position was deliberate?"
+
+"No."
+
+"Then why mention it?"
+
+"Because I would be careless if I failed to record it just because I cannot explain it."
+
+For the first time, Calloway's expression changed. Not approval. Attention.
+
+The clerk turned the ledger.
+
+"State your order."
+
+I spoke slowly.
+
+"First, examine the key without moving it. Second, record its relation to the paper. Third, examine the paper's exposed edges without opening it. Fourth, inspect the watch without winding it. Fifth, inspect the disc. Only after those observations would I decide whether any object should be handled."
+
+The clerk wrote the order exactly.
+
+For a moment the room was quiet.
+
+I looked at the tray again. The four objects had seemed to ask four different questions when I first entered. Now they seemed to ask one.
+
+What would I sacrifice by beginning here rather than there?
+
+Calloway remained by the fireplace. Orme had not moved.
+
+I said, "There is another consideration."
+
+Calloway waited.
+
+"If the paper is opened, we cannot restore the fold exactly. If the watch is wound, we cannot know whether it was already capable of running. If the disc is turned over, we change the condition in which it was given to me."
+
+"And the key?"
+
+"The key can be examined without being used."
+
+"Can it?"
+
+I looked at the bow, then the bit.
+
+"If I lift it, I change its position."
+
+"Yes."
+
+"If I leave it in place, I can still record what I can see."
+
+"Yes."
+
+"Then I should not lift it until I have a reason."
+
+The clerk's pencil moved again.
+
+I realised then that the office was not asking me to identify the important object. It was asking whether I understood that importance could be lost by the way I searched for it.
+
+That was a different problem from the rooms I had worked in before.
+
+In a room, I could walk around an object. Here, the order itself was part of the evidence.
+
+Calloway came to the table.
+
+"Imagine," he said, "that you are told the key opened a door yesterday."
+
+I waited.
+
+"You are not told which door."
+
+I looked at the key.
+
+"Then I would record that the statement exists."
+
+"Would you test the key?"
+
+"Not yet."
+
+"Why?"
+
+"Because the test would answer a different question. It would tell me whether the key opens a particular lock. It would not tell me whether it opened a door yesterday."
+
+He looked at Orme.
+
+Orme said, "Keep going."
+
+Calloway continued.
+
+"Imagine the paper contains a confession."
+
+"Then it may be important."
+
+"Would you open it?"
+
+"Not before recording the paper as it is."
+
+"Even if the confession could identify a man?"
+
+"Yes."
+
+"Even if the man might leave town?"
+
+"Yes."
+
+Calloway's expression hardened slightly.
+
+"That sounds slow."
+
+"It is slower than opening it."
+
+"And if the man leaves?"
+
+"Then I would have to accept that I chose to preserve one piece of evidence rather than pursue a possibility."
+
+There was a pause.
+
+"Would you make the same choice outside this room?"
+
+I thought about the answer.
+
+"No."
+
+"Why?"
+
+"Because outside this room I would have more information. I would know whether the paper had already been seen by someone else. I would know whether the man was actually leaving. I would know what authority I had to open it. Here I know none of those things."
+
+Calloway nodded once.
+
+"That is the answer I wanted."
+
+I did not know whether he meant the last answer or the one before it.
+
+The clerk closed the ledger.
+
+"Suppose the paper contains a name."
+
+"Then the name will still be there after I have examined the key."
+
+"Suppose the watch stopped at the time of an incident."
+
+"Then the fact that it is stopped will still be there. I would need more evidence before treating half-past ten as a time of importance."
+
+"Suppose the brass disc is an office token."
+
+"I would want to know that from the record, not from its appearance."
+
+Calloway looked at me.
+
+"And if the key opens a door?"
+
+"Then I would want to know which door before I used it."
+
+The clerk paused with his pencil above the page.
+
+Calloway nodded once.
+
+"Good. State your order."
+
+I repeated it, more slowly this time.
+
+"First, examine the key without moving it. Second, record its relation to the paper. Third, examine the paper's exposed edges without opening it. Fourth, inspect the watch without winding it. Fifth, inspect the disc. Only after those observations would I decide whether any object should be handled."
+
+The clerk wrote the order exactly.
+
+Calloway read it once.
+
+"Sign."
+
+I signed.
+
+He did not tell me whether the order was correct.
+
+Instead he asked, "What would make you change it?"
+
+"A fact I had not seen."
+
+"Good."
+
+He closed the ledger.
+
+"There will be another."
+
+That was all.
+
+Outside, the lane was wet from rain that had fallen before dawn. I walked home with the four objects still in my mind. I had expected the office to reward the cleverest answer. Instead it had made the order itself the answer.
+
+At home I wrote three headings:
+
+*What I saw.*
+
+*What I was told.*
+
+*What I chose to do first.*
+
+Under the third I wrote: *Begin where observation can increase without destroying evidence.*
+
+Then I stopped.
+
+The brass disc had been the easiest thing to ignore. That, I suspected, was precisely why I had noticed it.
+
+I did not write anything more.

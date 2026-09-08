@@ -1,751 +1,131 @@
-﻿CHAPTER 37 — THE LINE BENEATH THE TOWN
+﻿# Chapter 37 — The Worn Latch
 
-The gear remained on my desk.
+I went to the constable's house in the morning, before the town had fully stirred, and I found him at his table with a cup of tea and a paper he was not reading. He looked up when I came in, and he did not ask whether I had solved the room.
 
-I had stopped testing it every few hours.
+"Tell me what you know," he said.
 
-That, more than anything, told me how little I had learned.
+I told him: that the chair had moved, that my chalk marks remained undisturbed, that the window was fastened from inside, that I could not see how the chair had been moved without someone entering the room, and that I did not know of anyone entering while I held the key. I told him these as facts and inferences, and I distinguished between them.
 
-For two nights I had treated the thing as though patience alone might force an answer from it. I had left it beside the lamp, wrapped it in cloth, placed it against the cold stone of the windowsill, and held it in my palm until my fingers began to ache.
+"And what do you not know?" he asked.
 
-Nothing happened.
+I paused. "I do not know when the chair moved. I know only that it was at the table at midday and at the window at eight in the evening. I know that I held the key from midday until the evening, but the landlord's wife has a key, and there is a spare in the bar drawer. I do not know whether the lock was properly engaged even when the key was turned. I do not know whether the landlord's account of the sequence is exact. I do not know whether the window was truly secured in the way I assumed."
 
-At least, nothing that I could prove.
+The constable nodded slowly. "Then you know what you do not know. That is better than knowing what you think you know." He set down the cup. "Go back to the Greyhound. Ask the landlord again, but ask him differently. Ask him what he saw, not what he thinks happened. And ask his wife the same."
 
-The metal was sometimes cold.
+---
 
-Sometimes it was not.
+I went to the Greyhound at midday, when the common room was quiet and the landlord was counting the day's receipts behind the bar. He looked up as I came in, and he did not seem surprised to see me.
 
-It warmed in my hand, but so did almost everything else if I held it long enough.
+"You are back," he said.
 
-Once, shortly after midnight, I thought I felt a faint movement through its teeth.
+"I am back. I would like to ask you again about the room, but I would like to ask you the order of things, not the cause."
 
-I tested it again.
+He set down his pen and led me to the back of the room, where we could speak without being overheard.
 
-Nothing.
+"The room," he said. "What order?"
 
-I wrote the observation down anyway.
+I took out my book and prepared to write.
 
-Then I drew a line beneath it.
+"Yesterday, when did you last see the room in its ordinary state?"
 
-Unconfirmed.
+He thought. "I swept it in the afternoon, about three. I do not remember looking at it after that."
 
-I had begun to understand that there was a difference between seeing something and knowing that I had seen it.
+"At what time did you lock the door?"
 
-The distinction was becoming useful.
+"At ten, when I closed the inn. I always lock the store room at ten."
 
-It was also becoming inconvenient.
+"Did you look inside before you locked it?"
 
-I opened my notebook and turned back through the pages.
+He hesitated. "No. I lock it from the outside. I do not go in. I only know it was locked because I have the key, and I turned it."
 
-Three cases.
+"Then you did not see the chair at ten?"
 
-The Greyhound room.
+"I did not see the chair at ten. I saw it at seven this morning, when I unlocked the door, and it was at the window."
 
-Mrs. Hart's letters.
+I wrote that down. It was a small difference, but a meaningful one. The window of possible movement was not the few hours between ten and seven. It was between three in the afternoon and seven the next morning. The landlord had not seen the room for sixteen hours. He had only assumed it remained unchanged because the door had been locked.
 
-The clock on Mill Lane.
+"Who else has a key to the room?" I asked.
 
-At first, I had treated them as three separate matters because that was what they appeared to be.
+"My wife has one. The maid does not. I have a spare key in the drawer of the bar, but it is not often used."
 
-Different houses.
+"Where does your wife keep her key?"
 
-Different people.
+"On the hook in the kitchen. She uses it when she needs the room for extra linen."
 
-Different disturbances.
+"Does she ever use it without telling you?"
 
-The only common feature was that all three had been strange enough to remain in my thoughts after ordinary explanations had failed.
+He looked at me as if I had asked whether he had ever not known what his wife was doing. "I do not ask her every time she enters the room. She is my wife, not a guest. She comes and goes as she needs."
 
-But now I had begun to wonder whether I had made the wrong assumption.
+I wrote that down as well. The key was not continuously under the landlord's control. There was a second key that could be taken and returned without his knowledge.
 
-Not about the incidents.
+"Your wife," I said. "May I speak with her?"
 
-About the places.
+---
 
-I took the map from beneath the notebook.
+She was in the kitchen, a woman of perhaps forty-five, with a calm face and hands that had been at work all morning. She did not seem surprised to see me. She had heard about the room, she said, and she had heard about the book I kept.
 
-It was a modest town map, printed several years earlier and already beginning to curl at the corners. Alderwick occupied little enough of the page that I could see almost all of it without moving my hand.
+"I do not know anything about the chair," she said. "I have not been in the room for a week. I use it for linen when the house is full, but the house has not been full this week. The key is on the hook where it always is. I have not touched it."
 
-The river divided the lower part of town.
+"Does anyone else have access to the key?"
 
-High Street ran through the older centre.
+"No one. The maid does not use it. The landlord does not use it except to lock the door at night. I am the only other person, and I have not used it."
 
-The Greyhound stood near the western side.
+I thanked her and went out, and I stood in the lane with the cold on my face and the two accounts in my mind. The landlord had last seen the room at three. The wife had not used the key. The maid had no key. The spare key was in the drawer of the bar, where any man could have taken it if he had known it was there.
 
-Mrs. Hart's house was farther north.
+I went to the room and examined the lock more carefully. It was an old lock, of the kind that had been fitted when the inn was built, and the latch bolt was worn at the edge, and the strike plate showed marks where the bolt had scraped over the years. I closed the door and tried the handle. The latch caught, but not firmly. I gave the door a gentle push, and it opened again—the latch had not seated fully in the strike plate. I tried it several times, and each time, unless I closed the door with deliberate care, the latch did not fully engage. The door could be pushed open without a key, not because the lock was broken, but because the latch was worn and did not always catch.
 
-Mill Lane descended toward the older industrial ground.
+I closed it again and locked it with the key, and the bolt held. But I had learned that the door could be opened without the key if it had not been properly locked. The landlord had said he locked it at ten, but he had not looked inside. He had only turned the key. If the latch had not caught fully, the door could have been opened by anyone who knew how to lift the bolt.
 
-I marked each location with a small pencil dot.
+I went down the stairs and found the landlord behind the bar.
 
-Then I stepped back.
+"When you lock the door," I said, "do you test it afterward?"
 
-Nothing.
+He looked at me, and his face went still. "I turn the key. I do not test it."
 
-Three dots.
+"Try it now," I said. "Lock the door as you usually do, and then I will show you something."
 
-No more meaningful than three stains on a sheet of paper.
+He took the key and went up the stairs, and I followed him. He turned the key in the lock and stepped back. I took a thin piece of metal from my pocket—a tool I had carried since the morning—and inserted it into the gap between the door and the frame. I lifted the latch, and the door opened.
 
-I frowned.
+He looked at the open door, and then at me, and his face was not angry. It was tired.
 
-I moved the map closer to the lamp.
+"I did not know," he said. "I have been locking that door for three years, and I did not know it could be opened so easily."
 
-The Greyhound.
+"It cannot be opened if the bolt is fully engaged," I said. "But if it is not, the door may not be as secure as you thought. The chair may have been moved by someone who found the door unlocked, or someone who knew how to open it without the key."
 
-Hart's house.
+He stood a moment with his hand on the door, and I saw him take in the weight of it.
 
-Mill Lane.
+"I have been telling the constable that the room was locked," he said. "But I cannot prove it was locked, because I did not test the latch. I can only prove that I turned the key."
 
-I drew a line between the first and second.
+He turned to me, and his face was still.
 
-Another between the second and third.
+"Does that mean the room is not strange?"
 
-The shape was irregular.
+"It means that one of the things I thought was certain is less certain than I believed. The door may not have been locked as securely as you thought. The chair may have been moved by a person. I do not know who, or why, or whether it was the same person who moved it before. But I know that I cannot assume it was locked."
 
-Almost meaningless.
+He nodded slowly, and I saw him begin to accept it.
 
-I erased it.
+---
 
-Then I tried again.
+I went to the constable's house in the evening and told him what I had found. He heard it without interrupting, and when I had done, he sat for a moment with his hands on the table.
 
-This time I used the actual streets.
+"So the door may not have been locked," he said.
 
-The result was worse.
+"The door may not have been locked as securely as we believed. There is a difference. The lock is old, and the bolt can be lifted if the door is not fully latched. I cannot say that it was not locked. I can say that we cannot rely on the lock to prove that no one entered."
 
-I sat down.
+The constable looked at me, and I saw him weigh the answer.
 
-Perhaps I was looking for a pattern because I wanted one.
+"And the chair?"
 
-That was a dangerous habit.
+"The chair moved. I saw it move. But I do not know whether it moved because someone entered the room, or whether it moved because the room was not as secure as we thought. I have found a possibility, but I have not found an answer."
 
-A man who expects to find a pattern can make one from almost anything.
+He nodded, and I saw that he understood.
 
-I closed the notebook.
+"Then you have done what I asked," he said. "You have looked, and you have written, and you have found that one thing you thought was certain is less certain. That is more than most men can do."
 
-For several minutes I did nothing.
+---
 
-Then I opened it again.
+I went home and sat at the desk, and I wrote:
 
-There was one thing I had not done.
+*I have examined the lock of the Greyhound room. The latch bolt is worn, and the door does not always engage properly unless closed with care. The landlord believes he locks the door at ten each night, but he does not test whether the latch has caught. The chair could have been moved by someone who entered without breaking the lock—either because the door was not fully latched, or because they used the wife's key or the spare key kept in the bar. I do not know who, or why, or whether the same person moved it before. I know only that my first assumption—that the room was securely locked—was less certain than I believed. The case remains unresolved.*
 
-I had only looked at the town as it was now.
-
-I had not asked what it had looked like before.
-
-The records room at the parish office smelled of dust, damp paper, and old leather.
-
-I had been there once before, though not for anything connected to the cases.
-
-The clerk recognised me.
-
-He looked at the notebook under my arm.
-
-"Another enquiry?"
-
-"Something of the sort."
-
-He raised an eyebrow.
-
-"Police matter?"
-
-"Not yet."
-
-That seemed to satisfy him.
-
-He returned to his desk.
-
-I asked about old maps.
-
-He asked how old.
-
-"As old as you have."
-
-He laughed.
-
-"That is not particularly helpful."
-
-"Older than the present roads."
-
-"That narrows it down."
-
-He led me to a cabinet near the back wall.
-
-The drawers were marked by parish and year.
-
-I spent nearly an hour looking through them.
-
-Most were useless.
-
-Property surveys.
-
-Tax records.
-
-Land transfers.
-
-Copies of boundaries that had been redrawn so many times that the original lines had become difficult to recognise.
-
-Then I found an older survey.
-
-The paper was yellow at the edges.
-
-Several names had faded almost completely.
-
-The town was smaller.
-
-The river was drawn differently.
-
-Several roads did not exist.
-
-Others seemed to stop where they should have continued.
-
-I spread the survey beside my modern map.
-
-The difference was immediately apparent.
-
-Alderwick had not simply grown.
-
-It had been rearranged.
-
-Land had changed hands.
-
-Paths had become roads.
-
-Fields had been divided.
-
-Old properties had disappeared beneath newer ones.
-
-I traced the older roads with my finger.
-
-Then I stopped.
-
-There was a line running across the town.
-
-It did not follow the roads.
-
-It did not follow the river.
-
-It passed through fields that no longer existed and along property edges that had since been altered.
-
-I looked at my three marks.
-
-The Greyhound.
-
-Hart's house.
-
-Mill Lane.
-
-They did not sit directly upon the line.
-
-But they were close.
-
-Closer than they should have been.
-
-I found another survey.
-
-Then another.
-
-The line remained.
-
-Not always in exactly the same position.
-
-But the general shape persisted.
-
-I copied it onto a clean sheet.
-
-For the first time, the three locations seemed less random.
-
-Not connected.
-
-Not yet.
-
-But positioned.
-
-There was a difference.
-
-I was still considering it when the clerk approached.
-
-"You've been at that for a while."
-
-"So I have."
-
-"Find something?"
-
-"I don't know."
-
-He looked over my shoulder.
-
-"That?"
-
-"Do you know what it is?"
-
-He leaned closer.
-
-"Looks like a parish boundary."
-
-I looked at him.
-
-"Looks like?"
-
-He shrugged.
-
-"Old ones were always being moved."
-
-"Why?"
-
-"Land."
-
-He said it as though there could be no other answer.
-
-"Disputes?"
-
-"Usually."
-
-He pointed to one of the faded notes.
-
-"That section was altered sometime before my grandfather was born."
-
-"Do you know why?"
-
-"No."
-
-He paused.
-
-"Probably somebody wanted a few more acres."
-
-Probably.
-
-Another useful word.
-
-I copied the reference number.
-
-Then I asked where the corresponding land records were kept.
-
-The clerk pointed toward another cabinet.
-
-"You're determined."
-
-"I've been accused of worse."
-
-He smiled.
-
-"Give it back when you're finished."
-
-I returned to the records.
-
-By late afternoon I had a list of names, dates, and parcels of land.
-
-None of them explained anything.
-
-That was not disappointing.
-
-It was useful.
-
-The line appeared to have existed for a long time.
-
-It had been altered.
-
-Parts of it had been absorbed into later property divisions.
-
-Other sections had simply disappeared from modern maps.
-
-But traces remained.
-
-A stone wall here.
-
-An old ditch there.
-
-A boundary marker behind a neglected garden.
-
-I copied everything I could.
-
-Then I went to see Calloway.
-
-He was in the station when I arrived.
-
-He looked at the papers in my hand before looking at me.
-
-"You're becoming a regular visitor."
-
-"I found something."
-
-"That is usually why people come here."
-
-I placed the old survey on the desk.
-
-Calloway did not touch it.
-
-He studied it from where he stood.
-
-For several seconds, he said nothing.
-
-Then his expression changed.
-
-Only slightly.
-
-Enough for me to notice.
-
-"Where did you find that?"
-
-"The parish records."
-
-He looked at the map again.
-
-"Why were you looking?"
-
-I considered lying.
-
-I decided against it.
-
-"The three cases."
-
-His eyes moved to me.
-
-"What about them?"
-
-"The locations are close to an old boundary."
-
-He said nothing.
-
-I waited.
-
-Finally he pulled the survey toward himself.
-
-His finger followed the faded line.
-
-"This hasn't been used for decades."
-
-"So I was told."
-
-"It was changed."
-
-"Why?"
-
-"Land disputes."
-
-"You know which ones?"
-
-"Not all."
-
-"Do you know this particular boundary?"
-
-He looked at me.
-
-"I know enough."
-
-"Enough to tell me what it was?"
-
-"No."
-
-The answer came quickly.
-
-Too quickly.
-
-I leaned against the desk.
-
-"Then tell me what it wasn't."
-
-For the first time, he almost smiled.
-
-"You ask inconvenient questions."
-
-"I've noticed."
-
-He folded the survey carefully.
-
-"Some old boundaries are better left old."
-
-"That's advice."
-
-"Yes."
-
-"It isn't an answer."
-
-"No."
-
-He returned the paper.
-
-"That doesn't make it bad advice."
-
-I took the map.
-
-"Did something happen along it?"
-
-Calloway's expression hardened.
-
-"Everything happened along it, they say."
-
-Then he walked away.
-
-I stood there for a moment.
-
-It was not an answer.
-
-But it was not nothing.
-
-I returned to the line the following morning.
-
-The weather had changed.
-
-The frost had remained overnight, covering the grass in a thin white layer. The river was low, and the air had that brittle cold that made every sound seem farther away.
-
-I followed the old boundary from the western side of town.
-
-At first there was nothing remarkable.
-
-A wall.
-
-A hedge.
-
-A narrow strip of unused ground.
-
-Then the modern road interrupted it.
-
-The old line disappeared beneath the road and continued somewhere beyond.
-
-I checked the survey again.
-
-According to the old map, the boundary should have crossed near a cluster of properties.
-
-I walked behind them.
-
-There was a ditch.
-
-It was almost completely filled with leaves.
-
-Beyond it stood an old stone wall.
-
-The stones were darker than the newer masonry around them.
-
-I brushed the frost from one.
-
-No mark.
-
-I continued.
-
-The line led toward higher ground before bending back toward the valley.
-
-It was not a straight boundary.
-
-It followed the land.
-
-That made sense.
-
-Old surveyors rarely cared about making a line look elegant.
-
-They cared about where one man's field ended and another man's began.
-
-I found the first stone shortly before noon.
-
-It stood beside a broken section of wall.
-
-At first I thought it was part of the wall itself.
-
-Then I noticed its shape.
-
-It was taller than the surrounding stones.
-
-Set upright.
-
-Deliberately.
-
-I crouched beside it.
-
-There was a mark near the lower half.
-
-a circle crossed by a short line.
-
-It was not the same mark I had seen before.
-
-I stared at it.
-
-I had seen the shape before.
-
-Not clearly.
-
-Not in a place where I could confidently say it meant anything.
-
-But I remembered it.
-
-The old iron object from Mill Lane.
-
-The mark I had noticed elsewhere.
-
-And now this.
-
-I did not touch the stone.
-
-Instead, I took out my notebook.
-
-I drew the symbol as accurately as I could.
-
-Then I measured the stone.
-
-Height.
-
-Width.
-
-Position relative to the wall.
-
-Distance from the nearest road.
-
-Everything I could think of.
-
-I walked on.
-
-The old line continued.
-
-Three hundred yards farther, I found another stone.
-
-Then another.
-
-The fourth was partially buried beneath the roots of an old tree.
-
-I uncovered enough of it to confirm the shape.
-
-The same circle.
-
-The same short crossing line.
-
-Four stones.
-
-All following the old boundary.
-
-That was more difficult to dismiss.
-
-I sat beneath the tree and studied my notes.
-
-There were several possible explanations.
-
-Boundary markers.
-
-Survey stones.
-
-Property markers.
-
-Something older that had later been incorporated into the boundary.
-
-I wrote each possibility down.
-
-Then crossed out none of them.
-
-I had learned enough by now not to reward myself for being certain too early.
-
-The fourth stone stood only a few feet away.
-
-I looked at it again.
-
-There was something uncomfortable about the mark.
-
-Not because it was frightening.
-
-Because it was familiar.
-
-Familiarity suggested memory.
-
-Memory suggested context.
-
-I had neither.
-
-I reached out.
-
-My fingers touched the stone.
-
-Nothing happened.
-
-I waited.
-
-The cold pressed through my gloves.
-
-Nothing.
-
-I was about to withdraw my hand when I felt something.
-
-A vibration.
-
-So faint that I almost dismissed it.
-
-I held still.
-
-It came again.
-
-Once.
-
-A small tremor beneath my fingertips.
-
-I removed my hand.
-
-The stone remained motionless.
-
-I looked at the tree.
-
-The branches were still.
-
-I looked toward the road.
-
-No carts.
-
-No footsteps.
-
-Nothing.
-
-I touched the stone again.
-
-Nothing.
-
-I tried the other stones.
-
-Nothing.
-
-I returned to the fourth.
-
-Again, nothing.
-
-Perhaps the first sensation had been my own pulse.
-
-Perhaps the cold had made my fingers unsteady.
-
-Perhaps a cart had passed somewhere beyond the trees.
-
-I could not tell.
-
-So I wrote the only conclusion I could defend.
-
-The stones may not be markers.
-
-I stared at the sentence.
-
-Then added another.
-
-No conclusion yet.
-
-I closed the notebook.
-
-The old boundary stretched away through the frost, disappearing beneath roads, walls, houses, and years of alterations.
-
-For generations, people had built over it.
-
-Changed it.
-
-Renamed it.
-
-Forgotten it.
-
-Yet something had remained.
-
-I did not know what the line had once separated.
-
-I did not know why the stones still stood.
-
-And I certainly did not know why one of them had seemed to move beneath my hand.
-
-That was the problem.
-
-For the first time, the three cases no longer looked entirely separate.
-
-But neither did they look connected enough to explain.
-
-There was a line beneath the town.
-
-I had found it.
-
-I had not yet found out where it led.
+I shut the book and sat with the fire low. I had not solved the Greyhound. But I had learned something: that a lock can fail in a way that does not leave a mark, and that a man who trusts a lock may be wrong. I did not know whether the landlord had been mistaken, or whether he had been deceived. I knew only that the condition of the door had to be established before I could draw a conclusion about the room.

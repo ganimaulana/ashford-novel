@@ -1,54 +1,97 @@
-# Chapter 23 — The House by the Church
+# Chapter 23 — The Slight Shift
 
-The lamp burned on Thursday night at nine, and was carried away along the rooms in the old way, and no sound came along the lane; and it burned again on Friday at the same hour, and went the same way, and the sound did not come; and I set them down as the seventh and eighth readings, and wrote nothing beneath them, because the rule was holding, and a rule that holds does not want a man's opinion of it.
+I woke on the morning of the tenth with the snow still lying and the frost at the pane. The copy and the letter were on the table where I had put them the night before. I had put them side by side, the letter even with the edge of the copy, a thing I do without thinking.
 
-What I wanted was the evening answer from the High Street, and it did not come on the Thursday, nor on the Friday morning, and I understood that a yard is not searched in a day when the snow is lying in it, and that a man that has promised an answer in the evening has not promised it to the morning, and I kept my own counsel, and went about the town as a householder goes, and bought what was wanted, and heard what was going, and did neither of them as a man that is waiting.
+They were not square now.
 
-The town was beginning to talk of the season. It is the way of a town in December: the prices come out with the holly, and this year the prices were the talk, because the flour stood where Margaret had set it, and the poor-rate stood higher, and the bench had come to stand over both. I heard it at the pump and at the baker's and at the door of Margaret's: that the rate would be asked again before the year was out, and that the asking would be made by somebody that was not used to ask it, and the town did not name the bench, because it did not need to, and named the season instead, the way a town names a thing when it has agreed to name the thing beside it.
+The letter had been turned a few degrees. The copy had shifted to the left by the width of a finger.
 
-At a little after four, when the dark was coming down and the shop lights were beginning to show along the street, a boy came to my door from the High Street with the hat in his hand, and said that his master was at the yard, and would I come, because his master had found what was to be found, and what was to be found was nothing, and his master said I was to see the nothing for myself.
+I stood at the table and did not touch them. I had not moved them. The window was shut. The door was locked. The fire was out and had been out since the night.
 
-I went.
+I looked at the floor. No footprints. The hearth was clean of ash. I had no proof of anything but the angle of a letter on a table. I considered whether I had moved them without remembering. That was possible. So was a draft, a settling board, or an error in my own memory. I could not distinguish among them.
+
+I took up the letter and the copy and placed them in the drawer of my desk. I locked the drawer. I did not write what I had observed. The observation was too small to be an observation, and too large to be ignored. I let it sit in my mind the way the papers had sat on the table, not quite where they were meant to be.
 
 ---
 
-The yard of Crane and Son is behind the shop, and is entered by a passage at the side of it, with a gate at the end of the passage, and the yard lies close between the back of the shop and the wall of the next premises, and it is a yard that has been kept for iron and not for show: the rods sorted by the wall, the sheet-metal standing on edge under a penthouse, the old stock at the far end under a cover that had seen better service than the covering of iron.
+I went out to the pump for water. The snow had melted enough to clear the pump, and the morning was bright and cold. The women were at the pump in their shawls, and they were speaking of the bench and the rate and the price of coal.
 
-The son had been at it since the morning. The snow had been cleared from the far end and stood in a ridge against the wall, and the cover had been drawn back, and the old stock stood out in the cold, and the young man stood beside it with his sleeves rolled, and the breath going off him in the frost, and he did not make a speech of it.
+I stood in the line with my bucket and listened.
 
-"There is no bell," he said. "There has been no bell in this yard since before my father's death, and I have turned the whole of it, and the stock-book and the ticket-drawer, and there is no bell in any of them, and I will say that plain, because it is the plain of it."
+"The man from the bench," said one, "he was at the inn again last night. Asked the landlord which men kept the watch."
 
-"I see that you have done it," I said.
+"Asked or demanded?"
 
-"I have done it, and I have found this."
+"Asked. But he wrote it down."
 
-He had found it under the shelf at the far end, where the old stock stands, and the snow had not come at it, and the dust of the yard had come at it, and it stood out on the brick where the dust had been rubbed away: a mark in chalk, old chalk, gone the colour of the brick with the lying of it, in the shape of two figures and a stroke between them. Four, and a stroke, and a ten.
+They looked at me when they saw me look. I took my water and went home.
 
-"It was under the shelf," said the young man. "I came on it with the moving of the stock. It has been there a good while, by the look of it, and it is not my father's way to chalk a wall, nor mine. I have asked myself what it is, and I have come to nothing. I show it you because you came asking, and because it is the only thing in the yard that is not the yard's."
+I lit the fire and sat with the copy still in the drawer. I did not take it out. I had decided the night before that I would not go looking for the man at the window table, and a decision is a thing that must be kept for more than a night.
 
-Four, and ten. I stood at it the length of a breath, and I did not say what stood up in my mind at the sight of it, because a man does not give his reading to a stranger over a chalk mark in a yard, and I turned from it, and the young man had one thing more, and he brought it out of the shop at the back, and set it on the counter between us under the light.
+But I thought of the letter on the table and the angle of it. I thought of the man at the inn writing names. I put the two things together and did not make a thing of them. A man who makes a thing of two small facts finds what he is looking for, and I was not yet looking for the thing that would find me.
 
-It was a paper, folded once, gone yellow at the fold, and it had come out of the bottom of the ticket-drawer, at the back of the drawer, where a paper gets when it has been put there to be out of the way, and not to be lost. He had come on it with the turning of the drawer, and he had read it, and he had seen what it was, and he had put the drawer to again, and had waited for the evening.
+---
 
-It ran in a hand I did not know, a plain working hand, and it was dated the fourth of June, in the year ten:
+At noon I went to Margaret's for bread. The room was warm and full of the talk of the season. The man at the table by the window was not there.
 
-*One taken away as agreed, from the store, and carried to the house by the church. Paid in the paper. No bell owing.*
+The table was empty. The paper that had been on it the day before was gone. The place where the mug had stood was wiped clean.
 
-And at the foot of it, in place of a name, the sign of a cross.
+"He is gone," Margaret said from the counter. "Left this morning, before the light. He did not say where."
 
-I read it twice, and I gave it back, because it was his father's paper, and belonged to the keeping of the shop, and I had no right to the keeping of it.
+I did not say I had come to see him. "He has been coming six years. Why would he leave now?"
 
-"The house by the church," said the young man. "I have asked myself which house, and I cannot say. There is the church, and there is what stands about it, and I do not know which of it my father meant, and I do not know whose hand this is, and I will say that also, because it is the truth of it. My father kept his papers close, and the close ones went into the drawer, and I have kept the drawer since his death, and I did not know this was in it. You may take the words of it away in your book, sir, and I will keep the paper, because it is all I have of my father's hand but the sign over the door."
+Margaret set the bread on the counter. She wiped the cloth across the boards, the way she does when she is measuring her words.
 
-I took the words away in my book, and I gave him my thanks for the day, and for the telling of it, and for the keeping of the paper in the drawer; and he came to the passage door with me, and stood there a moment, and said the thing that had been standing with him since the morning.
+"He left a thing behind," she said. "Not a thing he meant to leave, I think. He was reading his paper at the table, and when he went out, the paper was left on the table. I put it aside. I thought you might come today."
 
-"He bought it, and he put it away," he said, "and the putting away was not in the books. I have kept the books since I was a boy, sir, and I know what is in them, and I know what is not. There is a thing in the trade that is kept out of the trade's paper, and my father was in it, and I was not, and I would have you know that I take that quiet. I do not take it against him. I take it as the way of the town. But I will not have it said of my yard that the thing came out of it, when it did not come out of it, and that is the whole of what I would say."
+She took a folded paper from under the counter and laid it on the board between us. It was old, folded twice, and it had been read many times. I opened it. It was not the paper he had been reading. It was a list.
 
-"It will not be said," I said. "Not by me."
+At the head of it: *Subscriptions gathered for the bell in the year six*. Below it, a column of names and sums. Beside one name, the word *returned*.
 
-I went home through the dark, with the snow underfoot, and the town settling into its Friday evening, and I wrote the day down at my own desk, with the fire low, and put the three things together as they stood, and did not make more of them than the three would bear.
+The name was Foster.
 
-The bell was bought in the year nine, and it was out of the shop before the year twelve, and the paper of the year ten says it went to the house by the church, and was paid in the paper, and no bell owing; and the money is down in the churchwardens' reckoning, and the bell is not down, and the word returned is in Arthur's book against the name of Crane; and there is, therefore, a paper that says paid, and a reckoning that says money, and a list that says returned, and the three of them stand about one bell, and do not say the same thing of it, and I do not know yet which of the three is keeping the bell's place, and which of them is keeping it from the keeper.
+I looked at it and did not say anything. I had seen the same word before, in a reading-room list from the year eight, against a different name. That list had been a subscription for parish repairs—a roof, a wall, a new lintel. It had the same handwriting, the same ink, the same column of sums. And beside a name I could not now recall, the same word: *returned*.
 
-*The house by the church. There is more than one house by the church, and more than one paper; and the hand that wrote it made a cross in place of a name, and a cross is what a man makes when he will not put his name to a thing, and must put something. I do not know whose hand it was, nor which house, nor what paper it was paid in. I know that the bell went out of the yard in the year ten, and that the going was kept from the son that came to the keeping, and that is the second time I have seen a thing kept from a keeper, and I do not know yet whether the two keepings are one keeping.*
-</content>
+"That is his paper," I said.
+
+"It is his paper," said Margaret. "He left it on the table when he went out. I do not think he meant to. I thought you should see it, because you were the man who sat at this counter with a name in your pocket, and because he is the man who came to look for the name you found."
+
+I folded the paper and gave it back to her. I did not ask to keep it. I did not ask where he had gone. I thanked her, took the bread, and went out into the cold.
+
+I walked a little way, then stopped. Daniel was coming up the lane. He saw me and raised a hand.
+
+"Leon," he said. "You look like a man who has found something he doesn't know what to do with."
+
+"Something like that."
+
+He fell into step beside me. We walked toward the church. I told him about the list, the word *returned*, the year-eight list I had seen at the reading room. He listened without interrupting.
+
+"So," he said, "you have two lists, both with the same word, but you don't know what it means."
+
+"It means the money came back. Or the man came back. Or the clerk wrote the word because he didn't know what else to write."
+
+"And you don't want to guess."
+
+"Guessing is not the same as knowing."
+
+Daniel nodded. "That's a good rule. Most people guess and call it knowing. You don't."
+
+We walked a few more steps in silence. The frost was thick on the cobbles, and our breath steamed in the cold air. Daniel kicked a loose stone and watched it skitter across the ice.
+
+"What about the name?" he said. "Hodge. You found it in the Academy copy. Foster was looking for a name. Could it be the same one?"
+
+I thought about it. "I don't know. The copy has a name in the margin, but it's old ink, and there's no explanation. Foster left a list with the word *returned* beside his own name. That doesn't tell me what he was looking for, only that he was looking for something."
+
+"Maybe that's all you need to know for now."
+
+"Maybe."
+
+We parted at the corner. I walked home the long way, past the church and past the tower. I did not look up at the louvres. I was carrying a thing heavier than the bread: the small fact of the letter on the table, and the small fact of the paper in the drawer. The two facts stood together in my mind the way the two papers had stood on the table, not quite where they were meant to be.
+
+I went in at my own door and shut it behind me. I did not open the drawer. I sat with the fire and the bread, and I wrote in my book what I had seen.
+
+*10 Dec. In the morning, the letter was shifted on the table. I had not moved it. The window and door were shut. I cannot say how it came to be shifted. At noon, Foster was gone. Margaret showed me a paper left on his table: a subscription list from the year six, with his name and the word returned. It is not the same paper as the year-eight list I copied at the reading room, but it is the same word, against the same name. He did not mean to leave it. She did not mean to show it. I do not know what to make of two things that have been shifted, and two papers that have been left, and a man who has gone, without word, on the morning after I came to the counter with a name in my pocket. I will keep the copy in the drawer. A man who looks for a name is a man who is looked at, and I have been looked at enough.*
+
+I shut the book. The snow was falling again against the glass, soft and steady. I thought of the letter on the table and the paper in the drawer and the man who had come for six years and had gone without a word. The two facts might have belonged together. They might not. I had no evidence to decide.
+
+I did not open the drawer again that night. I left it locked, and I left the question of the shifted papers where it was: unresolved, unspoken, and not yet ready to be carried further.

@@ -86,6 +86,80 @@ I looked at the door at the far end. It was closed. It was wooden. It had a hand
 
 I looked at the window. It was high. The light came through it in a rectangle on the floor. The rectangle was still.
 
+
+For the first few minutes nobody spoke.
+
+That silence was more revealing than I expected.
+
+The man with the notebook kept his pencil moving, though there was nothing before him to record except the room. The older man had stopped turning his hat. He had placed it on his knees and was watching the door. The younger man had begun tapping one boot against the floor, quietly at first, then with enough rhythm that the sound became difficult not to notice.
+
+I looked at each of them.
+
+The notebook man was trying to establish a record before he knew what the record would be.
+
+The older man was conserving himself.
+
+The younger man was waiting for someone to recognise that he was ready.
+
+None of those observations told me whether any of them would be good at the work.
+
+The younger man caught me looking.
+
+"You keep doing that," he said.
+
+"Doing what?"
+
+"Looking before you speak."
+
+"I have found it useful."
+
+He smiled without warmth. "It may be useful in here. It may also waste time."
+
+The older man looked at him.
+
+"Time is wasted by talking when there is nothing to say."
+
+The younger man gave a short laugh.
+
+The notebook man closed his book.
+
+"Do any of you know what the office wants?"
+
+"No," I said.
+
+The older man shook his head.
+
+The younger man said, "I have an idea."
+
+We looked at him.
+
+He hesitated.
+
+"If they put four men in a room, they want to see which one takes charge."
+
+The notebook man said, "That is an assumption."
+
+The younger man frowned.
+
+"It is."
+
+"It may be right," I said. "It is not established."
+
+He looked at me for a moment, then laughed once.
+
+"Fair enough."
+
+The door remained closed.
+
+We waited.
+
+When Calloway finally entered, none of us was sitting in quite the same way as before. The notebook man had his pencil ready. The older man had put his hat beside his chair. The younger man had stopped tapping his boot.
+
+Calloway noticed all three.
+
+He said nothing about them.
+
+
 The man with the notebook leaned across the table. He lowered his voice.
 
 "Do you think they are going to tell us what they are looking for," he said.

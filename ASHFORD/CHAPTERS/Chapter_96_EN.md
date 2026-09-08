@@ -94,13 +94,13 @@ I did not know what the lock was for, or why Aurelius's name was on it. But the 
 
 Ford knelt beside the table. “There is a mark on the underside,” he said. “A symbol. A circle with three lines.”
 
-I went to look. There was indeed a mark, faint but deliberate—the same symbol I had seen on the Agreement, on the documents Vale had kept. It was the mark that had first drawn me into the keeping. The lines were shallow, worn smooth by time, but the circle was clear. I traced its outline with my finger, not touching the metal itself.
+I went to look. There was indeed a mark, faint but deliberate. It was a circle crossed by three short lines. I had seen similar marks before, but I could not tell whether the resemblance was meaningful or merely the result of a common hand.
 
-“I have seen that mark before,” I said.
+“I have seen something like it before,” I said.
 
 “Where?” Bishop asked.
 
-“In papers that belonged to the man who kept the door before me.”
+“In old papers.”
 
 Ford looked at me, then at the lock. “He kept a door?”
 
@@ -126,18 +126,18 @@ The clerk wrote something in his ledger. He did not look surprised.
 
 “You may go,” he said.
 
-The clerk’s expression had not changed when I spoke Aurelius Ashcroft’s name. He had written it in his ledger as though he had known it would be there.
+The clerk wrote the name down. His expression gave me nothing. He might have expected it, or he might simply have been recording what I had said.
 
 I walked back to my room. The sun was low. The field was empty.
 
-I sat on the bed and took out the list of names from the previous task—ten names, including my own. I did not know what it meant. Aurelius Ashcroft had made the lock, and the office had placed it before me. The same symbol from the Agreement was carved into its underside. I did not know why.
+I sat on the bed and took out the list of names from the previous task—ten names, including my own. I did not know what it meant. Aurelius Ashcroft's name had appeared on the paper attached to the lock, and the office had placed the object before me. The mark beneath it resembled something I had seen elsewhere, but resemblance was not proof of a connection.
 
 The division had scattered the candidates I had come to know. Weaver and Merritt were together, but I was with strangers. Hunter was already moving toward his own task. I did not know whether I would see him again.
 
-I thought about the clerk’s face when I spoke Aurelius’s name. He had not been surprised. He had written it down as though he had been waiting for it. That was what unsettled me more than the lock itself—the office had known what they were placing before me, and they had chosen not to explain. They had simply set it in my path and waited to see what I would do.
+I thought about the lock again. Aurelius Ashcroft's name had appeared in an examination task, and I had recognised a mark that resembled something from older papers. Neither fact told me why the office had chosen the object. The clerk had given me no explanation, and I had no evidence with which to supply one. They had simply set it in my path and waited to see what I would do.
 
-I did not know what they wanted. But I knew the examination was no longer only about completing tasks. The clerk had known Aurelius's name before I spoke it. The symbol on the lock matched the one on the Agreement. The office had placed both before me without explanation.
+I did not know what they wanted. But I knew the examination was no longer only about completing tasks. The clerk had written Aurelius's name down without comment. The mark beneath the lock resembled an older mark I had seen, but the resemblance told me nothing about its origin. The office had placed the object before me without explanation.
 
-They were not testing whether I could find things. They were testing whether I would recognise them when I saw them. And whether I would understand what that recognition meant.
+Perhaps the examination was testing whether I would recognise something without pretending to understand it. I was not certain even of that.
 
 I did not know the answer to that yet. But I knew the question was now mine to carry.

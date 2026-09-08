@@ -82,6 +82,63 @@ He turned and walked away.
 
 I stood there for a moment, watching him go. I did not know whether he had tested me or simply observed me. I did not know whether he approved or disapproved. I only knew that he had asked a question I had not expected.
 
+
+By midday the grounds had settled into an uneasy quiet. Without instructions, the candidates seemed unsure what to do with their hands. A few tried to practise running along the field. Others slept. One man spent an hour copying the layout of the grounds into a notebook. The clerk ignored all of us.
+
+I went to the well and found Weaver there. He had washed the mud from his boots but not from the hem of his trousers.
+
+“Did you sleep?” he asked.
+
+“Not much.”
+
+“Neither did I.”
+
+He drew water and drank. “I keep thinking about the seven who left.”
+
+“So do I.”
+
+“Do you think they were worse than us?”
+
+I considered the question. “I don't know them well enough to say.”
+
+“That is not what I asked.”
+
+“I know.”
+
+He smiled faintly. “You answer questions as though they are reports.”
+
+“Perhaps reports are easier.”
+
+“Perhaps.”
+
+We walked along the wall after that. He pointed out small groups forming and separating. One man had attached himself to Ellison. Another had tried to speak with Merritt and had been left standing alone after Merritt walked away. Peale had spoken to three candidates and then returned to his room without eating.
+
+“You see all that?” Weaver asked.
+
+“I see people moving.”
+
+“That's the same thing.”
+
+“No. It isn't.”
+
+He looked at me. “You really don't like saying what you think.”
+
+“I say what I know.”
+
+“And the rest?”
+
+“I keep separate.”
+
+He nodded, but I could tell he did not entirely understand. I was not sure I did either.
+
+In the afternoon, the clerk finally appeared and asked for volunteers to carry firewood from the storehouse to the kitchen. Several men immediately stepped forward. Others waited to see whether it counted as examination work. The clerk said nothing about it being a test. That was enough to make some of them suspicious.
+
+I carried two armfuls. Weaver carried one. Hunter did not volunteer. He passed us once on the path and glanced at the wood, then continued walking.
+
+Later, I saw him sitting alone beneath the wall, sharpening a pencil with a small knife. I almost asked what he was writing. I did not.
+
+The day taught me little about the next task. It taught me something about the men who would face it with me. That was perhaps more useful.
+
 The rest day passed slowly. I walked the grounds, watching the other candidates. I saw three men move their chairs to sit together at the next meal. I saw another approach a group and leave again, not invited. I heard someone ask who had chosen the red gate, and the answer was met with silence. Weaver noticed that people were beginning to choose their seats based on who they trusted. Merritt ate alone despite empty places nearby. Peale shifted tables when a man began to discuss the results of the first round.
 
 I did none of those things. I simply observed.

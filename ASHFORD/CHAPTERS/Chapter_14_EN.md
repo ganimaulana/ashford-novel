@@ -1,182 +1,910 @@
-﻿# Chapter 14 — The Empty Place in the Round
+﻿Chapter 14 — The Soldiers
 
-The lamp came back at nine.
+The second note was still on my desk when Daniel arrived.
 
-I had sat with the book open and the candle burned past its ring, watching the black upper window the way a man watches a dial whose hand is late; and at the corner hour, to the minute, the light was kindled, steady, at the old height, in the window with the plank gone. It stood there a quarter of an hour, and then it moved, and went along the room as it had moved before, and was carried from the sight of the lane; and by ten the window was black again, and no bell had come, and I wrote it down in the same line with the night before, because the two nights made one fact: the sound and the light kept different hours, and when one was away the other was not away with it. Two duties. Or two hands. Or one house, ordering itself, with the town outside agreeing to hear and see neither.
+He read it without asking permission.
 
-The frost came back before the candle was out, and I watched it come, in the glass. It was the sort of frost that settled into the bones and stayed, the kind that made the poor-house fires burn lower and the bread go harder.
+Ask about the soldiers.
 
+He looked at me.
+
+“That's becoming a habit.”
+
+“What is?”
+
+“People leaving notes for you.”
+
+“I don't think it's a habit yet.”
+
+“How many does it take?”
+
+“I don't know.”
+
+“Three?”
+
+“Perhaps.”
+
+He put the paper down.
+
+“Who wrote it?”
+
+“I don't know.”
+
+“Then we're back where we started.”
+
+“No.”
+
+I folded the note.
+
+“We know what they want me to ask.”
+
+Daniel's expression changed.
+
+“And?”
+
+“And I don't know why.”
+
+He pulled out the chair.
+
+“Then let's ask.”
+
+“Who?”
+
+“The soldiers.”
+
+I looked at him.
+
+“You know where they are?”
+
+“Some of them.”
+
+“That wasn't what I asked.”
+
+“No.”
+
+He smiled.
+
+“But it's enough.”
+
+The Greyhound was quieter in the morning.
+
+Margaret was wiping the counter when we arrived.
+
+She looked at Daniel.
+
+“No.”
+
+“We haven't asked anything yet.”
+
+“I know what you're going to ask.”
+
+Daniel sat down.
+
+I remained standing.
+
+“Someone told me to ask about the soldiers.”
+
+Margaret's hand stopped.
+
+She looked at me.
+
+“Who?”
+
+“I don't know.”
+
+She resumed wiping the counter.
+
+“Then don't ask.”
+
+“Why?”
+
+“Because whoever told you knows more than you.”
+
+“That seems obvious.”
+
+“Not always.”
+
+Daniel leaned against the counter.
+
+“Are there soldiers here?”
+
+“There are always soldiers somewhere.”
+
+“Former soldiers.”
+
+“Some.”
+
+“From the war?”
+
+“Most.”
+
+“Do they meet?”
+
+Margaret sighed.
+
+“People meet.”
+
+“Where?”
+
+“The Greyhound.”
+
+Daniel smiled.
+
+“Convenient.”
+
+“Don't be clever.”
+
+He stopped smiling.
+
+Margaret looked toward the door.
+
+“There are men who came back from the war and found that the country they fought for had little use for them afterward.”
+
+I said,
+
+“That's happening everywhere.”
+
+“Yes.”
+
+“Why Alderwick?”
+
+“Because they live here.”
+
+The answer was simple.
+
+Perhaps that was why it bothered me.
+
+Daniel asked,
+
+“Are they involved with the men discussing wages?”
+
+“Some may be.”
+
+“Do they belong to the Revolutionary Army?”
+
+Margaret gave him a look.
+
+“Do you?”
+
+“No.”
+
+“Then stop giving everyone a name.”
+
+Daniel glanced at me.
+
+“She does that when she's worried.”
+
+Margaret ignored him.
+
+“Some of the men talk politics. Some talk about bread. Some talk about the war. Some talk about work.”
+
+“And some?”
+
+“Talk about leaving.”
+
+“Leaving Alderwick?”
+
+“Leaving England.”
+
+Daniel frowned.
+
+“Why?”
+
+Margaret looked at him.
+
+“Because there are places where a man can start again.”
+
+“Where?”
+
+“America.”
+
+Daniel was silent.
+
+I asked,
+
+“Have many gone?”
+
+“Enough.”
+
+“Do they send letters back?”
+
+“Sometimes.”
+
+“From where?”
+
+Margaret shook her head.
+
+“You've started sounding like a clerk.”
+
+I said nothing.
+
+She softened.
+
+“Leon, people don't become mysterious simply because their lives don't fit neatly in a book.”
+
+“I know.”
+
+“Do you?”
+
+I thought of the letter I had found in the house.
+
+Perhaps I didn't.
+
+We found one of the veterans near the south road.
+
+Daniel knew him.
+
+His name was Samuel Pike.
+
+He had been a corporal during the war and now worked repairing carts.
+
+He had one leg that did not move quite correctly.
+
+He noticed Daniel first.
+
+“Student.”
+
+“Mr. Pike.”
+
+“Still asking questions?”
+
+“Always.”
+
+Pike looked at me.
+
+“And this one?”
+
+“Leon Ashcroft.”
+
+Pike's expression changed.
+
+Only slightly.
+
+“Ashcroft.”
+
+“You know the name?”
+
+“Everyone knows the name.”
+
+That was not an answer.
+
+Daniel asked,
+
+“Were you at the meeting?”
+
+“What meeting?”
+
+“The Greyhound.”
+
+Pike laughed.
+
+“I drink at the Greyhound.”
+
+“That's not what I asked.”
+
+“No.”
+
+“Why not?”
+
+“Because I don't need a meeting to know my wages are poor.”
+
+Daniel smiled.
+
+Pike didn't.
+
+“You've never had to live on a soldier's pay.”
+
+“No.”
+
+“You've never come home after years away and found that the price of bread has risen while the value of your work has fallen.”
+
+“No.”
+
+“You've never had a man tell you that your service was appreciated while asking whether you'd accept half the wage you were earning before you left.”
+
+Daniel stopped smiling.
+
+“No.”
+
+Pike adjusted the strap on his shoulder.
+
+“Then don't tell me what I should be angry about.”
+
+“I wasn't.”
+
+“Good.”
+
+I said,
+
+“Do the men want to leave?”
+
+Pike looked at me.
+
+“Some.”
+
+“Why?”
+
+“Because they think there's nothing here for them.”
+
+“And you?”
+
+He looked down the road.
+
+“I think every place looks better when you're not standing in it.”
+
+Daniel laughed quietly.
+
+Pike almost smiled.
+
+Then I asked,
+
+“Have you heard of the Revolutionary Army?”
+
+His expression became blank.
+
+“Who told you that?”
+
+“Someone.”
+
+“That isn't an answer.”
+
+“No.”
+
+Pike studied me.
+
+“People use names when they want to frighten other people.”
+
+“Is it a real group?”
+
+“Depends what you mean by real.”
+
+Daniel looked at me.
+
+I recognised the phrase.
+
+“Do they have meetings?”
+
+“Probably.”
+
+“Leaders?”
+
+“Probably.”
+
+“Plans?”
+
+Pike laughed.
+
+“Everyone has plans.”
+
+“Violence?”
+
+His laughter disappeared.
+
+“Some people talk about it.”
+
+“And you?”
+
+“I fought for six years.”
+
+He tapped his bad leg.
+
+“I've had enough of violence.”
+
+That answer was more convincing than anything else he could have said.
 ---
 
-## Saturday morning, 30 November
+We walked back toward the centre.
 
-The watch met at the constable's door at ten, because Saturday was the day appointed for the reading of the roll, and every man's portion of the town given him in his hand. I had signed the paper six days before to be known; this was the first day of being known.
+Daniel was unusually quiet.
 
-There were six of us for the whole of Bellweather Lane and the end of High Street: the constable, who read; Michael, who stood forward as if the reading were a thing done at him; the verger, whose part was the church and the churchyard wall; two men I did not know, farmers out of the north end, come in with mud on their boots and the look of men who had been told London was coming up the road; and myself. And Hobbs, who was not there.
+Finally he said,
 
-"Your round," said the constable, reading from the sheet, and he said it flat, the way a man says a thing he has said to every man before you: "the lane, from your own door to the corner of the mill-yard gate, Saturday nights, ten to twelve. You keep the book at the watch-house door when you come in. If you see a meeting, you do not go into it; you come and tell me. If you see a light where no one lives, you note it and pass. Those are your orders."
+“Pike isn't with them.”
 
-"Where no one lives," I said.
+“You sound certain.”
 
-"It is what is written," said the constable. "It was written before you signed. If you had a quarrel with the wording you should have had it at the pump."
+“I know him.”
 
-I took the paper. It had my name on it, and my door, and the corner; and I understood, standing there, what Daniel had told me at the post office: that a name on the list is an address, and that an address is a thing given both ways. I had signed to be on the map; here was the map, in my hand, with my piece of it marked out, and the piece marked out for me was the end of the lane with the house on it.
+“That doesn't mean he isn't.”
 
-Michael looked across at me, satisfied, as at a man come over to his side; and the verger looked at me, not satisfied nor unsatisfied, but the way he looks at weather.
+Daniel looked at me.
 
-"Hobbs is not here," I said.
+“You really think everyone is hiding something.”
 
-"Hobbs missed last night also," said the constable, and folded the sheet. "He is old, and poor-house men come and go by their own hour. I do not keep the town's roll to answer for one old soldier's legs. If he comes, he comes. If he does not, his name is on the paper and that is enough for the paper."
+“No.”
 
+“Then why do you ask questions like that?”
+
+“Because people keep giving me reasons.”
+
+He smiled faintly.
+
+“Fair.”
+
+We passed the church.
+
+The doors were open.
+
+A group of parishioners were carrying sacks inside.
+
+I stopped.
+
+“What are those?”
+
+“Flour.”
+
+“For the poor.”
+
+Daniel looked at the sacks.
+
+“Some of it.”
+
+“What does that mean?”
+
+“It means the church helps.”
+
+“But?”
+
+“But people still go hungry.”
+
+I watched the men carry the sacks.
+
+One of them was a veteran.
+
+He moved slowly.
+
+Daniel said,
+
+“This is what politics looks like here.”
+
+I looked at him.
+
+“Flour?”
+
+“Flour. Wages. Rent. Work. Who owns the mill. Who gets contracts. Who gets heard.”
+
+He nodded toward the church.
+
+“And who gets helped.”
+
+I understood.
+
+Not completely.
+
+Enough.
 ---
 
-I went from the constable's to the poor-house, because Hobbs had said a thing about a rope that had not left my head since the round, and the Thursday night had been a night with the bell at the corner and a foot overhead, and I wanted to know whether he had heard it; and a man who has been fife hears things in the dark that other men's ears refuse.
+That afternoon we went to Arthur.
 
-The poor-house door stood as it had stood when I saw him at it, but it was shut, and the window had no face in it. I knocked, and the keeper came, a slow man with a cloth over his arm, and when I asked he said Hobbs had not come in Thursday night, nor since.
+He was repairing the spine of an old book.
 
-"He comes and goes," said the keeper. "There is no hour set on him. He was on your watch, was he not, Thursday? He went out from it, and that is the way of it."
+When Daniel mentioned the soldiers, Arthur continued working.
 
-"Does he go out so, and stay?"
+“Soldiers?”
 
-"He goes out so, and stays," said the keeper, without any trouble at all in his face, "and then he comes. There is a bench there." He nodded at the window. "His chair is at it. You may see the chair is at it, and while the chair is at the window I keep no concern. When the chair is away, then I keep some."
+“Former soldiers.”
 
-I looked. The chair was turned to the window, drawn close, the way a man sets it who means to watch; and on the sill inside was his mug, with what had been drink dried at the bottom of it. So he had sat there, looking out toward the lane's end, with his drink going cold on the sill, and then he had gone out, and the chair had kept the watching since.
+“There are many.”
 
-I did not ask any more. The keeper had no alarm, and alarm is the one thing a poor-house keeps carefully; where there is none, there is nothing spent to make it.
+“Some are involved in politics.”
 
-But as I turned to go, the keeper said one more thing.
+Arthur looked up.
 
-"He left this, sir. Thursday morning, before he went. Said to give it to the watchman when the watchman came asking." He reached into his pocket and brought out a small brass button, worn smooth at the edges, the sort the militia kept before the reforms. The crown on it was half-gone. "He knew you would come asking, Mr. Ashcroft."
+“Everyone is involved in politics.”
 
-I took the button. It lay in my palm with the weight of more than brass. A man who has nothing to keep keeps what he was, and Hobbs had kept this, and now he had given it away. That told me more than any words: he had not gone by accident. He had gone by choice, and the choice wanted me to know it.
+“Even you?”
 
-I went away with the button in my pocket and the knowledge that Hobbs had left deliberately, like a man who knew where he was going.
+“Especially me.”
 
+Daniel smiled.
+
+Arthur returned to the book.
+
+“The mistake is thinking politics only happens in Parliament.”
+
+“Where does it happen?”
+
+“Everywhere.”
+
+He pressed the leather down.
+
+“A landowner decides who rents his field.”
+
+“Politics.”
+
+“A merchant decides which worker he dismisses.”
+
+“Politics.”
+
+“A churchwarden decides where charity goes.”
+
+“Politics.”
+
+“A constable decides which crowd to disperse.”
+
+“Politics.”
+
+“An old bookseller refuses to join a watch.”
+
+Daniel glanced at me.
+
+Arthur noticed.
+
+“That may be politics.”
+
+I asked,
+
+“Do you know the soldiers?”
+
+“Some.”
+
+“Do you know the Revolutionary Army?”
+
+Arthur's knife stopped.
+
+“I know the name.”
+
+“Nothing more?”
+
+“Enough.”
+
+“What does that mean?”
+
+“It means I know better than to repeat a name simply because someone else has.”
+
+Daniel leaned against the counter.
+
+“What about the Night Lantern?”
+
+Arthur looked at him.
+
+“Who told you that name?”
+
+“No one.”
+
+“That answer is becoming popular.”
+
+Arthur set the knife down.
+
+“They watch the streets.”
+
+“So you know them?”
+
+“No.”
+
+“But you know what they do.”
+
+“People who work at night see things.”
+
+“That isn't the same.”
+
+“No.”
+
+Arthur looked at me.
+
+“Leon, there is an important difference between knowing that a thing exists and knowing what it is.”
+
+I thought of those who searched the records.
+
+“And between knowing what it is and knowing why it exists.”
+
+Arthur nodded.
+
+“Now you're learning.”
+
+On the way home, Daniel stopped outside a newspaper office.
+
+A fresh sheet had been posted to the wall.
+
+The headline concerned labour disturbances in another town.
+
+Daniel read it.
+
+Then he said,
+
+“This is how it starts.”
+
+“How?”
+
+“People read about something happening somewhere else.”
+
+“And?”
+
+“They decide it could happen here.”
+
+“Could it?”
+
+“Yes.”
+
+“Will it?”
+
+“I don't know.”
+
+We continued walking.
+
+After a while Daniel said,
+
+“Do you know what I think?”
+
+“No.”
+
+“I think Alderwick is frightened.”
+
+“Of what?”
+
+“Change.”
+
+I looked at the houses around us.
+
+“They've survived wars.”
+
+“That doesn't mean they like them.”
+
+“They survived famine.”
+
+“That doesn't mean they want another.”
+
+“They've survived governments.”
+
+“That,” Daniel said, “is what they're most worried about.”
+
+I laughed.
+
+He smiled.
+
+Then we saw the man with the lantern.
+
+He was standing across the street.
+
+The same man.
+
+Plain coat.
+
+Dark cap.
+
+Lantern in his hand.
+
+He looked at us.
+
+Not for long.
+
+Then he turned away.
+
+Daniel whispered,
+
+“That one.”
+
+“I know.”
+
+“Should we follow him?”
+
+“No.”
+
+“Why?”
+
+“Because if he wants us to follow him, we will.”
+
+Daniel looked at me.
+
+“And if he doesn't?”
+
+“Then we'll learn nothing.”
+
+He smiled.
+
+“You're becoming difficult.”
+
+“I've had good teachers.”
 ---
 
-I had walked perhaps twenty yards back toward the lane when I heard the step behind me. It was not hurried, but it was purposeful, and I knew it before I turned: the constable.
+That evening Helen came again.
 
-He was the same square man of sixty I had seen at the roll-reading, and he carried his staff the way he carried it then, like a tool he was neither proud of nor ashamed of, but used because the using was required. His face had the particular plainness of a man who has spent thirty years watching other men lie to him.
+She found me reading the newspaper.
 
-"Mr. Ashcroft," he said.
+“You've been asking about soldiers.”
 
-"Constable."
+I looked up.
 
-"You have been asking after Hobbs," he said. It was not a question.
+“Who told you?”
 
-"I have. The keeper says he went out Thursday morning and has not returned."
+“No one.”
 
-"The keeper told me the same on Friday," said the constable. "And the verger told me you had been asking, and a man who asks three times in two days is a man who wants an answer." He looked at me steadily. "You carry a book. I have seen you write in it. After the round last night, you stood at the corner and wrote. This morning, you went to the poor-house, and now you have been given a thing, and the thing is in your pocket, and you are thinking about what it means."
+“Then how do you know?”
 
-I said nothing, because a man being measured says nothing until the measuring is done.
+She took off her gloves.
 
-"What did the keeper give you," said the constable.
+“You ask differently when you're interested.”
 
-I took out the button and held it in my palm. He looked at it, and something changed in his face, though the change was small.
+I folded the newspaper.
 
-"Hobbs's," he said. "From when he was fife. He kept that button twenty years and would not part with it for bread. If he has parted with it now, it is because he meant to." He looked at me. "What do you make of it, Mr. Ashcroft."
+“Are veterans important?”
 
-I chose my words carefully. "I make that Hobbs went out by his own will, not by distress or confusion. He gave the button to be given to the watchman. That means he knew someone would come asking, and he wanted that someone to know his going was deliberate."
+“To what?”
 
-"That is a sound reading," said the constable. "But there is more to read. Hobbs sat at that window eleven years. He watched something. Thursday night there was a bell at the corner—I heard it. Friday morning Hobbs was gone. What do you make of that?"
+“Alderwick.”
 
-I hesitated, then said what I had been thinking. "That the two things are connected. That Hobbs went because of what he heard, or what he saw, or because something he had been waiting for finally came."
+“Everything is important to Alderwick.”
 
-The constable was silent a moment. Then he said, "You have a good eye for such things. Better than most." He paused. "Walk with me. There is a thing I would speak of, and the speaking wants more than a doorstep."
+“That isn't what I mean.”
 
-We walked together down the lane toward my house, and the constable said nothing until we were out of sight of the poor-house. Then he spoke.
+Helen sat.
 
-"You noted the gate last night. The mill-yard gate at the corner. I saw you look at it on your round."
+“Some veterans are angry.”
 
-"I noted it," I said.
+“Some are poor.”
 
-"What did you note."
+“Some are both.”
 
-"That it was unlatched. And that the hinges were bright. Oiled recently, and oiled by someone who knew what they were doing."
+“Some are political.”
 
-The constable stopped walking. He turned to look at me fully. "I have been constable of this town twenty-three years, Mr. Ashcroft, and in all that time I have seen perhaps three men who could note a thing like that in the dark, by lamplight, without putting a hand to it. You are one of them."
+“Yes.”
 
-"It is only observation," I said.
+“Some want to leave.”
 
-"No," said the constable. "It is deduction. You saw bright metal and reasoned backward to recent oil. You saw an unlatched gate and reasoned that someone had been using it. That is not observation. That is thinking." He resumed walking. "And thinking is what I need. Because there is something happening in this town that I do not understand, and the not-understanding of it is beginning to trouble me."
+“Yes.”
 
-We reached my door. I did not open it. We stood in the cold, and the constable spoke.
+“And some belong to the Revolutionary Army?”
 
-"I will tell you a thing that is not generally known," he said. "The office of constable carries certain duties beyond the keeping of order. One of those duties is to mark and report things that do not fit the usual pattern of crime or accident." He chose his words carefully. "When a thing happens that cannot be explained by theft, or violence, or drink, or madness—when a thing happens that belongs to no category the law recognizes—it is my duty to note it and report it to a particular office in London. The office has no name that is spoken in public. It keeps the things that do not fit."
+She looked at me.
 
-I felt something settle over me, cold and strange.
+“Perhaps.”
 
-"You think Hobbs is one of those things," I said.
+“You know about them.”
 
-"I think," said the constable slowly, "that a man who sits at a window for eleven years and then leaves on the night a bell rings—a bell that has not rung in this town for more than a decade—is a thing that does not fit. And I think you have been watching the same thing Hobbs watched, though you may not know it yet."
+“I know of them.”
 
-He let that stand between us.
+“That's different.”
 
-"I am not asking you to break the law," he said. "I am not asking you to put yourself in danger. I am asking you to do what you are already doing: note what you see. Write it in your book. And when you have noted enough that it begins to make a pattern, come to me, and we will speak of whether it is a pattern London needs to know."
+“Yes.”
 
-"Why me," I said.
+I remembered Arthur.
 
-"Because you see what others do not see," said the constable. "Because you deduce what others do not deduce. And because you are on the watch-roll, which means you have a reason to be watching, and no one can say otherwise." He paused. "And because I am one man, Mr. Ashcroft, and I cannot watch everything. But two men watching is a different matter."
+“You sound like him.”
 
-I thought of Hobbs at his window, and the bell in the night, and the oiled gate, and the house at the end of the lane with its lamp that came and went by no pattern I could see. I thought of the button in my pocket, and the keeper's words: *he knew you would come asking*.
+“Arthur is usually right.”
 
-"What do you want me to note," I said.
+“Usually?”
 
-"The gate," said the constable. "The end house. Anything that does not fit the town's usual way. You will know it when you see it, because you have already been seeing it, and the seeing has troubled you, or you would not carry that book everywhere you go."
+“When he isn't, he knows it.”
 
-He held out his hand. I took it. The handshake was brief and firm, and it sealed something between us, though I did not yet know what.
+I thought about the note.
 
-"One more thing," said the constable. "The office I speak of—the one in London—they do not come for small things. They come for things that endanger the realm, or that touch upon matters of..." He paused, searching for the word. "Matters of an unusual nature. Things that cannot be explained by ordinary means. I have written to them twice in twenty-three years. Both times they sent a man. Both times the man saw what I saw, noted it, and left, and I heard nothing more. So understand: if I write to them about this, it is because I believe there is something here that is larger than a missing old soldier and an oiled gate."
+“Someone told me to ask about the soldiers.”
 
-"And if there is not?" I said.
+Helen's face became still.
 
-"Then we will have noted it, and passed it, and the town will keep its own counsel, as it always has." He touched his hat. "Good day, Mr. Ashcroft. Mind your watching tonight."
+“Who?”
 
-He walked away down the lane with his staff at his side, and I stood at my door with the button in one pocket and the constable's trust in the other, and I understood that I had just become part of something I did not fully understand, and that the understanding of it would come only through the noting, and the noting was what I did best.
+“I don't know.”
 
-I went inside and took out my book and wrote it all down.
+“Then don't follow the instruction.”
 
----
+“Why?”
 
-## Saturday afternoon
+“Because the person who gives you a question may already know the answer.”
 
-Daniel came at four, because Saturday is his half-day at the Academy and the half-day is spent walking, and he walked to my door with his hands in his pockets and the cold on his face.
+“What should I do?”
 
-I told him what I had seen in the churchwardens' book, because I had told him the rest; the note, and the page, and the verger's two nights. I told him: four pounds ten; Josiah Crane of High Street, ironmonger; money entered, bell unentered; entered by T. Wren, clerk; and the second ring, laid by where it would be found when it was wanted.
+“Ask your own.”
 
-He sat with it a while, his way, not speaking until he had carried it all the way round.
+She stood.
 
-"So the money has a name," he said at last. "That is better than a bell. Bells are heavy and names are light, and you can follow a name without carrying it. Crane. There was a Crane in the corporation list in the year eleven; I copied it for my roll of tradesmen, and I put him down ironmonger, High Street. If you would have the entry, I can give it you out of my own book, and there need be no asking anywhere. But take care," he said, "for I see where this goes. You have found that the town keeps things in families; now you are going to the shop. And the shop will keep you, too: a man who stands looking at a shop is a man the shop sees, and shops remember faces longer than any clerk. Go in, or do not go; but do not stand before it, because standing is the one thing a shop forgives last."
+At the door she stopped.
 
-I said I had stood before it already, for twenty minutes.
+“Leon.”
 
-"Then," said Daniel, "you are known already, and we may leave that care out of the reckoning. The question is what you stand for next."
+“Yes?”
 
-He stayed an hour, and we spoke of the trust-roll and of the scraped page, and he said the scrape was done by one hand and the binding-mend by another, which he had not said before; and when he went away at the dark he took the certified copy with him to keep in his box at the Academy, because his box was the one place in Alderwick where no one's keeping had a key, and that was the second time we had kept each other's papers without saying so.
+“Not every person watching Alderwick is watching the same thing.”
 
----
+Then she left.
 
-## Saturday night, ten to twelve
+I sat alone for some time.
 
-I took the lantern from the watch-house at ten, and I wrote my name in the watch-house book going out, and I walked my portion of the town.
+The newspaper remained on the table.
 
-There is a difference between watching a house and being appointed to watch it. Before, the watching was mine, and I could look or not look, and the lane was free; now the watching was the town's, and I was the town's eye set in my own face, and the lane was my piece of it, and I must look as a duty and not as a wish. And the thing I had most wished to look at was the thing my orders told me to note and pass.
+The pamphlet from Daniel lay beside it.
 
-I went down the lane at half past ten. The house stood at the end of it, dark at every window, the rosemary at the sill plain to my lantern if I chose to put the light on it, which I did not. I passed it, and came to the corner, and there I found my one new thing, and I set it down here as I set down everything, without knowing what it is yet:
+The notebook was underneath both.
 
-The mill-yard gate was not latched.
+Three different kinds of paper.
 
-It is a gate of the kind that stands shut by its own weight, with a latch that falls when the gate is put to; and this one stood a hand's breadth from the post, and the latch was up, not down. I did not put my hand on it, because my orders are the lane and not the yard, and because a gate half open at midnight is a thing a watchman notes and passes; but I looked close, and the hinges were bright. Not rusty, not weathered — bright, the way metal is when it has been oiled, and oiled lately; and the oil had the look of being put on by somebody who oiled the gate so the gate would not speak when it was used.
+Three different reasons to exist.
 
-I noted it, and I passed.
+I opened the notebook again.
 
-At a quarter to twelve I came back along the lane. The house was dark still. And going by the one window at the height of the ground, I heard within it — or I believed I heard, and I will not swear either way, because a watchman's ear is full of the crack of frost — a sound as of a chair drawn forward on a floor; once; and then the house had its own silence again, and I went on to the watch-house, and gave in the lantern, and wrote in the book at the door what the book is there to receive:
+The page with the names was still there.
 
-*Light seen in the upper window of the end house, at nine, before my round. House quiet through. No complaint.*
+I turned it.
 
-I wrote it in the town's hand, not mine. And I understood, writing it, that I had come into the keeping: that the same book which kept the town's not-seeing had taken my name into its entries, and my two hours with the lantern were now the town's two hours, and the note at the end of them was the note the town writes over everything it looks at and does not look at. *Noted; no complaint.* The bell had gone, and the lamp had come, and the gate stood oiled, and the man who had spoken of the rope was out of his chair since Thursday; and all of it went under one heading, in one book, in one hand: no complaint.
+There were several entries concerning 1805.
 
-It was past twelve when I came in at my own door. And across the lane, at the window of the house a few doors along, the sideboard lamp was burning still, trimmed very low, the way a lamp is kept not for the room but for the outside — a light set to be seen by whoever is coming home late, or by whoever is watching, or by whoever is kept awake by the same hour that kept me.
+Most were ordinary.
 
-I did not look at it longer than I could help. I went up to bed with the frost at the pane, the empty chair at the poor-house window, and the oiled gate. I had learned this much: I noted them all, and I made no complaint. I slept the sleep of a man who had done his round.
-</content>
+A birth.
+
+A death.
+
+A property transfer.
+
+A man returning from service.
+
+Then one line caught my attention.
+
+Hobbs — entered poor-house.
+
+I stared at it.
+
+I knew the name.
+
+I turned another page.
+
+Nothing.
+
+Another.
+
+Nothing.
+
+Then, near the back, another entry.
+
+Hobbs — reported dead.
+
+No date.
+
+No explanation.
+
+I read it twice.
+
+My hand remained on the page.
+
+Outside, someone walked past the house.
+
+The footsteps slowed.
+
+Stopped.
+
+Then continued.
+
+I closed the notebook.
+
+Alderwick had soldiers who wanted work.
+
+Workers who wanted better wages.
+
+Men who watched the streets.
+
+People who searched family records.
+
+And somewhere among its pages was a man who had apparently been both alive and dead.
+
+I had started the day asking why someone wanted me to ask about the soldiers.
+
+By nightfall, I had another question.
+
+What had happened to Hobbs?
+
+And, for the first time, I wondered whether the answer had been written down long before I arrived.
+
+I put out the lamp.
+
+Then I heard footsteps again.
+
+This time they stopped outside my door.
+
+I waited.
+
+A man's voice came through the wood.
+
+“Mr. Ashcroft?”
+
+I did not answer.
+
+The voice continued.
+
+“I have something that belonged to Hobbs.”
+
+I remained still.
+
+Then the man said,
+
+“And I think you should see it.”

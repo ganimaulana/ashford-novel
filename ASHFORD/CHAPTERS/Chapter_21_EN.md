@@ -1,42 +1,259 @@
-# Chapter 21 — The Academy Copy
+Chapter 21 — The Ledger and the Window
 
-The Monday came in with the snow lying, and the town gone quiet under it the way a town goes quiet when the ground has changed, because snow is the one thing the town cannot keep, and it comes and does its work, and makes every road a new road, and the town stands in it and looks at what it has done to the distances.
+The snow had fallen through the night, thin and steady, and the streets of Alderwick were quiet under it. I walked toward the square with no particular destination — the habit of moving while the town woke. My notebook was heavy in my coat pocket, heavier than usual because the paper inside bore words I had not yet learned how to read.
 
-I spent the morning at my own desk, because a man that has a meeting at four in the afternoon has the hours before it, and the hours before it are the hours when the thing met with is made ready in the mind, and I made it ready as well as I could, which was to write out in the book the three papers I was carrying: the note of the vestry reckoning; the note of Arthur's subscription list, with Crane's name and the word returned; and the line from Daniel's own copy of the trust-roll, where the name had been taken out with a knife. I wrote them out one under the other, and looked at them the way a man looks at three things he is carrying to a fourth man, and asks himself which of the three he may lay down, and I could not lay any of them down, because the fourth man was the man that had carried one of them already, and the carrying of it was between us, and a thing between two men is carried by both or by neither.
+I passed Mrs. Hartwell's drapery on High Street just before ten. The shop window was open.
 
-I went to the Academy at a quarter before four, because the Academy keeps its hours the way the office keeps its hours, and a man that is met at four is met at four, and not at half past, and I was shown up by the man that keeps the door, into the room where Daniel keeps his papers, which is a room at the top of the stair, with the window to the north, and the light of it the light of the snow, and Daniel standing at his table with a parcel of papers in his hand, in the posture of a man that has been standing so for some time.
+The constable stood inside. Mrs. Hartwell's voice came through the door, tight with something I could not name.
 
-"You are come," he said. "I have been keeping these since the first week, and I have looked at them in the keeping, the way a man looks at a thing he keeps for another, and I have found what I did not look to find, and that is why I would be quit of them. Sit down. I will tell it as it stands, because that is the way you tell it at your counter, and I have heard you tell it so, and I would tell mine the same way."
+"...last saw it Monday evening. Half past eight, maybe nine. Tuesday morning, gone."
 
-He set the parcel down on the table, and opened it, and it was a bundle of copies, in the hand of the Academy's copyist, which is a hand the Academy keeps for the copying of its papers, and he took out one of the copies and laid it before me.
+"And the lock?"
 
-"It is the copy of a schedule," he said, "made in the year four, from the probate of a will proved in that year, and given into the Academy's keeping in the year six, by the direction of the person whose name is at the foot of it. I made my use of it in the matter of my paper, because it has the names of the houses, and I have kept it by me since, because the Academy keeps what is given it, and I have looked at it this last week, because you came to me with the thing out of the roll, and I would see whether the two things stood together; and they stand together, Mr. Ashcroft, and I would you had not made me see it."
+"Fine. I locked the case myself."
 
-The copy was fair, in the copyist's hand, and it said at the head: *Schedule of effects, proved spring 1804 — copy for the Academy, 1806*; and below was the list of the effects, and in the middle of the list, set out in the form of words I had seen in the letter from London, there stood the house: *all that messuage and tenement, with the gardens, yards and premises, in Bellweather Lane near the corner of Marlowe's garden, being in the original building two dwellings made one*; and after it, the line of the tenure, as it stood in the London letter: *the one moiety thereof in the tenure or occupation of —*, with the blank where the name should stand.
+I paused. "The window?"
 
-But this copy was made in the year six, two years after the proving, and the hand that made it was the copyist's hand, and the blank in this copy was not blank, because in the blank, in ink gone brown with the ten years, there stood a name written in, and the name was not struck out, and it was not scraped, and it was written in the same copyist's hand as the rest, so that it had stood there since the making of the copy, in the year six, and nobody had taken it out, because nobody had known it was there to take out.
+"If someone wanted to get in, that is how they would come."
 
-I read the name as it stood, and I have sat an hour this evening reading it again, and it is not a name I had seen before in this town, and I set it down here as it stands, because the book is the place it stands: *E. Hodge*.
+That was an assumption, not an observation.
 
-"E. Hodge," I said.
+I crossed the street to Margaret's. She set the tea down without asking.
 
-"You know the name," said Daniel.
+"The constable is busy."
 
-"I know a name," I said. "I have heard it at the church, of the man that kept the keys before the clerk's father, and is dead. I did not know there was an E. to it, nor that the name stood in a tenure."
+"At Mrs. Hartwell's."
 
-"Then I will tell you what stands with it," said Daniel, "because I have looked at it this week, and I would not look at it alone any longer. The copy was given into the Academy's keeping in the year six, by the direction of the person at the foot of the paper; and the person at the foot of the paper is not named, because the direction was given by a letter, and the letter is kept with the parcel, and I have read the letter, and the letter is in a hand I know, because I have seen the hand in the Academy's own books, and it is the hand of a man that was of this place, and left it, and his name is written at the foot of the letter, and I will show you the letter, because the letter is the thing I have been keeping, and the thing I would be quit of."
+"The ledger."
 
-He took out the letter, and laid it beside the copy. It was old, of the year six, and it said in few words that the copy was given to the Academy, to be kept with its papers, and to be shown to any that should ask for the schedule of the year four, and it was signed at the foot, in the hand Daniel had said he knew, and the name at the foot was: *T. Wren*.
+"They think it was stolen."
 
-"The clerk," I said.
+Margaret stirred her tea. The steam rose between us. "Jenny had the key Monday morning. She took the ledger to check Mr. Briggs's account — wanted to see if the credit was running low."
 
-"The clerk's father," said Daniel. "The man that entered the sale of the bell in the year nine, three years after he gave this into the Academy's keeping. He gave into the keeping of this place a copy of the schedule, with the name written into the blank, and a direction that it be shown to any that should ask; and he entered in the parish book, three years after, the sale of the bell to Crane, with the money in and the bell out; and he put his marginal note against the name of the occupant in the probate, saying the occupant was not in a state to be named at law, which note stands in the London copy, and not in this one. There are two copies, Mr. Ashcroft. There is the copy at London, where the name is out, and the note says why; and there is the copy here, where the name is in, and the note is not. And the man that did both is one man, and his son keeps the books where one of them stands, and the other stands in this room, where I have kept it for you without knowing I kept it for you, until you came with the knife out of the roll."
+"And Mrs. Hartwell put it back?"
 
-I sat with the two papers before me, and the snow-light at the window, and the room very still, and I understood what Daniel had meant by being quit of the thing, because a man that keeps a thing for another, and comes to see what he keeps, is a man that carries a weight he cannot put down alone; and I understood too what I had carried into that room without knowing it, because I had carried the word returned, and the name of the man that bought the bell, and the word stood in my book, and the name stood on Daniel's table, and the two of them had been kept apart in this town for ten years, and the keeping of them apart was the thing the town's keeping was about, and I had brought one to the room where the other was kept, and the two of them stood together now, and would stand together, and no keeping would put them apart again.
+"She says she did. Monday evening. But she was tired."
 
-"I will tell you what I ask of you," said Daniel, "and it is what I have asked of myself this week, and been quit of the asking. I ask that you take the copy, and the letter, and keep them as you keep your own papers, because they were given to be shown to any that should ask, and you are the man that has asked, and the showing of them is the thing they were given for; and I ask that when you put them in your book, you put my name beside the showing, because I would have it stand that I showed them, and a thing that stands in a book stands there by somebody's name, and I would have this stand by mine."
+I looked toward the shop. The constable was at the window now, looking out.
 
-I took the copy, and I took the letter, and I put them in the pocket where I carry the papers, and I wrote in the book that evening, as I write now, the whole of what stands, and I set Daniel's name beside it, as he asked, because a thing shown is a thing done by somebody, and this was done by him, and it shall stand so:
+"The window," I said.
 
-*9 Dec. At the Academy, at four: Daniel shows the Academy copy of the schedule of the year four, given into the Academy's keeping in the year six by the direction of T. Wren, clerk, the father of the present clerk, with a letter directing it be shown to any that should ask. In this copy, the blank of the tenure is filled, in the copyist's hand of the year six, with the name E. Hodge. The London copy has the blank, and the clerk's note that the occupant is not to be named at law. Two copies, one hand; the name out at London and in here; the note in at London and not here. The name E. Hodge stands with the name of the keeper of the keys before the clerk's father, whom the verger has named to me as dead. I do not know yet whether the name in the tenure is the man at the church, or another of the name; I know that the hand that put it in is the hand that gave the copy to be shown, and that the giving was three years before the selling of the bell, and the word returned is in my book since yesterday, and the two things stand together now. Daniel's name is set beside the showing, as he asked.*
-</content>
+"Was open."
+
+"How do you know it was not broken?"
+
+"Because Mrs. Hartwell opens it every morning."
+
+"And closes it every evening?"
+
+Margaret considered. "Sometimes she forgets."
+
+I looked at the window again. It opened outward, on hinges. The catch — a simple brass bar — sat on the inside edge of the frame.
+
+"Anyone could reach through and lift the catch from outside."
+
+"The pane is small."
+
+"And the catch is on the inside."
+
+"Then how do you know it was not lifted from outside?"
+
+"Because it was."
+
+I waited.
+
+"Because what?"
+
+"Because the catch shows wear from inside. Not from tools. If someone had reached through and lifted it, there would be marks — scratches on the brass, or on the wood around the frame. There are none."
+
+Margaret nodded. "So someone opened it from inside."
+
+"What does that tell you?"
+
+"That the person who opened it was inside the shop."
+
+"At what time?"
+
+She looked at me. "You tell me."
+
+I finished my tea. "Mrs. Cade's windows took hours to clear after sunrise yesterday. This one is already clear."
+
+"Morning sun."
+
+"On the inside."
+
+"Because the window faces east."
+
+"Then it was opened after sunrise."
+
+"Or it was open yesterday, and the frost never formed because it was open all night."
+
+I looked at the window again. The glass was clear, but the sill inside was dry. The sill outside had a trace of frost — a film that had melted and refrozen once, when the sun had hit it.
+
+"Opened once," I said. "Not twice."
+
+"That tells you... when?"
+
+"That it was opened in the morning. Not in the night."
+
+The constable at the window did not look up. But he straightened.
+
+Margaret stood. "Come. He is waiting."
+
+Inside the shop, the constable kept his distance while I examined the counter. The ledger case sat on the shelf where Mrs. Hartwell said it belonged. The key hung on the nail beside it.
+
+"The case is here," I said.
+
+"Empty."
+
+"The key is on the nail."
+
+"Yes."
+
+"Then someone did not take the case. Someone took the ledger."
+
+The constable crouched by the shelf. "Look at the dust."
+
+I did. The wood was dusty, except where the case had sat. The outline was clear — but the dust within that outline was older than the dust outside it.
+
+"How do you know?"
+
+"Someone cleaned the shelf around the case. But not underneath it."
+
+"Or the case was never moved."
+
+"Or Mrs. Hartwell cleaned the shelf Monday morning, placed the case, and the case has not been touched since."
+
+"Monday morning. Not Monday evening."
+
+I looked at the case. "Did you lock it Monday evening?"
+
+"I..." She hesitated. "I thought I did."
+
+"Then you did not."
+
+The constable stood. "The coal shed."
+
+Behind the shop, the coal shed door hung ajar. I pushed it open.
+
+The smell of coal and damp wood rose as I stepped inside. Behind a coil of rope and a stack of empty sacks, the brown leather cover of a ledger protruded.
+
+Not stolen.
+
+Not broken into.
+
+Just forgotten.
+
+I pulled it out. The cover was clean. The edges had no dust. Someone had carried it in and out of the shed, but not recently. The leather showed the marks of regular handling — the soft creases of fingers on the corners — but no signs of haste, no fresh scratches from fingernails or torn fabric.
+
+"The window," I said.
+
+"The constable noticed the window."
+
+"They saw it was open."
+
+"And I?"
+
+"I noticed it had been opened from inside."
+
+The constable was quiet for a long moment. He looked at the ledger in my hands, then at the window, then at me.
+
+"You were looking at the window," he said.
+
+"It was open."
+
+"Yes."
+
+"Not broken."
+
+"Correct."
+
+"How do you know?"
+
+"The catch. It is on the inside of the frame. The glass is too small for a hand to reach through and lift it. And there are no scratches."
+
+He was quiet. "Then you were looking at more than a window."
+
+"I was looking at what the window told me."
+
+"And what did it tell you?"
+
+"That no one broke in."
+
+"Then what?"
+
+"Then someone forgot to close it."
+
+"And the ledger?"
+
+"Was never in the case after Monday morning."
+
+He looked at me. "You have been paying attention to things most people miss."
+
+"I try."
+
+"Why?"
+
+"Because I want to understand the town."
+
+"That is not the same."
+
+"No."
+
+He was quiet. Then: "Come by the station house. Later. I would like to ask you more about this."
+
+I nodded. "I will be at the Academy after four. Daniel has papers for me."
+
+"Then I will see you there."
+
+At the Academy, the stairwell was cold from the morning's frost. I climbed the narrow steps to the room at the top, as I had done the week before, and found Daniel at the table with papers in his hands.
+
+"You are here," he said, instead of "You are early."
+
+I sat. He spread the papers on the table.
+
+"It is the copy of a schedule," he said, "made in the year four, from the probate of a will proved in that year. Given into the Academy's keeping in the year six, by the direction of the person whose name is at the foot of it."
+
+I looked at the copy. Fair script, in the Academy's copyist's hand. At the head: *Schedule of effects, proved spring 1804 — copy for the Academy, 1806*. Below it, the list of effects. In the middle: *all that messuage and tenement, with the gardens, yards and premises, in Bellweather Lane near the corner of Marlowe's garden, being in the original building two dwellings made one*. And after it: *the one moiety thereof in the tenure or occupation of —*, with the blank.
+
+But the blank was not blank.
+
+In ink gone brown with ten years: *E. Hodge*.
+
+I read the name twice.
+
+"Daniel."
+
+"Yes?"
+
+"E. Hodge. Not Hodge. Hodge."
+
+I did not know why he looked at me that way. "It is not a name I have heard."
+
+"No. But it is a name that has been kept."
+
+He picked up the letter. "This was written by the clerk's father. He directed the copy be shown to any who should ask. There are two copies — the one at London, where the name is struck out, and the margin says why; and this one, where the name stands."
+
+I took the copy and the letter. "And the name?"
+
+"Tell you what I told myself. First: it is a name in a copy that was kept for someone."
+
+I wrote it down. Then: "The man who kept the keys. Before the clerk's father."
+
+Daniel looked at me. "Then you have found it."
+
+I did not answer.
+
+Behind me, the constable was waiting at the gate.
+
+I put the copy and the letter in my coat, beside the notebook I had taken from Bellweather House. They settled against each other with the weight of what I did not yet know how to carry.
+
+The snow had begun again, thin and steady, and the town walked into it with its usual quiet.
+
+*9 Dec. The ledger was not stolen. It was taken Monday morning by Jenny — she needed to check a customer's account, she opened the back window for air, and she left the ledger in the coal shed and forgot it. Mrs. Hartwell thought she had locked the case Monday evening, but she had not. The constable noticed that I noticed the window.*
+
+I shut the book. The copy was in my pocket. The letter was beside it. The constable was outside.
+
+Behind me, his eyes met mine through the gate. Neither of us looked away.
+
+The town was quiet under the snow. And somewhere in that quiet, something had begun keeping track of me.</think><tool_call>bash<arg_key>command</arg_key><arg_value>wc -words "C:\Project\ashford\ASHFORD\CHAPTERS\Chapter_21_EN.md"

@@ -38,6 +38,31 @@ When my name was called, I walked to the center of the field. The clerk placed o
 
 I had no way to know which was which. But I had to choose.
 
+
+I turned the envelope over before opening it. The paper had no crease where a previous hand might have held it. The seal was ordinary. The two tables had been placed at equal distances from the starting line. Nothing about either envelope appeared to invite a choice.
+
+That bothered me more than if one had been marked. A marked choice could be interpreted. An unmarked choice could only be made from assumptions.
+
+I looked at the candidates who had already returned. Some were examining their envelopes in the open, despite the instruction not to show their contents. Others had gone immediately to their rooms. One man stood at the edge of the field and watched the tables as though he expected someone to change them after the choices were made. No one did.
+
+When Weaver returned, he passed close enough for me to hear him say, “Right.”
+
+I remembered it. Later, Merritt returned from the left. Peale also returned from the left. None of them spoke.
+
+When my turn came, I walked to the tables slowly. I could feel the cold through the soles of my boots. I looked at the left envelope. Then the right. The right table stood closer to the eastern gate, but that did not mean the contents were more useful. It might have meant nothing at all.
+
+I nearly chose the right. The thought came and went before I could examine it. Perhaps that was the point: there was no evidence, and I was being asked to reveal what I did when evidence ran out.
+
+I chose the left.
+
+On the walk back, I wondered whether I had chosen because of the grounds, the previous rounds, or simply because I had become accustomed to making the less immediate choice. I could not separate the reasons cleanly.
+
+When I opened the envelope and found the map, I felt neither satisfaction nor disappointment. It was simply information. The red circle near the eastern gate was precise enough to be useful, but not precise enough to tell me what waited there.
+
+I copied the main features into my notebook before folding the map again. The eastern gate. The storehouse. The marked point. I left out my conclusion because I did not yet have one.
+
+That night I slept better than I had expected. The choice had been made. The next question would be what I did with it.
+
 I chose the left table.
 
 I took the envelope and walked back to my room. I closed the door and sat on the bed. I opened the envelope slowly, carefully. Inside was a map.
@@ -51,3 +76,9 @@ I sat on the bed and waited.
 I waited for the next instruction. I waited to find out what the clerk would require. I waited to see whether my choice would matter.
 
 I did not know what the next day would bring. I only knew that I had chosen, and that the choice could not be undone.
+
+I kept the map beside my notebook that evening. The red circle seemed more important now that I knew it was the only certainty the choice had given me. The paper did not tell me why the location mattered. It did not tell me whether the key would be easy to obtain. It only reduced one unknown.
+
+That was perhaps the real difference between information and an answer. An answer closed a question. Information merely changed its shape.
+
+I folded the map again and put it away. Tomorrow I would find out what the office had done with the other envelope. I suspected the answer would matter less than what I chose to do once I had it.

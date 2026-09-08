@@ -48,7 +48,7 @@ The man with the notebook had the account sheet in front of him.
 
 "The room keeps," the older man said. "The coat and the purse will be there tonight and tomorrow. What will not keep is the path. Half the town will walk it by noon. The rain has already had one night at it. And if a man went down to the water in the dark, the water does not wait for anyone."
 
-I had been thinking of the room. A man who leaves his wages behind is not going anywhere for wages' sake, and the paper would say whether he had gone somewhere on purpose. That had seemed to me the better half of the morning. But the older man had said a thing I had not thought about, which is that the path is being spent whether we walk it or not.
+I had been thinking of the room. A man who leaves his wages behind is not going anywhere for wages' sake, and the paper might tell us whether he had gone somewhere on purpose. But the older man had seen the cost of waiting: the path was being spent whether we walked it or not.
 
 "The room will keep until this evening," I said. "The path will not keep until this afternoon. If we cannot do both, the one we put off should be the one that does not change."
 
@@ -68,7 +68,7 @@ The younger man sat back. He was not satisfied, and he did not pretend to be.
 
 "That may be so," the older man said. "We will find out tonight, or we will not."
 
-We went out. The clerk wrote something as we passed, and did not ask us anything.
+We went out. The clerk wrote something as we passed.
 
 The river path began behind the coal wharf. The river was brown and fast against the pilings.
 

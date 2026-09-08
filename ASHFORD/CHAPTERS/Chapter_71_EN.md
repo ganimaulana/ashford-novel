@@ -1,139 +1,166 @@
-CHAPTER 71 — THE HEARING
+# Chapter 71 — The Assessment Proper
 
-I went to the office on Tuesday morning, because Monday had ended with Calloway's words and the constable had sent for me.
+The letter arrived on Tuesday morning, slipped under the door while I was lighting the fire. It was on the constable's notepaper, and the handwriting was Ingle's — a precise hand that had made the second copy of every report I had ever signed. The envelope bore no stamp. It was hand-delivered, which meant it had passed through the office in person.
 
-The lane was quiet. The common was empty. The office door was open. I had been there four times before. But I had never been there as a man whose presence was the subject of a formal inquiry, and I had never been there as a man who was not answerable to the office at all.
+I broke the seal and read it twice, as Vale had taught me.
 
-I stepped inside.
+*To Leon Ashcroft, Keeper:*
 
-The room was not the same. The chairs had been moved. There were four of them now, arranged on the other side of the desk. The clerk was there, but he was not copying into the ledger. He was sitting in one of the chairs, a sheet of paper on his knee, his pencil ready.
+*The Assessment Proper begins on the fifteenth of this month. You will report to the constable's office at 0600 hours. Dress in the clothes you have been issued. Bring nothing else. The phase is divided into six evaluations. The ranking you carry from the Initial Assessment is provisional and may rise or fall. Your mentor will be assigned on arrival.*
 
-Calloway was standing by the fireplace, though the fire was not lit. He had his hat in his hands. He turned when I came in.
+*Failure to appear is a refusal of the deeper work. A refusal is recorded. A refusal is not a failure.*
 
-"The constable sent for you," he said.
+*J. Calloway, for the office.*
 
-"I came," I said.
+The signature was in a hand I did not need to name to know it was his. The letter spoke in layers.
 
-"You will sit," he said. He nodded at the chair opposite the desk. "There are others coming. You will wait with the clerk."
+I folded it and put it in my pocket. Outside, the town was waking — the baker was lighting his oven, the women would be at the pump soon, the lane was quiet. I had walked that lane every Thursday for eight months, and I had learned its rhythm. The office's rhythm was different. It was measured in hours and in papers, and it never bent to the sun.
 
-I sat. The clerk looked at me. He did not say anything. He looked at the paper on his knee.
+I went to the constable's office at ten o'clock, because the letter had said I would be assigned a mentor on arrival and I wanted to know what that meant. Calloway was at his desk, and Ingle was behind him, writing. The room was the same: the same wooden counter, the same shelves of books, the same smell of paper and lamp oil. The same order, and the same change.
 
-The door opened. A man came in, about fifty, broad in the shoulders, with the look of a man long outdoors and not yet used to being indoors. He had his hat in his hands. He looked at Calloway. He looked at me. He sat.
+"You came early," Calloway said.
 
-"Reuben Orme," Calloway said. "Senior constable."
+"I thought the mentor would be assigned on arrival."
 
-Orme nodded. He looked at me the way a man looks at something he has been told about but has not yet decided whether he believes.
+Calloway looked at Ingle. Ingle did not look up from his writing. "He is not wrong."
 
-The door closed. The room was full. The clerk sat with his paper. Calloway stood by the fireplace. Orme sat with his hat in his hands.
+The clerk set his pen down and opened a drawer. He withdrew a folder — a manila folder, unmarked, the kind that held reports rather than ledgers. He handed it to Calloway, who handed it to me.
 
-"The office has been considering the matter of Vale's effects," Calloway said.
+"Your files," Calloway said. "Everything the office has on your case so far, in the order it was produced. Read them in that order. Do not skip pages."
 
-He said it to the room, not to me. But he looked at me when he said it.
+The folder was heavier than I expected. I felt the weight of it through the manila. Papers, reports, cross-references, and something smaller that thudded against the side.
 
-"Thomas Vale was a constable of this office. He served the parish for fifty years. He kept records. He kept things. He died in October last year. Some of those things came into your keeping. The office has questions about them."
+I opened it in my hands. The first document was a copy of the Initial Assessment report — my own words from the day before, set down by Calloway's hand. Beneath it was a sheet of observations that Calloway had not written: *Candidate demonstrates consistent separation of observation from inference. Refusal to over-conclude on Case 01. Rating: OBSERVED.* The standing was in the corner, in a code I did not recognise. Below the observation sheet was a cross-reference: *See also Ch45 maxims, §3. See also Ch61 register annotations.* Vale's teachings, filed away and indexed in places I could not yet find.
 
-He paused. He turned the paper in his hands.
+I did not ask what it meant. I had learned that some questions were answered later. I noticed that Ingle, standing behind Calloway, did not read over his shoulder as the clerk in the front room always had. The back room had different rules for looking.
 
-"This hearing is not automatic authorization to take anything," he said. "The office is here to know what there is. The distinction is the work. Vale understood it. The clerk understands it. You will understand it."
+"Calloway rested one hand on the folder. "You will not be given the whole shape of it."
 
-He looked at the clerk. The clerk looked up. He did not say anything. He looked at the paper on his knee.
+"How am I meant to prepare?"
 
-"The first question," Calloway said, "is what you know about the box."
+"You are meant to arrive."
 
-"The box is in my keeping," I said.
+I waited for more. None came.
 
-"How long have you had it?"
+"How long?" I asked.
 
-"Since October last year. Vale gave it to me before he died."
+"Until it is finished, or until someone says it is finished. The fifteenth is your first day. Do not be late."
 
-"Did he give it to you as a gift, or did he leave it with you for safekeeping?"
+I closed the folder and held it in my hands. For a moment I thought of the private box beneath my bed, of the journal inside it that Vale had filled with five decades of careful record-keeping. I thought of how he had read the order twice and found it correctly worded but troubling. I thought of the stamp on the map, and the handwriting on the letter I could not read.
 
-"He gave it to me to keep. He said it was his. He said the office had no claim on it. He said the parish had no claim on it. He said it was his."
+I did not put those thoughts in my book. I wrote only what was asked: six evaluations, the fifteenth, the folder.
 
-Calloway looked at Orme. Orme looked at me.
+"The mentor," I said.
 
-"What is in it?" Orme said.
+"Assigned on arrival. Someone who achieved this standing before you."
 
-"I have seen it," I said. "I have not inventoried it. I have seen what is in it, and I can tell you what I saw."
+"Not Calloway."
 
-"What did you see?"
+"No." He did not smile. "Calloway holds the office. He does not walk the rounds. You will meet your mentor when the work begins."
 
-"The box is a document case. It contains folded papers. A bundle of letters tied with browned tape. A journal in dark leather. A map. Two stoppered bottles labelled in an unknown hand. A military brass button. A woman's ring. A folded cloth. A sheet of paper I did not recognise."
+I nodded. I could work with that. The office had layers, and I was learning to read them.
 
-"Anything else?"
+I left the folder on the table. I did not take it with me. It was not mine to carry yet.
 
-"No."
+Outside, the frost had melted from the rooftops, and the lane was clear. I walked home without the heavier coat, because the weather had turned and I did not need it. But I carried the letter in my pocket, and the day — the fifteenth — in my head, and the question of what it would mean to be assigned a mentor who had walked the road before me.
 
-"Are there things outside the box?"
+I opened my notebook that evening and wrote:
 
-"Yes. Some papers on my table. The service file. The envelope. The notebook."
+*The Assessment Proper begins on the fifteenth. Six evaluations. First: observation. Second: testimony. Third: assumption. Fourth: endurance. Fifth: prediction. Sixth: decision. Provisional standing: Top 5. Mentor: not Calloway, not yet named. The folder contains the case papers in order. I have not read past the first page.*
 
-Orme leaned forward. His hands were on his knees.
+I closed the notebook and sat in the chair by the window. The fire had gone out. I did not light it. I sat until the streetlamps came on, and I thought about the standing in the corner of the page — the code I could not read — and what it might mean to be measured in languages I did not speak.
 
-"The office has a duty to know what is in its own house," he said. "Vale was a constable of this office. The things he kept may have belonged to the office. The things he kept may belong to men who are dead and have no one to ask. The office cannot leave those things unexamined."
+The work was not what I had expected. But it was the work. And Vale had walked this floor too.
 
-"The office may request," Calloway said. "The office may record. The office may advise. The box is in his keeping. He has said he will not open it. The office cannot compel him."
 
-"The office can ask what he knows," Orme said. "And he will tell us."
+---
 
-"He has told us what he saw," Calloway said. "What he was told. What he concluded. He has kept them apart. That is the work."
+That evening I read the first report again.
 
-"The work is not the law," Orme said.
+It was my own account, copied in Calloway's hand. Beneath it was the assessment sheet with the unfamiliar notation in the corner. I laid the two pages side by side.
 
-"The law does not settle this for us," Calloway said. "We have a room, a man, and a record. That is all."
+My account said what I had seen.
 
-The clerk spoke for the first time. He had been writing on his paper. Now he looked up.
+The assessment said what the office thought I had done.
 
-"The entry-book requires a statement," he said. "The statement is what the man says. The record is what the clerk writes. The two are not the same thing. The man may say what he knows. The clerk writes what the man said. The record does not contain what the man knows. It contains what the man said."
+Those were not the same thing.
 
-He looked at me.
+On the margin of the assessment sheet someone had added a short line in pencil:
 
-"You will give a statement," he said. "You will tell the office what you saw. What you were told. What you concluded. You will keep them apart. The clerk will write what you say. The record will be the office's record. The knowing will be yours."
+*Candidate records absence as evidence.*
 
-"I know," I said.
+I read it twice.
 
-Calloway paused. He looked at the paper in his hands.
+I looked around the room. Nothing had changed. The fire had settled into ash. The street outside was dark. Somewhere farther down the lane a door shut, then another.
 
-"There is also the matter of the things he left with other people," he said. "The clerk has a record of some of them. The office knows of at least two: a map left with a woman named Shaw, and a book left with the parish clerk. There may be others."
+I turned the page.
 
-"I do not know what he left with other people," I said. "I know only what he told me. He told me he had distributed things. He told me he did not expect them to be returned. He told me they were not mine to collect."
+The next report was not mine. It concerned a constable who had mistaken a witness's confidence for certainty. I read the first paragraph, then stopped. The report had been written years before. The handwriting was older. The names meant nothing to me.
 
-"Then you have no authority over them," Orme said.
+At the bottom, someone had written:
 
-"I have no authority over anything," I said. "I have the box in my keeping. I have the things I saw. I have what Vale told me. I have what I concluded. I will tell the office those things. I will not tell the office what I do not know."
+*Do not teach the candidate the answer by explaining the error.*
 
-Orme sat back. He looked at Calloway. Calloway looked at the clerk. The clerk wrote on his paper. The pencil made a sound on the paper.
+I closed the folder.
 
-Calloway stood up. He put on his hat. He walked to the door. He opened it. He looked out at the lane. He turned back.
+For a moment I considered going back to the first page and beginning again. Instead I took a fresh sheet of paper.
 
-"The clerk will write the statement," he said. "You will sign it. We will continue tomorrow."
+At the top I wrote three words:
 
-He went out.
+*Seen. Written. Unknown.*
 
-The clerk looked at me. He did not say anything. He turned back to his paper. Orme stood up. He put on his hat. He looked at me.
+Under the first I copied the details I could verify from my own account. Under the second I copied the phrases the office had used to describe my conduct. Under the third I left the page blank.
 
-"The office has a duty," he said. "The duty is not finished."
+It was harder than I expected to leave it blank.
 
-He went out.
+I had spent months looking for the missing part of other people's records. Now the office was asking me to notice the missing part of my own.
 
-I sat in the chair. The clerk wrote on his paper. The pencil made a sound on the paper. The room was the office. The lane was quiet. The common was empty. The house was shut.
+I put the sheet beside the folder and compared the two.
 
-I did not know what the hearing would decide. I did not know whether Orme was right or Calloway was right or whether both were right and the rightness did not help. I did not know whether the box would remain in my keeping. I did not know whether the letters would be opened. I did not know whether the map would be examined. I did not know whether the bottles would be asked about.
+The difference was small. My report described a sequence. The assessment described a habit.
 
-The clerk set his pencil down. He turned the page. He looked at me.
+That distinction bothered me.
 
-"The constable will send for you," he said.
+A single correct observation could be luck. A habit could be useful. Or it could be a habit of seeing only what one expected to see.
 
-"I know," I said.
+I wrote that down too.
 
-He nodded. He stood up. He took off his hat. He set it on the desk.
+Then I crossed out the word *useful*.
+
+I did not know yet.
+
+It told me only that I was not the first man to sit where I was sitting.
+
+The next morning I went to the office before the town had properly stirred. Calloway was alone. He had the folder open on the desk.
+
+"You read beyond the first page," he said.
+
+"I did."
+
+"Why?"
+
+"Because you told me not to skip pages."
+
+He looked at me for a moment. "Good."
+
+He pushed the folder toward me.
+
+"Read the rest."
+
+I opened it.
+
+This time I did not try to understand what the office wanted. I tried to determine what it had actually recorded. I marked three things in my notebook: what I had said, what the office had written, and what neither of us had established.
+
+By the time the clock reached five, I had not finished.
+
+Calloway closed the door to the office.
 
 "Tomorrow," he said.
 
-He went out.
+I looked up.
 
-I went out.
+"Six o'clock."
 
-The lane was quiet. The house was shut. I set the key in the lock and turned it. The door opened. The room was the same.
+I nodded.
 
-But I knew it was not finished.
+The work had not begun with a test. It had begun with learning that the record of a thing was another thing entirely.

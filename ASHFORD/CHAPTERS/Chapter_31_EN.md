@@ -1,67 +1,69 @@
 ﻿# Chapter 31 — The Week Before
 
-The Monday brought the town into its last week, and the last week before Christmas is a week that a town keeps differently from all its other weeks, because the keeping of it is the keeping of the year's end, and the town gathers itself into the gathering, and lets the other things stand.
+The frost held through Monday, and the town went about its week with the slow care of a place that had learned to live with cold. The sky was a pale, hard blue, and the smoke from the chimneys rose straight and thin, as if the cold had frozen it in place. I went to the pump for water, and the women were there with their shawls and their talk, and they spoke of the price of coal and the weight of the snow on the roofs and the date of the Christmas service. Their breath steamed in the air, and their voices carried across the lane with a clarity that only the cold could bring. I listened, and I did not ask about Foster, because the asking of it would have been a kind of saying, and I was not ready to say what I had not yet decided to mean.
 
-The lamp burned at nine, and was carried away along the rooms, and no sound came, and I set it down as the seventeenth reading, and let it stand; and in the night the sound did not come, and the alternation stood, and the house kept its hour through the season's turning as it kept it through the week's, and I understood that the house did not keep Christmas, because the house kept itself, and the keeping of itself was the house's one season, and had been so since before the town had agreed to call it empty.
+But I had decided one thing. I would test whether the knowledge of Foster's leaving had moved beyond Margaret's counter. If the town had already begun to speak of it, then I would know that the questions I had been asking had already been answered by someone else, or that the answers were already being shaped by the town's own telling.
 
-I went to Margaret's on the Monday for the week's bread, and the shop had the look of the season in it, which is the look of more than usual done in the same space, and Margaret had the flour in three sacks instead of two, and the brown loaves stacked higher, and the thin ones thinner, because the season asks more of a body and gives less back, and the town pays for the asking with what it has.
+I went to the inn at noon. The inn is the place where strangers are kept and where the town keeps its account of them, and the innkeeper is a man who answers questions with the caution of one who has been asked the same questions by different people. The inn stood at the corner of the square, its sign creaking in the cold wind, its windows dark with age. I pushed open the door and stepped into the dim warmth of the common room. He stood behind the board with his hands on the edge of it, and he looked at me the way he looks at a man who has come to ask about a man who has gone. The fire was low, and the room was empty, and the smell of old ale and smoke hung in the air. The boards were dark with age, worn smooth by the hands of men who had leaned on them for decades. A single candle burned on the counter, its flame steady in the still air.
 
-"You'll want the extra for the day," said Margaret, and it was not a question, because the town had its customs, and a man on the lane was a man the town gave the custom to, whether he had asked for it or not.
+"Foster," he said, before I had spoken. "You are the second to ask."
 
-"I will," I said.
+I did not let my face change. "Who was the first?"
 
-"There's the rate in it," said Margaret, putting the bread on the counter. "The rate's in everything now. The flour's up a halfpenny since the asking, and the asking was carried at the bench's figure, and the bench's figure is in the bread. You'll taste the rate in it before the week's out." She wiped the counter and glanced at the nearly empty room. "The cold keeps them home, and the price keeps them away. I've seen three customers this morning where I'd have seen ten last year."
+"A man. Not of this town. He came on the Monday, the day after Foster left. He asked whether Foster had paid his bill, whether he had left anything behind, and which road he took. I told him what I told you: that he paid, that he left nothing, and that he went out by the west road. He paid for the answer and went."
 
-I paid the price, which was the price with the rate in it, and went out, and understood that the rate was not a paper only, but a thing that stood in the flour and in the loaf and in the halfpenny, and that the town carried it the way the town carried everything, which was in the body, and not in the mind only.
+"Did he give a name?"
 
----
+"No."
 
-The Tuesday was the Tuesday of the week, and the round was not my round, because the round went by the Saturday, and the Saturday was three days off, and the three days were the days the town kept for its own keeping, and I kept them as the town kept them, which was with the door shut and the lamp burning and the book on the desk, and the note in the desk, and the round-book beside it, and the five papers in the folder, and the certified copy in its place, and the whole of it kept as a man keeps what he does not yet know the keeping of.
+"Did he ask anything else?"
 
-The lamp burned at nine on the Tuesday, and was carried away along the rooms, and no sound came; and I set it down as the eighteenth reading, and let it stand.
+The innkeeper's hands moved once against the wood. "He asked whether anyone had been asking about Foster before he left. I told him the truth: that one or two had. He did not ask who. He did not ask why. He paid and left, and I have not seen him since."
 
-The sound did not come in the night, and the alternation stood, and the house kept itself, and I kept my own house, and the two keepings stood side by side in the lane, and did not touch, and the not-touching was the thing, and had been the thing since the first night, and I let it stand as the thing.
+I stood at the counter and let the information settle. A man who gave no name, who asked only about Foster's departure and whether others had been asking—he was not looking for a person. He was looking for a trail. And he had found one.
 
----
+"Did he give any indication of his business?" I asked.
 
-The Wednesday was the day before the day, and the town went about it with the haste that the season gives, and the church was dressed, because the church is dressed for Christmas whether it has a voice or not, and the dressing of it is the town's way of saying the season to the stone, and the stone takes it as stone takes everything, which is quietly, and keeps it as long as the keeping lasts.
+The innkeeper shook his head. "He was a careful man. He spoke little, and he paid in coin, and he left no trace. I do not know where he came from, and I do not know where he went. He was simply a man who asked questions and left."
 
-I went to the church road in the afternoon, because the road is the way to the church, and the church was being dressed, and the dressing was done by the verger and two women of the parish, and the verger had the green in his arms, and the women had the ribbon, and the three of them went about it with the haste of people that have done it every year and know where everything goes, and do it the faster for the knowing.
+I thanked him and went out. The cold was sharp, and the lane was empty, and I carried the knowledge that someone else had come looking for Foster after he was gone. I did not know whether that someone was the same person who had sent the letter, or someone else entirely. I did not know whether the asking was the asking of a man who had lost something, or the asking of a man who had found it. I stood at the inn door for a moment, watching the steam rise from my breath, and I thought of the west road and the man who had taken it.
 
-The verger saw me on the road, and came to the gate with the green still in his arms, and the ribbon on his sleeve.
+I walked on, past the closed shops and the dark windows. The town was settling into its afternoon quiet, the kind that comes when the cold keeps people indoors. I thought about the man who had asked about Foster. He had paid for his answer and left, but he had not left a name. That was deliberate. A man who gave no name had left me with little to remember except the questions he had asked. I could not tell whether that was caution or simply habit.
 
-"The house stands as it stands," he said, which was his way of saying the lamp had burned and the sound had not come, because the verger had taken to saying the house's news in the house's own words, and the house's own words were the standing and the not-standing, and the coming and the not-coming.
+The frost was thickening on the cobbles, and my boots made a crunching sound that seemed too loud in the stillness. I passed the church again, and I saw that a light was burning in the vestry window. The clerk was there, working late. I did not stop. I had no questions for him that I was ready to ask.
 
-"And the man?" I said.
+I turned the corner toward Arthur's shop, and I caught a glimpse of a man standing at the end of the lane, his collar turned up, his hands in his pockets. He was not moving. He was simply there, watching. I did not stop to look at him. I kept walking, and I did not turn around. But I knew he was still there. His presence was a weight at the edge of my awareness, and I felt it all the way to Arthur's door.
 
-"At the inn still," said the verger. "The month stands. The innkeeper lets the room by the week, and the week is carried, and the month is the month. He goes out in the morning and comes in at the dark, and does not eat at the table, and the maid says he writes in the evening. That is the whole of him that the town has."
+I went to Arthur's in the afternoon, because the shop was open and the fire was lit, and because Arthur was the one person in Alderwick who would not pretend he had not seen me. He was behind the counter with a book in his hand, and he did not look up when I came in. The shop was warm, and the smell of old paper and wood was familiar now. I stood at the counter and waited, and he closed the book and looked at me.
 
-"And the writing?"
+"The man from the inn has gone," I said.
 
-"The maid does not know the writing," said the verger. "She knows the candle, and the candle burns past ten. That is the whole of the writing the town has."
+"He has," said Arthur. "Margaret told me. She said you came for the cup and left with something else."
 
-I thanked him, and he went back to the green, and the two women had the ribbon on the font, and the church stood in its dressing, and the lane stood in its cold, and the house at the end of it stood in its silence, and the three standings were the town's one standing, and I went home with the knowledge that the man wrote in the evening, and that the candle burned past ten, and that the writing was the thing the town did not have, and the not-having of it was the town's keeping, and the keeping was the thing.
+"She gave me a paper."
 
----
+"I know."
 
-The Thursday was Christmas Eve, and the town went to its preparation with the last of its haste, and the shops shut early, because the season asks it, and the town gives what the season asks, and I went about my part of it, and bought what was wanted, and came home with the bread and the candle and the small things the day requires, and set them in their places, and let the day stand.
+I waited. He looked up then, and his eyes were still.
 
-The lamp burned at nine on the Wednesday, and was carried away along the rooms, and no sound came; and I set it down as the nineteenth reading, and let it stand. And the lamp burned at nine on the Thursday, which was the Eve, and was carried away along the rooms in the old way, and no sound came; and I set it down as the twentieth reading, and understood that the house kept its hour through the Eve as through the week, and that the Eve was not the house's Eve, because the house had no Eve, and had no Christmas, and had no season but the season of its own keeping, and the keeping was the season, and the season was the keeping, and the two were one thing.
+"There is a name on it that I have heard before," he said. "Hodge. I have seen that name in the parish books, in a hand that is not the clerk's. It is a name that appears in the margins, in places where the record does not quite fit. I do not know what it means. I do not know whether it means anything at all. But I know that a name that appears in the margins is a name that someone wanted to keep, and that the keeping of it was not the keeping of the book."
 
-The sound did not come on the Wednesday night, and did not come on the Thursday night, and the alternation stood through the Eve, and I let it stand, and went to bed with the cold at the pane and the lane in its silence, and the house at the end of it in its silence, and the two silences were the one silence, and I slept in it.
+"Did Foster ask you about Hodge?"
 
----
+"No."
 
-Christmas Day came in with the frost harder than it had been, and the sky clear, and the town gone to the church in its best coats, and the church dressed in its green and its ribbon, and the rector at the pulpit with the season's text, and the whole of the town standing and sitting in the one place, and doing it with the grace of the season, and the grace was the thing, and the thing was the town's, and the town kept it.
+"Did he ask about any of the others?"
 
-I went to the service by the middle of the lane, and came by the end house on the way, and the window stood open with the frost at the sill, and the rosemary in its pot with the frost on it, and the glass clear behind it, and no lamp burning because it was the day, and the day does not want a lamp, and the house stood in the day as it stood in the night, which was with its face to the lane and its keeping to itself, and the town went by it and did not see, and the not-seeing was the season's grace, and the grace was the town's.
+Arthur set the book down and placed his hand flat on the counter. "He asked about the house. The house at the end of the lane. He asked whether it had ever had a number. I told him the truth: that it has not, that it never has, and that the town has agreed to leave it without one. He did not ask why. He thanked me and went away. That was the only time he mentioned a house."
 
-The sermon was about the manger, and the keeping of the child in the manger, and the rector made the keeping plain, because the keeping is the thing the season stands on, and the town heard it as the town hears what it already knows, which is with the body and not with the mind only, and the hearing was the keeping, and the keeping was the hearing, and the two were the one act.
+I stood at the counter with the cold still in my coat, and I thought of the list, and of the name Bellweather on it, and of the house at the end of the lane, and of the question Foster had asked, and of the questions he had not asked. I did not know whether he had been looking for the house, or for the people who had kept it, or for the record that had been kept from it. I thanked Arthur and went out, and the cold hit me again, and the lane was quiet. The frost had begun to form on the cobbles, and the light was fading early, and I walked home with my hands deep in my pockets.
 
-I came home by the middle of the lane, and the house stood at the end of it, and I went in at my own door, and sat with the fire and the book, and wrote the day down:
+The evening came early, and the lamp came up at the end of the lane at nine, and I watched it from my window. It burned at its old height, steady, and was carried away along the rooms, and I did not write anything about it, because the writing of it had become a habit, and habits are the things a man does when he does not want to think.
 
-*25 Dec. Christmas. The lamp burns at nine, no sound. The man at the inn writes past ten; the rate is in the bread; the church is dressed. The town keeps its season, the house keeps itself, and I stand between them, not yet called. The note says I am not called; but the note itself is a call of sorts. I do not know yet what the new year will bring, or whether the keeping will hold. But I am on the lane, and the lane is in the town, and the town is in the year, and the year is turning.*
+I took the book and wrote what I had learned:
 
-I shut the book, and let the fire burn, and the lamp came at nine, and was carried away along the rooms, and no sound came, and I set it down as the twenty-first reading, and let it stand, and kept the Christmas.
-</content>
+*Foster left on Sunday. On Monday, a man not of this town came to the inn and asked about him: bill, belongings, road. He did not give a name. He asked whether anyone had been asking before Foster left. The innkeeper said yes. The man did not ask who. The man from the inn asked Arthur about the house at the end of the lane—whether it had a number. It does not. The town keeps it without one. Hodge's name appears in the margins of the parish books, in a hand that is not the clerk's. I do not know whether these things are one thing or three. I know that someone else is asking, and that I do not know who.*
 
+I shut the book and sat with the fire low. Outside, the town was quiet, and the frost was settling, and the lane was dark. I thought of the man at the inn, the one who had asked about Foster. I did not know whether he was the same man who had sent the letter, or someone else. I could not tell whether he was looking for Foster, for something Foster had found, or for someone connected to the questions. I kept that distinction in mind.
+
+I went to bed with that, and the cold at the pane, and the knowledge that the week before Christmas would not be the week of rest I had hoped for. The frost held, and the town slept, and I lay awake for a long time, listening to the silence. The gate was shut, the lamp was dark, and the house at the end of the lane kept its own counsel. I did not know what it would tell me, but I knew that I would not be able to stop listening. The questions that had begun with Foster had reached beyond him. I could not yet tell whether I was pursuing them or had merely become part of their path.

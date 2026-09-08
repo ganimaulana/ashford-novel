@@ -115,3 +115,9 @@ I did not know whether that was enough.
 But I knew the examination had changed. It was no longer rooms and objects and statements. It was the town, and the people, and a book buried in the soil of a garden, and a man standing at a gate, watching.
 
 The next test would be different again. I did not know what it would be. But I knew I would be ready to look.
+
+He paused before leaving the lane. The woman in the garden had not known anything about the examination, at least not that Leon could tell. Harkness had simply lost a book. Peale had supplied a direction. None of those facts required a hidden meaning. Leon found that restraint harder than deduction.
+
+Leon walked back toward the others without hurrying. The book had been found, returned, and explained well enough. What remained was the uncomfortable fact that Peale had known where to send him. Leon did not know whether that had been part of the exercise or simply useful knowledge. He decided not to decide yet.
+
+When Calloway's clerk called the next name, several candidates looked toward Peale before looking away. Leon noticed it. He also noticed that he had begun doing the same thing.

@@ -1,78 +1,771 @@
-# Chapter 16 — The Register of the House
+# Chapter 16 — The Register
 
-The nine o'clock hour came, and the lamp did not come.
+The lamp did not move again.
 
-I had the book open on my knee and the candle low, and I watched the upper window the way the town watches nothing, and the window stayed black from nine to ten, and from ten to the quarter; and I was on the point of setting it down as the second absence, and beginning to make a rule of absences, when the sound came.
+I waited until it disappeared behind the trees at the far end of Bellweather Lane.
 
-Once; and after the pause, twice. Low, and full, and at the ground, and moving along the lane toward the corner, the way sound comes along water and stone.
+Then I closed the curtain.
 
-I had heard it twice before this. The first night, before two of the clock, when I had come to the town and did not know what the town was. The Thursday night of the letter from London, when the lamp was out and the footsteps came over my own ceiling. And now the Sunday night, with the frost at the pane and the lamp out again; and I set down the pen and took up the fact as it stood, and it stood like this:
+I did not follow it.
 
-The bell comes when the lamp does not. Three nights observed, and the rule held for two of them. The sound travels along the ground, by the line of the water and the stone — which is the line of the lane's old drain, that runs under the kerb from the church corner to the mill. And the sound, both times that I have taken it at the minute, came from the direction of the house, and went the direction of the corner; so that whatever carries it, carries it out, and not in.
+That decision was deliberate.
 
-I did not go out after it. I have learned that much of the town's teaching: that the thing heard is not followed in this frost, because the thing heard has been heard on purpose.
+The previous night had already given me enough reasons to be suspicious. A stranger had brought me Hobbs's button. Daniel had supplied four names I had not expected to hear in the same conversation. Arthur had answered questions without answering them. And somewhere in the middle of all that, a distant light had seemed to turn toward a street I had begun to associate with too many unanswered questions.
 
-I wrote the entry, and I put out the candle, and the lane lay in its December dark, and somewhere at the end of it, where the rosemary stood in its pot, no light burned at all.
+Following the light would have been easy.
 
----
+Understanding why I wanted to follow it was harder.
 
-## Monday, 2 December
+So I stayed home.
 
-The poor-house stands off the lane behind the church, the way such houses stand, at the end of the street and the end of the contrivance. It is a long low building of grey stone, with a door that has a bell of its own — an honest bell, that a man pulls and a man answers — and I went to it in the morning, because the constable had said the soldier was not come in, and because the constable's saying of it had ended the matter for the constable.
+I wrote one more line beneath the others.
 
-The master of the house was a small man with a face worn by the particular weariness of keeping people who cannot pay. He had the parish's keys and the parish's caution, and when I said my name he looked at me the way men look at a name that has been on somebody's mouth.
+Do not mistake movement for invitation.
 
-"You're on the watch," he said.
+Then I closed the notebook.
 
-"I'm on the watch."
+The next morning, Daniel arrived carrying two books and looking as though he had not slept.
 
-"Then you'll be wanting the register." He did not ask why. In a town this size, the register is the thing everyone wants and no one can keep from anyone for long; the keeping of it is only the privilege of being the one asked first. He took down a book from a shelf behind his desk, and opened it at the place where the names lived that began with the letter of the soldier's.
+“You're awake early,” I said.
 
-"Hobbs," he said. "Entered this house the year five, out of the discharge. Eleven years the November before last. He kept himself."
+“So are you.”
 
-"Kept himself?"
+“I live here.”
 
-"Room to himself, by agreement; paid the difference out of his pension. A man's allowed that, when he has a pension and when he has the way of being alone. Hobbs had both. He was here when I came to the house, and he was here when the town came to the watch, and he was here Thursday morning, and he was not here Thursday night."
+“That doesn't explain it.”
 
-"He went out."
+“It does sufficiently.”
 
-"He went out at dusk," said the master. "After the boy came."
+He put the books on the table.
 
-I let the sentence stand. "What boy."
+“What are those?”
 
-"That is what I have been asked, and what I cannot tell you. A boy came to the door about the time of dusk, and asked for Hobbs by his name, and Hobbs went out to him at the door, and they spoke there where I could not hear it, and Hobbs came back and took down his things and went out again, and that is the whole of what the house knows."
+“Town registers.”
 
-"Did Hobbs say where."
+“Why?”
 
-"Hobbs did not say." The master turned the register round toward me, and pointed with a nail worn to nothing. The entry stood there, made in the master's own careful hand: *28 November. Went out in the evening. No return.* And below it, in smaller letters, the kind of note a man makes when he is covering himself against a day that may come: *Message brought by a boy. House not answerable for what is not the house's.*
+“Because you told me to look for Hobbs.”
 
-"He had his things ready," the master said. "That is the thing I have sat with, these three days. A man who goes out at a call, takes an hour to gather. A man who goes out with his bag already gathered, was gathered before the call came. I don't say anything by it. I say it, because you are the watch, and it is the sort of thing the watch writes down."
+“I told you nothing of the sort.”
 
-I wrote it down, standing at his desk, while he watched me write it, and then he said, in the voice of a man unburdening the thing that had actually been lying on him:
+“You showed me the button.”
 
-"There is a rate short this quarter, sir. The poor rate is short, and it will be short again next quarter, and there is talk of the bench about it. I am answerable for the house, and a man that keeps himself, out of his own pension, is a man that costs the parish nothing; and when such a man goes out and does not come in, the parish does not lose a charge — it loses a witness to the house's good order. I have said that to no one. I say it to you. The constable is a good man, but the constable hears what he can act on, and this is not that."
+“That was not an instruction.”
 
-"No," I said. "It is not that."
+“It was close enough.”
 
-I took my hat and went out, and the honest bell rang at the door behind me, and the frost had risen to a pale noon, and the town was about its business of the first of December, buying and selling and not buying, and the price of flour on the pump beside the price of everything else that could not be bought.
+I looked at him.
 
-I went home by the church, and I looked at the lane the way I had been taught to look at it, and I wrote in my book at my own desk:
+Daniel smiled.
 
-*2 Dec. Hobbs, poor-house register: went out Thursday dusk, after a message by a boy unknown to the house; his things were gathered before the call. The master's doctrine: a man who keeps himself is not a charge and is a witness. There are, therefore, three things the town has lost this month, that are kept by three different keepers: a bell, out of the churchwardens' book; a name, out of the trust-roll; and a soldier, out of the poor-house register. The register says a boy. The post-office says there is a boy. I do not say they are the same boy. I write it so that I shall not say it, until I have seen.*
+“You're becoming difficult.”
 
----
+“I thought I already was.”
 
-The lamp burned at nine that night, steady, at its old height, in the window with the plank gone; and I watched it, and it watched the lane, and neither of us spoke; and after it had been carried away along the rooms as it was carried, and the window was black, there was a knock at my door — not the soft fall of a letter, but a knock, such as I had had twice in this town, from Helen.
+“Not like this.”
 
-She stood with her shawl over her head, in the cold.
+He opened the first register.
 
-"It burned tonight," she said. She did not name what.
+The pages were thick and yellowed, the ink faded unevenly. Names had been entered in different hands over several years. Some lines were cramped. Others had been left with generous spaces between them.
 
-"It burned."
+“What are we looking for?” I asked.
 
-"Then somebody saw it." She stood a moment, and the frost smoked at our words between us. "Mine did not burn tonight, Mr. Ashcroft. I thought you would like to know that one of them did not."
+“Hobbs.”
 
-She was gone before I had found the thing to say to that, which was as well, because the thing to say to that was nothing; and I shut the door, and put down in the book, under the day, the last line of the chapter of the lamps:
+“That much I understood.”
 
-*She did not light hers tonight, and the house's light burned; so the two lights are not one keeping, or they are one keeping with two hands that do not know each other. I do not know which I would rather it were.*
-</content>
+“And the poor-house.”
+
+I sat opposite him.
+
+“Why?”
+
+“Because if Pike was right, Hobbs entered in 1805.”
+
+“Pike said he remembered.”
+
+“Exactly.”
+
+Daniel tapped the page.
+
+“People remember badly.”
+
+I looked at him.
+
+He shrugged.
+
+“Arthur says that.”
+
+“Arthur says many things.”
+
+“He does.”
+
+Daniel turned several pages.
+
+The register was divided into columns.
+
+Name.
+
+Date.
+
+Condition.
+
+Notes.
+
+The writing became less legible toward the middle.
+
+Daniel ran his finger down the list.
+
+“There.”
+
+I leaned closer.
+
+The name was written simply.
+
+Hobbs.
+
+No Christian name.
+
+No age.
+
+No place of origin.
+
+Under the date:
+
+1805.
+
+The note beneath it was brief.
+
+Entered under parish relief.
+
+I looked at Daniel.
+
+“That is all?”
+
+“That is all.”
+
+“Nothing about a regiment?”
+
+“No.”
+
+“Discharge?”
+
+“No.”
+
+“Previous residence?”
+
+“No.”
+
+“Cause?”
+
+Daniel shook his head.
+
+“Nothing.”
+
+I looked at the next line.
+
+Then the one after that.
+
+The register continued as though Hobbs were no more unusual than anyone else who had required parish assistance.
+
+That bothered me more than a strange note would have.
+
+“Who entered this?”
+
+Daniel checked the column.
+
+“Different clerk.”
+
+“Which one?”
+
+“Thomas Ingle.”
+
+The name meant nothing to me.
+
+“Was he still working here?”
+
+“I don't know.”
+
+Daniel closed the register halfway.
+
+“You're thinking about the missing information.”
+
+“Yes.”
+
+“Why?”
+
+“Because there isn't enough.”
+
+“That sounds obvious.”
+
+“It isn't.”
+
+He waited.
+
+I pointed at the page.
+
+“If a man enters a poor-house, there should be a reason.”
+
+“Poverty.”
+
+“That explains the category. Not the man.”
+
+Daniel nodded slowly.
+
+“You're right.”
+
+“I usually am.”
+
+“No.”
+
+He turned another page.
+
+“Sometimes.”
+
+We spent the next hour looking through the records.
+
+Hobbs appeared three times.
+
+The first was his entry in 1805.
+
+The second was a notation several years later that his allowance had been continued.
+
+The third was from 1816.
+
+Daniel read it aloud.
+
+“Present Thursday morning.”
+
+He looked at me.
+
+“That's yesterday's date.”
+
+“No.”
+
+He checked again.
+
+“Not yesterday. Thursday the twenty-eighth.”
+
+I took the book.
+
+The entry was unmistakable.
+
+Hobbs — present, Thursday morning.
+
+Beneath it was another line.
+
+Absent in the evening.
+
+There was no return entry.
+
+Daniel looked uneasy.
+
+“When was the register last updated?”
+
+“Friday morning, apparently.”
+
+“So they knew.”
+
+“Yes.”
+
+“Did anyone record where he went?”
+
+“No.”
+
+I turned the page.
+
+There was a later note.
+
+Shorter than the others.
+
+Boy came at dusk. Private conversation.
+
+I read it twice.
+
+Daniel leaned closer.
+
+“That's him.”
+
+“The boy?”
+
+“Yes.”
+
+“Do you know that?”
+
+“No.”
+
+“Then don't write it in your head as fact.”
+
+Daniel frowned.
+
+“You really do that now?”
+
+“Do what?”
+
+“Argue with things before they've happened.”
+
+“It saves time.”
+
+He smiled.
+
+“Sometimes.”
+
+I looked at the next line.
+
+28 November. Went out in the evening. No return.
+
+The ink was darker than the earlier entries.
+
+Someone had written it after the fact.
+
+Below it, in a different hand:
+
+Message brought by a boy. House not answerable for what is not the house's.
+
+I stopped.
+
+Daniel noticed.
+
+“What?”
+
+I pointed.
+
+He read it.
+
+“What does that mean?”
+
+“I don't know.”
+
+“You don't have a theory?”
+
+“I have several.”
+
+“Are any useful?”
+
+“Not yet.”
+
+He sat back.
+
+For once, he did not press.
+
+We took the register to Margaret.
+
+She was sorting flour sacks behind the counter when Daniel placed it in front of her.
+
+She looked at the page.
+
+Her expression did not change.
+
+“You found him.”
+
+“We found a record.”
+
+“That isn't the same thing.”
+
+“No.”
+
+She wiped her hands on her apron.
+
+“Hobbs was a quiet man.”
+
+“Pike said he watched things.”
+
+“He did.”
+
+“What things?”
+
+Margaret hesitated.
+
+“Things people didn't want watched.”
+
+Daniel exchanged a glance with me.
+
+“That's not an answer,” I said.
+
+“It is the one I have.”
+
+“You knew him.”
+
+“Everyone knew Hobbs.”
+
+“Did he ever speak about the army?”
+
+“Yes.”
+
+“What did he say?”
+
+“That soldiers are taught to look where they're told.”
+
+She folded the cloth.
+
+“And?”
+
+“And Hobbs preferred looking where he wasn't told.”
+
+I remembered Pike.
+
+A man who had spent years asking questions that belonged to other people.
+
+“What was Hobbs watching?”
+
+Margaret shook her head.
+
+“I never asked.”
+
+“Why?”
+
+“Because he never offered.”
+
+“That has never stopped you from being curious.”
+
+“No.”
+
+She looked toward the front window.
+
+“It stopped me that time.”
+
+“Why?”
+
+She did not answer.
+
+Daniel broke the silence.
+
+“Did you know he was leaving?”
+
+“Yes.”
+
+“You knew?”
+
+“I heard.”
+
+“From whom?”
+
+“People talk.”
+
+Daniel groaned.
+
+Margaret smiled.
+
+“You're beginning to understand the town.”
+
+I closed the register.
+
+“Was he afraid?”
+
+Margaret's smile disappeared.
+
+“No.”
+
+“Certain?”
+
+“Yes.”
+
+“How?”
+
+“He paid what he owed.”
+
+“That tells you he wasn't afraid?”
+
+“No.”
+
+She looked at me.
+
+“It tells me he thought he was going somewhere.”
+
+Arthur was less helpful.
+
+Or perhaps more helpful than he intended.
+
+We found him behind the counter, reading a book with no visible title.
+
+When he saw the register, he sighed.
+
+“You're collecting dead paper now.”
+
+“Only the interesting parts.”
+
+“Those are usually the dangerous ones.”
+
+I opened the register.
+
+“Hobbs.”
+
+Arthur read the entry.
+
+His finger stopped over the note about the boy.
+
+“Where did you get this?”
+
+“Parish records.”
+
+“Who showed you?”
+
+“Daniel.”
+
+Daniel looked offended.
+
+“I didn't show him. We found it together.”
+
+Arthur ignored him.
+
+“Did you find anything else?”
+
+“No.”
+
+“Good.”
+
+I watched him.
+
+“Why is that good?”
+
+“Because incomplete records are usually safer than complete ones.”
+
+“That sounds like something a man says when he has seen both.”
+
+Arthur closed his book.
+
+“I've seen enough books.”
+
+“Do you know what this means?”
+
+He looked at the note.
+
+“No.”
+
+“You don't believe that.”
+
+“I believe that words mean what they say.”
+
+“Then what does it say?”
+
+He pointed.
+
+“House not answerable for what is not the house's.”
+
+“That makes no sense.”
+
+“Not to us.”
+
+“To whom, then?”
+
+Arthur looked at me.
+
+“That is the question.”
+
+Daniel leaned against the counter.
+
+“What about the factions?”
+
+Arthur's expression hardened.
+
+“Don't use that word as though they are all part of the same argument.”
+
+“They aren't?”
+
+“No.”
+
+“Then why do people keep talking about them together?”
+
+“Because people like categories.”
+
+He returned his attention to me.
+
+“Those who search family records want family records.”
+
+“The Night Lantern wants information about streets.”
+
+“The Revolutionary Army wants political change.”
+
+“The Possessors want valuable things.”
+
+He paused.
+
+“There is another.”
+
+He stopped.
+
+I waited.
+
+Arthur shook his head.
+
+“Not yet.”
+
+“Why?”
+
+“Because that knowledge comes later.”
+
+“That isn't an answer.”
+
+“It is the only one you're getting.”
+
+Daniel glanced at me.
+
+I knew that look.
+
+He wanted to ask another question.
+
+I shook my head.
+
+Arthur noticed.
+
+A faint smile appeared.
+
+“Good.”
+
+That evening, I returned to the poor-house.
+
+I had no official reason to be there.
+
+That made it easier.
+
+The building was quiet.
+
+A clerk let me examine the register again after I explained that I wanted to verify a date.
+
+He did not ask why.
+
+People rarely asked questions when the answer might involve paperwork.
+
+I copied the relevant entries into my notebook.
+
+Not interpretations.
+
+Only facts.
+
+1805 — Hobbs entered under parish relief.
+
+28 November 1816 — present Thursday morning.
+
+Boy came at dusk. Private conversation.
+
+Went out in evening. No return.
+
+Message brought by a boy.
+
+I stared at the last line.
+
+Then I added another.
+
+The register does not say who sent the message.
+
+That mattered.
+
+The boy could have been sent by anyone.
+
+The Revolutionary Army.
+
+The Night Lantern.
+
+The Possessors.
+
+Someone else entirely.
+
+And none of those possibilities explained why Hobbs had apparently been waiting.
+
+I closed the notebook.
+
+Before leaving, I asked the clerk one final question.
+
+“Does Hobbs have belongings here?”
+
+The clerk looked puzzled.
+
+“A few.”
+
+“May I see them?”
+
+“No.”
+
+The answer was immediate.
+
+“Why?”
+
+“Because they belong to him.”
+
+I almost laughed.
+
+Not because it was funny.
+
+Because it was familiar.
+
+A boundary.
+
+A refusal.
+
+A sentence that seemed ordinary until you tried to cross it.
+
+I thanked him and left.
+
+On the way home, I passed Bellweather Lane.
+
+I did not intend to enter.
+
+The street was dark.
+
+At the far end stood the house.
+
+No number.
+
+No light.
+
+I stopped.
+
+For several seconds, nothing happened.
+
+Then a lamp appeared in an upper window.
+
+Nine o'clock.
+
+I watched it.
+
+The light remained still.
+
+I waited for it to move.
+
+It did not.
+
+For once, I was relieved.
+
+I turned away.
+
+After three steps, I heard something behind me.
+
+Not a bell.
+
+Not footsteps.
+
+A single knock.
+
+I stopped.
+
+The sound had come from the direction of the house.
+
+I did not turn around.
+
+A second knock followed.
+
+Then silence.
+
+I stood there for a long moment.
+
+Finally, I continued walking.
+
+At home, I opened my notebook.
+
+Under Hobbs's name, I wrote one final sentence.
+
+He did not disappear without warning. Someone told him to leave, and he was already prepared to listen.
+
+I stared at it.
+
+Then crossed out the word someone.
+
+I replaced it with:
+
+A boy brought a message. Hobbs was already prepared to listen.
+
+That was better.
+
+It was also less satisfying.
+
+Which was usually how I knew it was closer to the truth.

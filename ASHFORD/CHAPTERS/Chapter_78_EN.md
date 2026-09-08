@@ -1,14 +1,10 @@
 CHAPTER 78 — THE DISTURBANCE
 
-I went to the office on Monday morning, because Friday had ended with the dismissal and the constable had sent for us.
+The summons came Monday morning.
 
-The lane was quiet. The common was empty. The office door was open. I had been there eleven times before. But I had never been there as one of four men who were to sit a second examination together, and I had never been there as a man who was not answerable to the office at all.
+By the time I reached the office, the other three were already there. The lane was quiet, the common empty, and the clerk was copying into the ledger as though nothing unusual had been arranged.
 
-I stepped inside.
-
-The room was not the same. The chairs had been moved back to their usual places. The desk was clear except for a sheet of paper and a pencil. The clerk was there, copying into the ledger. Calloway was standing by the fireplace. Orme was there, sitting in the chair opposite the door.
-
-The three other men were there. The man with the notebook. The older man with the hat. The younger man with the eager look.
+Calloway stood by the fireplace. Orme sat opposite the door.
 
 Calloway looked up. He set the paper down. He took off his hat and set it on the desk.
 
@@ -28,7 +24,7 @@ He turned his hat in his hands.
 
 He looked at the clerk. The clerk closed the ledger. He put on his hat. He went out.
 
-We went. The clerk led us through the door, down the passage, up the stairs. The man with the notebook walked beside me. The older man went ahead. The younger man came last, his boots loud on the wood.
+The clerk led us upstairs. The man with the notebook walked beside me. The older man went ahead. The younger man came last.
 
 The clerk opened the door at the top of the stairs. He stood aside. He did not come in.
 
@@ -210,12 +206,14 @@ The man with the notebook fell into step beside me on the lane. The older man we
 
 He looked at me. He did not seem surprised. He turned down a side street. The older man was already gone. The younger man looked at me, and looked away, and went on up the lane.
 
-I set the key in the lock and turned it. The door opened. The room was the same.
+I set the key in the lock and turned it. The room was the same.
 
-The box was in the press. The papers were on the table. The bundle was tied. The ruled sheet was folded. The service file was on the left. The notebook was closed.
+I thought about the sill.
 
-I did not know whether the print had been left for us to find or left by a man who did not know we were coming. I did not know whether the room had been set out that morning or the night before. I did not know whether Calloway had wanted to see what we would touch, or what we would refuse to touch, or only which of us would say so out loud.
+We had not touched it. We had only looked closely enough to see that something had disturbed it. The paper beneath the key remained unread. The print remained unexplained. The window remained open.
 
-But we had been given one thing and we had spent it, and there was a folded paper under a key in a room above the office that none of us had read.
+The office had given us one act of disturbance, and we had spent it on a question that might disappear with the dust.
 
-Whether that was the right way to have spent it, I did not know.
+I did not know whether that was the right choice.
+
+I suspected the office had not expected us to know either.

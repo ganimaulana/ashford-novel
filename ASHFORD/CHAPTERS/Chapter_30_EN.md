@@ -1,34 +1,91 @@
-# Chapter 30 — The Paper on the Desk
+# Chapter 30 — The Second Telling
 
-The Sunday came in with the snow beginning again in the night, and lying thin on the roofs, and the church bells of the other towns coming over the country in the cold air, because it was the Sunday before Christmas, and the towns that had voices used them, and ours stood over the lane with its wheel and its rope gone, and kept its silence as it keeps it, and the silence was the louder for the other towns.
+Sunday brought a light snow. I went to church with the town and kept my attention on the road. The house at the end of Bellweather Lane stood beyond the frost, its rosemary dark in the pot.
 
-I was up before the middle of the morning, because the paper was on the desk, and the day had come, and a man does not keep a paper over the Sunday that has come into his house in the night, and I sat down to it with the fire not well lit, and the cold of the night still in the room, and opened it.
+The sermon was about the steward that is found faithful, and I heard it the way I had heard it before, and the church preached the keeping, and the town kept the preaching, and I sat under it with the knowledge of the week in my pocket, and did not let the knowledge show on my face.
 
-It was a half-sheet, and it was folded once, as I had seen, and the writing was on the inside of it, in the hand I had come to know as a man comes to know a hand that writes to him out of the dark: the fine pen, and the upright of it, and the hurry kept down by the discipline, and I set it beside the others in the desk, and the likeness stood as it had stood from the first. It was the fifth of them. The sheet of the empty house, and the envelope of the letter, and the envelope that came with the fall at the door, and the note of the Sunday light, and this. Five papers, and one hand, and the hand had come to my door in the night of the round, and had put its paper on the step, and had gone away from the step, and the round had kept the lane while the paper came into the house.
+At the door going out, the verger gave me my hat, and stood with it in his hand a moment after the giving, in the way of a man that has a thing to say and has chosen the door to say it at.
 
-The note ran so:
+"The key is given back," he said. "The clerk's key. The man from the bench gave it back this morning, before the service, into the clerk's hand, and the clerk has given it me to tell of, because the clerk is a man that tells by another man's mouth."
 
-*The questions are come into the town, and they have been to the post office and at the counter. Answer no man of the lane. There is one that sits with the keepers that is not of the town, and the paper he asks for is not the paper he will take. The gate you keep in your round is kept for another keeping. Do not go in at it. You are not called.*
+"Did he say what he found?"
 
-No name. No date. The way of all the five.
+"He said what he found," said the verger. "He found the wheel that swings, the rope that hangs, and the bell that hangs with it, and he saw that it does not ring, and he said it at the town hall with the clerk standing by, and the clerk said nothing against it, because there is nothing to say against the truth of it. The bench will have it in the writing now, that the bell is in the tower and has not rung in living memory."
 
-I read it three times, and I took the parts of it as a man takes the parts of such a thing, one by one, and set them against what I had.
+"And the man from the inn?"
 
-The questions: it knew of the post office, and it knew of the counter, and the one had been on the Wednesday and the other on the Thursday, and the knowing of both meant the writer stood where the town's business stands, or had one standing at each of the places, and had come to the writing of the note with the week in his hand. It knew the lane, because it said the lane. It knew the round, because it said the round, and the gate, because it said the gate, and the gate is a thing I have written in no book but my own, and spoken to no man but in the book's way, and the knowing of it stood in the note the way the knowing of the Sunday light had stood in the first note, and I understood that the observer had not gone away with the winter, and had not been put off by the watch, and was about my business while I was about the round.
+The verger's face did not change.
 
-And there was the one sentence that stood out of the note as a thing stands out of a wall, and I read it again by itself: *You are not called.* Because Helen had said of Hobbs that he went the way of a man that is called, and not the way of a man that walks, and the word stood in the note the way it had stood at her door, and the two standings faced each other across the week, and I did not know whether the word was the same word in the two places, and whether the calling that had taken Hobbs out of the poor-house was the calling the note said I had not had, and the not-knowing of it was the thing the note wanted of me, because a note is kept to the measure of what it gives, and this note gave me the measure of my own place in the lane: that I was in it, and kept in it, and not called out of it, and that the keeping of me in it was the thing the writer kept.
+"He was at the back of the nave this morning. He stood where the bench man stood the week before, and he saw me seeing, and I saw him seeing, and that is where it stands between us."
+
+I thanked him and went home by the lane, and the snow was falling light, and the lane was quiet, and I did not look at the end house, because I had looked at it enough.
 
 ---
 
-I went to the church at the middle of the morning, because that is the day and the way, and the snow lay on the rosemary at the end house when I came by it, and the window stood open with the snow coming in, as it had stood the Sunday of the first snow, and the town went by it with its face to the church, and did the not-seeing with the grace of the season, and I went in with the town, and took my place.
+The afternoon brought a visitor.
 
-The sermon was of the season, and the rector gave the season its due, and I heard it with the note in my pocket, and understood, in the hearing of it, that the town kept its Christmas over the keeping of the house, and that the two keepings stood in the one town, and the town knew of one of them and did not know of the other, and the knowing of the one was the thing the town came to church for.
+I was at the desk with the book open and the fire low, and I heard the knock, and it was not the knock of the post, and it was not the knock of Daniel, and it was not the knock of Margaret. I opened the door, and the postmaster's boy stood there with his hat in his hand, the way he had stood at the door of the office, and he said: "If you please, sir, my uncle said I was to bring you this. It came by the hand of a boy that comes, and it is for you."
 
-At Margaret's in the afternoon I stood the length of a cup, because the Sunday afternoon is her hour, and the room was fuller than its way, with the season bringing the town in, and the talk was of the Christmas and of the prices, and of the rate that had been asked, and the town talked of the rate the way it talks of the weather, because the rate was come to be weather, and stood over the winter of every man in the room.
+He held out a letter. It was folded, not sealed, and the paper was ordinary, unmarked, the kind sold by any stationer in town. I took it, and I did not open it, and I looked at him.
 
-And Margaret gave me the thing of the day at the counter, low, in the way she gives such things.
+"The boy that comes?"
 
-"He has taken the room for the month," she said. "The man at the inn. He came for the fortnight, and the fortnight turned to a month before the middle of it, and the inn has let him the room for the month, and the month stands over the Christmas. That is the news of it, and I give it you because you keep the roll, and a man that is come for a fortnight and stays for a month is a man that has found what he came for, or has not found it, and the two are different, and I do not know which it is, and the not-knowing of it is the thing I keep."
+"Yes, sir. The boy that comes in the evening. He brought it this morning, and my uncle said I was to bring it to you directly, and not to put it on the sideboard."
 
-I took the telling, and went home with it through the snow, and the lamp came up at the end of the lane at the corner hour of nine, steady, at its old height, and I watched it from the window, and understood that the house kept its hour through the season as through the week, and that the note was in my desk, and the month was over the Christmas, and the gate was kept for another keeping, and I was not called, and the three things stood about the lamp, and I let the lamp burn, and wrote the day down, and kept the Sunday.
-</content>
+I did not ask how the boy knew my name. I did not ask how he knew where I lived. I thanked the boy, and he went away, and I shut the door, and I stood with the letter in my hand, and the paper was cold, and I did not open it.
+
+I held it for a long moment. It was addressed to me, in a hand I did not recognize, though something about it seemed familiar—I could not say what. I did not know whose hand it was, and I did not know who had sent it, and I did not know why it had come to me instead of the office.
+
+I opened it.
+
+It contained a single line:
+
+*Do not seek the man from the inn.*
+
+There was no signature. There was no date. There was no address.
+
+I read it twice, and I folded it, and I did not put it in the book. I put it in the drawer, beside the bell, and I shut the drawer, and I did not lock it.
+
+---
+
+I went to Margaret's in the evening, because the shop was open, and because I needed to stand at a counter and see a face that was not the face of a letter. The room was warm, and the windows were steamed, and the man at the table by the window was not there. The table was empty, and the paper that had been on it was gone, and the place where the mug had stood was wiped clean.
+
+"Foster is gone," said Margaret, from the counter. "He left this morning, before the light. He did not say where."
+
+I had not come to see him. I said, "He left?"
+
+"He left," said Margaret. "He paid his bill, and he took his bag, and he went out by the road to the west, and he did not say when he would come back." She set a cup before me, and the steam rose from it, and she did not let go of the cloth. "He left something behind. Not a thing he meant to leave, I think. He left it on the table, and I found it when I cleared the table."
+
+She reached beneath the counter and brought out a folded paper. It was not the paper he had been reading. It was a smaller paper, older, and it had been folded and refolded many times. She laid it on the board between us.
+
+"It was under his plate," she said. "He did not take it. I did not read it. I thought you might want to see it, because he was the man that had been asking questions."
+
+I opened the paper. It was a list in an unfamiliar hand. At the top were the words *Names from Alderwick*. Beneath them were three names: *Ashcroft, Hodge, Foster*. The lower edge had been torn away, and another column was missing.
+
+The list was incomplete. The torn edge made it impossible to tell how many names had been lost. I looked at Foster's name and then at my own.
+
+I folded the paper and gave it back to Margaret.
+
+"Keep it," I said. "It is not mine."
+
+She took it, and she put it under the counter, and she did not say anything, and I did not ask her what she thought of it, because I had learned by then that a list is a thing that a man sees once, and the seeing of it is the keeping of it, and the keeping of it is the thing he carries.
+
+I paid for the cup, and I went out into the cold, and the snow was falling heavier now, and the lane was quiet, and I walked home the long way, past the church and past the gate, and the gate was shut, and the padlock was on it, and I did not stop to look at it.
+
+---
+
+I sat at the desk with the fire low, and I took the letter from the drawer and read it again: *Do not seek the man from the inn.* I did not know who had sent it, and I did not know whether it was a warning or a test. I did not know whether it had come from the man at the inn, or from someone who knew he was there, or from someone who knew I was watching him.
+
+I put it back in the drawer, beside the bell, and I did not lock the drawer, because I had decided that locking a drawer was a way of saying that something inside it was worth locking, and I did not want to say that to anyone who might be looking.
+
+I took the book, and I wrote what I had seen:
+
+*The man from the inn has left Alderwick. Margaret says he went out by the road to the west. He left behind a list of names: Ashcroft, Hodge, Foster. The list is not complete. There are spaces. I do not know whether the spaces are names that have been removed, or names that have not yet been added. The list came to me by the hand of a boy, and the letter said: 'Do not seek the man from the inn.' I do not know who sent the letter, and I do not know why it came to me. I do not know whether the man left because he found what he was looking for, or because he found that he was being looked for.*
+
+I shut the book, and the fire was low, and the lane was dark, and the lamp came up at the end of the lane at nine, and I watched it, and I thought of the list, and of the space beside the name Foster, and of the name Ashcroft on the list, and of the name Vale on the list, and of the name Hodge on the list, and I did not know whether the list was a list of people who had been kept, or people who had been kept out.
+
+I did not know whether I was on the list.
+
+I was Ashcroft, and Ashcroft was on the list, and the list had come to me.
+
+I went to bed with that, and the cold at the pane, and the knowledge that the man had gone, and the list had stayed, and the letter had warned me not to look for him. I did not know whether the warning meant I had already been noticed. I went to bed with the list in my mind and no way to tell whether it was a warning, a record, or something else.

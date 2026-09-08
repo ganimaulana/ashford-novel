@@ -34,7 +34,7 @@ I read it twice. The situation was clear. The options were limited. The constrai
 
 I looked at the locked drawer. The key was on the desk, beside the envelope. I could take it at any moment. But Calloway had said the drawer might mislead me. If the letter was truthful, the drawer would help. If the letter was lying, the drawer might contain more lies.
 
-I thought about the lock in the storehouse. The clerk had known what it was before I identified it. The office had placed it before me without explanation. They were not testing whether I could find things. They were testing whether I would trust what I saw.
+I thought about the lock in the storehouse. The office had placed something uncertain before me and had waited for a decision. I had no reason to assume this task was different.
 
 I looked at the letter again. It said the package contained documents that belonged to the Constable office. It said the sender was unknown. It said the package was unmarked except for the address.
 
@@ -68,11 +68,9 @@ Now there was a second list. Twelve names. All of us.
 
 I folded the paper and put it in my pocket. I looked at the small iron key. It would open the package. If I used it, I would know what was inside. But the second letter said the package contained personal papers, not official documents. It said the sender was known. It said the address was deliberate.
 
-If the second letter was true, then the first letter was false. The package did not contain Constable documents. The sender was not unknown. The address was not a mistake.
+The two letters contradicted one another. I could not establish which one was genuine, whether either description of the sender was reliable, or whether the package contained what either letter claimed.
 
-But if the second letter was false, then the package did contain Constable documents. The sender was unknown. The address was a mistake.
-
-I had no way to verify either letter. Both were sealed. Both were unmarked. Both had been placed in the drawer for me to find.
+I could not verify either letter. Neither had a signature or provenance I could establish. The package itself was outside the room, and I had no authority stated in the instruction to open official material merely because a letter told me to.
 
 I thought about Hunter. In the granary, he had seen the broken step and chosen the longer route. He had misjudged the weight of the crate. He had finished before us, but he had also made a mistake.
 

@@ -1,569 +1,438 @@
-CHAPTER 47 — THE CRACKS
+# Chapter 47 — Three Accounts
 
-Spring came and went quietly. The first stone cracked in May.
+The next matter came from the parish.
 
-I noticed it because the line was too straight.
+It was not a crime. It was a disagreement over a list.
 
-Natural fractures rarely bothered to announce themselves. They spread according to pressure, weather, roots, and time. This one began near the base of the eastern marker and ran upward for several inches before disappearing beneath a patch of lichen.
+A parish officer had received a copy of an old account showing that a certain household had owed money for repairs. The household denied it. The officer produced the copy. The household produced another.
 
-I crouched beside it.
+The figures were different.
 
-The stone had not moved.
+Calloway gave me the matter because, as he put it, "You have been making a habit of annoying paper."
 
-At least, not visibly.
+I took the two copies.
 
-I took out my notebook.
+The first was clean and recent. The second was older, the ink faded at the edges.
 
-Eastern marker — new fracture.
+Both carried the same names.
 
-I added the date.
+Both carried the same date.
 
-Then the weather.
+But the totals differed by three shillings.
 
-Cold morning. Light rain during the night.
+I asked who had copied the older account.
 
-I ran a finger over the crack.
+No one knew.
 
-The surface was dry.
+I asked whether the original survived.
 
-I removed my glove and touched it again.
+The parish officer said it had not.
 
-Nothing.
+I asked the household whether they had seen the original.
 
-I waited.
+The oldest member said he had, as a boy.
 
-Still nothing.
+That was not enough.
 
-Then I remembered the gear in my coat.
+I returned to the parish rooms and asked the clerk for the account book covering the same period. He brought it from a lower shelf.
 
-I stopped.
+The figures in the book matched neither copy.
 
-For several seconds I did not move.
+I looked at the page again.
 
-I had carried it to these stones a dozen times since the winter.
+The difference was not three shillings.
 
-It had never once done anything.
+It was a line.
 
-That was not a reason to leave it at home.
+A charge had been omitted from both copies.
 
-It was a reason to be exact about the record.
+The parish officer had copied one version. The household had copied another. Neither had copied the original exactly.
 
-I took the gear out.
+I asked the clerk to show me the next page.
 
-It was as cold as the morning.
+The missing charge appeared there as a continuation.
 
-I held it several inches from the stone.
+I went back to the two men and explained it.
 
-Nothing.
+The dispute ended without apology.
 
-I moved farther away.
+The household had owed the money.
 
-Nothing.
+The parish officer had copied the wrong page.
 
-I returned to the stone.
+Neither had lied.
 
-Nothing.
+The case was closed before sunset.
 
-I repeated the test three times.
+I returned the documents and went home.
 
-The result was the same.
+I expected to feel satisfied.
 
-That was interesting.
+Instead I thought about the Agreement.
 
-Not the gear. The stone.
+A copied document could preserve a fact and distort it at the same time.
 
-The stone had changed, in dry weather, without a mark on it — and the one object I owned that might have explained it did not answer the change at all.
+A difference did not require a conspiracy.
 
-It was not proof.
+But neither did a harmless explanation make every difference harmless.
 
-I wrote:
+I understood why Vale had taught me to keep the categories separate.
 
-Eastern marker fractured. Gear no different at the stone than in my coat.
+That evening, Eleanor Shaw found me outside Arthur's shop.
 
-Then, beneath it:
+She had been standing beneath the awning, holding a parcel wrapped in brown paper.
 
-The stone is changing without it. Cause unknown.
+"You have been asking questions about copies," she said.
 
-I put the gear away.
+"Yes."
 
-I did not touch the stone again.
+"Good."
 
-Two days later, another crack appeared.
+"Why?"
 
-Not on the eastern marker.
+"Because copies are where certainty goes to become complicated."
 
-The second stone stood farther along the old line, partly hidden behind a low wall.
+I looked at her.
 
-I had not visited it since the first fracture.
+"Did you know about the parish copy of the Agreement?"
 
-The crack was smaller.
+"I know that there are copies."
 
-A hairline running diagonally across the upper face.
+"How many?"
 
-I examined it carefully.
+"Enough that you should stop counting."
 
-There was no sign that anyone had struck the stone.
+"Are they all different?"
 
-No fresh damage.
+"Probably."
 
-No displaced earth.
+"Then how can anyone know what the Agreement says?"
 
-I measured the fracture.
+She adjusted the parcel in her arms.
 
-Then I took out the gear.
+"By knowing what each copy is."
 
-Nothing.
+"That sounds like a distinction without a difference."
 
-I had not expected anything.
+"It is the difference."
 
-I ran the test properly regardless.
+She looked toward the street.
 
-I placed the gear on the ground beside the crack.
+"A copy has a date. A copy has a hand. A copy has a purpose. Sometimes the purpose matters more than the words."
 
-I stepped away.
+"Does the Order keep copies?"
 
-Waited.
+"Some people in the Order keep records."
 
-I returned to the stone.
+"That is not what I asked."
 
-Nothing had changed in it.
+"No," she said. "It is what I answered."
 
-I repeated the experiment.
+I let the silence remain.
 
-Again.
+She looked back at me.
 
-And again.
+"You are beginning to ask better questions."
 
-The result was consistent, and the consistency was the finding: the second fracture had appeared the same way the first had, and the gear had no more to say about this stone than about the last one.
+"I have heard that before."
 
-I wrote:
+"Then perhaps you should stop asking it of people who use the same answer."
 
-Second fractured marker. Gear: no response, as before.
+She walked away.
 
-I stared at the sentence.
+I stood outside Arthur's shop for a long time.
 
-Then added:
+The conversation had given me no secret.
 
-The stones are doing this without it.
+It had given me a method.
 
-I almost wrote connected.
+I went home and wrote:
 
-I didn't.
+*Two copies can disagree without either being false. The task is not to choose the version that supports my theory. The task is to establish what each copy is, when it was made, and why.*
 
-That word carried too much certainty.
+I underlined the last sentence.
 
-A shape appeared at the edge of the common that evening.
+Then I closed the notebook.
 
-I saw it from the road.
+For the first time, I wondered whether the Order's interest in the Agreement might be less about guarding a secret than about deciding which version of the past deserved to survive.
 
-At first I thought it was the same trick of distance that had fooled me before.
+I did not write that conclusion down.
 
-A shape between the trees.
+It was only a thought.
 
-A dark roof.
+I returned to the parish rooms the following morning.
 
-A pale wall.
+The clerk had the old account book open before him.
 
-I stopped walking.
+"You have come back."
 
-The shape remained.
+"I wanted to see one thing."
 
-It stood where the common met the lower pasture, well away from Bellweather Lane.
+He waited.
 
-This time, it was not fading.
+"The original page. The one neither copy reproduced correctly."
 
-It stood exactly where the eye expected it to be.
+He turned several leaves.
 
-The windows were dark.
+"This is the closest."
 
-The front door was open.
+The paper was thin and yellowed, the ink faded almost brown.
 
-I looked behind me.
+I read the entry again.
 
-The road was empty.
+There was nothing remarkable about it.
 
-I waited for someone to emerge.
+No hidden mark.
 
-Nobody did.
+No unusual hand.
 
-The sensible decision would have been to return to town.
+No missing line.
 
-Instead, I walked toward it.
+Just a charge continued from one page to the next.
 
-Not quickly.
-
-Every few steps I stopped and looked at the shape again.
-
-It remained.
-
-That was already different.
-
-The first time I had seen it, it had disappeared before I could reach it.
-
-Now it seemed almost ordinary.
-
-That made it worse.
-
-I reached the front door.
-
-The air inside was colder.
-
-Not dramatically.
-
-Just enough for me to notice the difference against my face.
-
-I stood there for several seconds.
-
-Then entered.
-
-The hallway was not what I had expected.
-
-It was bare.
-
-No furniture.
-
-No pictures on the wall.
-
-No coat hanging beside the stairs.
-
-Only a single clock on the far wall.
-
-It had stopped at 00:00.
-
-I approached it.
-
-The face was old.
-
-The glass cracked across one corner.
-
-I did not touch it.
-
-I looked at the hands.
-
-00:00.
-
-I wrote it down.
-
-Then I heard something.
-
-A dull sound beneath my feet.
-
-I froze.
-
-Nothing followed.
-
-I waited.
-
-Another sound came.
-
-Three seconds later.
-
-Not a knock.
-
-Not exactly.
-
-More like something striking wood from below.
-
-I looked toward the floor.
-
-The boards were old.
-
-There was no visible trapdoor.
-
-I crouched.
-
-The sound came again.
-
-This time I heard it clearly.
-
-Three knocks.
-
-Slow.
-
-Deliberate.
-
-I remained still.
-
-Three more seconds.
-
-Nothing.
-
-I looked toward the stairs.
-
-There were no stairs.
-
-I could go down only by the cellar hatch beneath the front mat, which I had not seen when I entered.
-
-I did not.
-
-I had no reason to believe that whatever was beneath the floor wanted me to investigate.
-
-That was enough.
-
-I stood.
-
-Before leaving, I looked at the stopped clock again.
-
-00:00.
-
-I did not know whether that meant anything.
-
-So I wrote:
-
-Clock stopped at 00:00. Three sounds heard beneath floor. Source unknown.
-
-I left the house.
-
-I closed the door behind me.
-
-The cold air outside felt warmer than the interior.
-
-I returned to the eastern marker the following morning.
-
-The crack had changed.
-
-Only slightly.
-
-But enough.
-
-It had extended another inch.
-
-I measured it.
-
-Then checked the second marker.
-
-Its crack had widened as well.
-
-I stood between the two stones.
-
-The gear was in my coat.
-
-I did not take it out.
-
-I wanted to know whether I had begun to expect something from it.
-
-Expectation was dangerous.
-
-It could make a person interpret everything as confirmation.
-
-So I stood with my hand on it, inside my coat, and walked away from the markers.
-
-Nothing.
-
-I stopped.
-
-Waited.
-
-Then returned.
-
-Nothing.
-
-I repeated the process twice.
-
-The result remained consistent, and it was the same result as at the first stone, and at the second, and in my own room in January.
-
-I could no longer pretend I was testing anything.
-
-I was carrying a cold piece of iron between two stones that were cracking on their own.
-
-That was the finding. It was not the one I had wanted.
-
-I returned home and compared the notes.
-
-First stone.
-
-Second stone.
-
-The house.
-
-The clock.
-
-The sounds beneath the floor.
-
-Nothing connected them conclusively.
-
-Yet the timing bothered me.
-
-I drew a line between the dates.
-
-The first crack.
-
-The second crack.
-
-The appearance of the house.
-
-I stared at the page.
-
-Then turned it around.
-
-Sometimes patterns became easier to see when you stopped looking for them.
-
-Nothing changed.
-
-I wrote one sentence.
-
-Something is changing around the old boundary.
-
-I paused.
-
-Then added:
-
-I do not yet know whether the boundary itself is changing.
-
-That distinction mattered.
-
-The third stone cracked four days later.
-
-This one was different.
-
-The fracture appeared across the entire front face.
-
-It had not broken apart.
-
-But the stone looked as though something inside it had pulled against the surface.
-
-I crouched beside it.
-
-There was no fresh soil.
-
-No footprints.
-
-No tool marks.
-
-I took out the gear.
-
-I did it out of habit by now, and I knew it.
-
-I held it beside the fracture.
-
-Nothing.
-
-I moved it away.
-
-Nothing.
-
-I brought it back.
-
-Nothing.
-
-I put the gear on the ground.
-
-The stone remained silent.
-
-The gear lay in the grass beside it, dark and heavy and entirely inert.
-
-I waited.
-
-Nothing.
-
-I picked it up.
-
-Nothing.
-
-I stared at it.
-
-For the first time, I wondered whether I had been holding the wrong question all spring — whether the gear had nothing to do with the stones at all, and I had put it into every observation simply because it was the strangest thing I owned.
-
-I wrote that possibility down.
-
-Then the second: that the stones were changing for a reason that had no object in it anywhere.
-
-Then a third.
-
-Unknown common cause.
-
-That was the only one I could defend.
-
-I looked along the old boundary.
-
-The stones disappeared into the distance.
-
-Some were hidden by walls.
-
-Others by vegetation.
-
-I had counted four before.
-
-Now I wondered how many there had originally been.
-
-That question led to another.
-
-If three had changed, what about the others?
-
-I did not have the answer.
-
-Not yet.
-
-That night I returned to the common.
-
-The shape was gone.
-
-Only the flattened grass remained.
-
-I stood where the doorway should have been.
-
-Nothing.
-
-No foundation.
-
-No footprints.
-
-No sign that anyone had lived there.
-
-I took out my notebook.
-
-I read the previous entry.
-
-Shape present.
-
-Then:
-
-Shape absent.
-
-The two statements sat beside each other.
-
-Neither explained the other.
-
-I looked toward the trees.
-
-The road was empty.
-
-For a moment I thought I heard the same three knocks.
-
-I waited.
-
-Nothing came.
+The mistake had been made by people who had copied the account without turning the page.
 
 I almost laughed.
 
-Then I remembered that the sound had been real.
+The clerk looked at me.
 
-At least, I believed it had been.
+"Something amusing?"
 
-That was the problem.
+"No. Something instructive."
 
-Belief was beginning to become another variable.
+"Those are not always the same."
+
+"No."
+
+I closed the book.
+
+"What happens to copies that are wrong?"
+
+"They become records."
+
+"And then?"
+
+"They are copied again."
+
+That answer was more troubling than the original error.
+
+A mistake could survive because it was copied faithfully.
+
+I thought of the Agreement.
+
+A changed phrase did not need a secret society.
+
+It needed only a hand, a pen, and someone who believed the copy was correct.
+
+But the fact that a harmless mechanism could explain one alteration did not explain the others.
+
+That distinction mattered.
+
+I thanked the clerk.
+
+Outside, I found Eleanor Shaw waiting near the corner.
+
+She had a small parcel under one arm.
+
+"You have been here again."
+
+"Yes."
+
+"You look disappointed."
+
+"I found an ordinary explanation."
+
+"Those are useful."
+
+"They are also unsatisfying."
+
+She smiled.
+
+"That is because you want the explanation to be important."
+
+"I want it to be true."
+
+"Better."
+
+We walked together for a short distance.
+
+"Do you believe the Agreement was altered deliberately?" I asked.
+
+"I believe copies differ."
+
+"That is not an answer."
+
+"It is the answer I can defend."
+
+I looked at her.
+
+She continued walking.
+
+"You have started to understand the difference between a question and a claim. Do not lose it because you want the story to become interesting."
+
+"I thought the story was already interesting."
+
+"It is."
+
+"Then why warn me?"
+
+"Because interesting stories make people careless."
+
+We stopped at the crossing.
+
+She turned toward another street.
+
+"One more thing."
+
+I waited.
+
+"The Order does not require you to believe it exists."
+
+"Why not?"
+
+"Because it existed before you believed in it."
+
+She left before I could ask what she meant.
+
+I watched her disappear into the crowd.
+
+I did not follow.
+
+
+The parish officer returned that afternoon to collect the corrected account.
+
+He looked embarrassed.
+
+"I accused them of lying."
+
+"You were wrong."
+
+"I know."
+
+"The important thing is that you know now."
+
+He nodded.
+
+"Will the report say I was wrong?"
+
+"Yes."
+
+He sighed.
+
+I understood then why people disliked records.
+
+A record did not care whether a man regretted what he had said.
+
+It preserved the sentence anyway.
+
+I gave him the corrected copy.
+
+He took it carefully.
+
+"Will you keep the old one?"
+
+"Yes."
+
+"Why?"
+
+"Because it existed."
+
+He looked at me as though I had answered a question he had not asked.
+
+Then he left.
+
+I returned to my desk.
+
+There was something almost cruel about accurate records.
+
+They did not permit the past to become kinder than it had been.
+
+That evening I told Vale about it.
+
+He listened.
+
+"Good," he said.
+
+"Good?"
+
+"Now you understand why people alter records."
+
+I looked at him.
+
+"Sometimes because they are dishonest."
+
+"Sometimes."
+
+"Sometimes because they are mistaken."
+
+"Often."
+
+"And sometimes?"
+
+"Because they cannot bear what the record says."
+
+He picked up his cup.
+
+"Those are the dangerous ones."
+
+
+
+That evening I wrote:
+
+*The parish account was wrong because a copyist failed to continue a charge onto the next page. This is a mundane explanation for one discrepancy. It does not explain the differences in the Agreement. The two questions must remain separate.*
 
 I closed the notebook.
 
-On the way home, I decided to make one rule.
+It was becoming easier to leave a question unfinished.
 
-Until I had evidence strong enough to survive another explanation, I would describe what happened—not what I thought it meant.
+I was not sure whether that was patience or discipline.
 
-The stone had cracked.
+Perhaps, in practice, they were the same.
 
-Three stones had cracked.
+Before leaving, I asked the clerk whether the altered Agreement had ever caused a dispute.
 
-The gear had done nothing.
+"Not that I know."
 
-The house had appeared.
+"Surely someone noticed."
 
-The house had disappeared.
+"People notice words when the words concern money."
 
-Something had struck the floor three times.
+"And when they concern responsibility?"
 
-Those were facts.
+He closed the ledger.
 
-Everything else was a question.
+"Then people tend to remember only the part that benefits them."
 
-And for now, questions were safer.
+I thought of the two versions.
+
+"Could the difference have mattered?"
+
+"Anything written long enough ago can matter."
+
+He returned the book to the shelf.
+
+"That is why we keep it."
+
+I left without asking what "it" meant.
+
+The record?
+
+The agreement?
+
+The uncertainty?
+
+Perhaps all three.
+
+The clerk's last remark followed me home.
+
+It was easy to preserve a document.
+
+It was harder to preserve the circumstances around it.
+
+I wrote that down too.
+
+I wrote the date beside the note, then closed the book.
+
+The distinction stayed with me. I kept the copy.
+
+The paper felt heavier than it should have.

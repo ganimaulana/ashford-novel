@@ -1,72 +1,63 @@
-# Chapter 34 — The Wardens’ Word
+# Chapter 34 — The Rate and the Record
 
-The fifth day of the year was the last day of the season, because the season's true end is the sixth, and the town went about the fifth with the look of a body making ready to put a thing down, and the putting down was the greens, and the greens were the church's, and the church would put them down on the morrow, and the town knew it, and the knowing was the day's keeping, and the keeping was kept.
+Thursday came in with a sky like iron and a wind that cut through the lane, and I went to the pump in the morning with the name Hodge still in my mind and the weight of the clerk's words still on my shoulders. The women were at the pump with their shawls and their talk, and they spoke of the price of coal and the weight of the snow on the church roof and the date of the Christmas service. I heard no mention of Hodge. I heard no mention of the stranger. The town had taken in the news of the week and was letting it go, and I was the only man in the lane who still carried it.
 
-The lamp burned at nine on the Sunday night, and was carried away along the rooms, and no sound came, and I set it down as the thirtieth reading, and let it stand. And the sound did not come in the night, and the alternation stood, and the house kept its hour through the season's last night as it had kept it through the season, and the keeping was the thing, and the thing stood.
+I went home and sat at the desk with the fire low, and I did not take out the book, because I had written enough the night before. I sat with the cold at the window and the name Hodge in my mind, and I thought of what the clerk had said: that the index said the entries were there, but that he could not prove they ever had been. I did not know whether that meant the records had been moved, or altered, or never written at all. I knew only that the discrepancy existed, and that it was not a small one.
 
-I had carried the verger's telling of the vestry two days in my pocket, and the carrying had done what carrying does, which is make the thing carried part of the body that carries it, and I knew it now the way a man knows what has been in his pocket, and the knowing was the thing I sat down to on the Monday morning, with the fire not well lit and the book open, and the question of it was the question the clerk's own word had put there: the books are not shown without the wardens' word.
+I was still sitting when the knock came.
 
-The wardens' word. The parish has two wardens, because that is the law of it — one chosen by the parish and one given by the rector — and the two stand together over the parish's goods and the parish's books, and the word of either is the word the clerk waits for, and I did not know the names of them, because I had come to the town in the year's back end, and the wardens are chosen at Easter, and the choosing had been done before I was on the lane, and the town had not told me, because the town tells what it wants told, and the wardens had not been what it wanted told.
+It was the verger's boy, the one who had brought the message on Tuesday, and he stood at the door with his hat in his hand and the cold on his face.
 
-I went to Margaret's for the bread, because Margaret's is the place the town says what it knows, and the saying of it is the bread's companion, and a man gets both together or neither.
+"If you please, sir," he said, "the verger said I was to tell you that the clerk has sent for you. He is at the vestry, and he has a paper he would show you."
 
-"Who are the wardens this year," I said, with the money on the counter.
-
-Margaret set the loaf down and looked at me the look that measures what a question is worth before it answers, and the measuring took the time it takes, and then she said, "There's two, as there's always two. Farmer Goding is the parish's man, chosen at Easter, and he's been in and out of it these twenty years, because the parish chooses who it knows, and it knows Goding. And Mr. Hare is the rector's man, and he's the draper at the corner of the Market Square, and the rector gives the draper because the draper is the man the rector has tea with. That's the two of them, and the two of them are the wardens' word, if it's the word you want."
-
-"It's the word the clerk waits for," I said.
-
-"Then you'll want Goding," said Margaret. "The draper will give his word to the rector, and the rector will give it to whoever the rector gives it to, and the chain of it goes up and comes down, and nobody's the wiser. But Goding is the parish's own, and the parish's own word is the word that stands. Goding's at the market on the sixth, because the sixth is a market day, and a farmer is at the market whether it's a feast or not, and the feast is the thing Goding makes his market round."
-
-I paid the price, which had the rate in it still, and went out with the bread and the names, and the names were Farmer Goding and Mr. Hare the draper, and the one I wanted was Goding, and Goding was at the market on the morrow, and the morrow was the sixth, and the sixth was the season's end, and the season's end was the market day, and the town keeps its feasts and its markets together because the two are the town's one body. The weight of the loaf in my pocket was lighter than it had been a month ago, and the price heavier. I had begun to count the days between purchases.
+I took my coat and went.
 
 ---
 
-The sixth came in cold and clear, and the town kept it the way the town keeps such days, which is with the church dressed and the market full and the whole of it going, and I went into the middle of it by ten of the clock, because the market is at its middle then, and the middle is where a farmer stands with his cart and his produce and his word.
+The vestry was cold, and the clerk stood at the press with a volume open before him, and he did not look up when I came in. He stood with his hand on the page, and the light from the window fell on the old paper, and I saw that the book was not the one I had looked at the day before. It was a newer volume, bound in calf, and it had the look of a book that had been opened often.
 
-The market is in the square, and the square has its stone cross at the middle, and the farmers stand about the cross with their carts, and the town goes about the carts, and the going is the market, and I went with the going till I came to a cart that had a man at it that stood like a man who had stood at that cart every market day these twenty years, and the standing was the standing of the parish's own, and I knew it for Goding before I asked, because a town marks its own men the way it marks its own houses, and the marking is in the standing.
+"You came," he said.
 
-He was a thick man of perhaps sixty, with a face made red by the weather and a coat made for the cart and not for the feast, and he was selling turnips and speaking to a woman about the price of them, and the speaking was the speaking of a man that has spoken the same words at the same cross ten thousand times, and the words were the market's, and the market kept them.
+"You sent for me."
 
-I waited till the woman went away with her turnips, and then I stood at the cart, and Goding looked at me the way a farmer looks at a man that is not buying, which is with the patience of a body that has time.
+"I did." He turned the book toward me and pointed to an entry near the bottom of the page. "I have been looking at the rate books," he said. "The rate is the thing the parish keeps most carefully, because the rate is the thing that pays for the church and the poor and the roads. The rate books are the most complete records we have. They are not kept in the same press as the older books. They are kept in this press, because they are used more often."
 
-"Mr. Goding," I said.
+I looked at the entry. It was a list of names and sums, written in a careful hand, and at the bottom of the page, in a margin, there was a note in a different ink: *Hodge, E. — property on Bellweather Lane — rate unpaid since 1804.*
 
-"That's the name," said Goding. "Though I'd sooner sell to a man that knows it than to one that has to ask it. You're the gentleman of Bellweather Lane."
+"The rate is unpaid," I said.
 
-"I am."
+"The rate is unpaid," said the clerk. "It has been unpaid for twelve years. The property is not occupied, so far as the parish knows. The rate cannot be collected, because the rate is attached to the occupant, and the occupant is not named in any current record. The property is not listed in the current rate book as an assessable holding. It is, in effect, a hole in the rate. A property that pays no rate, because the parish does not know who owns it, or who occupies it, or whether it is even there."
 
-"Then you'll not be wanting turnips," said Goding, "and the market's for turnips. So say the thing you came to say, and I'll hear it, because the hearing's free and the turnips are not."
+I looked at the entry again. *Hodge, E. — property on Bellweather Lane.* I thought of the house at the end of the lane, the one that had no number, the one that Foster had asked about, the one that kept its rosemary in the winter and its lamp at night. I thought of the name Hodge in the indexes, and the pages that did not match, and the record that had been moved.
 
-"I came about the parish books," I said. "I am on the watch roll, and there is a thing of the bell that wants a looking-at in the old books. The clerk said the books are not shown without the wardens' word."
+"Has anyone ever tried to collect this rate?" I said.
 
-Goding stood with his hand on the side of the cart, and the hand stayed there, and the staying was the thinking, and the thinking took the time a farmer's thinking takes, which is the time the weather takes, and then he said, "The clerk said true. The books are the parish's, and the wardens stand over them, and the word is ours to give or keep. What's the thing of the bell?"
+The clerk hesitated. "I have been here eight years," he said. "The entry was already old when I came. My father knew of it. He told me once that the property had been a matter of question for years, and that the parish had agreed, some time before my father's time, to leave it alone. He did not say why. He said only that the parish had agreed."
 
-"The bell that was sold in the year nine," I said. "The money is in the reckoning, and the bell is not anywhere the reckoning says. I asked at the vestry for the entry of it, and was shown the entry, and the entry is plain, and the plainness is the thing that wants the looking-at."
+"And the Tuesday stranger?"
 
-"You were shown the entry," said Goding. "Then the entry is not what wants the word. The entry is in the reckoning, and the reckoning is shown to any householder that asks it. What's behind the entry is the old books, and the old books are not shown to any householder, and the difference is the wardens' keeping. You want the old books."
+The clerk's face did not change. "He did not ask about the rate. He asked about the records, and about Hodge, and about the margins. He did not ask about the property. I did not tell him about the rate. I thought it was not relevant."
 
-"I want to know where the bell went," I said.
+"Was it not?"
 
-Goding looked at me then, and the look was not the look of the market, and it was not the look of the turnips, and it was the look of a man that has been warden twenty years and knows what a town keeps, and the knowing was in the look, and the look was in me.
+He looked at me then, and I saw him measure the question.
 
-"The bell was sold," said Goding. "I was not warden in the year nine, but I was in the parish in the year nine, and the parish sold the bell, and the selling was done by them that had the doing of it, and the doing of it is not my doing, and the saying of that is the most of what I'll say at a market cross. Come to me at the farm on the Thursday, if the thing stands in you still, and bring the entry with you, and I'll look at the entry, and the looking may bring the word, and the word may not bring the books, and the two mayings are the most a man can have of a January. That's Goding's word, and it stands."
+"I do not know," he said. "I have been looking at the rate books since you left yesterday. I have found the name Hodge in three of them, in the same context: an unpaid rate, attached to a property on Bellweather Lane, with no occupant named, and no payment recorded. The entry appears in the indexes, but the indexes do not agree on the year, or the amount, or the property description. There is no single record that tells the whole story. The name appears, and the name says something, but it does not say the same thing twice."
 
-I thanked him, and he turned back to the turnips, and the market went on with the going of it, and I came away from the cross with the Thursday given me, and the giving was the thing, and the thing was more than the clerk had given, and more than the vestry had given, and the moreness was the parish's own word coming round, and I carried it home.
+He closed the book and put it back on the shelf, and he turned to face me.
+
+"I do not know who owns the property," he said. "I do not know who occupies it. I do not know whether it exists in the way the town says it does, or whether it exists in the way the records say it does. I know only that there is a hole in the rate, and that the hole has been there for twelve years, and that no one has filled it. I thought you should know, because you were the one who asked about Hodge, and because a hole in the rate is a thing that someone may one day decide to fill."
+
+I thanked him and went out. The verger was at the door, and he did not ask what I had found, and I did not tell him. I walked past him into the lane, the cold air hitting my face like a question. The frost had thickened on the cobbles, and my breath hung in the air as I walked.
 
 ---
 
-I went by the Market Square on the way home, because the square is the way from the market, and the corner of the square has the draper's shop, and the draper is Mr. Hare, and Mr. Hare is the rector's warden, and I had not come to the draper's about anything, and yet the shop stood there, and the standing of it was the standing of the other word, and I looked at it as I went by.
+I walked home through the cold, and the frost was still on the lane, and I carried the weight of what I had heard. The name Hodge was not only in the indexes. It was in the rate books, attached to a property on Bellweather Lane, with an unpaid rate that had been left untouched for twelve years. The property was not listed in the current rate book as an assessable holding. It was, in the clerk's words, a hole in the rate.
 
-The shop had the look of a shop that has tea with the rector, which is the look of cloth and quiet, and the window had the cloth in it, and the door had the bell over it that shops keep, and the bell rang when a body went in, and a body went in while I stood, and the bell rang, and the ringing of it was the little bell of trade, and I heard it, and understood that the town has its bells that ring and the one bell that does not, and the difference is the thing this town keeps, and the keeping is the thing.
+I sat at the desk and took out the book, and I wrote:
 
-I did not go in. The rector's word goes up and comes down, and I had Goding's word for the Thursday, and the Thursday was the parish's own, and the parish's own was enough for one day, and I went home by the square and the lane, and the lane stood in its cold, and the house stood at the end of it, and the house kept itself, and I kept my own house, and the two keepings stood side by side as they stand.
+*The rate books show an unpaid rate attached to a property on Bellweather Lane, in the name of Hodge, E. The rate has been unpaid since 1804. The property is not listed in the current rate book as an assessable holding. The parish has agreed, for some years, to leave the matter alone. The clerk does not know who owns the property, or who occupies it, or whether it exists in the way the town says it does. The name Hodge appears in the rate books, but the indexes do not agree on the year, the amount, or the property description. The records are not consistent. I do not know whether the inconsistency is the result of moving, altering, or misindexing. I know only that there is a property that pays no rate, and that the town has agreed not to ask why.*
 
-The lamp burned at nine on the sixth, and was carried away along the rooms, and no sound came, and I set it down as the thirty-first reading, and understood that the season had ended and the readings had not, because the readings are not the season's and the season is not the readings', and the house keeps its hour through the seasons the way the church keeps its greens through the feast, and the keeping is the thing, and the thing is the house's, and the house keeps it.
+I shut the book and sat with the fire low, and I thought of the house at the end of the lane, and the rosemary in the pot, and the lamp that came up at nine, and the name Hodge in the margins and the rate books and the indexes. I did not know whether the house was the property that paid no rate. I did not know whether Hodge was the occupant, the owner, the keeper, or the keeper of the record. I knew only that there was a hole in the rate, and that the hole had been there for twelve years, and that no one had filled it.
 
-I wrote the day down:
-
-*6 Jan. The season ends. The wardens are Farmer Goding of the parish and Mr. Hare the draper of the rector. Goding heard me at the market cross, and gave me the Thursday at the farm, and the bringing of the entry is the condition, and the looking at the entry may bring the word, and the word may not bring the books. The draper's door has a bell that rings, and the church's bell does not ring, and the two bells are the town's two bells, and I do not know yet where the third is. The Thursday is given. The keeping stands.*
-
-I shut the book, and let the fire burn, and the sound did not come in the night, and the alternation stood, and the season was done with, and the year stood in its first week with the Thursday in it, and the Thursday was the thing I slept on, and I slept on it well, because a thing given is a thing kept, and the keeping is the sleep's companion, and the two stand together in a man that has done his day.
-</content>
+I went to bed with that, and the cold at the pane, knowing that the missing records were more than a curiosity of old paper. They marked a gap in the town's account of the property.

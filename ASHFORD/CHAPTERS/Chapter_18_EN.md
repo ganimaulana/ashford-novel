@@ -1,86 +1,855 @@
-﻿# Chapter 18 — The Double Absence
+﻿Chapter 18 — A Name in the Margin
 
-The lamp burned at nine on Tuesday night, steady, at its old height, and was carried away along the rooms in the old way, and no sound came along the lane; and I set it down as the rule held, and went to bed with the rule holding, which is a thing a man does not know he is grateful for until the rule stops holding.
+The bell did not sound again.
 
-It stopped on Wednesday.
+I waited for it anyway.
 
-The lamp did not come at nine, and the sound did not come at any hour, and I sat with the book open until the candle had burned to the dish, and the lane lay black from end to end, and for the first time since I had come to the town the house at the end of it gave no sign at all. Neither light nor sound. Neither hand. The rosemary stood in its window in the dark, and the dark was the town's dark, and I could not say whether the house was keeping itself or whether it was empty, and that is the thing I had come to the town to say, and I could not say it.
+After several minutes, I went to bed.
 
-I set down the pen and wrote what a man writes when the rule breaks:
+I slept badly.
 
-*4 Dec. Neither. The alternation held three nights and broke on the fourth. Three readings: the lamp is put out, the bell is put out, or the house is left. I do not know which. A man that has watched a house three weeks knows this much of it, that the not knowing is the house's own doing, because the house has taught him to read it, and now the house has taken the book away.*
+Not because of the bell.
 
----
+Because of the sentence Arthur's visitor had left behind.
 
-## Thursday, 5 December
+Be careful what you inherit.
 
-In the morning I went out by the church road, because a man that has watched all night has a right to walk by day, and because the town reads a man by his morning face, and I would have it read that I had slept, and it was necessary that the town should read it wrongly.
+It was the sort of warning that could mean anything.
 
-The bench man was at the town hall. I knew it because the clerk's boy was at the town hall door with a message, and the clerk's boy is the sort of evidence the town accepts, and because the clerk himself came out of the east end of the building with the face of a man that has been asked things by everyone that comes to the door, and that is a face I had seen before, at another door.
+That made it useful to a man who wanted to frighten someone without explaining why.
 
-I went on to Arthur's, because Arthur keeps a shop and a shop keeps hours, and because I had not told Arthur of the churchwardens' reckoning, and a thing that is not told is a thing that may be told at the hour when the telling is wanted.
+By morning, I had decided not to think about it.
 
-He was behind the counter with the book about Alderwick that I had returned, and he did not look up from it when I came in, in the manner of a man that has heard the door open and has decided who it is by the opening.
+That decision lasted until Daniel arrived.
 
-"I have been to the vestry," I said.
+He was carrying a book.
 
-"Then you have seen the reckoning."
+Again.
 
-"I have seen the reckoning."
+“You have a problem,” I said.
 
-"And you have come to tell me what you saw, because you cannot keep it, and because you have learned that a thing kept is a thing carried alone, and you are not yet the man that carries alone. Sit down, Mr. Ashcroft. Tell it as it stands."
+“With books?”
 
-I told it as it stood: the bell sold to Crane in the year nine for four pounds ten shillings, entered by Wren the elder; the money carried to the general account and the bell removed from the tower inventory; the clerk's doctrine that the reckoning records what was sold and not what became of it; and Hodge's second ring, laid by where it would be found when it was wanted.
+“With bringing them here.”
 
-Arthur heard it with his hand still on the book, and when I had done he said, "You have told it as it stands, and I will tell you how it lies. The reckoning is the wardens' book, and the wardens change every year, and the clerk does not change, and the book is written by the clerk; so that the reckoning is the clerk's book in the wardens' name, as the town is the town's town in the bench's name. You have seen the money entered and the bell not entered; and you have not yet asked yourself the question that the entry answers, which is: what is it that a man enters, that he is not asked about, and does not enter, that he will be asked about?"
+“You keep reading them.”
 
-"The destination."
+“That is not an invitation.”
 
-"The destination," said Arthur. "My father kept this shop, and my father's rule was that a thing is safe when it is in the book, and a thing is safest when it is in the book in such a way that no man will read it twice. The money is in the book, so that any man may read it and be answered; the bell is not in the book, so that no man may read it and be asked. The reckoning is not a hiding, Mr. Ashcroft. It is a telling, in the only way a clerk can tell, that the thing is not there to be told of."
+“It is when you don't lock the door.”
 
-"There is a man from the bench in the town," I said.
+I looked at him.
 
-Arthur looked up then, and it was not a look of surprise, but the look of a man that has heard a thing he was expecting in the voice he was not expecting it in.
+He smiled and put the book down.
 
-"There is," he said. "He has been at the town hall with the clerk, and he will be at the shop before the week is out, because a man that has been at the town hall comes next to the shops, and the shops are where the town is. What does he want."
+“I found something.”
 
-"The rates that come by hand."
+“You always do.”
 
-"Then he will be at this shop," said Arthur, "and I will tell him what I tell every man that asks about the letters: that this shop sells books and buys books, and that the letters of this shop come by the post and pay the duty, because a shop that lives by the post must live by the law of the post. That is true, and it is the whole of what I will tell him, and it is not what you came to hear."
+“This time it is actually interesting.”
 
-"It is not."
+“That is what you said yesterday.”
 
-"Then hear this instead," said Arthur, and he took his hand from the book, and laid it flat on the counter, in the way of a man setting down a thing that has been carried a long way. "The man from the bench will ask about the letters, and he will be answered about the letters, and he will go back to the bench with the answer about the letters; and the bench will do what the bench does with an answer, which is to write; and the writing will want a name, because a writing always wants a name; and the name it will want is not the name of the letter, because the letter has no name, and it is not the name of the boy, because the boy is a boy, and it is the name of the man that has been asking about the letter. You are on the watch, Mr. Ashcroft, and the watch is the bench's name in this town, and a man that asks about the letters from within the watch asks them twice — once of the town, and once of the bench. I told you in the first week to keep my book and my keys. I tell you now to keep your name."
+“This is different.”
 
-I went out with that, and carried it home the way a man carries a thing he cannot put down, and the lane lay in its December noon, and the house stood at the end of it with its window open and its rosemary in the pot, keeping itself by the day the way it had been taught.
+He opened the book.
 
----
+It was a collection of parish correspondence from the previous century.
 
-In the afternoon the verger came to my door with his lantern at his side, though it was day, because the verger carries the lantern the way a soldier carries his arm, and a thing carried is a thing ready.
+Several pages had been marked.
 
-"The round is Saturday," he said, "and I came to tell you the round, because you are new to it, and because there is a thing in the round that is not in the orders."
+“What am I looking at?”
 
-"Tell it."
+“A name.”
 
-"The orders say the lane from your door to the mill-yard gate," said the verger. "And the round goes past the church, because the church is at the corner of the lane, and a round that did not go past the church would be a round that had left the town out of it. And at the church there is the tower door, and the tower door has been locked these eleven years with two keys, mine and the clerk's, and the clerk has been at the town hall this week with the man from the bench."
+He pointed.
 
-"I hear it."
+Ashcroft.
 
-"Then hear the rest," said the verger. "The man from the bench has asked the clerk about the tower, because the tower is part of the church, and the church is part of the rates, and the rates are what the bench is come about; and the clerk has given him the key, because a clerk that is asked at the town hall gives what is asked, and the key is a thing that may be given and given back. The man from the bench has the clerk's key of the tower tonight, Mr. Ashcroft. I have mine. And the round goes past the church on Saturday, and I thought it right you should know what the round will go past."
+I did not touch the page.
 
-"Does he go up the tower."
+“Where?”
 
-"He will go up the tower," said the verger, "because a man that has a key goes up where the key opens, and because there is nothing in the tower but the wheel that swings and the rope that is gone, and a man from the bench will see that, and will write that, and will go back to the bench with the writing; and the writing will say that the bell is not in the tower, and the town has said that these eleven years, and it is in the writing now."
+“In the margin.”
 
-He took up his lantern, though it was day, and stood a moment at the door with the face of a man that has said the thing he came to say, and does not yet know what to do with his hands now that the saying is done.
+I leaned closer.
 
-"There is one thing more," he said, "and it is the thing that is not the round. Hodge's second ring was never given up, and there is no third key in the clerk's knowledge nor in mine; and a door that is locked with two keys is a door that any man may open that has either, and a door that any man may open is a door that stands open in the keeping of two men. I have kept my key these eleven years, and I have never gone up the tower at night, and I will not begin now. I tell you, because you are the watch, and because a man that tells the watch has told the town."
+The name had been written in faded ink beside an entry concerning land.
 
-He went down the lane with his lantern at his side, and I stood at the door, and I understood that the round on Saturday would go past a tower that had been opened this week by a man from the bench, and that the tower was empty in the way the town had agreed it was empty, and that the emptiness was now in the writing, and that the writing wanted a name.
+No first name.
 
-I went in and wrote in my book:
+No explanation.
 
-*5 Dec. The clerk's key of the tower is with the man from the bench; the bench has seen, or will see, that the bell is not in the tower; the town's agreement is now the bench's paper. The round goes past the church on Saturday. Hodge's second ring: never given up, in no man's knowledge. There are two keys told of, and one ring laid by, and the door stands open to two men, and to a third that has not been seen. I am on the watch, and the watch goes past the church, and I do not know yet whether the round is mine or whether I am the round's.*
+Just:
 
-I set down the pen and looked back over the week's notes. The cold had come four times, each after I had handled the bell or the compass. The forgetfulness—the moments when I could not recall what I had meant to do—had come on the same days. I had not made the connection until now. It was not the season. It was the objects themselves.
-</content>
+Ashcroft — enquire again.
+
+Beneath it was another note.
+
+Not through the parish.
+
+Daniel looked at me.
+
+“What does that mean?”
+
+“I don't know.”
+
+“You're becoming very consistent.”
+
+“That is the goal.”
+
+He turned the page.
+
+Another reference.
+
+This one older.
+
+A. Ashcroft.
+
+Then:
+
+Matter referred to London.
+
+I looked up.
+
+“When?”
+
+“1790s.”
+
+“Which matter?”
+
+“That's the problem.”
+
+The body of the letter had nothing unusual.
+
+A dispute over ownership.
+
+A request for a copy.
+
+A disagreement over a boundary.
+
+The ordinary machinery of local government.
+
+Only the margin was strange.
+
+Daniel tapped the book.
+
+“Someone kept writing the name.”
+
+“Different hands?”
+
+He checked.
+
+“Yes.”
+
+“How many?”
+
+“At least three.”
+
+“Over how many years?”
+
+“Twenty.”
+
+I sat back.
+
+“That doesn't mean the same person was being followed.”
+
+“I know.”
+
+“It could be a family name.”
+
+“I know.”
+
+“It could be several unrelated matters.”
+
+“I know.”
+
+Daniel closed the book.
+
+“You're no fun.”
+
+“You brought me an old book with a name in the margin.”
+
+“It's better than nothing.”
+
+“Yes.”
+
+He opened it again.
+
+“There's more.”
+
+The next entry was from 1803.
+
+The handwriting was different.
+
+The ink darker.
+
+A. Ashcroft requested copies of the northern survey.
+
+Daniel looked at me.
+
+“That's interesting.”
+
+“Yes.”
+
+“Why?”
+
+“The northern survey.”
+
+“The boundary.”
+
+“Yes.”
+
+“And Aurelius Ashcroft was alive then.”
+
+“Yes.”
+
+“Do you think it was him?”
+
+“I don't know.”
+
+“You could guess.”
+
+“I could.”
+
+“You won't.”
+
+“No.”
+
+Daniel sighed.
+
+“Why?”
+
+“Because once I write a guess down, I start looking for evidence that supports it.”
+
+He considered that.
+
+“That sounds dangerous.”
+
+“It is.”
+
+“Then how do you investigate?”
+
+“By trying to prove myself wrong.”
+
+Daniel smiled.
+
+“That sounds worse.”
+
+“It usually is.”
+
+I copied the reference.
+
+Then I copied the surrounding text.
+
+Not because I expected an answer.
+
+Because I had learned that context mattered more than interesting sentences.
+
+We took the book to Arthur.
+
+He was sorting several loose papers when we arrived.
+
+He looked at the volume.
+
+“Where did you find that?”
+
+“University records.”
+
+Arthur's expression changed.
+
+“Which collection?”
+
+Daniel told him.
+
+Arthur was silent.
+
+“You know it?”
+
+“I know the collection.”
+
+“Do you know the name?”
+
+He looked at me.
+
+“Yes.”
+
+“How?”
+
+“It has appeared before.”
+
+“Where?”
+
+“Here.”
+
+He tapped his shop counter.
+
+“In books.”
+
+“That doesn't tell me much.”
+
+“It isn't supposed to.”
+
+I opened the marked page.
+
+Arthur read it.
+
+His finger stopped at the margin.
+
+“Who showed you this?”
+
+“No one.”
+
+“Then why are you looking?”
+
+“Because the name keeps appearing.”
+
+Arthur closed the book.
+
+“Names do that.”
+
+“Not usually in margins.”
+
+He gave me a tired look.
+
+“Especially in margins.”
+
+Daniel leaned forward.
+
+“What was Aurelius Ashcroft like?”
+
+Arthur did not answer.
+
+I noticed.
+
+“You knew him?”
+
+“No.”
+
+“Then how do you know what he was like?”
+
+“I know what men like him leave behind.”
+
+“What does that mean?”
+
+“Paper.”
+
+He picked up one of the loose documents.
+
+“Letters. Receipts. Lists. Contracts. Notes.”
+
+He placed it down.
+
+“People imagine wealth leaves behind treasure.”
+
+“It doesn't?”
+
+“It leaves behind paperwork.”
+
+Daniel smiled.
+
+“That sounds disappointing.”
+
+“It is usually much more dangerous.”
+
+I looked at the book.
+
+“Did Aurelius collect documents?”
+
+Arthur's eyes moved to me.
+
+“Among other things.”
+
+“Why?”
+
+“Because documents tell people where things came from.”
+
+“And he cared about that?”
+
+“Apparently.”
+
+“Did he collect objects too?”
+
+“Yes.”
+
+“What sort?”
+
+Arthur hesitated.
+
+“Old things.”
+
+“That's vague.”
+
+“It is accurate.”
+
+“Artifacts?”
+
+“Sometimes.”
+
+“Supernatural ones?”
+
+Arthur looked at me for a long moment.
+
+Then he said,
+
+“Don't use a word you cannot define.”
+
+I had no answer to that.
+
+He reopened the book.
+
+“There's a reference here you haven't noticed.”
+
+He pointed toward the bottom of the page.
+
+A small mark.
+
+Three short strokes meeting at a point.
+
+I stared at it.
+
+It was almost invisible.
+
+“What is that?”
+
+“I don't know.”
+
+“You've seen it before.”
+
+“Perhaps.”
+
+“Where?”
+
+Arthur closed the book.
+
+“Not here.”
+
+Daniel and I left shortly afterward.
+
+He waited until we were halfway across Market Square.
+
+“You saw the mark.”
+
+“Yes.”
+
+“You know what it is?”
+
+“No.”
+
+“You're lying.”
+
+“No.”
+
+“You looked like you recognized it.”
+
+“I recognized that I had seen something similar.”
+
+“Where?”
+
+I thought of the stone.
+
+The old boundary marker.
+
+The strange lines.
+
+I did not tell him.
+
+Not yet.
+
+The symbol was too uncertain.
+
+A coincidence was still possible.
+
+And I had already written down a rule about coincidences.
+
+Do not turn them into explanations merely because they are convenient.
+
+Daniel stopped.
+
+“What?”
+
+I had stopped too.
+
+Across the square, a man was standing beside a lamppost.
+
+He was not looking at us.
+
+He was reading a newspaper.
+
+When he turned the page, I noticed the same dark coat I had seen on Arthur's visitor.
+
+“Do you know him?” Daniel asked.
+
+“No.”
+
+“Should we?”
+
+“No.”
+
+The man folded the newspaper.
+
+Then walked away.
+
+Daniel watched him disappear between two buildings.
+
+“Night Lantern?”
+
+“Maybe.”
+
+“Possessors?”
+
+“Maybe.”
+
+“Revolutionary Army?”
+
+“Maybe.”
+
+“You really hate certainty.”
+
+“I hate false certainty.”
+
+“That is different.”
+
+“Yes.”
+
+That afternoon, Margaret asked me to carry a sack of flour.
+
+It was heavier than it looked.
+
+Daniel laughed when I nearly dropped it.
+
+“Careful.”
+
+“I am.”
+
+“You're carrying it like a book.”
+
+“I have carried books.”
+
+“Books don't fight back.”
+
+Margaret took the sack from me.
+
+“You two are useless.”
+
+“I helped.”
+
+“You watched.”
+
+“That is a form of help.”
+
+She stared at Daniel.
+
+He stopped smiling.
+
+I carried the next sack properly.
+
+While we worked, two men entered the inn.
+
+They spoke quietly.
+
+One wore a worker's coat.
+
+The other had a narrow black hat.
+
+Neither ordered food.
+
+They asked Margaret about a room.
+
+“Not here,” she said.
+
+The worker looked disappointed.
+
+“Are you sure?”
+
+“Yes.”
+
+“Someone said—”
+
+“I don't care what someone said.”
+
+He left.
+
+The other man lingered.
+
+He looked at me.
+
+Then at Daniel.
+
+“University?”
+
+Daniel nodded.
+
+The man smiled.
+
+“Good place.”
+
+“For what?”
+
+“Learning what people want you to learn.”
+
+He left.
+
+Daniel watched him go.
+
+“Was that a threat?”
+
+“No.”
+
+“How do you know?”
+
+“Because he wanted us to think it was.”
+
+Daniel looked impressed.
+
+“How can you tell?”
+
+“I can't.”
+
+He laughed.
+
+“Then you are learning politics.”
+
+That evening, I returned to the university records.
+
+Alone.
+
+I asked to see the original correspondence.
+
+The clerk brought three folders.
+
+The first concerned land.
+
+The second concerned parish rates.
+
+The third had no proper label.
+
+I opened it.
+
+Inside were letters from several years.
+
+Most were dull.
+
+Then I found one.
+
+London.
+
+The sender's name was partially obscured by age.
+
+But the final line was clear.
+
+Mr. Ashcroft is to be informed that the matter remains under consideration.
+
+No explanation of the matter.
+
+No preceding letter.
+
+No subsequent answer.
+
+I turned the page.
+
+There was a second note.
+
+Not part of the original letter.
+
+Written later in pencil.
+
+Do not send another copy.
+
+I stared at it.
+
+The handwriting was unfamiliar.
+
+I closed the folder.
+
+For a moment I considered asking the clerk who had added the note.
+
+Then I thought of what Arthur had said.
+
+Do not trust what is missing merely because it is missing.
+
+I looked again at the folder.
+
+There were missing pages.
+
+Not torn.
+
+Removed cleanly.
+
+I did not ask.
+
+I copied the reference number.
+
+Then I closed the file.
+
+On my way home, I found Daniel waiting outside my door.
+
+“You took too long.”
+
+“You followed me?”
+
+“No.”
+
+“Then how did you know?”
+
+“You always come home this way.”
+
+He held out another sheet.
+
+“What now?”
+
+“A notice.”
+
+I read it.
+
+A public meeting.
+
+Workers.
+
+Wages.
+
+Parish authority.
+
+A discussion to be held in three days.
+
+Daniel looked excited.
+
+“You're going?”
+
+“Why?”
+
+“Because everyone will be there.”
+
+“That is exactly why I won't.”
+
+“Arthur might.”
+
+“Then ask Arthur.”
+
+“He'll tell me not to go.”
+
+“He'll be right.”
+
+Daniel folded the notice.
+
+“Something is happening.”
+
+“Yes.”
+
+“What?”
+
+“I don't know.”
+
+He smiled.
+
+“Finally.”
+
+“What?”
+
+“You don't know.”
+
+I opened my door.
+
+Daniel followed me inside.
+
+“Daniel.”
+
+“What?”
+
+“You're not staying.”
+
+“I know.”
+
+He sat anyway.
+
+I looked at him.
+
+He stood.
+
+“Fine.”
+
+At the door, he turned.
+
+“One thing.”
+
+“Yes?”
+
+“The man in the square.”
+
+“What about him?”
+
+“I asked someone about him.”
+
+“And?”
+
+“They said he tended the lamps.”
+
+I frowned.
+
+“Was he?”
+
+“I don't know.”
+
+Daniel smiled.
+
+“That's what makes it interesting.”
+
+He left.
+
+I closed the door.
+
+Then I remembered the lamp from two nights ago.
+
+The one that had turned toward Bellweather Lane.
+
+I looked at the street outside.
+
+Every lamp stood where it should.
+
+Every window was dark.
+
+Nothing moved.
+
+Still, I found myself thinking about the name Arthur had given me.
+
+The Night Lantern.
+
+Not a name people used openly.
+
+Not an organization I understood.
+
+Only another group watching Alderwick for reasons of its own.
+
+I opened my notebook.
+
+Below the other names, I wrote:
+
+The Night Lantern — watches streets.
+
+Then, after a moment:
+
+Possibly uses ordinary people who are difficult to distinguish from everyone else.
+
+I stopped.
+
+That was inference.
+
+I crossed it out.
+
+Underneath, I wrote only:
+
+A man tending the lamps was seen watching the square. Identity unconfirmed.
+
+I closed the notebook.
+
+Outside, somewhere beyond the houses, a lamp was lit.
+
+Then another.
+
+Then another.
+
+One by one, Alderwick became visible.
+
+And for the first time, I wondered whether the people who watched the town had learned the same trick as the town itself:
+
+to hide in plain sight.

@@ -189,3 +189,5 @@ I did not know what I would have done if I had found the book first. But I knew 
 I did not know whether I would have shared.
 
 But I knew the question would come again.
+
+The candidate with the book did not look back. Leon noticed how quickly the others began making assumptions about him. One thought he had cheated. Another thought he had been given the answer. Leon had no proof of either. He kept walking.

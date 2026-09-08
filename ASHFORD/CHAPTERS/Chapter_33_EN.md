@@ -1,51 +1,91 @@
-﻿# Chapter 33 — The First Week
+﻿# Chapter 33 — The Page That Was Not There
 
-The new year came in with the frost still lying, and the town gone to its first day with the quiet of a body that has slept well and does not want to rise, and I went about the morning as a man goes about the first morning of a year, which is slowly, and with the knowledge that the year is new and the town is the same, and the sameness is the thing the year stands on, and the standing is the keeping, and the keeping was kept.
+Wednesday dawned clear and cold, the frost holding the lane in a grip that did not loosen until midday. I had lain awake through the night with the name Hodge turning in my mind, and the phrase *a record that had been moved* settled itself beside it, and the two would not be separated. I had given the name to the town, and the town had returned it with an addition I had not supplied. That addition was not proof of anything. But it was a direction.
 
-The lamp burned at nine on the first night of the year, and was carried away along the rooms, and no sound came, and I set it down as the twenty-seventh reading, and wrote the year above it, because the readings go with the year, and the year had turned, and the reading stood in the new year as it had stood in the old, and the standing was the thing, and I let it stand.
+I went to the church in the morning, not for the service, but for the vestry, because the vestry is where the parish keeps its older records, and the older records are the ones that have been handled by more hands than the living can count. The verger was at the door, and he looked at me the way he looks at a man who has come to ask about something that is not spoken of often.
 
-The sound did not come in the night, and the alternation stood, and the house kept its hour in the new year as in the old, and I understood that the house did not know the year had turned, because the house kept itself and not the calendar, and the calendar is the town's, and the town keeps it, and the house has its own keeping, and the own keeping does not mark the days, and the not-marking was the house's way, and I had come to know the way.
+"The clerk is not here," he said.
 
----
+"I am not asking for the clerk," I said. "I am asking to see the parish books. The old ones. The ones that are kept in the vestry press."
 
-The second day of the year brought the town to its winter business again, because the season's true end is the sixth, and the town keeps the days between Christmas and the sixth as days that belong to neither year, and the belonging is the season's, and the season was ending, and the town let it end in its own way, which is with the green still up and the shops half-open and the streets thin, and the thinness is the season's last keeping, and the keeping was kept.
+He did not answer at once. He looked at me, and then he looked at the door behind him, and then he said: "The books are the clerk's charge, sir. I do not keep the key to the press."
 
-The lamp burned at nine on the second night, and was carried away along the rooms, and no sound came, and I set it down as the twenty-eighth reading, and let it stand.
+"Then I will wait for the clerk."
 
----
+He did not move. He stood with his hand on the door, and the cold came between us, and I did not step back.
 
-The third day was a Sunday, the first of the year, and the town went to the church in its Sunday coats, and the green was still up, because the green stays till the sixth, and the rector took his text from the place about the new thing and the old thing, and made the keeping plain, because the new thing and the old thing stand together in a town that keeps both, and the town heard it as the town hears what it knows, and the hearing was the keeping, and the keeping was the hearing, and the two were the one act.
+"He will not be back until noon," he said.
 
-I went to the service by the middle of the lane, and came by the end house on the way, and the window stood open with the frost at the sill, and the rosemary in its pot, and the glass clear behind it, and the town went by and did not see, and the not-seeing was kept, and the keeping was the town's, and the town kept it.
+"Then I will wait until noon."
 
-The verger gave me my hat at the door going out, and stood with it in his hand a moment longer than the giving wants, and I understood that the standing was the thing he had to say, and waited for the saying. The cold had come down harder since Christmas, and I could see my breath in the porch as we stood.
+He looked at me again, and I saw him make a decision. He reached into his coat and brought out a key.
 
-"He has been to the vestry," said the verger.
+"The clerk is away," he said. "But the vestry press is unlocked, and the clerk has said that any man who asks to see the old records may be shown them, if he is known to the town. I know you, Mr. Ashcroft. I will let you in for one hour. You will not take anything. You will not copy anything. You will not move anything. You will look, and you will put back what you look at, and you will not tell the clerk I let you in without him."
 
-The words stood between us in the cold of the church porch, and I let them stand a moment before I took them up, because a thing said at the church door is said in the church's way, and the church's way is the slow way, and the slow way wants the taking slow.
-
-"When," I said.
-
-"Friday. Before the dark. He came to the vestry door and asked to see the books. Not the rate book — the other books. The old ones. My clerk was in the room, and the clerk said the books are not shown without the wardens' word, and the man took it quietly, and went away, and did not come again. That is the whole of it that the clerk told me, and the clerk told me it Saturday, and I have kept it till the seeing of you, because the seeing of you is the Sunday, and the Sunday is the day the town says what it has kept."
-
-"Did he name a book?"
-
-"He asked for the books of the parish," said the verger. "The clerk says he said it as a man says it that knows there are more than one, and does not know which. The parish has its books as a house has its rooms, and the asking for the rooms is the asking for the house, and the man asked for the books of the parish."
-
-I took the hat and put it on, and the verger went back to his door, and I went out into the lane with the thing in my pocket, and the thing was this: the man had come to the parish's keeping-place, and asked for the parish's papers, and been refused by the clerk's word, and gone away quietly, and the going away quietly was the man's way, and the way was the thing, and I carried it home.
+I took the key, and I gave him my word, and he opened the door and led me to the vestry, and I stood in the cold room with the press before me, and the dust of the years settled on the shelves.
 
 ---
 
-The fourth day of the year was the Saturday, and the round was my round, and I went out at ten into the cold, and the cold had come down harder with the new year, and the lane was the lane, and I did my part of it from my door to the corner, and came by the gate at the quarter past ten, and the gate was shut, and the padlock to it, and I took that in, and went on.
+The press was tall and dark, filled with volumes bound in calf and vellum, their spines cracked and their labels faded. I found the parish registers first, but I did not want the registers. I wanted the older books, the ones that recorded the business of the parish, the accounts, the repairs, the appointments, the marginal notes that Arthur had spoken of. I pulled out a volume dated 1790–1805, heavy with use, and opened it to the index.
 
-The round was the round, and I did it three times, and the gate stood shut at all three passes, and the footprints of the last time were gone under the frost of the week, and the frost keeps what it takes, and the taking was the week's, and the week had taken the footprints, and I had them only in the book, and the book is the keeping, and the keeping was kept.
+The index was handwritten, in a small, careful hand, and the names were listed alphabetically. I ran my finger down the H's and found nothing. I tried another volume, 1805–1820, and there it was: *Hodge, E. — see entry, p. 47.*
 
-The lamp burned at nine before the round, and was carried away along the rooms, and no sound came, and I set it down as the twenty-ninth reading, and went out to the round with the reading standing, and the sound did not come through the round, and the alternation stood, and the house kept its hour through the round as through the week, and the keeping was the thing, and the thing stood.
+I turned to page 47.
 
-I came home at the quarter to twelve, and there was no paper at the door, and the door stood as I had left it, and the house stood as I had left it, and the standing was the night's gift, and I took it in, and wrote the round down:
+The page was there. The binding was intact. The numbers were continuous. But the entry on page 47 was not about Hodge. It was a list of repairs to the church roof, dated 1807, and there was no mention of any person named Hodge. I read the page twice, and then I read the page before and the page after, and I could find no place where the name Hodge could have been entered.
 
-*4 Jan. First round of the year. Gate shut at all passes. No person seen. No paper at the door. The house keeps its hour. The man came to the vestry on Friday and asked for the books of the parish, and was refused by the clerk's word, and went away quietly. The post office, the counter, the lane's doors, and now the vestry. The asking goes from place to place, and the places are the town's keeping-places, and the asking is the one asking, and I do not know yet what the answer will be, and whether the answer is in any of the places, and whether the man will find it, and whether the finding is the thing the town keeps against.*
+I looked at the index again. *Hodge, E. — see entry, p. 47.* The ink was old, the same hand as the rest of the index. It had not been added later. It had been written at the same time as the index was made.
 
-I shut the book, and let the fire burn, and went to bed with the round done and the year four days old, and the four days standing in the book as the days of the new year, and the standing was the keeping, and the keeping was kept, and I slept in it.
-</content>
+But the entry did not exist.
 
+I closed the book and pulled out the next volume, 1800–1815, and I found the same pattern: an index entry for Hodge, referencing a page, and a page that contained no Hodge. I found a third volume, and a fourth, and in each of them, the name Hodge appeared in the index, and the referenced page was missing the entry, or the entry was different, or the page had been torn out and replaced with another.
+
+I did not know whether the entries had been removed, or whether they had been moved to another volume, or whether they had never been written at all. I knew only that the index and the body of the record did not agree.
+
+I had been there perhaps three-quarters of an hour when I heard the door open. I turned, and the clerk stood in the doorway. He was a thin man, older than I had remembered, and he wore the same coat he had worn the day I had first seen him. He looked at me, and then at the open press, and then at the book in my hands.
+
+"You are not the verger," he said.
+
+"I am not."
+
+"You have his key."
+
+I did not answer.
+
+He came into the room and shut the door behind him, and the room became smaller, and the cold settled on us both.
+
+"The verger let you in," he said. "I know he has the authority to show the records to serious inquirers. I have not always agreed with his judgment, but he is careful. Still, I did not think he would do so without my presence."
+
+He walked to the press and looked at the volume I had taken, and he did not ask what I had been looking for. He looked at the book, and he looked at me, and he said: "Hodge."
+
+I did not confirm it. I did not deny it.
+
+He stood a moment with his hand on the open book, and then he spoke.
+
+"Hodge is not in that volume," he said. "He is not in any of the volumes that are in this press. The name appears in the indexes, but the entries are not here. They are elsewhere, or they are not anywhere. I have looked for them myself, and I have not found them. I do not know where they are, and I do not know who moved them. I know only that the index says they were here. Whether they ever actually were, I cannot prove."
+
+He closed the book and put it back on the shelf, and he turned to face me.
+
+"You are not the first to look," he said. "The man who came to the church on Tuesday—the one who asked about the parish records—he looked at this same volume. He asked whether there was a record of Hodge in the margins. I told him what I have told you: that the name appears in the index but the entry is not here. He did not ask further. He left."
+
+"And the record that had been moved?"
+
+The clerk's eyes did not change.
+
+"I did not tell him that any record had been moved. He asked whether there was a record of Hodge. I answered him. I did not mention the moving of records. I do not know where he heard that phrase."
+
+I looked at him, and I believed him. Or, at least, I believed that he was telling me what he knew. I did not know whether he was telling me everything.
+
+I thanked him and went out. The verger was at the door, and I gave him back his key, and he did not ask what I had found.
+
+---
+
+I walked home through the cold, and the frost was still on the lane, and I carried the weight of what I had seen. The name Hodge appeared in the indexes, but the entries did not match. The records were not in the place where the indexes said they should be. The clerk had noticed this, and the stranger had asked about it, and I did not know whether the stranger had found something I had not.
+
+I sat at the desk and took out the book, and I wrote:
+
+*The parish records show Hodge in the indexes, but the referenced entries are missing or replaced. The clerk knows this and has not resolved it. A stranger asked about Hodge on Tuesday, and the stranger mentioned a record that had been moved. The clerk says he did not mention any moved record. The stranger mentioned a moved record, although the clerk says he did not tell him that. That may mean the stranger already knew more than the clerk told him, or that the phrase came from somewhere else. I do not know whether the stranger found the record, whether he was looking for the same thing I am looking for, or whether he is the same man who asked about Foster at the inn. The verger let me in to the vestry press, with the clerk's standing permission for serious inquirers. The records are not where they should be, and I cannot tell whether the movement was deliberate or accidental.*
+
+I shut the book and sat with the fire low, and I thought of the indexes and the missing pages, and I thought of Arthur's words: *do not trust what is missing merely because it is missing.* I had not trusted it. I had looked, and I had found a discrepancy. But I had not found a solution.
+
+I went to bed with the cold at the pane and the name Hodge in my mind. Someone else was looking for the name, or for the record attached to it. I still did not know whether we were following the same trail.

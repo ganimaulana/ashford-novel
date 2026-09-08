@@ -1,67 +1,31 @@
-CHAPTER 62 — RECORDS
+# Chapter 62 — The Leather
 
-I spread the papers on the table on Tuesday morning, because the morning was for ordering things, and the ordering was the part of the work that asked nothing of me.
+The Thursday came clear and cold, the frost still white on the rooftops when I reached the lane. The air was so still that the smoke from the chimneys rose straight up, thin and grey against the pale blue sky. The lane was quiet except for the crunch of frost under my boots. The door was closed, and I knocked twice before he answered. He was already dressed, his coat buttoned to the neck, a small leather satchel over his shoulder. The satchel was worn, its surface creased and darkened with age, and the strap that held it looked thin in places.
 
-There were not many. The eight tied papers from the box. The leaf with nine lines. The clerk's ruled sheet. The service file. My notebook.
+"Good," he said. "I have a matter at the market."
 
-I set them in rows, the way a man sets out tools he is not yet sure he will use, and I sat behind them and looked at them without touching them, because the looking was the first part of the method and the touching was the second and the second required the first to be finished.
+He did not say what matter, and I did not ask. We walked down the lane together, and the sun was low and thin, the light flat against the houses. A cart rumbled past us, the driver hunched against the cold, and a woman stood in a doorway with a shawl pulled tight around her shoulders. Vale raised a hand in greeting to her, but she did not see him. He moved more slowly than I remembered—not a great slowness, not the kind that made a man stop and look back, but a carefulness, a measured step that had not been there a month ago. I matched my pace to his without thinking, and he did not comment. At the corner of the lane, he paused to adjust the satchel, shifting the weight from one shoulder to the other, and I saw the thin strap pull tight across its surface.
 
-The service file was on the left. Four lines in the clerk's hand. Name. Appointment. Reassignment with the reason left blank. Death. And at the foot, in the same hand: *See entry-book, February last.*
+The market square was half-full, the stalls set up against the cold, their canvas roofs glistening with frost that had not yet melted. We passed through them without haste. He stopped at a leather-worker's stall, a narrow table covered in straps and belts and small pouches, each piece neatly arranged. The leather-worker was a lean man with a grey beard and a leather apron, his hands stained dark with dye. Vale picked up a length of leather, a thin strip about a foot long, and held it up to the light. It was a deep brown, smooth on one side and rough on the other, and it had a smell of oak and oil that hung in the cold air.
 
-The leaf was beside it. Nine lines. Eight with marks. One with a blank margin. The clerk's hand again, the same hand that had written the file, the same hand that had written the marks on the eight papers, the same hand that had made the ruled sheet.
+"The strap on my satchel has worn through," he said. "This one will do."
 
-I looked at the postscript. I looked at the ninth line. I looked at the blank margin. The file said to see the entry-book. The entry-book said the paper had not come. The margin said it had never been marked.
+He tested it with his hands, bending it, flexing it, running his thumb along the edge. He pulled it tight and then let it spring back, and he turned it over to examine the stitching on the underside. His fingers were stiff with the cold, and I saw him struggle slightly to work the leather into a loop, pressing one end through the buckle with a concentration that seemed to cost him effort. He did not ask for help. I did not offer it. I stood beside him and waited, my hands in my pockets, watching the steam of my breath rise. The seller named a price, a few coins, and Vale reached into his coat for his purse. His hands were slower than before, the fingers fumbling with the knot of the drawstring. I did not watch him. I looked at the stall, at the other goods—a set of belt buckles, a leather-bound book, a coiled length of rope—and I heard him count out the coins and close the purse. When I looked back, he had the new strap in his pocket and the old one, a worn piece of leather with a torn end, in his hand. The old strap was cracked and faded, the edge frayed where it had rubbed against the buckle for years.
 
-The ruled sheet was folded beside the leaf. Eight lines only. The clerk had written the dates and the subjects and the marks, and he had stopped writing before the ninth line, or the sheet had ended there, or the ninth line had been there and then was not. I could not tell which. I could not tell whether he had omitted it deliberately or had simply written what he had been asked to write, and what he had been asked to write was the eight, and the eight only, and the ninth was outside his instructions.
+"I keep the old one," he said. "It is useful to have a piece of leather that has done its work. You can test the quality of a new thing by its old thing."
 
-I sat with that.
+He put it in his pocket, and we walked back through the market. The crowd was thin, the cold keeping most people indoors, and we passed the baker's and the chandler's and the house on the corner where Ferrand had lived. Vale did not look at it. He walked on, and I did not mention it. The cobbles were slick with frost, and I saw him take care with each step, choosing his footing with a deliberation that was new to me. He did not speak, and I kept my silence. A dog barked from a doorway, and a child ran past with a hoop, but Vale did not turn his head. He kept his eyes on the ground ahead, and I followed.
 
-The eight papers were on the right. I had tied them in a bundle on Monday night, after the road, after the stones, after the marks I could not explain. I had not looked at them since. I looked at them now.
+We went to the cottage, and he made tea, and the fire was already burning. He set the new strap on the table and took out the old one, laying them side by side. He compared them in silence, holding each in turn, turning them over in the firelight. The new one was stiff and dark, with a clean edge and a strong stitch. The old one was soft, pliable, its surface worn to a sheen where it had touched his shoulder. He ran his thumb along the old one's length, feeling the places where it had stretched, and I watched him do it without speaking. It was a small ritual, a habit of attention that I had seen before, and I understood that it was not about the leather—it was about knowing what you were replacing, about honoring what had served you well.
 
-I took the pencil from my pocket. I pressed the point against the ruled sheet, beside the first date, and I held it there for a moment, because the doing of that was the doing of something, and the doing of something was better than the doing of nothing.
+"The old strap was good for fifteen years," he said, holding it up to the light. "You can see where it wore thin at the buckle, where the weight of the satchel pulled on it. A good piece of leather tells you its story if you look closely." He set it down and picked up the new one. "This one will be good for fifteen more. That is what a strap does—it holds what it is meant to hold, and when it can't, you replace it. But you keep the old one for the memory of what it held."
 
-I wrote nothing.
+He put the new one on his satchel and the old one back in his pocket, and we drank the tea in the usual quiet. I did not ask why he had needed to go to the market himself, why he had not sent me, why he had not simply ordered it from the seller's boy. I did not ask. The walk mattered as much as the leather, and I had walked with him. The fire crackled, and the light through the window shifted, and I watched him turn the satchel over in his hands, testing the new strap with a gentle tug. He nodded once, as if satisfied, and set it aside. The tea had grown cold in the cups, but neither of us moved to refill them.
 
-I lifted the bundle. I untied the string. I spread the eight papers on the table, one by one, in the order they came from the bundle, and I did not arrange them. I let them lie as they had lain, because the arrangement was part of what Vale had left, and the changing of it would have been an assumption.
+When I left, the light was going, and the lane was cold, and I walked home with the feel of his pace still in my legs. I had not helped him with the coins. I had not offered to carry the satchel. I had only walked beside him, and matched my step to his, and that was the way he had taught me to be useful: by noticing what was needed and doing it without being asked.
 
-The first was June 1803. A theft at the ironmonger's. The second was September 1804. A death at the poor-house. The third was March 1805. A boundary dispute. The fourth was November 1807. A drunkard on the common. The fifth was January 1811. A woman missing for three days. The sixth was May 1812. A fight at the market. The seventh was August 1814. A fire in the yard. The eighth was February 1816. A theft from the mill.
+That evening, I wrote in my notebook:
 
-I looked at the ruled sheet. The dates agreed. The subjects agreed.
+*Vale bought a new strap for his satchel today. The old one had worn through. He tested the new one with his hands, and his hands were stiff with the cold, but he did not ask for help. I did not offer. We walked back together, and he put the old strap in his pocket. He said it was useful to have a piece of leather that had done its work.*
 
-I turned the first paper over. The back said: *Second copy. Returned 14 Sept. Original retained.*
-
-I turned the second over. The back said: *Second copy. Returned 21 Sept. Original retained.*
-
-I turned the third over. The back said: *Second copy. Returned 10 April. Original retained.*
-
-I turned the fourth over. The back said: *Second copy. Returned 18 Nov. Original retained.*
-
-I turned the fifth over. The back said: *Second copy. Returned 15 Jan. Original retained.*
-
-I turned the sixth over. The back said: *Second copy. Returned 22 May. Original retained.*
-
-I turned the seventh over. The back said: *Second copy. Returned 14 Aug. Original retained.*
-
-I turned the eighth over. The back said: *Second copy. Returned 28 Feb. Original retained.*
-
-Eight papers. Eight returns. Eight originals retained.
-
-I looked at the leaf. Eight lines with marks. Eight receipts. Eight dates that agreed with the backs of the papers. And the ninth line, with its blank margin, and the postscript that said *See entry-book, February last*, and the entry-book that said the paper had not come, and the clerk who said he would have marked it if it had come, and the shelf that was bare, and the book that was not.
-
-I sat back.
-
-I did not reach a conclusion. I did not decide that the office had lost the papers. I did not decide that Vale had taken them. I did not decide that the clerk had made a mistake. I did not decide that the February man had taken the ninth paper. I simply looked at what was in front of me and recorded it, the way a man records a thing he cannot yet explain.
-
-What I saw: eight papers with dates and subjects and marks on the back. A leaf with nine lines. Eight marks. One blank margin. A ruled sheet with eight lines. A service file with four lines and a postscript. The dates agreed. The marks agreed. The ninth line had no mark. The postscript pointed to the entry-book. The entry-book said the paper had not come.
-
-What I was told: the clerk wrote the marks. The marks meant the shelf held the paper. The shelf was bare. The February paper was not marked. The clerk said it had not come. The service file said to see the entry-book. The entry-book was the book with the nine lines. The office kept the file and the entry-book separately.
-
-What I concluded: nothing yet. The records agreed with each other on the eight papers. The records disagreed with the shelf on the eight papers. The records disagreed with themselves on the ninth paper. The file pointed to the entry-book. The entry-book pointed to a paper that was not there. The paper that was not there was the only thing that was certain.
-
-I closed the notebook.
-
-I carried the box to the table and opened it. I looked at the three bundles on the lid. I looked at the uncertain paper that had no name, lying on top of everything. I thought about the file. I thought about the leaf. I thought about the ninth line with its blank margin. I thought about the ruled sheet with its eight lines. I thought about the eight papers with their dates and their marks and their returns. I thought about the shelf that was bare. I thought about the book that was not. I thought about the clerk's hand, which had written forty years of marks. I thought about the February man, who had asked questions in the right order and had received no account. I thought about the road between the desk and the shelf, and the paper that had been sent and had not come, and the account that Vale had written and had not marked, and the account that was not there.
-
-The office kept a book. The book kept a mark. The mark kept a promise. The promise had not been kept. The book said the eight papers were in the office's hands. The shelf said they were not. The clerk said the ninth paper had never come. The constable said the February inquiry was separate. The file said Vale was constable and nothing else. The file said he was reassigned and did not say why. The file said he died in office and did not say what the office had lost. The man who had made the marks knew the marks were not the whole of the record. The man who had left the blank margin knew the margin was the only certain thing. The knowing of it was the not-knowing of it. The not-knowing was the paper that was not there.
-
-I lit the fire. I sat in the chair. I did not open the notebook again. The kettle was cold. The bowl was gone. The box was shut. The book was at the office. The marks were on the papers. The paper that was not there was not there. The office had its leaf. I had its copy. The lane was quiet. The week was not over. For now.
+I did not write what I had seen: that his hands had trembled slightly when he counted the coins, that he had paused at the top of the hill to catch his breath, that the walk had taken longer than it should have. I did not write those things because they were not mine to write. They were his, and he would not have wanted them written down. But I did write the rest—the strap, the leather, the quiet comparison—because those were the things he had shown me willingly. The fire burned low, and the wind came up, and I sat with the window closed against the cold, and I thought about the old strap in his pocket, and the new one on his satchel, and the way he had compared them in silence. It was a small thing, a piece of leather, but it was the kind of small thing that would stay with me, I knew, long after the leather had worn through again. A thing that had done its work and was still kept, not for use but for memory—that was something I had not understood before.

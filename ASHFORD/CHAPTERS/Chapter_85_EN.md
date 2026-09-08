@@ -167,3 +167,5 @@ I did not know whether the bargain had been fair. I did not know whether the doo
 I did not know whether I would trust Peale.
 
 But I knew the question would come again.
+
+For a moment Leon considered asking Peale why he knew about the Water Lane door. He decided against it. A question was not always worth the answer it invited, particularly when the other man had already shown that information was something he measured before giving it.

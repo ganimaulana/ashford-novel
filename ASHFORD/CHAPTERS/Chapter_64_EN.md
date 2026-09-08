@@ -1,53 +1,57 @@
-CHAPTER 64 — VALE'S OTHER LIFE
+# Chapter 64 — The Thursday That Did Not Come
 
-I opened the box on Thursday morning, because the morning was for opening things, and the opening was the part of the work that asked nothing of me.
+The Thursday came cold and still, the frost white on the rooftops when I left my lodgings. The air was so still that the smoke from the chimneys rose straight up, thin and grey against a sky the colour of old iron. I went up the lane without a reason beyond the walk itself—the day was ordinary, and I had no errand, no question, no piece of business. The lane was quiet except for the crunch of frost under my boots, and the hedges were white with rime, and the familiar turn at the top of the hill brought the cottage into view.
 
-The eight papers were tied in their bundle on the lid. The uncertain paper lay on top. The leaf with nine lines was on the table. The clerk's ruled sheet was folded beside it. The service file was on the left, where I had left it. My notebook was open.
+The door was closed. That was not unusual in itself—the door was often closed against the cold—but the smoke from the chimney rose thin and straight, and I stopped for a moment at the gate, looking at the windows. They were dark. The fire should have been burning by this hour, and the kettle should have been steaming, and I should have seen the glow of the flame through the glass. I did not see it.
 
-I had looked at the map once, in October, briefly, while Vale watched. I had looked at it again on Monday, searching for a mark I could not read. I had not looked at it since.
+I walked up the path and knocked twice before I pushed the door open. The latch lifted easily, and the door swung inward, and the cold air of the room met me like a wall. The fire was unlit. The ashes were grey and cold in the grate. The kettle sat on the hob, untouched, and the room had the particular stillness of a place that had not been occupied for hours.
 
-I took it from the box now.
+He was in his chair by the hearth, his hands folded on the table, his head bowed as if he had fallen asleep over his cup. The cup was still there, the chipped one, set at his place, the one he always set for me. Beside it was his own cup, empty, turned upside down on the saucer. The bread board was on the counter, the knife beside it, a loaf half-cut. The fire had been laid but not lit—the kindling and coal were in place, the matches beside the grate.
 
-The paper was soft from folding. The edges were worn. It was larger than the table. I spread it flat, weighing the corners with the two stoppered bottles, and I leaned over it because the light from the window was not good enough.
+I said his name. I said it twice. He did not answer. I crossed the room and touched his shoulder. His hand was cold. I knew then that he was gone. His skin was cold and stiff, and the stillness of his body was the stillness of a man who had been sitting in that same position for many hours. The fire had been out long enough for the room to cool, and I had no way of knowing when he had stopped.
 
-I had seen the marks before. Dozens of them. Dots and circles and crosses, in ink that had faded to different shades. A line in darker ink on the road north. I had looked for the line on Monday and had found it.
+I stood there for a long moment, my hand still on his shoulder, and the room was silent and cold and full of the things he had left: the cup, the knife on the shelf, the paper I had written for him in the press, the old satchel hanging on the hook by the door, the leather strap he had replaced only a week before. I did not know what to do first. I did not know if I was allowed to move him, or if I should cover him, or if I should call for someone. I only knew that the fire was out, and that he was not in it.
 
-I did not look for the line now.
+I went to the door and stood on the step, and the lane was empty and quiet, the frost still white on the grass. A boy passed with a cart, leading a donkey, and I called out to him and told him to find the Constable and send him to the cottage at the end of the lane. The boy looked at me with wide eyes and hurried off, and I stood in the cold and waited, my hands in my pockets, my breath rising in clouds.
 
-I looked at the whole.
+Calloway came within the hour. He came alone, walking up the lane at a steady pace, his coat buttoned to the neck, his hat low. He met me at the door and I told him what I had found. He went inside and stood by the chair for a long moment, and I stood by the window, and neither of us spoke. The room was cold, and the silence was heavy, and I watched him as he looked at the body, at the table, at the cold hearth, at the half-cut loaf on the counter.
 
-The dots and circles were scattered across the paper without the order that a man uses when he is mapping a town. They were not placed at regular intervals. They were not clustered around a center. They were spread across the page in a way that suggested they had been added one by one, over years, in places the man who added them had reason to visit.
+"Did you touch him?" he asked.
 
-I knew the map was not of Alderwick. Vale had said that himself: "Of the kind a constabulary prints and does not sell." I had accepted it then without thinking about what it meant. I thought about it now.
+"His shoulder. To see if he was cold."
 
-If the map was not of Alderwick, and if the marks had been made over many years, and if Vale had made them, then Vale had been in places he had not told me about, and the places were not Alderwick, and the years were not the eight months I had known him, and the man who had sat in the chair at the end of the lane and asked me whether I had eaten was also a man who had walked other roads and marked other boundaries and done other work in other years.
+He nodded. "Did you move anything else?"
 
-I looked at the service file on the table.
+"No."
 
-Four lines. Name. Appointment. Reassignment from elsewhere. Death. The reason left blank.
+He looked at the room again, and he did not say anything more. He had known Vale longer than I had, and I did not know what he was thinking. He reached out and touched the back of the chair, then the edge of the table, as if he were taking the measure of the room. He opened his notebook and wrote something, then closed it and put it back in his coat.
 
-"Elsewhere."
+"The doctor will be here soon," he said. "I sent a man before I came."
 
-The word was the whole of the explanation. It told me nothing. It told me everything.
+The doctor arrived a short while later, a lean man with a grey beard and a worn black bag. He examined the body with care—he checked the pulse, looked at the eyes, lifted the hands, listened to the chest with a stethoscope. He did not move the body from the chair. He stood back and shook his head.
 
-Vale had been reassigned from somewhere. The somewhere was not Alderwick. The somewhere was not the parish. The somewhere was a district that appeared on a map the constabulary printed and did not sell, marked with ink in several shades over many years, and the man who had made the marks had been doing it for a long time before he sat in the chair at the end of the lane and told me to keep a second copy.
+"It appears to be natural causes," he said. "The heart, likely, given his age. He had been sitting here as if he simply stopped—no sign of injury or struggle." He paused and looked at the room, at the cold fire, at the untouched kettle. "There is no sign of injury, no disturbance, nothing to suggest foul play. I would say he died sometime in the night."
 
-I thought about the journal. The garrison-town years. The price of bread. The disliked sergeant. The horse destroyed on a road Vale never named. The name that appeared four times and stopped. I had read those entries and thought they were the record of a soldier's youth. They were that. But they were also the beginning of the other life, the life that had continued after the soldiering ended, into intelligence work, into counter-intelligence, into investigations that had ended badly, into a reassignment that was not a promotion but a removal, into a town that had no need of him, into a door he would guard for fifty years without understanding what was behind it.
+Calloway asked a few questions—whether there was any sign of injury, whether anything had been disturbed, whether there was any reason to suspect otherwise. The doctor said no, nothing obvious, and Calloway wrote something in his small book and closed it.
 
-I did not know the details. I did not know the campaigns or the cases or the men he had worked with or the men he had distrusted. I knew only that the map showed a career that had no place in the four-line file, and that the journal showed a youth that had no place in the Alderwick constable, and that the two together made the man I had known for eight months into a man who had lived at least two other lives before he sat in the chair.
+"Thank you, Doctor," he said. "I will have the body moved to the parish house."
 
-I sat with that.
+The doctor nodded and left, and Calloway stood by the window, looking out at the lane. I stayed by the chair, my hands at my sides, and I did not say that I had been there on the Thursday before, and that he had been well enough to peel potatoes. I did not say that we had talked of the bread and the tea and the ordinary things of the house. I did not say that he had told me to come back on Thursday, and that I had come.
 
-I did not reach a conclusion. I did not decide that Vale had been a spy, or a hero, or a failure, or a man who had been punished for doing what was right. I simply looked at the map and the file and the journal and the box and understood that the man I had known was only the last version of a man who had been several other men before, and that the last version had been the one that had left me the box, and that the box was the only thing that connected all the versions, and that the connection was not a story but a silence.
+Calloway turned to me. "I will send someone to secure the cottage," he said. "The parish will need to see to his effects. You are not to take anything without the office's say-so. The law is clear—until the proper authority has dealt with his estate, no one is to remove anything from this house."
 
-I folded the map. I put it back in the box, under the bundles, where it had been. I shut the box. I set it back in the press. I closed the press door.
+"I understand," I said.
 
-The leaf lay on the table. The eight papers stood beside it. The clerk's ruled sheet was folded on top. The service file was on the left. The notebook was open.
+He looked at me as if he wanted to say something more, but he did not. He walked to the door and paused, his hand on the frame. "You should go home," he said. "There is nothing more you can do here."
 
-I wrote in the notebook: The map is not of Alderwick. The marks are in several shades over many years. The service file says reassigned from elsewhere. The journal says garrison years. The man I knew was the last version. The other versions are on the map and in the journal and in the blank reason.
+I did not move. I looked at the cold fire, the chipped cup, the half-cut loaf, the knife on the counter. I looked at the chair where he had sat, the table where he had set the tea, the hook by the door where my coat had hung every Thursday for months. The room was the same, and it was not the same. The absence of the fire, the silence of the kettle, the stillness of the chair—they had changed everything.
 
-I wrote nothing else.
+Calloway left, and I stood alone in the room for a few minutes longer. I did not take anything. I did not touch the chipped cup or the knife or the paper in the press. I closed the door behind me, and I walked down the lane without looking back, because looking back was not the habit of that house. The smoke from the chimney had stopped rising, and the sky was grey and cold, and the frost was still white on the rooftops. The lane was quiet, and the cottage had become a house.
 
-I closed the notebook.
+I walked home through the town, past the square, past the baker's shop where he had bought his bread. The shop was open, and the smell of fresh baking drifted out into the cold air, and I stopped for a moment, looking at the door, and then I walked on. I did not go in. I did not buy bread. I walked home and closed the door of my own room and sat in the chair by the window, looking out at the street.
 
-I sat in the chair. I did not open the box again. The kettle was cold. The bowl was gone. The fire was low. The lane was quiet. The week was not over. For now.
+That evening, I wrote in my notebook:
+
+*I went to the cottage today. He was dead. The fire was out. The kettle was cold. The doctor said it was natural causes. Calloway secured the house. I left without taking anything.*
+
+I did not write what I had seen: the chipped cup on the table, the knife on the shelf, the paper in the press. I closed the notebook and sat with the window open to the cold air. The fire was cold, and the kettle was silent. The lane was dark, and the wind had come up.
